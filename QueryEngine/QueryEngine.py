@@ -1,6 +1,7 @@
 import json
 import math
 import operator
+import pickle
 from collections import Counter
 import SearchUtilities
 from Preprocessor.preprocessor import (CaseConverter,
@@ -18,13 +19,24 @@ class QueryEngine:
     document_vector_lengths = dict()
     inverted_index_map = dict()
     total_documents_in_collection = 0
+    url_code_map = None
+    url_page_ranks_map = None
+    url_outgoing_links_map = None
+    url_code_map_path = r'../Computations/url_code_map.json'
+    url_page_ranks_path = r'../Computations/url_page_ranks.json'
+    inverted_index_path = r'../Computations/inverted_index.p'
+    url_outgoing_links_map_path = r'../Computations/urlmaps.txt'
 
     def __init__(self, path):
+
         self.query_path = path
-        self.queries = self.read_queries(self.query_path)
         self.document_score_map = dict()
         self.document_vector_lengths = dict()
         self.load_inverted_index()
+
+        self.url_code_map = self.load_url_code_map()
+        self.url_page_ranks = self.load_page_ranks()
+        self.url_outgoing_links_map = self.load_url_outgoing_links_map()
 
     def execute_queries(self):
         for query in self.queries:
@@ -33,7 +45,7 @@ class QueryEngine:
     def get_queries(self):
         return self.queries
 
-    def process_query(self, query):
+    def process_query(self, query, run_page_rank=False, run_hits=False):
 
         pipeline = Pipeline()
         pipeline.add_step(CaseConverter())
@@ -43,7 +55,6 @@ class QueryEngine:
         pipeline.add_step(StopWordRemoval())
         pipeline.add_step(RemovePunctuationHandler())
         pipeline.add_step(RemoveNumbersHandler())
-
         pipeline.set_initial_data(query)
         pipeline.execute()
         result = pipeline.get_result()
@@ -76,11 +87,27 @@ class QueryEngine:
 
         SearchUtilities.compute_cosine_similarity(query_vector_length,
                                                   self.document_score_map, self.document_vector_lengths)
+
         # Sort the cosine similarity values in decreasing order
         result = dict(
             sorted(self.document_score_map.items(), key=operator.itemgetter(1), reverse=True))
 
         print("Ranks ", "\n", result)
+
+        top_pages = dict()
+
+        if run_page_rank:
+            page_rank_result = SearchUtilities.get_page_rank_scores(result, self.url_page_ranks)
+            for page in page_rank_result:
+                top_pages[page] = page_rank_result[page] + result[page]
+        elif run_hits:
+            hits_result = SearchUtilities.run_hits_algorithm(result, self.url_code_map, self.url_outgoing_links_map)
+            for page in hits_result:
+                top_pages[page] = hits_result[page] + result[page]
+        else:
+            top_pages = result
+
+        return top_pages
 
     def read_queries(self, query_path):
         try:
@@ -90,9 +117,29 @@ class QueryEngine:
             raise e
 
     def load_inverted_index(self):
+        inverted_index_information = pickle.load(open(self.inverted_index_path, "rb"))
+        self.inverted_index_map = inverted_index_information['inverted_index']
+        self.total_documents_in_collection = inverted_index_information['total_docs']
+        self.document_vector_lengths = inverted_index_information["document_vector_lengths"]
 
-        with open(r'E:\IR\Project - Copy\Preprocessor\inverted_index.txt') as handle:
-            inverted_index_information = json.load(handle)
-            self.inverted_index_map = inverted_index_information['inverted_index']
-            self.total_documents_in_collection = inverted_index_information['total_docs']
-            self.document_vector_lengths = inverted_index_information["document_vector_lengths"]
+    def load_url_code_map(self):
+        url_code_map = None
+        with open(self.url_code_map_path) as handle:
+            url_code_map = json.load(handle)
+        return url_code_map
+
+    def load_page_ranks(self):
+        url_page_ranks = None
+        with open(self.url_page_ranks_path) as handle:
+            url_page_ranks = json.loads(handle.read())
+        return url_page_ranks
+
+    def load_url_outgoing_links_map(self):
+        url_links_map = None
+        with open(self.url_outgoing_links_map_path) as handle:
+            url_links_map = json.load(handle)
+        return url_links_map
+
+
+q = QueryEngine("./")
+ranks = q.process_query("Courses")

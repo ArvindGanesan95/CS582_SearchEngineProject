@@ -5,11 +5,13 @@ NETID: aganes25@uic.edu
 """
 import json
 import math
+import operator
 import os
-import sys
 import pickle
+
+import networkx as nx
+
 from InvertedIndex import InvertedIndex
-from QueryEngine import SearchUtilities
 from preprocessor import (
     Pipeline,
     CaseConverter,
@@ -24,6 +26,50 @@ total_documents_in_the_collection = 0
 document_score_map = dict()
 document_vector_lengths = dict()
 inverted_index_directory_path = ''
+link_structures_path = os.path.join(r'E:\IR\Project - Copy\Crawler', r'urlmaps.txt')
+url_contents_path = os.path.join(r'E:\IR\Project - Copy', 'url_contents')
+
+
+def compute_page_rank():
+    # read file and outgoing links
+    # create graph structure.
+    # give it to networkx library
+    # get the scores of each document.
+    # write to file system
+
+    url_code_map = None
+    with open(r'E:\IR\Project - Copy\Crawler\url_code_map.json') as handle:
+        url_code_map = json.load(handle)
+
+    if url_code_map is None:
+        print("No url to code map found. Cannot run page rank")
+        return
+
+    G = nx.DiGraph()
+    url_outgoing_map = dict()
+
+    with open(link_structures_path) as handle:
+        url_outgoing_map = json.loads(handle.read())
+
+    for url in url_outgoing_map.keys():
+
+        url_id_source = url_code_map[url]
+        links = url_outgoing_map[url]['links']
+        for neighbor in links:
+            if neighbor in url_code_map:
+                url_id_destination = url_code_map[neighbor]
+                G.add_edge(url_id_source, url_id_destination)
+
+                neighbor_outgoing_links = url_outgoing_map[neighbor]['links']
+                if url in neighbor_outgoing_links:
+                    G.add_edge(url_id_destination, url_id_source)
+
+    page_ranks = nx.pagerank(G)
+    result = dict(
+        sorted(page_ranks.items(), key=operator.itemgetter(1), reverse=True))
+
+    with open('url_page_ranks', "w+") as handle:
+        handle.write(json.dumps(result))
 
 
 # Function to get the list of files from a directory
@@ -60,7 +106,7 @@ def process_files(files, parent_path):
             with open(os.path.join(parent_path, file)) as handle:
 
                 document = json.loads(handle.read())["content"]
-
+            print("Processing file {}".format(file))
             pipeline.set_initial_data(document)
             # Execute the pipeline with stages defined above that does preprocessing
             pipeline.execute()
@@ -79,7 +125,7 @@ def process_files(files, parent_path):
                 inverted_index: InvertedIndex = inverted_index_map.get(key, InvertedIndex())
                 # get existing object
                 document_object = dict()
-                document_object["document_id"] = unique_document_id
+                document_object["document_id"] = file
                 document_object["term_frequency"] = word_count_map[key]
                 inverted_index.add_document(document_object)
                 inverted_index_map.__setitem__(key, inverted_index)
@@ -87,7 +133,7 @@ def process_files(files, parent_path):
             # if len(inverted_index_map.keys()) > 10000:
             #     break
             # Increment the variable to keep track of documents that are processed for analysis purposes
-            unique_document_id += 1
+            # unique_document_id += 1
         compute_document_length()
 
     except Exception as er:
@@ -190,7 +236,7 @@ class Preprocessor:
 
 if __name__ == '__main__':
     try:
-        p = Preprocessor(r"E:\IR\Project\url_contents")
+        p = Preprocessor(url_contents_path)
         p.start_process()
 
         inverted_index_information = dict()
@@ -199,6 +245,8 @@ if __name__ == '__main__':
         inverted_index_information["document_vector_lengths"] = document_vector_lengths
 
         pickle.dump(inverted_index_information, open("inverted_index.p", "wb"))
+
+        compute_page_rank()
 
         # inverted_index_information = pickle.load(open("inverted_index.p", "rb"))
 
