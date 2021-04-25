@@ -112,7 +112,7 @@ class QueryEngine:
         else:
             top_pages = result
 
-        return top_pages
+        return list(top_pages.keys())
 
     def read_queries(self, query_path):
         try:
