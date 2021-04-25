@@ -23,9 +23,11 @@ class QueryEngine:
     url_page_ranks_map = None
     url_outgoing_links_map = None
     url_code_map_path = r'../Computations/url_code_map.json'
-    url_page_ranks_path = r'../Computations/url_page_ranks.json'
+    url_page_ranks_path = r'../Computations/url_page_ranks.txt'
     inverted_index_path = r'../Computations/inverted_index.p'
     url_outgoing_links_map_path = r'../Computations/urlmaps.txt'
+    code_url_map_path = r'../Computations/code_to_url_map.json'
+    code_url_map = None
 
     def __init__(self, path):
 
@@ -34,7 +36,7 @@ class QueryEngine:
         self.document_vector_lengths = dict()
         self.load_inverted_index()
 
-        self.url_code_map = self.load_url_code_map()
+        self.code_url_map = self.load_code_url_map()
         self.url_page_ranks = self.load_page_ranks()
         self.url_outgoing_links_map = self.load_url_outgoing_links_map()
 
@@ -95,13 +97,14 @@ class QueryEngine:
         print("Ranks ", "\n", result)
 
         top_pages = dict()
+        run_hits = False
 
         if run_page_rank:
             page_rank_result = SearchUtilities.get_page_rank_scores(result, self.url_page_ranks)
             for page in page_rank_result:
                 top_pages[page] = page_rank_result[page] + result[page]
         elif run_hits:
-            hits_result = SearchUtilities.run_hits_algorithm(result, self.url_code_map, self.url_outgoing_links_map)
+            hits_result = SearchUtilities.run_hits_algorithm(result, self.code_url_map, self.url_outgoing_links_map)
             for page in hits_result:
                 top_pages[page] = hits_result[page] + result[page]
         else:
@@ -122,11 +125,11 @@ class QueryEngine:
         self.total_documents_in_collection = inverted_index_information['total_docs']
         self.document_vector_lengths = inverted_index_information["document_vector_lengths"]
 
-    def load_url_code_map(self):
-        url_code_map = None
-        with open(self.url_code_map_path) as handle:
-            url_code_map = json.load(handle)
-        return url_code_map
+    def load_code_url_map(self):
+        code_url_map = None
+        with open(self.code_url_map_path) as handle:
+            code_url_map = json.load(handle)
+        return code_url_map
 
     def load_page_ranks(self):
         url_page_ranks = None
@@ -137,9 +140,9 @@ class QueryEngine:
     def load_url_outgoing_links_map(self):
         url_links_map = None
         with open(self.url_outgoing_links_map_path) as handle:
-            url_links_map = json.load(handle)
+            url_links_map = json.loads(handle.read())
         return url_links_map
 
 
 q = QueryEngine("./")
-ranks = q.process_query("Courses")
+ranks = q.process_query("UIC courses")

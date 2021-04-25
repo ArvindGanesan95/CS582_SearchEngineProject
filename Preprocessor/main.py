@@ -26,8 +26,10 @@ total_documents_in_the_collection = 0
 document_score_map = dict()
 document_vector_lengths = dict()
 inverted_index_directory_path = ''
-link_structures_path = os.path.join(r'E:\IR\Project - Copy\Crawler', r'urlmaps.txt')
+link_structures_path = os.path.join(r'E:\IR\Project - Copy', 'Computations', r'urlmaps.txt')
+url_to_code_map_path = os.path.join(r'E:\IR\Project - Copy', 'Computations', 'url_code_map.json')
 url_contents_path = os.path.join(r'E:\IR\Project - Copy', 'url_contents')
+url_page_ranks_path = r'../Computations/url_page_ranks.txt'
 
 
 def compute_page_rank():
@@ -38,7 +40,7 @@ def compute_page_rank():
     # write to file system
 
     url_code_map = None
-    with open(r'E:\IR\Project - Copy\Crawler\url_code_map.json') as handle:
+    with open(url_to_code_map_path) as handle:
         url_code_map = json.load(handle)
 
     if url_code_map is None:
@@ -68,7 +70,7 @@ def compute_page_rank():
     result = dict(
         sorted(page_ranks.items(), key=operator.itemgetter(1), reverse=True))
 
-    with open('url_page_ranks', "w+") as handle:
+    with open(url_page_ranks_path, "w+") as handle:
         handle.write(json.dumps(result))
 
 

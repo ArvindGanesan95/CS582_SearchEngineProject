@@ -22,11 +22,14 @@ class WebCrawler:
     atomic_counter = AtomicCounter()
     file_contents_path = os.path.join(r'E:\IR\Project - Copy', r'url_contents')
     link_structures_path = os.path.join(r'E:\IR\Project - Copy', r'url_links')
-    url_maps_path = r'./urlmaps.txt'
+    url_to_code_map_path = os.path.join(r'E:\IR\Project - Copy', 'Computations', 'url_code_map.json')
+    code_to_url_map_path = os.path.join(r'E:\IR\Project - Copy', 'Computations', 'code_to_url_map.json')
+    url_maps_path = os.path.join(r'E:\IR\Project - Copy', 'Computations', r'urlmaps.txt')
     base_url = "uic.edu"
     url_with_outgoing_links = dict()
     task_list = list()
     url_to_code = dict()
+    code_to_url = dict()
 
     def __init__(self):
         self.queue = Queue()
@@ -34,8 +37,8 @@ class WebCrawler:
         self.visited_urls = set()
         if not os.path.exists(self.file_contents_path):
             os.makedirs(self.file_contents_path)
-        if not os.path.exists(self.link_structures_path):
-            os.makedirs(self.link_structures_path)
+        # if not os.path.exists(self.link_structures_path):
+        #     os.makedirs(self.link_structures_path)
 
     def start_crawling(self):
         try:
@@ -71,6 +74,7 @@ class WebCrawler:
 
             with open(self.url_maps_path, 'w') as file:
                 file.write(json.dumps(self.url_with_outgoing_links))
+
             self.create_id_url_map()
 
         except Exception as e:
@@ -142,10 +146,13 @@ class WebCrawler:
                 url = json.loads(handle.read())['url']
                 url_id = url_file
                 self.url_to_code[url] = url_id
+                self.code_to_url[url_id] = url
 
-        file_object_json = json.dumps(self.url_to_code)
-        with open('url_code_map.json', "w+") as handle:
-            handle.write(file_object_json)
+        with open(self.url_to_code_map_path, "w+") as handle:
+            handle.write(json.dumps(self.url_to_code))
+
+        with open(self.code_to_url_map_path, "w+") as handle:
+            handle.write(json.dumps(self.code_to_url))
 
 
 c = WebCrawler()

@@ -78,5 +78,5 @@ class MyHTMLParser(HTMLParser, ABC):
         return False
 
 
-p = MyHTMLParser("https://www.cs.uic.edu/", "uic.edu")
-p.feed("")
+# p = MyHTMLParser("https://www.cs.uic.edu/", "uic.edu")
+# p.feed("")

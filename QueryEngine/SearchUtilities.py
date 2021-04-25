@@ -26,7 +26,7 @@ def get_page_rank_scores(document_ids, url_page_ranks):
     if url_page_ranks is None:
         return
 
-    page_rank_results= dict()
+    page_rank_results = dict()
     for document_ids in document_ids:
         page_rank_results[document_ids] = url_page_ranks[document_ids]
 
@@ -34,7 +34,6 @@ def get_page_rank_scores(document_ids, url_page_ranks):
         sorted(page_rank_results.items(), key=operator.itemgetter(1), reverse=True))
 
     return result
-
 
 
 def run_hits_algorithm(document_ids, url_code_map, url_object):
@@ -60,9 +59,3 @@ def run_hits_algorithm(document_ids, url_code_map, url_object):
                 neighbor_outgoing_links = url_object[link]['links']
                 if url in neighbor_outgoing_links:
                     G.add_edge(url_code_map[link], document)
-
-
-
-    # for all nodes in initial set, check internal links
-
-    for
