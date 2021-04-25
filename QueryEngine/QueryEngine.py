@@ -3,7 +3,7 @@ import math
 import operator
 import pickle
 from collections import Counter
-import SearchUtilities
+
 from Preprocessor.preprocessor import (CaseConverter,
                                        Tokenizer,
                                        StopWordRemoval,
@@ -11,6 +11,8 @@ from Preprocessor.preprocessor import (CaseConverter,
                                        Pipeline, RemovePunctuationHandler, RemoveNumbersHandler
                                        )
 
+import QueryEngine.SearchUtilities as SearchUtilities
+import QueryEngine.InvertedIndex
 
 class QueryEngine:
     queries = None
@@ -29,7 +31,7 @@ class QueryEngine:
     code_url_map_path = r'../Computations/code_to_url_map.json'
     code_url_map = None
 
-    def __init__(self, path):
+    def __init__(self, path=None):
 
         self.query_path = path
         self.document_score_map = dict()
@@ -143,6 +145,5 @@ class QueryEngine:
             url_links_map = json.loads(handle.read())
         return url_links_map
 
-
-q = QueryEngine("./")
-ranks = q.process_query("UIC courses")
+# q = QueryEngine()
+# ranks = q.process_query("UIC courses")
