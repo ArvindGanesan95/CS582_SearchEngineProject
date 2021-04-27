@@ -3,6 +3,7 @@ Submitted by,
 Arvind Ganesan
 NETID: aganes25@uic.edu
 """
+import os
 import re
 import string
 from typing import TypeVar, Generic
@@ -18,7 +19,7 @@ T = TypeVar('T')
 # Adapted from https://github.com/iluwatar/java-design-patterns
 # MIT-License : https://github.com/iluwatar/java-design-patterns/blob/master/LICENSE.md
 class PreprocessorPipeline(Generic[T]):
-    stop_words_file_path = r'E:\IR\Project - Copy\Preprocessor\stopwords.txt'
+    stop_words_file_path = os.path.join(r'E:\IR\Project - Copy', 'Utilities', 'stopwords.txt')
     ps = PorterStemmer()
     stop_words_list = list()
 

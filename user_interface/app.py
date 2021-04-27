@@ -1,4 +1,5 @@
-from QueryEngine import QueryEngine as qe
+from QueryEngine import QEngine as qe
+from QueryEngine import SearchUtilities
 
 from flask import Flask, request, abort
 
@@ -10,8 +11,9 @@ def process_query():
     try:
         request_body = request.json
         search_string = request_body['searchString']
+        ranking_algorithm = request_body['rankingAlgorithm']
         query_engine = qe.QueryEngine()
-        pages = query_engine.process_query(search_string)
+        pages = query_engine.process_query(search_string, ranking_algorithm)
         return str(pages)
 
     except Exception as e:

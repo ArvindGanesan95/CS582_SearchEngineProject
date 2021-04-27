@@ -1,4 +1,3 @@
-import json
 import math
 import operator
 
@@ -22,40 +21,54 @@ def update_document_score(document_id, score, dictionary):
 
 
 def get_page_rank_scores(document_ids, url_page_ranks):
-    #
-    if url_page_ranks is None:
-        return
+    try:
+        result = dict()
+        if url_page_ranks is None:
+            return
+        page_rank_results = dict()
+        for document_ids in document_ids:
+            page_rank_results[document_ids] = url_page_ranks[document_ids]
 
-    page_rank_results = dict()
-    for document_ids in document_ids:
-        page_rank_results[document_ids] = url_page_ranks[document_ids]
+        result = dict(
+            sorted(page_rank_results.items(), key=operator.itemgetter(1), reverse=True))
 
-    result = dict(
-        sorted(page_rank_results.items(), key=operator.itemgetter(1), reverse=True))
+    except Exception as e:
+        print("Exception occurred ", str(e))
+    finally:
+        return result
 
-    return result
 
+def run_hits_algorithm(document_ids, code_url_map, url_object, url_code_map):
+    try:
+        initial_set = document_ids
+        result = dict()
+        if code_url_map is None:
+            return
+        if url_object is None:
+            return
+        if url_code_map is None:
+            return
 
-def run_hits_algorithm(document_ids, url_code_map, url_object):
-    initial_set = document_ids
-    root_set = list()
+        # expand root set by adding all pages in from link structure that is being pointed by every page in p
+        G = nx.DiGraph()
+        for document in initial_set:
+            # get url from document id
+            url = code_url_map[document]
+            out_going_links = url_object[url]["links"]
+            # For every outgoing link from current node, add them to root set graph
+            for link in out_going_links:
+                if link in url_code_map:
+                    G.add_edge(document, url_code_map[link])
 
-    if url_code_map is None:
-        return
-    if url_object is None:
-        return
+                    neighbor_outgoing_links = url_object[link]['links']
+                    if url in neighbor_outgoing_links:
+                        G.add_edge(url_code_map[link], document)
 
-    # expand root set by adding all pages in from link structure that is being pointed by every page in p
-    G = nx.DiGraph()
-    for document in initial_set:
-        # get url from document id
-        url = url_code_map[document]
-        out_going_links = url_object[url]["links"]
-        # For every outgoing link from current node, add them to root set graph
-        for link in out_going_links:
-            if link in url_code_map:
-                G.add_edge(document, url_code_map[link])
+        hubs, authorities = nx.hits(G)
+        result = dict(
+            sorted(hubs.items(), key=operator.itemgetter(1), reverse=True))
 
-                neighbor_outgoing_links = url_object[link]['links']
-                if url in neighbor_outgoing_links:
-                    G.add_edge(url_code_map[link], document)
+    except Exception as e:
+        print("Exception occurred ", str(e))
+    finally:
+        return result

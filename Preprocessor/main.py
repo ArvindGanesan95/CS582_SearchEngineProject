@@ -19,13 +19,11 @@ from preprocessor import (
     Tokenizer,
     PorterStemmerHandler, RemovePunctuationHandler, RemoveNumbersHandler)
 
-# a unique identifier to assign to a document
-unique_document_id = 1
 inverted_index_map = dict()
 total_documents_in_the_collection = 0
 document_score_map = dict()
 document_vector_lengths = dict()
-inverted_index_directory_path = ''
+inverted_index_directory_path = os.path.join(r'E:\IR\Project - Copy', 'Computations', r'inverted_index.p')
 link_structures_path = os.path.join(r'E:\IR\Project - Copy', 'Computations', r'urlmaps.txt')
 url_to_code_map_path = os.path.join(r'E:\IR\Project - Copy', 'Computations', 'url_code_map.json')
 url_contents_path = os.path.join(r'E:\IR\Project - Copy', 'url_contents')
@@ -33,45 +31,46 @@ url_page_ranks_path = r'../Computations/url_page_ranks.txt'
 
 
 def compute_page_rank():
-    # read file and outgoing links
-    # create graph structure.
-    # give it to networkx library
-    # get the scores of each document.
-    # write to file system
+    try:
+        url_code_map = None
+        with open(url_to_code_map_path) as handle:
+            url_code_map = json.load(handle)
 
-    url_code_map = None
-    with open(url_to_code_map_path) as handle:
-        url_code_map = json.load(handle)
+        if url_code_map is None:
+            print("No url to code map found. Cannot run page rank")
+            return
+        url_outgoing_map = dict()
+        with open(link_structures_path) as handle:
+            url_outgoing_map = json.loads(handle.read())
 
-    if url_code_map is None:
-        print("No url to code map found. Cannot run page rank")
-        return
+        if url_outgoing_map is None:
+            print("No url to outgoing links map found. Cannot run page rank")
+            return
 
-    G = nx.DiGraph()
-    url_outgoing_map = dict()
+        G = nx.DiGraph()
 
-    with open(link_structures_path) as handle:
-        url_outgoing_map = json.loads(handle.read())
+        for url in url_outgoing_map.keys():
 
-    for url in url_outgoing_map.keys():
+            url_id_source = url_code_map[url]
+            links = url_outgoing_map[url]['links']
+            for neighbor in links:
+                if neighbor in url_code_map:
+                    url_id_destination = url_code_map[neighbor]
+                    G.add_edge(url_id_source, url_id_destination)
 
-        url_id_source = url_code_map[url]
-        links = url_outgoing_map[url]['links']
-        for neighbor in links:
-            if neighbor in url_code_map:
-                url_id_destination = url_code_map[neighbor]
-                G.add_edge(url_id_source, url_id_destination)
+                    neighbor_outgoing_links = url_outgoing_map[neighbor]['links']
+                    if url in neighbor_outgoing_links:
+                        G.add_edge(url_id_destination, url_id_source)
 
-                neighbor_outgoing_links = url_outgoing_map[neighbor]['links']
-                if url in neighbor_outgoing_links:
-                    G.add_edge(url_id_destination, url_id_source)
+        page_ranks = nx.pagerank(G)
+        result = dict(
+            sorted(page_ranks.items(), key=operator.itemgetter(1), reverse=True))
 
-    page_ranks = nx.pagerank(G)
-    result = dict(
-        sorted(page_ranks.items(), key=operator.itemgetter(1), reverse=True))
+        with open(url_page_ranks_path, "w+") as handle:
+            handle.write(json.dumps(result))
 
-    with open(url_page_ranks_path, "w+") as handle:
-        handle.write(json.dumps(result))
+    except Exception as e:
+        print("Exception occurred ", str(e))
 
 
 # Function to get the list of files from a directory
@@ -89,8 +88,6 @@ def get_files_from_directory(path: str):
 # elimination if required
 def process_files(files, parent_path):
     try:
-        global unique_document_id
-        unique_document_id = 1
         pipeline = Pipeline()
         # Add preprocessing steps as a pipeline step. The output of each step goes to the next step
         pipeline.add_step(CaseConverter())
@@ -132,10 +129,6 @@ def process_files(files, parent_path):
                 inverted_index.add_document(document_object)
                 inverted_index_map.__setitem__(key, inverted_index)
 
-            # if len(inverted_index_map.keys()) > 10000:
-            #     break
-            # Increment the variable to keep track of documents that are processed for analysis purposes
-            # unique_document_id += 1
         compute_document_length()
 
     except Exception as er:
@@ -148,57 +141,6 @@ def update_document_score(document_id, score, dictionary):
     dictionary.__setitem__(document_id, existing_score + score)
 
 
-#
-# # Function that reads queries, does preprocessing and fetches relevant documents
-# def process_queries(queries):
-#     from collections import Counter
-#     import math
-#     global document_score_map
-#     pipeline = Pipeline()
-#     pipeline.add_step(CaseConverter())
-#     pipeline.add_step(Tokenizer())
-#     pipeline.add_step(StopWordRemoval())
-#     pipeline.add_step(PorterStemmerHandler())
-#     pipeline.add_step(StopWordRemoval())
-#     # pipeline.add_step(RemovePunctuationHandler())
-#     # pipeline.add_step(RemoveNumbersHandler())
-#     # pipeline.add_step(RemoveWordsHandler())
-#     query_terms = list()
-#     for index, query in enumerate(queries):
-#         pipeline.set_initial_data(query)
-#         pipeline.execute()
-#         result = pipeline.get_result()
-#         query_terms = Counter(result)
-#         query_vector_length = 0
-#         document_score_map.clear()
-#
-#         for term in query_terms:
-#             # find relevant documents from inverted index for the current query term
-#             inverted_index_object = inverted_index_map.get(term, None)
-#             # If a term is not present in inverted index, it is of no use for retrieval
-#             if inverted_index_object is None:
-#                 continue
-#             # Get the document frequency for the current query term
-#             document_frequency = inverted_index_object.document_frequency
-#             inverse_document_frequency = math.log2(total_documents_in_the_collection / document_frequency)
-#             # TF-IDF is the product of TF  * IDF
-#             query_tf_idf = query_terms[term] * inverse_document_frequency
-#             # add the square of tf-idf to the global variable to keep track of query length
-#             query_vector_length = query_vector_length + math.pow(query_tf_idf, 2)
-#             # for every document containing the current query term, calculate tf-idf
-#             for document in inverted_index_object.inverted_index:
-#                 # calculate tf-idf for the current query term
-#                 term_occurrence = document["term_frequency"]
-#                 tf_idf_document = term_occurrence * inverse_document_frequency
-#                 numerator_of_cosine_similarity = tf_idf_document * query_tf_idf
-#                 # Keep accumulating the numerator part of cosine similarity for the corresponding document d
-#                 update_document_score(document["document_id"], numerator_of_cosine_similarity, document_score_map)
-#
-#         SearchUtilities.compute_cosine_similarity(query_vector_length, document_score_map)
-#         # get_relevant_documents(index + 1)
-
-
-# Function to compute the sum of squares of tf-idf for every term the document has from inverted index
 def compute_document_length():
     for word in inverted_index_map:
         # object that contains the document frequency property and list of documents along with term frequency
@@ -246,11 +188,10 @@ if __name__ == '__main__':
         inverted_index_information['inverted_index'] = inverted_index_map
         inverted_index_information["document_vector_lengths"] = document_vector_lengths
 
-        pickle.dump(inverted_index_information, open("inverted_index.p", "wb"))
+        # write inverted index to file system
+        pickle.dump(inverted_index_information, open(inverted_index_directory_path, "wb"))
 
         compute_page_rank()
-
-        # inverted_index_information = pickle.load(open("inverted_index.p", "rb"))
 
     except Exception as e:
         print("Exception occurred", "\n", e)

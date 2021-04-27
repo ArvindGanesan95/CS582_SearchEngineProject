@@ -26,10 +26,9 @@
         <div class="row">
             <div class="order-md-1 text-center text-md-left pr-md-5">
                 <h2 class="mb-3">Looking for something at UIC ? You are at the right place !</h2>
-                <p class="lead mb-4">
-                    Here we have a collection of different pages from the <a href="http://www.cs.uic.edu/" target="_blank">CS-UIC</a> for your search.
-                    Our spider crawls the pages giving them to our preprocessors which in-turn forms an inverted index.
-                    The search term fetches relevant documents using cosine similarity along with the option of applying
+                <p class="lead mb-3">
+                    A collection of different pages from the <a href="http://www.cs.uic.edu/" target="_blank">CS-UIC</a> is crawled.
+                    For a search term, relevant documents are fetched using cosine similarity along with the option of applying
                     PageRank or HITS algorithm.
                 </p>
               </div>
@@ -37,10 +36,6 @@
     </div>
     <div >
         <div id="homePageGrid">
-<!--            <div class="nav nav-pills mb-3">-->
-<!--                <a class="nav-link active" id="encrypt-tab" data-toggle="tab" href="#encrypt" role="tab" aria-controls="encrypt" aria-selected="true">Encrypt</a>-->
-<!--                <a class="nav-link" id="decrypt-tab" data-toggle="tab" href="#decrypt" role="tab" aria-controls="decrypt" aria-selected="false">Decrypt</a>-->
-<!--              </div>-->
             <div class="tab-content" id="myTabContent">
 <!--                <div class="tab-pane fade show active" id="encrypt" role="tabpanel" aria-labelledby="encrypt-tab">-->
                     <div class="container" style="padding: 1em;">
@@ -55,25 +50,24 @@
                                     <div class="form-group">
                                         <input type="url" class="form-control" id="queryTerm" aria-describedby="queryHelp" placeholder="UIC courses">
                                     </div>
-<!--                                    <p class="card-text text-muted">Enter the Key you wish to use for Encryption </p>-->
-<!--                                    <div class="form-group">-->
-<!--                                        <input type="text" class="form-control" id="cryptoKey" aria-describedby="cryptoKeylHelp" placeholder="ThisIsMySecret!!">-->
-<!--                                    </div>-->
+                                    <p class="card-text text-muted">Enter the ranking algorithm required.
+                                        By default, only cosine similarity is used.</p>
+                                    <div class="custom-control custom-radio custom-control-inline">
+                                      <input type="radio" class="custom-control-input" id="pageRank" name="inlineDefaultRadiosExample">
+                                      <label class="custom-control-label" for="pageRank">PageRank</label>
+                                    </div>
+
+                                    <!-- Default inline 2-->
+                                    <div class="custom-control custom-radio custom-control-inline">
+                                      <input type="radio" class="custom-control-input" id="hits" name="inlineDefaultRadiosExample">
+                                      <label class="custom-control-label" for="hits">HITS</label>
+                                    </div>
+                                    </div>
                                     <button onclick="getResultsForQuery()" class="btn btn-primary">Submit</button>
-                                </div>
+
                               </div>
                           </div>
                             <div class="col-2"></div>
-
-<!--                          <div class="col-6">-->
-<!--                            <div class="text-center" id="loader" style="display: none;">-->
-<!--                              <div class="spinner-grow" style="width: 5rem; height: 5rem; color: cadetblue;" role="status">-->
-<!--                                <span class="sr-only">Loading...</span>-->
-<!--                              </div>-->
-<!--                            </div>-->
-<!--                              <div class="card" id="encrytedHexCard" style="display: none;">-->
-<!--                              </div>-->
-<!--                          </div>-->
                         </div>
                         <br>
                         <div class="row">
@@ -88,40 +82,6 @@
                             <div class="col-2"></div>
                         </div>
                     </div>
-<!--                </div>-->
-<!--                <div class="tab-pane fade" id="decrypt" role="tabpanel" aria-labelledby="decrypt-tab">-->
-<!--                  <div class="container" style="padding: 1em;">-->
-<!--                    <div class="row">-->
-<!--                      <div class="col-6">-->
-<!--                        <div class="card">-->
-<!--                            <div class="card-body">-->
-<!--                              <h5 class="card-title">Enter your encrypted book URL</h5>-->
-<!--                              <p class="card-text text-muted">Ex:-->
-<!--                                  <a target="_blank" href="https://storage.googleapis.com/ebook_crypto/5ab80283-3f13-43dd-9a3c-9e5d1292c335">Pride and Prejudice</a>-->
-<!--                                </p>-->
-<!--                                <div class="form-group">-->
-<!--                                    <input type="url" class="form-control" id="cipherBookUrl" aria-describedby="cipherBookUrlHelp" placeholder="https://storage.googleapis.com/ebook_crypto/5ab80283-3f13-43dd-9a3c-9e5d1292c335">-->
-<!--                                </div>-->
-<!--                                <p class="card-text text-muted">Enter the Key you used to Encrypt</p>-->
-<!--                                <div class="form-group">-->
-<!--                                    <input type="text" class="form-control" id="cryptoKeyDecrypt" aria-describedby="cryptoKeylHelp" placeholder="ThisIsMySecret!!">-->
-<!--                                </div>-->
-<!--                                <button onclick="decryptBookFromUrl()" class="btn btn-primary">Submit</button>-->
-<!--                            </div>-->
-<!--                          </div>-->
-<!--                      </div>-->
-<!--                      <div class="col-6">-->
-<!--                        <div class="text-center" id="plainTextLoader" style="display: none;">-->
-<!--                          <div class="spinner-grow" style="width: 5rem; height: 5rem; color: cadetblue;" role="status">-->
-<!--                            <span class="sr-only">Loading...</span>-->
-<!--                          </div>-->
-<!--                        </div>-->
-<!--                          <div class="card" id="plainTextCard" style="display: none;">-->
-<!--                          </div>-->
-<!--                      </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--                </div>-->
             </div>
         </div>
     </div>
