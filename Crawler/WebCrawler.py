@@ -255,9 +255,11 @@ class WebCrawler:
     base_url = "uic.edu"
     url_with_outgoing_links = dict()
     task_list = list()
-
+    computations_path = os.path.join(r'E:\IR\Project - Copy', 'Computations')
+    link_structures_path = os.path.join(r'E:\IR\Project - Copy', r'url_links')
     url_to_code_map_path = os.path.join(r'E:\IR\Project - Copy', 'Computations', 'url_code_map.json')
     code_to_url_map_path = os.path.join(r'E:\IR\Project - Copy', 'Computations', 'code_to_url_map.json')
+    url_maps_path = os.path.join(r'E:\IR\Project - Copy', 'Computations', r'urlmaps.txt')
 
     def __init__(self):
         self.code_to_url = dict()
@@ -267,6 +269,8 @@ class WebCrawler:
         self.visited_urls = set()
         if not os.path.exists(self.file_contents_path):
             os.makedirs(self.file_contents_path)
+        if not os.path.exists(self.computations_path):
+            os.makedirs(self.computations_path)
 
     def start_crawling(self):
         try:
@@ -302,6 +306,9 @@ class WebCrawler:
                 # self.write_content_to_persistent_storage(url)
 
             print(self.url_with_outgoing_links)
+            with open(self.url_maps_path, 'w') as file:
+                file.write(json.dumps(self.url_with_outgoing_links))
+
         except Exception as e:
             print(e)
 

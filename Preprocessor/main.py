@@ -52,13 +52,13 @@ def compute_page_rank():
         for url in url_outgoing_map.keys():
 
             url_id_source = url_code_map[url]
-            links = url_outgoing_map[url]['links']
+            links = url_outgoing_map[url]
             for neighbor in links:
                 if neighbor in url_code_map:
                     url_id_destination = url_code_map[neighbor]
                     G.add_edge(url_id_source, url_id_destination)
 
-                    neighbor_outgoing_links = url_outgoing_map[neighbor]['links']
+                    neighbor_outgoing_links = url_outgoing_map[neighbor]
                     if url in neighbor_outgoing_links:
                         G.add_edge(url_id_destination, url_id_source)
 

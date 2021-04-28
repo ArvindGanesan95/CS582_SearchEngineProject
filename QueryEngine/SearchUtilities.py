@@ -54,13 +54,13 @@ def run_hits_algorithm(document_ids, code_url_map, url_object, url_code_map):
         for document in initial_set:
             # get url from document id
             url = code_url_map[document]
-            out_going_links = url_object[url]["links"]
+            out_going_links = url_object[url]
             # For every outgoing link from current node, add them to root set graph
             for link in out_going_links:
                 if link in url_code_map:
                     G.add_edge(document, url_code_map[link])
 
-                    neighbor_outgoing_links = url_object[link]['links']
+                    neighbor_outgoing_links = url_object[link]
                     if url in neighbor_outgoing_links:
                         G.add_edge(url_code_map[link], document)
 
