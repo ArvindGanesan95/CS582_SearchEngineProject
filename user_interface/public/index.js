@@ -3,6 +3,10 @@ $.ajaxSetup({
         'Content-Type': 'application/json'
     }
 })
+$(document).ready(function() {
+  // Run code
+ // $('#overlay').css("display", "none");
+})
 
 let paginationCounter = 0
 let searchResultsList = []
@@ -24,6 +28,7 @@ const getResultsForQuery = () => {
         "searchString": searchQuery,
         "rankingAlgorithm": selectedRankingAlgorithm
     }
+    $('#overlay').css("display", "block");
     $.post("/processQuery", JSON.stringify(data))
     .done((data) => {
         paginationCounter = 0
@@ -33,6 +38,7 @@ const getResultsForQuery = () => {
         processData()
     }).fail((error)=> {
         console.error("Error occurred"+error)
+          $('#loadingScreen').css("display", "none");
         // Show it in hidden box
     })
 }
@@ -49,4 +55,5 @@ const processData = () => {
     })
     listDom.append(html)
     paginationCounter += 10
+      $('#overlay').css("display", "none");
 }
