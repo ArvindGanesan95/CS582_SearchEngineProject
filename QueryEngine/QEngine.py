@@ -96,7 +96,7 @@ class QueryEngine:
 
         top_pages = result
 
-        if ranking_algorithm is not None:
+        if len(result.keys()) > 0 and ranking_algorithm is not None:
 
             if ranking_algorithm == "pagerank":
                 page_rank_result = SearchUtilities.get_page_rank_scores(result, self.url_page_ranks)
@@ -107,11 +107,14 @@ class QueryEngine:
                 hits_result = SearchUtilities.run_hits_algorithm(result,
                                                                  self.code_url_map, self.url_outgoing_links_map,
                                                                  self.url_code_map)
-                for page in hits_result:
-                    if page not in top_pages:
-                        top_pages[page] = 0
-                    else:
-                        top_pages[page] += hits_result[page]
+                try:
+                    for page in hits_result:
+                        if page not in top_pages:
+                            top_pages[page] = 0
+                        else:
+                            top_pages[page] += hits_result[page]
+                except Exception as e:
+                    print("Exception", e)
 
         final_result = list()
         top_pages = dict(
@@ -179,7 +182,6 @@ class QueryEngine:
             print("Exception occurred", str(e))
         finally:
             return url_links_map
-
 
 # q = QueryEngine()
 # ranks = q.process_query("UIC courses")

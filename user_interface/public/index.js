@@ -4,12 +4,15 @@ $.ajaxSetup({
     }
 })
 $(document).ready(function() {
-  // Run code
- // $('#overlay').css("display", "none");
+  $("#nextButton").addClass('disabled');
 })
 
 let paginationCounter = 0
 let searchResultsList = []
+
+const resetSelection = () => {
+    $('input[name=inlineDefaultRadiosExample]').prop('checked', false);
+}
 const getResultsForQuery = () => {
 
     let searchQuery = $('#queryTerm').val()
@@ -44,9 +47,26 @@ const getResultsForQuery = () => {
 }
 
 const processData = () => {
-    if(paginationCounter >= searchResultsList.length) return
+    let topResults = []
+    if(searchResultsList.length == 0 ){
+        $('#loadingScreen').css("display", "none");
+        $("#nextButton").addClass('disabled');
 
-    let topResults = searchResultsList.slice(paginationCounter, paginationCounter + 10)
+        data = "No relevant results found for the given query. Please refine your query and try again"
+        topResults.push(data)
+    }
+    else if(paginationCounter >= searchResultsList.length) {
+        $('#loadingScreen').css("display", "none");
+         $("#nextButton").addClass('disabled');
+        return
+    }
+    if(searchResultsList.length > 0 ){
+        $("#nextButton").removeClass('disabled');
+    }
+
+    if(searchResultsList.length > 0) {
+        topResults = searchResultsList.slice(paginationCounter, paginationCounter + 10)
+    }
     let listDom = $('#searchResultsList')
     let html = ``
 
@@ -55,5 +75,5 @@ const processData = () => {
     })
     listDom.append(html)
     paginationCounter += 10
-      $('#overlay').css("display", "none");
+    $('#overlay').css("display", "none");
 }
