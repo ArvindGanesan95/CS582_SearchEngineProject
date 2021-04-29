@@ -17,17 +17,23 @@ from preprocessor import (
     CaseConverter,
     StopWordRemoval,
     Tokenizer,
-    PorterStemmerHandler, RemovePunctuationHandler, RemoveNumbersHandler)
+    PorterStemmerHandler,
+    RemovePunctuationHandler,
+    RemoveNumbersHandler,
+)
+
+from Utilities.Globals import (
+    file_contents_path,
+    inverted_index_directory_path,
+    url_to_code_map_path,
+    link_structures_path,
+    url_page_ranks_path,
+)
 
 inverted_index_map = dict()
 total_documents_in_the_collection = 0
 document_score_map = dict()
 document_vector_lengths = dict()
-inverted_index_directory_path = os.path.join(r'E:\IR\Project - Copy', 'Computations', r'inverted_index.p')
-link_structures_path = os.path.join(r'E:\IR\Project - Copy', 'Computations', r'urlmaps.txt')
-url_to_code_map_path = os.path.join(r'E:\IR\Project - Copy', 'Computations', 'url_code_map.json')
-url_contents_path = os.path.join(r'E:\IR\Project - Copy', 'url_contents')
-url_page_ranks_path = r'../Computations/url_page_ranks.txt'
 
 
 def compute_page_rank():
@@ -47,8 +53,12 @@ def compute_page_rank():
             print("No url to outgoing links map found. Cannot run page rank")
             return
 
+        # Create an instance of directed graph using NetworkX library
         G = nx.DiGraph()
 
+        # For each of the url that acts as a parent node in the graph, get the outgoing links
+        # ,get the unique id for each of outgoing link and parent node,  and add an edge between the
+        # parent and outgoing link.
         for url in url_outgoing_map.keys():
 
             url_id_source = url_code_map[url]
@@ -59,14 +69,17 @@ def compute_page_rank():
                     G.add_edge(url_id_source, url_id_destination)
 
                     neighbor_outgoing_links = url_outgoing_map[neighbor]
+                    # Check if there is an edge from outgoing link to parent link
                     if url in neighbor_outgoing_links:
                         G.add_edge(url_id_destination, url_id_source)
-
+        # Compute page rank using NetworkX library
         page_ranks = nx.pagerank(G)
         result = dict(
-            sorted(page_ranks.items(), key=operator.itemgetter(1), reverse=True))
+            sorted(page_ranks.items(), key=operator.itemgetter(1), reverse=True)
+        )
 
-        with open(url_page_ranks_path, "w+") as handle:
+        # Write the results to file system
+        with open(url_page_ranks_path, "w") as handle:
             handle.write(json.dumps(result))
 
     except Exception as e:
@@ -74,7 +87,7 @@ def compute_page_rank():
 
 
 # Function to get the list of files from a directory
-def get_files_from_directory(path: str):
+def get_files_from_directory(path):
     global total_documents_in_the_collection
     try:
         for root, dirs, files in os.walk(path):
@@ -98,7 +111,6 @@ def process_files(files, parent_path):
         pipeline.add_step(StopWordRemoval())
         pipeline.add_step(RemovePunctuationHandler())
         pipeline.add_step(RemoveNumbersHandler())
-        # pipeline.add_step(RemoveWordsHandler())
 
         for file in files:
             document = ""
@@ -180,7 +192,7 @@ class Preprocessor:
 
 if __name__ == '__main__':
     try:
-        p = Preprocessor(url_contents_path)
+        p = Preprocessor(file_contents_path)
         p.start_process()
 
         inverted_index_information = dict()
@@ -188,7 +200,7 @@ if __name__ == '__main__':
         inverted_index_information['inverted_index'] = inverted_index_map
         inverted_index_information["document_vector_lengths"] = document_vector_lengths
 
-        # write inverted index to file system
+        # write inverted index to file system in a serialized form
         pickle.dump(inverted_index_information, open(inverted_index_directory_path, "wb"))
 
         compute_page_rank()

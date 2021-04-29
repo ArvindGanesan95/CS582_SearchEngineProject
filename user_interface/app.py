@@ -1,7 +1,6 @@
-from QueryEngine import QEngine as qe
-from QueryEngine import SearchUtilities
-
 from flask import Flask, request, abort
+
+from QueryEngine import QEngine as qe
 
 app = Flask(__name__, static_folder='public', static_url_path='')
 

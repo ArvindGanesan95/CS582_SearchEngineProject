@@ -1,320 +1,140 @@
-# import json
-# import os
-# import shutil
-# import urllib.parse
-# from concurrent.futures import ThreadPoolExecutor, wait, ALL_COMPLETED
-# from queue import Queue
-#
-# import requests
-# from bs4 import BeautifulSoup
-# from urllib3.exceptions import InsecureRequestWarning
-#
-# from Crawler.AtomicCounter import AtomicCounter
-# from Parser.HTMLParser import MyHTMLParser
-#
-# requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)
-#
-#
-# def make_request(url):
-#     pass
-#
-#
-# class WebCrawler:
-#     root_url = "https://cs.uic.edu/"
-#     pages_to_crawl = 3200
-#     number_of_threads = 22
-#     threads_executor = ""
-#     visited_urls = None
-#     atomic_counter = AtomicCounter()
-#     computations_path = os.path.join(r'E:\IR\Project - Copy', 'Computations')
-#     file_contents_path = os.path.join(r'E:\IR\Project - Copy', r'url_contents')
-#     link_structures_path = os.path.join(r'E:\IR\Project - Copy', r'url_links')
-#     url_to_code_map_path = os.path.join(r'E:\IR\Project - Copy', 'Computations', 'url_code_map.json')
-#     code_to_url_map_path = os.path.join(r'E:\IR\Project - Copy', 'Computations', 'code_to_url_map.json')
-#     url_maps_path = os.path.join(r'E:\IR\Project - Copy', 'Computations', r'urlmaps.txt')
-#     base_url = "uic.edu"
-#     url_with_outgoing_links = dict()
-#     task_list = list()
-#     url_to_code = dict()
-#     code_to_url = dict()
-#
-#     def __init__(self):
-#         self.queue = Queue()
-#         self.threads_executor = ThreadPoolExecutor(max_workers=self.number_of_threads, thread_name_prefix="worker")
-#         self.visited_urls = set()
-#         shutil.rmtree(self.file_contents_path)
-#         shutil.rmtree(self.computations_path)
-#         if not os.path.exists(self.file_contents_path):
-#             os.makedirs(self.file_contents_path)
-#         if not os.path.exists(self.computations_path):
-#             os.makedirs(self.computations_path)
-#
-#     def start_crawling(self):
-#         try:
-#             with requests.get(self.root_url, verify=False, timeout=120) as conn:
-#                 self.root_url = conn.url
-#
-#             self.queue.put(self.root_url)
-#
-#             while True:
-#                 #
-#                 if self.atomic_counter.get_value() >= self.pages_to_crawl:
-#                     self.threads_executor.shutdown(cancel_futures=True)
-#                     break
-#
-#                 if self.queue.empty():
-#                     # check if no thread has active job.
-#                     done, not_done = wait(self.task_list, return_when=ALL_COMPLETED)
-#                     if self.queue.empty():
-#                         break
-#                     # self.task_list.clear()
-#                     # if thread has a job, give continue keyword
-#                     # if thread does not have active job, break
-#
-#                 # print("hello")
-#                 try:
-#                     url = self.queue.get()
-#                 except Exception as e:
-#                     print(e)
-#                 if url in self.visited_urls:
-#                     continue
-#                 self.visited_urls.add(url)
-#                 if len(self.task_list) <= self.pages_to_crawl:
-#                     task = self.threads_executor.submit(self.process_url, url)
-#                     self.task_list.append(task)
-#             # Cancel all active threads since the threshold pages have reached. This function does not
-#             # guarantee immediate stopping of all threads at the same time. s
-#             self.threads_executor.shutdown(cancel_futures=True)
-#
-#             # Write the map of node:outgoing links to file system
-#             with open(self.url_maps_path, 'w') as file:
-#                 file.write(json.dumps(self.url_with_outgoing_links))
-#             # Create a map of unique id for every url
-#             self.create_id_url_map()
-#
-#         except Exception as e:
-#             print("103", e)
-#
-#     # Function to make a request to url to get its page contents
-#     def process_url(self, url):
-#         try:
-#             #
-#
-#             # Exit early if the threshold pages are already processed
-#             if self.atomic_counter.get_value() > self.pages_to_crawl:
-#                 return
-#
-#             value = {}
-#             temp = url
-#             # self.visited_urls.add(url)
-#             with requests.get(url, verify=False, timeout=120) as conn:
-#                 # Create Dictionary
-#                 value = {
-#                     "status": conn.status_code,
-#                     "content": conn.text,
-#                     "url": conn.url,
-#                 }
-#                 url = conn.url
-#             self.visited_urls.add(url)
-#             self.get_links_from_url_content(value)
-#
-#             # print("Scraped URL ", url)
-#
-#         except Exception as e:
-#             print("131 Exception occurred", str(e))
-#             self.visited_urls.add(url)
-#
-#     def get_links_from_url_content(self, json_object):
-#         result = json_object
-#         request_status = result["status"]
-#         # print(result["url"])
-#         if request_status == 200:
-#             links = self.parse_content(result["content"], result["url"])
-#
-#             # print(result["url"], result)
-#             # if result["url"] in self.url_with_outgoing_links:
-#             self.url_with_outgoing_links[result["url"]] = links
-#             # else:
-#             #     self.url_with_outgoing_links[result["url"]] = []
-#             #     self.url_with_outgoing_links[result["url"]].append(link)
-#             page_content = BeautifulSoup(result["content"], features="html.parser").get_text()
-#             # print("SIZE", len(self.url_with_outgoing_links.keys()))
-#             self.write_content_to_persistent_storage(result["url"], page_content)
-#             #self.write_links_to_persistent_storage(result["url"], links)
-#             for link in links:
-#                 if link not in self.visited_urls:
-#                     self.queue.put(link)
-#
-#     # def get_links_from_url_content(self, json_object):
-#     #     result = json_object
-#     #     request_status = result["status"]
-#     #     if request_status == 200:
-#     #         links = self.parse_content(result["content"], result["url"])
-#     #
-#     #         next_id = str(self.atomic_counter.increment())
-#     #         url_obj = {
-#     #             "url_id": next_id,
-#     #             "links": links
-#     #         }
-#     #         self.url_with_outgoing_links[result["url"]] = url_obj
-#     #         page_content = BeautifulSoup(result["content"], features="html.parser").get_text()
-#     #
-#     #         self.write_content_to_persistent_storage(next_id, result["url"], page_content)
-#     #         for link in links:
-#     #             if link not in self.visited_urls:
-#     #                 # resolved_url = make_request(url)
-#     #                 self.queue.put(link)
-#
-#     # Function to write the url and its content to file system
-#     def write_content_to_persistent_storage(self, url_link, content):
-#         next_id = str(self.atomic_counter.increment())
-#         with open(os.path.join(self.file_contents_path, next_id), 'a+') as handle:
-#             file_object = {
-#                 "url": url_link,
-#                 "content": content
-#             }
-#             file_object_json = json.dumps(file_object)
-#             handle.write(file_object_json)
-#
-#     # def write_content_to_persistent_storage(self, file_id, url_link, content):
-#     #
-#     #     try:
-#     #
-#     #         with open(os.path.join(self.file_contents_path, file_id), 'a+') as handle:
-#     #             file_object = {
-#     #                 "url": url_link,
-#     #                 "content": content
-#     #             }
-#     #             file_object_json = json.dumps(file_object)
-#     #             handle.write(file_object_json)
-#     #
-#     #     except Exception as e:
-#     #         print("169 Exception occurred", str(e))
-#
-#     # Function to parse the text content from the url and get outgoing links from the current page
-#     def parse_content(self, content, url):
-#
-#         html_parser = MyHTMLParser(url, self.base_url)
-#         html_parser.feed(content)
-#         links = html_parser.get_data()
-#         return links
-#
-#     # Function to create two maps (url->id and id->url) and write to file system
-#     def create_id_url_map(self):
-#         try:
-#             urls = None
-#             for root, dirs, files in os.walk(WebCrawler.file_contents_path):
-#                 urls = files
-#
-#             if urls is None:
-#                 return
-#
-#             for url_file in urls:
-#                 with open(os.path.join(WebCrawler.file_contents_path, url_file)) as handle:
-#                     url = json.loads(handle.read())['url']
-#                     url_id = url_file
-#                     self.url_to_code[url] = url_id
-#                     self.code_to_url[url_id] = url
-#
-#             with open(self.url_to_code_map_path, "w+") as handle:
-#                 handle.write(json.dumps(self.url_to_code))
-#
-#             with open(self.code_to_url_map_path, "w+") as handle:
-#                 handle.write(json.dumps(self.code_to_url))
-#
-#         except Exception as e:
-#             print("203 Exception occurred", str(e))
-#
-#
-# c = WebCrawler()
-# c.start_crawling()
+"""
+Submitted by,
+Arvind Ganesan
+NETID: aganes25@uic.edu
+"""
+
 import json
 import os
-import urllib
+import shutil
+from abc import abstractmethod, ABC
 from concurrent.futures import ThreadPoolExecutor, wait, ALL_COMPLETED
 from queue import Queue
-from urllib.parse import urljoin
-
+import fastcounter
 import requests
 from bs4 import BeautifulSoup
+from urllib3 import disable_warnings
 from urllib3.exceptions import InsecureRequestWarning
 
-from Crawler.AtomicCounter import AtomicCounter
-from Parser.HTMLParser import filterAnchorTags, filterExclusionUrls, filterDomainUrls, formCorrectUrls
+from Parser.HTMLParser import (
+    filterAnchorTags,
+    filterExclusionUrls,
+    filterDomainUrls,
+    formCorrectUrls,
+)
+from Utilities.Globals import (
+    file_contents_path,
+    computations_path,
+    code_to_url_map_path,
+    url_to_code_map_path,
+    url_maps_path,
+)
 
 # Suppress only the single warning from urllib3 needed.
-requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)
+disable_warnings(InsecureRequestWarning)
 
 
-class WebCrawler:
+# An abstract class to denote a generic crawler
+class WebCrawler(ABC):
     root_url = "https://www.cs.uic.edu/"
-    pages_to_crawl = 3000
-    number_of_threads = 1
-    threads_executor = ""
-    visited_urls = None
-    atomic_counter = AtomicCounter()
-    file_contents_path = os.path.join(r'E:\IR\Project - Copy', r'url_contents')
     base_url = "uic.edu"
+    pages_to_crawl = 3000
     url_with_outgoing_links = dict()
-    task_list = list()
-    computations_path = os.path.join(r'E:\IR\Project - Copy', 'Computations')
-    link_structures_path = os.path.join(r'E:\IR\Project - Copy', r'url_links')
-    url_to_code_map_path = os.path.join(r'E:\IR\Project - Copy', 'Computations', 'url_code_map.json')
-    code_to_url_map_path = os.path.join(r'E:\IR\Project - Copy', 'Computations', 'code_to_url_map.json')
-    url_maps_path = os.path.join(r'E:\IR\Project - Copy', 'Computations', r'urlmaps.txt')
 
-    def __init__(self):
+    @abstractmethod
+    def crawl(self):
+        pass
+
+
+# An inherited crawler class that uses ThreadPool and applies BFS strategy to perform crawling
+class SpiderCrawler(WebCrawler):
+    number_of_threads = 1
+    threads_executor = None
+    visited_urls = None
+    unique_counter = fastcounter.Counter()
+    task_list = list()
+
+    def __init__(
+        self, root_url=None, base_url=None, pages_to_crawl=None, number_of_workers=10
+    ):
+        #shutil.rmtree(file_contents_path)
+        #shutil.rmtree(computations_path)
+        if not os.path.exists(file_contents_path):
+            os.makedirs(file_contents_path)
+        if not os.path.exists(computations_path):
+            os.makedirs(computations_path)
         self.code_to_url = dict()
         self.url_to_code = dict()
         self.queue = Queue()
-        self.threads_executor = ThreadPoolExecutor(max_workers=self.number_of_threads, thread_name_prefix="test")
+        if pages_to_crawl is not None:
+            self.pages_to_crawl = pages_to_crawl
+        if base_url is not None:
+            self.base_url = base_url
+        if root_url is not None:
+            self.root_url = root_url
+        if number_of_workers > 20:
+            self.number_of_threads = 20
+        elif number_of_workers > 0:
+            self.number_of_threads = number_of_workers
+        self.threads_executor = ThreadPoolExecutor(
+            max_workers=self.number_of_threads, thread_name_prefix="worker"
+        )
         self.visited_urls = set()
-        if not os.path.exists(self.file_contents_path):
-            os.makedirs(self.file_contents_path)
-        if not os.path.exists(self.computations_path):
-            os.makedirs(self.computations_path)
 
-    def start_crawling(self):
+    def crawl(self):
         try:
+            print(
+                "Crawling {} with {} number of workers".format(
+                    self.root_url, self.number_of_threads
+                )
+            )
+            # Add root url to the queue to perform BFS to crawl pages
             self.queue.put(self.root_url)
+            # Run always until the threshold pages are crawled or queue is empty
             while True:
-                #
-                if self.atomic_counter.get_value() >= self.pages_to_crawl:
+                # If threshold pages are crawled, cancel pending thread tasks and exit
+                if self.unique_counter.value >= self.pages_to_crawl:
                     self.threads_executor.shutdown(cancel_futures=True)
                     break
-
+                # If queue is empty, wait for all threads to finish their work
                 if self.queue.empty():
-                    # check if no thread has active job.
-                    done, not_done = wait(self.task_list, return_when=ALL_COMPLETED)
+                    wait(self.task_list, return_when=ALL_COMPLETED)
+                    # if the queue is still empty, there are no more pages to crawl
                     if self.queue.empty():
                         break
-                    # self.task_list.clear()
-                    # if thread has a job, give continue keyword
-                    # if thread does not have active job, break
-
-                # print("hello")
+                url = ""
                 try:
                     url = self.queue.get()
                 except Exception as e:
                     print(e)
+                # If the url is already visited, move on to next url
                 if url in self.visited_urls:
                     continue
+                # Mark url as visited
                 self.visited_urls.add(url)
-                if self.atomic_counter.get_value() <= self.pages_to_crawl:
+                # If the threshold pages are not yet reached, submit the url to a thread for further processing
+                if self.unique_counter.value <= self.pages_to_crawl:
                     task = self.threads_executor.submit(self.process_url, url)
                     self.task_list.append(task)
 
             print(self.url_with_outgoing_links)
-            with open(self.url_maps_path, 'w') as file:
+            # Write the link structure of collection (url->outgoing_links) to file system for later processing
+            with open(url_maps_path, "w") as file:
                 file.write(json.dumps(self.url_with_outgoing_links))
+            # Create a map of (url->uniqueID) and (uniqueID->url) to be used for ranking algorithms
+            self.create_id_url_map()
 
         except Exception as e:
             print(e)
 
+    # Function that is executed by a thread. The function makes a network request to the url to get its content.
+    # The content is then analyzed for fetching the outgoing links.
     def process_url(self, url):
         try:
-
-            if self.atomic_counter.get_value() >= self.pages_to_crawl:
+            # Check if threshold pages are reached. Due to multithreading, it is possible for an other thread
+            # to process a url asynchronously. Checking everytime before processing would minimally guarantee
+            # that the page processed will be a worthy computation
+            if self.unique_counter.value >= self.pages_to_crawl:
                 return
             print(url)
             value = {}
@@ -333,6 +153,8 @@ class WebCrawler:
         finally:
             return
 
+    # Function to add unvisited outgoing links from the html page content of a url. The anchor tags with href attribute
+    # are searched and filtered
     def get_links_from_url_content(self, json_object):
         result = json_object
         request_status = result["status"]
@@ -340,59 +162,61 @@ class WebCrawler:
 
             page_object = BeautifulSoup(result["content"], features="html.parser")
             links = self.parse_content(page_object, result["url"])
+            # Append the outgoing links to the global map to update link structure
             self.url_with_outgoing_links[result["url"]] = links
             self.write_content_to_persistent_storage(result["url"], result["content"])
             for link in links:
+                # Check if url is not visited already. it is possible that the same outgoing link
+                # may be visited by different threads from different parent urls
                 if link not in self.visited_urls:
                     self.queue.put(link)
 
+    # Function to write the url and its page text content to the file system
     def write_content_to_persistent_storage(self, url_link, content):
-        next_id = str(self.atomic_counter.increment())
-        with open(os.path.join(self.file_contents_path, next_id), 'a+') as handle:
-            file_object = {
-                "url": url_link,
-                "content": content
-            }
+        # Get a unique id that acts a document id for the url before writing to file system.
+        self.unique_counter.increment()
+        next_id = str(self.unique_counter.value)
+        with open(os.path.join(file_contents_path, next_id), "a+") as handle:
+            file_object = {"url": url_link, "content": content}
             file_object_json = json.dumps(file_object)
             handle.write(file_object_json)
 
+    # Function to fetch each of outgoing link from anchor tag of url. Each of the link is restricted to stay
+    # within {base_url} domain and not match any of the extension given in exclusion filters
     def parse_content(self, soup, url):
-
-        links = soup.find_all('a')
+        links = soup.find_all("a")
         result = filterAnchorTags(links, url)
         refined_results = filterExclusionUrls(result)
-
         refined_results_2 = filterDomainUrls(refined_results)
-
         result = formCorrectUrls(refined_results_2)
         return result
 
-    #     # Function to create two maps (url->id and id->url) and write to file system
+    # Function to create two maps (url->id and id->url) and write to file system
     def create_id_url_map(self):
         try:
             urls = None
-            for root, dirs, files in os.walk(WebCrawler.file_contents_path):
+            for root, dirs, files in os.walk(file_contents_path):
                 urls = files
 
             if urls is None:
                 return
 
             for url_file in urls:
-                with open(os.path.join(WebCrawler.file_contents_path, url_file)) as handle:
-                    url = json.loads(handle.read())['url']
+                with open(os.path.join(file_contents_path, url_file)) as handle:
+                    url = json.loads(handle.read())["url"]
                     url_id = url_file
                     self.url_to_code[url] = url_id
                     self.code_to_url[url_id] = url
 
-            with open(self.url_to_code_map_path, "w+") as handle:
+            with open(url_to_code_map_path, "w") as handle:
                 handle.write(json.dumps(self.url_to_code))
 
-            with open(self.code_to_url_map_path, "w+") as handle:
+            with open(code_to_url_map_path, "w") as handle:
                 handle.write(json.dumps(self.code_to_url))
 
         except Exception as e:
             print("Exception occurred ", e)
 
 
-c = WebCrawler()
-c.start_crawling()
+crawler = SpiderCrawler(number_of_workers=20)
+crawler.crawl()

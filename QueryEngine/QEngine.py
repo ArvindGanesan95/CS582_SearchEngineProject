@@ -12,6 +12,13 @@ from Preprocessor.preprocessor import (CaseConverter,
                                        Pipeline, RemovePunctuationHandler, RemoveNumbersHandler
                                        )
 
+from Utilities.Globals import (url_to_code_map_path,
+                               code_to_url_map_path,
+                               url_page_ranks_path,
+                               inverted_index_directory_path as inverted_index_path,
+                               link_structures_path as url_outgoing_links_map_path
+                               )
+
 
 class QueryEngine:
     queries = None
@@ -23,11 +30,6 @@ class QueryEngine:
     url_code_map = None
     url_page_ranks_map = None
     url_outgoing_links_map = None
-    url_code_map_path = r'../Computations/url_code_map.json'
-    url_page_ranks_path = r'../Computations/url_page_ranks.txt'
-    inverted_index_path = r'../Computations/inverted_index.p'
-    url_outgoing_links_map_path = r'../Computations/urlmaps.txt'
-    code_url_map_path = r'../Computations/code_to_url_map.json'
     code_url_map = None
 
     def __init__(self, path=None):
@@ -41,9 +43,9 @@ class QueryEngine:
         self.url_outgoing_links_map = self.load_url_outgoing_links_map()
         self.url_code_map = self.load_url_code_map()
 
-    def execute_queries(self):
-        for query in self.queries:
-            self.process_query(query)
+    # def execute_queries(self):
+    #     for query in self.queries:
+    #         self.process_query(query)
 
     def get_queries(self):
         return self.queries
@@ -136,7 +138,7 @@ class QueryEngine:
 
     def load_inverted_index(self):
         try:
-            inverted_index_information = pickle.load(open(self.inverted_index_path, "rb"))
+            inverted_index_information = pickle.load(open(inverted_index_path, "rb"))
             self.inverted_index_map = inverted_index_information['inverted_index']
             self.total_documents_in_collection = inverted_index_information['total_docs']
             self.document_vector_lengths = inverted_index_information["document_vector_lengths"]
@@ -146,7 +148,7 @@ class QueryEngine:
     def load_code_url_map(self):
         code_url_map = None
         try:
-            with open(self.code_url_map_path) as handle:
+            with open(code_to_url_map_path) as handle:
                 code_url_map = json.load(handle)
         except Exception as e:
             print("Exception occurred", str(e))
@@ -156,7 +158,7 @@ class QueryEngine:
     def load_url_code_map(self):
         url_code_map = None
         try:
-            with open(self.url_code_map_path) as handle:
+            with open(url_to_code_map_path) as handle:
                 url_code_map = json.load(handle)
         except Exception as e:
             print("Exception occurred", str(e))
@@ -166,7 +168,7 @@ class QueryEngine:
     def load_page_ranks(self):
         url_page_ranks = None
         try:
-            with open(self.url_page_ranks_path) as handle:
+            with open(url_page_ranks_path) as handle:
                 url_page_ranks = json.loads(handle.read())
         except Exception as e:
             print("Exception occurred", str(e))
@@ -176,7 +178,7 @@ class QueryEngine:
     def load_url_outgoing_links_map(self):
         url_links_map = None
         try:
-            with open(self.url_outgoing_links_map_path) as handle:
+            with open(url_outgoing_links_map_path) as handle:
                 url_links_map = json.loads(handle.read())
         except Exception as e:
             print("Exception occurred", str(e))

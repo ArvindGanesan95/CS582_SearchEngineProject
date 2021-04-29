@@ -43,11 +43,11 @@ def run_hits_algorithm(document_ids, code_url_map, url_object, url_code_map):
         initial_set = document_ids
         result = dict()
         if code_url_map is None:
-            return
+            return result
         if url_object is None:
-            return
+            return result
         if url_code_map is None:
-            return
+            return result
 
         # expand root set by adding all pages in from link structure that is being pointed by every page in p
         G = nx.DiGraph()
