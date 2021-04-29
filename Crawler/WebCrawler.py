@@ -230,15 +230,17 @@
 # c.start_crawling()
 import json
 import os
+import urllib
 from concurrent.futures import ThreadPoolExecutor, wait, ALL_COMPLETED
 from queue import Queue
+from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
 from urllib3.exceptions import InsecureRequestWarning
 
 from Crawler.AtomicCounter import AtomicCounter
-from Parser.HTMLParser import MyHTMLParser
+from Parser.HTMLParser import filterAnchorTags, filterExclusionUrls, filterDomainUrls, formCorrectUrls
 
 # Suppress only the single warning from urllib3 needed.
 requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)
@@ -247,7 +249,7 @@ requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)
 class WebCrawler:
     root_url = "https://www.cs.uic.edu/"
     pages_to_crawl = 3000
-    number_of_threads = 25
+    number_of_threads = 1
     threads_executor = ""
     visited_urls = None
     atomic_counter = AtomicCounter()
@@ -302,9 +304,6 @@ class WebCrawler:
                     task = self.threads_executor.submit(self.process_url, url)
                     self.task_list.append(task)
 
-                # task.add_done_callback(self.get_links_from_url_content)
-                # self.write_content_to_persistent_storage(url)
-
             print(self.url_with_outgoing_links)
             with open(self.url_maps_path, 'w') as file:
                 file.write(json.dumps(self.url_with_outgoing_links))
@@ -314,17 +313,10 @@ class WebCrawler:
 
     def process_url(self, url):
         try:
-            # print(threading.current_thread().name)
+
             if self.atomic_counter.get_value() >= self.pages_to_crawl:
                 return
-            # try:
-            #     url = self.queue.get()
-            #     if url in self.visited_urls:
-            #         return
-            #     self.visited_urls.add(url)
             print(url)
-            # except Exception as e:
-            #     print(e)
             value = {}
             with requests.get(url, verify=False, timeout=120) as conn:
                 # Create Dictionary
@@ -337,27 +329,19 @@ class WebCrawler:
 
         except Exception as e:
             print(str(e))
-            return json.dumps(value)
+
         finally:
-            return json.dumps(value)
+            return
 
     def get_links_from_url_content(self, json_object):
         result = json_object
         request_status = result["status"]
-        # print(result["url"])
         if request_status == 200:
-            links = self.parse_content(result["content"], result["url"])
 
-            # print(result["url"], result)
-            # if result["url"] in self.url_with_outgoing_links:
+            page_object = BeautifulSoup(result["content"], features="html.parser")
+            links = self.parse_content(page_object, result["url"])
             self.url_with_outgoing_links[result["url"]] = links
-            # else:
-            #     self.url_with_outgoing_links[result["url"]] = []
-            #     self.url_with_outgoing_links[result["url"]].append(link)
-            page_content = BeautifulSoup(result["content"], features="html.parser").get_text()
-            # print("SIZE", len(self.url_with_outgoing_links.keys()))
-            self.write_content_to_persistent_storage(result["url"], page_content)
-            self.write_links_to_persistent_storage(result["url"], links)
+            self.write_content_to_persistent_storage(result["url"], result["content"])
             for link in links:
                 if link not in self.visited_urls:
                     self.queue.put(link)
@@ -372,15 +356,16 @@ class WebCrawler:
             file_object_json = json.dumps(file_object)
             handle.write(file_object_json)
 
-    def parse_content(self, content, url):
-        exclusion_filter = '.com'
-        html_parser = MyHTMLParser(self.root_url, self.base_url)
-        html_parser.feed(content)
-        links = html_parser.get_data()
-        return links
+    def parse_content(self, soup, url):
 
-    def write_links_to_persistent_storage(self, url, links):
-        pass
+        links = soup.find_all('a')
+        result = filterAnchorTags(links, url)
+        refined_results = filterExclusionUrls(result)
+
+        refined_results_2 = filterDomainUrls(refined_results)
+
+        result = formCorrectUrls(refined_results_2)
+        return result
 
     #     # Function to create two maps (url->id and id->url) and write to file system
     def create_id_url_map(self):
@@ -408,5 +393,6 @@ class WebCrawler:
         except Exception as e:
             print("Exception occurred ", e)
 
+
 c = WebCrawler()
-c.create_id_url_map()
+c.start_crawling()
