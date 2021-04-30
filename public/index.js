@@ -42,6 +42,7 @@ const getResultsForQuery = () => {
     }).fail((error)=> {
         console.error("Error occurred"+error)
           $('#loadingScreen').css("display", "none");
+          alert(error)
         // Show it in hidden box
     })
 }

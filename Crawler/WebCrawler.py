@@ -57,8 +57,8 @@ class SpiderCrawler(WebCrawler):
     def __init__(
         self, root_url=None, base_url=None, pages_to_crawl=None, number_of_workers=10
     ):
-        #shutil.rmtree(file_contents_path)
-        #shutil.rmtree(computations_path)
+        shutil.rmtree(file_contents_path)
+        shutil.rmtree(computations_path)
         if not os.path.exists(file_contents_path):
             os.makedirs(file_contents_path)
         if not os.path.exists(computations_path):
@@ -216,7 +216,3 @@ class SpiderCrawler(WebCrawler):
 
         except Exception as e:
             print("Exception occurred ", e)
-
-
-crawler = SpiderCrawler(number_of_workers=20)
-crawler.crawl()

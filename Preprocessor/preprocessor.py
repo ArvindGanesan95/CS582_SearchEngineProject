@@ -19,7 +19,7 @@ T = TypeVar('T')
 # Adapted from https://github.com/iluwatar/java-design-patterns
 # MIT-License : https://github.com/iluwatar/java-design-patterns/blob/master/LICENSE.md
 class PreprocessorPipeline(Generic[T]):
-    stop_words_file_path = os.path.join(r'E:\IR\Project - Copy', 'Utilities', 'stopwords.txt')
+    stop_words_file_path = './Preprocessor/stopwords.txt'
     ps = PorterStemmer()
     stop_words_list = list()
 
@@ -109,7 +109,7 @@ class RemoveWordsHandler(PreprocessorPipeline):
 
 # The pipeline instantiate class
 class Pipeline:
-    pipelineSteps: list[PreprocessorPipeline] = list()
+    pipelineSteps: list = list()
     firstStepInput: list = NotImplemented
     was_pipeline_executed_already: bool = False
 

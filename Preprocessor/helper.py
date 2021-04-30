@@ -12,7 +12,7 @@ import pickle
 import networkx as nx
 
 from InvertedIndex import InvertedIndex
-from preprocessor import (
+from Preprocessor.preprocessor import (
     Pipeline,
     CaseConverter,
     StopWordRemoval,
@@ -187,23 +187,4 @@ class Preprocessor:
         if len(files) == 0:
             raise Exception("Files not present in given path {}".format(self.dataset_path))
         process_files(files, self.dataset_path)
-        return
-
-
-if __name__ == '__main__':
-    try:
-        p = Preprocessor(file_contents_path)
-        p.start_process()
-
-        inverted_index_information = dict()
-        inverted_index_information['total_docs'] = total_documents_in_the_collection
-        inverted_index_information['inverted_index'] = inverted_index_map
-        inverted_index_information["document_vector_lengths"] = document_vector_lengths
-
-        # write inverted index to file system in a serialized form
-        pickle.dump(inverted_index_information, open(inverted_index_directory_path, "wb"))
-
-        compute_page_rank()
-
-    except Exception as e:
-        print("Exception occurred", "\n", e)
+        return total_documents_in_the_collection

@@ -1,28 +1,29 @@
 import json
 import math
 import operator
-import os
 import pickle
 from collections import Counter
-from QueryEngine import SearchUtilities
+
 from Preprocessor.preprocessor import (CaseConverter,
                                        Tokenizer,
                                        StopWordRemoval,
                                        PorterStemmerHandler,
                                        Pipeline, RemovePunctuationHandler, RemoveNumbersHandler
                                        )
-
+from QueryEngine import SearchUtilities
 from Utilities.Globals import (url_to_code_map_path,
                                code_to_url_map_path,
                                url_page_ranks_path,
                                inverted_index_directory_path as inverted_index_path,
-                               link_structures_path as url_outgoing_links_map_path
+                               link_structures_path as url_outgoing_links_map_path,
+                               query_path
+
                                )
 
 
 class QueryEngine:
     queries = None
-    query_path = os.path.join(r'E:\IR\Project - Copy', 'Utilities', 'queries.txt')
+    query_path = query_path
     document_score_map = dict()
     document_vector_lengths = dict()
     inverted_index_map = dict()
@@ -133,6 +134,7 @@ class QueryEngine:
                 queries = handle.read().split("\n")
         except Exception as e:
             print("Exception occurred", str(e))
+            raise e
         finally:
             return queries
 
