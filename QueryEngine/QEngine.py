@@ -184,6 +184,7 @@ class QueryEngine:
                 url_links_map = json.loads(handle.read())
         except Exception as e:
             print("Exception occurred", str(e))
+            raise e
         finally:
             return url_links_map
 
