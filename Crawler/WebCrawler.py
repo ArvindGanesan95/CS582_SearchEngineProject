@@ -191,7 +191,7 @@ class SpiderCrawler(WebCrawler):
         # Get a unique id that acts a document id for the url before writing to file system.
         self.unique_counter.increment()
         next_id = str(self.unique_counter.value)
-        with open(os.path.join(file_contents_path, next_id), "a+") as handle:
+        with open(os.path.join(file_contents_path, next_id+".json"), "a+") as handle:
             file_object = {"url": url_link, "content": content}
             file_object_json = json.dumps(file_object)
             handle.write(file_object_json)
@@ -219,9 +219,10 @@ class SpiderCrawler(WebCrawler):
                 return
 
             for url_file in urls:
-                with open(os.path.join(file_contents_path, url_file)) as handle:
-                    url = json.loads(handle.read())["url"]
-                    url_id = url_file
+                with open(os.path.join(file_contents_path, url_file), 'r') as handle:
+                    url_object = json.loads(handle.read())
+                    url = url_object["url"]
+                    url_id = url_file.split('.')[0]
                     self.url_to_code[url] = url_id
                     self.code_to_url[url_id] = url
 
@@ -234,3 +235,7 @@ class SpiderCrawler(WebCrawler):
         except Exception as e:
             print("Exception occurred line 235", e)
             raise e
+
+#
+# c = SpiderCrawler()
+# c.create_id_url_map()
