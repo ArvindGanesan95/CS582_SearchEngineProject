@@ -5,21 +5,31 @@ import networkx as nx
 
 
 def compute_cosine_similarity(query_vector_length, document_score_map, document_vector_lengths):
-    # For every document, divide its current score by combined product of document length and query length
-    # document length is the square root of the sum of squares of the weights associated with the document d
-    # query length is the square root of the sum of squares of weights associated with the query q
-    for document in document_score_map:
-        existing_score = document_score_map.get(document)
-        new_score = existing_score / (math.sqrt(document_vector_lengths[document]) * math.sqrt(query_vector_length))
-        document_score_map.__setitem__(document, new_score)
+    try:
+        # For every document, divide its current score by combined product of document length and query length
+        # document length is the square root of the sum of squares of the weights associated with the document d
+        # query length is the square root of the sum of squares of weights associated with the query q
+        for document in document_score_map:
+            existing_score = document_score_map.get(document)
+            new_score = existing_score / (math.sqrt(document_vector_lengths[document]) * math.sqrt(query_vector_length))
+            document_score_map.__setitem__(document, new_score)
+
+    except Exception as e:
+        print("Exception occurred", e)
+        raise e
 
 
 # Function that updates a dictionary with the given key and value
 def update_document_score(document_id, score, dictionary):
-    existing_score = dictionary.get(document_id, 0)
-    dictionary.__setitem__(document_id, existing_score + score)
+    try:
+        existing_score = dictionary.get(document_id, 0)
+        dictionary.__setitem__(document_id, existing_score + score)
+    except Exception as e:
+        print("Exception occurred", e)
+        raise e
 
 
+# Function to get page rank scores for relevant documents returned from cosine similarity
 def get_page_rank_scores(document_ids, url_page_ranks):
     try:
         result = dict()
@@ -31,13 +41,14 @@ def get_page_rank_scores(document_ids, url_page_ranks):
 
         result = dict(
             sorted(page_rank_results.items(), key=operator.itemgetter(1), reverse=True))
-
+        return result
     except Exception as e:
         print("Exception occurred ", str(e))
-    finally:
-        return result
+        raise e
 
 
+# Function to return the converged authority scores for the documents in expanded set
+# HITS algorithm is using relevant documents from cosine similarity
 def run_hits_algorithm(document_ids, code_url_map, url_object, url_code_map):
     try:
         initial_set = document_ids
@@ -66,9 +77,8 @@ def run_hits_algorithm(document_ids, code_url_map, url_object, url_code_map):
 
         hubs, authorities = nx.hits(G)
         result = dict(
-            sorted(hubs.items(), key=operator.itemgetter(1), reverse=True))
-
+            sorted(authorities.items(), key=operator.itemgetter(1), reverse=True))
+        return result
     except Exception as e:
         print("Exception occurred ", str(e))
-    finally:
-        return result
+        raise e

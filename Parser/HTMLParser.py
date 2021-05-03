@@ -13,7 +13,22 @@ global_url = ""
 base_url = "uic.edu"
 
 
+# Write a decorator function to handle exceptions. This makes adding try/catch clauses
+# to be written in one place instead of adding them to each and every required position
+def exception_handler(func):
+    def exception_function(*args, **kwargs):
+        try:
+            value = func(*args, **kwargs)
+            return value
+        except Exception as e:
+            print(f"Exception in {func.__name__} :: ", e)
+            raise e
+
+    return exception_function
+
+
 # Function check the href attribute of anchor tag
+@exception_handler
 def filterAnchorTags(links, web_url):
     result = set()
     global global_url
@@ -31,6 +46,7 @@ def filterAnchorTags(links, web_url):
 
 
 # Function to check if the url falls into any of exclusion filter
+@exception_handler
 def filterExclusionUrls(urls):
     refined_results = []
     for link in urls:
@@ -45,6 +61,7 @@ def filterExclusionUrls(urls):
 
 
 # Function to check if the url satisfies the domain given in the crawler
+@exception_handler
 def filterDomainUrls(urls):
     refined_results = []
     for url in urls:
@@ -55,6 +72,7 @@ def filterDomainUrls(urls):
 
 # Function to allow only http or https protocols, change http to https protocol, form the new url
 # The protocol is changed to https to avoid duplicates
+@exception_handler
 def formCorrectUrls(urls):
     refined_results = []
     for url in urls:

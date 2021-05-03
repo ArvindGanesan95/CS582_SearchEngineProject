@@ -44,100 +44,100 @@ class QueryEngine:
         self.url_outgoing_links_map = self.load_url_outgoing_links_map()
         self.url_code_map = self.load_url_code_map()
 
-    # def execute_queries(self):
-    #     for query in self.queries:
-    #         self.process_query(query)
+    # Function to process a given query with an optional parameter of ranking algorithm
+    def process_query(self, query, ranking_algorithm=None):
 
-    def get_queries(self):
-        return self.queries
+        try:
+            pipeline = Pipeline()
+            pipeline.add_step(CaseConverter())
+            pipeline.add_step(Tokenizer())
+            pipeline.add_step(StopWordRemoval())
+            pipeline.add_step(PorterStemmerHandler())
+            pipeline.add_step(StopWordRemoval())
+            pipeline.add_step(RemovePunctuationHandler())
+            pipeline.add_step(RemoveNumbersHandler())
+            pipeline.set_initial_data(query)
+            pipeline.execute()
+            result = pipeline.get_result()
+            query_terms = Counter(result)
+            query_vector_length = 0
+            self.document_score_map.clear()
 
-    def process_query(self, query, ranking_algorithm):
+            for term in query_terms:
+                # find relevant documents from inverted index for the current query term
+                inverted_index_object = self.inverted_index_map.get(term, None)
+                # If a term is not present in inverted index, it is of no use for retrieval
+                if inverted_index_object is None:
+                    continue
+                # Get the document frequency for the current query term
+                document_frequency = inverted_index_object.document_frequency
+                inverse_document_frequency = math.log2(self.total_documents_in_collection / document_frequency)
+                # TF-IDF is the product of TF  * IDF
+                query_tf_idf = query_terms[term] * inverse_document_frequency
+                # add the square of tf-idf to the global variable to keep track of query length
+                query_vector_length = query_vector_length + math.pow(query_tf_idf, 2)
+                # for every document containing the current query term, calculate tf-idf
+                for document in inverted_index_object.inverted_index:
+                    # calculate tf-idf for the current query term
+                    term_occurrence = document["term_frequency"]
+                    tf_idf_document = term_occurrence * inverse_document_frequency
+                    numerator_of_cosine_similarity = tf_idf_document * query_tf_idf
+                    # Keep accumulating the numerator part of cosine similarity for the corresponding document d
+                    SearchUtilities.update_document_score(document["document_id"], numerator_of_cosine_similarity,
+                                                          self.document_score_map)
 
-        pipeline = Pipeline()
-        pipeline.add_step(CaseConverter())
-        pipeline.add_step(Tokenizer())
-        pipeline.add_step(StopWordRemoval())
-        pipeline.add_step(PorterStemmerHandler())
-        pipeline.add_step(StopWordRemoval())
-        pipeline.add_step(RemovePunctuationHandler())
-        pipeline.add_step(RemoveNumbersHandler())
-        pipeline.set_initial_data(query)
-        pipeline.execute()
-        result = pipeline.get_result()
-        query_terms = Counter(result)
-        query_vector_length = 0
-        self.document_score_map.clear()
+            SearchUtilities.compute_cosine_similarity(query_vector_length,
+                                                      self.document_score_map, self.document_vector_lengths)
 
-        for term in query_terms:
-            # find relevant documents from inverted index for the current query term
-            inverted_index_object = self.inverted_index_map.get(term, None)
-            # If a term is not present in inverted index, it is of no use for retrieval
-            if inverted_index_object is None:
-                continue
-            # Get the document frequency for the current query term
-            document_frequency = inverted_index_object.document_frequency
-            inverse_document_frequency = math.log2(self.total_documents_in_collection / document_frequency)
-            # TF-IDF is the product of TF  * IDF
-            query_tf_idf = query_terms[term] * inverse_document_frequency
-            # add the square of tf-idf to the global variable to keep track of query length
-            query_vector_length = query_vector_length + math.pow(query_tf_idf, 2)
-            # for every document containing the current query term, calculate tf-idf
-            for document in inverted_index_object.inverted_index:
-                # calculate tf-idf for the current query term
-                term_occurrence = document["term_frequency"]
-                tf_idf_document = term_occurrence * inverse_document_frequency
-                numerator_of_cosine_similarity = tf_idf_document * query_tf_idf
-                # Keep accumulating the numerator part of cosine similarity for the corresponding document d
-                SearchUtilities.update_document_score(document["document_id"], numerator_of_cosine_similarity,
-                                                      self.document_score_map)
+            result = self.document_score_map
+            print("Ranks ", "\n", result)
 
-        SearchUtilities.compute_cosine_similarity(query_vector_length,
-                                                  self.document_score_map, self.document_vector_lengths)
+            top_pages = result
 
-        result = self.document_score_map
-        print("Ranks ", "\n", result)
+            if len(result.keys()) > 0 and ranking_algorithm is not None:
 
-        top_pages = result
+                if ranking_algorithm == "pagerank":
+                    page_rank_result = SearchUtilities.get_page_rank_scores(result, self.url_page_ranks)
+                    for page in page_rank_result:
+                        top_pages[page] += page_rank_result[page]
 
-        if len(result.keys()) > 0 and ranking_algorithm is not None:
+                elif ranking_algorithm == "hits":
+                    hits_result = SearchUtilities.run_hits_algorithm(result,
+                                                                     self.code_url_map, self.url_outgoing_links_map,
+                                                                     self.url_code_map)
+                    try:
+                        for page in hits_result:
+                            if page not in top_pages:
+                                top_pages[page] = 0
+                            else:
+                                top_pages[page] += hits_result[page]
+                    except Exception as e:
+                        print("Exception", e)
 
-            if ranking_algorithm == "pagerank":
-                page_rank_result = SearchUtilities.get_page_rank_scores(result, self.url_page_ranks)
-                for page in page_rank_result:
-                    top_pages[page] += page_rank_result[page]
+            final_result = list()
+            top_pages = dict(
+                sorted(top_pages.items(), key=operator.itemgetter(1), reverse=True))
+            for key in top_pages:
+                final_result.append(self.code_url_map[key])
 
-            elif ranking_algorithm == "hits":
-                hits_result = SearchUtilities.run_hits_algorithm(result,
-                                                                 self.code_url_map, self.url_outgoing_links_map,
-                                                                 self.url_code_map)
-                try:
-                    for page in hits_result:
-                        if page not in top_pages:
-                            top_pages[page] = 0
-                        else:
-                            top_pages[page] += hits_result[page]
-                except Exception as e:
-                    print("Exception", e)
+            return final_result
 
-        final_result = list()
-        top_pages = dict(
-            sorted(top_pages.items(), key=operator.itemgetter(1), reverse=True))
-        for key in top_pages:
-            final_result.append(self.code_url_map[key])
+        except Exception as e:
+            print("Exception occurred ", e)
+            raise e
 
-        return final_result
-
+    # Function to read queries from a text file
     def read_queries(self, query_path):
         queries = []
         try:
             with open(query_path) as handle:
                 queries = handle.read().split("\n")
+            return queries
         except Exception as e:
             print("Exception occurred", str(e))
             raise e
-        finally:
-            return queries
 
+    # Function to load inverted index
     def load_inverted_index(self):
         try:
             inverted_index_information = pickle.load(open(inverted_index_path, "rb"))
@@ -146,47 +146,51 @@ class QueryEngine:
             self.document_vector_lengths = inverted_index_information["document_vector_lengths"]
         except Exception as e:
             print("Exception occurred", str(e))
+            raise e
 
+    # Function to load uniqueID->url map
     def load_code_url_map(self):
         code_url_map = None
         try:
             with open(code_to_url_map_path) as handle:
                 code_url_map = json.load(handle)
+            return code_url_map
         except Exception as e:
             print("Exception occurred", str(e))
-        finally:
-            return code_url_map
+            raise e
 
+    # Function to load url->uniqueID map
     def load_url_code_map(self):
         url_code_map = None
         try:
             with open(url_to_code_map_path) as handle:
                 url_code_map = json.load(handle)
+            return url_code_map
         except Exception as e:
             print("Exception occurred", str(e))
-        finally:
-            return url_code_map
+            raise e
 
+    # Function to load page rank scores of the collection link structure
     def load_page_ranks(self):
         url_page_ranks = None
         try:
             with open(url_page_ranks_path) as handle:
                 url_page_ranks = json.loads(handle.read())
+            return url_page_ranks
         except Exception as e:
             print("Exception occurred", str(e))
-        finally:
-            return url_page_ranks
+            raise e
 
+    # Function to load the adjacency list representation of downloaded web pages
     def load_url_outgoing_links_map(self):
         url_links_map = None
         try:
             with open(url_outgoing_links_map_path) as handle:
                 url_links_map = json.loads(handle.read())
+            return url_links_map
         except Exception as e:
             print("Exception occurred", str(e))
             raise e
-        finally:
-            return url_links_map
 
 # q = QueryEngine()
-# ranks = q.process_query("UIC courses")
+# ranks = q.process_query("Compute")

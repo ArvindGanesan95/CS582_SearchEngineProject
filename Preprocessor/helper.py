@@ -7,7 +7,6 @@ import json
 import math
 import operator
 import os
-import pickle
 
 import networkx as nx
 
@@ -21,10 +20,7 @@ from Preprocessor.preprocessor import (
     RemovePunctuationHandler,
     RemoveNumbersHandler,
 )
-
 from Utilities.Globals import (
-    file_contents_path,
-    inverted_index_directory_path,
     url_to_code_map_path,
     link_structures_path,
     url_page_ranks_path,
@@ -34,6 +30,20 @@ inverted_index_map = dict()
 total_documents_in_the_collection = 0
 document_score_map = dict()
 document_vector_lengths = dict()
+
+
+# Write a decorator function to handle exceptions. This makes adding try/catch clauses
+# to be written in one place instead of adding them to each and every required position
+def exception_handler(func):
+    def exception_function(*args, **kwargs):
+        try:
+            value = func(*args, **kwargs)
+            return value
+        except Exception as e:
+            print(f"Exception in {func.__name__} :: ", e)
+            raise e
+
+    return exception_function
 
 
 def compute_page_rank():
@@ -84,6 +94,7 @@ def compute_page_rank():
 
     except Exception as e:
         print("Exception occurred ", str(e))
+        raise e
 
 
 # Function to get the list of files from a directory
@@ -148,11 +159,13 @@ def process_files(files, parent_path):
 
 
 # Function that updates a dictionary with the given key and value
+@exception_handler
 def update_document_score(document_id, score, dictionary):
     existing_score = dictionary.get(document_id, 0)
     dictionary.__setitem__(document_id, existing_score + score)
 
 
+@exception_handler
 def compute_document_length():
     for word in inverted_index_map:
         # object that contains the document frequency property and list of documents along with term frequency
@@ -182,6 +195,7 @@ class Preprocessor:
         self.dataset_path = dataset_path
         self.inverted_index_map = dict()
 
+    @exception_handler
     def start_process(self):
         files = get_files_from_directory(self.dataset_path)
         if len(files) == 0:

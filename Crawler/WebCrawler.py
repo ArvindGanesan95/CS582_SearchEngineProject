@@ -34,6 +34,20 @@ from Utilities.Globals import (
 disable_warnings(InsecureRequestWarning)
 
 
+# Write a decorator function to handle exceptions. This makes adding try/catch clauses
+# to be written in one place instead of adding them to each and every required position
+def exception_handler(func):
+    def exception_function(*args, **kwargs):
+        try:
+            value = func(*args, **kwargs)
+            return value
+        except Exception as e:
+            print(f"Exception in {func.__name__} :: ", e)
+            raise e
+
+    return exception_function
+
+
 # An abstract class to denote a generic crawler
 class WebCrawler(ABC):
     root_url = "https://www.cs.uic.edu/"
@@ -55,7 +69,7 @@ class SpiderCrawler(WebCrawler):
     task_list = list()
 
     def __init__(
-        self, root_url=None, base_url=None, pages_to_crawl=None, number_of_workers=10
+            self, root_url=None, base_url=None, pages_to_crawl=None, number_of_workers=10
     ):
         shutil.rmtree(file_contents_path, ignore_errors=True)
         shutil.rmtree(computations_path, ignore_errors=True)
@@ -126,6 +140,7 @@ class SpiderCrawler(WebCrawler):
 
         except Exception as e:
             print(e)
+            raise e
 
     # Function that is executed by a thread. The function makes a network request to the url to get its content.
     # The content is then analyzed for fetching the outgoing links.
@@ -149,12 +164,11 @@ class SpiderCrawler(WebCrawler):
 
         except Exception as e:
             print(str(e))
-
-        finally:
-            return
+            raise e
 
     # Function to add unvisited outgoing links from the html page content of a url. The anchor tags with href attribute
     # are searched and filtered
+    @exception_handler
     def get_links_from_url_content(self, json_object):
         result = json_object
         request_status = result["status"]
@@ -172,6 +186,7 @@ class SpiderCrawler(WebCrawler):
                     self.queue.put(link)
 
     # Function to write the url and its page text content to the file system
+    @exception_handler
     def write_content_to_persistent_storage(self, url_link, content):
         # Get a unique id that acts a document id for the url before writing to file system.
         self.unique_counter.increment()
@@ -183,6 +198,7 @@ class SpiderCrawler(WebCrawler):
 
     # Function to fetch each of outgoing link from anchor tag of url. Each of the link is restricted to stay
     # within {base_url} domain and not match any of the extension given in exclusion filters
+    @exception_handler
     def parse_content(self, soup, url):
         links = soup.find_all("a")
         result = filterAnchorTags(links, url)
@@ -216,3 +232,4 @@ class SpiderCrawler(WebCrawler):
 
         except Exception as e:
             print("Exception occurred ", e)
+            raise e

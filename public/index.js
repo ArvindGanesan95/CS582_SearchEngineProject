@@ -40,9 +40,10 @@ const getResultsForQuery = () => {
         searchResultsList = JSON.parse(data.replaceAll("'", '"'))
         processData()
     }).fail((error)=> {
-        console.error("Error occurred"+error)
-          $('#loadingScreen').css("display", "none");
-          alert(error)
+        console.error("Error occurred"+error.responseText)
+
+          alert(error.responseText)
+          $('#overlay').css("display", "none");
         // Show it in hidden box
     })
 }
