@@ -1,3 +1,8 @@
+"""
+Submitted by,
+Arvind Ganesan
+NETID: aganes25@uic.edu
+"""
 from flask import Flask, request, abort
 
 from QueryEngine import QEngine as qe

@@ -210,6 +210,7 @@ class SpiderCrawler(WebCrawler):
     # Function to create two maps (url->id and id->url) and write to file system
     def create_id_url_map(self):
         try:
+            print("Inside create id url map function")
             urls = None
             for root, dirs, files in os.walk(file_contents_path):
                 urls = files
@@ -231,5 +232,5 @@ class SpiderCrawler(WebCrawler):
                 handle.write(json.dumps(self.code_to_url))
 
         except Exception as e:
-            print("Exception occurred ", e)
+            print("Exception occurred line 235", e)
             raise e

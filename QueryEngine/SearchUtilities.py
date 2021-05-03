@@ -1,3 +1,8 @@
+"""
+Submitted by,
+Arvind Ganesan
+NETID: aganes25@uic.edu
+"""
 import math
 import operator
 

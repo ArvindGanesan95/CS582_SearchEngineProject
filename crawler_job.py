@@ -1,3 +1,9 @@
+"""
+Submitted by,
+Arvind Ganesan
+NETID: aganes25@uic.edu
+"""
+
 from Crawler.WebCrawler import SpiderCrawler
 
 if __name__ == '__main__':
