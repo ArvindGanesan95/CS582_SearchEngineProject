@@ -1,5 +1,9 @@
 # SpidySearch
 
+Developed by,
+Arvind Ganesan
+aganes25@uic.edu
+
 A search engine is developed that allows the user to search the uic domain starting from the url  https://www.cs.uic.edu/ . This code is part of the final project of CS-582 Information Retrieval Course at UIC. The engine uses vector space model and uses TF-IDF and Cosine Similarity as the weighing and similarity measures.
 
 The search engine also includes two intelligent components which allows the user to apply PageRank or HITS algorithm along with Cosine Similarity.
@@ -71,5 +75,7 @@ Then, the file creates an inverted index, computes page rank scores for the coll
 # Results
 
 The architecture, design and the results of evaluation of the search engine could be found at the doc "ProjectReport.pdf"
+
+The results of the queries can be found at "query_results" folder
 
 
