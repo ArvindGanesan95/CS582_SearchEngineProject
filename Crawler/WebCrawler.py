@@ -220,16 +220,20 @@ class SpiderCrawler(WebCrawler):
 
             for url_file in urls:
                 with open(os.path.join(file_contents_path, url_file), 'r') as handle:
-                    url_object = json.loads(handle.read())
+                    print("Reading file {}".format(url_file))
+                    url_object = json.load(handle)
                     url = url_object["url"]
                     url_id = url_file.split('.')[0]
+                    print("URL ID {}".format(url_id))
                     self.url_to_code[url] = url_id
                     self.code_to_url[url_id] = url
 
             with open(url_to_code_map_path, "w") as handle:
+                print("Writing url to code")
                 handle.write(json.dumps(self.url_to_code))
 
             with open(code_to_url_map_path, "w") as handle:
+                print("Writing code to url")
                 handle.write(json.dumps(self.code_to_url))
 
         except Exception as e:
