@@ -41,8 +41,8 @@ def get_page_rank_scores(document_ids, url_page_ranks):
         if url_page_ranks is None:
             return
         page_rank_results = dict()
-        for document_ids in document_ids:
-            page_rank_results[document_ids] = url_page_ranks[document_ids]
+        for document_id in document_ids:
+            page_rank_results[document_id] = url_page_ranks[document_id]
 
         result = dict(
             sorted(page_rank_results.items(), key=operator.itemgetter(1), reverse=True))
@@ -80,7 +80,7 @@ def run_hits_algorithm(document_ids, code_url_map, url_object, url_code_map):
                     if url in neighbor_outgoing_links:
                         G.add_edge(url_code_map[link], document)
 
-        hubs, authorities = nx.hits(G)
+        hubs, authorities = nx.hits_numpy(G)
         result = dict(
             sorted(authorities.items(), key=operator.itemgetter(1), reverse=True))
         return result

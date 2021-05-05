@@ -85,6 +85,9 @@ def formCorrectUrls(urls):
             if scheme == "http":
                 scheme = "https"
             new_base_url = "{}://{}".format(scheme, base)
-            path = urllib.parse.urljoin(new_base_url, parts.path)
+            sub_path = parts.path
+            if not sub_path.endswith('/'):
+                sub_path = sub_path.join('/')
+            path = urllib.parse.urljoin(new_base_url, sub_path)
             refined_results.append(path)
     return refined_results

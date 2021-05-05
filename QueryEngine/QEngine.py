@@ -96,34 +96,82 @@ class QueryEngine:
                                                       self.document_score_map, self.document_vector_lengths)
 
             result = self.document_score_map
-            print("Ranks ", "\n", result)
+            print("Ranks ", "\n", len(result.keys()))
 
             top_pages = result
 
             if len(result.keys()) > 0 and ranking_algorithm is not None:
 
                 if ranking_algorithm == "pagerank":
-                    page_rank_result = SearchUtilities.get_page_rank_scores(result, self.url_page_ranks)
+                    page_rank_result = SearchUtilities.get_page_rank_scores(result.keys(), self.url_page_ranks)
+                    # 2 * (cosine - score * pagerank) / (cosine - score + pagerank)
+                    heuristic_1 = dict()
+                    heuristic_2 = dict()
+                    max_doc_score = max(top_pages.values())
+                    # heuristic 1 performs linear addition using page rank multiplier constant
+                    # heuristic_2 adds 25% to page rank and takes 50% from cosine similarity, if cosine similarity
+                    # is a dominating factor ( >75% of page rank). If not, the values are added linearly
                     for page in page_rank_result:
-                        top_pages[page] += page_rank_result[page]
+                        heuristic_1[page] = max_doc_score + top_pages[page] + (page_rank_result[page] * 2)
+                    for page in page_rank_result:
+                        if page_rank_result[page] > 0:
+                            percent_difference = (top_pages[page] - page_rank_result[page] /
+                                                  page_rank_result[page]) * 100
+                            if percent_difference > 75:
+                                improved_page_rank = page_rank_result[page] + page_rank_result[page] * 0.25
+                                heuristic_2[page] = top_pages[page] * 0.50 + improved_page_rank
+                            else:
+                                heuristic_2[page] = max_doc_score + top_pages[page] + page_rank_result[page] * 2
+                        else:
+                            heuristic_2[page] = max_doc_score + top_pages[page] + page_rank_result[page] * 2
+                    # check which heuristic yielded better total ranking score of relevant documents
+                    if sum(heuristic_1.values()) >= sum(heuristic_2.values()):
+                        top_pages = heuristic_1
+                    else:
+                        top_pages = heuristic_2
 
                 elif ranking_algorithm == "hits":
                     hits_result = SearchUtilities.run_hits_algorithm(result,
                                                                      self.code_url_map, self.url_outgoing_links_map,
                                                                      self.url_code_map)
+
+                    heuristic_1 = dict()
+                    heuristic_2 = dict()
                     try:
+                        # for page in hits_result:
+                        #     if page not in top_pages:
+                        #         heuristic_1[page] = 0
+                        #     else:
+                        #         heuristic_1[page] = top_pages[page] + hits_result[page]
+
                         for page in hits_result:
                             if page not in top_pages:
-                                top_pages[page] = 0
+                                heuristic_2[page] = 0
                             else:
-                                top_pages[page] += hits_result[page]
+                                if hits_result[page] > 0:
+                                    percent_difference = (top_pages[page] - hits_result[page] /
+                                                          hits_result[page]) * 100
+                                    if percent_difference > 75:
+                                        improved_hits_score = hits_result[page] + hits_result[page] * 0.25
+                                        heuristic_2[page] = (top_pages[page] * 0.50) + improved_hits_score
+                                    else:
+                                        heuristic_2[page] = top_pages[page] + hits_result[page] * 5
+                                else:
+                                    heuristic_2[page] = top_pages[page] + hits_result[page] * 5
+
+                        # check which heuristic yielded better total ranking score of relevant documents
+                        if sum(heuristic_1.values()) >= sum(heuristic_2.values()):
+                            top_pages = heuristic_1
+                        else:
+                            top_pages = heuristic_2
+
                     except Exception as e:
                         print("Exception", e)
 
             final_result = list()
-            top_pages = dict(
+            temp = dict(
                 sorted(top_pages.items(), key=operator.itemgetter(1), reverse=True))
-            for key in top_pages:
+            for key in temp:
                 final_result.append(self.code_url_map[key])
 
             return final_result

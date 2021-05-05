@@ -147,7 +147,7 @@ def process_files(files, parent_path):
                 inverted_index: InvertedIndex = inverted_index_map.get(key, InvertedIndex())
                 # get existing object
                 document_object = dict()
-                document_object["document_id"] = file
+                document_object["document_id"] = file.split(".")[0]
                 document_object["term_frequency"] = word_count_map[key]
                 inverted_index.add_document(document_object)
                 inverted_index_map.__setitem__(key, inverted_index)

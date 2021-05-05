@@ -151,7 +151,7 @@ class SpiderCrawler(WebCrawler):
             # that the page processed will be a worthy computation
             if self.unique_counter.value >= self.pages_to_crawl:
                 return
-            print(url)
+
             value = {}
             with requests.get(url, verify=False, timeout=120) as conn:
                 # Create Dictionary
@@ -161,7 +161,7 @@ class SpiderCrawler(WebCrawler):
                     "url": url,
                 }
             self.get_links_from_url_content(value)
-
+            print("PROCESSED URL {}".format(url))
         except Exception as e:
             print(str(e))
             raise e
