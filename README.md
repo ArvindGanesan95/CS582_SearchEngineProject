@@ -24,6 +24,7 @@ The modules given below are required to run the program. The modules and the pip
 	- nltk==3.6.2  : pip install nltk==3.6.2
 	- requests==2.25.1  : pip install requests==2.25.1
 	- urllib3==1.26.4 : pip install urllib3==1.26.4
+	- numpy : pip install numpy==1.20.2
 	
 # Running the program
 
