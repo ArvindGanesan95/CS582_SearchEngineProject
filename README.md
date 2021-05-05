@@ -30,6 +30,16 @@ The modules given below are required to run the program. The modules and the pip
 
 There are 3 major modules in the source code: Web Crawler, Preprocessor and UI.
 
+
+
+## To Run Search Engine :
+
+Flask server is used to render the UI using HTML/CSS. The user query is fetched and is passed to the query engine which brings the relevant documents. The file called "app.py" can be used to launch the server and render the ui. By default, **port 8081** is used. If the port is already in use , change it to a unused port number.
+
+> python app.py
+
+This launches the server process. Go to localhost:8081 port in the browser and play with the search engine.
+
 ## To Run Web Crawler : 
 There is a file called "crawler_job.py" (in the root directory), which is like a wrapper for WebCrawler.py file(inside Crawler directory). Run the file using the command given below without quotes. 
 > python crawler_job.py 
@@ -42,6 +52,8 @@ The crawler accepts the following parameters :
 
 The crawler also creates an adjacency list representation of urls and its outgoing links to be used for PageRank and HITS algorithm computation
 
+**Note** The Crawler takes around 15 minutes to download 3000 pages.
+
 
 ## To Run Preprocessor :
 There is a file called "preprocessor_job.py" (in the root directory) , which acts as a wrapper for helper.py file(inside Preprocessor directory). Run the fiile using the command given below. 
@@ -51,12 +63,9 @@ The file calls preprocessor to perform the following operations : Convert text t
 
 Then, the file creates an inverted index, computes page rank scores for the collection using inverted index and writes them to "Computations" folder
 
-	
-## To Run UI :
+**Note** The Preprocessor takes around 10 minutes to finish processing
 
-Flask server is used to render the UI using HTML/CSS. The user query is fetched and is passed to the query engine which brings the relevant documents. The file called "app.py" can be used to launch the server and render the ui. By default, **port 8080** is used. If the port is already in use , change it to a unused port number.
-
-> python app.py
+**Note** The processesed data of Crawler and Preprocessor is already present in this repository inside Computations folder. To save time, only the search engine can be run directly as described in earlier section.
 
 
 # Results
