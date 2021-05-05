@@ -1,0 +1,37 @@
+Ranking Algorithm Cosine Similarity
+https://advance.uic.edu/alumni-association/
+https://advance.uic.edu/alumni-association/uic-alumni-board/
+https://advance.uic.edu/alumni-association/get-involved/
+https://advance.uic.edu/alumni-association/uic-traditions/
+https://engineeringalumni.uic.edu/profiles/matanky-robert/
+https://publichealth.uic.edu/events/2021-international-indian-statistical-association-conference/
+https://engineeringalumni.uic.edu/profiles/evans-debra/
+https://socialwork.uic.edu/news-stories/jane-addams-alumni-honored-by-nasw-il-2020/
+https://engineeringalumni.uic.edu/awards/
+https://publichealth.uic.edu/alumni/connect-engage/
+
+Ranking Algorithm pagerank
+https://advance.uic.edu/alumni-association/
+https://advance.uic.edu/alumni-association/uic-alumni-board/
+https://advance.uic.edu/alumni-association/get-involved/
+https://advance.uic.edu/alumni-association/uic-traditions/
+https://engineeringalumni.uic.edu/profiles/matanky-robert/
+https://publichealth.uic.edu/events/2021-international-indian-statistical-association-conference/
+https://engineeringalumni.uic.edu/profiles/evans-debra/
+https://advance.uic.edu/
+https://socialwork.uic.edu/news-stories/jane-addams-alumni-honored-by-nasw-il-2020/
+https://engineeringalumni.uic.edu/awards/
+
+
+Ranking Algorithm : hits
+https://advance.uic.edu/alumni-association/
+https://advance.uic.edu/alumni-association/uic-alumni-board/
+https://advance.uic.edu/alumni-association/get-involved/
+https://dos.uic.edu/student-veterans-affairs/
+https://engineeringalumni.uic.edu/
+https://engineering.uic.edu/about/alumni/
+https://advance.uic.edu/alumni-association/uic-traditions/
+https://engineeringalumni.uic.edu/profiles/matanky-robert/
+https://publichealth.uic.edu/events/2021-international-indian-statistical-association-conference/
+https://uihealth.uic.edu/
+

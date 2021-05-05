@@ -1,0 +1,39 @@
+
+Ranking Algorithm : hits
+https://oae.uic.edu/ah/academic-hiring-process/
+https://studentemployment.uic.edu/departments-info/faqs/
+https://cs.uic.edu/faculty-staff/open-positions/
+https://oae.uic.edu/ah/faq/
+https://ecc.uic.edu/employers/post-openings-handshake/
+https://ecc.uic.edu/career-tools/cover-letter/
+https://catalog.uic.edu/all-course-descriptions/ener/
+https://cs.uic.edu/graduate/graduate-student-resources/ta-info/
+https://socialwork.uic.edu/about-us/faculty-staff-job-openings/
+https://studentemployment.uic.edu/off-campus-employers/
+
+
+Ranking Algorithm : Cosine Similarity
+https://oae.uic.edu/ah/academic-hiring-process/
+https://studentemployment.uic.edu/departments-info/faqs/
+https://oae.uic.edu/ah/faq/
+https://cs.uic.edu/faculty-staff/open-positions/
+https://ecc.uic.edu/employers/post-openings-handshake/
+https://ecc.uic.edu/career-tools/cover-letter/
+https://cs.uic.edu/graduate/graduate-student-resources/ta-info/
+https://studentemployment.uic.edu/off-campus-employers/
+https://socialwork.uic.edu/about-us/faculty-staff-job-openings/
+https://policies.uic.edu/uic-policy-library/student-affairs/uic-policy-on-open-expression/
+
+
+Ranking Algorithm : pagerank
+https://oae.uic.edu/ah/academic-hiring-process/
+https://studentemployment.uic.edu/departments-info/faqs/
+https://oae.uic.edu/ah/faq/
+https://cs.uic.edu/faculty-staff/open-positions/
+https://ecc.uic.edu/employers/post-openings-handshake/
+https://ecc.uic.edu/career-tools/cover-letter/
+https://cs.uic.edu/graduate/graduate-student-resources/ta-info/
+https://studentemployment.uic.edu/off-campus-employers/
+https://socialwork.uic.edu/about-us/faculty-staff-job-openings/
+https://policies.uic.edu/uic-policy-library/student-affairs/uic-policy-on-open-expression/
+

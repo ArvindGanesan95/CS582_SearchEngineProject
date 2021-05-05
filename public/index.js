@@ -84,4 +84,5 @@ const processData = () => {
     listDom.append(html)
     paginationCounter += 10
     $('#overlay').css("display", "none");
+    console.log(topResults)
 }

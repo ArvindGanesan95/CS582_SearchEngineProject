@@ -1,0 +1,39 @@
+
+Ranking Algorithm : hits
+https://catalog.uic.edu/ucat/academic-calendar/
+https://cs.uic.edu/cs-events/
+https://dos.uic.edu/student-veterans-affairs/
+https://library.uic.edu/
+https://today.uic.edu/
+https://emergency.uic.edu/
+https://maps.uic.edu/
+https://registrar.uic.edu/current-students/calendars/
+https://policies.uic.edu/educational-policy/student-academic-grievance-policy/
+https://cs.uic.edu/cs-events/calendar/
+
+
+Ranking Algorithm : pagerank
+https://policies.uic.edu/educational-policy/student-academic-grievance-policy/
+https://registrar.uic.edu/current-students/calendars/
+https://catalog.uic.edu/ucat/academic-calendar/
+https://cs.uic.edu/cs-events/
+https://catalog.uic.edu/ucat/degree-programs/academic-planning-progress/
+https://registrar.uic.edu/uic-faculty-staff/calendars/
+https://catalog.uic.edu/ucat/degree-programs/univ-degree-requirements-graduation/
+https://dos.uic.edu/community-standards/academic-integrity/faculty-academic-resources/
+https://catalog.uic.edu/gcat/graduate-study/graduate-study/
+https://registrar.uic.edu/sitemap/
+
+
+Ranking Algorithm : Cosine Similarity
+https://policies.uic.edu/educational-policy/student-academic-grievance-policy/
+https://registrar.uic.edu/current-students/calendars/
+https://cs.uic.edu/cs-events/
+https://catalog.uic.edu/ucat/degree-programs/academic-planning-progress/
+https://registrar.uic.edu/uic-faculty-staff/calendars/
+https://catalog.uic.edu/ucat/degree-programs/univ-degree-requirements-graduation/
+https://dos.uic.edu/community-standards/academic-integrity/faculty-academic-resources/
+https://catalog.uic.edu/gcat/graduate-study/graduate-study/
+https://registrar.uic.edu/sitemap/
+https://catalog.uic.edu/ucat/admissions-registration-finances/student-tuition-fees/
+
