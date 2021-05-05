@@ -127,7 +127,7 @@ def process_files(files, parent_path):
             document = ""
             with open(os.path.join(parent_path, file)) as handle:
 
-                document = json.loads(handle.read())["content"]
+                document = json.load(handle)["content"]
             print("Processing file {}".format(file))
             pipeline.set_initial_data(document)
             # Execute the pipeline with stages defined above that does preprocessing

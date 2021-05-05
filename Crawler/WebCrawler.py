@@ -178,7 +178,7 @@ class SpiderCrawler(WebCrawler):
             links = self.parse_content(page_object, result["url"])
             # Append the outgoing links to the global map to update link structure
             self.url_with_outgoing_links[result["url"]] = links
-            self.write_content_to_persistent_storage(result["url"], result["content"])
+            self.write_content_to_persistent_storage(result["url"], result["content"].encode("utf-8", errors="ignore").decode("utf-8"))
             for link in links:
                 # Check if url is not visited already. it is possible that the same outgoing link
                 # may be visited by different threads from different parent urls
