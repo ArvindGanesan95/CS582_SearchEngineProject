@@ -178,7 +178,8 @@ class SpiderCrawler(WebCrawler):
             links = self.parse_content(page_object, result["url"])
             # Append the outgoing links to the global map to update link structure
             self.url_with_outgoing_links[result["url"]] = links
-            self.write_content_to_persistent_storage(result["url"], result["content"].encode("utf-8", errors="ignore").decode("utf-8"))
+            self.write_content_to_persistent_storage(result["url"],
+                                                     result["content"].encode("utf-8", errors="ignore").decode("utf-8"))
             for link in links:
                 # Check if url is not visited already. it is possible that the same outgoing link
                 # may be visited by different threads from different parent urls
@@ -191,10 +192,11 @@ class SpiderCrawler(WebCrawler):
         # Get a unique id that acts a document id for the url before writing to file system.
         self.unique_counter.increment()
         next_id = str(self.unique_counter.value)
-        with open(os.path.join(file_contents_path, next_id+".json"), "a+") as handle:
-            file_object = {"url": url_link, "content": content}
-            file_object_json = json.dumps(file_object)
-            handle.write(file_object_json)
+        with open(os.path.join(file_contents_path, next_id + ".txt"), "a+", encoding="utf-8") as handle:
+            # file_object = {"url": url_link, "content": content}
+            # file_object_json = json.dumps(file_object)
+            handle.write(url_link + "\n\n")
+            handle.write(content)
 
     # Function to fetch each of outgoing link from anchor tag of url. Each of the link is restricted to stay
     # within {base_url} domain and not match any of the extension given in exclusion filters
@@ -219,10 +221,12 @@ class SpiderCrawler(WebCrawler):
                 return
 
             for url_file in urls:
-                with open(os.path.join(file_contents_path, url_file), 'r') as handle:
+                with open(os.path.join(file_contents_path, url_file), 'r', encoding="utf-8") as handle:
                     print("Reading file {}".format(url_file))
-                    url_object = json.load(handle)
-                    url = url_object["url"]
+                    content = handle.read()
+                    url = content.split('\n\n')[0]
+                    #url_object = json.load(handle)
+                    #url = url_object["url"]
                     url_id = url_file.split('.')[0]
                     print("URL ID {}".format(url_id))
                     self.url_to_code[url] = url_id
