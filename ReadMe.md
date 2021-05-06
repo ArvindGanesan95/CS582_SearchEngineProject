@@ -11,7 +11,7 @@ A windows or Linux machine (Ubuntu) can be used with at least 4 GB ram.
 The link to the Ubuntu distribution is  : https://ubuntu.com/download/desktop
 ## Software Requirements
 - PyCharm 2020.3 (For development purposes in an IDE)
-- Python 3.9.1 . Make sure that PIP is installed and environment path of pip and python  is set
+- Python 3.9.1 . Make sure that PIP is installed and environment path of pip and python  is set. If 'pip' is not found in ubuntu, it could be installed from https://linuxize.com/post/how-to-install-pip-on-ubuntu-20.04/. Python 3.9 and above can be installed from https://linuxize.com/post/how-to-install-python-3-9-on-ubuntu-20-04/
 
 ## Python Modules Required
 
@@ -24,10 +24,21 @@ The modules given below are required to run the program. The modules and the pip
 	- nltk==3.6.2  : pip install nltk==3.6.2
 	- requests==2.25.1  : pip install requests==2.25.1
 	- urllib3==1.26.4 : pip install urllib3==1.26.4
+	- numpy : pip install numpy==1.20.2
 	
 # Running the program
 
 There are 3 major modules in the source code: Web Crawler, Preprocessor and UI.
+
+
+
+## To Run Search Engine :
+
+Flask server is used to render the UI using HTML/CSS. The user query is fetched and is passed to the query engine which brings the relevant documents. The file called "app.py" can be used to launch the server and render the ui. By default, **port 8081** is used. If the port is already in use , change it to a unused port number.
+
+> python app.py
+
+This launches the server process. Go to localhost:8081 port in the browser and play with the search engine.
 
 ## To Run Web Crawler : 
 There is a file called "crawler_job.py" (in the root directory), which is like a wrapper for WebCrawler.py file(inside Crawler directory). Run the file using the command given below without quotes. 
@@ -41,6 +52,8 @@ The crawler accepts the following parameters :
 
 The crawler also creates an adjacency list representation of urls and its outgoing links to be used for PageRank and HITS algorithm computation
 
+**Note** The Crawler takes around 15 minutes to download 3000 pages.
+
 
 ## To Run Preprocessor :
 There is a file called "preprocessor_job.py" (in the root directory) , which acts as a wrapper for helper.py file(inside Preprocessor directory). Run the fiile using the command given below. 
@@ -50,12 +63,9 @@ The file calls preprocessor to perform the following operations : Convert text t
 
 Then, the file creates an inverted index, computes page rank scores for the collection using inverted index and writes them to "Computations" folder
 
-	
-## To Run UI :
+**Note** The Preprocessor takes around 10 minutes to finish processing
 
-Flask server is used to render the UI using HTML/CSS. The user query is fetched and is passed to the query engine which brings the relevant documents. The file called "app.py" can be used to launch the server and render the ui. By default, **port 8080** is used. If the port is already in use , change it to a unused port number.
-
-> python app.py
+**Note** The processesed data of Crawler and Preprocessor is already present in this repository inside Computations folder. To save time, only the search engine can be run directly as described in earlier section.
 
 
 # Results
