@@ -15,7 +15,7 @@ A windows or Linux machine (Ubuntu) can be used with at least 4 GB ram.
 The link to the Ubuntu distribution is  : https://ubuntu.com/download/desktop
 ## Software Requirements
 - PyCharm 2020.3 (For development purposes in an IDE)
-- Python 3.9.1 . Make sure that PIP is installed and environment path of pip and python  is set. If 'pip' is not found in ubuntu, it could be installed from https://linuxize.com/post/how-to-install-pip-on-ubuntu-20.04/. Python 3.9 and above can be installed from https://linuxize.com/post/how-to-install-python-3-9-on-ubuntu-20-04/
+- Python 3.9.1 . Make sure that PIP is installed and environment path of pip and python  is set. If 'pip' is not found in ubuntu, it could be installed from https://stackoverflow.com/questions/38938205/how-to-override-the-pip-command-to-python3-x-instead-of-python2-7. Python 3.9 and above can be installed from https://linuxize.com/post/how-to-install-python-3-9-on-ubuntu-20-04/
 
 ## Python Modules Required
 
