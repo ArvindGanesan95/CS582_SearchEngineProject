@@ -1,0 +1,531 @@
+https://catalog.uic.edu/ucat/colleges-depts/liberal-arts-sciences/clj/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Department of Criminology, Law, and Justice &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/liberal-arts-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/">Anthropology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/">Biochemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/">Biological Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/">Black Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/">Chemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/">Classics and Mediterranean Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/">Communication</a></li>
+				<li class="active isparent self"><a href="#" onclick="return false;">Criminology, Law, and Justice</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/liberal-arts-sciences/clj/">
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/ba-clj/">BA with a Major in Criminology, Law, and Justice</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/minor-clj/">Minor in Criminology, Law, and Justice</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/minor-ls/">Minor in Law and Society</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/">Earth and Environmental Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/">Economics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/">English</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French and Francophone Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/">Gender and Women's Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/">Germanic Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/">Global Asian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/">Hispanic and Italian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/">History</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/">Integrated Health Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/">International Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/">Liberal Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/">Linguistics</a></li>
+				<li><a href="/ucat/colleges-depts/liberal-arts-sciences/lcsl/">Literatures, Cultural Studies, and Linguistics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/">Mathematics, Statistics, and Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/">Moving Image Arts</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/">Neuroscience</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/">Philosophy</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/">Physics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/">Polish, Russian, and Lithuanian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/">Political Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/">Psychology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/">Religious Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/">Sociology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional Studies</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/">College&nbsp;of&nbsp;Liberal&nbsp;Arts&nbsp;and&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><span class="active">Criminology, Law, and Justice</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Department of Criminology, Law, and Justice</h1>
+
+
+<script type="text/javascript">
+//<![CDATA[
+	var defshow = "text";
+	var bodycontainer = "#body";
+	var validhashes = ",text,undergraduateprogramstext,coursestext,";
+
+if(window.location.hash.length) {
+	var hash = cleanHash(window.location.hash);
+	if(validhashes.indexOf("," + hash + ",") != -1)
+		defshow = hash;	
+}
+var ss = document.styleSheets;
+var workss = null;
+for(var i=0; i < ss.length; i++) {
+	var currmedia = "";
+	if (typeof ss[i].media == "string") 
+		currmedia = ss[i].media
+	else if (typeof ss[i].media == "object" && ss[i].media.mediaText) 
+		currmedia = ss[i].media.mediaText;
+	
+	if((currmedia == "screen" || currmedia == "all") && (ss[i].href.indexOf("/") == 0 || ss[i].href.indexOf(document.location.host) >= 0)) {
+		workss = ss[i];
+		break;	
+	}
+}
+if(workss && workss.insertRule) {
+	workss.insertRule(".tab_content { display: none; }", workss.cssRules.length)
+	workss.insertRule(".sectionheader { display: none; }", workss.cssRules.length)
+	workss.insertRule("#" + defshow + "container { display: block; }", workss.cssRules.length)
+} else if(workss && workss.addRule) {
+	workss.addRule(".tab_content", "display: none");
+	workss.addRule(".sectionheader", "display: none");
+	workss.addRule("#" + defshow + "container", "display: block");
+}
+else {
+	if (window.console)
+		window.console.log('screen.css <link> needs attribute media="screen"');
+}
+//]]>
+</script>
+	<div id="tabs">
+		<ul class="clearfix" role="tablist">
+			<li id="texttab" role="presentation">
+<a href="#textcontainer" role="tab" aria-controls="textcontainer" onclick="return showSection('text');">Overview</a></li>
+			<li id="undergraduateprogramstexttab" role="presentation">
+<a href="#undergraduateprogramstextcontainer" role="tab" aria-controls="undergraduateprogramstextcontainer" onclick="return showSection('undergraduateprogramstext');" >Programs and Requirements</a></li>
+			<li id="coursestexttab" role="presentation">
+<a href="#coursestextcontainer" role="tab" aria-controls="coursestextcontainer" onclick="return showSection('coursestext');" >Courses</a></li>
+		</ul>
+	</div>
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p class="campus_location"><span class="label"><strong>Contact Information: </strong></span><br/>
+<span class="campus_location">Campus Location: 4022 Behavioral Sciences Building (BSB) <br/>
+<span class="phone">(312) 996-5290</span> <br/>
+<span class="website"><a href="http://clj.uic.edu/">clj.uic.edu</a></span></span></p>
+<p class="administration"><span class="label"><strong>Administration: </strong></span><br/>
+Department Head, Beth Richie<br/>
+Director of Undergraduate Studies, Lisa Frohmann</p>
+<p>Criminology, law, and justice is a social and behavioral science field of study that selects crime, law, and the criminal justice system for its subject matter. Using social science methodologies, the program examines the nature, extent, and causes of crime in various settings, the impact of crime on victims and society, and both formal and informal responses to crime. These responses include individual and community reactions, the investigation of crimes and arrest of offenders by the police, and their prosecution, defense, and adjudication by the courts; and an array of sentencing and correctional outcomes. The nature and effectiveness of criminal justice reform efforts are also studied.</p>
+<p>The degree prepares graduates for a broad range of professional roles in the criminal justice system, as well as the broader legal system. It also serves as entry to graduate programs of criminal justice and related research and professional programs such as law, sociology, public administration, paralegal studies, and various social services.</p>
+<h2>Distinction</h2>
+<p><strong>Departmental Distinction</strong>. A candidate must have a 3.50/4.00 cumulative GPA in all criminology, law, and justice courses and a 3.25/4.00 cumulative GPA in all UIC courses.</p>
+<p><strong>High Distinction</strong>. A candidate must have a 3.50/4.00 cumulative GPA in all criminology, law, and justice courses, a 3.25/4.00 cumulative GPA in all UIC courses, and complete a paper written for <span class="sc_courseinline"><a href="/search/?P=CLJ%20399" title="CLJ 399" class="bubblelink code" onclick="return showCourse(this, 'CLJ 399');">CLJ 399</a></span>, which will be reviewed by a faculty advisor and the Departmental Undergraduate Committee. Qualified students should contact the departmental undergraduate director one term in advance of graduation.</p>
+</div><!--end #textcontainer -->
+
+			<div id="undergraduateprogramstextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="undergraduateprogramstexttab" aria-hidden="true">
+				<a name="undergraduateprogramstext"></a><h2>Degree Program</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/ba-clj/">BA with a Major in Criminology, Law, and Justice</a></li>
+</ul>
+<h2>Minors</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/minor-clj/">Minor in Criminology, Law, and Justice</a></li>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/minor-ls/">Minor in Law and Society</a></li>
+</ul>
+			</div>
+			<div id="coursestextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="coursestexttab" aria-hidden="true">
+				<a name="coursestext"></a><div class="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 101.  Introduction to Criminology, Law, and Justice.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to key components of the justice system (including police, courts, and corrections) and contemporary trends in crime and delinquency. Critiques of the effectiveness and fairness of the system and emerging ideas for advancing justice. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Discussion.<i>  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 102.  Foundations of Law and Justice.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Philosophical origins and historical development of U.S. criminal law in comparative perspective. Transformation of rights and due process; approaches to punishment and social control; legal institutions and procedures. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture-Discussion.<i>  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 110.  Rights, Justice and the Law.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The historical development, philosophical justification and political underpinnings of the human rights framework. Exploration of specific human rights in U.S. vs. non-U.S. contexts. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture-Discussion.<i>  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 114.  Race, Class, Gender and the Law.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Exploration of the relationship between social inequality and law/justice in the US, with specific attention to the importance of race, class, and gender. Class Schedule Information: To be properly registered, students must enroll in one Discussion/Recitation and one Lecture-Discussion.<i>  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 120.  Crime and Society.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to theories of social deviance and control. The historical development, empirical basis, strengths, and limitations of various theories are analyzed. Course Information: This course may be taught in a blended-online and classroom format.  When that is the case, use of a computer and Internet access will be required. A high-speed connection is strongly recommended. Please check the online class schedule for blended-online sections. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture-Discussion.<i>  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 121.  Violence in Society.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Theoretical perspectives on the causes and consequences of violence in society. Examination of violence perpetrated by individuals, groups, and the state. Course Information: This is a blended-online and classroom course. Use of a computer and Internet access is required. A high-speed connection, while not required, is strongly suggested. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture-Discussion.<i>  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 122.  Gangs and the Media.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Popular images of gangs in the mass media are contrasted with perspectives from social science literature. Course Information: Blended online and classroom course. Use of computer and internet access is required. A high speed connection, while not required, is strongly suggested.<i>  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 200.  Law and Society.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Development of law and legal institutions from historical, comparative, and contemporary perspectives; interrelationships of law, custom, morality, and social change; the legal profession. Course Information: Prerequisite(s): <a href="/search/?P=CLJ%20101" title="CLJ 101" class="bubblelink code" onclick="return showCourse(this, 'CLJ 101');">CLJ 101</a>. Class Schedule Information: To be properly registered, students must enroll in one Discussion and one Lecture.<i>  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 210.  Principles of Criminal Law.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A survey of the basic principles of criminal law and procedure: proof of fact, act and intent, responsibility. Course Information: Prerequisite(s): <a href="/search/?P=CLJ%20101" title="CLJ 101" class="bubblelink code" onclick="return showCourse(this, 'CLJ 101');">CLJ 101</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 220.  Criminology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introductory survey of theories exploring the origins, organization, meanings, and control of crime. Course Information: Same as <a href="/search/?P=SOC%20231" title="SOC 231" class="bubblelink code" onclick="return showCourse(this, 'SOC 231');">SOC 231</a>. Prerequisite(s): <a href="/search/?P=CLJ%20101" title="CLJ 101" class="bubblelink code" onclick="return showCourse(this, 'CLJ 101');">CLJ 101</a>. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 261.  Research Methods I.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to research in criminology, law, and justice. From conceptualization to description of results. Research design, observation, archival, survey, and experimental methodologies in criminal justice related settings. Course Information: Prerequisite(s): <a href="/search/?P=CLJ%20101" title="CLJ 101" class="bubblelink code" onclick="return showCourse(this, 'CLJ 101');">CLJ 101</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 262.  Research Methods II.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Statistical data analysis in the criminology, law, and justice context. Probability, t-tests, correlation, regression, sampling theory, tests of significance. Problems with police and crime survey data. Course Information: Prerequisite(s): <a href="/search/?P=MATH%20090" title="MATH 090" class="bubblelink code" onclick="return showCourse(this, 'MATH 090');">MATH 090</a> or <a href="/search/?P=MATH%20105" title="MATH 105" class="bubblelink code" onclick="return showCourse(this, 'MATH 105');">MATH 105</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 271.  Race and the Politics of Incarceration.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines how incarceration and criminalization affects black people in contemporary society. Course Information: Same as <a href="/search/?P=BLST%20271" title="BLST 271" class="bubblelink code" onclick="return showCourse(this, 'BLST 271');">BLST 271</a> and <a href="/search/?P=SOC%20271" title="SOC 271" class="bubblelink code" onclick="return showCourse(this, 'SOC 271');">SOC 271</a>. Prerequisite(s): Grade of C or better or concurrent registration in <a href="/search/?P=BLST%20100" title="BLST 100" class="bubblelink code" onclick="return showCourse(this, 'BLST 100');">BLST 100</a> or Grade of C or better or concurrent registration in <a href="/search/?P=SOC%20100" title="SOC 100" class="bubblelink code" onclick="return showCourse(this, 'SOC 100');">SOC 100</a> or Grade of C or better in <a href="/search/?P=CLJ%20101" title="CLJ 101" class="bubblelink code" onclick="return showCourse(this, 'CLJ 101');">CLJ 101</a>.<i>  Individual and Society course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 303.  Introduction to Forensic Science.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines the basic principles and judicial uses of forensic science. Reviews the applications of the biological, physical, and behavioral sciences to questions of evidence and the law. Course Information: Prerequisite(s): Junior standing and major in either Criminology, Law, and Justice or a natural sciences discipline; or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 311.  Criminal Procedure.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Legal problems associated with the investigation of crime, acquisition of evidence, commencement of adjudication, sentencing and appellate rights. Course Information: Prerequisite(s): One 200-level criminology, law, and justice course.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 321.  Youth, Crime, Law and Justice in Society.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Theories of juvenile delinquency and rule-breaking; juvenile rights; organization and administration of the juvenile justice system in the  U.S. Course Information: Previously listed as CLJ 421. Prerequisite(s): <a href="/search/?P=CLJ%20101" title="CLJ 101" class="bubblelink code" onclick="return showCourse(this, 'CLJ 101');">CLJ 101</a> and two 200-level CLJ courses; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 345.  Police in Society.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The functions and organization of police/investigative agencies, especially those on the local level, the nature of the experience of being a police officer. Course Information: Prerequisite(s): <a href="/search/?P=CLJ%20101" title="CLJ 101" class="bubblelink code" onclick="return showCourse(this, 'CLJ 101');">CLJ 101</a> and two 200-level criminal justice courses; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 350.  Courts in Society.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Behavior and structure of state and federal criminal courts including preadjudication processing, prosecutorial and defense decisions, guilty-plea processes, bench and jury trials, sentencing, judicial selection, court administration. Course Information: Prerequisite(s): <a href="/search/?P=CLJ%20101" title="CLJ 101" class="bubblelink code" onclick="return showCourse(this, 'CLJ 101');">CLJ 101</a> and two 200-level criminology, law, and justice courses; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 355.  Punishment, Prisons and Corrections.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A survey of American corrections from local jails to mega prisons; correctional field services; probation and parole and recent developments in alternatives to incarceration. Course Information: Prerequisite(s): <a href="/search/?P=CLJ%20101" title="CLJ 101" class="bubblelink code" onclick="return showCourse(this, 'CLJ 101');">CLJ 101</a> and two 200-level criminology, law, and justice courses; or consent of the  instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 356.  Community Corrections and Reentry.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Experience of the reentry process in the context of enrollment in programs organized for supervising offenders in community setting, such as probation, parole, halfway houses, restitution, treatment facilities, community service, home confinement. Course Information: Previously listed as CLJ 456. Prerequisite(s): <a href="/search/?P=CLJ%20101" title="CLJ 101" class="bubblelink code" onclick="return showCourse(this, 'CLJ 101');">CLJ 101</a> and two 200-level CLJ courses; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 361.  Criminal Investigation.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Methods used for reconstructing crimes and criminal intent, incorporating information derived from people, physical evidence, institutional and electronic data. Scientific, organizational, legal, and ethical considerations informing the process. Course Information: Prerequisite(s): <a href="/search/?P=CLJ%20101" title="CLJ 101" class="bubblelink code" onclick="return showCourse(this, 'CLJ 101');">CLJ 101</a> and two 200-level criminal justice courses; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 373.  Introduction to the School-Prison Nexus.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Using contemporary social theory, this course investigates the disciplining, punishing, and criminalization of youth in urban schools, paying particular attention to the racialized, classed, gendered, and ableist contours of these social processes. Course Information: Same as <a href="/search/?P=ED%20373" title="ED 373" class="bubblelink code" onclick="return showCourse(this, 'ED 373');">ED 373</a>. Recommended Background: <a href="/search/?P=CLJ%20101" title="CLJ 101" class="bubblelink code" onclick="return showCourse(this, 'CLJ 101');">CLJ 101</a> and two 200-level CLJ courses.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 374.  Dismantling the School and Prison Nexus.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Political relationship between historically dis-invested K to 12 schools and prisons. Parallels in disciplinary practices and rationales in both. Engagement with affected communities that challenge carceral logics in education. Course Information: Same as <a href="/search/?P=ED%20374" title="ED 374" class="bubblelink code" onclick="return showCourse(this, 'ED 374');">ED 374</a>. Prerequisite(s): <a href="/search/?P=CLJ%20101" title="CLJ 101" class="bubblelink code" onclick="return showCourse(this, 'CLJ 101');">CLJ 101</a> and two 200-level CLJ courses; or consent of the instructor. Recommended Background: <a href="/search/?P=CLJ%20373" title="CLJ 373" class="bubblelink code" onclick="return showCourse(this, 'CLJ 373');">CLJ 373</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 394.  Senior Studies in Criminology, Law, and Justice.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The analysis and exposition of historical or contemporary issues in the criminology field. Topics may vary from semester to semester. Course Information: Prerequisite(s): Senior standing.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 395.  Internship.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Observation of and participation in the daily work of a criminal justice agency, private or public. Work is supervised by a faculty member and the managment of personnel of the agency. Course Information: May be repeated to a maximum of 6 hours. A maximum of three credit hours may be used to satisfy the nine credit hour upper-division (300 and 400 level) requirement for the Major in Criminology, Law, and Justice. Prerequisite(s): A cumulative grade point average of 2.50. Preregistration in the department is required. Completion of five CLJ courses and junior or senior standing; or consent of the Director of Undergraduate Studies.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 399.  Independent Study.  2-6 hours.</strong></p>
+<p class="courseblockdesc">
+Independent study and research under the supervision of a faculty member on a subject not covered in the regular curriculum. Course Information: May be repeated for up to 8 credit hours. Prerequisite(s): Preregistration with the Department is required. Nine credit hours at the 200 level and three credit hours at the 300 level; a 3.00 overall grade point average, and a 3.50 grade point average in CLJ coursework, or consent of the Director of Undergraduate Studies. For criminology, law, and justice minors and majors only.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 402.  Trial Interaction.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Language use, culture, and law in the trial process. Analysis of qualitative methods applied to legal processes and change. Course Information: Same as <a href="/search/?P=LING%20402" title="LING 402" class="bubblelink code" onclick="return showCourse(this, 'LING 402');">LING 402</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=CLJ%20261" title="CLJ 261" class="bubblelink code" onclick="return showCourse(this, 'CLJ 261');">CLJ 261</a> and <a href="/search/?P=CLJ%20350" title="CLJ 350" class="bubblelink code" onclick="return showCourse(this, 'CLJ 350');">CLJ 350</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 405.  The Problem of Justice.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Pre-modern, modern and non-western views of justice and their practical utility in analyzing legislative, executive, and judicial programs for enhancing or restricting justice. Course Information: Same as <a href="/search/?P=POLS%20405" title="POLS 405" class="bubblelink code" onclick="return showCourse(this, 'POLS 405');">POLS 405</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=CLJ%20101" title="CLJ 101" class="bubblelink code" onclick="return showCourse(this, 'CLJ 101');">CLJ 101</a>, plus two 200-level courses in CLJ or two 200-level courses in POLS.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 422.  Victimization.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of criminal victimization theory and research. Examination of causes, consequences, and prevention of violent crime and of victims' experiences in the criminal justice system. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Two 200-level CLJ courses; junior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 423.  Violence.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of violence theory and research. Examination of  types, causes and consequences of violence historically and in the present. Exploration of  acts of resistance to violence. Course Information: Same as <a href="/search/?P=ANTH%20424" title="ANTH 424" class="bubblelink code" onclick="return showCourse(this, 'ANTH 424');">ANTH 424</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Two 200-level CLJ courses; junior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 424.  Gender, Crime, and Justice.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+An in-depth examination of the etiology of female crime and the involvement of females in the criminal justice system as offenders, victims, and workers/professionals. Course Information: Same as <a href="/search/?P=GWS%20424" title="GWS 424" class="bubblelink code" onclick="return showCourse(this, 'GWS 424');">GWS 424</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Two 200-level CLJ courses; junior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 425.  Violence Prevention.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of contemporary approaches to violence prevention at the individual, family, community, and organizational levels, as well as within the larger society. Course Information: Prerequisite(s): Two 200-level CLJ courses; junior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 430.  Homicide.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Overview of forms and patterns of homicide in the US. Theories of homicide.  Situational dynamics, types of offender motivation, investigative techniques (including profiling), impact on families and society, and intervention strategies. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Two 200-level CLJ courses; junior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 435.  White Collar Crime.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of how white-collar crime is defined, investigated, defended, and adjudicated. Comparison of &quot;suite&quot; and &quot;street&quot; crime from a socio-legal perspective. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Two 200-level CLJ courses; junior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 442.  Comparative Criminal Justice Institutions.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Comparative study of law, jurisprudence, enforcement, and punishment in Western and non-Western societies, including civil law, common law, and Islamic systems. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Two 200-level CLJ courses; junior standing; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 450.  Surveillance and Society.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Theoretical and empirical overview of the conceptualization, application and interpretation of surveillance in society, examined through the lens of various social topics. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Two 200-level CLJ courses; junior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 491.  Topics in Rule Breaking.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Content of course varies, addressing forms of deviance and illegality. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s). Students may register in more than one section per term. Prerequisite(s): Two 200-level CLJ courses, Junior standing or above, or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 492.  Topics in Rule Application.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Content of course varies, addressing major issues. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s). Students may register in more than one section per term. Prerequisite(s): Two 200-level CLJ courses, junior standing, or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CLJ 493.  Topics in Critical Criminology.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Content of course varies, addressing major issues in critical criminology. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time. Students may register for more than one section per term. Prerequisite(s): Two 200-level CLJ courses; junior standing or above; or consent of the instructor.<br/>
+</p>
+</div></div>
+			</div>
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="clj.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,22 @@
+https://ask.library.uic.edu/
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Whoops! - LibAnswers</title>
+        <style>
+            a:link, a:visited { color: blue; }
+            body { font-size:16px; font-family:Verdana, Geneva, sans-serif; margin:5em auto; text-align: center; }
+            #message { font-weight:bold; width:50%; text-align:left; margin: 0 auto; }
+            #links { font-weight:normal; margin-top: 1em; }
+            #links li { padding: .25em; }
+        </style>
+    </head>
+    <body>
+        <div id="message">
+            You must be logged into LibAnswers to access the requested page.<BR><BR>You may use the links below to
+        login to LibAnswers, or contact the system administrator for more assistance. <div id="links"><li><a href="/login.php?target=">Login to LibAnswers</a></li>
+        <li>Contact the Site Administrator for Assistance</li></div>        </div>
+    </body>
+</html>

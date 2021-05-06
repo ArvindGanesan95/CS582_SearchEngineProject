@@ -1,0 +1,553 @@
+https://catalog.uic.edu/all-course-descriptions/nupr/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Nursing Practicum (NUPR) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="isparent"><a href="/ucat/">Undergraduate Catalog</a></li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="active isparent"><a href="/all-course-descriptions/">All Course Descriptions</a>
+	<ul class="nav levelone" id="/all-course-descriptions/">
+		<li><a href="/all-course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+		<li><a href="/all-course-descriptions/actg/">Accounting (ACTG)</a></li>
+		<li><a href="/all-course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+		<li><a href="/all-course-descriptions/anth/">Anthropology (ANTH)</a></li>
+		<li><a href="/all-course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+		<li><a href="/all-course-descriptions/arab/">Arabic (ARAB)</a></li>
+		<li><a href="/all-course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+		<li><a href="/all-course-descriptions/arch/">Architecture (ARCH)</a></li>
+		<li><a href="/all-course-descriptions/art/">Art (ART)</a></li>
+		<li><a href="/all-course-descriptions/ah/">Art History (AH)</a></li>
+		<li><a href="/all-course-descriptions/bms/">Basic Medical Sciences (BMS)</a></li>
+		<li><a href="/all-course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+		<li><a href="/all-course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+		<li><a href="/all-course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+		<li><a href="/all-course-descriptions/bvis/">Biomedical Visualization (BVIS)</a></li>
+		<li><a href="/all-course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+		<li><a href="/all-course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+		<li><a href="/all-course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+		<li><a href="/all-course-descriptions/blst/">Black Studies (BLST)</a></li>
+		<li><a href="/all-course-descriptions/ba/">Business Administration (BA)</a></li>
+		<li><a href="/all-course-descriptions/cc/">Campus Courses (CC)</a></li>
+		<li><a href="/all-course-descriptions/cst/">Catholic Studies (CST)</a></li>
+		<li><a href="/all-course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+		<li><a href="/all-course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+		<li><a href="/all-course-descriptions/chem/">Chemistry (CHEM)</a></li>
+		<li><a href="/all-course-descriptions/chin/">Chinese (CHIN)</a></li>
+		<li><a href="/all-course-descriptions/cd/">City Design (CD)</a></li>
+		<li><a href="/all-course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+		<li><a href="/all-course-descriptions/cl/">Classics (CL)</a></li>
+		<li><a href="/all-course-descriptions/cler/">Clerkship -&#8203; Medicine (CLER)</a></li>
+		<li><a href="/all-course-descriptions/cele/">Clerkship Electives -&#8203; Chicago (CELE)</a></li>
+		<li><a href="/all-course-descriptions/pele/">Clerkship Electives -&#8203; Peoria (PELE)</a></li>
+		<li><a href="/all-course-descriptions/rele/">Clerkship Electives -&#8203; Rockford (RELE)</a></li>
+		<li><a href="/all-course-descriptions/uele/">Clerkship Electives -&#8203; Urbana (UELE)</a></li>
+		<li><a href="/all-course-descriptions/comm/">Communication (COMM)</a></li>
+		<li><a href="/all-course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+		<li><a href="/all-course-descriptions/cs/">Computer Science (CS)</a></li>
+		<li><a href="/all-course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+		<li><a href="/all-course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+		<li><a href="/all-course-descriptions/dadm/">Dental Administration (DADM)</a></li>
+		<li><a href="/all-course-descriptions/daob/">Dentistry -&#8203; Applied Oral and Behavioral Sciences (DAOB)</a></li>
+		<li><a href="/all-course-descriptions/dbcs/">Dentistry -&#8203; Biomedical and Clinical Sciences (DBCS)</a></li>
+		<li><a href="/all-course-descriptions/dcle/">Dentistry -&#8203; Community Learning Experience (DCLE)</a></li>
+		<li><a href="/all-course-descriptions/dosi/">Dentistry -&#8203; Oral/&#8203;Systemic Issues (DOSI)</a></li>
+		<li><a href="/all-course-descriptions/dost/">Dentistry -&#8203; Oral/&#8203;Systemic Topics (DOST)</a></li>
+		<li><a href="/all-course-descriptions/des/">Design (DES)</a></li>
+		<li><a href="/all-course-descriptions/dlg/">Dialogue (DLG)</a></li>
+		<li><a href="/all-course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+		<li><a href="/all-course-descriptions/mdc/">Doctor of Medicine—Chicago (MDC)</a></li>
+		<li><a href="/all-course-descriptions/mdp/">Doctor of Medicine—Peoria (MDP)</a></li>
+		<li><a href="/all-course-descriptions/mdr/">Doctor of Medicine—Rockford (MDR)</a></li>
+		<li><a href="/all-course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+		<li><a href="/all-course-descriptions/econ/">Economics (ECON)</a></li>
+		<li><a href="/all-course-descriptions/ed/">Education (ED)</a></li>
+		<li><a href="/all-course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+		<li><a href="/all-course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+		<li><a href="/all-course-descriptions/ece/">Electrical and Computer Engineering (ECE)</a></li>
+		<li><a href="/all-course-descriptions/eb/">Employee Benefits (EB)</a></li>
+		<li><a href="/all-course-descriptions/endo/">Endodontics (ENDO)</a></li>
+		<li><a href="/all-course-descriptions/ener/">Energy Engineering (ENER)</a></li>
+		<li><a href="/all-course-descriptions/engr/">Engineering (ENGR)</a></li>
+		<li><a href="/all-course-descriptions/engl/">English (ENGL)</a></li>
+		<li><a href="/all-course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+		<li><a href="/all-course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+		<li><a href="/all-course-descriptions/eohs/">Environmental and Occupational Health Sciences (EOHS)</a></li>
+		<li><a href="/all-course-descriptions/epid/">Epidemiology (EPID)</a></li>
+		<li><a href="/all-course-descriptions/epl/">Estate Planning (EPL)</a></li>
+		<li><a href="/all-course-descriptions/fin/">Finance (FIN)</a></li>
+		<li><a href="/all-course-descriptions/fr/">French (FR)</a></li>
+		<li><a href="/all-course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+		<li><a href="/all-course-descriptions/geog/">Geography (GEOG)</a></li>
+		<li><a href="/all-course-descriptions/ger/">Germanic Studies (GER)</a></li>
+		<li><a href="/all-course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+		<li><a href="/all-course-descriptions/gc/">Graduate College (GC)</a></li>
+		<li><a href="/all-course-descriptions/gems/">Graduate Education in Medical Sciences (GEMS)</a></li>
+		<li><a href="/all-course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+		<li><a href="/all-course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+		<li><a href="/all-course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+		<li><a href="/all-course-descriptions/him/">Health Information Management (HIM)</a></li>
+		<li><a href="/all-course-descriptions/hpa/">Health Policy and Administration (HPA)</a></li>
+		<li><a href="/all-course-descriptions/hlp/">Healthy Living Practitioner™ (HLP)</a></li>
+		<li><a href="/all-course-descriptions/heb/">Hebrew (HEB)</a></li>
+		<li><a href="/all-course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+		<li><a href="/all-course-descriptions/hstl/">Histology (HSTL)</a></li>
+		<li><a href="/all-course-descriptions/hist/">History (HIST)</a></li>
+		<li><a href="/all-course-descriptions/hon/">Honors College (HON)</a></li>
+		<li><a href="/all-course-descriptions/hn/">Human Nutrition (HN)</a></li>
+		<li><a href="/all-course-descriptions/hum/">Humanities (HUM)</a></li>
+		<li><a href="/all-course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+		<li><a href="/all-course-descriptions/it/">Information Technology (IT)</a></li>
+		<li><a href="/all-course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+		<li><a href="/all-course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+		<li><a href="/all-course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+		<li><a href="/all-course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+		<li><a href="/all-course-descriptions/ip/">Intellectual Property (IP)</a></li>
+		<li><a href="/all-course-descriptions/ibt/">International Business and Trade (IBT)</a></li>
+		<li><a href="/all-course-descriptions/inst/">International Studies (INST)</a></li>
+		<li><a href="/all-course-descriptions/ital/">Italian (ITAL)</a></li>
+		<li><a href="/all-course-descriptions/jpn/">Japanese (JPN)</a></li>
+		<li><a href="/all-course-descriptions/jst/">Jewish Studies (JST)</a></li>
+		<li><a href="/all-course-descriptions/jd/">Juris Doctor (JD)</a></li>
+		<li><a href="/all-course-descriptions/kn/">Kinesiology (KN)</a></li>
+		<li><a href="/all-course-descriptions/kor/">Korean (KOR)</a></li>
+		<li><a href="/all-course-descriptions/lat/">Latin (LAT)</a></li>
+		<li><a href="/all-course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+		<li><a href="/all-course-descriptions/law/">Law (LAW)</a></li>
+		<li><a href="/all-course-descriptions/lrsc/">Learning Sciences (LRSC)</a></li>
+		<li><a href="/all-course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+		<li><a href="/all-course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+		<li><a href="/all-course-descriptions/ling/">Linguistics (LING)</a></li>
+		<li><a href="/all-course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+		<li><a href="/all-course-descriptions/lith/">Lithuanian (LITH)</a></li>
+		<li><a href="/all-course-descriptions/mgmt/">Management (MGMT)</a></li>
+		<li><a href="/all-course-descriptions/mktg/">Marketing (MKTG)</a></li>
+		<li><a href="/all-course-descriptions/mba/">Master of Business Administration (MBA)</a></li>
+		<li><a href="/all-course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+		<li><a href="/all-course-descriptions/mj/">Master of Jurisprudence (MJ)</a></li>
+		<li><a href="/all-course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+		<li><a href="/all-course-descriptions/math/">Mathematics (MATH)</a></li>
+		<li><a href="/all-course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+		<li><a href="/all-course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+		<li><a href="/all-course-descriptions/mbt/">Medical Biotechnology (MBT)</a></li>
+		<li><a href="/all-course-descriptions/mhpe/">Medical Education (MHPE)</a></li>
+		<li><a href="/all-course-descriptions/mhum/">Medical Humanities (MHUM)</a></li>
+		<li><a href="/all-course-descriptions/mdch/">Medicinal Chemistry (MDCH)</a></li>
+		<li><a href="/all-course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+		<li><a href="/all-course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+		<li><a href="/all-course-descriptions/mils/">Military Science (MILS)</a></li>
+		<li><a href="/all-course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+		<li><a href="/all-course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+		<li><a href="/all-course-descriptions/mus/">Music (MUS)</a></li>
+		<li><a href="/all-course-descriptions/nast/">Native American Studies (NAST)</a></li>
+		<li><a href="/all-course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+		<li><a href="/all-course-descriptions/ns/">Naval Science (NS)</a></li>
+		<li><a href="/all-course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+		<li><a href="/all-course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+		<li><a href="/all-course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+		<li class="active self"><a href="#" onclick="return false;">Nursing Practicum (NUPR)</a></li>
+		<li><a href="/all-course-descriptions/nusp/">Nursing Specialty (NUSP)</a></li>
+		<li><a href="/all-course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+		<li><a href="/all-course-descriptions/omds/">Oral Medicine and Diagnostic Sciences (OMDS)</a></li>
+		<li><a href="/all-course-descriptions/osci/">Oral Sciences (OSCI)</a></li>
+		<li><a href="/all-course-descriptions/osur/">Oral and Maxillofacial Surgery (OSUR)</a></li>
+		<li><a href="/all-course-descriptions/ortd/">Orthodontics (ORTD)</a></li>
+		<li><a href="/all-course-descriptions/path/">Pathology (PATH)</a></li>
+		<li><a href="/all-course-descriptions/psl/">Patient Safety Leadership (PSL)</a></li>
+		<li><a href="/all-course-descriptions/pedd/">Pediatric Dentistry (PEDD)</a></li>
+		<li><a href="/all-course-descriptions/peri/">Periodontics (PERI)</a></li>
+		<li><a href="/all-course-descriptions/psci/">Pharmaceutical Sciences (PSCI)</a></li>
+		<li><a href="/all-course-descriptions/pmpg/">Pharmacognosy (PMPG)</a></li>
+		<li><a href="/all-course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+		<li><a href="/all-course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+		<li><a href="/all-course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+		<li><a href="/all-course-descriptions/psop/">Pharmacy Systems, Outcomes, and Policy (PSOP)</a></li>
+		<li><a href="/all-course-descriptions/phil/">Philosophy (PHIL)</a></li>
+		<li><a href="/all-course-descriptions/pt/">Physical Therapy (PT)</a></li>
+		<li><a href="/all-course-descriptions/phys/">Physics (PHYS)</a></li>
+		<li><a href="/all-course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+		<li><a href="/all-course-descriptions/pol/">Polish (POL)</a></li>
+		<li><a href="/all-course-descriptions/pols/">Political Science (POLS)</a></li>
+		<li><a href="/all-course-descriptions/port/">Portuguese (PORT)</a></li>
+		<li><a href="/all-course-descriptions/prcl/">Preclinical Medicine (PRCL)</a></li>
+		<li><a href="/all-course-descriptions/ptl/">Privacy and Technology Law (PTL)</a></li>
+		<li><a href="/all-course-descriptions/pros/">Prosthodontics (PROS)</a></li>
+		<li><a href="/all-course-descriptions/psch/">Psychology (PSCH)</a></li>
+		<li><a href="/all-course-descriptions/pa/">Public Administration (PA)</a></li>
+		<li><a href="/all-course-descriptions/pubh/">Public Health (PUBH)</a></li>
+		<li><a href="/all-course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+		<li><a href="/all-course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+		<li><a href="/all-course-descriptions/re/">Real Estate (RE)</a></li>
+		<li><a href="/all-course-descriptions/rels/">Religious Studies (RELS)</a></li>
+		<li><a href="/all-course-descriptions/rest/">Restorative Dentistry (REST)</a></li>
+		<li><a href="/all-course-descriptions/russ/">Russian (RUSS)</a></li>
+		<li><a href="/all-course-descriptions/slav/">Slavic and Baltic Languages and Literatures (SLAV)</a></li>
+		<li><a href="/all-course-descriptions/sj/">Social Justice (SJ)</a></li>
+		<li><a href="/all-course-descriptions/socw/">Social Work (SOCW)</a></li>
+		<li><a href="/all-course-descriptions/soc/">Sociology (SOC)</a></li>
+		<li><a href="/all-course-descriptions/span/">Spanish (SPAN)</a></li>
+		<li><a href="/all-course-descriptions/sped/">Special Education (SPED)</a></li>
+		<li><a href="/all-course-descriptions/spec/">Specialty Medicine (SPEC)</a></li>
+		<li><a href="/all-course-descriptions/stat/">Statistics (STAT)</a></li>
+		<li><a href="/all-course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+		<li><a href="/all-course-descriptions/surg/">Surgery (SURG)</a></li>
+		<li><a href="/all-course-descriptions/tx/">Taxation (TX)</a></li>
+		<li><a href="/all-course-descriptions/thtr/">Theatre (THTR)</a></li>
+		<li><a href="/all-course-descriptions/tadr/">Trial Advocacy and Dispute Resolution (TADR)</a></li>
+		<li><a href="/all-course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+		<li><a href="/all-course-descriptions/us/">Urban Studies (US)</a></li>
+		<li><a href="/all-course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+		<li><a href="/all-course-descriptions/usl/">US Legal Studies (USL)</a></li>
+	</ul>
+	</li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/all-course-descriptions/">All&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Nursing Practicum (NUPR)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Nursing Practicum (NUPR)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="nuprcourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;405.  Integrated Practicum I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Clinical application of fundamental nursing and physical assessment skills within various clinical settings. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=NURS%20404" title="NURS&#160;404" class="bubblelink code" onclick="return showCourse(this, 'NURS 404');">NURS&#160;404</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;410.  Integrated Practicum II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Clinical application of nursing concepts and processes to the care of adults in various clinical settings. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): <a href="/search/?P=NUPR%20405" title="NUPR&#160;405" class="bubblelink code" onclick="return showCourse(this, 'NUPR 405');">NUPR&#160;405</a> and Credit or concurrent registration in <a href="/search/?P=NURS%20408" title="NURS&#160;408" class="bubblelink code" onclick="return showCourse(this, 'NURS 408');">NURS&#160;408</a> and <a href="/search/?P=NURS%20404" title="NURS&#160;404" class="bubblelink code" onclick="return showCourse(this, 'NURS 404');">NURS&#160;404</a> and Credit or concurrent registration in <a href="/search/?P=NURS%20414" title="NURS&#160;414" class="bubblelink code" onclick="return showCourse(this, 'NURS 414');">NURS&#160;414</a>. Must enroll concurrently in <a href="/search/?P=NURS%20406" title="NURS&#160;406" class="bubblelink code" onclick="return showCourse(this, 'NURS 406');">NURS&#160;406</a> and <a href="/search/?P=NURS%20408" title="NURS&#160;408" class="bubblelink code" onclick="return showCourse(this, 'NURS 408');">NURS&#160;408</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;415.  Integrated Practicum III.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Clinical application of nursing concepts and processes to the care of women, children, families and the mentally ill in various clinical settings. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): <a href="/search/?P=NUPR%20410" title="NUPR&#160;410" class="bubblelink code" onclick="return showCourse(this, 'NUPR 410');">NUPR&#160;410</a> and Credit or concurrent registration in <a href="/search/?P=NURS%20412" title="NURS&#160;412" class="bubblelink code" onclick="return showCourse(this, 'NURS 412');">NURS&#160;412</a>; and graduate standing.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;416.  Integrated Practicum IV.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Clinical application of population-focused nursing care with an emphasis on lifespan health promotion and behavioral health in various community settings. Course Information: Prerequisite(s): <a href="/search/?P=NUPR%20410" title="NUPR&#160;410" class="bubblelink code" onclick="return showCourse(this, 'NUPR 410');">NUPR&#160;410</a>; and credit or concurrent registration in <a href="/search/?P=NURS%20406" title="NURS&#160;406" class="bubblelink code" onclick="return showCourse(this, 'NURS 406');">NURS&#160;406</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;420.  Clinical Synthesis.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Focus is on clinical synthesis of nursing knowledge and skills and on implementation of leadership and management skills, including organizing care and delegation, in the provision of care. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): <a href="/search/?P=NUPR%20416" title="NUPR&#160;416" class="bubblelink code" onclick="return showCourse(this, 'NUPR 416');">NUPR&#160;416</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;506.  Data-driven Health Care Improvement.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on sources and features of health care data that influence the quality, safety, and ease of use for improving health care; storage, security, privacy, database architecture, accessing, cleaning, transforming, analyzing, and visualizing. Course Information: Prerequisite(s): <a href="/search/?P=NURS%20518" title="NURS&#160;518" class="bubblelink code" onclick="return showCourse(this, 'NURS 518');">NURS&#160;518</a> and <a href="/search/?P=NURS%20541" title="NURS&#160;541" class="bubblelink code" onclick="return showCourse(this, 'NURS 541');">NURS&#160;541</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Clinical Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;514.  School Nursing Internship.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Concepts and principles and best practices of school nursing applied within the school community. Clinical experience with an emphasis on development of a coordinated school health program. Course Information: May be repeated. Prerequisite(s):  Credit or concurrent registration in <a href="/search/?P=NUSP%20513" title="NUSP&#160;513" class="bubblelink code" onclick="return showCourse(this, 'NUSP 513');">NUSP&#160;513</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;520.  Clinical Synthesis Practicum for the Advanced Generalist.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Students use advanced strategies to translate, integrate, and apply evidence to influence health care outcomes for individuals and populations within diverse systems. Course Information: Must be taken in the final semester of a student's program.Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=NURS%20516" title="NURS&#160;516" class="bubblelink code" onclick="return showCourse(this, 'NURS 516');">NURS&#160;516</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;521.  Clinical Practice in Primary Care I.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Practicum emphasizing evidence-based clinical practice, including data-gathering, differential diagnosis, health promotion, disease prevention, and management of common health problems across the lifespan. Course Information: Prerequisite(s): <a href="/search/?P=NURS%20532" title="NURS&#160;532" class="bubblelink code" onclick="return showCourse(this, 'NURS 532');">NURS&#160;532</a> and <a href="/search/?P=NUSP%20517" title="NUSP&#160;517" class="bubblelink code" onclick="return showCourse(this, 'NUSP 517');">NUSP&#160;517</a>; or consent of instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;522.  Clinical Practice in Primary Care II.  5 hours.</strong></p>
+<p class="courseblockdesc">
+Practicum emphasizing evidence-based clinical practice, including data-gathering, differential diagnosis, health promotion, disease prevention, and management of common to complex health problems across the lifespan. Course Information: Prerequisite(s): <a href="/search/?P=NUPR%20521" title="NUPR&#160;521" class="bubblelink code" onclick="return showCourse(this, 'NUPR 521');">NUPR&#160;521</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;523.  Clinical Practice in Primary Care III.  5 hours.</strong></p>
+<p class="courseblockdesc">
+Practicum emphasizing evidence-based clinical evaluation, differential diagnosis, health promotion, disease prevention, and management of common to complex health problems and comorbidities across the lifespan. Course Information: Prerequisite(s): <a href="/search/?P=NUPR%20522" title="NUPR&#160;522" class="bubblelink code" onclick="return showCourse(this, 'NUPR 522');">NUPR&#160;522</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;531.  Mental Health Assessment of Acute and Chronic Illness Practicum I.  3-7 hours.</strong></p>
+<p class="courseblockdesc">
+Practicum I:  Management of mental health problems presented in various settings. Application of assessment and diagnosis of pathology; crisis, triage and emergency care. Course Information: May be repeated. Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=NUSP%20527" title="NUSP&#160;527" class="bubblelink code" onclick="return showCourse(this, 'NUSP 527');">NUSP&#160;527</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;532.  Mental Health Promotion and Disease Prevention.  3-8 hours.</strong></p>
+<p class="courseblockdesc">
+Clinical Practicum II: Management of mental health problems presented in various settings.  Application of various approaches to psychotherapy, psychoeduation, and complementary care to promote health and prevent disease. Course Information: May be repeated. Prerequisite(s): <a href="/search/?P=NUPR%20531" title="NUPR&#160;531" class="bubblelink code" onclick="return showCourse(this, 'NUPR 531');">NUPR&#160;531</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;533.  Professional Role and Policy Development.  2-5 hours.</strong></p>
+<p class="courseblockdesc">
+Practicum III: Development of psychiatric-mental health nurse practitioner role to deliver psychotherapeutic and psychopharmacologic services; and impact policies and procedures. Course Information: May be repeated. Prerequisite(s): <a href="/search/?P=NUPR%20532" title="NUPR&#160;532" class="bubblelink code" onclick="return showCourse(this, 'NUPR 532');">NUPR&#160;532</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;539.  Nurse Practitioner Practicum I: Management of Health and Illness in Adults.  5 hours.</strong></p>
+<p class="courseblockdesc">
+Practicum emphasizing clinical evaluation, health promotion, differential diagnosis, symptom management, education and case management of adults with complex health problems that may be acute, episodic, or chronic. Course Information: Prerequisite(s): <a href="/search/?P=NUSP%20534" title="NUSP&#160;534" class="bubblelink code" onclick="return showCourse(this, 'NUSP 534');">NUSP&#160;534</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;540.  Nurse Practitioner Practicum II: Management of Health and Illness in Adults.  5 hours.</strong></p>
+<p class="courseblockdesc">
+Practicum emphasizing clinical evaluation, health promotion, differential diagnosis, symptom management, education and case management of adults with complex health problems that may be acute, episodic, or chronic. Course Information: Prerequisite(s): <a href="/search/?P=NUPR%20539" title="NUPR&#160;539" class="bubblelink code" onclick="return showCourse(this, 'NUPR 539');">NUPR&#160;539</a> and Credit or concurrent registration in <a href="/search/?P=NUSP%20535" title="NUSP&#160;535" class="bubblelink code" onclick="return showCourse(this, 'NUSP 535');">NUSP&#160;535</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;541.  Nurse Practitioner Practicum III: Management of Health and Illness in Adults.  5 hours.</strong></p>
+<p class="courseblockdesc">
+Practicum emphasizing clinical evaluation, health promotion, differential diagnosis, symptom management, education and case management of adults with complex health problems that may be acute, episodic, or chronic. Course Information: Prerequisite(s): <a href="/search/?P=NUPR%20540" title="NUPR&#160;540" class="bubblelink code" onclick="return showCourse(this, 'NUPR 540');">NUPR&#160;540</a> and <a href="/search/?P=NURS%20533" title="NURS&#160;533" class="bubblelink code" onclick="return showCourse(this, 'NURS 533');">NURS&#160;533</a> and <a href="/search/?P=NUSP%20535" title="NUSP&#160;535" class="bubblelink code" onclick="return showCourse(this, 'NUSP 535');">NUSP&#160;535</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;551.  Practicum: Health maintenance &amp; management of common acute illness in the infant, child, adolescent.  1-8 hours.</strong></p>
+<p class="courseblockdesc">
+Students apply current knowledge in providing care to infants, children, adolescents/young adults in a variety of primary care settings including school based clinics, community clinics, pediatric practices. There is an emphasis on underserved. Course Information: Prerequisite(s): <a href="/search/?P=NURS%20532" title="NURS&#160;532" class="bubblelink code" onclick="return showCourse(this, 'NURS 532');">NURS&#160;532</a> and credit or concurrent registration in <a href="/search/?P=NUSP%20553" title="NUSP&#160;553" class="bubblelink code" onclick="return showCourse(this, 'NUSP 553');">NUSP&#160;553</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;552.  Practicum: Management of Infant, Child, Adolescent/Young Adult with Chronic Illness.  1-8 hours.</strong></p>
+<p class="courseblockdesc">
+Students apply current knowledge in providing care to infants, children, adolescents/young adults in a variety of primary care, chronic care, and selected acute care settings. Course Information: Prerequisite(s): <a href="/search/?P=NUPR%20551" title="NUPR&#160;551" class="bubblelink code" onclick="return showCourse(this, 'NUPR 551');">NUPR&#160;551</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;553.  Practicum in the Care of the Critically Ill Child.  1-6 hours.</strong></p>
+<p class="courseblockdesc">
+Application of knowledge as an acute care pediatric nurse practitioner providing care for children with complex, emergent, acute, and critical illness. Focus is on clinical management of infants, children anadolescents/young adults in acute settings. Course Information: Prerequisite(s): <a href="/search/?P=NUPR%20551" title="NUPR&#160;551" class="bubblelink code" onclick="return showCourse(this, 'NUPR 551');">NUPR&#160;551</a> and credit or concurrent registration in <a href="/search/?P=NUPR%20552" title="NUPR&#160;552" class="bubblelink code" onclick="return showCourse(this, 'NUPR 552');">NUPR&#160;552</a> and credit or concurrent registration in <a href="/search/?P=NUSP%20564" title="NUSP&#160;564" class="bubblelink code" onclick="return showCourse(this, 'NUSP 564');">NUSP&#160;564</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;556.  EBP 4: DNP Project Planning and Implementation.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Practicum focused on leadership, interprofessional collaboration, and systems for planning and implementing a DNP project in a practice or system setting aligned with the student's population focus or specialty. Course Information: Prerequisite(s): <a href="/search/?P=NURS%20555" title="NURS&#160;555" class="bubblelink code" onclick="return showCourse(this, 'NURS 555');">NURS&#160;555</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;557.  EBP 5: DNP Project Evaluation and Dissemination.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Evaluation and dissemination of the studentâ€™s DNP project implemented in a practice or system setting aligned with the student's population focus or specialty. Course Information: Prerequisite(s): <a href="/search/?P=NUPR%20556" title="NUPR&#160;556" class="bubblelink code" onclick="return showCourse(this, 'NUPR 556');">NUPR&#160;556</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;564.  Assessment and Care of the Newborn.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Emphasizes the assessment of normal newborns and facilitates transition to extrauterine life. Course Information: Prerequisite(s): <a href="/search/?P=NUSP%20556" title="NUSP&#160;556" class="bubblelink code" onclick="return showCourse(this, 'NUSP 556');">NUSP&#160;556</a> and credit or concurrent registration in <a href="/search/?P=NUPR%20573" title="NUPR&#160;573" class="bubblelink code" onclick="return showCourse(this, 'NUPR 573');">NUPR&#160;573</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Clinical Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;572.  Practicum: Health Care of Women.  1-8 hours.</strong></p>
+<p class="courseblockdesc">
+Clinical experiences to develop nurse-midwifery and nurse practitioner competencies in the health care of women. Course Information: May be repeated. Prerequisite(s): <a href="/search/?P=NUSP%20555" title="NUSP&#160;555" class="bubblelink code" onclick="return showCourse(this, 'NUSP 555');">NUSP&#160;555</a> and <a href="/search/?P=NURS%20531" title="NURS&#160;531" class="bubblelink code" onclick="return showCourse(this, 'NURS 531');">NURS&#160;531</a> and <a href="/search/?P=NURS%20532" title="NURS&#160;532" class="bubblelink code" onclick="return showCourse(this, 'NURS 532');">NURS&#160;532</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;573.  Practicum: Birth and the Newborn.  1-8 hours.</strong></p>
+<p class="courseblockdesc">
+Clinical experiences to develop beginning competence in the nurse-midwifery care of women and their newborns during parturition. Course Information: May be repeated. Prerequisite(s):  <a href="/search/?P=NUSP%20556" title="NUSP&#160;556" class="bubblelink code" onclick="return showCourse(this, 'NUSP 556');">NUSP&#160;556</a> and <a href="/search/?P=NURS%20531" title="NURS&#160;531" class="bubblelink code" onclick="return showCourse(this, 'NURS 531');">NURS&#160;531</a> and <a href="/search/?P=NURS%20532" title="NURS&#160;532" class="bubblelink code" onclick="return showCourse(this, 'NURS 532');">NURS&#160;532</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;574.  Advanced Neonatal Nurse Clinical Practicum.  1-6 hours.</strong></p>
+<p class="courseblockdesc">
+Assessment, stabilization, and management of infants with common problems or complex disturbances, alterations, and multi-organ dysfunction and their unique neurodevelopmental needs and vulnerabilities emphasizing patient and family centered care. Course Information: May be repeated. Prerequisite(s): <a href="/search/?P=NURS%20532" title="NURS&#160;532" class="bubblelink code" onclick="return showCourse(this, 'NURS 532');">NURS&#160;532</a> and <a href="/search/?P=NURS%20535" title="NURS&#160;535" class="bubblelink code" onclick="return showCourse(this, 'NURS 535');">NURS&#160;535</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;580.  Individualized Graduate Practicum.  1-5 hours.</strong></p>
+<p class="courseblockdesc">
+Individualized practicum that will develop skills, competencies and knowledge in a chosen health care delivery setting. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;591.  Advanced Population Health Evaluation and Policy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Develops competencies in comprehensive advanced program evaluation for communities and health systems in partnership with community stakeholders. Course Information: Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=NUPR%20597" title="NUPR&#160;597" class="bubblelink code" onclick="return showCourse(this, 'NUPR 597');">NUPR&#160;597</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Clinical Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;593.  Research Practicum.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+An intensive guided research practicum in design, data collection, psychometric analysis or specific analytic techniques relevant to the student's research specialization. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated to a maximum of 6 hours. Must be repeated for a minimum of 3 hours of credit. Prerequisite(s): <a href="/search/?P=NURS%20573" title="NURS&#160;573" class="bubblelink code" onclick="return showCourse(this, 'NURS 573');">NURS&#160;573</a> and two advanced statistics courses.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;594.  Advanced Systems Level Nursing Leadership.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced nursing practice leadership experiences in systems of health. Course Information: Prerequisite(s): <a href="/search/?P=NURS%20517" title="NURS&#160;517" class="bubblelink code" onclick="return showCourse(this, 'NURS 517');">NURS&#160;517</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;595.  Clinical Option: Advanced Systems Level Nursing Practice.  1-5 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced nursing practice experiences within systems of health (Public health Informatics, public health systems, leadership, policy, school health, economics, epidemiology, Maternal-Child Health, health care deliver systems, etc). Course Information: May be repeated. A total of 5 credit hours must be earned in this course.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>NUPR&#160;597.  Advanced Population Health and Program Planning.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Develops comprehensive advanced program planning and implementation competencies for populations, communities and health systems in partnership with community stakeholders. Course Information: Prerequisite(s): NUPR 596. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Clinical Practice.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="nupr.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,823 @@
+https://catalog.uic.edu/ucat/course-descriptions/ah/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Art History (AH) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a></li>
+		<li class="active isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a>
+		<ul class="nav leveltwo" id="/ucat/course-descriptions/">
+			<li><a href="/ucat/course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+			<li><a href="/ucat/course-descriptions/actg/">Accounting (ACTG)</a></li>
+			<li><a href="/ucat/course-descriptions/aast/">African American Studies (AAST)</a></li>
+			<li><a href="/ucat/course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+			<li><a href="/ucat/course-descriptions/anth/">Anthropology (ANTH)</a></li>
+			<li><a href="/ucat/course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+			<li><a href="/ucat/course-descriptions/arab/">Arabic (ARAB)</a></li>
+			<li><a href="/ucat/course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+			<li><a href="/ucat/course-descriptions/arch/">Architecture (ARCH)</a></li>
+			<li><a href="/ucat/course-descriptions/art/">Art (ART)</a></li>
+			<li class="active self"><a href="#" onclick="return false;">Art History (AH)</a></li>
+			<li><a href="/ucat/course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+			<li><a href="/ucat/course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+			<li><a href="/ucat/course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+			<li><a href="/ucat/course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+			<li><a href="/ucat/course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+			<li><a href="/ucat/course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+			<li><a href="/ucat/course-descriptions/blst/">Black Studies (BLST)</a></li>
+			<li><a href="/ucat/course-descriptions/ba/">Business Administration (BA)</a></li>
+			<li><a href="/ucat/course-descriptions/cc/">Campus Courses (CC)</a></li>
+			<li><a href="/ucat/course-descriptions/cst/">Catholic Studies (CST)</a></li>
+			<li><a href="/ucat/course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+			<li><a href="/ucat/course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+			<li><a href="/ucat/course-descriptions/chem/">Chemistry (CHEM)</a></li>
+			<li><a href="/ucat/course-descriptions/chin/">Chinese (CHIN)</a></li>
+			<li><a href="/ucat/course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+			<li><a href="/ucat/course-descriptions/cl/">Classics (CL)</a></li>
+			<li><a href="/ucat/course-descriptions/comm/">Communication (COMM)</a></li>
+			<li><a href="/ucat/course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+			<li><a href="/ucat/course-descriptions/cs/">Computer Science (CS)</a></li>
+			<li><a href="/ucat/course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+			<li><a href="/ucat/course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+			<li><a href="/ucat/course-descriptions/des/">Design (DES)</a></li>
+			<li><a href="/ucat/course-descriptions/dlg/">Dialogue (DLG)</a></li>
+			<li><a href="/ucat/course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+			<li><a href="/ucat/course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+			<li><a href="/ucat/course-descriptions/econ/">Economics (ECON)</a></li>
+			<li><a href="/ucat/course-descriptions/ed/">Education (ED)</a></li>
+			<li><a href="/ucat/course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+			<li><a href="/ucat/course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+			<li><a href="/ucat/course-descriptions/ece/">Electrical and Computer Engr (ECE)</a></li>
+			<li><a href="/ucat/course-descriptions/engr/">Engineering (ENGR)</a></li>
+			<li><a href="/ucat/course-descriptions/engl/">English (ENGL)</a></li>
+			<li><a href="/ucat/course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+			<li><a href="/ucat/course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+			<li><a href="/ucat/course-descriptions/fin/">Finance (FIN)</a></li>
+			<li><a href="/ucat/course-descriptions/fr/">French (FR)</a></li>
+			<li><a href="/ucat/course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+			<li><a href="/ucat/course-descriptions/geog/">Geography (GEOG)</a></li>
+			<li><a href="/ucat/course-descriptions/ger/">Germanic Studies (GER)</a></li>
+			<li><a href="/ucat/course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+			<li><a href="/ucat/course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+			<li><a href="/ucat/course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+			<li><a href="/ucat/course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+			<li><a href="/ucat/course-descriptions/him/">Health Information Management (HIM)</a></li>
+			<li><a href="/ucat/course-descriptions/heb/">Hebrew (HEB)</a></li>
+			<li><a href="/ucat/course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+			<li><a href="/ucat/course-descriptions/hist/">History (HIST)</a></li>
+			<li><a href="/ucat/course-descriptions/hon/">Honors College Courses (HON)</a></li>
+			<li><a href="/ucat/course-descriptions/hn/">Human Nutrition (HN)</a></li>
+			<li><a href="/ucat/course-descriptions/hum/">Humanities (HUM)</a></li>
+			<li><a href="/ucat/course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+			<li><a href="/ucat/course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+			<li><a href="/ucat/course-descriptions/it/">Information Technology (IT)</a></li>
+			<li><a href="/ucat/course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+			<li><a href="/ucat/course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+			<li><a href="/ucat/course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+			<li><a href="/ucat/course-descriptions/inst/">International Studies (INST)</a></li>
+			<li><a href="/ucat/course-descriptions/ital/">Italian (ITAL)</a></li>
+			<li><a href="/ucat/course-descriptions/jpn/">Japanese (JPN)</a></li>
+			<li><a href="/ucat/course-descriptions/jst/">Jewish Studies (JST)</a></li>
+			<li><a href="/ucat/course-descriptions/kn/">Kinesiology (KN)</a></li>
+			<li><a href="/ucat/course-descriptions/kor/">Korean (KOR)</a></li>
+			<li><a href="/ucat/course-descriptions/lat/">Latin (LAT)</a></li>
+			<li><a href="/ucat/course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+			<li><a href="/ucat/course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+			<li><a href="/ucat/course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+			<li><a href="/ucat/course-descriptions/ling/">Linguistics (LING)</a></li>
+			<li><a href="/ucat/course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+			<li><a href="/ucat/course-descriptions/lith/">Lithuanian (LITH)</a></li>
+			<li><a href="/ucat/course-descriptions/mgmt/">Management (MGMT)</a></li>
+			<li><a href="/ucat/course-descriptions/mktg/">Marketing (MKTG)</a></li>
+			<li><a href="/ucat/course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+			<li><a href="/ucat/course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+			<li><a href="/ucat/course-descriptions/math/">Mathematics (MATH)</a></li>
+			<li><a href="/ucat/course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+			<li><a href="/ucat/course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+			<li><a href="/ucat/course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+			<li><a href="/ucat/course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+			<li><a href="/ucat/course-descriptions/mils/">Military Science (MILS)</a></li>
+			<li><a href="/ucat/course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+			<li><a href="/ucat/course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+			<li><a href="/ucat/course-descriptions/mus/">Music (MUS)</a></li>
+			<li><a href="/ucat/course-descriptions/nast/">Native American Studies (NAST)</a></li>
+			<li><a href="/ucat/course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+			<li><a href="/ucat/course-descriptions/ns/">Naval Science (NS)</a></li>
+			<li><a href="/ucat/course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+			<li><a href="/ucat/course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+			<li><a href="/ucat/course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+			<li><a href="/ucat/course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+			<li><a href="/ucat/course-descriptions/path/">Pathology (PATH)</a></li>
+			<li><a href="/ucat/course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+			<li><a href="/ucat/course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+			<li><a href="/ucat/course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+			<li><a href="/ucat/course-descriptions/psop/">Pharmacy Systems, Outcomes &amp;&#8203; Policy (PSOP)</a></li>
+			<li><a href="/ucat/course-descriptions/phil/">Philosophy (PHIL)</a></li>
+			<li><a href="/ucat/course-descriptions/pt/">Physical Therapy (PT)</a></li>
+			<li><a href="/ucat/course-descriptions/phys/">Physics (PHYS)</a></li>
+			<li><a href="/ucat/course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+			<li><a href="/ucat/course-descriptions/pol/">Polish (POL)</a></li>
+			<li><a href="/ucat/course-descriptions/pols/">Political Science (POLS)</a></li>
+			<li><a href="/ucat/course-descriptions/port/">Portuguese (PORT)</a></li>
+			<li><a href="/ucat/course-descriptions/psch/">Psychology (PSCH)</a></li>
+			<li><a href="/ucat/course-descriptions/pa/">Public Administration (PA)</a></li>
+			<li><a href="/ucat/course-descriptions/pubh/">Public Health (PUBH)</a></li>
+			<li><a href="/ucat/course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+			<li><a href="/ucat/course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+			<li><a href="/ucat/course-descriptions/rels/">Religious Studies (RELS)</a></li>
+			<li><a href="/ucat/course-descriptions/russ/">Russian (RUSS)</a></li>
+			<li><a href="/ucat/course-descriptions/slav/">Slavic &amp;&#8203; Baltic Languages &amp;&#8203;Lit (SLAV)</a></li>
+			<li><a href="/ucat/course-descriptions/sj/">Social Justice (SJ)</a></li>
+			<li><a href="/ucat/course-descriptions/soc/">Sociology (SOC)</a></li>
+			<li><a href="/ucat/course-descriptions/span/">Spanish (SPAN)</a></li>
+			<li><a href="/ucat/course-descriptions/sped/">Special Education (SPED)</a></li>
+			<li><a href="/ucat/course-descriptions/stat/">Statistics (STAT)</a></li>
+			<li><a href="/ucat/course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+			<li><a href="/ucat/course-descriptions/thtr/">Theatre (THTR)</a></li>
+			<li><a href="/ucat/course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+			<li><a href="/ucat/course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+			<li><a href="/ucat/course-descriptions/us/">Urban Studies (US)</a></li>
+		</ul>
+		</li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/course-descriptions/">Undergraduate&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Art History (AH)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Art History (AH)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="ahcourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;100.  Introduction to Art and Art History.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Forms, meanings, and purposes of art. Discussion of techniques, styles and content as well as historical and social contexts, in various media and cultures.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;101.  The Naked and the Nude: Studies in Visual Literacy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Diverse social and psychological aspects of nakedness, nudity and related forms of bodily vulnerability studied through a wide-ranging history of art. Team-taught by the entire Art History faculty. Rigorous training in visual literacy. Museum visit. Course Information: Field trips required at a nominal fee. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<i>  Individual and Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;110.  World History of Art and the Built Environment I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Comprehensive overview of how world art, architecture, and visual culture from prehistory to 1400 CE respond to and shape culture, religion, politics and history. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;111.  World History of Art and the Built Environment II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Comprehensive overview of how world art, architecture, and visual culture from 1400 CE through contemporary respond to and shape culture, religion, politics and history. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;122.  History of Chicago Architecture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to the architecture and built environment of Chicago from its founding in the early nineteenth century until today. Course Information: Field trips required at a nominal fee.<i>  Creative Arts course, and  Past course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;125.  Introduction to the Art and Architecture of Asia.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Using cross-cultural case studies, this course introduces students to some of the major artistic methods, monuments, and themes associated with Asian art and architecture. Course Information: Same as <a href="/search/?P=GLAS%20125" title="GLAS&#160;125" class="bubblelink code" onclick="return showCourse(this, 'GLAS 125');">GLAS&#160;125</a>. Field trip required at a nominal fee.<i>  Creative Arts course, and  World Cultures course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;130.  Photography in History.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Developments in the history of photography including cultural, social, commercial, scientific, political and artistic applications, and its transformation of the related social meanings of art and subjectivity. Course Information: Field trips required at a nominal fee. Recommended background: Any art history course; any photography studio course.<i>  Past course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;160.  Trends in International Contemporary Art Since 1960.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Surveys international trends in art since 1960. Emphasis is on movements, new media, intermedia, criticism and theory.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;180.  Intro to Museum &amp; Exhibition.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Engages students with museum and exhibition histories, frameworks and experiences through activities, reading and films, field trips and lectures by professionals and faculty in affiliated areas including anthropology, art, and history. Course Information: Field trips required at a nominal fee. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<i>  Creative Arts course, and  Individual and Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;201.  Reading and Writing Art Criticism.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the writing and reading of art criticism in a variety of media. Course Information: Recommended background: 3 hours of Art History at the 100-level.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;204.  Greek Art and Archaeology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Contributions of archaeological excavations to the study of ancient Greece, 600 BC to 31 BC. Architecture, sculpture and painting in their social and historical contexts. Course Information: Same as <a href="/search/?P=CL%20204" title="CL&#160;204" class="bubblelink code" onclick="return showCourse(this, 'CL 204');">CL&#160;204</a>, and <a href="/search/?P=HIST%20204" title="HIST&#160;204" class="bubblelink code" onclick="return showCourse(this, 'HIST 204');">HIST&#160;204</a>.  Credit is not given for <a href="/search/?P=AH%20204" title="AH&#160;204" class="bubblelink code" onclick="return showCourse(this, 'AH 204');">AH&#160;204</a> if the student has credit in CL 215. Taught in English.<i>  Creative Arts course, and  Past course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;205.  Roman Art and Archaeology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Contributions of archaeological excavations to the study of ancient Rome and her empire 1000 BC-400 AD. Architecture, sculpture and painting in their social and historical contexts. Course Information: Same as <a href="/search/?P=CL%20205" title="CL&#160;205" class="bubblelink code" onclick="return showCourse(this, 'CL 205');">CL&#160;205</a>, and <a href="/search/?P=HIST%20205" title="HIST&#160;205" class="bubblelink code" onclick="return showCourse(this, 'HIST 205');">HIST&#160;205</a>.<i>  Creative Arts course, and  Past course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;206.  Museums and Exhibitions in Motion.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Students will shadow museum staff, and learn about traditional and leading-edge exhibition craft through example and practice. They will look at exhibitions, and examine creative and critical interventions made by artists, activists and scholars. Course Information: Prerequisite(s): <a href="/search/?P=AH%20180" title="AH&#160;180" class="bubblelink code" onclick="return showCourse(this, 'AH 180');">AH&#160;180</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;207.  Topics in Architecture, Art, and Design.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in the history of architecture, art and design. Course Information: May be repeated if topics vary. Prerequisite(s): 3 hours of art history at the 100 level or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;208.  Topics in Modern Architecture, Art and Design.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Varying topics in how architecture, art and design have impacted the designed world over the last several centuries. Course Information: May be repeated if topics vary. Students may register for more than one section per term. Recommended background: 3 hours of Art History at the 100-level.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;209.  Near Eastern Art and Archaeology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the art, archaeology, and material culture of ancient societies in western Asia (Mesopotamia, Syria, the Levant, Anatolia, and Iran) from the first settled villages of the Neolithic to Alexander the Great (ca 9600-330 BCE). Course Information: Same as <a href="/search/?P=CL%20209" title="CL&#160;209" class="bubblelink code" onclick="return showCourse(this, 'CL 209');">CL&#160;209</a>. Credit is not given for <a href="/search/?P=AH%20209" title="AH&#160;209" class="bubblelink code" onclick="return showCourse(this, 'AH 209');">AH&#160;209</a> if the student has credit in ARST 209 or <a href="/search/?P=CL%20209" title="CL&#160;209" class="bubblelink code" onclick="return showCourse(this, 'CL 209');">CL&#160;209</a>. Previously listed as ARST 209. Prerequisite(s): Sophomore standing or above. Recommended background: <a href="/search/?P=AH%20110" title="AH&#160;110" class="bubblelink code" onclick="return showCourse(this, 'AH 110');">AH&#160;110</a>. Class Schedule Information: To be properly, registered students should enroll in one Lecture and one Lecture-Discussion.<i>  Creative Arts course, and  Past course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;210.  Ancient Egyptian Art and Archaeology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Ancient Egypt from 6000-1000 BCE. Architecture, sculpture and painting in their social and historical contexts. Course Information: Same as <a href="/search/?P=BLST%20210" title="BLST&#160;210" class="bubblelink code" onclick="return showCourse(this, 'BLST 210');">BLST&#160;210</a> and <a href="/search/?P=CL%20210" title="CL&#160;210" class="bubblelink code" onclick="return showCourse(this, 'CL 210');">CL&#160;210</a>. Credit is not given for <a href="/search/?P=AH%20210" title="AH&#160;210" class="bubblelink code" onclick="return showCourse(this, 'AH 210');">AH&#160;210</a> if the student has credit in <a href="/search/?P=ARST%20210" title="ARST&#160;210" class="bubblelink code" onclick="return showCourse(this, 'ARST 210');">ARST&#160;210</a> or <a href="/search/?P=CL%20210" title="CL&#160;210" class="bubblelink code" onclick="return showCourse(this, 'CL 210');">CL&#160;210</a> or  <a href="/search/?P=BLST%20210" title="BLST&#160;210" class="bubblelink code" onclick="return showCourse(this, 'BLST 210');">BLST&#160;210</a>. Previously listed as <a href="/search/?P=ARST%20210" title="ARST&#160;210" class="bubblelink code" onclick="return showCourse(this, 'ARST 210');">ARST&#160;210</a>. Prerequisite(s): Completion of the English Composition requirement; and sophomore standing or above. Recommended background: Credit in <a href="/search/?P=AH%20100" title="AH&#160;100" class="bubblelink code" onclick="return showCourse(this, 'AH 100');">AH&#160;100</a> or <a href="/search/?P=AH%20110" title="AH&#160;110" class="bubblelink code" onclick="return showCourse(this, 'AH 110');">AH&#160;110</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Lecture-Discussion.<i>  Creative Arts course, and  Past course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;211.  History of Urbanism.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The history of the city: Its form, meaning, function and representation from classical antiquity to the present. Selected topics in the history of settlement patterns and the planning of cities. Course Information:  Prerequisite(s):  3 hours of Art History at the 100-level or consent of the instructor.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;212.  The Contemporary Built Environment.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Varying topics in the way the urban and rural landscape has been treated over the last several decades. Course Information: May be repeated if topics vary. Students may register for more than one section per term. Recommended background: 3 hours of Art History at the 100-level.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;218.  Pompeii: Everyday Life in a Roman Town.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of the Roman town of Pompeii, including its history, society, politics, economy, religion, art, architecture, and entertainments. Course Information: Same as <a href="/search/?P=CL%20218" title="CL&#160;218" class="bubblelink code" onclick="return showCourse(this, 'CL 218');">CL&#160;218</a> and <a href="/search/?P=HIST%20218" title="HIST&#160;218" class="bubblelink code" onclick="return showCourse(this, 'HIST 218');">HIST&#160;218</a>. Prerequisite(s): <a href="/search/?P=CL%20101" title="CL&#160;101" class="bubblelink code" onclick="return showCourse(this, 'CL 101');">CL&#160;101</a> or <a href="/search/?P=CL%20103" title="CL&#160;103" class="bubblelink code" onclick="return showCourse(this, 'CL 103');">CL&#160;103</a> or <a href="/search/?P=CL%20205" title="CL&#160;205" class="bubblelink code" onclick="return showCourse(this, 'CL 205');">CL&#160;205</a> or <a href="/search/?P=AH%20110" title="AH&#160;110" class="bubblelink code" onclick="return showCourse(this, 'AH 110');">AH&#160;110</a> or; or consent of the instructor.<i>  Past course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;219.  Art and Architecture of East Asia.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of the historic and contemporary art and architecture of China, Korea and Japan, as well as the architecture and art of Asian Diasporas. Course Information: Same as <a href="/search/?P=GLAS%20219" title="GLAS&#160;219" class="bubblelink code" onclick="return showCourse(this, 'GLAS 219');">GLAS&#160;219</a>.<i>  Creative Arts course, and  World Cultures course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;220.  Buddhist Art and Architecture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A chronologically and thematically organized survey of Buddhist art and architecture in Asia and beyond. Course Information: Same as <a href="/search/?P=RELS%20220" title="RELS&#160;220" class="bubblelink code" onclick="return showCourse(this, 'RELS 220');">RELS&#160;220</a> and <a href="/search/?P=GLAS%20220" title="GLAS&#160;220" class="bubblelink code" onclick="return showCourse(this, 'GLAS 220');">GLAS&#160;220</a>.<i>  Creative Arts course, and  World Cultures course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;221.  Medieval Architecture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The development of early Christian, Byzantine, Romanesque, and Gothic architecture. Course Information: Prerequisite(s): 3 hours of art history at the 100 level or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;222.  Renaissance Architecture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The development of architecture in Renaissance Europe, with emphasis on the Italian Penninsula, from 1400 to 1600. Course Information: Prerequisite(s): 3 hours of art history at the 100 level or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;223.  Baroque Architecture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The development of architecture in Europe from 1600 to 1750. Course Information: Prerequisite(s): 3 hours of art history at the 100 level or consent of the instructor.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;224.  North American Architecture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The development of architecture, urbanism, and architectural theory over the last 500 years.  Course Information: Prerequisite(s): 3 hours of art history at the 100 level or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;225.  European Architecture, 1750-1900.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The development of European architecture, urbanism and architectural theory from 1750 to 1900. Course Information: Prerequisite(s): 3 hours of art history at the 100 level or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;228.  History of Landscape Architecture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of developments in the history of gardens, parks, and other designed spaces over the past 1000 years.  Course Information:  Prerequistie(s):  3 hours of Art History at the 100-level or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;230.  History of Photography I: 1820-1920.  3 hours.</strong></p>
+<p class="courseblockdesc">
+History of photography from the 1820s to the beginning of the twentieth century.  Course Information:  Prerequisite(s):  3 hours of Art History at the 100-level or consent of the instructor.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;231.  History of Photography II: 1900 to Present.  3 hours.</strong></p>
+<p class="courseblockdesc">
+History of photography from the beginning of the twentieth century to the present. Course Information:  Preerequisite(s):  3 hours of Art HIstory at the 100-level or consent of the instructor.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;232.  History of Film I: 1890 to World War II.  3 hours.</strong></p>
+<p class="courseblockdesc">
+History of film from its beginnings in the 1890s up to World War II. Course Information: Same as <a href="/search/?P=ENGL%20232" title="ENGL&#160;232" class="bubblelink code" onclick="return showCourse(this, 'ENGL 232');">ENGL&#160;232</a> and <a href="/search/?P=MOVI%20232" title="MOVI&#160;232" class="bubblelink code" onclick="return showCourse(this, 'MOVI 232');">MOVI&#160;232</a>.  Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture-Discussion.  Recommended background:  <a href="/search/?P=ENGL%20102" title="ENGL&#160;102" class="bubblelink code" onclick="return showCourse(this, 'ENGL 102');">ENGL&#160;102</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;233.  History of Film II: World War II to the Present.  3 hours.</strong></p>
+<p class="courseblockdesc">
+History of film from World War II to contemporary movements in world cinema. Course Information: Same as <a href="/search/?P=ENGL%20233" title="ENGL&#160;233" class="bubblelink code" onclick="return showCourse(this, 'ENGL 233');">ENGL&#160;233</a> and <a href="/search/?P=MOVI%20233" title="MOVI&#160;233" class="bubblelink code" onclick="return showCourse(this, 'MOVI 233');">MOVI&#160;233</a>.  Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture-Discussion.  Recommended background:  <a href="/search/?P=ENGL%20102" title="ENGL&#160;102" class="bubblelink code" onclick="return showCourse(this, 'ENGL 102');">ENGL&#160;102</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;234.  New Media Studies.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Developments in non-traditional visual media since 1960. Course Information: Recommended background: 3 hours of Art History at the 100-level.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;235.  History of Design I: 1760-1925.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of industrial and graphic design from the Industrial Revolution to 1925. Course Information: Same as <a href="/search/?P=DES%20235" title="DES&#160;235" class="bubblelink code" onclick="return showCourse(this, 'DES 235');">DES&#160;235</a>.  Prerequisite(s):  3 hours of Art History at the 100-level or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;236.  History of Design II: 1925 to the Present.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of industrial and graphic design from 1925 to the present. Course Information: Same as <a href="/search/?P=DES%20236" title="DES&#160;236" class="bubblelink code" onclick="return showCourse(this, 'DES 236');">DES&#160;236</a>. Prerequisite(s): 3 hours of Art History at the 100-level or consent of the instructor. Recommended background: <a href="/search/?P=AH%20235" title="AH&#160;235" class="bubblelink code" onclick="return showCourse(this, 'AH 235');">AH&#160;235</a> or <a href="/search/?P=DES%20235" title="DES&#160;235" class="bubblelink code" onclick="return showCourse(this, 'DES 235');">DES&#160;235</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;242.  Early Christian and Byzantine Art and Architecture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The art, architecture and built environment of the Early Christian and Byzantine world from the third to fifteenth century CE. Religious and secular arts are surveyed in their historical contexts, paying attention to political, social and cultural circumstances. Course Information: Prerequisite(s): 3 hours of Art History at the 100-level recommended but not required.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;243.  Medieval Art and Architecture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The art and architecture of the medieval west from 200 CE through the fifteenth century, including urbanism and the built environment.  Religious and secular arts are surveyd in their historical context. Course Information: Prerequisite(s): 3 hours of art history at the 100 level or consent of the instructor.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;244.  Islamic Art and Architecture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The art and architecture of Islamic civilizations from the seventh century to the modern period. Religious and secular arts are surveyed in their historical contexts. Course Information: Prerequisite(s): Consent of the instructor or 3 hours of Art History courses at the 100-level.<i>  Creative Arts course, and  World Cultures course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;245.  Selected Topics in Medieval Architecture and Art.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in the architecture, art and material culture of Europe and the Mediterranean region, from Late Antiguity through the western Middle Ages, Byzantium and/or Islam. Course Information: May be repeated in topics vary. Students may register for more than one section per term. Recommended background: 3 hours of Art History at the 100-level.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;246.  European Avant-Garde.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Major movements of the avant-garde, including Cubism, Futurism, Suprematism, Surrealism, and Constructivism. Cross -fertilization of ideas between cultures and media, including literature, film, architecture and visual arts. Course Information: Same as <a href="/search/?P=CEES%20246" title="CEES&#160;246" class="bubblelink code" onclick="return showCourse(this, 'CEES 246');">CEES&#160;246</a>.  Taught in English. Prerequisite(s): Sophomore standing or above; or consent of the instructor.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;248.  Russian Visual and Material Culture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Non-textual manifestations of Russian culture such as painting, sculpture, architecture, design and decorative arts in a way that emphasizes how an object's compositional medium relates to its aesthetic and functional purposes. Course Information: Same as <a href="/search/?P=RUSS%20248" title="RUSS&#160;248" class="bubblelink code" onclick="return showCourse(this, 'RUSS 248');">RUSS&#160;248</a>. Taught in English. Prerequisite(s): Completion of <a href="/search/?P=ENGL%20160" title="ENGL&#160;160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL&#160;160</a>; or any 100-level RUSS or AH course.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;250.  Italian Renaissance Art.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Painting, sculpture, and architecture in Italy from the fourteenth through the sixteenth centuries. Course Information: Prerequisite(s): 3 hours of art history at the 100 level or consent of the instructor.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;251.  Northern Renaissance Art and Architecture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The art and architecture of the Low Countries, Germany, France, and England during the fiteenth and sixteenth centuries. Course Information: Prerequisite(s): 3 hours of art history at the 100 level or consent of the instructor.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;252.  Art of the Baroque and Rococo.  3 hours.</strong></p>
+<p class="courseblockdesc">
+European painting, sculpture, and architecture of the seventeenth and early eighteenth centuries. Course Information: Prerequisite(s): 3 hours of art history at the 100 level or consent of the instructor.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;253.  Topics in Art and Architecture of the Renaissance and Baroque.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Varying topics in art and architecture from 14th through 18th-century Europe, with emphasis on historical, cultural and artistic contexts, and the development of particular periods or movements. Course Information: May be repeated if topics vary. Students may register for more than one section per term. Recommended background: 3 hours of Art History at the 100-level.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;259.  Art in the Age of Enlightenment and Revolution.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of European art from the Rococo and the Neoclassical to the expansion of print culture, through the lens of the eighteenth century's sweeping political, social and cultural transformations. Course Information: Field trip required at a nominal fee. Recommended background: <a href="/search/?P=AH%20111" title="AH&#160;111" class="bubblelink code" onclick="return showCourse(this, 'AH 111');">AH&#160;111</a>.<i>  Creative Arts course, and  Past course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;260.  European Art from 1750 to 1900.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Painting and sculpture in Western Europe from Neo-Classicism through early Modernism. Course Information: Prerequisite(s): 3 hours of art history at the 100-level or consent of the instructor.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;261.  European and American Art from 1900 to the Present.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The art of Western Europe and the United States from high Modernism and the historic avant-garde movements through post-modernism and the new media arts.  Course Information: Prerequisite(s): 3 hours of art history at the 100-level or consent of the instructor.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;262.  American Art to 1945.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The visual arts in the United States from the colonial period through 1945. Course Information: Prerequisite(s): 3 hours of art history at the 100 level or consent of the instructor.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;263.  Latin American Colonial Art.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A survey of Latin American art and architecture from European contact to independence. Course Information:  Same as <a href="/search/?P=LALS%20263" title="LALS&#160;263" class="bubblelink code" onclick="return showCourse(this, 'LALS 263');">LALS&#160;263</a>.  Prerequisite(s): Three hours of art history at the 100 level, or consent of the instructor.<i>  Creative Arts course, and  World Cultures course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;264.  African American Art.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Interdisciplinary survey of the artistic production of African American artists from the nineteenth century to the present. Course Information: Same as <a href="/search/?P=BLST%20264" title="BLST&#160;264" class="bubblelink code" onclick="return showCourse(this, 'BLST 264');">BLST&#160;264</a>.<i>  Creative Arts course, and  World Cultures course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;265.  History of Performance Art 1900 - Present.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Exploration of the ways selected examples of performance art made since 1900 articulate responses to the conditions governing life in the places they were made (including Europe, U.S., Russia, Brazil, and Japan.) Course Information: Prerequisite(s): 3 hours of art history at the 100 level or consent of the instructor. Recommended background: <a href="/search/?P=AH%20160" title="AH&#160;160" class="bubblelink code" onclick="return showCourse(this, 'AH 160');">AH&#160;160</a> and <a href="/search/?P=AH%20260" title="AH&#160;260" class="bubblelink code" onclick="return showCourse(this, 'AH 260');">AH&#160;260</a>.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;266.  Topics in the Global Visual Environment.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in the globalized visual environment, including urbanism and architecture, art, designed object, and landscapes. Course Information: May be repeated if topics vary. Students may register for more than one section per term. Recommended background: 3 hours of Art History at the 100-level.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;270.  African Art.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of the arts of the major tribal cultures of Sub-Saharan Africa. Course Information: Same as AAST 270. Prerequisite(s): 3 hours of art history at the 100 level or consent of the instructor.<i>  Creative Arts course, and  World Cultures course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;271.  Native American Art.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of the arts of the indigenous peoples of the United States and Canada. Course Information: Same as <a href="/search/?P=NAST%20271" title="NAST&#160;271" class="bubblelink code" onclick="return showCourse(this, 'NAST 271');">NAST&#160;271</a>. Prerequisite(s): 3 hours of art history at the 100 level or consent of the instructor.<i>  Creative Arts course, and  World Cultures course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;273.  Visual Culture of the Ancient Andes.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A survey of the visual expressions, material culture, and built environment of ancient Andean civilization, from the earliest manifestations of societal complexity through the Spanish Conquest, with particular attention to the environmental, ideologi. Course Information: Same as <a href="/search/?P=LALS%20239" title="LALS&#160;239" class="bubblelink code" onclick="return showCourse(this, 'LALS 239');">LALS&#160;239</a>.<i>  Creative Arts course, and  World Cultures course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;274.  Visual Culture of Ancient Mesoamerica.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A survey of the visual expressions, material culture, and built environment of ancient Mesoamerican civilization, from the earliest manifestations of societal complexity through the Spanish Conquest, with particular attention to the environmental, id. Course Information: Same as <a href="/search/?P=LALS%20240" title="LALS&#160;240" class="bubblelink code" onclick="return showCourse(this, 'LALS 240');">LALS&#160;240</a>.<i>  Creative Arts course, and  World Cultures course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;275.  South Asian Visual Cultures.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Art and architectural traditions of South Asia, contextualizing their uses and meaning within Hindu, Buddhist, Islamic, and contemporary communities of India, Pakistan, and Bangladesh.  Course Information:  Prerequisite(s):  3 hours of Art History at the 100-level or consent of the instructor.<i>  Creative Arts course, and  World Cultures course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;276.  Topics in the Indigenous Art and Architecture of the Americas.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in the art, architecture, and visual culture of the native peoples of North, Central and South America and the Caribbean. Course Information: May be repeated if topics vary. Students may register for more than one section per term. Prerequisite(s): 3 hours of Art History at the 100-level or consent of the instructor. Recommended background: <a href="/search/?P=AH%20273" title="AH&#160;273" class="bubblelink code" onclick="return showCourse(this, 'AH 273');">AH&#160;273</a> or <a href="/search/?P=AH%20274" title="AH&#160;274" class="bubblelink code" onclick="return showCourse(this, 'AH 274');">AH&#160;274</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;278.  Topics in the Art, Architecture and Visual Culture of Asia.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in the art, architecture, and visual cultures of Asia and Asian diasporas. Course Information: Same as <a href="/search/?P=GLAS%20278" title="GLAS&#160;278" class="bubblelink code" onclick="return showCourse(this, 'GLAS 278');">GLAS&#160;278</a>. May be repeated if topics vary. Students may register in more than one section per term.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;300.  Topics in Architecture, Art and Design.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in the history of architecture, art and design, from the ancient world to the present. Course Information: May be repeated. Students may register for more than one section per term. Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=AH%20110" title="AH&#160;110" class="bubblelink code" onclick="return showCourse(this, 'AH 110');">AH&#160;110</a> and <a href="/search/?P=AH%20111" title="AH&#160;111" class="bubblelink code" onclick="return showCourse(this, 'AH 111');">AH&#160;111</a>; or consent of the instructor. Recommended background: 3 hours in Art History in the general subject area.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;301.  Theories and Methods in Art History.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The methodologies and theories of the discipline and their application to selected problems. Course Information: Previously listed as AH 200. Required for majors in art history. Prerequisite(s): Junior standing and major in art history, or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;302.  Museum and Exhibition Workshop.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Taught as a practicum, and act as a laboratory for imaginative, justice focused approaches to the work of cultural institutions.  It will be organized around the collaborative design and completion of an exhibition and/or program. Course Information: Prerequisite(s): <a href="/search/?P=AH%20180" title="AH&#160;180" class="bubblelink code" onclick="return showCourse(this, 'AH 180');">AH&#160;180</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;303.  Writing in Art History.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Research methodology and writing in the field of art history.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;304.  Alexander the Great and the Hellenistic World.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines the career of Alexander the Great of Macedon and his legacy in Greece, Egypt and the Near East, up until the arrival of the Romans. Course Information: Same as <a href="/search/?P=CL%20304" title="CL&#160;304" class="bubblelink code" onclick="return showCourse(this, 'CL 304');">CL&#160;304</a>. Prerequisite(s): Sophomore standing or above.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;322.  Contemporary Architecture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Worldwide trends in recent architecture, urbanism, architectural theory and criticism.   Course Information:  <a href="/search/?P=AH%20110" title="AH&#160;110" class="bubblelink code" onclick="return showCourse(this, 'AH 110');">AH&#160;110</a> and <a href="/search/?P=AH%20111" title="AH&#160;111" class="bubblelink code" onclick="return showCourse(this, 'AH 111');">AH&#160;111</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;399.  Collaborative Research.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Research experience under the guidance of faculty. Course Information: May be repeated. Prerequisite(s): <a href="/search/?P=AH%20303" title="AH&#160;303" class="bubblelink code" onclick="return showCourse(this, 'AH 303');">AH&#160;303</a> and <a href="/search/?P=AH%20301" title="AH&#160;301" class="bubblelink code" onclick="return showCourse(this, 'AH 301');">AH&#160;301</a>; and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;404.  Topics in Architecture, Art and Design.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in the history of European and North American architecture, art and design. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 2 time(s) if topics vary. Students may register in more than one section per term.  Prerequisite(s): 3 hours of art history at the 200 level or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;407.  The Power of the Image: Roman Sculpture as Propaganda.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Historical and thematic examination of the use of Roman sculpture, by emperors and private individuals of all social classes, as an instrument of personal and political propaganda. Course Information: Same as CL 407 and <a href="/search/?P=HIST%20407" title="HIST&#160;407" class="bubblelink code" onclick="return showCourse(this, 'HIST 407');">HIST&#160;407</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): one of the following courses: <a href="/search/?P=AH%20204" title="AH&#160;204" class="bubblelink code" onclick="return showCourse(this, 'AH 204');">AH&#160;204</a>, <a href="/search/?P=AH%20205" title="AH&#160;205" class="bubblelink code" onclick="return showCourse(this, 'AH 205');">AH&#160;205</a>, <a href="/search/?P=AH%20110" title="AH&#160;110" class="bubblelink code" onclick="return showCourse(this, 'AH 110');">AH&#160;110</a>, <a href="/search/?P=CL%20101" title="CL&#160;101" class="bubblelink code" onclick="return showCourse(this, 'CL 101');">CL&#160;101</a>, <a href="/search/?P=CL%20103" title="CL&#160;103" class="bubblelink code" onclick="return showCourse(this, 'CL 103');">CL&#160;103</a>, <a href="/search/?P=CL%20203" title="CL&#160;203" class="bubblelink code" onclick="return showCourse(this, 'CL 203');">CL&#160;203</a>, <a href="/search/?P=CL%20204" title="CL&#160;204" class="bubblelink code" onclick="return showCourse(this, 'CL 204');">CL&#160;204</a>, <a href="/search/?P=CL%20205" title="CL&#160;205" class="bubblelink code" onclick="return showCourse(this, 'CL 205');">CL&#160;205</a>, <a href="/search/?P=HIST%20203" title="HIST&#160;203" class="bubblelink code" onclick="return showCourse(this, 'HIST 203');">HIST&#160;203</a>, <a href="/search/?P=HIST%20205" title="HIST&#160;205" class="bubblelink code" onclick="return showCourse(this, 'HIST 205');">HIST&#160;205</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;420.  History of Architecture I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to architecture, urbanism, and architectural theory worldwide from antiquity to 1450. Course Information: Prerequisite(s): Graduate standing.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;421.  History of Architecture II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to architecture, urbanism and architectural theory worldwide from 1450 to the present. Course Information: Prerequisite(s): Graduate standing and <a href="/search/?P=AH%20420" title="AH&#160;420" class="bubblelink code" onclick="return showCourse(this, 'AH 420');">AH&#160;420</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;422.  Topics in the Literature of Architecture.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Discussion of selected readings in the theory and criticism of architecture. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated if topics vary. Prerequisite(s): 3 hours in the history of architecture or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;423.  Topics in Modern and Contemporary Architecture.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in modern and contemporary architecture. Course Information: May be repeated if topics vary. Prerequisite(s): Graduate standing, and four hours in the history of architecture or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;424.  Topics in Architecture and Urban Form in Chicago.  2-4 hours.</strong></p>
+<p class="courseblockdesc">
+Topics on the development of the built environment of the Chicago and metropolitan area, and the effect on its architecture of social, political and economic forces.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;430.  Contemporary Photography.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Developments in the history of photography since 1950. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated if topics vary.  Prerequisite(s): 3 hours in the history of photography or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;431.  Photographic Theory.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Developments in photographic theory from its prehistory in the camera obscura and linear perspective through its heyday in the machine age up to its place in our image world today. Course Information: 3 undergraduate hours. 4 graduate hours. Recommended Background: AH 150 or any photography studio course.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;432.  Topics in Film and Video.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Selected studies in genres, schools, individual artists, critics, and theorists of film and video. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated if topics vary. Prerequisite(s): Graduate standing or 3 hours in the history of film or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;434.  Women and Film.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Roles and representations of women in classical Hollywood, European art and independent feminist cinemas. Course Information: Same as <a href="/search/?P=ENGL%20472" title="ENGL&#160;472" class="bubblelink code" onclick="return showCourse(this, 'ENGL 472');">ENGL&#160;472</a>, and <a href="/search/?P=GWS%20472" title="GWS&#160;472" class="bubblelink code" onclick="return showCourse(this, 'GWS 472');">GWS&#160;472</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s):  <a href="/search/?P=ENGL%20302" title="ENGL&#160;302" class="bubblelink code" onclick="return showCourse(this, 'ENGL 302');">ENGL&#160;302</a> or <a href="/search/?P=ENGL%20342" title="ENGL&#160;342" class="bubblelink code" onclick="return showCourse(this, 'ENGL 342');">ENGL&#160;342</a> or <a href="/search/?P=ENGL%20361" title="ENGL&#160;361" class="bubblelink code" onclick="return showCourse(this, 'ENGL 361');">ENGL&#160;361</a> or <a href="/search/?P=ENGL%20362" title="ENGL&#160;362" class="bubblelink code" onclick="return showCourse(this, 'ENGL 362');">ENGL&#160;362</a> or <a href="/search/?P=ENGL%20363" title="ENGL&#160;363" class="bubblelink code" onclick="return showCourse(this, 'ENGL 363');">ENGL&#160;363</a>; and senior standing or above; or consent of instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;435.  Topics in Modern and Contemporary Design.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Topics in modern and contemporary design. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated if topics vary. Prerequisite(s): 3 hours in the history of design or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;441.  Topics in Medieval Art and Architecture.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in European art and architecture of the Middle Ages. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated if topics vary. Prerequisite(s): 3 hours of medieval art and architecture or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;450.  Topics in Renaissance Art.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in Early Renaissance, High Renaissance, or Mannerist Art and Architecture. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): 3 hours in art history at the 200 level or above, or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;460.  Topics in Modern and Contemporary Art.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in nineteenth- and twentieth-century modern and contemporary art. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated if topics vary. Prerequisite(s): 3 hours of modern art and architecture or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;463.  Topics in North American Art and Architecture.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in North American art and architecture from colonial times to 1945. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated if topics vary. Prerequisite(s): 3 hours of North American art and architecture or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;464.  Topics on Art in Chicago.  2-4 hours.</strong></p>
+<p class="courseblockdesc">
+Topics on the survey of art in Chicago, from the nineteenth century to the present, with an emphasis on contemporary Chicago art expressions.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;465.  Arts of the Black Atlantic.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Interdisciplinary and discursive explorations of the visual and artistic expressions of artists of African descent in the New World. Course Information: 3 undergraduate hours. 4 graduate hours.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;466.  Material Worlds: Topics in Material Culture Studies.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines current theories of material culture, drawn from art history, archaeology and anthropology to reflect on technologies of production and social life of things. Case studies  will be drawn from ancient, medieval and modern historical context. Course Information: Same as <a href="/search/?P=ANTH%20466" title="ANTH&#160;466" class="bubblelink code" onclick="return showCourse(this, 'ANTH 466');">ANTH&#160;466</a> and <a href="/search/?P=CL%20466" title="CL&#160;466" class="bubblelink code" onclick="return showCourse(this, 'CL 466');">CL&#160;466</a>. 3 undergraduate hours. 4 graduate hours.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;470.  Topics in Indigenous American Art, Architecture, and Visual Culture.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in the art, architecture and visual culture of the indigenous Americas. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated if topics vary. Students may register for more than one section per term. Recommended Background: 3 hours of Art History (undergraduates); Graduate standing (graduates).<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;471.  Topics in Asian Art and Architecture.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in the art and architecture of Asia. Course Information: Same as <a href="/search/?P=GLAS%20471" title="GLAS&#160;471" class="bubblelink code" onclick="return showCourse(this, 'GLAS 471');">GLAS&#160;471</a>. 3 undergraduate hours. 4 graduate hours. May be repeated if topics vary. Prerequisite(s): 3 hours of Asian art and/or architecture or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;480.  Collecting Art and Building the Art Museum.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+The history of art collections and of art museums: public, academic, and private collections of art, and the architectural development of art museums. Formation of the earliest collections of art, and history of American collectors. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=AH%20110" title="AH&#160;110" class="bubblelink code" onclick="return showCourse(this, 'AH 110');">AH&#160;110</a> and <a href="/search/?P=AH%20111" title="AH&#160;111" class="bubblelink code" onclick="return showCourse(this, 'AH 111');">AH&#160;111</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;481.  Museum Practices.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Administration of visual arts organizations, their budgets, staffing, structures, accreditation, and long-range planning.  Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=AH%20480" title="AH&#160;480" class="bubblelink code" onclick="return showCourse(this, 'AH 480');">AH&#160;480</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;482.  Museology Internship.  6 or 8 hours.</strong></p>
+<p class="courseblockdesc">
+Practical supervised experience in institutions serving the visual arts. Placements in museums, community art centers, college, commercial, or non-traditional galleries, and public agencies. Course Information: Prerequisite(s): <a href="/search/?P=AH%20481" title="AH&#160;481" class="bubblelink code" onclick="return showCourse(this, 'AH 481');">AH&#160;481</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;483.  Internship.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to professional practice offering students the opportunity to couple academic learning with professional experience in an off-campus placement. Course Information: Satisfactory/Unsatisfactory only. May be repeated. Field work required. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;485.  Introduction to Historic Preservation.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Preservation planning, historic building restoration, and the political and economic factors affecting the conservation of historic resources. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated. Students may register in more than one section per term. Prerequisite(s): 3 hours of art history at the 200 level or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;490.  Honors Thesis.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Individual study on a project selected with the approval of the adviser. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): Open only to seniors.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;491.  Study Abroad in Art History.  0-12 hours.</strong></p>
+<p class="courseblockdesc">
+Study abroad within an approved foreign exchange program or department-sponsored program. Course Information: May be repeated with approval. Approval to repeat course granted by the department. Prerequisite(s): Approval of the department.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>AH&#160;492.  Readings in Art and Architecture History.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Individually planned readings on selected topics under the supervision of a faculty member. Course Information: 1 to 3 undergraduate hours. 2 to 4 graduate hours. May be repeated to a maximum of 9 hours for undergraduate students or 12 hours for graduate students. Students may register in more than one section per term. Prerequisite(s): Junior standing and 3 hours of Art History above the 100 level and consent of the instructor.  Enrollment priority will be given to majors and graduate students in Art History.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="ah.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

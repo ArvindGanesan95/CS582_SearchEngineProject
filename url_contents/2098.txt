@@ -1,0 +1,544 @@
+https://catalog.uic.edu/ucat/admissions-registration-finances/registering-enrolling/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Registering and Enrolling in Courses &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="active isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a>
+		<ul class="nav leveltwo" id="/ucat/admissions-registration-finances/">
+			<li><a href="/ucat/admissions-registration-finances/admissions/">Admissions</a></li>
+			<li><a href="/ucat/admissions-registration-finances/financial-aid/">Financial Aid</a></li>
+			<li class="active self"><a href="#" onclick="return false;">Registering and Enrolling in Courses</a></li>
+			<li><a href="/ucat/admissions-registration-finances/student-tuition-fees/">Student Tuition, Fees, and Assessments</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a></li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/admissions-registration-finances/">Admissions,&nbsp;Registration&nbsp;&amp;&nbsp;Finances</a><span class="crumbsep">/</span></li><li><span class="active">Registering and Enrolling in Courses</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Registering and Enrolling in Courses</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<ul>
+	<li><a href="#a">Accessing and Using my.UIC</a></li>
+	<li><a href="#b">Email Is the Official Method of Campus Communication</a></li>
+	<li><a href="#c">Disability Resource Center</a></li>
+	<li><a href="#d">New Students</a>
+	<ul>
+		<li><a href="#d1">After Admission</a></li>
+		<li><a href="#d2">Registering for the First Time</a></li>
+		<li><a href="#d3">Register for Approved Courses</a></li>
+	</ul>
+	</li>
+	<li><a href="#e">All Students</a>
+	<ul>
+		<li><a href="#e1">Change of Course Schedule—Adding and Dropping Courses</a></li>
+		<li><a href="#e2">Change of College or Degree Program for Current Students</a></li>
+		<li><a href="#e3">Course Numbering</a></li>
+		<li><a href="#e4">Course Prerequisites</a></li>
+		<li><a href="#e5">Eligibility to Register: University Policy on Continuing Student Status</a></li>
+		<li><a href="#e6">Special Enrollment Categories—Visitors/Auditors</a></li>
+		<li><a href="#e7">Transcripts</a></li>
+		<li><a href="#e8">Withdrawal from the University</a></li>
+		<li><a href="#e9">Withdrawal to Enter U.S. Military Service</a></li>
+	</ul>
+	</li>
+	<li><a href="#f">Additional Policies Affecting Registration and Enrollment</a>
+	<ul>
+		<li><a href="#f1">Admission or Readmission Denied Because of Misconduct</a></li>
+		<li><a href="#f2">Falsification of Documents</a></li>
+		<li><a href="#f3">Medical Immunization Requirements</a></li>
+		<li><a href="#f4">Social Security Number (Student Identification Number)</a></li>
+		<li><a href="#f5">Use of Animals in Instruction</a></li>
+	</ul>
+	</li>
+	<li><a href="#g">Alternative Sources of Credit for Continuing Students</a>
+	<ul>
+		<li><a href="#g1">Guided Individual Study </a><!--  --></li>
+		<li><a href="#g2">Demonstrating Writing Proficiency for a Waiver of English 160 or English 161 </a></li>
+		<li><a href="#g3">Proficiency Examinations for Enrolled Students </a><!--  --></li>
+		<li><a href="#g4">College Level Examination Program (CLEP) Credit for Current UIC Student</a></li>
+	</ul>
+	</li>
+	<li><a href="#h">Rights Under The Family Educational Rights and Privacy Act</a>
+	<ul>
+		<li><a href="#h1">Directory Information</a></li>
+	</ul>
+	</li>
+	<li><a href="#i">University Card Terms and Responsibilities</a></li>
+	<li><a href="#j">Observance of Religious Holidays</a></li>
+</ul>
+<hr/>
+<h2><a id="a" name="a"></a>Accessing and Using my.UIC</h2>
+<p>UIC’s comprehensive online resource for students can be found at <a href="https://my.UIC.edu" target="_blank">https://my.UIC.edu</a>. Students can use <a href="https://my.uic.edu/" target="_blank"><em>my.UIC</em></a> to access important information and the computer applications necessary for completing many essential tasks related to being a student at UIC. For example, students can use <a href="https://my.uic.edu/" target="_blank"><em>my.UIC</em></a> to access the <em>Student Self-Service Login</em> to register for courses, view their course schedule, or change personal information. Students should see the <em>First Time Portal Users</em> section of <a href="https://my.uic.edu/" target="_blank"><em>my.UIC</em></a> for information on establishing the necessary User IDs (netid and EnterpriseID) for these resources and computer applications.</p>
+<ul>
+	<li><strong>Home:</strong> Customizable to meet your needs, My Announcements, Email, UIC Event Calendar, University Links</li>
+	<li><strong>Registration:</strong> Explore <em>Schedule of Classes</em>, Class Scheduling Tools, Search for a Class, Registration Policy and Procedures, <em>Student Self-Service</em> Preview, Catalog, and College &amp; Department Registration Announcements.</li>
+	<li><strong>Records: </strong>Intent to Graduate, Transcript Requests, Certifications, Preview Graduation Information, and Compute your GPA.</li>
+	<li><strong>Financial Matters:</strong> Tuition and Fees, University Student Financial Services and Cashier Operations, and Student Financial Aid Information.</li>
+	<li><strong>Degree Audit:</strong> <em>uAchieve</em></li>
+	<li><strong>Help: </strong><em>Student Self-Service</em> Preview, EnterpriseID information, and Contacts.</li>
+	<li><strong>Student Self-Service Login: </strong>Log into <em>Student Self-Service</em> to register for classes, view tuition and fee balance, access online course information, section information, review and change address, emergency contact information, view course schedule, grades, academic history, submit an intent to graduate, holds and other personal information.</li>
+	<li><strong>Campus Life:</strong> Student Services, Student Resources, Academic Support and Services</li>
+</ul>
+<h2><a id="b" name="b"></a>Email Is the Official Method of Campus Communication</h2>
+<p>All students are responsible for maintaining a valid university email address and/or for­warding university emails to their preferred non-university email address. If students choose to forward emails or change their service, they are still responsible for this information. [OFFICIAL] campus announcements will be sent out via mass email to students for all official information students must be aware of. Colleges and/or departments maintain separate email listservs, which may be used to convey specific information to their own students.</p>
+<p>Crucial messages, such as the availability of students' tuition E-Bill or registration Time Ticket, will be sent directly to their UIC email account. Students can create an email account after activating the Network ID (netid) that was assigned to them upon admission. For additional information on creating a UIC email account or forwarding UIC email, visit the <a href="http://accc.uic.edu/category/email-calendar-and-communications" target="_blank">Academic Computing and Communications Center (ACCC) email web page</a>.</p>
+<h2><a id="c" name="c"></a>Disability Resource Center</h2>
+<p>Director, Sophia Hamilton<br/>
+1200 West Harrison Street<br/>
+Room 1070 SSB (MC 321)<br/>
+Chicago, IL 60607<br/>
+(312) 413-2183 Voice<br/>
+(312) 413-0123 TTY/Videophone<br/>
+(312) 413-7781 FAX<br/>
+Email: <a href="mailto:drc@uic.edu">drc@uic.edu</a><br/>
+Website: <a href="http://drc.uic.edu" target="_blank">http://drc.uic.edu</a></p>
+<p>The Disability Resource Center (DRC) provides accommodations and services to students with permanent and temporary disabilities. To be eligible for accommodations through the DRC, students must be admitted or attending the University of Illinois at Chicago and have a documented disability condition as defined by the Americans with Disabilities Act of 1990 (ADA) and Section 504 of the Rehabilitation Act of 1973.</p>
+<p>Students with disabilities are required to provide documentation of their disability and how it may limit their participation at UIC. Students may receive accommodations to ensure access to the classroom and learning environment, campus housing or transportation as deemed appropriate. Students requesting accommodations in campus housing should submit their housing application available for all students, as early as possible, even before they register with the DRC.</p>
+<p>Ideally, students should contact the Disability Resource Center preferably six (6) weeks before the start of the semester, or immediately following diagnosis of a disability, to register and discuss accommodation needs.</p>
+<p>Incoming freshmen and transfer students may want to contact our office sooner if accommodations will be needed for placement tests. Please visit the <a href="http://drc.uic.edu" target="_blank">Disability Resource Center website</a> for additional information or contact us directly by phone or email.</p>
+<h2><a id="d" name="d"></a>New Students</h2>
+<h3><a id="d1" name="d1"></a>After Admission</h3>
+<p>After a student is admitted to the university, the Office of Admissions sends an admission packet, including a <em>Letter of Admission</em> and an <em>Intent to Enroll</em> form to the student. Enclosed in the packet are the instructions for placement tests, registration, and housing. Admission is only valid for the term stated and may not be used for subsequent terms. Students must return the <em>Intent to Enroll</em> to UIC Admissions to insure their place in the entering class.</p>
+<h3><a id="d2" name="d2"></a>Registering for the First Time</h3>
+<p>To enroll in courses at UIC for the first time, students complete the following steps:</p>
+<ul>
+	<li>Take the Pre-enrollment Evaluation Program (PEP) tests (not always required of readmitted or continuing students);</li>
+	<li>Participate in academic advising during New Student Orientation and get approval to register; and</li>
+	<li>Register for approved courses.</li>
+</ul>
+<h4>Pre-Enrollment Evaluation Program</h4>
+<p>In order to assist new students with selecting the most appropriate courses, UIC requires incoming first year students and many transfer students to take Pre-enrollment Evaluation Placement tests prior to attending Orientation and registering for classes. These tests are designed to provide students and their academic advisors with an accurate assessment of the student's knowledge in specific areas.</p>
+<p>The Pre-Enrollment Evaluation Program includes four tests: academic writing, chemistry, foreign language, and mathematics. Testing requirements are determined by the students' major college. The exams are offered online.</p>
+<p>The university does not accept placement test results from other institutions because the UIC tests are specifically designed for UIC courses. Students should be aware that they must arrange to come to the university to take placement tests before they can participate in orientation, academic advising, and registration. Testing is available during late registration, but it is not recommended.</p>
+<h4>Initial Academic Advising and New Student Orientation</h4>
+<p>Students who have been granted admission for the fall semester are invited (after taking PEP tests) by their college to orientation and advising on campus during the summer months. At that time they are advised by representatives of their college who assist them in selecting courses for the fall semester.</p>
+<p>Students admitted for the spring semester will receive academic advising as part of a spring orientation day. Due to course availability, transfer students are advised to register for classes as early as possible, prior to their orientation/advising dates.</p>
+<h3><a id="d3" name="d3"></a>Register for Approved Courses</h3>
+<p>The Office of the Registrar is responsible for handling course registration and official academic records, called transcripts.</p>
+<p>Students register for classes through <em>Student Self-Service</em>. Students should consult the <em>Schedule of Classes</em> found at <a href="https://my.uic.edu" target="_blank"><em>my.UIC</em></a> or the <a href="http://registrar.uic.edu/">registrar’s website</a> for complete instructions on using the system to register for courses. Please note that privileges in <em>Student Self-Service</em> may be restricted due to excessive attempts to register amounting to abuse of university computing resources.</p>
+<h2><a id="e" name="e"></a>All Students</h2>
+<h3><a id="e1" name="e1"></a>Change of Course Schedule—Dropping Courses</h3>
+<p>The course self-drop deadline (using <a href="https://my.uic.edu" target="_blank"><em>my.UIC</em></a>) is the second Friday of fall and spring, the first Wednesday of Summer Session 1, or the first Friday of Summer Session 2.</p>
+<p>Starting with the third week and ending with the tenth week of the term (third Wednesday of Summer Session 1 and weeks 2 through 5 for Summer Session 2), undergraduate students may drop individual courses in their college offices, up to the maximum permitted limit of four over the course of their undergraduate degree programs. Undergraduate and graduate students who drop during this time period will receive a W grade on their academic records. <strong>There is no refund for course drops made after the second Friday of fall and spring, the first Wednesday of Summer Session 1, or the first Friday of Summer Session 2.</strong></p>
+<p><strong>International students in F-1 or J-1 status are required to be registered full time (12 semester hours) every semester.</strong> International students who wish to register for less than 12 semester hours should speak with an advisor in the Office of International Services (OIS) prior to dropping courses or under-enrolling. In order to maintain immigration status, permission must be granted by OIS in advance of dropping below full time. OIS is located in 2160 Student Services Building (SSB) and may be contacted at (312) 996-3121 or <a href="mailto:ois@uic.edu">ois@uic.edu</a>.</p>
+<p>Students should consult their college section of the catalog for information on how to drop courses with permission of the college.</p>
+<h3><a id="e2" name="e2"></a>Change of College or Degree Program for Current Students</h3>
+<p>Any continuing student who wishes to transfer from one college or major to another within the university shall do the following:</p>
+<ol>
+	<li>Initiate a request for change of college, major, or curriculum by contacting the appropriate college office for approval, in accordance with college deadlines. For intercollege transfers, contact the college to which transfer is sought. For change of major/curriculum within a college, contact the college in which currently enrolled.</li>
+	<li>The college will evaluate the request and notify the student regarding acceptance. Certain colleges may require a supplementary application process. Approved changes will be processed in the college office. After the start of Advance Registration, approved changes will be forwarded to the Office of the Registrar for processing. <strong>Note:</strong> Any changes received after classes have begun will be effective for the next academic term.</li>
+	<li>Any student who has been inactive for two consecutive semesters and thereby has lost continuing status must request a change of college or major as part of an application for readmission.</li>
+</ol>
+<h3><a id="e3" name="e3"></a>Course Numbering</h3>
+<h4>001–099</h4>
+<p>Courses numbered 001–099 do not carry academic credit but meet special program requirements. These courses carry semester hours that do not count toward the total hours required for graduation, but do count in the calculation of tuition and toward full- or part-time enrollment status and financial aid eligibility. Grades for these courses are not calculated in the grade point average.</p>
+<h4>100–199</h4>
+<p>Courses numbered 100–199 are open to all undergraduate students. These are introductory courses generally appropriate for the first-year college student.</p>
+<h4>200–299</h4>
+<p>Courses numbered 200–299 are intended for sophomores, juniors, and seniors who have completed the 100-level prerequisites.</p>
+<h4>300–399</h4>
+<p>Courses numbered 300–399 are generally intended for juniors and seniors. Sophomores may register for them if they have completed 200-level prerequisites.</p>
+<h4>400–499</h4>
+<p>Courses numbered 400–499 are intended for advanced undergraduate and graduate students. Students will note that some 400-level courses listed in the catalog and <em>Schedule of Classes</em> have sections (CRNs) with differential credit (i.e., one CRN is offered for 3 semester hours for undergraduate students and one CRN is offered for 4 semester hours for graduate students). Undergraduate students who enroll in a 400-level course should enroll in the designated, lower-credit-level CRN. Graduate students should enroll in the designated, higher-credit-level CRN.</p>
+<h3><a id="e4" name="e4"></a>Course Prerequisites</h3>
+<p>Prerequisites, if any, are included in the course description. Students are responsible for completing all prerequisites prior to enrolling in a course. For some courses, the student registration system will prevent students from registering if prerequisites have not been completed. Regardless of whether or not the registration system prevents a student from enrolling in a course, the university will not be responsible for a student’s failure to adhere to those prerequisites.</p>
+<h3><a id="e5" name="e5"></a>Eligibility to Register: University Policy on Continuing Student Status</h3>
+<p>For the purpose of determining eligibility to register, continuing students are defined as students whose enrollment at UIC has not been interrupted for two or more semesters in succession (summer session excluded). Students who lose continuing status are considered “former students.” Should they wish to reenroll after having lost continuing status, reapplication and readmission to the university are required.</p>
+<p>International students must contact the Office of International Services if they do not intend to enroll for any term.</p>
+<ol>
+	<li>Currently enrolled students are eligible to register and should receive online Time Tickets (or appointments) for advance registration.</li>
+	<li>Students who are continuing but not currently enrolled are eligible to register beginning with the open registration period.</li>
+	<li>Readmitted students will receive registration information along with their notices of readmission.</li>
+	<li>When any one of the following conditions is present, a student is not eligible to register:
+	<ol>
+		<li>Loss of continuing status (i.e., nonattendance for two or more semesters in succession, excluding students on approved leave of absence).</li>
+		<li>Dismissed by the student’s college or the university for poor scholarship or disciplinary reasons.</li>
+		<li>Financial indebtedness to the university.</li>
+		<li>Failure to satisfy the requirements of the Illinois Proof of Immunity Law.</li>
+		<li>Any other academic or administrative hold that precludes registration.</li>
+	</ol>
+	</li>
+</ol>
+<h3><a id="e6" name="e6"></a>Special Enrollment Categories—Visitors/Auditors</h3>
+<p>Enrolled students, faculty, or staff wishing to attend meetings of a course without earning academic credit may register as auditors at no additional cost.</p>
+<p>Persons not affiliated with UIC as enrolled students, faculty, or staff must apply to the university as a nondegree student and pay the applicable tuition and fees in order to audit a course.</p>
+<p>Because the courses offered by the University of Illinois at Chicago are intended for students registering for academic credit, attending class as an auditor is privilege granted only when certain requirements and conditions are met.</p>
+<p>Courses taken for audit do not apply toward any academic degree and do not count as part of a student’s full-time or part-time course load for purposes of financial aid, loan deferments, athletic eligibility, or fulfillment of the enrollment residence requirement.</p>
+<p><strong>Requirements and Conditions:</strong></p>
+<ul>
+	<li>Attending class as an auditor is permitted on a space-available basis on or after the first day of instruction.</li>
+	<li>Audit registration requires the approval of the course instructor and college, and must be completed no later than the last day of late registration.</li>
+	<li>Registration for an audited course will appear on the transcript with a grade of AU.</li>
+	<li>Students who audit a course do not have the privilege of participating in the course activities in any way.</li>
+	<li>The instructor or college may refuse to permit an audit registration in a course.</li>
+	<li>Not all courses may be audited. Each college/department may designate courses that do not accept auditors.</li>
+	<li>Individual college policies, in some cases, may prohibit a student from enrolling for credit after a course has already been taken on an audit basis.</li>
+	<li>A student does not receive academic credit for an audited course and is not eligible to take a proficiency examination based on the content of the audited course.</li>
+	<li>A person who is auditing and wishes to take the course for credit must change the registration by the end of the late registration period.</li>
+	<li>Degree-seeking students considering the audit option should discuss it with their academic advisors to determine if it is the best choice, or if another grading option, such as credit/no credit, may be more appropriate.</li>
+</ul>
+<p><strong>Procedure</strong>:</p>
+<p>Students planning to audit a course must complete the following procedure:</p>
+<ul>
+	<li>The opportunity to audit is allowed for degree-seeking students and UIC faculty and staff.  Those outside of UIC must first gain admission as a nondegree student before requesting to audit a class.</li>
+	<li>A registration audit request may not be completed until the first day of classes.</li>
+	<li>Persons who wish to audit must obtain a Visitor’s Permit form from the Office of the Registrar during the Late Registration/Add-Drop period. They must secure the written approval of the course instructor and the college offering the course, submit the approved Visitor’s Permit to the Office of the Registrar no later than the second Friday of fall and spring semester (please check the <a href="http://www.uic.edu/depts/oar/registration/policies_procedures.html#dropping" target="_blank">Office of the Registrar website for the summer session deadlines</a>). Note that applicable tuition and fees apply for audited course work. If solely taking classes as an auditor, full fees and applicable tuition are applied.</li>
+	<li>An audited course will be indicated on a student’s academic record with a grade of AU.  Faculty and staff who wish to have a grade of AU reflected on an academic record must be admitted as a student.</li>
+</ul>
+<h3><a id="e7" name="e7"></a>Transcripts</h3>
+<p>Students may request copies of their official transcripts from the <a href="http://registrar.uic.edu" target="_blank">Office of the Registrar</a>. Students who are indebted to the university or who have been admitted to the university pending the receipt of credentials are not eligible to receive transcripts until these obligations are cleared. For mailed-in requests, students should allow at least two weeks from the date of their request for their transcripts to be processed. Online requests are typically mailed or ready for pickup the next business day. There is a charge for each transcript.</p>
+<h3><a id="e8" name="e8"></a>Withdrawal from the University</h3>
+<p>Withdrawal from the University is governed by specific regulations that must be observed to protect the student’s academic standing. Failure to do so results in a grade of F (failure) in each course in which the student is registered. During the online drop/add period for each term, students may withdraw using <em>Student Self-Service</em>. See online withdrawal instructions. After the online drop/add period, undergraduate students should initiate an official withdrawal on the <a href="http://registrar.uic.edu" target="_blank">Office of the Registrar's website</a>.</p>
+<p>Students who withdraw from all courses for which they are enrolled are considered withdrawn from the University. Students who withdraw from the university are eligible to register for a subsequent term unless they lose their continuing student status. Students lose their continuing student status when they have not attended UIC for two or more semesters in succession (excluding summer session or an approved leave of absence). Students whose enrollment has been interrupted for two or more semesters in succession must submit an application for readmission to the university.</p>
+<p>A student who has been charged with an offense that may result in disciplinary action may not officially withdraw from the university until the hearing of the case has been conducted by the appropriate disciplinary committee.</p>
+<h3><a id="e9" name="e9"></a>Withdrawal to Enter U.S. Military Service</h3>
+<h4>Policies and Procedures Regarding Undergraduate Students Leaving for and Returning from Military Service</h4>
+<p>Students who have been called to military service or who anticipate being called are entitled to certain rights as defined by the University Senate and outlined below. Students withdrawing for military service can do so quickly and easily and will know what steps are required to reenroll at the end of their deployment. Students begin the process of withdrawing from or returning to UIC with the two offices described below that have designated staff to work with students leaving for military service and returning veterans.</p>
+<p>Office of the Registrar<br/>
+Student Services Building, Room 1200<br/>
+1200 West Harrison Street<br/>
+(312) 996-1825</p>
+<p>The Veteran’s Registration Coordinator in the Office of the Registrar coordinates the formal withdrawal from the university and classes, tuition and fee refunds, and health insurance options; coordinates with academic departments on issues of grades and graduation; and activates a student’s enrollment upon return to the university. All students withdrawing from or returning to UIC from military service must meet with the Veteran’s Registration Coordinator. Students should bring their activation orders or other official notification with them to their appointment.</p>
+<p>Student Veterans Affairs<br/>
+Office of the Dean of Students<br/>
+Student Services Building, Room 3030<br/>
+1200 West Harrison Street<br/>
+(312) 996-4857</p>
+<p>Student Veterans Affairs housed within the Office of the Dean of Students assists veterans receiving educational benefits from the Department of Veterans Affairs. All students receiving benefits at the time of deployment must meet with the Associate Director of Student Veterans Affairs prior to deploying. The Associate Director can provide counseling and assistance with the application of federal or state veteran benefits.</p>
+<h4>Undergraduate Students Withdrawing from UIC to Enter U.S. Military Service</h4>
+<ol>
+	<li>Are entitled to withdraw without penalty and without academic credit, and receive a full refund of tuition and fees.<br/>
+	<em><strong>OR</strong></em></li>
+	<li>If withdrawal for deployment occurs upon completion of the 12th week of the semester, undergraduate students are entitled without examination to receive full credit for each course in which they attained a standing of C or better at the time of withdrawal. Students will receive the grade attained in each course at the time of withdrawal. Grades reported below C are recorded as W (withdrawn). Students using this option are not eligible for a full refund of tuition and fees. Nursing students and other students in majors that have licensing, credentialing, or accreditation requirements are not eligible for this option.</li>
+	<li>Policy Governing Graduating Seniors: A student in his/her last semester of study leading to graduation, who qualifies for full credit upon completion of the twelfth week, or later, of the final semester, may be recommended for the degree at the discretion of the student’s college and major department provided that the following conditions are met:
+	<ol>
+		<li>The student has been in residence at UIC for at least two full semesters (not including the term of withdrawal);</li>
+		<li>The student has met all requirements for graduation (including minimum scholarship requirements), except for those requirements that the student would fulfill by completing the courses for which he/she is registered at the time of withdrawal during the last term.<br/>
+		A senior in good standing who withdraws from the university at any time to enter military service as a result of state or national emergency, and who does so enter within ten instructional days and who lacks no more than one-sixteenth of the total semester hours required for the degree, may, at the discretion of the student’s college and on approval of the major department concerned, be recommended for such degree. No such student who has acquired hours under the twelfth weeks rule adopted by the Senate, however, shall be considered eligible for this privilege.<br/>
+		A “senior in good standing” is meant as one whose progress during university registration has been satisfactory to the administrators of the student’s college. Among grounds for dissatisfaction might be negligence in meeting requirements or scholastic deficiencies.<br/>
+		“At any time” shall be interpreted to mean “during any semester in residence or the interim between semesters.” It is not intended for students who, after these rules are operative, stay out of college for any semester, and who thus do not make continuous progress to their degrees.</li>
+	</ol>
+	</li>
+	<li>    Campus housing residents are entitled a prorated refund of room and board charges.</li>
+</ol>
+<h4>Undergraduate Students Returning to UIC after U.S. Military Service</h4>
+<ol>
+	<li>Returning students must meet with the Veteran’s Registration Coordinator in the Office of the Registrar and the Veteran’s Affairs Office Coordinator within the Office of Student Financial Aid.</li>
+	<li>Undergraduate students who have attended classes and withdraw from the university to enter military service are entitled to a leave of absence for a period of up to five years, and may return to the university without having to apply for readmission. Withdrawal for military service stops the clock for Illinois residents with a four-year-tuition guarantee. Returning veterans will continue paying their four-year guaranteed tuition rate until they have reached a maximum of four years at the guaranteed tuition rate.</li>
+	<li>Students admitted to UIC as first time students, who did not attend any classes before deployment, are entitled to defer their admission for up to 24 months after their return from military service and may return to the university without having to apply for readmission.</li>
+	<li>All students returning from military service will have priority registration. A returning veteran must check in with the Veteran’s Registration Coordinator in the Office of the Registrar in order to be granted priority registration.</li>
+	<li>All students returning from military service will have priority for on-campus housing, including the option of temporary campus housing while making a decision about where to live.</li>
+</ol>
+<p><em>(Military withdrawal and reentry policies updated 8/14/08 by VPAES.)</em></p>
+<h2><a id="f" name="f"></a>Additional Policies Affecting Registration and Enrollment</h2>
+<h3><a id="f1" name="f1"></a>Admission or Readmission Denied Because of Misconduct</h3>
+<p>The university reserves the right either to deny admission or readmission to any person because of previous misconduct that may substantially affect the interest of the university, or to admit or readmit such a person on an appropriate disciplinary status. The admission or readmission of such a person will not be approved or denied until his or her case has been heard by the appropriate disciplinary committee. This applies to persons not now enrolled in the university who might apply for admission or readmission. A favorable action of the appropriate disciplinary committee does not abrogate the right of any dean or director to deny admission or readmission on the basis of scholarship.</p>
+<h3><a id="f2" name="f2"></a>Falsification of Documents</h3>
+<p>Any student who for purposes of fraud or misrepresentation, falsifies, forges, defaces, alters, or mutilates in any manner an official university document or representation thereof may be subject to discipline. Some examples of official documents are identification cards, student schedules, medical and immunization records, grade reports, receipts, transcripts, library documents, and petitions for change in state residence status.</p>
+<p>Any applicant who knowingly withholds information or gives false information on an application for admission or readmission may become ineligible for admission to the university or may be subject to discipline.</p>
+<h3><a id="f3" name="f3"></a>Medical Immunization Requirements</h3>
+<p>The Illinois Department of Public Health mandates that all students in on-campus housing, born on or after January 1, 1957, entering a postsecondary institution are required to present documented proof of immunity against measles, mumps, rubella, tetanus, and diphtheria as a prerequisite to registration. The On-Campus Housing Medical Immunization Form, required for student completion, is mailed with the student’s acceptance letter. In addition, students may request that their Illinois high school health record, the Certificate of Health Examination, be forwarded to the university at the time that the high school transmits the official high school academic record.</p>
+<p>Those students who are not properly immunized and have not submitted a written statement of medical, religious, or philosophical objection exemption are required to undergo immunization within the first term of enrollment. Failure to provide the required proof of immunity shall prevent a student from enrolling in a subsequent term.<em> </em>Students in on-campus housing registering for on-campus course(s) (includes previous terms) and are registered for more than 5 credit hours (includes previous terms) are required to fulfill immunization requirements. Prior to registering for on-campus courses or for more than five credit hours, students must submit the <a href="http://www.uic.edu/depts/oar/forms/med_imm.pdf" target="_blank">required proof of immunity</a> which can be found online at the <a href="http://registrar.uic.edu" target="_blank">Office of the Registrar's website</a>.</p>
+<p>Questions pertaining to acceptable proof of immunity may be directed to the Office of Medical Immunization Records, Student Services Building or (312) 413-0464. The mailing address is</p>
+<p>Office of Medical Immunization Records<br/>
+Student Services Building<br/>
+1200 West Harrison Street, Suite 1200<br/>
+Chicago, Illinois 60607</p>
+<h3><a id="f4" name="f4"></a>Social Security Number (Student Identification Number)</h3>
+<p>In accordance with the Privacy Act of 1974, applicants for admission and enrolled students are advised that the requested disclosure of the social security number is voluntary. The applicant or student has the right to refuse disclosure of this number or request its removal from records without penalty. If no social security number is entered or submitted as part of the application process, then a special 9-digit Temporary Control Number (TCN) is assigned.</p>
+<p>The social security number is needed to help identify student financial records. It is required as an identifier for grants, loans, and other financial aid programs. It may also be needed to verify the accuracy of admission-related records and permanent academic records. Social Security Numbers not supplied in the application process but later submitted as part of the Free Application for Federal Student Aid will become part of the student record.</p>
+<p>Any inaccuracies in social security number (or assigned student number) should be reported immediately to the Office of the Registrar.</p>
+<p>The social security number will not be disclosed to individuals or agencies outside the University of Illinois except in accordance with the UIC Student Records Policy and applicable law.</p>
+<h3><a id="f5" name="f5"></a>Use of Animals in Instruction</h3>
+<p>The University of Illinois at Chicago offers certain courses in which live, euthanized, or preserved vertebrate animals are used as part of course requirements. Such courses are identified in the <em>Schedule of Classes</em> with the note “Animals used in instruction.”</p>
+<p>Students who have ethical concerns about the use of animals in teaching have the responsibility to contact the instructor, prior to enrollment in any course in which animals may be used as part of course instruction, to determine whether class exercises involving animals are optional or required, and what alternatives, if any, are available. If no alternatives are available, the refusal to participate in required activities involving animals may result in a failing grade in the course.</p>
+<h2><a id="g" name="g"></a>Alternative Sources of Credit for Continuing Students</h2>
+<h3><a id="g1" name="g1"></a>Guided Individual Study</h3>
+<p>Guided Individual Study courses taken through the University of Illinois may be accepted for credit. After matriculation, students may count toward the degree as many as 60 semester hours of credit earned in Guided Individual Study. Students currently in residence on a University of Illinois campus must have the approval of the dean of their college to enroll in any courses through Guided Individual Study.</p>
+<p>The final 30 semester hours of work toward a degree must be earned in enrollment residence at the University of Illinois, unless students have previously completed three full years of resident work here. Credit earned through Guided Individual Study neither interrupts nor counts toward fulfillment of the enrollment residence requirement for graduation.</p>
+<p>Students, including those in high school, who wish to pursue study through this program should write directly to</p>
+<p>Guided Individual Study<br/>
+University of Illinois at Urbana-Champaign<br/>
+302 East John Street, Suite 1406<br/>
+Champaign, Illinois 61820<br/>
+(800) 252-1360<br/>
+<a href="http://www.uops.uillinois.edu/ui-service/display.asp?ProgID=188" target="_blank">http://www.uops.uillinois.edu/ui-service/display.asp?ProgID=188</a><span>.</span></p>
+<h3><a id="g2" name="g2"></a>Demonstrating Writing Proficiency for a Waiver of English 160 or English 161</h3>
+<p>The First-Year Writing Program in the Department of English is responsible for administering waivers of <span class="sc_courseinline"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></span> or <span class="sc_courseinline"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></span> to eligible students. Please note that a waiver of the course will simply remove the degree requirement for the course, but will not grant a student three hours of passing credit for the course. Students should consult the First-Year Writing Program for more information on the writing portfolios described below.</p>
+
+<p>The <span class="sc_courseinline"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></span> requirement is waived for students who:</p>
+
+<ul>
+	<li>Received an ACT English subscore of 27 or higher, an SAT Evidence-Based Critical Reading score of 630 or higher (2017 or after), or an SAT Critical Reading score of 600 or higher (prior to 2017); students meeting this criterion receive three hours of passing credit for <span class="sc_courseinline"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></span> and a waiver of the course.</li>
+
+	<li>Received a score of 3, 4, or 5 on the AP English Language and Composition test; students meeting this criterion receive three hours of passing credit for <span class="sc_courseinline"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></span>.</li>
+
+	<li>Received a score of 6 or 7 on the IB English A (Language &amp; Literature) test; students meeting this criterion receive 3 hours of passing credit for <span class="sc_courseinline"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></span>.</li>
+
+	<li>Qualify for and submit a writing portfolio that is <a href="https://engl.uic.edu/programs/first-year-writing-program/policies/" target="_blank">approved by the First-Year Writing Program at UIC</a>; students meeting this criterion receive a waiver of the <span class="sc_courseinline"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></span> course work requirement.</li>
+
+</ul>
+
+<p>The <span class="sc_courseinline"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></span> requirement is waived for students who:</p>
+
+<ul>
+	<li>Qualify for and submit a writing portfolio that is <a href="https://engl.uic.edu/programs/first-year-writing-program/policies/" target="_blank">approved by the First-Year Writing Program at UIC</a>; students meeting this criterion receive a waiver of the <span class="sc_courseinline"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></span> course work requirement.</li>
+
+</ul>
+
+<h3><a id="g3" name="g3"></a>Proficiency Examinations for Enrolled Students</h3>
+<p>See <em>Credit by Examination</em> in the <em>Academic Standing</em> section of the catalog.</p>
+<h3><a id="g4" name="g4"></a>College Level Examination Program (CLEP) Credit for Current UIC Students</h3>
+<p>See <em>Credit by Examination</em> in the <em>Academic Standing</em> section of the catalog.</p>
+<h2><a id="h" name="h"></a>Rights Under The Family Educational Rights and Privacy Act</h2>
+<p>Annually, the University of Illinois at Chicago informs students of the Family Educational Rights and Privacy Act (FERPA). FERPA affords students certain rights with respect to their education records. They are as follows:</p>
+<ol>
+	<li>The right to inspect and review the student’s education records within 45 days of the day the university receives a request for access. Students should submit to the Office of the Registrar, dean, department head, or other appropriate records custodian, written requests that identify the record(s) they wish to inspect. The university official will make arrangements for access and notify the student of the time and place where the records may be inspected. If the records are not maintained by the university official to whom the request was submitted, that official will advise the student of the correct official to whom the request should be addressed.</li>
+	<li>The right to request the amendment of the student’s education records that the student believes are inaccurate or misleading. Students may ask the university to amend a record that they believe is inaccurate or misleading. They should write to the university official responsible for the record, clearly identify the part of the record they want changed, and specify why it is inaccurate or misleading. If the university decides not to amend the record as requested by the student, the university will notify the student of the decision and advise the student of his or her right to a hearing regarding the request for amendment. Additional information regarding the hearing procedures will be provided to the student when notified of the right to a hearing.</li>
+	<li>The right to consent to disclosures of personally identifiable information contained in the student’s education records, except to the extent that FERPA authorizes disclosure without consent. One exception, which permits disclosure without consent, is disclosure to school officials with legitimate educational interests. A school official is a person employed by the university in an administrative, supervisory, academic, research, or support staff position (including law enforcement personnel and health staff); a person or company with whom the university has contracted (such as an attorney, auditor, or collection agent); a person serving on the University of Illinois Board of Trustees; or a student serving on an official committee, such as a disciplinary or grievance committee, or assisting another school official in performing his or her tasks.<br/>
+	A school official has a legitimate educational interest if the official needs to review an education record in order to fulfill his or her professional responsibility.<br/>
+	Upon request, the University of Illinois at Chicago will disclose education records without consent to officials of another school in which a student seeks or intends to enroll.</li>
+	<li>The right to file a complaint with the U.S. Department of Education concerning alleged failures by the University of Illinois at Chicago to comply with the requirements of FERPA.</li>
+</ol>
+<p>The name and address of the Office that administers FERPA is:</p>
+<p>Family Policy Compliance Office<br/>
+U.S. Department of Education<br/>
+400 Maryland Avenue, S.W.<br/>
+Washington, D.C. 20202-4605</p>
+<h3><a id="h1" name="h1"></a>Directory Information</h3>
+<p>FERPA prohibits access by non-university personnel to information about individual students without the student’s written authorization, except that which is considered public information. The University of Illinois at Chicago hereby designates the following as public or “directory information.” Such information may be disclosed by the university for any purpose, at its discretion.</p>
+<ol>
+	<li>Name.</li>
+	<li>University Identification Number (UIN).</li>
+	<li>University email; and permanent city, state, and postal ZIP code.</li>
+	<li>Class/Level (Graduate, Undergraduate, Professional, Nondegree, Freshman, Sophomore, Junior, Senior).</li>
+	<li>College and Major field of study/Concentration/Minor.</li>
+	<li>Day and month of birth.</li>
+	<li>Participation in officially recognized activities and sports.</li>
+	<li>Weight and height if the student is an athletic team member.</li>
+	<li>Dates of admission/attendance.</li>
+	<li>Attendance site (campus, location).</li>
+	<li>Expected graduation date.</li>
+	<li>Degrees conferred, with dates.</li>
+	<li>Current term hours enrolled and enrollment status (full-time, part-time, not enrolled, withdrawn and date of withdrawal).</li>
+	<li>Awards, honors and achievements (including distinguished academic performance), with dates.</li>
+	<li>Eligibility for membership in honoraries.</li>
+	<li>For students appointed as fellows, assistants, graduate, or undergraduate hourly employees, the title, appointing department, appointment date, duties and percent time of appointment.</li>
+	<li>Video and photographic images of students taken by the university during public events, with the exception of the official UIC identification photograph.</li>
+</ol>
+<p>To examine his or her record, the student must submit a written request to the appropriate record-keeping office. The appropriate office will comply with the request within a reasonable amount of time, not to exceed 45 days after receipt of the request.</p>
+<p>To prevent the release of directory information, the student must obtain a request form from the Office of the Registrar no later than the tenth day of the semester (fifth day of Summer Session 2). Such requests for nondisclosure will be honored so long as the student is continuously enrolled or unless he/she sooner revokes the request in writing.</p>
+<h2><a id="i" name="i"></a>University Card Terms and Responsibilities</h2>
+<p><strong>Identification Card (i-card)</strong>: All cardholders are required to abide by the University Card Terms and Responsibilities. Students are responsible for abiding by card terms and responsibilities.</p>
+<p><strong>I understand that:</strong></p>
+<ul>
+	<li>A University of Illinois System identification card (“ID”) is University of Illinois System (“System”) property. This ID is issued to help identify its valid holder, and it must be presented upon request.</li>
+	<li>A University of Illinois System ID is nontransferable and does not obligate the System in any way.</li>
+	<li>My ID is valid only while I am a registered student, active employee or affiliate, or retiree, or until that ID is expired or revoked. An invalid ID may be confiscated.</li>
+	<li>I am allowed only one ID at a time, and only the most recent, unexpired one issued to me is valid. Presenting an ID that is not my most recent may result in that ID being confiscated.</li>
+	<li>Altering an ID or intentionally damaging it invalidates it and may result in it being confiscated.</li>
+	<li>Using another person’s ID or letting another person use mine may result in disciplinary action and/or confiscation of that ID.</li>
+	<li>I should return my ID to an ID Center when I leave the University of Illinois System; I must return it upon request.</li>
+	<li>ID data, including but not limited to the University Identification Number (UIN), card number, and photo, may be used for University of Illinois System purposes.</li>
+	<li>If I link my ID to an account with any external service (such as banking), I am releasing my UIN to that provider.</li>
+	<li>If my ID is lost or stolen, I am responsible for immediately deactivating it by contacting my university’s ID Center or police. Until I deactivate my missing ID, I may be liable for its unauthorized use, including purchases.</li>
+	<li>If my lost or stolen ID is linked to any spending or access account, I am responsible for notifying the relevant service providers.</li>
+	<li>I am responsible for paying any replacement fee when my ID is lost, stolen, confiscated, altered, or intentionally damaged.</li>
+	<li>By accepting possession of a University of Illinois System ID, I agree to hold harmless the University of Illinois Board of Trustees and its officers, employees, representatives, or agents, from and against any claims, damages, costs, expenses, including an amount equal to reasonable attorneys’ fees, or liabilities, including for loss or damage to any property or for death or injury to any persons, arising out of or in any way connected with any incorrect or outdated phone numbers that may be listed on the ID.</li>
+</ul>
+<h2><a id="j" name="j"></a>Observance of Religious Holidays</h2>
+<ol>
+	<li>The following policy regarding student observance of religious holidays was approved by the UIC Senate:<br/>
+	“The faculty of the University of Illinois at Chicago shall make every effort to avoid scheduling examinations or requiring that student projects be turned in or completed on religious holidays. Students who wish to observe their religious holidays shall notify the faculty member, by the tenth day of the term, of the date when they will be absent unless the religious holiday is observed on or before the tenth day. In such cases, the student shall notify the faculty member at least five days in advance of the date when he/she will be absent. The faculty member shall make every reasonable effort to honor the request, not penalize the student for missing the class, and if an examination or project is due during the absence, give the student an exam or assignment equivalent to the one completed by those students in attendance. If the student feels aggrieved, he or she may request remedy through the campus grievance procedure.”</li>
+	<li>Although this policy was adopted to accommodate students’ observances of religious holidays, students must take care not to abuse the policy. It would be unreasonable, for example, for a student to request a two-week absence from classes for religious purposes.</li>
+	<li>Information concerning specific religious holidays may be obtained from the Office of the Dean of Student Affairs or from Student Development Services.</li>
+	<li> Student Academic Grievance Procedures (see <em><a href="/ucat/degree-programs/univ-degree-requirements-graduation/">University Degree Requirements, Graduation, and Commencement</a></em> section of the catalog) are applicable to students who feel aggrieved by the implementation of this policy.</li>
+</ol></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="registering-enrolling.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,510 @@
+https://catalog.uic.edu/ucat/colleges-depts/liberal-arts-sciences/slav/ba-polish-russian-cees/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>BA with a Major in Polish, Russian, and Central and Eastern European Studies &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/liberal-arts-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/">Anthropology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/">Biochemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/">Biological Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/">Black Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/">Chemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/">Classics and Mediterranean Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/">Communication</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/">Criminology, Law, and Justice</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/">Earth and Environmental Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/">Economics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/">English</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French and Francophone Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/">Gender and Women's Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/">Germanic Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/">Global Asian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/">Hispanic and Italian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/">History</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/">Integrated Health Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/">International Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/">Liberal Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/">Linguistics</a></li>
+				<li><a href="/ucat/colleges-depts/liberal-arts-sciences/lcsl/">Literatures, Cultural Studies, and Linguistics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/">Mathematics, Statistics, and Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/">Moving Image Arts</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/">Neuroscience</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/">Philosophy</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/">Physics</a></li>
+				<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/">Polish, Russian, and Lithuanian Studies</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/liberal-arts-sciences/slav/">
+					<li class="active self"><a href="#" onclick="return false;">BA with a Major in Polish, Russian, and Central and Eastern European Studies</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/minor-cees/">Minor in Central and Eastern European Studies</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/minor-pol/">Minor in Polish Studies</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/minor-russ/">Minor in Russian Studies</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/certificate-polish/">Certificate in Polish Language</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/certificate-russian/">Certificate in Russian Language</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/">Political Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/">Psychology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/">Religious Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/">Sociology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional Studies</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/">College&nbsp;of&nbsp;Liberal&nbsp;Arts&nbsp;and&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/">Polish,&nbsp;Russian,&nbsp;and&nbsp;Lithuanian&nbsp;Studies</a><span class="crumbsep">/</span></li><li><span class="active">BA with a Major in Polish, Russian, and Central and Eastern European Studies</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">BA with a Major in Polish, Russian, and Central and Eastern European Studies</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<h2 style="margin-left:0.75pt"><strong>Degree Requirements</strong></h2>
+<p>To earn a Bachelor of Liberal Arts and Sciences degree from UIC, students must complete university, college, and departmental degree requirements. The Department of Polish, Russian, and Lithuanian Studies degree requirements are outlined below. Students should consult the <a href="/ucat/colleges-depts/liberal-arts-sciences/"><em>College of Liberal Arts and Sciences</em></a> section for additional degree requirements and college academic policies.</p>
+<p>Note: Students who select the Concentration in Polish Studies and have a GPA of 3.0 or higher are eligible to apply for the Dr. Bolesław and Krystyna Mazur Scholarships in Undergraduate Polish Studies.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Summary of Requirements</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Major Requirements</span></td><td class="hourscol">27</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">General Education and Electives to reach Minimum Total Hours</span></td><td class="hourscol">93</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">120</td></tr></tbody>
+</table>
+
+<h3>General Education</h3>
+<p>See <em>General Education and Writing-in-the-Discipline</em> in the <a href="/ucat/colleges-depts/liberal-arts-sciences/"><em>College of Liberal Arts and Sciences</em></a> section for information on meeting these requirements.</p>
+<h3>Major Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select one of the following:</span></td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=POL%20104" title="POL 104" class="bubblelink code" onclick="return showCourse(this, 'POL 104');">POL 104</a></div></td><td>Intermediate Polish II <sup>a</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=RUSS%20104" title="RUSS 104" class="bubblelink code" onclick="return showCourse(this, 'RUSS 104');">RUSS 104</a></div></td><td>Intermediate Russian II <sup>b</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LITH%20104" title="LITH 104" class="bubblelink code" onclick="return showCourse(this, 'LITH 104');">LITH 104</a></div></td><td>Intermediate Lithuanian II</td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Note: Students in the Polish and Russian Studies concentrations must take <a href="/search/?P=POL%20104" title="POL 104" class="bubblelink code" onclick="return showCourse(this, 'POL 104');">POL 104</a> and <a href="/search/?P=RUSS%20104" title="RUSS 104" class="bubblelink code" onclick="return showCourse(this, 'RUSS 104');">RUSS 104</a>, respectively. Students pursuing the Concentration in Central and Eastern European Studies may take <a href="/search/?P=POL%20104" title="POL 104" class="bubblelink code" onclick="return showCourse(this, 'POL 104');">POL 104</a>, <a href="/search/?P=RUSS%20104" title="RUSS 104" class="bubblelink code" onclick="return showCourse(this, 'RUSS 104');">RUSS 104</a>, or <a href="/search/?P=LITH%20104" title="LITH 104" class="bubblelink code" onclick="return showCourse(this, 'LITH 104');">LITH 104</a>.</span></div></td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Select one of the following:</span></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CEES%20224" title="CEES 224" class="bubblelink code" onclick="return showCourse(this, 'CEES 224');">CEES 224</a></div></td><td>Introduction to Literary Analysis of Central Eastern European Texts <sup>c</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CEES%20225" title="CEES 225" class="bubblelink code" onclick="return showCourse(this, 'CEES 225');">CEES 225</a></div></td><td>Introduction to Central and Eastern European Cultures <sup>c,d</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">In addition, students must complete 20 semester hours from one of the following concentrations:</span></td><td class="hourscol">20</td></tr>
+<tr class="even"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Concentration in Polish Studies</span></div></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Concentration in Russian Studies</span></div></td><td class="hourscol"></td></tr>
+<tr class="even lastrow"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Concentration in Central and European Studies</span></div></td><td class="hourscol"></td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">27</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Native and heritage speakers who place out of <span class="sc_courseinline"><a href="/search/?P=POL%20104" title="POL 104" class="bubblelink code" onclick="return showCourse(this, 'POL 104');">POL 104</a></span> should register for <span class="sc_courseinline"><a href="/search/?P=POL%20201" title="POL 201" class="bubblelink code" onclick="return showCourse(this, 'POL 201');">POL 201</a></span>. Please consult an LAS advisor for eligibility for retroactive credit after completion of <span class="sc_courseinline"><a href="/search/?P=POL%20201" title="POL 201" class="bubblelink code" onclick="return showCourse(this, 'POL 201');">POL 201</a></span>.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>Native and heritage speakers who place out of <span class="sc_courseinline"><a href="/search/?P=RUSS%20104" title="RUSS 104" class="bubblelink code" onclick="return showCourse(this, 'RUSS 104');">RUSS 104</a></span> should register for <span class="sc_courseinline"><a href="/search/?P=RUSS%20201" title="RUSS 201" class="bubblelink code" onclick="return showCourse(this, 'RUSS 201');">RUSS 201</a></span>. Please consult an LAS advisor for eligibility for retroactive credit after completion of <span class="sc_courseinline"><a href="/search/?P=RUSS%20201" title="RUSS 201" class="bubblelink code" onclick="return showCourse(this, 'RUSS 201');">RUSS 201</a></span>.</em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=CEES%20224" title="CEES 224" class="bubblelink code" onclick="return showCourse(this, 'CEES 224');">CEES 224</a></span> and <span class="sc_courseinline"><a href="/search/?P=CEES%20225" title="CEES 225" class="bubblelink code" onclick="return showCourse(this, 'CEES 225');">CEES 225</a></span> fulfill the LAS Writing-in-the-Discipline requirement.</em></p></td></tr><tr><td valign="top" class="symcol">d</td><td class="notecol"><p><em>If a student takes both <span class="sc_courseinline"><a href="/search/?P=CEES%20224" title="CEES 224" class="bubblelink code" onclick="return showCourse(this, 'CEES 224');">CEES 224</a></span> and <span class="sc_courseinline"><a href="/search/?P=CEES%20225" title="CEES 225" class="bubblelink code" onclick="return showCourse(this, 'CEES 225');">CEES 225</a></span>, one of these courses may count toward the 20 semester hours required for the concentration.</em></p></td></tr></table>
+<h3>Concentrations</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Concentration in Polish Studies</span></td><td class="hourscol"></td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span> <sup>a</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">20 hours of course work in Polish studies a the 100, 200, 300, or 400 level</span> <sup>b</sup></td><td class="hourscol">20</td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Recommended Courses:</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=POL%20201" title="POL 201" class="bubblelink code" onclick="return showCourse(this, 'POL 201');">POL 201</a></div></td><td>Advanced Polish through Media and Film</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=POL%20202" title="POL 202" class="bubblelink code" onclick="return showCourse(this, 'POL 202');">POL 202</a></div></td><td>Advanced Polish through Contemporary Culture</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=POL%20203" title="POL 203" class="bubblelink code" onclick="return showCourse(this, 'POL 203');">POL 203</a></div></td><td>Advanced Polish through Short Stories</td><td class="hourscol"></td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Concentration in Russian Studies</span></td><td class="hourscol"></td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span> <sup>a</sup></td><td class="hourscol">20</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">20 hours of course work in Russian studies at the 100, 200, 300, or 400 level</span> <sup>c</sup></td><td class="hourscol"></td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Recommended Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=RUSS%20201" title="RUSS 201" class="bubblelink code" onclick="return showCourse(this, 'RUSS 201');">RUSS 201</a></div></td><td>Advanced Russian through Media and Film</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=RUSS%20202" title="RUSS 202" class="bubblelink code" onclick="return showCourse(this, 'RUSS 202');">RUSS 202</a></div></td><td>Advanced Russian through Contemporary Culture</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=RUSS%20203" title="RUSS 203" class="bubblelink code" onclick="return showCourse(this, 'RUSS 203');">RUSS 203</a></div></td><td>Advanced Russian through Short Stories</td><td class="hourscol"></td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Concentration in Central and Eastern European Studies</span></td><td class="hourscol"></td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span> <sup>a</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">20 hours of course work selected from the following:</span></td><td class="hourscol">20</td></tr>
+<tr class="odd"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Any CEES course at the 200, 300, and 400 level</span> <sup>d</sup></div></td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Any Polish course</span> <sup>b</sup></div></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Any Russian course</span> <sup>c</sup></div></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=HIST%20117" title="HIST/JST 117" class="bubblelink code" onclick="return showCourse(this, 'HIST 117');">HIST/JST 117</a></div></td><td>Understanding the Holocaust</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=HIST%20137" title="HIST 137" class="bubblelink code" onclick="return showCourse(this, 'HIST 137');">HIST 137</a></div></td><td>Russia in War and Revolution, 1904-1922</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=HIST%20233" title="HIST 233" class="bubblelink code" onclick="return showCourse(this, 'HIST 233');">HIST 233</a></div></td><td>East Central Europe and the Balkans: From Empires to Nation-States</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=HIST%20234" title="HIST/POLS 234" class="bubblelink code" onclick="return showCourse(this, 'HIST 234');">HIST/POLS 234</a></div></td><td>History of Poland</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=HIST%20235" title="HIST 235" class="bubblelink code" onclick="return showCourse(this, 'HIST 235');">HIST 235</a></div></td><td>The Rise and Fall of Communism in Eastern Europe</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=HIST%20236" title="HIST 236" class="bubblelink code" onclick="return showCourse(this, 'HIST 236');">HIST 236</a></div></td><td>Russia Between Europe and Asia: Eurasian Spaces and Peoples in the Premodern Era</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=HIST%20237" title="HIST 237" class="bubblelink code" onclick="return showCourse(this, 'HIST 237');">HIST 237</a></div></td><td>The Russian Empire in the Modern Period: History, Culture and the Challenges of Diversity</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=HIST%20238" title="HIST 238" class="bubblelink code" onclick="return showCourse(this, 'HIST 238');">HIST 238</a></div></td><td>Russia from Vladimir Lenin to Vladimir Putin</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=HIST%20239" title="HIST/RUSS 239" class="bubblelink code" onclick="return showCourse(this, 'HIST 239');">HIST/RUSS 239</a></div></td><td>Twentieth-Century Russia in Film</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LITH%20115" title="LITH 115" class="bubblelink code" onclick="return showCourse(this, 'LITH 115');">LITH 115</a></div></td><td>Lithuanian Culture</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LITH%20130" title="LITH 130" class="bubblelink code" onclick="return showCourse(this, 'LITH 130');">LITH 130</a></div></td><td>Lithuanian Prose Fiction in International Context</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LITH%20221" title="LITH 221" class="bubblelink code" onclick="return showCourse(this, 'LITH 221');">LITH 221</a></div></td><td>Lithuanian Literature I</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LITH%20222" title="LITH 222" class="bubblelink code" onclick="return showCourse(this, 'LITH 222');">LITH 222</a></div></td><td>Lithuanian Literature II</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LITH%20230" title="LITH 230" class="bubblelink code" onclick="return showCourse(this, 'LITH 230');">LITH 230</a></div></td><td>Lithuanian Literature Abroad</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=JST%20123" title="JST 123" class="bubblelink code" onclick="return showCourse(this, 'JST 123');">JST 123</a></div></td><td>Introduction to Yiddish Culture and Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=JST%20296" title="JST 296" class="bubblelink code" onclick="return showCourse(this, 'JST 296');">JST 296</a></div></td><td>Topics in Jewish Studies</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=JST%20394" title="JST 394" class="bubblelink code" onclick="return showCourse(this, 'JST 394');">JST 394</a></div></td><td>Topics in Jewish Studies</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=JST%20410" title="JST 410" class="bubblelink code" onclick="return showCourse(this, 'JST 410');">JST 410</a></div></td><td>Advanced Studies in Jewish Literature, Art and Culture</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LCSL%20391" title="LCSL 391" class="bubblelink code" onclick="return showCourse(this, 'LCSL 391');">LCSL 391</a></div></td><td>Internship in Global Studies</td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LCSL%20392" title="LCSL 392" class="bubblelink code" onclick="return showCourse(this, 'LCSL 392');">LCSL 392</a></div></td><td>Internship in Global Engagement and Public Humanities</td><td class="hourscol"></td></tr>
+</tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>A maximum of three semester hours in History (including crosslisted courses) may count toward required course work.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>No more than 6 semester hours may be completed at the 100 level, and excluding <span class="sc_courseinline"><a href="/search/?P=POL%20101" title="POL 101" class="bubblelink code" onclick="return showCourse(this, 'POL 101');">POL 101</a></span>, <span class="sc_courseinline"><a href="/search/?P=POL%20102" title="POL 102" class="bubblelink code" onclick="return showCourse(this, 'POL 102');">POL 102</a></span>, <span class="sc_courseinline"><a href="/search/?P=POL%20103" title="POL 103" class="bubblelink code" onclick="return showCourse(this, 'POL 103');">POL 103</a></span>, and <span class="sc_courseinline"><a href="/search/?P=POL%20104" title="POL 104" class="bubblelink code" onclick="return showCourse(this, 'POL 104');">POL 104</a></span>. Polish courses cross-listed with the Department of History and CEES topics courses that focus on Polish Studies may be used to fulfill this requirement with approval of the departmental advisor.</em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>No more than 6 semester hours may be completed at the 100 level, and excluding <span class="sc_courseinline"><a href="/search/?P=RUSS%20101" title="RUSS 101" class="bubblelink code" onclick="return showCourse(this, 'RUSS 101');">RUSS 101</a></span>, <span class="sc_courseinline"><a href="/search/?P=RUSS%20102" title="RUSS 102" class="bubblelink code" onclick="return showCourse(this, 'RUSS 102');">RUSS 102</a></span>, <span class="sc_courseinline"><a href="/search/?P=RUSS%20103" title="RUSS 103" class="bubblelink code" onclick="return showCourse(this, 'RUSS 103');">RUSS 103</a></span>, and <span class="sc_courseinline"><a href="/search/?P=RUSS%20104" title="RUSS 104" class="bubblelink code" onclick="return showCourse(this, 'RUSS 104');">RUSS 104</a></span>. Russian courses cross-listed with the Department of History and CEES topics courses that focus on Russian Studies may be used to fulfill this requirement with approval of the departmental advisor.</em></p></td></tr><tr><td valign="top" class="symcol">d</td><td class="notecol"><p><em>A minimum of 9 semester hours must be completed in CEES courses for the concentration in Central and Eastern European Studies.</em></p></td></tr></table>
+<h2><strong>Recommended Plan of Study</strong></h2>
+<table pdfnorepeatheader="true" class="sc_plangrid">
+<caption>Plan of Study Grid</caption><colgroup>
+	<col class="codecol"/>
+	<col class="titlecol"/>
+	<col class="hourscol"/>
+</colgroup>
+<tr class="plangridyear"><th id="plangrid1_0" class="year" colspan="3">First Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_0_0" colspan="2">Fall Semester</th><th id="hoursheader" scope="col" class="hourscol">Hours</th></tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Academic Writing I: Writing in Academic and Public Contexts</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=POL%20101" title="POL 101" class="bubblelink code" onclick="return showCourse(this, 'POL 101');">POL 101</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=RUSS%20101" title="RUSS 101" class="bubblelink code" onclick="return showCourse(this, 'RUSS 101');">RUSS 101</a><br/>or <a href="/search/?P=LITH%20101" title="LITH 101" class="bubblelink code" onclick="return showCourse(this, 'LITH 101');">LITH 101</a></div></td>
+<td headers=" plangrid1_0_0" class="titlecol">Elementary Polish I <sup>a</sup><br/><div style="margin-left:20px;" class="blockindent">or Elementary Russian I<br/>or Elementary Lithuanian I</div></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3-5</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">Quantitative Reasoning course</span></td>
+<td headers="hoursheader" class="hourscol">3-5</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_0_0" class="titlecol">Hours</td><td headers=" plangrid1_0_0 hoursheader" class="hourscol">13-17</td></tr>
+<tr class="plangridterm"><th id="plangrid1_0_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Academic Writing II: Writing for Inquiry and Research</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=POL%20102" title="POL 102" class="bubblelink code" onclick="return showCourse(this, 'POL 102');">POL 102</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=RUSS%20102" title="RUSS 102" class="bubblelink code" onclick="return showCourse(this, 'RUSS 102');">RUSS 102</a><br/>or <a href="/search/?P=LITH%20102" title="LITH 102" class="bubblelink code" onclick="return showCourse(this, 'LITH 102');">LITH 102</a></div></td>
+<td headers=" plangrid1_0_1" class="titlecol">Elementary Polish II <sup>a</sup><br/><div style="margin-left:20px;" class="blockindent">or Elementary Russian II<br/>or Elementary Lithuanian II</div></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">4-5</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_0_1" class="titlecol">Hours</td><td headers=" plangrid1_0_1 hoursheader" class="hourscol">14-15</td></tr>
+<tr class="plangridyear"><th id="plangrid1_1" class="year" colspan="3">Second Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_1_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_1_0" class="codecol"><a href="/search/?P=POL%20103" title="POL 103" class="bubblelink code" onclick="return showCourse(this, 'POL 103');">POL 103</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=RUSS%20103" title="RUSS 103" class="bubblelink code" onclick="return showCourse(this, 'RUSS 103');">RUSS 103</a><br/>or <a href="/search/?P=LITH%20103" title="LITH 103" class="bubblelink code" onclick="return showCourse(this, 'LITH 103');">LITH 103</a></div></td>
+<td headers=" plangrid1_1_0" class="titlecol">Intermediate Polish I <sup>a</sup><br/><div style="margin-left:20px;" class="blockindent">or Intermediate Russian I<br/>or Intermediate Lithuanian I</div></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">Concentration course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3-5</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_1_0" class="titlecol">Hours</td><td headers=" plangrid1_1_0 hoursheader" class="hourscol">16-18</td></tr>
+<tr class="plangridterm"><th id="plangrid1_1_1" colspan="3">Spring Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_1_1" class="codecol"><a href="/search/?P=POL%20104" title="POL 104" class="bubblelink code" onclick="return showCourse(this, 'POL 104');">POL 104</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=RUSS%20104" title="RUSS 104" class="bubblelink code" onclick="return showCourse(this, 'RUSS 104');">RUSS 104</a><br/>or <a href="/search/?P=LITH%20104" title="LITH 104" class="bubblelink code" onclick="return showCourse(this, 'LITH 104');">LITH 104</a></div></td>
+<td headers=" plangrid1_1_1" class="titlecol">Intermediate Polish II<br/><div style="margin-left:20px;" class="blockindent">or Intermediate Russian II<br/>or Intermediate Lithuanian II</div></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">Concentration course</span> <sup>b</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_1_1" class="titlecol">Hours</td><td headers=" plangrid1_1_1 hoursheader" class="hourscol">16</td></tr>
+<tr class="plangridyear"><th id="plangrid1_2" class="year" colspan="3">Third Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_2_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=CEES%20224" title="CEES 224" class="bubblelink code" onclick="return showCourse(this, 'CEES 224');">CEES 224</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=CEES%20225" title="CEES 225" class="bubblelink code" onclick="return showCourse(this, 'CEES 225');">CEES 225</a></div></td>
+<td headers=" plangrid1_2_0" class="titlecol">Introduction to Literary Analysis of Central Eastern European Texts<br/><div style="margin-left:20px;" class="blockindent">or Introduction to Central and Eastern European Cultures</div></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">Concentration course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course/Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">Elective </span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_2_0" class="titlecol">Hours</td><td headers=" plangrid1_2_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid1_2_1" colspan="3">Spring Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">Concentration course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">General Education Requirement course/Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">9</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_2_1" class="titlecol">Hours</td><td headers=" plangrid1_2_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridyear"><th id="plangrid1_3" class="year" colspan="3">Fourth Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_3_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">Concentration course(s)</span> <sup>b</sup></td>
+<td headers="hoursheader" class="hourscol">3-6</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">13</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_3_0" class="titlecol">Hours</td><td headers=" plangrid1_3_0 hoursheader" class="hourscol">16-19</td></tr>
+<tr class="plangridterm"><th id="plangrid1_3_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">Concentration course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">Concentration course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">9</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_3_1" class="titlecol">Hours</td><td headers=" plangrid1_3_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridtotal lastrow odd"><td> </td><td>Total Hours</td><td headers="hoursheader" class="hourscol">120</td></tr>
+</table>
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>101, 102, and 103 basic language courses do not count toward the major requirements.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=CEES%20224" title="CEES 224" class="bubblelink code" onclick="return showCourse(this, 'CEES 224');">CEES 224</a></span> and <span class="sc_courseinline"><a href="/search/?P=CEES%20225" title="CEES 225" class="bubblelink code" onclick="return showCourse(this, 'CEES 225');">CEES 225</a></span> satisfy the Writing-in-the-Discipline requirement.</em></p></td></tr></table></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="ba-polish-russian-cees.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

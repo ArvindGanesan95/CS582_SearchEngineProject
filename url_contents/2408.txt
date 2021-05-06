@@ -1,0 +1,327 @@
+https://catalog.uic.edu/ucat/colleges-depts/business-administration/mgmt/bs-entr/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>BS in Entrepreneurship &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/business-administration/">
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/actg/">Accounting</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/fin/">Finance</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/ids/">Information and Decision Sciences</a></li>
+				<li class="active isparent"><a href="/ucat/colleges-depts/business-administration/mgmt/">Managerial Studies</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/business-administration/mgmt/">
+					<li class="active self"><a href="#" onclick="return false;">BS in Entrepreneurship</a></li>
+					<li><a href="/ucat/colleges-depts/business-administration/mgmt/bs-human-resource-management/">BS in Human Resource Management</a></li>
+					<li><a href="/ucat/colleges-depts/business-administration/mgmt/bs-mgmt/">BS in Management</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/marketing/">Marketing</a></li>
+				<li><a href="/ucat/colleges-depts/business-administration/bba/">Bachelor of Business Administration</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/minors/">Minors</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/business-administration/">College&nbsp;of&nbsp;Business&nbsp;Administration</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/business-administration/mgmt/">Managerial&nbsp;Studies</a><span class="crumbsep">/</span></li><li><span class="active">BS in Entrepreneurship</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">BS in Entrepreneurship</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+<p class="program_codes"><span class="label"><strong>Program Codes:</strong> </span><br />20FL3501BS<br /></p>	</div>
+</div>
+
+<h2>Degree Requirements</h2>
+<p>To earn a Bachelor of Science in Entrepreneurship degree from UIC, students need to complete university, college, and department degree requirements. The Department of Managerial Studies degree requirements are outlined below. Students should consult the <a href="/ucat/colleges-depts/business-administration/"><em>College of Business Administration</em></a> section for additional degree requirements and college academic policies. Students who wish to pursue the entrepreneurship degree may seek individual advising on their programs of study through the Undergraduate Programs office.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Summary of Requirements</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">General Course Requirements </span></td><td class="hourscol">48</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Business Core</span></td><td class="hourscol">45</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Major Requirements</span></td><td class="hourscol">18</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">Business Electives</span></td><td class="hourscol">9</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">120</td></tr></tbody>
+</table>
+
+<h3>General and Basic Course Requirements</h3>
+<p>See <em><a href="/ucat/colleges-depts/business-administration/#c2">General and Basic Course Requirements</a></em> in the <em>College of Business Administration</em> section for the list of courses needed to meet this requirement.</p>
+<h3>Business Core</h3>
+<p>See <em><a href="/ucat/colleges-depts/business-administration/#c3">Business Course Requirements</a></em> in the <em>College of Business Administration</em> section for the list of courses needed to meet this requirement.</p>
+<h3>Major Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ENTR%20310" title="ENTR 310" class="bubblelink code" onclick="return showCourse(this, 'ENTR 310');">ENTR 310</a></td><td>Introduction to Entrepreneurship</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ENTR%20445" title="ENTR 445" class="bubblelink code" onclick="return showCourse(this, 'ENTR 445');">ENTR 445</a></td><td>New Venture Planning</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ENTR%20454" title="ENTR 454" class="bubblelink code" onclick="return showCourse(this, 'ENTR 454');">ENTR 454</a></td><td>Entrepreneurship New Venture Formation</td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Nine additional hours selected from among the nonrequired  300- or 400-level courses in Entrepreneurship (except <a href="/search/?P=ENTR%20499" title="ENTR 499" class="bubblelink code" onclick="return showCourse(this, 'ENTR 499');">ENTR 499</a>), or <a href="/search/?P=ENTR%20444" title="ENTR 444" class="bubblelink code" onclick="return showCourse(this, 'ENTR 444');">ENTR 444</a>.</span></td><td class="hourscol">9</td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENTR%20320" title="ENTR 320" class="bubblelink code" onclick="return showCourse(this, 'ENTR 320');">ENTR 320</a></div></td><td>Entrepreneurship Internship Program</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENTR%20420" title="ENTR 420" class="bubblelink code" onclick="return showCourse(this, 'ENTR 420');">ENTR 420</a></div></td><td>Social Entrepreneurship</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENTR%20430" title="ENTR 430" class="bubblelink code" onclick="return showCourse(this, 'ENTR 430');">ENTR 430</a></div></td><td>Family Business Management</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENTR%20435" title="ENTR 435" class="bubblelink code" onclick="return showCourse(this, 'ENTR 435');">ENTR 435</a></div></td><td>International Entrepreneurship</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENTR%20444" title="ENTR 444" class="bubblelink code" onclick="return showCourse(this, 'ENTR 444');">ENTR 444</a></div></td><td>Entrepreneurial Finance</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENTR%20464" title="ENTR 464" class="bubblelink code" onclick="return showCourse(this, 'ENTR 464');">ENTR 464</a></div></td><td>Entrepreneurial Consulting</td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENTR%20494" title="ENTR 494" class="bubblelink code" onclick="return showCourse(this, 'ENTR 494');">ENTR 494</a></div></td><td>Special Topics in Entrepreneurship</td><td class="hourscol"></td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">18</td></tr></tbody>
+</table>
+
+<h3>Business Electives</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select 9 hours from courses offered at the 300- or 400-level in the College of Business Administration, except the 495 Integrative courses. It is recommended that students choose from the following list of courses, which are particularly related to Entrepreneurship. Some courses have prerequisites, which will require careful planning. Students may also choose to use their business electives to complete a second concentration or business minor, which will require careful planning.</span></td><td class="hourscol">9</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ACTG%20355" title="ACTG 355" class="bubblelink code" onclick="return showCourse(this, 'ACTG 355');">ACTG 355</a></div></td><td>Business Law I: Commercial Transactions</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MGMT%20453" title="MGMT 453" class="bubblelink code" onclick="return showCourse(this, 'MGMT 453');">MGMT 453</a></div></td><td>Human Resource Management</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MGMT%20463" title="MGMT 463" class="bubblelink code" onclick="return showCourse(this, 'MGMT 463');">MGMT 463</a></div></td><td>Negotiation and Conflict Resolution</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MGMT%20470" title="MGMT 470" class="bubblelink code" onclick="return showCourse(this, 'MGMT 470');">MGMT 470</a></div></td><td>Training and Development</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MGMT%20486" title="MGMT 486" class="bubblelink code" onclick="return showCourse(this, 'MGMT 486');">MGMT 486</a></div></td><td>Managerial Consulting</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MKTG%20462" title="MKTG 462" class="bubblelink code" onclick="return showCourse(this, 'MKTG 462');">MKTG 462</a></div></td><td>Marketing Research</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MKTG%20463" title="MKTG 463" class="bubblelink code" onclick="return showCourse(this, 'MKTG 463');">MKTG 463</a></div></td><td>Marketing and Sales Channels</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MKTG%20470" title="MKTG 470" class="bubblelink code" onclick="return showCourse(this, 'MKTG 470');">MKTG 470</a></div></td><td>Branding</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MKTG%20473" title="MKTG 473" class="bubblelink code" onclick="return showCourse(this, 'MKTG 473');">MKTG 473</a></div></td><td>Introduction to Sales</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MKTG%20474" title="MKTG 474" class="bubblelink code" onclick="return showCourse(this, 'MKTG 474');">MKTG 474</a></div></td><td>Advertising</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MKTG%20475" title="MKTG 475" class="bubblelink code" onclick="return showCourse(this, 'MKTG 475');">MKTG 475</a></div></td><td>Product Management</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MKTG%20476" title="MKTG 476" class="bubblelink code" onclick="return showCourse(this, 'MKTG 476');">MKTG 476</a></div></td><td>Business-to-Business (B2B) Marketing</td><td class="hourscol"></td></tr>
+<tr class="even lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MKTG%20479" title="MKTG 479" class="bubblelink code" onclick="return showCourse(this, 'MKTG 479');">MKTG 479</a></div></td><td>Digital and Social Media Marketing</td><td class="hourscol"></td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">9</td></tr></tbody>
+</table>
+
+<h2>Sample Business Major Curriculum</h2>
+<p>See <em><a href="/ucat/colleges-depts/business-administration/#l">Sample Business Major Curriculum</a></em> in the<em> College of Business Administration</em> section. See your academic advisor for an individualized major map in your field of study.</p></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="bs-entr.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

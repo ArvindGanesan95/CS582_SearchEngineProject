@@ -1,0 +1,703 @@
+https://catalog.uic.edu/all-course-descriptions/edps/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Educational Policy Studies (EDPS) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="isparent"><a href="/ucat/">Undergraduate Catalog</a></li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="active isparent"><a href="/all-course-descriptions/">All Course Descriptions</a>
+	<ul class="nav levelone" id="/all-course-descriptions/">
+		<li><a href="/all-course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+		<li><a href="/all-course-descriptions/actg/">Accounting (ACTG)</a></li>
+		<li><a href="/all-course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+		<li><a href="/all-course-descriptions/anth/">Anthropology (ANTH)</a></li>
+		<li><a href="/all-course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+		<li><a href="/all-course-descriptions/arab/">Arabic (ARAB)</a></li>
+		<li><a href="/all-course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+		<li><a href="/all-course-descriptions/arch/">Architecture (ARCH)</a></li>
+		<li><a href="/all-course-descriptions/art/">Art (ART)</a></li>
+		<li><a href="/all-course-descriptions/ah/">Art History (AH)</a></li>
+		<li><a href="/all-course-descriptions/bms/">Basic Medical Sciences (BMS)</a></li>
+		<li><a href="/all-course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+		<li><a href="/all-course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+		<li><a href="/all-course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+		<li><a href="/all-course-descriptions/bvis/">Biomedical Visualization (BVIS)</a></li>
+		<li><a href="/all-course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+		<li><a href="/all-course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+		<li><a href="/all-course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+		<li><a href="/all-course-descriptions/blst/">Black Studies (BLST)</a></li>
+		<li><a href="/all-course-descriptions/ba/">Business Administration (BA)</a></li>
+		<li><a href="/all-course-descriptions/cc/">Campus Courses (CC)</a></li>
+		<li><a href="/all-course-descriptions/cst/">Catholic Studies (CST)</a></li>
+		<li><a href="/all-course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+		<li><a href="/all-course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+		<li><a href="/all-course-descriptions/chem/">Chemistry (CHEM)</a></li>
+		<li><a href="/all-course-descriptions/chin/">Chinese (CHIN)</a></li>
+		<li><a href="/all-course-descriptions/cd/">City Design (CD)</a></li>
+		<li><a href="/all-course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+		<li><a href="/all-course-descriptions/cl/">Classics (CL)</a></li>
+		<li><a href="/all-course-descriptions/cler/">Clerkship -&#8203; Medicine (CLER)</a></li>
+		<li><a href="/all-course-descriptions/cele/">Clerkship Electives -&#8203; Chicago (CELE)</a></li>
+		<li><a href="/all-course-descriptions/pele/">Clerkship Electives -&#8203; Peoria (PELE)</a></li>
+		<li><a href="/all-course-descriptions/rele/">Clerkship Electives -&#8203; Rockford (RELE)</a></li>
+		<li><a href="/all-course-descriptions/uele/">Clerkship Electives -&#8203; Urbana (UELE)</a></li>
+		<li><a href="/all-course-descriptions/comm/">Communication (COMM)</a></li>
+		<li><a href="/all-course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+		<li><a href="/all-course-descriptions/cs/">Computer Science (CS)</a></li>
+		<li><a href="/all-course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+		<li><a href="/all-course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+		<li><a href="/all-course-descriptions/dadm/">Dental Administration (DADM)</a></li>
+		<li><a href="/all-course-descriptions/daob/">Dentistry -&#8203; Applied Oral and Behavioral Sciences (DAOB)</a></li>
+		<li><a href="/all-course-descriptions/dbcs/">Dentistry -&#8203; Biomedical and Clinical Sciences (DBCS)</a></li>
+		<li><a href="/all-course-descriptions/dcle/">Dentistry -&#8203; Community Learning Experience (DCLE)</a></li>
+		<li><a href="/all-course-descriptions/dosi/">Dentistry -&#8203; Oral/&#8203;Systemic Issues (DOSI)</a></li>
+		<li><a href="/all-course-descriptions/dost/">Dentistry -&#8203; Oral/&#8203;Systemic Topics (DOST)</a></li>
+		<li><a href="/all-course-descriptions/des/">Design (DES)</a></li>
+		<li><a href="/all-course-descriptions/dlg/">Dialogue (DLG)</a></li>
+		<li><a href="/all-course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+		<li><a href="/all-course-descriptions/mdc/">Doctor of Medicine—Chicago (MDC)</a></li>
+		<li><a href="/all-course-descriptions/mdp/">Doctor of Medicine—Peoria (MDP)</a></li>
+		<li><a href="/all-course-descriptions/mdr/">Doctor of Medicine—Rockford (MDR)</a></li>
+		<li><a href="/all-course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+		<li><a href="/all-course-descriptions/econ/">Economics (ECON)</a></li>
+		<li><a href="/all-course-descriptions/ed/">Education (ED)</a></li>
+		<li class="active self"><a href="#" onclick="return false;">Educational Policy Studies (EDPS)</a></li>
+		<li><a href="/all-course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+		<li><a href="/all-course-descriptions/ece/">Electrical and Computer Engineering (ECE)</a></li>
+		<li><a href="/all-course-descriptions/eb/">Employee Benefits (EB)</a></li>
+		<li><a href="/all-course-descriptions/endo/">Endodontics (ENDO)</a></li>
+		<li><a href="/all-course-descriptions/ener/">Energy Engineering (ENER)</a></li>
+		<li><a href="/all-course-descriptions/engr/">Engineering (ENGR)</a></li>
+		<li><a href="/all-course-descriptions/engl/">English (ENGL)</a></li>
+		<li><a href="/all-course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+		<li><a href="/all-course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+		<li><a href="/all-course-descriptions/eohs/">Environmental and Occupational Health Sciences (EOHS)</a></li>
+		<li><a href="/all-course-descriptions/epid/">Epidemiology (EPID)</a></li>
+		<li><a href="/all-course-descriptions/epl/">Estate Planning (EPL)</a></li>
+		<li><a href="/all-course-descriptions/fin/">Finance (FIN)</a></li>
+		<li><a href="/all-course-descriptions/fr/">French (FR)</a></li>
+		<li><a href="/all-course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+		<li><a href="/all-course-descriptions/geog/">Geography (GEOG)</a></li>
+		<li><a href="/all-course-descriptions/ger/">Germanic Studies (GER)</a></li>
+		<li><a href="/all-course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+		<li><a href="/all-course-descriptions/gc/">Graduate College (GC)</a></li>
+		<li><a href="/all-course-descriptions/gems/">Graduate Education in Medical Sciences (GEMS)</a></li>
+		<li><a href="/all-course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+		<li><a href="/all-course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+		<li><a href="/all-course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+		<li><a href="/all-course-descriptions/him/">Health Information Management (HIM)</a></li>
+		<li><a href="/all-course-descriptions/hpa/">Health Policy and Administration (HPA)</a></li>
+		<li><a href="/all-course-descriptions/hlp/">Healthy Living Practitioner™ (HLP)</a></li>
+		<li><a href="/all-course-descriptions/heb/">Hebrew (HEB)</a></li>
+		<li><a href="/all-course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+		<li><a href="/all-course-descriptions/hstl/">Histology (HSTL)</a></li>
+		<li><a href="/all-course-descriptions/hist/">History (HIST)</a></li>
+		<li><a href="/all-course-descriptions/hon/">Honors College (HON)</a></li>
+		<li><a href="/all-course-descriptions/hn/">Human Nutrition (HN)</a></li>
+		<li><a href="/all-course-descriptions/hum/">Humanities (HUM)</a></li>
+		<li><a href="/all-course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+		<li><a href="/all-course-descriptions/it/">Information Technology (IT)</a></li>
+		<li><a href="/all-course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+		<li><a href="/all-course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+		<li><a href="/all-course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+		<li><a href="/all-course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+		<li><a href="/all-course-descriptions/ip/">Intellectual Property (IP)</a></li>
+		<li><a href="/all-course-descriptions/ibt/">International Business and Trade (IBT)</a></li>
+		<li><a href="/all-course-descriptions/inst/">International Studies (INST)</a></li>
+		<li><a href="/all-course-descriptions/ital/">Italian (ITAL)</a></li>
+		<li><a href="/all-course-descriptions/jpn/">Japanese (JPN)</a></li>
+		<li><a href="/all-course-descriptions/jst/">Jewish Studies (JST)</a></li>
+		<li><a href="/all-course-descriptions/jd/">Juris Doctor (JD)</a></li>
+		<li><a href="/all-course-descriptions/kn/">Kinesiology (KN)</a></li>
+		<li><a href="/all-course-descriptions/kor/">Korean (KOR)</a></li>
+		<li><a href="/all-course-descriptions/lat/">Latin (LAT)</a></li>
+		<li><a href="/all-course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+		<li><a href="/all-course-descriptions/law/">Law (LAW)</a></li>
+		<li><a href="/all-course-descriptions/lrsc/">Learning Sciences (LRSC)</a></li>
+		<li><a href="/all-course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+		<li><a href="/all-course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+		<li><a href="/all-course-descriptions/ling/">Linguistics (LING)</a></li>
+		<li><a href="/all-course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+		<li><a href="/all-course-descriptions/lith/">Lithuanian (LITH)</a></li>
+		<li><a href="/all-course-descriptions/mgmt/">Management (MGMT)</a></li>
+		<li><a href="/all-course-descriptions/mktg/">Marketing (MKTG)</a></li>
+		<li><a href="/all-course-descriptions/mba/">Master of Business Administration (MBA)</a></li>
+		<li><a href="/all-course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+		<li><a href="/all-course-descriptions/mj/">Master of Jurisprudence (MJ)</a></li>
+		<li><a href="/all-course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+		<li><a href="/all-course-descriptions/math/">Mathematics (MATH)</a></li>
+		<li><a href="/all-course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+		<li><a href="/all-course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+		<li><a href="/all-course-descriptions/mbt/">Medical Biotechnology (MBT)</a></li>
+		<li><a href="/all-course-descriptions/mhpe/">Medical Education (MHPE)</a></li>
+		<li><a href="/all-course-descriptions/mhum/">Medical Humanities (MHUM)</a></li>
+		<li><a href="/all-course-descriptions/mdch/">Medicinal Chemistry (MDCH)</a></li>
+		<li><a href="/all-course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+		<li><a href="/all-course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+		<li><a href="/all-course-descriptions/mils/">Military Science (MILS)</a></li>
+		<li><a href="/all-course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+		<li><a href="/all-course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+		<li><a href="/all-course-descriptions/mus/">Music (MUS)</a></li>
+		<li><a href="/all-course-descriptions/nast/">Native American Studies (NAST)</a></li>
+		<li><a href="/all-course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+		<li><a href="/all-course-descriptions/ns/">Naval Science (NS)</a></li>
+		<li><a href="/all-course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+		<li><a href="/all-course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+		<li><a href="/all-course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+		<li><a href="/all-course-descriptions/nupr/">Nursing Practicum (NUPR)</a></li>
+		<li><a href="/all-course-descriptions/nusp/">Nursing Specialty (NUSP)</a></li>
+		<li><a href="/all-course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+		<li><a href="/all-course-descriptions/omds/">Oral Medicine and Diagnostic Sciences (OMDS)</a></li>
+		<li><a href="/all-course-descriptions/osci/">Oral Sciences (OSCI)</a></li>
+		<li><a href="/all-course-descriptions/osur/">Oral and Maxillofacial Surgery (OSUR)</a></li>
+		<li><a href="/all-course-descriptions/ortd/">Orthodontics (ORTD)</a></li>
+		<li><a href="/all-course-descriptions/path/">Pathology (PATH)</a></li>
+		<li><a href="/all-course-descriptions/psl/">Patient Safety Leadership (PSL)</a></li>
+		<li><a href="/all-course-descriptions/pedd/">Pediatric Dentistry (PEDD)</a></li>
+		<li><a href="/all-course-descriptions/peri/">Periodontics (PERI)</a></li>
+		<li><a href="/all-course-descriptions/psci/">Pharmaceutical Sciences (PSCI)</a></li>
+		<li><a href="/all-course-descriptions/pmpg/">Pharmacognosy (PMPG)</a></li>
+		<li><a href="/all-course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+		<li><a href="/all-course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+		<li><a href="/all-course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+		<li><a href="/all-course-descriptions/psop/">Pharmacy Systems, Outcomes, and Policy (PSOP)</a></li>
+		<li><a href="/all-course-descriptions/phil/">Philosophy (PHIL)</a></li>
+		<li><a href="/all-course-descriptions/pt/">Physical Therapy (PT)</a></li>
+		<li><a href="/all-course-descriptions/phys/">Physics (PHYS)</a></li>
+		<li><a href="/all-course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+		<li><a href="/all-course-descriptions/pol/">Polish (POL)</a></li>
+		<li><a href="/all-course-descriptions/pols/">Political Science (POLS)</a></li>
+		<li><a href="/all-course-descriptions/port/">Portuguese (PORT)</a></li>
+		<li><a href="/all-course-descriptions/prcl/">Preclinical Medicine (PRCL)</a></li>
+		<li><a href="/all-course-descriptions/ptl/">Privacy and Technology Law (PTL)</a></li>
+		<li><a href="/all-course-descriptions/pros/">Prosthodontics (PROS)</a></li>
+		<li><a href="/all-course-descriptions/psch/">Psychology (PSCH)</a></li>
+		<li><a href="/all-course-descriptions/pa/">Public Administration (PA)</a></li>
+		<li><a href="/all-course-descriptions/pubh/">Public Health (PUBH)</a></li>
+		<li><a href="/all-course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+		<li><a href="/all-course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+		<li><a href="/all-course-descriptions/re/">Real Estate (RE)</a></li>
+		<li><a href="/all-course-descriptions/rels/">Religious Studies (RELS)</a></li>
+		<li><a href="/all-course-descriptions/rest/">Restorative Dentistry (REST)</a></li>
+		<li><a href="/all-course-descriptions/russ/">Russian (RUSS)</a></li>
+		<li><a href="/all-course-descriptions/slav/">Slavic and Baltic Languages and Literatures (SLAV)</a></li>
+		<li><a href="/all-course-descriptions/sj/">Social Justice (SJ)</a></li>
+		<li><a href="/all-course-descriptions/socw/">Social Work (SOCW)</a></li>
+		<li><a href="/all-course-descriptions/soc/">Sociology (SOC)</a></li>
+		<li><a href="/all-course-descriptions/span/">Spanish (SPAN)</a></li>
+		<li><a href="/all-course-descriptions/sped/">Special Education (SPED)</a></li>
+		<li><a href="/all-course-descriptions/spec/">Specialty Medicine (SPEC)</a></li>
+		<li><a href="/all-course-descriptions/stat/">Statistics (STAT)</a></li>
+		<li><a href="/all-course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+		<li><a href="/all-course-descriptions/surg/">Surgery (SURG)</a></li>
+		<li><a href="/all-course-descriptions/tx/">Taxation (TX)</a></li>
+		<li><a href="/all-course-descriptions/thtr/">Theatre (THTR)</a></li>
+		<li><a href="/all-course-descriptions/tadr/">Trial Advocacy and Dispute Resolution (TADR)</a></li>
+		<li><a href="/all-course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+		<li><a href="/all-course-descriptions/us/">Urban Studies (US)</a></li>
+		<li><a href="/all-course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+		<li><a href="/all-course-descriptions/usl/">US Legal Studies (USL)</a></li>
+	</ul>
+	</li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/all-course-descriptions/">All&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Educational Policy Studies (EDPS)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Educational Policy Studies (EDPS)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="edpscourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;104.  Race, Place, and Schooling: Black Americans and Education.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of the social, political, cultural, and economic factors shaping Black Americans' educational experiences in the United States histprically and currently. Course Information: Same as <a href="/search/?P=BLST%20104" title="BLST&#160;104" class="bubblelink code" onclick="return showCourse(this, 'BLST 104');">BLST&#160;104</a>.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;361.  Education in Urban Context.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Cross-disciplinary, critical analysis of relationships between public schools and their urban contexts, with attention to implications for teaching and learning. Course Information: Prerequisite(s): Senior standing or above and admission to the Bachelor of Arts in elementary Education program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;412.  Politics of Urban Education.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Relations between school governance and politics. The role of educational interest groups, school boards, professional educators, and citizens in formulation and execution of educational policy. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;415.  Current Controversies in Urban Higher Education.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines critical issues in urban higher education such as academic freedom, free speech, college affordability, alcohol/drugs, and student mental health, as well as the legal consequences of these and other issues. Course Information: 3 undergraduate hours. 4 graduate hours.  Prerequisite(s): Junior standing or above.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;449.  Early Childhood /Early Childhood Special Ed: Perspectives, Policies and History.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Perspectives, policies, history, and foundations of Early Childhood Education and Early Childhood Special Education. Emphasis on the effects of changing economic, political, legal, social, and views of human development. Course Information: Same as <a href="/search/?P=EPSY%20449" title="EPSY&#160;449" class="bubblelink code" onclick="return showCourse(this, 'EPSY 449');">EPSY&#160;449</a> and <a href="/search/?P=SPED%20449" title="SPED&#160;449" class="bubblelink code" onclick="return showCourse(this, 'SPED 449');">SPED&#160;449</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;453.  Topics in Educational Policy Studies.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Topics are announced at the time the class is scheduled. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated to a maximum of 12 hours.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;480.  Youth Culture Community Organizing and Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the tenets of community organizing in partnership with contemporary interpretations of youth culture as a means to interpret urban public education. Course Information: Prerequisite(s): Graduate standing; or consent of the instructor. Recommended background: Experience with working with youth in K-12 classrooms, community organizations, community centers, and faith-based groups.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;500.  City Schools: Education in the Urban Environment.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Cross-disciplinary, critical analysis of relationships between public schools and school districts and their urban environments, with attention to implications for school improvement. Course Information:  Prerequisite(s):  Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;501.  Education Finance and Budgeting.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Role of government, school boards, and community in funding education.  Principles of school and district financial planning, management, and analysis.  Equity issues in school finance.  Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;502.  Advanced Foundational Studies in Philosophy of Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced investigation of historical and emergent themes in philosophy of education, with specific attention to competing perspectives on human nature and knowing, methods of philosophic inquiry, and the nexus of democratic and educational theory. Course Information: Prerequisite(s): Enrollment in a doctoral program or consent of the instructor. Recommended background: <a href="/search/?P=ED%20402" title="ED&#160;402" class="bubblelink code" onclick="return showCourse(this, 'ED 402');">ED&#160;402</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;503.  History and Historiography in Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+An advanced critical analysis of the history of education in the United States, with specific attention to competing historical perspectives, historical methods of investigation, and the educational histories of different population groups.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;505.  Social Theory in Educational Foundations.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Investigates competing theoretical perspectives in the social foundations of education, addressing the evolution of social and educational theory. Course Information: Prerequisite(s): Enrollment in a doctoral program or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;506.  Leadership, Instruction, and Policy in Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines the relationships between instruction, educational leadership, and educational policy.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;510.  Introduction to Doctoral Education in Policy Studies.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Required doctoral seminar taken in the first year of doctoral study. It introduces students to doctoral education, theoretical perspectives and research problems in both concentrations of the Ph.D. program, Policy Studies in Urban Education. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): Admission to the Ph.D. in Policy Studies in Urban Education program or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;511.  Introduction to Academic Writing in Educational Policy Studies.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Assesses the academic writing skills of PhD students and introduces them to the various genres of writing they will be doing while completing coursework on the way to their dissertation. Course Information: Satisfactory/Unsatisfactory grading only. Admission to the Ph.D. in Policy Studies in Urban Education program or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;512.  Data and Interpretation in Educational Policy Studies.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Methodology course providing students with basic understanding and skills in assessing, interpreting and representing quantitative and qualitative evidence in educational policy studies research. Students study research design and critique. Course Information: Prerequisite(s): <a href="/search/?P=ED%20500" title="ED&#160;500" class="bubblelink code" onclick="return showCourse(this, 'ED 500');">ED&#160;500</a> and enrollment in the Ph.D. in Policy Studies in Urban Education program or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;515.  Urban Higher Education Organization and Context.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of historical and philosophical foundations as context for contemporary urban higher education. Examination of external influences (social, political, economic, technological, legal, and international) on urban higher education organizations. Prerequisites(s): Admission to MEd in Urban Higher Education or consent of instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;517.  Administration and Governance of Urban Higher Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Investigation of structures of governance and administration in urban higher education.  Examination of urban colleges and universities as complex organizations, and analysis of theories of leadership, advocacy, and change in urban higher education. Prerequisite(s): Admission to MEd in Urban Higher Education OR consent of instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;518.  Students, Diversity, Equity, and Access in Urban Higher Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Exploration of issues related to diversity in urban higher education, equity, and student access and opportunity. Attention to race and ethnicity, gender, socioeconomic class, disability &amp; exceptionality, sexuality, sexual orientation &amp; religion. Prerequisite(s): Admission to MEd in Urban Higher Education OR consent of instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;519.  Student Transitions to College.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of student expectations and preparation for college and an examination of how students make the transition to college, structures and initiatives that can support that transition, an impediments to entering and succeeding in college. Prerequisite(s): Admission to MEd in Urban Higher Education OR consent of instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;520.  The City as Campus: Community Engagement and Interaction.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Critical analysis of relationships between urban universities and colleges and their environments and communities, with attention to implications for students, faculty, staff, and administrators. Prerequisite(s): Admission to the MEd in Urban Higher Education or consent of instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;529.  Internship in Urban Higher Ed.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Provides on-site coaching, mentoring and classwork to support students' understanding of urban higher education and its challenges and opportunities. Facilities integration of coursework and understanding of leadership and change in higher education. Course Information: May be repeated for a maximum of 8 hours. Prerequisite(s): Admission to MEd in Urban Higher Education OR consent of instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;530.  Seminar, Urban Higher Education in the 21st Century: Ideas and Opportunities.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Capstone course that brings together prior coursework supporting the academic and professional objectives of each student. Students will demonstrate mastery of content and program learning objectives through a culminating project. Prerequisite(s): <a href="/search/?P=EDPS%20515" title="EDPS&#160;515" class="bubblelink code" onclick="return showCourse(this, 'EDPS 515');">EDPS&#160;515</a> and <a href="/search/?P=EDPS%20517" title="EDPS&#160;517" class="bubblelink code" onclick="return showCourse(this, 'EDPS 517');">EDPS&#160;517</a> and <a href="/search/?P=EPSY%20516" title="EPSY&#160;516" class="bubblelink code" onclick="return showCourse(this, 'EPSY 516');">EPSY&#160;516</a> and <a href="/search/?P=EDPS%20518" title="EDPS&#160;518" class="bubblelink code" onclick="return showCourse(this, 'EDPS 518');">EDPS&#160;518</a>; admission to the MEd in Urban Higher Education OR consent of Instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;535.  Human Development for School Leaders.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Deepens school leaders' understanding of human development across the lifespan, from birth to adult learning in schools; includes attention to differentiated instruction, SpEd inclusion, and ELL learners in all age groups. Course Information: Same as <a href="/search/?P=EPSY%20535" title="EPSY&#160;535" class="bubblelink code" onclick="return showCourse(this, 'EPSY 535');">EPSY&#160;535</a>. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;543.  The Criminalization of Youth in Urban Schools.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Using contemporary social theory, this course investigates the disciplining, punishing, and criminalization of youth in urban schools, paying particular attention to the racialized, classed, gendered, and ableist contours of these social processes. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;544.  Research Design in Educational Policy Studies.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Alternative research design models and evaluation methodologies; quantitative and qualitative approaches;  ethnography; historiography; experimentation and quasi-experimentation; institutional and practitioner research designs and methods. Course Information: Prerequisite(s): Consent of the instructor or admission to the Ph.D. in Policy Studies in Urban Education, or the Ed.D. in Urban School Leadership.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;548.  Leading Improvement of Literacy Learning.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Leadership development to promote effective reading and writing instruction across the curriculum with particular attention paid to effective organizational and instructional strategies for PreK-12 students. Course Information: Same as <a href="/search/?P=CI%20548" title="CI&#160;548" class="bubblelink code" onclick="return showCourse(this, 'CI 548');">CI&#160;548</a>. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;549.  Critical Pedagogy: Practice and Theory.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Examine theory and practice of social justice teaching in schools, including: history liberatory pedagogies, culturally relevant and critical pedagogies, funds of knowledge, critical multiculturalism and anti-racist pedagogy, critical race theory.  Course Information:  Same as <a href="/search/?P=CI%20549" title="CI&#160;549" class="bubblelink code" onclick="return showCourse(this, 'CI 549');">CI&#160;549</a>.  Prerequisite(s):  Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;550.  Improving Education Organizations.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to theories, processes and leadership of organizational change in education. Particular emphasis is placed on alternative approaches to organizational change in schools, such as &quot;turnaround&quot; change and continuous improvement. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;551.  Cycles of Inquiry for Improving Schools.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces an integrated model of school assessment practices that bridges the gap between internal and external assessment; introduces descriptive statistics, data representation and cycles of inquiry as core drivers of continuous improvement. Course Information: Extensive computer use required. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;552.  Leading Urban Schools.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Describes the deep structure of conventional and transformational approaches to the principal's role in improving school leadership. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;553.  Leading Urban School Systems.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Leadership and management responsibilities of system-level administrators in urban school districts. Theory and research on system level leadership using case study analysis and field work with system administrators. Course Information: Prerequisite(s):  Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;555.  Political Economy of Urban Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Politics of urban school policy and practice.  Interest groups, school boards, educators, citizens, and governments as political actors.  Educational leadership in political context.  Course Information:  Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;556.  Leading Classroom Diagnostics and Interventions.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Instructional improvement role of educational leaders of urban schools. Human resource development, parent/community support, supportive organizational contexts. Strategic planning, implementation, and evaluation. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;557.  Developing Organizational and Leadership Capacity.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Assessment and development of organizational and leadership capacity in urban schools. Human resource development, parent/community support, supportive organizational contexts. Strategic planning, implementation, and evaluation. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;558.  Leading Improvement of Mathematics Learning.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Leadership understandings that promote high quality mathematics instruction with particular attention to student and adult learning for early childhood, intermediate, middle school and high school levels. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;559.  Internship in Education Leadership.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Provides on-site coaching, mentoring and classwork to support students' entry into Ed.D. residency, facilitates integration of coursework and leadership practices, and intensifies leadership learning throughout the year.Course Information: 4 hours. May be repeated to a maximum of 8 hours. Extensive computer use required. Prerequisite(s): Consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Conference and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;563.  Politics of Gender, Sexuality, and Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Cross-disciplinary examination of issues related to gender, sexuality, and sexual orientation in education, with critical attention paid to educational policy and practice. Course Information: Same as <a href="/search/?P=GWS%20563" title="GWS&#160;563" class="bubblelink code" onclick="return showCourse(this, 'GWS 563');">GWS&#160;563</a>. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;565.  Globalization and Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines implications of global economic, political, and cultural processes for educational policies and practices at local and national levels. Course Information: Prerequisite(s): Graduate standing; and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;566.  Cultural Studies in Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines origins, evolution, and current frameworks of cultural studies, with a focus on educational policy and practice. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;567.  Economics of Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the economics of education. Relates education and income, studies and conditions for efficient production of education, teacher markets and school finance. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;568.  Education and the Law.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Legal rights, responsibilities, and authority of students, parents, teachers, administrators, boards, and government units in relation to schools. Legal issues in education policy and practice. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;570.  Historical and Philosophical Analysis of Education Policy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Historical and philosophical research methodology in the study of educational policy. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;571.  The Education Policy Process.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Influences on the processes of educational policy making, adoption and implementation, with a focus on the school leaderâ€™s role. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;572.  Sociology of Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Education as a social institution in interaction with other institutions, such as the economy. Topics include the emergence of national systems of education, purposes of education, inequality and educational reform. Course Information: Same as <a href="/search/?P=SOC%20572" title="SOC&#160;572" class="bubblelink code" onclick="return showCourse(this, 'SOC 572');">SOC&#160;572</a>. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;573.  Seminar in Education Leadership Practice.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Budget and finance, strategic planning and decision making, communication, use of data and technology, parent/community relations, student support services. Different sections will focus on school-level and system-level administration. Course Information: May be repeated. 4 hours is required for the Illinois Type 75 certificate.  Additional hours may be needed for students to satisfy local school system administrator certification requirements (such as Chicago Public School's 1019 requirement). Prerequisite(s): Admission to the Ed.D. in Urban Educational Leadership program and consent of the instructor. Requires concurrent registration in <a href="/search/?P=EDPS%20559" title="EDPS&#160;559" class="bubblelink code" onclick="return showCourse(this, 'EDPS 559');">EDPS&#160;559</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;578.  Political Theory and Education Policy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Theoretical perspectives on the role of politics in the development of educational policy at the federal, state and local levels. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;579.  Organization Theory in Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Organizational effectiveness and organizational improvement in education. Multi-disciplinary and historical perspectives and their application to understanding the nature and function of educational organizations. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;581.  Collective Bargaining in Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Role of collective bargaining in governance, function, and improvement of school systems.  Models and processes of negotiation, engagement, and conflict resolution. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;582.  Cultural Pluralism and Education Policy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Social philosophical analysis of the theory of cultural pluralism, its relation to the liberal-experimentalist tradition in educational thought; selected equal educational opportunity policies; recent federal and state legislation on multicultural education. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;583.  Women in Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+An overview of girl's and women's educational experiences and placement within the academic structure (as students, professionals and intellectuals). The impact of gender on the realization of educational, economic and social opportunities. Course Information: Same as <a href="/search/?P=GWS%20583" title="GWS&#160;583" class="bubblelink code" onclick="return showCourse(this, 'GWS 583');">GWS&#160;583</a>. Prerequisite(s): Consent of the instructor or enrollment in the Ph.D. in Policy Studies in Urban Education program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;585.  Research Practicum in Educational Leadership.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Offers Ph.D. Students an opportunity to conduct action research in partnership with school practitioners to address problems of practice in school setting. Course Information: Field work required. Meets eight weeks of the semester. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;586.  Practitioner Inquiry for School Leaders.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Development and application of systems and protocols that support progressive cycles of formative assessment and institutional problem-solving; leadership development strategies for taking these systems to scale. Course Information: May be repeated to a maximum of 8 hours. Extensive computer use required. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;587.  Methods of Case Study Research.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Study and practice in documentary and field research methods of collecting, organizing and integrating educational data for case study.  Includes attention to interviewing, observation, ethnography, and historiography. Course Information: May be repeated to a maximum of 8 hours. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Conference and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;588.  Critical Race Theory: Race and Racism in Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines theories of race and racism in education within the interdisciplinary construct of Critical Race Theory. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;589.  Administrative and Leadership Theory in Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to administrative and leadership theory, focusing particularly on issues of leadership and administration in organization context. Applies theory to understanding the effectiveness of leaders and leadership and to contemporary problems.Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;591.  Professional Capstone Inquiry.  1-8 hours.</strong></p>
+<p class="courseblockdesc">
+Students design, implement, and analyze results of a research problem in this area of specialization. Completed study is reviewed by faculty. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated to a maximum of 12 hours. Prerequisite(s): Consent of studentâ€™s doctoral advisor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;592.  Professional Career Training in Education Policy Studies.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Faculty supervised training through university teaching, research or field-based practice. Course Information: May be repeated to a maximum of 20 hours. Prerequisite(s): Consent of the instructor and approval of the Department Chairperson.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;593.  Doctoral Research Project.  1-8 hours.</strong></p>
+<p class="courseblockdesc">
+Students design, implement, and analyze results of a research problem in this area of specialization. Completed study is reviewed by faculty. Course Information: May be repeated to a maximum of 8 hours. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;594.  Special Topics in Educational Policy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Exploration of an area not covered in existing course offerings. Topics vary. Course Information: May be repeated to a maximum of 12 hours. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;596.  Independent Study in Educational Policy Studies.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Students carry out independent study in Educational Policy Studies under the direction of a faculty member. Course Information: May be repeated to a maximum of 12 hours. Students may register in more than one section per term. Prerequisite(s): Consent of the advisor and the Department Chairperson.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS&#160;599.  Dissertation and Thesis Research in Educational Policy Studies.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Research on the topic of the student's dissertation. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Students may register in more than one section per term. Prerequisite(s): Consent of the dissertation advisor.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="edps.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

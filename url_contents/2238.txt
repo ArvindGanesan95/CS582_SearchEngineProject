@@ -1,0 +1,868 @@
+https://catalog.uic.edu/all-course-descriptions/ci/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Curriculum and Instruction (CI) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="isparent"><a href="/ucat/">Undergraduate Catalog</a></li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="active isparent"><a href="/all-course-descriptions/">All Course Descriptions</a>
+	<ul class="nav levelone" id="/all-course-descriptions/">
+		<li><a href="/all-course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+		<li><a href="/all-course-descriptions/actg/">Accounting (ACTG)</a></li>
+		<li><a href="/all-course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+		<li><a href="/all-course-descriptions/anth/">Anthropology (ANTH)</a></li>
+		<li><a href="/all-course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+		<li><a href="/all-course-descriptions/arab/">Arabic (ARAB)</a></li>
+		<li><a href="/all-course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+		<li><a href="/all-course-descriptions/arch/">Architecture (ARCH)</a></li>
+		<li><a href="/all-course-descriptions/art/">Art (ART)</a></li>
+		<li><a href="/all-course-descriptions/ah/">Art History (AH)</a></li>
+		<li><a href="/all-course-descriptions/bms/">Basic Medical Sciences (BMS)</a></li>
+		<li><a href="/all-course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+		<li><a href="/all-course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+		<li><a href="/all-course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+		<li><a href="/all-course-descriptions/bvis/">Biomedical Visualization (BVIS)</a></li>
+		<li><a href="/all-course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+		<li><a href="/all-course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+		<li><a href="/all-course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+		<li><a href="/all-course-descriptions/blst/">Black Studies (BLST)</a></li>
+		<li><a href="/all-course-descriptions/ba/">Business Administration (BA)</a></li>
+		<li><a href="/all-course-descriptions/cc/">Campus Courses (CC)</a></li>
+		<li><a href="/all-course-descriptions/cst/">Catholic Studies (CST)</a></li>
+		<li><a href="/all-course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+		<li><a href="/all-course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+		<li><a href="/all-course-descriptions/chem/">Chemistry (CHEM)</a></li>
+		<li><a href="/all-course-descriptions/chin/">Chinese (CHIN)</a></li>
+		<li><a href="/all-course-descriptions/cd/">City Design (CD)</a></li>
+		<li><a href="/all-course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+		<li><a href="/all-course-descriptions/cl/">Classics (CL)</a></li>
+		<li><a href="/all-course-descriptions/cler/">Clerkship -&#8203; Medicine (CLER)</a></li>
+		<li><a href="/all-course-descriptions/cele/">Clerkship Electives -&#8203; Chicago (CELE)</a></li>
+		<li><a href="/all-course-descriptions/pele/">Clerkship Electives -&#8203; Peoria (PELE)</a></li>
+		<li><a href="/all-course-descriptions/rele/">Clerkship Electives -&#8203; Rockford (RELE)</a></li>
+		<li><a href="/all-course-descriptions/uele/">Clerkship Electives -&#8203; Urbana (UELE)</a></li>
+		<li><a href="/all-course-descriptions/comm/">Communication (COMM)</a></li>
+		<li><a href="/all-course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+		<li><a href="/all-course-descriptions/cs/">Computer Science (CS)</a></li>
+		<li><a href="/all-course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+		<li class="active self"><a href="#" onclick="return false;">Curriculum and Instruction (CI)</a></li>
+		<li><a href="/all-course-descriptions/dadm/">Dental Administration (DADM)</a></li>
+		<li><a href="/all-course-descriptions/daob/">Dentistry -&#8203; Applied Oral and Behavioral Sciences (DAOB)</a></li>
+		<li><a href="/all-course-descriptions/dbcs/">Dentistry -&#8203; Biomedical and Clinical Sciences (DBCS)</a></li>
+		<li><a href="/all-course-descriptions/dcle/">Dentistry -&#8203; Community Learning Experience (DCLE)</a></li>
+		<li><a href="/all-course-descriptions/dosi/">Dentistry -&#8203; Oral/&#8203;Systemic Issues (DOSI)</a></li>
+		<li><a href="/all-course-descriptions/dost/">Dentistry -&#8203; Oral/&#8203;Systemic Topics (DOST)</a></li>
+		<li><a href="/all-course-descriptions/des/">Design (DES)</a></li>
+		<li><a href="/all-course-descriptions/dlg/">Dialogue (DLG)</a></li>
+		<li><a href="/all-course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+		<li><a href="/all-course-descriptions/mdc/">Doctor of Medicine—Chicago (MDC)</a></li>
+		<li><a href="/all-course-descriptions/mdp/">Doctor of Medicine—Peoria (MDP)</a></li>
+		<li><a href="/all-course-descriptions/mdr/">Doctor of Medicine—Rockford (MDR)</a></li>
+		<li><a href="/all-course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+		<li><a href="/all-course-descriptions/econ/">Economics (ECON)</a></li>
+		<li><a href="/all-course-descriptions/ed/">Education (ED)</a></li>
+		<li><a href="/all-course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+		<li><a href="/all-course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+		<li><a href="/all-course-descriptions/ece/">Electrical and Computer Engineering (ECE)</a></li>
+		<li><a href="/all-course-descriptions/eb/">Employee Benefits (EB)</a></li>
+		<li><a href="/all-course-descriptions/endo/">Endodontics (ENDO)</a></li>
+		<li><a href="/all-course-descriptions/ener/">Energy Engineering (ENER)</a></li>
+		<li><a href="/all-course-descriptions/engr/">Engineering (ENGR)</a></li>
+		<li><a href="/all-course-descriptions/engl/">English (ENGL)</a></li>
+		<li><a href="/all-course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+		<li><a href="/all-course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+		<li><a href="/all-course-descriptions/eohs/">Environmental and Occupational Health Sciences (EOHS)</a></li>
+		<li><a href="/all-course-descriptions/epid/">Epidemiology (EPID)</a></li>
+		<li><a href="/all-course-descriptions/epl/">Estate Planning (EPL)</a></li>
+		<li><a href="/all-course-descriptions/fin/">Finance (FIN)</a></li>
+		<li><a href="/all-course-descriptions/fr/">French (FR)</a></li>
+		<li><a href="/all-course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+		<li><a href="/all-course-descriptions/geog/">Geography (GEOG)</a></li>
+		<li><a href="/all-course-descriptions/ger/">Germanic Studies (GER)</a></li>
+		<li><a href="/all-course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+		<li><a href="/all-course-descriptions/gc/">Graduate College (GC)</a></li>
+		<li><a href="/all-course-descriptions/gems/">Graduate Education in Medical Sciences (GEMS)</a></li>
+		<li><a href="/all-course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+		<li><a href="/all-course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+		<li><a href="/all-course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+		<li><a href="/all-course-descriptions/him/">Health Information Management (HIM)</a></li>
+		<li><a href="/all-course-descriptions/hpa/">Health Policy and Administration (HPA)</a></li>
+		<li><a href="/all-course-descriptions/hlp/">Healthy Living Practitioner™ (HLP)</a></li>
+		<li><a href="/all-course-descriptions/heb/">Hebrew (HEB)</a></li>
+		<li><a href="/all-course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+		<li><a href="/all-course-descriptions/hstl/">Histology (HSTL)</a></li>
+		<li><a href="/all-course-descriptions/hist/">History (HIST)</a></li>
+		<li><a href="/all-course-descriptions/hon/">Honors College (HON)</a></li>
+		<li><a href="/all-course-descriptions/hn/">Human Nutrition (HN)</a></li>
+		<li><a href="/all-course-descriptions/hum/">Humanities (HUM)</a></li>
+		<li><a href="/all-course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+		<li><a href="/all-course-descriptions/it/">Information Technology (IT)</a></li>
+		<li><a href="/all-course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+		<li><a href="/all-course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+		<li><a href="/all-course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+		<li><a href="/all-course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+		<li><a href="/all-course-descriptions/ip/">Intellectual Property (IP)</a></li>
+		<li><a href="/all-course-descriptions/ibt/">International Business and Trade (IBT)</a></li>
+		<li><a href="/all-course-descriptions/inst/">International Studies (INST)</a></li>
+		<li><a href="/all-course-descriptions/ital/">Italian (ITAL)</a></li>
+		<li><a href="/all-course-descriptions/jpn/">Japanese (JPN)</a></li>
+		<li><a href="/all-course-descriptions/jst/">Jewish Studies (JST)</a></li>
+		<li><a href="/all-course-descriptions/jd/">Juris Doctor (JD)</a></li>
+		<li><a href="/all-course-descriptions/kn/">Kinesiology (KN)</a></li>
+		<li><a href="/all-course-descriptions/kor/">Korean (KOR)</a></li>
+		<li><a href="/all-course-descriptions/lat/">Latin (LAT)</a></li>
+		<li><a href="/all-course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+		<li><a href="/all-course-descriptions/law/">Law (LAW)</a></li>
+		<li><a href="/all-course-descriptions/lrsc/">Learning Sciences (LRSC)</a></li>
+		<li><a href="/all-course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+		<li><a href="/all-course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+		<li><a href="/all-course-descriptions/ling/">Linguistics (LING)</a></li>
+		<li><a href="/all-course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+		<li><a href="/all-course-descriptions/lith/">Lithuanian (LITH)</a></li>
+		<li><a href="/all-course-descriptions/mgmt/">Management (MGMT)</a></li>
+		<li><a href="/all-course-descriptions/mktg/">Marketing (MKTG)</a></li>
+		<li><a href="/all-course-descriptions/mba/">Master of Business Administration (MBA)</a></li>
+		<li><a href="/all-course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+		<li><a href="/all-course-descriptions/mj/">Master of Jurisprudence (MJ)</a></li>
+		<li><a href="/all-course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+		<li><a href="/all-course-descriptions/math/">Mathematics (MATH)</a></li>
+		<li><a href="/all-course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+		<li><a href="/all-course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+		<li><a href="/all-course-descriptions/mbt/">Medical Biotechnology (MBT)</a></li>
+		<li><a href="/all-course-descriptions/mhpe/">Medical Education (MHPE)</a></li>
+		<li><a href="/all-course-descriptions/mhum/">Medical Humanities (MHUM)</a></li>
+		<li><a href="/all-course-descriptions/mdch/">Medicinal Chemistry (MDCH)</a></li>
+		<li><a href="/all-course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+		<li><a href="/all-course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+		<li><a href="/all-course-descriptions/mils/">Military Science (MILS)</a></li>
+		<li><a href="/all-course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+		<li><a href="/all-course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+		<li><a href="/all-course-descriptions/mus/">Music (MUS)</a></li>
+		<li><a href="/all-course-descriptions/nast/">Native American Studies (NAST)</a></li>
+		<li><a href="/all-course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+		<li><a href="/all-course-descriptions/ns/">Naval Science (NS)</a></li>
+		<li><a href="/all-course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+		<li><a href="/all-course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+		<li><a href="/all-course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+		<li><a href="/all-course-descriptions/nupr/">Nursing Practicum (NUPR)</a></li>
+		<li><a href="/all-course-descriptions/nusp/">Nursing Specialty (NUSP)</a></li>
+		<li><a href="/all-course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+		<li><a href="/all-course-descriptions/omds/">Oral Medicine and Diagnostic Sciences (OMDS)</a></li>
+		<li><a href="/all-course-descriptions/osci/">Oral Sciences (OSCI)</a></li>
+		<li><a href="/all-course-descriptions/osur/">Oral and Maxillofacial Surgery (OSUR)</a></li>
+		<li><a href="/all-course-descriptions/ortd/">Orthodontics (ORTD)</a></li>
+		<li><a href="/all-course-descriptions/path/">Pathology (PATH)</a></li>
+		<li><a href="/all-course-descriptions/psl/">Patient Safety Leadership (PSL)</a></li>
+		<li><a href="/all-course-descriptions/pedd/">Pediatric Dentistry (PEDD)</a></li>
+		<li><a href="/all-course-descriptions/peri/">Periodontics (PERI)</a></li>
+		<li><a href="/all-course-descriptions/psci/">Pharmaceutical Sciences (PSCI)</a></li>
+		<li><a href="/all-course-descriptions/pmpg/">Pharmacognosy (PMPG)</a></li>
+		<li><a href="/all-course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+		<li><a href="/all-course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+		<li><a href="/all-course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+		<li><a href="/all-course-descriptions/psop/">Pharmacy Systems, Outcomes, and Policy (PSOP)</a></li>
+		<li><a href="/all-course-descriptions/phil/">Philosophy (PHIL)</a></li>
+		<li><a href="/all-course-descriptions/pt/">Physical Therapy (PT)</a></li>
+		<li><a href="/all-course-descriptions/phys/">Physics (PHYS)</a></li>
+		<li><a href="/all-course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+		<li><a href="/all-course-descriptions/pol/">Polish (POL)</a></li>
+		<li><a href="/all-course-descriptions/pols/">Political Science (POLS)</a></li>
+		<li><a href="/all-course-descriptions/port/">Portuguese (PORT)</a></li>
+		<li><a href="/all-course-descriptions/prcl/">Preclinical Medicine (PRCL)</a></li>
+		<li><a href="/all-course-descriptions/ptl/">Privacy and Technology Law (PTL)</a></li>
+		<li><a href="/all-course-descriptions/pros/">Prosthodontics (PROS)</a></li>
+		<li><a href="/all-course-descriptions/psch/">Psychology (PSCH)</a></li>
+		<li><a href="/all-course-descriptions/pa/">Public Administration (PA)</a></li>
+		<li><a href="/all-course-descriptions/pubh/">Public Health (PUBH)</a></li>
+		<li><a href="/all-course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+		<li><a href="/all-course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+		<li><a href="/all-course-descriptions/re/">Real Estate (RE)</a></li>
+		<li><a href="/all-course-descriptions/rels/">Religious Studies (RELS)</a></li>
+		<li><a href="/all-course-descriptions/rest/">Restorative Dentistry (REST)</a></li>
+		<li><a href="/all-course-descriptions/russ/">Russian (RUSS)</a></li>
+		<li><a href="/all-course-descriptions/slav/">Slavic and Baltic Languages and Literatures (SLAV)</a></li>
+		<li><a href="/all-course-descriptions/sj/">Social Justice (SJ)</a></li>
+		<li><a href="/all-course-descriptions/socw/">Social Work (SOCW)</a></li>
+		<li><a href="/all-course-descriptions/soc/">Sociology (SOC)</a></li>
+		<li><a href="/all-course-descriptions/span/">Spanish (SPAN)</a></li>
+		<li><a href="/all-course-descriptions/sped/">Special Education (SPED)</a></li>
+		<li><a href="/all-course-descriptions/spec/">Specialty Medicine (SPEC)</a></li>
+		<li><a href="/all-course-descriptions/stat/">Statistics (STAT)</a></li>
+		<li><a href="/all-course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+		<li><a href="/all-course-descriptions/surg/">Surgery (SURG)</a></li>
+		<li><a href="/all-course-descriptions/tx/">Taxation (TX)</a></li>
+		<li><a href="/all-course-descriptions/thtr/">Theatre (THTR)</a></li>
+		<li><a href="/all-course-descriptions/tadr/">Trial Advocacy and Dispute Resolution (TADR)</a></li>
+		<li><a href="/all-course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+		<li><a href="/all-course-descriptions/us/">Urban Studies (US)</a></li>
+		<li><a href="/all-course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+		<li><a href="/all-course-descriptions/usl/">US Legal Studies (USL)</a></li>
+	</ul>
+	</li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/all-course-descriptions/">All&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Curriculum and Instruction (CI)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Curriculum and Instruction (CI)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="cicourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;400.  Anthropology &amp; Education.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+This course uses an anthropological approach in the study of formal and informal educational processes to understand the relationship between education, culture and society as represented in ethnographic texts. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Consent of the instructor. Recommended background: <a href="/search/?P=ED%20100" title="ED&#160;100" class="bubblelink code" onclick="return showCourse(this, 'ED 100');">ED&#160;100</a>, and <a href="/search/?P=ED%20135" title="ED&#160;135" class="bubblelink code" onclick="return showCourse(this, 'ED 135');">ED&#160;135</a>, and <a href="/search/?P=ED%20205" title="ED&#160;205" class="bubblelink code" onclick="return showCourse(this, 'ED 205');">ED&#160;205</a>; and <a href="/search/?P=ANTH%20100" title="ANTH&#160;100" class="bubblelink code" onclick="return showCourse(this, 'ANTH 100');">ANTH&#160;100</a> or <a href="/search/?P=ANTH%20101" title="ANTH&#160;101" class="bubblelink code" onclick="return showCourse(this, 'ANTH 101');">ANTH&#160;101</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;401.  Methods of Reading: Early Literacy in Urban Classrooms.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Exploration of literacy assessment and teaching (including decoding, early writing, spelling, oral language, and comprehension), with a focus on learning to read and write. Course Information: Previously listed as ED 257.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;402.  Reading and Writing in the Content Areas: Intermediate Literacy in Urban Classrooms.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Exploration of advanced aspects of literacy instruction (e.g., comprehension, writing, literacy in the content areas), with a focus on reading and writing to learn. Course Information: Previously listed as ED 340. Prerequisite(s): <a href="/search/?P=CI%20401" title="CI&#160;401" class="bubblelink code" onclick="return showCourse(this, 'CI 401');">CI&#160;401</a> and junior standing or above and admission to the Bachelor of Arts in Elementary Education program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;403.  Literacy in the Disciplines: Adolescent Literacy in Urban Classrooms.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Exploration of using literacy in disciplinary content areas, including building prior knowledge and specialized vocabulary. Course Information: Previously listed as ED 341. Prerequisite(s): Junior standing or above and admission to the B.A. in Urban Education, Concentration in Elementary Education Program. Successful completion of <a href="/search/?P=CI%20402" title="CI&#160;402" class="bubblelink code" onclick="return showCourse(this, 'CI 402');">CI&#160;402</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;404.  Teaching and Learning Mathematics in the Urban Classroom.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Helps prospective teachers create a foundation from which they can develop an exemplary mathematics teaching practice. Course Information: Previously listed as ED 342. Prerequisite(s): Junior standing or above and admission to the Bachelor of Arts in Urban Education, and <a href="/search/?P=MATH%20140" title="MATH&#160;140" class="bubblelink code" onclick="return showCourse(this, 'MATH 140');">MATH&#160;140</a> and <a href="/search/?P=MATH%20141" title="MATH&#160;141" class="bubblelink code" onclick="return showCourse(this, 'MATH 141');">MATH&#160;141</a>; or the equivalent courses.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;405.  Teaching and Learning Science in the Urban Classroom.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Learning how to teach core scientific and engineering ideas, crosscutting concepts, and practices to advance student learning with a focus on community and societal relevance. Course Information: Previously listed as ED 343. Prerequisite(s): Junior standing or above; and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;406.  Teaching and Learning Social Sciences in the Urban Classroom.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Models effective teaching of history and social sciences in urban classroom, in a way that is inclusive of diverse peoples, cultures, and histories. Students learn to teach core concepts, intellectual skills, and participatory dispositions. Course Information: Previously listed as ED 344. Prerequisite(s): Junior standing or above and admission to the Bachelor of Arts in Urban Education.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;410.  Literature, Social Studies, and the Arts in the Elementary School.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Theory and practice in curriculum development, planning instruction, and assessing learning in elementary classrooms. Literature, social studies, and the arts content foci. Course Information: Class Schedule Information:  To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;411.  Creating Learning Environments in the Elementary School.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of beliefs about teaching culture and learning in urban America in relation to the creation of learning environments with emphasis on application of state standards in classrooms and the development of a electronic teaching portfolio. Course Information: 30 hours of fieldwork required.  Prerequisite(s): Graduate standing and <a href="/search/?P=CI%20412" title="CI&#160;412" class="bubblelink code" onclick="return showCourse(this, 'CI 412');">CI&#160;412</a>. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory-Discussion, one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;412.  Dynamics of Learning Environments.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Exploration of multiculturalism and bilingualism/biculturalism in schools and families. Continued development of electronic portfolio for meeting Illinois professional teaching and technology standards. Course Information: Prerequisite(s): Graduate standing and Enrollment in M.Ed. in Elementary Education Program. Class Schedule Information: To be properly registered, students must enroll in one Laboratory-Discussion, one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;413.  Foundations of Literacy Instruction, K-8.  4 hours.</strong></p>
+<p class="courseblockdesc">
+For prospective teachers, introduction to teaching literacy K-8; examining cognitive, social, developmental perspectives; relationships between language and literacy; connections to school subjects; aligning instruction, assessment, standards. Course Information: Extensive computer use required. Word processing on writing; search engines for examining literacy curriculum, professional organizations, email networks. Prerequisite(s): Graduate standing.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;414.  Middle and High School Literacy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on the teaching of reading and writing strategies appropriate for disciplinary learning and expression. Course Information: Field work required. Prerequisite(s): Junior standing or above; and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;428.  Curriculum and Teaching in Secondary Education.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the study of curriculum and teaching. Specifically designed for graduate students wanting to become middle and high school teachers, students who are newly admitted to the secondary education program. Course Information: Credit is not given for <a href="/search/?P=CI%20428" title="CI&#160;428" class="bubblelink code" onclick="return showCourse(this, 'CI 428');">CI&#160;428</a> if the student has credit for <a href="/search/?P=ED%20430" title="ED&#160;430" class="bubblelink code" onclick="return showCourse(this, 'ED 430');">ED&#160;430</a>. Field work required. Prerequisite(s): Open only to Master's degree students in the Secondary Education Program; and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;429.  Secondary Science Education in Urban Settings.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the study of curriculum and teaching for those interested in urban education and who want to become secondary science teachers at the high school level. Course Information: Previously listed as <a href="/search/?P=CI%20529" title="CI&#160;529" class="bubblelink code" onclick="return showCourse(this, 'CI 529');">CI&#160;529</a>. Recommended Background: At least 18 credit hours of coursework in a science field.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;430.  Teaching Middle Grades Social Sciences: Content and Methods.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Models effective teaching of history and the social sciences in the urban elementary classroom grades 5-8, in a way that is inclusive of the diverse peoples, cultures, and histories that make up our society. Course Information: Prerequisite(s): Junior standing or above; or consent of the instructor. Restricted to students in the College of Education and Secondary History Education Program students in LAS.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;450.  Societal Bases of Languages, Literacies and Learning.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to social and cultural processes by which languages and literacies are learned and develop in and out of school within the broader policy and ideological contexts. Course Information: Prerequisite(s): Graduate standing.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;451.  Foundations of Writing.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to writing research, theory and practice, including writing development, processes, digital writing, pedagogy, assessment. Combines academic study of writing theory/research with guided inquiry into writing processes and pedagogy. Course Information: 3 undergraduate hours. 4 graduate hours. Previously listed as CI 544. Extensive computer use required. Prerequisite(s): <a href="/search/?P=CI%20401" title="CI&#160;401" class="bubblelink code" onclick="return showCourse(this, 'CI 401');">CI&#160;401</a> and <a href="/search/?P=CI%20402" title="CI&#160;402" class="bubblelink code" onclick="return showCourse(this, 'CI 402');">CI&#160;402</a>. Recommended background: Admission to the M.Ed. in Instructional Leadership: Literacy, Language and Learning, or the B.A. in Urban Education program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;452.  Childrenâ€™s and Young Adult Literature and Media.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Overview of trade books and media for children from preschool through adolescence. Emphasizes critically reading, selecting, evaluating materials appropriate for developmental stages, curricular connections, and students in our multicultural society. Course Information: 3 undergraduate hours. 4 graduate hours. Previously listed as CI 546.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;453.  Digital Literacies and Learning.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Theoretical foundations of digital literacies and learning focusing on critical interpretation/production involving texts, tools, and technologies that are online, mobile, and/or networked. Includes methods for teaching digital literacies P-12.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;464.  Bilingualism and Literacy in a Second Language.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Theoretical foundations of second language acquisition and the teaching of English as second language. Methods and materials for teaching reading and writing in bilingual/ESL settings. Course Information: Field work required. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;470.  Language, Culture, and Learning in Urban Classrooms.  4 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to the study of multilingualism, language development, learning, and methodologies for teaching in linguistically and culturally diverse educational settings. Course Information: Previously listed as ED 346. Field work required. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;472.  Language Proficiency Assessment and ESL Instruction.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of and practicum in English language proficiency assessment; methods, materials, and resources for assessing oral language, reading, and writing in P-12 school settings. Course Information: Field work required. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;475.  Teaching and Learning of the Natural Sciences.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Prepares teacher candidates with the knowledge, skills and dispositions needed for teaching science in urban contexts by investigating big questions and concepts in natural sciences education. Course Information: Previously listed as CI 530. Field work required. Prerequisite(s): Graduate standing; or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;481.  Foundation and Current Issues in Educating English Language Learners.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Philosophical, theoretical, socio-cultural and educational examination of learning and achievement issues that culturally and linguistically diverse students face in American schools. Course Information: Field work required. Class Schedule Information:  To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;482.  Assessment and Instruction: A Multilingual/Multicultural Perspective.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Methods and materials for teaching English language learners (ELLs) in bilingual/ESL classrooms. Emphasis upon curricular and methodological practices, assessment for academic placement, and instruction. Course Information: Field work required. Class Schedule Information:  To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;484.  Curriculum and Instruction in the Middle School.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Philosophy, curriculum, and instructional methods for teaching middle grade students (grades five through eight). Content area reading is included. Course Information: Prerequisite(s): <a href="/search/?P=EPSY%20255" title="EPSY&#160;255" class="bubblelink code" onclick="return showCourse(this, 'EPSY 255');">EPSY&#160;255</a> or both <a href="/search/?P=ED%20200" title="ED&#160;200" class="bubblelink code" onclick="return showCourse(this, 'ED 200');">ED&#160;200</a> and <a href="/search/?P=ED%20210" title="ED&#160;210" class="bubblelink code" onclick="return showCourse(this, 'ED 210');">ED&#160;210</a>; or graduate standing and either <a href="/search/?P=ED%20402" title="ED&#160;402" class="bubblelink code" onclick="return showCourse(this, 'ED 402');">ED&#160;402</a> or <a href="/search/?P=ED%20403" title="ED&#160;403" class="bubblelink code" onclick="return showCourse(this, 'ED 403');">ED&#160;403</a>, and <a href="/search/?P=ED%20421" title="ED&#160;421" class="bubblelink code" onclick="return showCourse(this, 'ED 421');">ED&#160;421</a>;  and approval of the of the College of Education.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;494.  Special Topics in Curriculum and Instruction.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Exploration of an area not covered in existing course offerings. Content varies. Course Information: May be repeated to a maximum of 12 hours. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;500.  Proseminar in Curriculum and Instruction.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Research-oriented colloquia on issues in curriculum and instruction. Serves as introduction to faculty research interests. Provides opportunity to consider issues in research design. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Prerequisite(s): Admission to the Ph.D. in Education program or consent of instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;503.  English Language Arts and Instruction in the Elementary School.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Focus on literacy instruction. Examines cultural, cognitive, linguistic, social, developmental perspectives; relationships between language and literacy; disciplinary literacies, digital literacies; aligning instruction, assessment, standards. Course Information: Prerequisite(s): <a href="/search/?P=CI%20450" title="CI&#160;450" class="bubblelink code" onclick="return showCourse(this, 'CI 450');">CI&#160;450</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;504.  Secondary Literacy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on the foundations of literacy and on the literacy processes of middle and secondary students and how these processes apply to reading and writing in the disciplines. Course Information: Field work required. Class Schedule Information:  To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;505.  Integrated Reading and Writing Instruction.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of the reading-writing relationship. Specific instructional strategies for teaching reading and writing together in the elementary grades. Course Information: Prerequisite(s): <a href="/search/?P=CI%20413" title="CI&#160;413" class="bubblelink code" onclick="return showCourse(this, 'CI 413');">CI&#160;413</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;507.  Teaching and Learning Mathematics in the Elementary School.  4 hours.</strong></p>
+<p class="courseblockdesc">
+For prospective teachers, integrating mathematics content with teaching and learning issues, including adapting and developing curriculum, planning, classroom interactions, and assessment in K-9 classrooms. Course Information: Recommended background: Admission to M.Ed. in Instructional Leadership Concentration in Elementary Education program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;508.  Teaching and Learning Science in the Elementary School.  4 hours.</strong></p>
+<p class="courseblockdesc">
+For prospective teachers,  development of multiple frameworks for facilitating the learning of science in students of various abilities, cultures, and backgrounds. Course Information: Recommended background: Admission to M.Ed. in Instructional Leadership Concentration in Elementary Education program. Class Schedule Information:  To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;509.  Literacies and Language Instruction and Assessment for Young Children.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines early literacy and language practices of children and how these develop throughout early childhood years (birth-8). Observation, teaching, and assessing are emphasized. Course Information: Field work required. Prerequisite(s): Consent of the instructor. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;511.  Student Teaching in the Elementary Grades I.  6 hours.</strong></p>
+<p class="courseblockdesc">
+Culminating course in graduate elementary teacher education. Meets Illinois State Board of Education requirements for certification. Course Information: Prerequisite(s): Completion of all professional education courses and program requirements. Must enroll concurrently in <a href="/search/?P=CI%20512" title="CI&#160;512" class="bubblelink code" onclick="return showCourse(this, 'CI 512');">CI&#160;512</a>. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;512.  Student Teaching in the Elementary Grades II.  6 hours.</strong></p>
+<p class="courseblockdesc">
+The culminating course in the graduate elementary teacher education sequence. Meets Illinois State Board of Education requirements for certification. Course Information: Prerequisite(s): Graduate standing and concurrent registration in <a href="/search/?P=CI%20511" title="CI&#160;511" class="bubblelink code" onclick="return showCourse(this, 'CI 511');">CI&#160;511</a> required. Class Schedule Information: To be properly registered, students must enroll in one Conference and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;516.  Research on Mathematics Teachers and Teaching.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Grounds students in research on mathematics teachers and teaching, while situating the literature within the broader sociopolitical context. Course Information: Prerequisite(s): Admission to the Ph.D. in Mathematics and Science Education and graduate standing; or consent of the instructor. Recommended background: Experience in STEM (science, technology, engineering, mathematics) education.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;517.  The Sociopolitical Context of Mathematics and Science Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines the sociopolitical context of mathematics and science education to understand how these domains interact with local, global, sociopolitical forces and movements. Course Information: Prerequisite(s): Admission to the Ph.D. in Mathematics and Science Education; or consent of the instructor. Recommended background: Experience in STEM (science, technology, engineering, mathematics) education.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;518.  Race, Identity, and Agency in Mathematics and Science Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Explores an emerging literature that is situated at the intersection of scholarship on race, identity, and critical mathematics and science education. Participants will analyze the theories and methods that inform these literatures. Course Information: Prerequisite(s): Admission to the Ph.D. in Mathematics and Science Education and graduate standing; or consent of the instructor. Recommended background: Experience in STEM (science, technology, engineering, mathematics) education.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;519.  Research on the Learning of Mathematics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines research on the learning of mathematics, including: whole number concepts and operations, rational numbers and proportional reasoning, algebra, functions, geometry, probability and statistics, problem solving, and proof. Course Information: Prerequisite(s): Admission to the Ph.D. in Mathematics and Science Education and graduate standing; or consent of the instructor. Recommended background: Experience in STEM (science, technology, engineering, mathematics) education.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;520.  The K-12 Mathematics Curriculum: Theory, Politics and Reform.  4 hours.</strong></p>
+<p class="courseblockdesc">
+A look at the K-12 curriculum from three perspectives: theoretical (epistemological, learning, teaching), political (whose interests are served) and practical (implementation issues in schools). Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;525.  Assessment and Instruction for Struggling Readers, K-12, Part 1.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Theoretical and practical issues concerning the etiology of reading problems and clinical diagnostic techniques. Children with reading problems are diagnosed and taught in the practicum component. Course Information: Prerequisite(s): <a href="/search/?P=CI%20450" title="CI&#160;450" class="bubblelink code" onclick="return showCourse(this, 'CI 450');">CI&#160;450</a>; and <a href="/search/?P=CI%20503" title="CI&#160;503" class="bubblelink code" onclick="return showCourse(this, 'CI 503');">CI&#160;503</a> or <a href="/search/?P=CI%20504" title="CI&#160;504" class="bubblelink code" onclick="return showCourse(this, 'CI 504');">CI&#160;504</a>; and consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;526.  Assessment and Instruction for Struggling Readers, K-12, Part 2.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Continued study of theoretical and practical issues concerning the etiology of literacy problems and clinical diagnostic and instructional techniques. Practicum inolves tutoring clients in the UIC Reading Clinic. Course Information: Prerequisite(s): <a href="/search/?P=CI%20525" title="CI&#160;525" class="bubblelink code" onclick="return showCourse(this, 'CI 525');">CI&#160;525</a>. Class Schedule Information:  To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;527.  Literacy Leadership.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Theories and practices related to the role of the literacy coach/reading specialist. Addresses data-driven strategy development; support systems for programs/personnel; curriculum design/implementation; and staff professional development in literacy.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;528.  Assessing Language and Literacy for Instruction.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of and practicum in P-12 literacy assessment and its relation to instruction. Involves conducting and interpreting specific formal and informal literacy/language assessments and drawing implications for individualized and group instruction. Course Information: Field work required. Class Schedule Information: To be properly registered, students must enroll in one Lecture/Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;529.  Secondary Science Education in Urban Settings.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the study of curriculum and teaching for those interested in urban education and who want to become secondary science teachers at the high school level. Course Information: 4 hours. Field work required. Recommended background: An undergraduate degree in a science field.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;531.  Curriculum, Instruction, and Assessment for Equity in Secondary Science Education.  5 hours.</strong></p>
+<p class="courseblockdesc">
+Developing practices of science teaching in urban secondary contexts, including understanding students and context in order to design lesson plans, differentiate instruction, enact classroom discipline, assess learning, and reflect on practices. Course Information: Field work required. Prerequisite(s): <a href="/search/?P=CI%20529" title="CI&#160;529" class="bubblelink code" onclick="return showCourse(this, 'CI 529');">CI&#160;529</a>; or consent of the instructor. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Clinical Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;533.  Language and Literacy Policy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to key issues and polices related to language and literacy instruction, particularly in schools and with linguistically and culturally diverse students. Examination of major historical movements and polices at the national, state, and local level.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;534.  Languages and Literacies In and Out of School.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Theoretical foundations of languages, literacies, and learning within, across, and outside the boundaries of classrooms and schools. Considers contexts such as online spaces, homes, community centers, workplaces, and after-school programs.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;535.  Studies in Literacy Research and Teacher Inquiry.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of methodologies and topics of reading research; decision-making processes for effective literacy instruction based on research; skills and strategies in designing teacher inquiry.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;536.  Colloquium on Literacy.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Various areas of reading, writing, and literacy including research on learning, instruction, and use. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated to a maximum of 12 hours. Prerequisite(s): Enrollment in a graduate specialization in reading, and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;538.  Literacy Instruction that Raises Achievement for All Students.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of/practicum in reading and writing instructional strategies, P-12. Addresses interventions/programs for students with literacy difficulties. Children/youth with such difficulties are assessed and taught in course practicum component. Course Information: Field work required. Prerequisite(s): Consent of the instructor. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Clinical Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;539.  Internship in Instructional Leadership.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Conceptualization, development, implementation, analysis, and interpretation of a curriculum and/or instructional improvement in an educational setting (supervised by university faculty and leadership from the setting). Course Information: May be repeated to a maximum of 8 hours. Prerequisite(s): CI 532. Class Schedule Information:  To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;540.  Linguistics for Teachers.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to linguistic concepts as they apply to teaching in a variety of contexts monolingual and bilingual classrooms. This course is designed to provide teachers with a meta-linguistic awareness in order to facilitate learning and instruction. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;541.  Oral Language: Its Development and Role in the Classroom.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of oral language acquisition and children's varying patterns of language use; study of language development for multilingual learners; analysis of classroom talk and instructional decision-making to assess and optimize student learning. Course Information: Restricted to graduate students in education, psychology, or English.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;542.  Improving School/District Literacy Achievement.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Review of research on school/factors implicated in improvement of literacy achievement. Role of empirical evidence (best practices, scientifically based research, research synthesis, beat the odds studies) in school decision making and policy. Course Information: Prerequisite(s): <a href="/search/?P=CI%20450" title="CI&#160;450" class="bubblelink code" onclick="return showCourse(this, 'CI 450');">CI&#160;450</a> and <a href="/search/?P=CI%20503" title="CI&#160;503" class="bubblelink code" onclick="return showCourse(this, 'CI 503');">CI&#160;503</a> and <a href="/search/?P=CI%20504" title="CI&#160;504" class="bubblelink code" onclick="return showCourse(this, 'CI 504');">CI&#160;504</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;545.  Educational Evaluation.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of theoretical and operational assumptions of alternative evaluation models; analysis and critique of evaluation case-studies. Course Information: Prerequisite(s): Admission to Ph.D. in Education program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;548.  Leading Improvement of Literacy Learning.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Leadership development to promote effective reading and writing instruction across the curriculum with particular attention paid to effective organizational and instructional strategies for PreK-12 students. Course Information:  Same as <a href="/search/?P=EDPS%20548" title="EDPS&#160;548" class="bubblelink code" onclick="return showCourse(this, 'EDPS 548');">EDPS&#160;548</a>.  Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;549.  Critical Pedagogy: Practice and Theory.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Examine theory and practice of social justice teaching in schools, including: history liberatory pedagogies, culturally relevant and critical pedagogies, funds of knowledge, critical multiculturalism and anti-racist pedagogy, critical race theory.  Course Information:  Same as <a href="/search/?P=EDPS%20549" title="EDPS&#160;549" class="bubblelink code" onclick="return showCourse(this, 'EDPS 549');">EDPS&#160;549</a>.  Prerequisite(s):  Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;550.  Conflicts in Curriculum.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of theoretical models for curriculum development, special attention to alternative, and often conflicting viewpoints about the particulars of the development process. Course Information: Prerequisite(s): Admission to a graduate program in education.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;551.  Practitioner Research in Science Contexts.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to practitioner research as a valid form of research, a change agent process, and lifelong professional development. Students examine practitioner research literature and methodologies and conduct their own study in science education. Course Information: Recommended background: An interest in science education and science-related field context in which to do practitioner research.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;552.  Curriculum and Cultural Context.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Influence of cultural, political, sociological, and economic factors on curriculum at the instructional, institutional, societal, and ideological levels. Course Information: Prerequisite(s): <a href="/search/?P=CI%20574" title="CI&#160;574" class="bubblelink code" onclick="return showCourse(this, 'CI 574');">CI&#160;574</a> or consent of instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;553.  History of Curriculum Thought.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of selected documents on curriculum theory and policy from antiquity to present; secondary treatments and primary sources; interaction of theory and practice. Course Information: Prerequisite(s): <a href="/search/?P=CI%20574" title="CI&#160;574" class="bubblelink code" onclick="return showCourse(this, 'CI 574');">CI&#160;574</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;556.  Proseminar in Literacy, Language and Culture.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Socialization of students into field through intensive introduction to literacy, its relationship to language and culture, using the collective knowledge and research experience of faculty. Emphases on developing student inquiry in urban contexts. Course Information: Restricted to first year doctoral students with a specialization in Literacy, Language, and Culture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;557.  Proseminar in Literacy, Language, and Culture.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Socialization of students into field through intensive introduction to literacy, its relationship to language and culture, using the collective knowledge and research experience of faculty. Emphases on developing student inquiry in urban contexts. Course Information: Restricted to first year doctoral students with a specialization in Literacy, Language, and Culture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;559.  The Social and Cultural Contexts of Literacy and Literacy Instruction.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Critical examination of theoretical and methodological orientations that inform the study of socio-cultural influences on the definition and practices of literacy in classrooms, at school level, and in out of school contexts. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;562.  Design and Conduct of Literacy Research.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Design principles for the study of literacy development and education. Emphasis is on examining lines of literacy research from multiple design perspectives; relationship between research design and theory and epistemology. Course Information: Field work required. Computer use required. Prerequisite(s): Consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;563.  Analysis of Research in Literacy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Critical analyses of literacy-related research methods, their implications for interpreting research, the forms in which research is published; manuscript review process, and ethical considerations that inform all of the above. Course Information: Prerequisite(s): <a href="/search/?P=CI%20581" title="CI&#160;581" class="bubblelink code" onclick="return showCourse(this, 'CI 581');">CI&#160;581</a> or <a href="/search/?P=CI%20586" title="CI&#160;586" class="bubblelink code" onclick="return showCourse(this, 'CI 586');">CI&#160;586</a>; and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;564.  Design and Conduct of Literacy Research.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to design principles informing the study of literacy development and education. Emphasis on conducting literacy research from multiple design perspectives; and the relationship between epistemology, theory, and research design. Course Information: Prerequisite(s):  <a href="/search/?P=ED%20502" title="ED&#160;502" class="bubblelink code" onclick="return showCourse(this, 'ED 502');">ED&#160;502</a> and <a href="/search/?P=ED%20503" title="ED&#160;503" class="bubblelink code" onclick="return showCourse(this, 'ED 503');">ED&#160;503</a> and <a href="/search/?P=CI%20563" title="CI&#160;563" class="bubblelink code" onclick="return showCourse(this, 'CI 563');">CI&#160;563</a>. Priority in enrollment will be given to students admitted into Literacy, Language, and Culture doctoral program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;566.  Research on Science Curriculum.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines issues related to K-12 science curriculum in school classrooms and how they are related to teaching and learning science. Course Information: Prerequisite(s): Graduate standing and admission to the Math &amp; Science Education concentration or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;567.  Research on Science Teaching and Teacher Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines issues related to teaching science in and out of schools and to the preparation and development of teachers of science. Course Information: Prerequisite(s): Graduate standing and admission to the Math &amp; Science Education concentration or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;568.  Research in Children's and Adolescent Literature.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Topical seminar that examines research on a specific area of children's or adolescent literature such as multicultural literature, picture books, nonfiction texts, or the development of literacy understanding in children/adolescents. Course Information: May be repeated to a maximum of 8 hours. Prerequisite(s): Consent of the instructor and an undergraduate or master's level survey course on children's/adolescent literature.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;570.  Research on Science Learning.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines science learning especially of diverse learners in formal and informal settings. Course Information: Prerequisite(s): Admission to the Math and Science Education concentration or to the M.Ed. in Instructional Leadershipâ€“Strand B or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;571.  Integrating Mathematics, Science, and ESL.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Curriculum and instructional issues and practice related to the integration of mathematics, science, and English as a Second Language development. Course Information: Prerequisite(s): <a href="/search/?P=CI%20481" title="CI&#160;481" class="bubblelink code" onclick="return showCourse(this, 'CI 481');">CI&#160;481</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;572.  Contemporary Approaches to Mathematics and Science Assessment.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Theory, research, practice and policy related to the assessment of student learning in mathematics and science and how such assessment can be designed to support teaching and learning in these disciplines. Course Information: Prerequisite(s): Admission to the Ph.D. in Mathematics and Science Education and graduate standing; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;573.  Multimodality, Multiliteracies, and Science and Mathematics Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines how different forms of communication influence learning and teaching of science and mathematics in formal and informal settings. Course Information: Prerequisite(s): Admission to the Math and Science Education concentration or to the M.Ed. in Instructional Leadershipâ€“Strand B; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;574.  Foundations of Critical Teaching and Learning: Paradigms, Perspectives, and Domains.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Critical teaching and learning focuses on historical, philosophical, cultural, and related foundations; examination of the relationship among teaching and learning and alternative paradigms. Course Information: Extensive computer use required.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;575.  Seminar in Research Issues with English Language Learners.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics on research in the education of language minority students for advanced M.Ed. and Ph.D. students. Topics vary each semester. Course Information: May be repeated to a maximum of 12 hours. Prerequisite(s): <a href="/search/?P=CI%20481" title="CI&#160;481" class="bubblelink code" onclick="return showCourse(this, 'CI 481');">CI&#160;481</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;577.  Literacy In and Out of School.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of literacy practices in formal and informal contexts. Focus on community and family contributions to literacy learning; emphasis on consequences of cultural congruity and discontinuity between in and out of school literacy practices. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;578.  Advanced Studies in Qualitative Research Methods.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The dynamics of data collection and analysis, the use of theory and interdisciplinary frameworks, and writing up and presenting original research. Course Information: Prerequisite(s): <a href="/search/?P=ED%20502" title="ED&#160;502" class="bubblelink code" onclick="return showCourse(this, 'ED 502');">ED&#160;502</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;579.  Bi-Literacy: Theory, Research, and Practice.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Theoretical foundations, research paradigms, and issues focusing on bilingual and bi-literacy practices in and between home, school and community contexts. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;581.  Perspectives on Reading: Theory, Research and Practice.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction of doctoral students to perspectives underlying theory, research, and practices related to understanding reading and reading instruction. Study of how research and practice is framed, shaped, and constrained by theoretical perspectives. Course Information: Prerequisite(s): Priority will be given to students admitted into the Literacy, Language, and Culture doctoral program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;582.  Research Perspectives on Literacy in the Disciplines.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Literacy is an integral part of expertise in the major fields of study. This course reviews the research in literacy and its related constructs in the disciplines of mathematics, science, history, and English. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;583.  Early Literacy: Theory Research and Practice.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of theories and research focusing on the initial phases of young children's acquisition of reading and writing, with emphasis on issues related to instruction. Course Information: Prerequisite(s): <a href="/search/?P=CI%20503" title="CI&#160;503" class="bubblelink code" onclick="return showCourse(this, 'CI 503');">CI&#160;503</a> and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;584.  Semiotics, Literacy, and Learning.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Theory and research focusing on language and literacy as they relate to other embodied forms of meaning-making; how these varied meanings are socially and culturally mediated; the ways in which they enable and constrain processes of learning. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;585.  Seminar in Literacy Studies.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in literacy theory, research and practice for advanced Ph.D. students. Topics vary each semester. Course Information:  May be repeated to a maximum of 12 hours. Prerequisite(s): <a href="/search/?P=CI%20563" title="CI&#160;563" class="bubblelink code" onclick="return showCourse(this, 'CI 563');">CI&#160;563</a> or the equivalent or consent of instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;586.  Perspectives on Writing Instruction: Theory, Research, and Practice.  4 hours.</strong></p>
+<p class="courseblockdesc">
+An examination of research and theoretical perspectives on writing and multimodal text construction including critical reflection on perspectives that have contributed to changes in the ways we view texts, writing, writers, and instruction. Course Information: Prerequisite(s): CI 544; and consent of the instructor. Priority in enrollment will be given to students admitted into Literacy, Language, and Culture doctoral program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;587.  Literacy Assessment: Theory, Research, and Practice.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Theory and practice in literacy assessment. Measurement issues unique to literacy assessment, including word recognition, vocabulary, comprehension and writing. Critical consideration of how assessment both enables and constrains instruction. Course Information: Prerequisite(s): <a href="/search/?P=CI%20503" title="CI&#160;503" class="bubblelink code" onclick="return showCourse(this, 'CI 503');">CI&#160;503</a> and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;589.  Literacy and Learning Technologies: Theory, Research and Practice.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Critical analyses of how technologically based, multimedia transform instruction with a focus on the design of strategies to enhance written, visual and oral literacies using linear and non linear software and on-line environments. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;590.  Alternative Paradigms of Qualitative Research in Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Methodology, cases, and rationale for action research, educational criticism, critical ethnography, historiography, and phenomenological hermeneutics as alternatives in qualitative research in education. Course Information: Prerequisite(s): <a href="/search/?P=CI%20578" title="CI&#160;578" class="bubblelink code" onclick="return showCourse(this, 'CI 578');">CI&#160;578</a> or consent of instructor; and admission to Ph.D. in Education program or Ph.D. in Public Policy Analysis program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;592.  Apprenticeship in Teacher Education.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Faculty guidance and supervision of doctoral students' teaching experience related to curriculum and instruction. Variable credit (1-4 hrs) given based upon scope of students' teaching responsibilities, and proposed reflection on them. Course Information: Prerequisite(s): Consent of the instructor and program coordinator.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;593.  Ph.D. Research Project.  1-8 hours.</strong></p>
+<p class="courseblockdesc">
+Students design, implement, and analyze results of a research problem in this area of specialization. Completed study is reviewed by faculty. Course Information: May be repeated to a maximum of 8 hours. Prerequisite(s): Admission to the Ph.D. in Education program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;594.  Special Topics in Curriculum and Instruction.  2-4 hours.</strong></p>
+<p class="courseblockdesc">
+Seminar on a preannounced topic focusing on methodology, research and educational implications of recent models of learning, problem solving and thinking. Course Information: May be repeated to a maximum of 12 hours. Students may register in more than one section per term. Prerequisite(s): Consent of instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;596.  Independent Study.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Students design, implement and analyze the results of a research problem in this area of specialization. Course Information: May be repeated to a maximum of 12 hours. Students may register in more than one section per term. Prerequisite(s): Consent of study adviser.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CI&#160;599.  Thesis Research.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Research on the topic of the student's dissertation. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Students may register in more than one section per term. Prerequisite(s): Consent of the dissertation advisor.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="ci.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

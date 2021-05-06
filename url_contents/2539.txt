@@ -1,0 +1,334 @@
+https://catalog.uic.edu/ucat/colleges-depts/business-administration/minors/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Minors &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/business-administration/">
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/actg/">Accounting</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/fin/">Finance</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/ids/">Information and Decision Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/mgmt/">Managerial Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/marketing/">Marketing</a></li>
+				<li><a href="/ucat/colleges-depts/business-administration/bba/">Bachelor of Business Administration</a></li>
+				<li class="active isparent self"><a href="#" onclick="return false;">Minors</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/business-administration/minors/">
+					<li><a href="/ucat/colleges-depts/business-administration/minors/minor-bus-adm/">Minor in Business Administration</a></li>
+					<li><a href="/ucat/colleges-depts/business-administration/minors/minor-bus-anal/">Minor in Business Analytics</a></li>
+					<li><a href="/ucat/colleges-depts/business-administration/minors/minor-entr/">Minor in Entrepreneurship</a></li>
+					<li><a href="/ucat/colleges-depts/business-administration/minors/minor-fin/">Minor in Finance</a></li>
+					<li><a href="/ucat/colleges-depts/business-administration/minors/minor-int-bus/">Minor in International Business</a></li>
+					<li><a href="/ucat/colleges-depts/business-administration/minors/minor-mgr-skill/">Minor in Leadership</a></li>
+					<li><a href="/ucat/colleges-depts/business-administration/minors/minor-mis/">Minor in Management Information Systems</a></li>
+					<li><a href="/ucat/colleges-depts/business-administration/minors/minor-bus-oper/">Minor in Supply Chain and Operations Management</a></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/business-administration/">College&nbsp;of&nbsp;Business&nbsp;Administration</a><span class="crumbsep">/</span></li><li><span class="active">Minors</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Minors</h1>
+
+
+<script type="text/javascript">
+//<![CDATA[
+	var defshow = "text";
+	var bodycontainer = "#body";
+	var validhashes = ",text,undergraduateprogramstext,";
+
+if(window.location.hash.length) {
+	var hash = cleanHash(window.location.hash);
+	if(validhashes.indexOf("," + hash + ",") != -1)
+		defshow = hash;	
+}
+var ss = document.styleSheets;
+var workss = null;
+for(var i=0; i < ss.length; i++) {
+	var currmedia = "";
+	if (typeof ss[i].media == "string") 
+		currmedia = ss[i].media
+	else if (typeof ss[i].media == "object" && ss[i].media.mediaText) 
+		currmedia = ss[i].media.mediaText;
+	
+	if((currmedia == "screen" || currmedia == "all") && (ss[i].href.indexOf("/") == 0 || ss[i].href.indexOf(document.location.host) >= 0)) {
+		workss = ss[i];
+		break;	
+	}
+}
+if(workss && workss.insertRule) {
+	workss.insertRule(".tab_content { display: none; }", workss.cssRules.length)
+	workss.insertRule(".sectionheader { display: none; }", workss.cssRules.length)
+	workss.insertRule("#" + defshow + "container { display: block; }", workss.cssRules.length)
+} else if(workss && workss.addRule) {
+	workss.addRule(".tab_content", "display: none");
+	workss.addRule(".sectionheader", "display: none");
+	workss.addRule("#" + defshow + "container", "display: block");
+}
+else {
+	if (window.console)
+		window.console.log('screen.css <link> needs attribute media="screen"');
+}
+//]]>
+</script>
+	<div id="tabs">
+		<ul class="clearfix" role="tablist">
+			<li id="texttab" role="presentation">
+<a href="#textcontainer" role="tab" aria-controls="textcontainer" onclick="return showSection('text');">Overview</a></li>
+			<li id="undergraduateprogramstexttab" role="presentation">
+<a href="#undergraduateprogramstextcontainer" role="tab" aria-controls="undergraduateprogramstextcontainer" onclick="return showSection('undergraduateprogramstext');" >Programs and Requirements</a></li>
+		</ul>
+	</div>
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p>The College of Business Administration (CBA) offers minors in the following areas:</p>
+<p><strong>Available to only CBA students:</strong></p>
+<ul>
+	<li>International Business</li>
+</ul>
+<p><strong>Available to only non-CBA students:</strong></p>
+<ul>
+	<li>Business Administration</li>
+</ul>
+<p><strong>Available to both CBA and non-CBA students:</strong></p>
+<ul>
+	<li>Business Analytics</li>
+	<li>Entrepreneurship</li>
+	<li>Finance</li>
+	<li>Leadership</li>
+	<li>Management Information Systems</li>
+	<li>Supply Chain and Operations Management</li>
+</ul>
+<p>Completion of one of these programs will be noted on the official UIC transcript upon graduation.</p>
+<h2>Minor in Business Administration</h2>
+<p>The Minor in Business Administration is open to students enrolled in colleges outside the CBA. Students must also consult their home colleges about the acceptability and applicability of the Core Business Administration course credits toward their degrees. Students pursuing this minor need to apply by submitting the the <a href="https://illinois.edu/fb/sec/1138912" target="_blank">Minor Application for Non-CBA Students</a> online. A minimum cumulative grade point average of 2.50/4.00 is required for the minor field.</p>
+<h2>Minor in Business Analytics</h2>
+<p>Business analytics focuses on the use of data driven, analytical, and computing approaches for effective business decision making and management. Data mining, predictive modeling, forecasting, business intelligence analysis, and simulation have become critical across business functions such as marketing, finance, and human resource management. The Business Analytics minor helps students develop skills in these areas and enhances their knowledge and marketability. The minor program is open to majors from other units and colleges. <a href="https://illinois.edu/fb/sec/1138912" target="_blank">Non-CBA students must submit a request form online</a>. Students must also consult their home colleges about the acceptability and applicability of the Information and Decision Sciences course credit toward their degree. A minimum cumulative grade point average of 2.50/4.00 is required for admission to and completion of the minor field.</p>
+<h2>Minor in Entrepreneurship</h2>
+<p>The Entrepreneurship minor program is open to students from all UIC colleges. <a href="https://illinois.edu/fb/sec/1138912" target="_blank">Non-CBA students must submit a request form online</a>. Students must also consult their home colleges about the acceptability and applicability of the course credits toward their degrees. A minimum cumulative grade point average of 2.50/4.00 is required to be approved to take the minor.</p>
+<h2>Minor in Finance</h2>
+<p>The Minor in Finance introduces the student to the principles of finance, applies these principles to analyzing several financial issues, and develops problem-solving and quantitative skills that are widely used in business.</p>
+<p>The Minor in Finance is open to undergraduate students from any unit and college at UIC. <a href="https://illinois.edu/fb/sec/1138912" target="_blank">Non-CBA students must submit a request form online</a> in order to be considered for enrollment in the Minor in Finance. Students must consult their home colleges about the acceptability and applicability of Finance course credit toward their degree. A minimum cumulative grade point average of 2.50/4.00 is required for admission to and completion of the minor field.</p>
+<p>Students majoring in non-finance CBA majors can apply any finance courses taken to satisfy elective requirements toward both the minor and as electives toward the degree.</p>
+<h2>Minor in International Business</h2>
+<p>The College of Business Administration offers a minor in International Business for undergraduate students in the College of Business Administration. The minor is an option that students may choose if they wish to complement their major field of study with knowledge in the area of international business.</p>
+<h2>Minor in Leadership</h2>
+<p>The College of Business Administration offers a Minor in Leadership to all undergraduate students, except CBA students majoring in management or human resource management. Effective management of people and projects is essential for private, public, and nonprofit organizations in all fields. Business students who aspire to leadership roles in their work life will need strong managerial skills in order to advance. The Leadership minor offers course work that encompasses the basic skill set needed for successful management and leadership.</p>
+<h2>Minor in Management Information Systems</h2>
+<p>Information systems are transforming business management. They have become critical to performing almost every function of business. The Management Information Systems minor trains students in the software, tools, and systems that are widely used across business. Students develop database and system design skills, computing and programming skills, including Internet technologies, process analysis, modeling, simulation, and problem-solving skills. The minor program is open to majors from other units and colleges. <a href="https://illinois.edu/fb/sec/1138912" target="_blank">Non-CBA students must submit a request form online to enroll</a>. Students must also consult their home colleges about the acceptability and applicability of the Information and Decision Sciences course credit toward their degree. A minimum cumulative grade point average of 2.50/4.00 is required for admission to and completion of the minor field.</p>
+<h2>Minor in Supply Chain and Operations Management</h2>
+<p>Streamlining business operations, coordinating complex supply chains, and managing customer relations have become critical success factors in business administration. The Supply Chain and Operations Management minor trains students in these skills and makes them marketable. The minor program is open to majors from other units and colleges. <a href="https://illinois.edu/fb/sec/1138912" target="_blank">Non-CBA students must submit a request form online</a>. Students must also consult their home colleges about the acceptability and applicability of the Information and Decision Sciences course credit toward their degree.  A minimum cumulative grade point average of 2.50/4.00 is required for admission to and completion of the minor field.</p></div><!--end #textcontainer -->
+
+			<div id="undergraduateprogramstextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="undergraduateprogramstexttab" aria-hidden="true">
+				<a name="undergraduateprogramstext"></a><h2>Minors</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/business-administration/minors/minor-bus-adm/">Minor in Business Administration</a></li>
+	<li><a href="/ucat/colleges-depts/business-administration/minors/minor-bus-anal/">Minor in Business Analytics</a></li>
+	<li><a href="/ucat/colleges-depts/business-administration/minors/minor-entr/">Minor in Entrepreneurship</a></li>
+	<li><a href="/ucat/colleges-depts/business-administration/minors/minor-fin/">Minor in Finance</a></li>
+	<li><a href="/ucat/colleges-depts/business-administration/minors/minor-int-bus/">Minor in International Business</a></li>
+	<li><a href="/ucat/colleges-depts/business-administration/minors/minor-mis/">Minor in Management Information Systems</a></li>
+	<li><a href="/ucat/colleges-depts/business-administration/minors/minor-mgr-skill/">Minor in Managerial Skills</a></li>
+	<li><a href="/ucat/colleges-depts/business-administration/minors/minor-bus-oper/">Minor in Supply Chain and Operations Management</a></li>
+</ul>
+			</div>
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="minors.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

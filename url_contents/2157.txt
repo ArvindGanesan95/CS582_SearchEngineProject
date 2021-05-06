@@ -1,0 +1,778 @@
+https://catalog.uic.edu/all-course-descriptions/soc/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Sociology (SOC) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="isparent"><a href="/ucat/">Undergraduate Catalog</a></li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="active isparent"><a href="/all-course-descriptions/">All Course Descriptions</a>
+	<ul class="nav levelone" id="/all-course-descriptions/">
+		<li><a href="/all-course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+		<li><a href="/all-course-descriptions/actg/">Accounting (ACTG)</a></li>
+		<li><a href="/all-course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+		<li><a href="/all-course-descriptions/anth/">Anthropology (ANTH)</a></li>
+		<li><a href="/all-course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+		<li><a href="/all-course-descriptions/arab/">Arabic (ARAB)</a></li>
+		<li><a href="/all-course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+		<li><a href="/all-course-descriptions/arch/">Architecture (ARCH)</a></li>
+		<li><a href="/all-course-descriptions/art/">Art (ART)</a></li>
+		<li><a href="/all-course-descriptions/ah/">Art History (AH)</a></li>
+		<li><a href="/all-course-descriptions/bms/">Basic Medical Sciences (BMS)</a></li>
+		<li><a href="/all-course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+		<li><a href="/all-course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+		<li><a href="/all-course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+		<li><a href="/all-course-descriptions/bvis/">Biomedical Visualization (BVIS)</a></li>
+		<li><a href="/all-course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+		<li><a href="/all-course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+		<li><a href="/all-course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+		<li><a href="/all-course-descriptions/blst/">Black Studies (BLST)</a></li>
+		<li><a href="/all-course-descriptions/ba/">Business Administration (BA)</a></li>
+		<li><a href="/all-course-descriptions/cc/">Campus Courses (CC)</a></li>
+		<li><a href="/all-course-descriptions/cst/">Catholic Studies (CST)</a></li>
+		<li><a href="/all-course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+		<li><a href="/all-course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+		<li><a href="/all-course-descriptions/chem/">Chemistry (CHEM)</a></li>
+		<li><a href="/all-course-descriptions/chin/">Chinese (CHIN)</a></li>
+		<li><a href="/all-course-descriptions/cd/">City Design (CD)</a></li>
+		<li><a href="/all-course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+		<li><a href="/all-course-descriptions/cl/">Classics (CL)</a></li>
+		<li><a href="/all-course-descriptions/cler/">Clerkship -&#8203; Medicine (CLER)</a></li>
+		<li><a href="/all-course-descriptions/cele/">Clerkship Electives -&#8203; Chicago (CELE)</a></li>
+		<li><a href="/all-course-descriptions/pele/">Clerkship Electives -&#8203; Peoria (PELE)</a></li>
+		<li><a href="/all-course-descriptions/rele/">Clerkship Electives -&#8203; Rockford (RELE)</a></li>
+		<li><a href="/all-course-descriptions/uele/">Clerkship Electives -&#8203; Urbana (UELE)</a></li>
+		<li><a href="/all-course-descriptions/comm/">Communication (COMM)</a></li>
+		<li><a href="/all-course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+		<li><a href="/all-course-descriptions/cs/">Computer Science (CS)</a></li>
+		<li><a href="/all-course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+		<li><a href="/all-course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+		<li><a href="/all-course-descriptions/dadm/">Dental Administration (DADM)</a></li>
+		<li><a href="/all-course-descriptions/daob/">Dentistry -&#8203; Applied Oral and Behavioral Sciences (DAOB)</a></li>
+		<li><a href="/all-course-descriptions/dbcs/">Dentistry -&#8203; Biomedical and Clinical Sciences (DBCS)</a></li>
+		<li><a href="/all-course-descriptions/dcle/">Dentistry -&#8203; Community Learning Experience (DCLE)</a></li>
+		<li><a href="/all-course-descriptions/dosi/">Dentistry -&#8203; Oral/&#8203;Systemic Issues (DOSI)</a></li>
+		<li><a href="/all-course-descriptions/dost/">Dentistry -&#8203; Oral/&#8203;Systemic Topics (DOST)</a></li>
+		<li><a href="/all-course-descriptions/des/">Design (DES)</a></li>
+		<li><a href="/all-course-descriptions/dlg/">Dialogue (DLG)</a></li>
+		<li><a href="/all-course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+		<li><a href="/all-course-descriptions/mdc/">Doctor of Medicine—Chicago (MDC)</a></li>
+		<li><a href="/all-course-descriptions/mdp/">Doctor of Medicine—Peoria (MDP)</a></li>
+		<li><a href="/all-course-descriptions/mdr/">Doctor of Medicine—Rockford (MDR)</a></li>
+		<li><a href="/all-course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+		<li><a href="/all-course-descriptions/econ/">Economics (ECON)</a></li>
+		<li><a href="/all-course-descriptions/ed/">Education (ED)</a></li>
+		<li><a href="/all-course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+		<li><a href="/all-course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+		<li><a href="/all-course-descriptions/ece/">Electrical and Computer Engineering (ECE)</a></li>
+		<li><a href="/all-course-descriptions/eb/">Employee Benefits (EB)</a></li>
+		<li><a href="/all-course-descriptions/endo/">Endodontics (ENDO)</a></li>
+		<li><a href="/all-course-descriptions/ener/">Energy Engineering (ENER)</a></li>
+		<li><a href="/all-course-descriptions/engr/">Engineering (ENGR)</a></li>
+		<li><a href="/all-course-descriptions/engl/">English (ENGL)</a></li>
+		<li><a href="/all-course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+		<li><a href="/all-course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+		<li><a href="/all-course-descriptions/eohs/">Environmental and Occupational Health Sciences (EOHS)</a></li>
+		<li><a href="/all-course-descriptions/epid/">Epidemiology (EPID)</a></li>
+		<li><a href="/all-course-descriptions/epl/">Estate Planning (EPL)</a></li>
+		<li><a href="/all-course-descriptions/fin/">Finance (FIN)</a></li>
+		<li><a href="/all-course-descriptions/fr/">French (FR)</a></li>
+		<li><a href="/all-course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+		<li><a href="/all-course-descriptions/geog/">Geography (GEOG)</a></li>
+		<li><a href="/all-course-descriptions/ger/">Germanic Studies (GER)</a></li>
+		<li><a href="/all-course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+		<li><a href="/all-course-descriptions/gc/">Graduate College (GC)</a></li>
+		<li><a href="/all-course-descriptions/gems/">Graduate Education in Medical Sciences (GEMS)</a></li>
+		<li><a href="/all-course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+		<li><a href="/all-course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+		<li><a href="/all-course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+		<li><a href="/all-course-descriptions/him/">Health Information Management (HIM)</a></li>
+		<li><a href="/all-course-descriptions/hpa/">Health Policy and Administration (HPA)</a></li>
+		<li><a href="/all-course-descriptions/hlp/">Healthy Living Practitioner™ (HLP)</a></li>
+		<li><a href="/all-course-descriptions/heb/">Hebrew (HEB)</a></li>
+		<li><a href="/all-course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+		<li><a href="/all-course-descriptions/hstl/">Histology (HSTL)</a></li>
+		<li><a href="/all-course-descriptions/hist/">History (HIST)</a></li>
+		<li><a href="/all-course-descriptions/hon/">Honors College (HON)</a></li>
+		<li><a href="/all-course-descriptions/hn/">Human Nutrition (HN)</a></li>
+		<li><a href="/all-course-descriptions/hum/">Humanities (HUM)</a></li>
+		<li><a href="/all-course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+		<li><a href="/all-course-descriptions/it/">Information Technology (IT)</a></li>
+		<li><a href="/all-course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+		<li><a href="/all-course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+		<li><a href="/all-course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+		<li><a href="/all-course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+		<li><a href="/all-course-descriptions/ip/">Intellectual Property (IP)</a></li>
+		<li><a href="/all-course-descriptions/ibt/">International Business and Trade (IBT)</a></li>
+		<li><a href="/all-course-descriptions/inst/">International Studies (INST)</a></li>
+		<li><a href="/all-course-descriptions/ital/">Italian (ITAL)</a></li>
+		<li><a href="/all-course-descriptions/jpn/">Japanese (JPN)</a></li>
+		<li><a href="/all-course-descriptions/jst/">Jewish Studies (JST)</a></li>
+		<li><a href="/all-course-descriptions/jd/">Juris Doctor (JD)</a></li>
+		<li><a href="/all-course-descriptions/kn/">Kinesiology (KN)</a></li>
+		<li><a href="/all-course-descriptions/kor/">Korean (KOR)</a></li>
+		<li><a href="/all-course-descriptions/lat/">Latin (LAT)</a></li>
+		<li><a href="/all-course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+		<li><a href="/all-course-descriptions/law/">Law (LAW)</a></li>
+		<li><a href="/all-course-descriptions/lrsc/">Learning Sciences (LRSC)</a></li>
+		<li><a href="/all-course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+		<li><a href="/all-course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+		<li><a href="/all-course-descriptions/ling/">Linguistics (LING)</a></li>
+		<li><a href="/all-course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+		<li><a href="/all-course-descriptions/lith/">Lithuanian (LITH)</a></li>
+		<li><a href="/all-course-descriptions/mgmt/">Management (MGMT)</a></li>
+		<li><a href="/all-course-descriptions/mktg/">Marketing (MKTG)</a></li>
+		<li><a href="/all-course-descriptions/mba/">Master of Business Administration (MBA)</a></li>
+		<li><a href="/all-course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+		<li><a href="/all-course-descriptions/mj/">Master of Jurisprudence (MJ)</a></li>
+		<li><a href="/all-course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+		<li><a href="/all-course-descriptions/math/">Mathematics (MATH)</a></li>
+		<li><a href="/all-course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+		<li><a href="/all-course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+		<li><a href="/all-course-descriptions/mbt/">Medical Biotechnology (MBT)</a></li>
+		<li><a href="/all-course-descriptions/mhpe/">Medical Education (MHPE)</a></li>
+		<li><a href="/all-course-descriptions/mhum/">Medical Humanities (MHUM)</a></li>
+		<li><a href="/all-course-descriptions/mdch/">Medicinal Chemistry (MDCH)</a></li>
+		<li><a href="/all-course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+		<li><a href="/all-course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+		<li><a href="/all-course-descriptions/mils/">Military Science (MILS)</a></li>
+		<li><a href="/all-course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+		<li><a href="/all-course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+		<li><a href="/all-course-descriptions/mus/">Music (MUS)</a></li>
+		<li><a href="/all-course-descriptions/nast/">Native American Studies (NAST)</a></li>
+		<li><a href="/all-course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+		<li><a href="/all-course-descriptions/ns/">Naval Science (NS)</a></li>
+		<li><a href="/all-course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+		<li><a href="/all-course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+		<li><a href="/all-course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+		<li><a href="/all-course-descriptions/nupr/">Nursing Practicum (NUPR)</a></li>
+		<li><a href="/all-course-descriptions/nusp/">Nursing Specialty (NUSP)</a></li>
+		<li><a href="/all-course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+		<li><a href="/all-course-descriptions/omds/">Oral Medicine and Diagnostic Sciences (OMDS)</a></li>
+		<li><a href="/all-course-descriptions/osci/">Oral Sciences (OSCI)</a></li>
+		<li><a href="/all-course-descriptions/osur/">Oral and Maxillofacial Surgery (OSUR)</a></li>
+		<li><a href="/all-course-descriptions/ortd/">Orthodontics (ORTD)</a></li>
+		<li><a href="/all-course-descriptions/path/">Pathology (PATH)</a></li>
+		<li><a href="/all-course-descriptions/psl/">Patient Safety Leadership (PSL)</a></li>
+		<li><a href="/all-course-descriptions/pedd/">Pediatric Dentistry (PEDD)</a></li>
+		<li><a href="/all-course-descriptions/peri/">Periodontics (PERI)</a></li>
+		<li><a href="/all-course-descriptions/psci/">Pharmaceutical Sciences (PSCI)</a></li>
+		<li><a href="/all-course-descriptions/pmpg/">Pharmacognosy (PMPG)</a></li>
+		<li><a href="/all-course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+		<li><a href="/all-course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+		<li><a href="/all-course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+		<li><a href="/all-course-descriptions/psop/">Pharmacy Systems, Outcomes, and Policy (PSOP)</a></li>
+		<li><a href="/all-course-descriptions/phil/">Philosophy (PHIL)</a></li>
+		<li><a href="/all-course-descriptions/pt/">Physical Therapy (PT)</a></li>
+		<li><a href="/all-course-descriptions/phys/">Physics (PHYS)</a></li>
+		<li><a href="/all-course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+		<li><a href="/all-course-descriptions/pol/">Polish (POL)</a></li>
+		<li><a href="/all-course-descriptions/pols/">Political Science (POLS)</a></li>
+		<li><a href="/all-course-descriptions/port/">Portuguese (PORT)</a></li>
+		<li><a href="/all-course-descriptions/prcl/">Preclinical Medicine (PRCL)</a></li>
+		<li><a href="/all-course-descriptions/ptl/">Privacy and Technology Law (PTL)</a></li>
+		<li><a href="/all-course-descriptions/pros/">Prosthodontics (PROS)</a></li>
+		<li><a href="/all-course-descriptions/psch/">Psychology (PSCH)</a></li>
+		<li><a href="/all-course-descriptions/pa/">Public Administration (PA)</a></li>
+		<li><a href="/all-course-descriptions/pubh/">Public Health (PUBH)</a></li>
+		<li><a href="/all-course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+		<li><a href="/all-course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+		<li><a href="/all-course-descriptions/re/">Real Estate (RE)</a></li>
+		<li><a href="/all-course-descriptions/rels/">Religious Studies (RELS)</a></li>
+		<li><a href="/all-course-descriptions/rest/">Restorative Dentistry (REST)</a></li>
+		<li><a href="/all-course-descriptions/russ/">Russian (RUSS)</a></li>
+		<li><a href="/all-course-descriptions/slav/">Slavic and Baltic Languages and Literatures (SLAV)</a></li>
+		<li><a href="/all-course-descriptions/sj/">Social Justice (SJ)</a></li>
+		<li><a href="/all-course-descriptions/socw/">Social Work (SOCW)</a></li>
+		<li class="active self"><a href="#" onclick="return false;">Sociology (SOC)</a></li>
+		<li><a href="/all-course-descriptions/span/">Spanish (SPAN)</a></li>
+		<li><a href="/all-course-descriptions/sped/">Special Education (SPED)</a></li>
+		<li><a href="/all-course-descriptions/spec/">Specialty Medicine (SPEC)</a></li>
+		<li><a href="/all-course-descriptions/stat/">Statistics (STAT)</a></li>
+		<li><a href="/all-course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+		<li><a href="/all-course-descriptions/surg/">Surgery (SURG)</a></li>
+		<li><a href="/all-course-descriptions/tx/">Taxation (TX)</a></li>
+		<li><a href="/all-course-descriptions/thtr/">Theatre (THTR)</a></li>
+		<li><a href="/all-course-descriptions/tadr/">Trial Advocacy and Dispute Resolution (TADR)</a></li>
+		<li><a href="/all-course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+		<li><a href="/all-course-descriptions/us/">Urban Studies (US)</a></li>
+		<li><a href="/all-course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+		<li><a href="/all-course-descriptions/usl/">US Legal Studies (USL)</a></li>
+	</ul>
+	</li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/all-course-descriptions/">All&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Sociology (SOC)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Sociology (SOC)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="soccourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;100.  Introduction to Sociology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of human societies, organizations and groups, and the interrelations among individuals, groups, and societies. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture-Discussion.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;105.  Social Problems.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Contemporary social problems examined from the perspectives of social institutions, culture, inequality, organizations and groups, political and economic structure, social change, and social policy. Course Information: May be substituted for <a href="/search/?P=SOC%20100" title="SOC&#160;100" class="bubblelink code" onclick="return showCourse(this, 'SOC 100');">SOC&#160;100</a> as a prerequisite for other sociology courses.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;120.  Introduction to Asian American Studies.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Overview of Asian American experiences and perspectives in socio-historical context.  Introduction to major concepts, issues, and debates in the field of Asian American Studies. Course Information: Same as <a href="/search/?P=GLAS%20120" title="GLAS&#160;120" class="bubblelink code" onclick="return showCourse(this, 'GLAS 120');">GLAS&#160;120</a>. Previously listed as SOC 125. Class Schedule Information: To be properly registered, students must enroll in one Discussion and one Lecture.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;201.  Introductory Sociological Statistics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to the basic statistical methods used in the analysis of sociological data. 3 hours of lecture and 2 hours of laboratory per week. Course Information: Prerequisite(s): <a href="/search/?P=SOC%20100" title="SOC&#160;100" class="bubblelink code" onclick="return showCourse(this, 'SOC 100');">SOC&#160;100</a> or <a href="/search/?P=SOC%20105" title="SOC&#160;105" class="bubblelink code" onclick="return showCourse(this, 'SOC 105');">SOC&#160;105</a> and either <a href="/search/?P=MATH%20090" title="MATH&#160;090" class="bubblelink code" onclick="return showCourse(this, 'MATH 090');">MATH&#160;090</a> or <a href="/search/?P=MATH%20105" title="MATH&#160;105" class="bubblelink code" onclick="return showCourse(this, 'MATH 105');">MATH&#160;105</a> or the equivalent or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture-Discussion.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;203.  The African American Family in the United States.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of the structure and functioning of the African American family. Historical and contemporary analyses. Course Information: Same as AAST 203. Prerequisite(s): AAST 100 or <a href="/search/?P=SOC%20100" title="SOC&#160;100" class="bubblelink code" onclick="return showCourse(this, 'SOC 100');">SOC&#160;100</a> or consent of the instructor.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;207.  Racism: Global Perspectives.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to global, transnational, and comparative perspectives on racism. Analysis of race and racism not only in the United States, but also in Africa, the Middle East, Latin America, Europe, and other contexts. Course Information: Same as <a href="/search/?P=BLST%20207" title="BLST&#160;207" class="bubblelink code" onclick="return showCourse(this, 'BLST 207');">BLST&#160;207</a>. Prerequisite(s): <a href="/search/?P=ENGL%20160" title="ENGL&#160;160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL&#160;160</a> or <a href="/search/?P=ENGL%20161" title="ENGL&#160;161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL&#160;161</a>.<i>  Individual and Society course, and  World Cultures course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;212.  Human Sexuality: Social Perspectives.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Historical and cultural perspectives on contemporary American sexuality; knowledge, attitudes, and practices; sexuality over the life cycle, socialization; affection, interpersonal attraction; marriage, law, other institutions. Course Information: Prerequisite(s): <a href="/search/?P=SOC%20100" title="SOC&#160;100" class="bubblelink code" onclick="return showCourse(this, 'SOC 100');">SOC&#160;100</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;215.  Sociology of Childhood and Youth.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Explores the meanings and social position of children and youth in society and examines how contemporary ideas about these categories emerged. Course Information: Prerequisite(s): <a href="/search/?P=SOC%20100" title="SOC&#160;100" class="bubblelink code" onclick="return showCourse(this, 'SOC 100');">SOC&#160;100</a> or <a href="/search/?P=SOC%20105" title="SOC&#160;105" class="bubblelink code" onclick="return showCourse(this, 'SOC 105');">SOC&#160;105</a>; or consent of the instructor.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;224.  Gender and Society.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Sociological perspectives on gender as a factor in social stratification; gender role acquisition; individual and social consequences of changing social definitions of gender roles. Course Information: Same as <a href="/search/?P=GWS%20224" title="GWS&#160;224" class="bubblelink code" onclick="return showCourse(this, 'GWS 224');">GWS&#160;224</a>. Prerequisite(s): <a href="/search/?P=SOC%20100" title="SOC&#160;100" class="bubblelink code" onclick="return showCourse(this, 'SOC 100');">SOC&#160;100</a> or <a href="/search/?P=GWS%20101" title="GWS&#160;101" class="bubblelink code" onclick="return showCourse(this, 'GWS 101');">GWS&#160;101</a> or <a href="/search/?P=GWS%20102" title="GWS&#160;102" class="bubblelink code" onclick="return showCourse(this, 'GWS 102');">GWS&#160;102</a>.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;225.  Racial and Ethnic Groups.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Sociological and social-psychological analysis of racial, religious, and other ethnic groups; consideration of historical and current social problems arising from their relationships in society. Course Information: Same as <a href="/search/?P=BLST%20225" title="BLST&#160;225" class="bubblelink code" onclick="return showCourse(this, 'BLST 225');">BLST&#160;225</a> and <a href="/search/?P=LALS%20225" title="LALS&#160;225" class="bubblelink code" onclick="return showCourse(this, 'LALS 225');">LALS&#160;225</a>. Prerequisite(s): <a href="/search/?P=SOC%20100" title="SOC&#160;100" class="bubblelink code" onclick="return showCourse(this, 'SOC 100');">SOC&#160;100</a>; or consent of the instructor.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;226.  Latinas in the United States.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Socioeconomic conditions and cultural experiences of Latinas in the U.S. Historical and contemporary views of labor, health, education, family, identity formation and leadership. Course Information: Same as <a href="/search/?P=GWS%20276" title="GWS&#160;276" class="bubblelink code" onclick="return showCourse(this, 'GWS 276');">GWS&#160;276</a> and <a href="/search/?P=LALS%20276" title="LALS&#160;276" class="bubblelink code" onclick="return showCourse(this, 'LALS 276');">LALS&#160;276</a>. Grade of C or better in <a href="/search/?P=ENGL%20160" title="ENGL&#160;160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL&#160;160</a>; Grade of C or better or concurrent registration in <a href="/search/?P=ENGL%20161" title="ENGL&#160;161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL&#160;161</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;228.  Sociology of Asia and Asian Americans.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Asian and Asian-American culture, institutions, and organization; immigration, population, settlement patterns; occupations and poverty; family and ethnic identification; inequality and politics; values, prejudice, discrimination. Course Information: Same as <a href="/search/?P=GLAS%20228" title="GLAS&#160;228" class="bubblelink code" onclick="return showCourse(this, 'GLAS 228');">GLAS&#160;228</a>. Prerequisite(s): <a href="/search/?P=SOC%20100" title="SOC&#160;100" class="bubblelink code" onclick="return showCourse(this, 'SOC 100');">SOC&#160;100</a>.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;229.  Sociology of Latinos.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines social, political and economic issues affecting Latino groups.   While focusing on the process of racialization, the course also examines immigration, language rights, gender and sexuality, labor market, media, and youth. Course Information: Same as <a href="/search/?P=LALS%20229" title="LALS&#160;229" class="bubblelink code" onclick="return showCourse(this, 'LALS 229');">LALS&#160;229</a>. Prerequisite(s): <a href="/search/?P=SOC%20100" title="SOC&#160;100" class="bubblelink code" onclick="return showCourse(this, 'SOC 100');">SOC&#160;100</a> or <a href="/search/?P=LALS%20102" title="LALS&#160;102" class="bubblelink code" onclick="return showCourse(this, 'LALS 102');">LALS&#160;102</a> or <a href="/search/?P=SOC%20105" title="SOC&#160;105" class="bubblelink code" onclick="return showCourse(this, 'SOC 105');">SOC&#160;105</a> or <a href="/search/?P=LALS%20103" title="LALS&#160;103" class="bubblelink code" onclick="return showCourse(this, 'LALS 103');">LALS&#160;103</a>; or consent of the instructor.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;231.  Criminology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introductory survey of theories exploring the origins, organization, meanings, and control of crime. Course Information: Same as <a href="/search/?P=CLJ%20220" title="CLJ&#160;220" class="bubblelink code" onclick="return showCourse(this, 'CLJ 220');">CLJ&#160;220</a>. Prerequisite(s): <a href="/search/?P=CLJ%20101" title="CLJ&#160;101" class="bubblelink code" onclick="return showCourse(this, 'CLJ 101');">CLJ&#160;101</a>. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;241.  Social Inequalities.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Dimensions of inequality: economy, education, housing, health care; power, status and self-esteem; inequality, and social policy. Course Information: Prerequisite(s): <a href="/search/?P=SOC%20100" title="SOC&#160;100" class="bubblelink code" onclick="return showCourse(this, 'SOC 100');">SOC&#160;100</a>.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;244.  Sociology of Work.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Impact of bureaucracy, technology, and automation; changing composition of labor force: women, youth, elderly, racial and ethnic minorities; international comparisons; policy implications. Course Information: Prerequisite(s): <a href="/search/?P=SOC%20100" title="SOC&#160;100" class="bubblelink code" onclick="return showCourse(this, 'SOC 100');">SOC&#160;100</a> or <a href="/search/?P=SOC%20105" title="SOC&#160;105" class="bubblelink code" onclick="return showCourse(this, 'SOC 105');">SOC&#160;105</a>; or consent of the instructor.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;245.  Marriage and Family.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The family as an interactional system, an organization, and a social institution; extended family ties, mate selection, marital roles, socialization, marital dissolution, family life course and change. Course Information: Prerequisite(s): <a href="/search/?P=SOC%20100" title="SOC&#160;100" class="bubblelink code" onclick="return showCourse(this, 'SOC 100');">SOC&#160;100</a>.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;246.  Sociology of Religion.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of the structures and functions of religious institutions in modern society.Special attention to the interplay between religion and other social phenomena, such as economics, politics, and secular culture. Course Information: Same as <a href="/search/?P=RELS%20246" title="RELS&#160;246" class="bubblelink code" onclick="return showCourse(this, 'RELS 246');">RELS&#160;246</a>. Occasional field trips. Prerequisite(s): One social sciences Course Distribution Credit  (CDC) course and sophomore standing. Class Schedule Information:  To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;251.  Health and Medicine.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Health care systems; special emphasis on United States; dimensions of wellness and sickness including mental health; health providers, organizations, and institutions and their relations. Course Information: Prerequisite(s): <a href="/search/?P=SOC%20100" title="SOC&#160;100" class="bubblelink code" onclick="return showCourse(this, 'SOC 100');">SOC&#160;100</a> or <a href="/search/?P=SOC%20105" title="SOC&#160;105" class="bubblelink code" onclick="return showCourse(this, 'SOC 105');">SOC&#160;105</a>; or consent of the instructor.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;258.  Race and Urban Life.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines the experiences of Blacks in urban areas since the 1900's. Course Information: Same as <a href="/search/?P=BLST%20258" title="BLST&#160;258" class="bubblelink code" onclick="return showCourse(this, 'BLST 258');">BLST&#160;258</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;265.  Sociology of Politics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The exercise of power and power structures; alternative political systems; relationship between state and society; political attitudes, participation, and organizations; political change, reform, and revolution. Course Information: Prerequisite(s): <a href="/search/?P=SOC%20100" title="SOC&#160;100" class="bubblelink code" onclick="return showCourse(this, 'SOC 100');">SOC&#160;100</a>.<i>  Individual and Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;268.  Introduction to Comparative Sociology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Comparisons of population, culture, economics, politics, and social relations among contemporary societies. Relations among institutional areas and among societies. Course Information: Prerequisite(s): 3 hours of social science courses.<i>  Individual and Society course, and  World Cultures course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;271.  Race and the Politics of Incarceration.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines how incarceration and criminalization affects black people in contemporary society. Course Information: Same as <a href="/search/?P=BLST%20271" title="BLST&#160;271" class="bubblelink code" onclick="return showCourse(this, 'BLST 271');">BLST&#160;271</a> and <a href="/search/?P=CLJ%20271" title="CLJ&#160;271" class="bubblelink code" onclick="return showCourse(this, 'CLJ 271');">CLJ&#160;271</a>. Prerequisite(s): Grade of C or better or concurrent registration in <a href="/search/?P=BLST%20100" title="BLST&#160;100" class="bubblelink code" onclick="return showCourse(this, 'BLST 100');">BLST&#160;100</a> or Grade of C or better or concurrent registration in <a href="/search/?P=SOC%20100" title="SOC&#160;100" class="bubblelink code" onclick="return showCourse(this, 'SOC 100');">SOC&#160;100</a> or Grade of C or better in <a href="/search/?P=CLJ%20101" title="CLJ&#160;101" class="bubblelink code" onclick="return showCourse(this, 'CLJ 101');">CLJ&#160;101</a>.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;276.  Urban Sociology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of the history, patterns, and consequences of urban places and life in those places. Course Information: Prerequisite(s): <a href="/search/?P=SOC%20100" title="SOC&#160;100" class="bubblelink code" onclick="return showCourse(this, 'SOC 100');">SOC&#160;100</a>.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;290.  Sociology Major Orientation and Success.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces sociology majors to issues relevant to academic success and orients them to the UIC sociology departmentâ€™s intellectual life, resources and opportunities. Emphasis on exploring sociological interests and career paths. Course Information: Satisfactory/Unsatisfactory grading only. Students are advised to enroll in the course within one or two semesters after declaring the major. Prerequisite(s): <a href="/search/?P=SOC%20100" title="SOC&#160;100" class="bubblelink code" onclick="return showCourse(this, 'SOC 100');">SOC&#160;100</a> or <a href="/search/?P=SOC%20105" title="SOC&#160;105" class="bubblelink code" onclick="return showCourse(this, 'SOC 105');">SOC&#160;105</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;296.  Supervised Study or Research.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Special projects arranged in advance by faculty or student initiative. Course Information: May be repeated to a maximum of 9 hours with approval. Students may register in more than one section per term. Approval to repeat course granted by the department. Prerequisite(s): 9 hours of sociology, consent of the instructor, and approval of the department prior to registration. Class Schedule Information: This course counts toward the limited number of independent study hours accepted toward the degree and the major.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;298.  Internship in Sociological Applications.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Placement in a university or external organization where students participate in a project using sociological skills under the direction of a field supervisor. Course Information: Prerequisite(s): <a href="/search/?P=SOC%20201" title="SOC&#160;201" class="bubblelink code" onclick="return showCourse(this, 'SOC 201');">SOC&#160;201</a> and SOC 202; and approval of the department. Class Schedule Information: This course counts toward the limited number of independent study hours accepted toward the degree and the major.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;300.  Introduction to Sociological Research Methods.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of the principal methods of social research; problem and concept formation, research design, sampling reliability, internal and external validity, control of alternative explanations, ethical responsibilities of researchers. Course Information: Previously listed as SOC 202. Prerequisite(s): <a href="/search/?P=SOC%20201" title="SOC&#160;201" class="bubblelink code" onclick="return showCourse(this, 'SOC 201');">SOC&#160;201</a>; and sophomore standing or above; or <a href="/search/?P=SOC%20201" title="SOC&#160;201" class="bubblelink code" onclick="return showCourse(this, 'SOC 201');">SOC&#160;201</a> and one additional 200-level course in sociology. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;385.  Introduction to Sociological Theory.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A survey of the major approaches to explaining social pheomena drawn from representative nineteenth and twentieth-century social theorists.  Emphasis on present-day applicability of these approaches. Course Information: Prerequisite(s): Sophomore standing or above and two 200-level elective courses in sociology or consent of the instructor. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;401.  Sociological Statistics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Descriptive and inferential statistics for graduate and advanced undergraduate sociology majors and related fields. Tests of means, regression, correlation, analysis of variance, and related topics. Course Information: Prerequisite(s): <a href="/search/?P=SOC%20201" title="SOC&#160;201" class="bubblelink code" onclick="return showCourse(this, 'SOC 201');">SOC&#160;201</a> and two additional 200-level sociology electives; or graduate standing or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture-Discussion.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;402.  Intermediate Sociological Statistics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Covers general linear models emphasizing regression, analysis of variance and covariance, simple structural equation models, simple categorical methods and elementary matrix algebra. Course Information: Prerequisite(s): <a href="/search/?P=SOC%20401" title="SOC&#160;401" class="bubblelink code" onclick="return showCourse(this, 'SOC 401');">SOC&#160;401</a>. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture-Discussion.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;405.  Writing in the Social Sciences.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Leads to effective, clear writing for a social science audience. Teaches how to organize ideas, avoid tiresome jargon, and write with precision. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): 6 hours of upper-division social science courses.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;407.  Seminar in Comparative Racialization.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Provides an interdisciplinary and comparative approach to the making and remaking of &quot;race&quot; and the resultant racialized experiences of different groups in the U.S. and globally. Course Information: Same as <a href="/search/?P=BLST%20407" title="BLST&#160;407" class="bubblelink code" onclick="return showCourse(this, 'BLST 407');">BLST&#160;407</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=BLST%20207" title="BLST&#160;207" class="bubblelink code" onclick="return showCourse(this, 'BLST 207');">BLST&#160;207</a> or <a href="/search/?P=SOC%20207" title="SOC&#160;207" class="bubblelink code" onclick="return showCourse(this, 'SOC 207');">SOC&#160;207</a> or <a href="/search/?P=BLST%20225" title="BLST&#160;225" class="bubblelink code" onclick="return showCourse(this, 'BLST 225');">BLST&#160;225</a> or <a href="/search/?P=SOC%20225" title="SOC&#160;225" class="bubblelink code" onclick="return showCourse(this, 'SOC 225');">SOC&#160;225</a> or <a href="/search/?P=LALS%20225" title="LALS&#160;225" class="bubblelink code" onclick="return showCourse(this, 'LALS 225');">LALS&#160;225</a>; and senior standing or above; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;424.  Sociology of Gender.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Variety and change in gender roles; patterns and consequences of gender inequality; gender and sexuality; gender and social institutions such as family, economy. Course Information: Same as <a href="/search/?P=GWS%20425" title="GWS&#160;425" class="bubblelink code" onclick="return showCourse(this, 'GWS 425');">GWS&#160;425</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=SOC%20224" title="SOC&#160;224" class="bubblelink code" onclick="return showCourse(this, 'SOC 224');">SOC&#160;224</a>, or any 100 or 200-level GWS course and an additional 200 or 300-level elective in sociology or gender and women studies; Junior standing or above; or graduate standing; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;425.  Race and Ethnicity.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Critical examination of the conceptual frameworks and empirical findings in the study of race and ethnicity. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=SOC%20225" title="SOC&#160;225" class="bubblelink code" onclick="return showCourse(this, 'SOC 225');">SOC&#160;225</a> an additional 200- or 300- level elective in Sociology; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;426.  Topics in Race, Ethnicity, and Gender.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Intensive examination of a specialized topic in race, ethnicity and gender.  The specific topic of the course varies depending on the faculty offering it. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 2 times. Students may register in more than one section per term. Prerequisite(s): <a href="/search/?P=SOC%20224" title="SOC&#160;224" class="bubblelink code" onclick="return showCourse(this, 'SOC 224');">SOC&#160;224</a>; or <a href="/search/?P=SOC%20225" title="SOC&#160;225" class="bubblelink code" onclick="return showCourse(this, 'SOC 225');">SOC&#160;225</a>; and junior standing or above and an additional 200 or 300-level elective in sociology; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;428.  Asian/Asian American Women in the Global Economy.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines the racialization and feminization of a global division of labor and focuses primarily on Asian and Asian American women's participation and incorporation as workers and key actors in the development of the global economy. Course Information: Same as <a href="/search/?P=GLAS%20428" title="GLAS&#160;428" class="bubblelink code" onclick="return showCourse(this, 'GLAS 428');">GLAS&#160;428</a> and <a href="/search/?P=GWS%20428" title="GWS&#160;428" class="bubblelink code" onclick="return showCourse(this, 'GWS 428');">GWS&#160;428</a>. 3 undergraduate hours; 4 graduate hours. Previously listed as ASAM 428. Prerequisite(s): At least one GLAS or GWS or SOC course; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;433.  Latin American Migration to the U.S. 3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Latin American migration to the U.S. International migration theories, family remittances, transnational linkages, dual citizenship, and past and current U.S. immigration policy debates. Course Information: Same as <a href="/search/?P=LALS%20433" title="LALS&#160;433" class="bubblelink code" onclick="return showCourse(this, 'LALS 433');">LALS&#160;433</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;440.  Topics in Organizations and Institutions.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Intensive examination of a specialized topic announced when the class is scheduled. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 2 times. Students may register in more than one section per term. Prerequisite(s): <a href="/search/?P=SOC%20244" title="SOC&#160;244" class="bubblelink code" onclick="return showCourse(this, 'SOC 244');">SOC&#160;244</a> or <a href="/search/?P=MGMT%20340" title="MGMT&#160;340" class="bubblelink code" onclick="return showCourse(this, 'MGMT 340');">MGMT&#160;340</a>, and an additional 200-level sociology elective, and junior standing; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;441.  Social Stratification.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+The nature of systems of differentiation and ranking in societies and their consequences; emphasis on class structure in the United States; prestige, status, power, and social mobility in the United States and other societies. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=SOC%20241" title="SOC&#160;241" class="bubblelink code" onclick="return showCourse(this, 'SOC 241');">SOC&#160;241</a> and an additional 200 or 300-level elective in Sociology; and Junior standing or above; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;445.  Sociology of the Family.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Variety and change in family patterns; family formation and break-up; parents' and childrens' effects on each other; influences of culture and political economy; consequences for other institutions. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=SOC%20224" title="SOC&#160;224" class="bubblelink code" onclick="return showCourse(this, 'SOC 224');">SOC&#160;224</a>, or <a href="/search/?P=SOC%20245" title="SOC&#160;245" class="bubblelink code" onclick="return showCourse(this, 'SOC 245');">SOC&#160;245</a> and an additional 200 or 300-level Sociology elective; and Junior standing or above; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;446.  Race, Ethnicity, and Gender in American Religion.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Religious institutions in the U.S. as a crucible for racial, ethnic, and gender identities, group formation, and intergroup relations; major world religions represented in the U.S. Course Information: Same as <a href="/search/?P=RELS%20446" title="RELS&#160;446" class="bubblelink code" onclick="return showCourse(this, 'RELS 446');">RELS&#160;446</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=SOC%20246" title="SOC&#160;246" class="bubblelink code" onclick="return showCourse(this, 'SOC 246');">SOC&#160;246</a> and an additional 200 or 300- level elective in Sociology; and Junior standing or above; or consent of instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;447.  Organizations.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Characteristics of business, government, and not-for-profit organizations; approaches used to study organizations; theoretical and empirical analysis of organizational processes. Course Information: Same as <a href="/search/?P=MGMT%20447" title="MGMT&#160;447" class="bubblelink code" onclick="return showCourse(this, 'MGMT 447');">MGMT&#160;447</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=SOC%20241" title="SOC&#160;241" class="bubblelink code" onclick="return showCourse(this, 'SOC 241');">SOC&#160;241</a> or <a href="/search/?P=MGMT%20340" title="MGMT&#160;340" class="bubblelink code" onclick="return showCourse(this, 'MGMT 340');">MGMT&#160;340</a> or <a href="/search/?P=SOC%20244" title="SOC&#160;244" class="bubblelink code" onclick="return showCourse(this, 'SOC 244');">SOC&#160;244</a> and an additional 200 or 300-level elective in sociology; and junior standing or above; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;448.  Sociology of Development.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Historical, economic, political, social, and geographic factors shaping national and international development experiences and outcomes. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): 6 hours of upper-division social science courses or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;451.  Medical Sociology.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of major topics in sociology of health and medicine including social definitions of health and illness, patient practitioner interaction, the organization of health institutions and professions. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): 6 hours of upper-division sociology or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;455.  Topics in Medical Sociology.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Intensive examination of a specialized topic announced when the class is scheduled. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated to a maximum of 12 hours. Students may register in more than one section per term. Prerequisite(s): <a href="/search/?P=SOC%20451" title="SOC&#160;451" class="bubblelink code" onclick="return showCourse(this, 'SOC 451');">SOC&#160;451</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;465.  Topics in Sociology of Politics.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Intensive examination of a specialized topic announced when the class is scheduled. Course Information: Same as <a href="/search/?P=POLS%20465" title="POLS&#160;465" class="bubblelink code" onclick="return showCourse(this, 'POLS 465');">POLS&#160;465</a>. 3 undergraduate hours. 4 graduate hours. May be repeated to a maximum of 12 hours. Students may register in more than one section per term. Prerequisite(s): 6 hours of upper-division sociology or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;471.  Population.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+The measurement and study of major trends and differentials in fertility, mortality, migration, growth, and compositional characteristics of the population of the United States and other nations. Course Information: Same as <a href="/search/?P=EPID%20471" title="EPID&#160;471" class="bubblelink code" onclick="return showCourse(this, 'EPID 471');">EPID&#160;471</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=SOC%20201" title="SOC&#160;201" class="bubblelink code" onclick="return showCourse(this, 'SOC 201');">SOC&#160;201</a> and an additional 200 or 300-level course in sociology; and junior standing or above; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;473.  Cities and Regions.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Characteristics, conditions, and consequences of structure and change of cities and metropolitan regions. Spatial, political economy, cultural perspectives. Census, ecological, historical, comparative data for cities. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=SOC%20201" title="SOC&#160;201" class="bubblelink code" onclick="return showCourse(this, 'SOC 201');">SOC&#160;201</a> and an additional 200 or 300-level course in sociology; and junior standing or above; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;476.  Topics in Urban Sociology.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Intensive examination of a specialized topic announced when the class is scheduled. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated to a maximum of 12 hours. Students may register in more than one section per term. Prerequisite(s): 6 hours of upper-division sociology or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;485.  Classical Social Theory.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Survey and analysis of classical European and American social theory. Examination of how theorists such as Marx, Weber, Durkheim, Veblen and Park defined and described society within their own social contexts and how we derive meaning from these theories. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=SOC%20385" title="SOC&#160;385" class="bubblelink code" onclick="return showCourse(this, 'SOC 385');">SOC&#160;385</a>; and senior standing or above; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;487.  Current Social Theory.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Review and evaluation of major currents in sociological theory since the 1940s. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=SOC%20385" title="SOC&#160;385" class="bubblelink code" onclick="return showCourse(this, 'SOC 385');">SOC&#160;385</a>; and senior standing or above; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;490.  Senior Research Experience.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The course integrates theory, methods and analytical skills to a substantive area of sociology.  Students will gain hands-on experience by collecting data, analyzing data, writing up their findings and presenting their projects to the class. Course Information: May be repeated to a maximum of 8 hours, with approval of the deparment. Students may register for more than one section per term. Previously listed at SOC 400. Prerequisite(s): <a href="/search/?P=SOC%20300" title="SOC&#160;300" class="bubblelink code" onclick="return showCourse(this, 'SOC 300');">SOC&#160;300</a> and <a href="/search/?P=SOC%20385" title="SOC&#160;385" class="bubblelink code" onclick="return showCourse(this, 'SOC 385');">SOC&#160;385</a>; and senior standing or above and one 400-level elective in sociology and consent of the instructor. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;496.  Independent Study or Research.  1-9 hours.</strong></p>
+<p class="courseblockdesc">
+Extensive readings in specialized areas of sociology or empirical research for advanced undergraduate or graduate students. Course Information: May be repeated with approval. Students may register in more than one section per term. Approval to repeat course granted by the department. Undergraduate students may repeat course for maximum of 9 hours of credit. Prerequisite(s): 18 hours of sociology, excluding <a href="/search/?P=SOC%20296" title="SOC&#160;296" class="bubblelink code" onclick="return showCourse(this, 'SOC 296');">SOC&#160;296</a> and SOC 299, consent of the instructor, and approval of the department. Class Schedule Information: This course counts toward the limited number of independent study hours accepted toward the degree and the major.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;499.  Senior Thesis.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Individual study for students working on a senior thesis under the supervision of a faculty advisor.  This course is required for students graduating with highest departmental distinction. Course Information: May be repeated to a maximum of 8 hours, with approval of the department. Students may register for more than one section per term. Previously listed as SOC 299. Prerequisite(s): <a href="/search/?P=SOC%20490" title="SOC&#160;490" class="bubblelink code" onclick="return showCourse(this, 'SOC 490');">SOC&#160;490</a>; and senior standing or above; and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;500.  Sociological Research Methods I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to research design, data gathering and data reduction; logic of problem formulation, units of analysis, measurement, data analysis.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;501.  Sociological Research Methods II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Evaluating sociological research, data analysis and reporting; proposal writing and evaluation; professional issues including research ethics; student presentation of master's research proposals. Course Information: May be repeated to a maximum of 12 hours. Prerequisite(s): <a href="/search/?P=SOC%20500" title="SOC&#160;500" class="bubblelink code" onclick="return showCourse(this, 'SOC 500');">SOC&#160;500</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;509.  Seminar: Sociological Research Methods.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Research practicum of specialized social science research methods. Course Information: May be repeated to a maximum of 12 hours. Students may register in more than one section per term. Prerequisite(s): <a href="/search/?P=SOC%20500" title="SOC&#160;500" class="bubblelink code" onclick="return showCourse(this, 'SOC 500');">SOC&#160;500</a> and <a href="/search/?P=SOC%20501" title="SOC&#160;501" class="bubblelink code" onclick="return showCourse(this, 'SOC 501');">SOC&#160;501</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;515.  Sociology of Childhood and Youth.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Topics in childhood and youth across various settings, assessing a range of theories and topics that pertain to childhood and youth. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;520.  Seminar: Race, Ethnicity, and Gender.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Intensive analysis of specialized topics. Course Information: May be repeated to a maximum of 12 hours. Students may register in more than one section per term.  Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;524.  Gender.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Review of a wide range of theories that explain the development and maintenance of gender, focusing on how gender stratification has developed historically and how and why individuals &quot;do gender&quot; in their daily lives. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;525.  Sociology of Race and Ethnicity.  4 hours.</strong></p>
+<p class="courseblockdesc">
+A survey of classical and contemporary research on &quot;race&quot; and &quot;ethnicity&quot; focusing on how their meaning is both ascribed and achieved and the relationship of these categories to individual and collective life chances. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;528.  Societal Analysis of Aging, Health and the Life Course.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of health, aging and health care issues from life course perspectives, including the application of concepts, theories and methods from both sociology and public health. Course Information: Same as <a href="/search/?P=CHSC%20528" title="CHSC&#160;528" class="bubblelink code" onclick="return showCourse(this, 'CHSC 528');">CHSC&#160;528</a>. Prerequisite(s): Graduate or professional standing; or approval of the department.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;540.  Seminar: Social Institutions.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Intensive analysis of specialized topics in social institutions. Course Information: May be repeated to a maximum of 12 hours. Students may register in more than one section per term.  Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;541.  Sociology of Social Stratification.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Provides students with an overview of sociological research on social stratification emphasizing individual and structural elements. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;542.  Sociology of Inequality.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Topics in social inequality across various settings and across societal levelsâ€”from interpersonal inequality to inequality in organizations to structural inequalities. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;543.  Prison Aesthetics and Policy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+This class will take aesthetic and political approaches to study the Illinois carceral landscape, particularly focusing on the daily lives of prisoners, the dynamics of the prison administration, and systems of classification and identification. Course Information: Same as <a href="/search/?P=ART%20541" title="ART&#160;541" class="bubblelink code" onclick="return showCourse(this, 'ART 541');">ART&#160;541</a>. Field trips required at a nominal fee. No previous art experience is necessary for this class.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;547.  Social Organization.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Intensive analysis of specialized topics. Course Information: May be repeated to a maximum of 12 hours. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;549.  Global and Transnational Sociology.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to global socioeconomic and political processes, the history of the modern world-system, shifts in global capitalism and interstate relations, the cultural dynamics of globalization, and patterns of global migration. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;565.  Seminar: Political Sociology.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Intensive analysis of specialized topics. Course Information: May be repeated to a maximum of 12 hours. Students may register in more than one section per term.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;572.  Sociology of Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Education as a social institution in interaction with other institutions, such as the economy. Topics include the emergence of national systems of education, purposes of education, inequality and educational reform. Course Information: Same as <a href="/search/?P=EDPS%20572" title="EDPS&#160;572" class="bubblelink code" onclick="return showCourse(this, 'EDPS 572');">EDPS&#160;572</a>. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;585.  Classical Sociological Theory.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of how theorists have defined and described society within their own social contexts and how we derive meaning from these theories. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;587.  Contemporary Sociological Theory.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Sociological theory since World War II.  Course content will be both &quot;substantive&quot;, covering widely divergent schools of thought, and &quot;methodological&quot;, analyzing and constructing theories as explanatory systems. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;593.  Colloquium on College Teaching of Sociology.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Covers strategies and techniques for contemporary university teaching and for the teaching of sociology at the college level. Course Information: May be repeated.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;595.  ProSeminar.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Presentation and discussion of issues of professional concern to sociologists including current research, consulting, teaching and applied sociology. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Students may register in more than one section per term.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;596.  Independent Study.  1-12 hours.</strong></p>
+<p class="courseblockdesc">
+Research on special problems not included in the graduate thesis. Course Information: May be repeated. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor and approval of the department.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOC&#160;599.  Thesis Research.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Supervised dissertation research. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="soc.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

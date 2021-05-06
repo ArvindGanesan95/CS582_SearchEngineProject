@@ -1,0 +1,560 @@
+https://catalog.uic.edu/ucat/colleges-depts/liberal-arts-sciences/phys/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Department of Physics &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/liberal-arts-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/">Anthropology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/">Biochemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/">Biological Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/">Black Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/">Chemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/">Classics and Mediterranean Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/">Communication</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/">Criminology, Law, and Justice</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/">Earth and Environmental Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/">Economics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/">English</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French and Francophone Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/">Gender and Women's Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/">Germanic Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/">Global Asian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/">Hispanic and Italian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/">History</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/">Integrated Health Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/">International Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/">Liberal Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/">Linguistics</a></li>
+				<li><a href="/ucat/colleges-depts/liberal-arts-sciences/lcsl/">Literatures, Cultural Studies, and Linguistics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/">Mathematics, Statistics, and Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/">Moving Image Arts</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/">Neuroscience</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/">Philosophy</a></li>
+				<li class="active isparent self"><a href="#" onclick="return false;">Physics</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/liberal-arts-sciences/phys/">
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/ba-phys/">BA with a Major in Physics</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/bs-teach-phys/">BS in the Teaching of Physics</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/bs-phys/">BS in Physics</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/minor-phys/">Minor in Physics</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/minor-teaching-phys/">Minor in Teaching of Physics</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/">Polish, Russian, and Lithuanian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/">Political Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/">Psychology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/">Religious Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/">Sociology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional Studies</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/">College&nbsp;of&nbsp;Liberal&nbsp;Arts&nbsp;and&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><span class="active">Physics</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Department of Physics</h1>
+
+
+<script type="text/javascript">
+//<![CDATA[
+	var defshow = "text";
+	var bodycontainer = "#body";
+	var validhashes = ",text,undergraduateprogramstext,coursestext,";
+
+if(window.location.hash.length) {
+	var hash = cleanHash(window.location.hash);
+	if(validhashes.indexOf("," + hash + ",") != -1)
+		defshow = hash;	
+}
+var ss = document.styleSheets;
+var workss = null;
+for(var i=0; i < ss.length; i++) {
+	var currmedia = "";
+	if (typeof ss[i].media == "string") 
+		currmedia = ss[i].media
+	else if (typeof ss[i].media == "object" && ss[i].media.mediaText) 
+		currmedia = ss[i].media.mediaText;
+	
+	if((currmedia == "screen" || currmedia == "all") && (ss[i].href.indexOf("/") == 0 || ss[i].href.indexOf(document.location.host) >= 0)) {
+		workss = ss[i];
+		break;	
+	}
+}
+if(workss && workss.insertRule) {
+	workss.insertRule(".tab_content { display: none; }", workss.cssRules.length)
+	workss.insertRule(".sectionheader { display: none; }", workss.cssRules.length)
+	workss.insertRule("#" + defshow + "container { display: block; }", workss.cssRules.length)
+} else if(workss && workss.addRule) {
+	workss.addRule(".tab_content", "display: none");
+	workss.addRule(".sectionheader", "display: none");
+	workss.addRule("#" + defshow + "container", "display: block");
+}
+else {
+	if (window.console)
+		window.console.log('screen.css <link> needs attribute media="screen"');
+}
+//]]>
+</script>
+	<div id="tabs">
+		<ul class="clearfix" role="tablist">
+			<li id="texttab" role="presentation">
+<a href="#textcontainer" role="tab" aria-controls="textcontainer" onclick="return showSection('text');">Overview</a></li>
+			<li id="undergraduateprogramstexttab" role="presentation">
+<a href="#undergraduateprogramstextcontainer" role="tab" aria-controls="undergraduateprogramstextcontainer" onclick="return showSection('undergraduateprogramstext');" >Programs and Requirements</a></li>
+			<li id="coursestexttab" role="presentation">
+<a href="#coursestextcontainer" role="tab" aria-controls="coursestextcontainer" onclick="return showSection('coursestext');" >Courses</a></li>
+		</ul>
+	</div>
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<div class="sidebar">
+<div id="sidebar-contact">
+<p class="campus_location"><span class="label"><strong>Contact Information: </strong></span><br/>
+<span class="campus_location">Campus Location: 2236 Science and Engineering South (SES) <br/>
+<span class="phone">(312) 996–3400</span> <br/>
+<span class="website"><a href="http://phys.uic.edu/">phys.uic.edu</a></span></span></p>
+<br/>
+<p class="administration"><span class="label"><strong>Administration: </strong></span><br/>
+Head, David J. Hofman<br/>
+Director of Undergraduate Studies, Cecilia Gerber, <a href="mailto:gerber@uic.edu">gerber@uic.edu</a><br/>
+Student Services: Melodie Shaw, <a href="mailto:melodies@uic.edu">melodies@uic.edu</a></p>
+<p class="campus_location"><span>The fundamental goal of the science of physics is to develop a basic and comprehensive understanding and description of all forms of matter and energy. This goal is pursued through experimental and theoretical investigations, with experimental results pointing the way toward possible new theories and tentative theories suggesting new experiments. Physics occupies a middle ground between mathematics and engineering, using the techniques of the former and providing new ideas and materials (structures and properties) to the latter.</span></p>
+</div>
+</div>
+<p>The Department of Physics offers the Bachelor of Science in Physics (Curriculum in Physics) and the Bachelor of Arts in Liberal Arts and Sciences with a Major in Physics.</p>
+<p>The Physics major who continues on to a PhD or who combines a physics background with an advanced degree in engineering or another science, or with an MBA, will find many positions available in industry. The Physics major who obtains a PhD will qualify in many cases for a faculty position in engineering as well as physics.</p>
+<p>In addition to the Physics majors, the department also offers a Minor in Physics. The minor in physics is an attractive option for students in the math, chemistry, biology, pre-health, and engineering programs.</p>
+<h2>Distinction</h2>
+<h3>Departmental Distinction</h3>
+<p>Distinction in physics is awarded to students who achieve college honors and an overall minimum GPA of 3.50/4.00 in upper-division physics (400-level) and mathematics (300-level and above) courses.</p>
+<p>Students who qualify for departmental distinction are recommended for high or highest distinction on the basis of grade point average and/or high performance in <span class="sc_courseinline"><a href="/search/?P=PHYS%20391" title="PHYS 391" class="bubblelink code" onclick="return showCourse(this, 'PHYS 391');">PHYS 391</a></span> or <span class="sc_courseinline"><a href="/search/?P=PHYS%20392" title="PHYS 392" class="bubblelink code" onclick="return showCourse(this, 'PHYS 392');">PHYS 392</a></span>, described as follows.</p>
+
+<h3>High Distinction</h3>
+<p>A minimum overall GPA of 3.70/4.00 in upper-division physics and mathematics courses or a minimum overall GPA of 3.50/4.00 in upper-division physics and mathematics courses and high performance in <span class="sc_courseinline"><a href="/search/?P=PHYS%20391" title="PHYS 391" class="bubblelink code" onclick="return showCourse(this, 'PHYS 391');">PHYS 391</a></span> or <span class="sc_courseinline"><a href="/search/?P=PHYS%20392" title="PHYS 392" class="bubblelink code" onclick="return showCourse(this, 'PHYS 392');">PHYS 392</a></span>, as judged by the instructor of the course.</p>
+
+<h3>Highest Distinction</h3>
+<p>A minimum overall GPA of 3.80/4.00 in upper-division physics and mathematics courses or a minimum overall GPA of 3.70/4.00 in upper-division physics and mathematics courses and high performance in <span class="sc_courseinline"><a href="/search/?P=PHYS%20391" title="PHYS 391" class="bubblelink code" onclick="return showCourse(this, 'PHYS 391');">PHYS 391</a></span> or <span class="sc_courseinline"><a href="/search/?P=PHYS%20392" title="PHYS 392" class="bubblelink code" onclick="return showCourse(this, 'PHYS 392');">PHYS 392</a></span>, as judged by the instructor of the course.</p>
+</div><!--end #textcontainer -->
+
+			<div id="undergraduateprogramstextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="undergraduateprogramstexttab" aria-hidden="true">
+				<a name="undergraduateprogramstext"></a><h2>Degree Programs</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/ba-phys/">BA with a Major in Physics</a></li>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/bs-teach-phys/">BS in the Teaching of Physics</a> (suspended effective Fall 2015)</li>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/bs-phys/">BS in Physics</a></li>
+</ul>
+<h2>Minors</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/minor-phys/">Minor in Physics</a></li>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/minor-teaching-phys/">Minor in the Teaching of Physics</a> (suspended effective Fall 2015)</li>
+</ul>
+			</div>
+			<div id="coursestextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="coursestexttab" aria-hidden="true">
+				<a name="coursestext"></a><div class="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 100.  Preparatory Physics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to basic physics concepts, problem-solving skills, and quantitative reasoning. Course Information: No credit toward the Major in Physics, BS in Physics, or Minor in Physics. Prerequisite(s): Grade of C or better or concurrent registration in <a href="/search/?P=MATH%20121" title="MATH 121" class="bubblelink code" onclick="return showCourse(this, 'MATH 121');">MATH 121</a>; or appropriate score on the department placement test.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 101.  Active Learning of the Physical World.  4 hours.</strong></p>
+<p class="courseblockdesc">
+A continuation of the first 7 weeks of <a href="/search/?P=PHYS%20141" title="PHYS 141" class="bubblelink code" onclick="return showCourse(this, 'PHYS 141');">PHYS 141</a>, focusing on the exploration of the physical world through active learning. Student-centered learning through team activities in small group settings, working on problem-solving activities. Course Information: Credit is not given for <a href="/search/?P=PHYS%20101" title="PHYS 101" class="bubblelink code" onclick="return showCourse(this, 'PHYS 101');">PHYS 101</a> if student has credit in <a href="/search/?P=PHYS%20141" title="PHYS 141" class="bubblelink code" onclick="return showCourse(this, 'PHYS 141');">PHYS 141</a>. Enrollment available only after week 7 and only to students currently enrolled in <a href="/search/?P=PHYS%20141" title="PHYS 141" class="bubblelink code" onclick="return showCourse(this, 'PHYS 141');">PHYS 141</a>. Prerequisite(s): Physics 141; and registration and approval of the department. Restricted to students currently enrolled in <a href="/search/?P=PHYS%20141" title="PHYS 141" class="bubblelink code" onclick="return showCourse(this, 'PHYS 141');">PHYS 141</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 112.  Astronomy and the Universe.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Astronomy in the context of the scientific process, history and current events.  Covers the Solar System, stars and galaxies and the origin and fate of the universe. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture.<i>  Natural World - With Lab course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 116.  Energy for Future Decision-Makers.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of energy sustainability and environmental issues. All energy forms of production, sources, storage, and uses; their environmental implications on a global scale within the scientific, technological, political, economic, and social context. Course Information: Same as <a href="/search/?P=EAES%20116" title="EAES 116" class="bubblelink code" onclick="return showCourse(this, 'EAES 116');">EAES 116</a>. Recommended background: High school algebra.<i>  Natural World - No Lab course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 118.  Physics in Modern Medicine.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey course of physical technologies used in modern medicine and the underlying physics, including applications of optics, imaging, and nuclear medicine to diagnosis, surgery, therapy and treatment. Course Information: Prerequisite(s): High school algebra, trigonometry, and biology.<i>  Natural World - No Lab course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 131.  Introductory Physics for Life Sciences I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Algebra-based physics and its relationship to the life sciences, including mechanics, waves, diffusion and fluids with applications to molecular, cell and human biology. Course Information: Prerequisite(s): High school algebra and trigonometry. Credit for <a href="/search/?P=PHYS%20131" title="PHYS 131" class="bubblelink code" onclick="return showCourse(this, 'PHYS 131');">PHYS 131</a> is not given if the student has credit for PHYS 105 or <a href="/search/?P=PHYS%20141" title="PHYS 141" class="bubblelink code" onclick="return showCourse(this, 'PHYS 141');">PHYS 141</a>. To be properly registered, students must enroll in one Laboratory, one Lecture and one Discussion/Recitation.<i>  Natural World - With Lab course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 132.  Introductory Physics for Life Sciences II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Algebra-based physics and its relationship to the life sciences, including electromagnetism, optical, quantum, and thermal physics, with applications to molecular, cell and human biology. Course Information: Prerequisite(s): Grade of C or better in PHYS 105 and Grade of C or better in PHYS 106; or Grade of C or better in <a href="/search/?P=PHYS%20131" title="PHYS 131" class="bubblelink code" onclick="return showCourse(this, 'PHYS 131');">PHYS 131</a>. Credit for <a href="/search/?P=PHYS%20132" title="PHYS 132" class="bubblelink code" onclick="return showCourse(this, 'PHYS 132');">PHYS 132</a> is not given if the student has credit for PHYS 107 or <a href="/search/?P=PHYS%20142" title="PHYS 142" class="bubblelink code" onclick="return showCourse(this, 'PHYS 142');">PHYS 142</a>. To be properly registered, student must enroll in one Laboratory, one Discussion/Recitation and one Lecture.<i>  Natural World - With Lab course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 141.  General Physics I (Mechanics).  4 hours.</strong></p>
+<p class="courseblockdesc">
+Kinematics, vectors, Newtonâ€™s laws of motion; linear momentum, collisions; work and kinetic energy; potential energy, conservation of energy; rotational kinematics and energy; rotational dynamics, static equilibrium; simple harmonic motion. Course Information: Credit is not given if the student has credit in PHYS 105 or PHYS 106 or <a href="/search/?P=PHYS%20131" title="PHYS 131" class="bubblelink code" onclick="return showCourse(this, 'PHYS 131');">PHYS 131</a>. Students may obtain one additional hour of credit by concurrently registering in <a href="/search/?P=PHYS%20144" title="PHYS 144" class="bubblelink code" onclick="return showCourse(this, 'PHYS 144');">PHYS 144</a>. Prerequisite(s): Grade of C or better or concurrent registration in <a href="/search/?P=MATH%20180" title="MATH 180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH 180</a>; or approval of the department ; and Grade of C or better in <a href="/search/?P=PHYS%20100" title="PHYS 100" class="bubblelink code" onclick="return showCourse(this, 'PHYS 100');">PHYS 100</a> or adequate performance on the departmental placement test. Class Schedule Information: During the fall and spring terms, combined-section final exam will be held on Wednesday of finals week from 6 to 8 p.m. To be properly registered, students must enroll in one Laboratory and one Lecture-Discussion.<i>  Natural World - With Lab course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 142.  General Physics II (Electricity and Magnetism).  4 hours.</strong></p>
+<p class="courseblockdesc">
+Electrostatics; electric currents; d-c circuits; magnetic fields; magnetic media; electromagnetic induction; a-c circuits; Maxwellâ€™s equations; electromagnetic waves; reflection and refraction; interference; geometrical optics. Course Information: Credit is not given for <a href="/search/?P=PHYS%20142" title="PHYS 142" class="bubblelink code" onclick="return showCourse(this, 'PHYS 142');">PHYS 142</a> if the student has credit in PHYS 107 or <a href="/search/?P=PHYS%20132" title="PHYS 132" class="bubblelink code" onclick="return showCourse(this, 'PHYS 132');">PHYS 132</a>. Prerequisite(s): Grade of C or better in <a href="/search/?P=PHYS%20141" title="PHYS 141" class="bubblelink code" onclick="return showCourse(this, 'PHYS 141');">PHYS 141</a>; and Grade of C or better or concurrent registration in <a href="/search/?P=MATH%20181" title="MATH 181" class="bubblelink code" onclick="return showCourse(this, 'MATH 181');">MATH 181</a>.<i>  Natural World - With Lab course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 144.  Problem-Solving Workshop for General Physics I (Mechanics).  1 hour.</strong></p>
+<p class="courseblockdesc">
+A workshop where smaller groups of students work together with the instructor to enhance their problem solving skills by solving additional problems both similar to, as well as more challenging than, the ones given in Physics 141. Course Information: Satisfactory/Unsatisfactory grading only.  Must enroll concurrently in <a href="/search/?P=PHYS%20141" title="PHYS 141" class="bubblelink code" onclick="return showCourse(this, 'PHYS 141');">PHYS 141</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 145.  Problem-Solving Workshop for General Physics II (Electricity and Magnetism).  1 hour.</strong></p>
+<p class="courseblockdesc">
+A workshop where smaller groups of students work together with the instructor to enhance their problem-solving skills by solving additional problems both similar to, as well as more challenging than, problems given in Physics 142. Course Information: Satisfactory/Unsatisfactory grading only. Requires concurrent registration in <a href="/search/?P=PHYS%20142" title="PHYS 142" class="bubblelink code" onclick="return showCourse(this, 'PHYS 142');">PHYS 142</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 215.  Computational and Mathematical Methods for the Physical Sciences.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Computational and mathematical methods applied to basic problems in physics. Course Information: Extensive computer use required. Prerequisite(s): Grade of C or better in <a href="/search/?P=PHYS%20142" title="PHYS 142" class="bubblelink code" onclick="return showCourse(this, 'PHYS 142');">PHYS 142</a>; or Grade of B or better in PHYS 107 or Grade of B or better in <a href="/search/?P=PHYS%20132" title="PHYS 132" class="bubblelink code" onclick="return showCourse(this, 'PHYS 132');">PHYS 132</a>; and Grade of C or better in <a href="/search/?P=MATH%20181" title="MATH 181" class="bubblelink code" onclick="return showCourse(this, 'MATH 181');">MATH 181</a> and Grade of C or better or concurrent registration in <a href="/search/?P=MATH%20210" title="MATH 210" class="bubblelink code" onclick="return showCourse(this, 'MATH 210');">MATH 210</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Laboratory.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 230.  Fundamentals of Relativity.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the theory of relativity, including special relativity (Lorentz contraction, time dilation, energy-mass equivalence, kinematics and electrodynamics) and general relativity (gravity, black holes). Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=MATH%20181" title="MATH 181" class="bubblelink code" onclick="return showCourse(this, 'MATH 181');">MATH 181</a>; and Grade of C or better in <a href="/search/?P=PHYS%20142" title="PHYS 142" class="bubblelink code" onclick="return showCourse(this, 'PHYS 142');">PHYS 142</a>; or Grade of B or better in PHYS 107 or Grade of B or better in <a href="/search/?P=PHYS%20132" title="PHYS 132" class="bubblelink code" onclick="return showCourse(this, 'PHYS 132');">PHYS 132</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 240.  Fundamentals of Modern Quantum Theory.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Modern introduction to the quantum theory including discrete systems (qubits, etc.), quantum measurement theory, entanglement, Bellâ€™s Theorem, the Uncertainty Principle, one-dimensional potential models, and the Schrodinger-von Neumann equation. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=MATH%20181" title="MATH 181" class="bubblelink code" onclick="return showCourse(this, 'MATH 181');">MATH 181</a>; and Grade of C or better in <a href="/search/?P=PHYS%20142" title="PHYS 142" class="bubblelink code" onclick="return showCourse(this, 'PHYS 142');">PHYS 142</a>; or Grade of B or better in PHYS 107 or Grade of B or better in <a href="/search/?P=PHYS%20132" title="PHYS 132" class="bubblelink code" onclick="return showCourse(this, 'PHYS 132');">PHYS 132</a>. Physics majors (BA and BS) are required to register concurrently for <a href="/search/?P=PHYS%20241" title="PHYS 241" class="bubblelink code" onclick="return showCourse(this, 'PHYS 241');">PHYS 241</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 241.  Experiments in Modern Physics.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Companion course to <a href="/search/?P=PHYS%20240" title="PHYS 240" class="bubblelink code" onclick="return showCourse(this, 'PHYS 240');">PHYS 240</a> that includes laboratory experiments on introductory quantum theory and modern physics. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=MATH%20181" title="MATH 181" class="bubblelink code" onclick="return showCourse(this, 'MATH 181');">MATH 181</a>; and Grade of C or better in <a href="/search/?P=PHYS%20142" title="PHYS 142" class="bubblelink code" onclick="return showCourse(this, 'PHYS 142');">PHYS 142</a>; or Grade of B or better in PHYS 107 or Grade of B or better in <a href="/search/?P=PHYS%20132" title="PHYS 132" class="bubblelink code" onclick="return showCourse(this, 'PHYS 132');">PHYS 132</a>. Requires concurrent registration in <a href="/search/?P=PHYS%20240" title="PHYS 240" class="bubblelink code" onclick="return showCourse(this, 'PHYS 240');">PHYS 240</a> or approval of the department.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 245.  Introduction to Vibrations, Waves, and Thermal Physics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Free, forced, damped, and coupled oscillations; normal modes; Fourier analysis; resonance; waves; interference; diffraction; heat energy; entropy; introduction to thermodynamics, kinetic theory of gases, and basic statistical physics. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=MATH%20181" title="MATH 181" class="bubblelink code" onclick="return showCourse(this, 'MATH 181');">MATH 181</a>; and Grade of C or better in <a href="/search/?P=PHYS%20142" title="PHYS 142" class="bubblelink code" onclick="return showCourse(this, 'PHYS 142');">PHYS 142</a>; or Grade of B or better in PHYS 107 or Grade of B or better in <a href="/search/?P=PHYS%20132" title="PHYS 132" class="bubblelink code" onclick="return showCourse(this, 'PHYS 132');">PHYS 132</a>. Recommended background: Credit or concurrent registration in <a href="/search/?P=MATH%20220" title="MATH 220" class="bubblelink code" onclick="return showCourse(this, 'MATH 220');">MATH 220</a>. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 260.  Introduction to Thermal Physics.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Calculus-based introduction to thermal physics. The first and second laws of thermodynamics, entropy, free energy, statistical physics, and their applications. Course Information: This course does not satisfy the requirements for degrees in physics. Prerequisite(s): Grade of C or better in <a href="/search/?P=PHYS%20141" title="PHYS 141" class="bubblelink code" onclick="return showCourse(this, 'PHYS 141');">PHYS 141</a> and Grade of C or better in <a href="/search/?P=MATH%20181" title="MATH 181" class="bubblelink code" onclick="return showCourse(this, 'MATH 181');">MATH 181</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Laboratory-Discussion.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 391.  Physics Seminar.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Preparation and presentation by students of talks on topics of current interest in physics. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated to a maximum of 4 hours. Prerequisite(s): Senior standing.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 392.  Physics Research.  2-4 hours.</strong></p>
+<p class="courseblockdesc">
+Research under the close supervision of a faculty member. Course Information: Prerequisite(s): Approval of the department. Class Schedule Information: This course counts toward the limited number of independent study hours accepted toward the degree and the major.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 393.  Special Problems.  2-4 hours.</strong></p>
+<p class="courseblockdesc">
+Special problems or reading in modern physics under individual arrangement with a faculty member. Course Information: Prerequisite(s): Approval of the department. Class Schedule Information: This course counts toward the limited number of independent study hours accepted toward the degree and the major.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 401.  Electromagnetism I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Vector calculus; electrostatic and magnetostatic fields in vacuum; electrostatic boundary-value problems; electrodynamics; Maxwell's equations; electromagnetic waves in vacuum; reflection and transmission phenomena in linear media.  Prerequisite(s): <a href="/search/?P=PHYS%20215" title="PHYS 215" class="bubblelink code" onclick="return showCourse(this, 'PHYS 215');">PHYS 215</a> and <a href="/search/?P=MATH%20220" title="MATH 220" class="bubblelink code" onclick="return showCourse(this, 'MATH 220');">MATH 220</a>; or approval of the department.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 402.  Electromagnetism II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Electrostatics, mangetostatics, and electromagnetic waves in matter; radiation; relativistic electrodynamics; special topics chosen by the instructor.  Course Information: Prerequisite(s): <a href="/search/?P=PHYS%20230" title="PHYS 230" class="bubblelink code" onclick="return showCourse(this, 'PHYS 230');">PHYS 230</a> and <a href="/search/?P=PHYS%20401" title="PHYS 401" class="bubblelink code" onclick="return showCourse(this, 'PHYS 401');">PHYS 401</a>; or approval of the department.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 411.  Quantum Mechanics I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Wave particle duality; wave functions; matrix representation; operators and observables; 1-D potentials; harmonic oscillator; eigenvalues and eigenfunctions; time-independent perturbation theory; approximation methods; 3-D Schroedingerâ€™s equation. Course Information: Prerequisite(s): <a href="/search/?P=PHYS%20215" title="PHYS 215" class="bubblelink code" onclick="return showCourse(this, 'PHYS 215');">PHYS 215</a> and <a href="/search/?P=PHYS%20240" title="PHYS 240" class="bubblelink code" onclick="return showCourse(this, 'PHYS 240');">PHYS 240</a> and <a href="/search/?P=PHYS%20245" title="PHYS 245" class="bubblelink code" onclick="return showCourse(this, 'PHYS 245');">PHYS 245</a>; or approval of the department. Recommended background: <a href="/search/?P=MATH%20220" title="MATH 220" class="bubblelink code" onclick="return showCourse(this, 'MATH 220');">MATH 220</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 412.  Quantum Mechanics II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+This is the second semester of a two-semester undergraduate level sequence on the concepts and methods of Quantum Mechanics and their applications. Course Information: Prerequisite(s): <a href="/search/?P=PHYS%20411" title="PHYS 411" class="bubblelink code" onclick="return showCourse(this, 'PHYS 411');">PHYS 411</a>; or approval of the department.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 421.  Modern Physics: Atoms and Molecules.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Hydrogenic atoms, electron spin, external fields, multi-electron atoms, diatomic molecules, line widths, photons, radiation from atoms and other electromagnetic processes, positrons, positronium, elastic electron scattering. Course Information: Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=PHYS%20411" title="PHYS 411" class="bubblelink code" onclick="return showCourse(this, 'PHYS 411');">PHYS 411</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 425.  Modern Optics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Review of electromagnetic wave theory and introductory optics; advanced geometrical optics; Fourier transforms and optics; interference and diffraction; solar cells and LEDs; laser cavities and gain media; introduction to nonlinear and fiber optics. Course Information: Prerequisite(s): <a href="/search/?P=PHYS%20240" title="PHYS 240" class="bubblelink code" onclick="return showCourse(this, 'PHYS 240');">PHYS 240</a>; or approval of the department. Class Schedule Information: To be properly registered, students must enroll in one Discussion, one Laboratory and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 431.  Modern Physics: Condensed Matter.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Crystal structures; interatomic binding; lattice vibrations; thermal and magnetic properties; quantum statistical mechanics; free electron theory of metals; electronic band theory; semiconductors and insulators; superconductivity. Course Information: Prerequisite(s): <a href="/search/?P=PHYS%20411" title="PHYS 411" class="bubblelink code" onclick="return showCourse(this, 'PHYS 411');">PHYS 411</a> and <a href="/search/?P=PHYS%20461" title="PHYS 461" class="bubblelink code" onclick="return showCourse(this, 'PHYS 461');">PHYS 461</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 441.  Theoretical Mechanics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Review of Newtonian mechanics, variational calculus, Lagrangian mechanics, central force problems, non-inertial frames, rigid body motion, coupled oscillators, non-linear mechanics, Hamiltonian mechanics, and numerical examples. Course Information: Prerequisite(s): <a href="/search/?P=PHYS%20215" title="PHYS 215" class="bubblelink code" onclick="return showCourse(this, 'PHYS 215');">PHYS 215</a> and Credit or concurrent registration in <a href="/search/?P=PHYS%20245" title="PHYS 245" class="bubblelink code" onclick="return showCourse(this, 'PHYS 245');">PHYS 245</a>; or approval of the department.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 450.  Molecular Biophysics of the Cell.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to force, time energies at nanometer scales; Boltzmann distribution; hydrodynamic drag; Brownian motions; DNA, RNA protein structure and function; sedimentation; chemical kinetics; general aspects of flexible polymers. Course Information: Same as <a href="/search/?P=BIOE%20450" title="BIOE 450" class="bubblelink code" onclick="return showCourse(this, 'BIOE 450');">BIOE 450</a>. Prerequisite(s): <a href="/search/?P=PHYS%20245" title="PHYS 245" class="bubblelink code" onclick="return showCourse(this, 'PHYS 245');">PHYS 245</a> or the equivalent; or approval of the department.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 451.  Modern Physics: Nuclei and Elementary Particles.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Accelerators, detectors, symmetries, conservation laws, leptons, weak interactions, electroweak theory, strong interactions, hadrons, nuclear forces, systematics and reactions, nuclear models, nuclear astrophysics, quarks, quantum chromodynamics. Course Information: Prerequisite(s): <a href="/search/?P=PHYS%20411" title="PHYS 411" class="bubblelink code" onclick="return showCourse(this, 'PHYS 411');">PHYS 411</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 461.  Thermal and Statistical Physics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Thermal equilibrium (Zeroth Law); thermodynamic states (First Law); irreversibility; entropy (Second Law); thermodynamic potentials and properties; phase transitions; kinetic theory of gases; classical statistical mechanics. Course Information: Prerequisite(s): <a href="/search/?P=PHYS%20245" title="PHYS 245" class="bubblelink code" onclick="return showCourse(this, 'PHYS 245');">PHYS 245</a>; or approval of the department.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 469.  The Learning and Teaching of Physics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Provides teacher candidates with the foundations and experiences necessary for teaching physics in secondary schools. For those currently teaching, it will also provide tools and background to improve their physics instruction. Course Information:  4 hours. Extensive computer use required. Prerequisite(s): <a href="/search/?P=PHYS%20142" title="PHYS 142" class="bubblelink code" onclick="return showCourse(this, 'PHYS 142');">PHYS 142</a>; or PHYS 107 and PHYS 108; or approval of the department. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Laboratory.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 470.  Educational Practice with Seminar I.  6 hours.</strong></p>
+<p class="courseblockdesc">
+The first half of a two-segment sequence of practice teaching, including seminar, to meet certification requirements for teaching in grades six through twelve. Course Information: Graduate credit only with approval of the department. Prerequisite(s): Good academic standing in a teacher education program, completion of 100 clock hours of pre-student-teaching field experiences, and approval of the department. Class Schedule Information:  To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 471.  Educational Practice with Seminar II.  6 hours.</strong></p>
+<p class="courseblockdesc">
+The second half of a two-segment sequence of practice teaching, including seminar, to meet certification requirements for teaching in grades six through twelve. Course Information: Graduate credit only with approval of the department. Prerequisite(s): Good academic standing in a teacher education program, completion of 100 clock hours of pre-student-teaching field experiences, credit or concurrent registration in <a href="/search/?P=PHYS%20470" title="PHYS 470" class="bubblelink code" onclick="return showCourse(this, 'PHYS 470');">PHYS 470</a>, and approval of the department. Class Schedule Information:  To be properly registered, students must enroll in one Conference and one Practice.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 475.  Learning and Teaching of Physical Sciences.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Provides teacher candidates with the foundation and experience necessary to teach physical sciences in secondary schools. Course Information: Same as <a href="/search/?P=CHEM%20475" title="CHEM 475" class="bubblelink code" onclick="return showCourse(this, 'CHEM 475');">CHEM 475</a>. Prerequisite(s): Senior standing or above; or approval of the department. Recommended background: Knowledge of first-year college physics and chemistry. Class Schedule: To be properly registered students must enroll in one Lecture-Discussion and one Laboratory.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 480.  Elements of Machining Scientific Equipment.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Elements of machining scientific equipment, including the use of machine shop tools and technical drawing of scientific apparatus. Course Information: Same as <a href="/search/?P=CHEM%20480" title="CHEM 480" class="bubblelink code" onclick="return showCourse(this, 'CHEM 480');">CHEM 480</a> and <a href="/search/?P=EAES%20478" title="EAES 478" class="bubblelink code" onclick="return showCourse(this, 'EAES 478');">EAES 478</a>. Satisfactory/Unsatisfactory grading only. Prerequisite(s): Graduate standing; and approval of the department.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 481.  Modern Experimental Physics I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Theory and experimental use of linear circuits, semiconductor devices, amplifiers, oscillators. Techniques and experiments in atomic, molecular and solid-state physics. Course Information: Prerequisite(s): <a href="/search/?P=PHYS%20240" title="PHYS 240" class="bubblelink code" onclick="return showCourse(this, 'PHYS 240');">PHYS 240</a>; or approval of the department. Requires concurrent registration in <a href="/search/?P=PHYS%20499" title="PHYS 499" class="bubblelink code" onclick="return showCourse(this, 'PHYS 499');">PHYS 499</a> for students enrolled in the BA or BS in Physics programs. Class Schedule Information: To be properly registered, students must enroll in one Laboratory and one Lecture-Discussion.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 482.  Modern Experimental Physics II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Techniques and experiments in nuclear and particle physics. Gamma-gamma correlations, muon lifetime, Compton scattering, alpha particle scattering. Computer-based experimentation. Course Information: Prerequisite(s): <a href="/search/?P=PHYS%20481" title="PHYS 481" class="bubblelink code" onclick="return showCourse(this, 'PHYS 481');">PHYS 481</a>; or approval of the department. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture-Discussion.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 491.  Special Topics in Physics.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics of current interest in Physics.  Course Information:  May be repeated.  Prerequisite(s):  <a href="/search/?P=PHYS%20215" title="PHYS 215" class="bubblelink code" onclick="return showCourse(this, 'PHYS 215');">PHYS 215</a> and sophomore standing or above; or approval of the department.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 494.  Special Topics in Physics Teaching.  2-4 hours.</strong></p>
+<p class="courseblockdesc">
+Seminar on various topics related to the teaching of physics. Subjects are announced. Course Information: May be repeated. Students may register in more than one section per term. Supervised teaching practice included. Prerequisite(s): Graduate standing or approval of the department.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHYS 499.  Survey of Physics Problems.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Problem-solving techniques applied to the variety of undergraduate physics topics. Course Information: No graduation credit for graduate students. Grade of C or better required to graduate with an undergraduate degree in physics. Co-requisite(s):Concurrent registration in <a href="/search/?P=PHYS%20481" title="PHYS 481" class="bubblelink code" onclick="return showCourse(this, 'PHYS 481');">PHYS 481</a>.<br/>
+</p>
+</div></div>
+			</div>
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="phys.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,1315 @@
+https://catalog.uic.edu/ucat/colleges-depts/business-administration/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>College of Business Administration &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="active isparent self"><a href="#" onclick="return false;">College of Business Administration</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/business-administration/">
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/actg/">Accounting</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/fin/">Finance</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/ids/">Information and Decision Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/mgmt/">Managerial Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/marketing/">Marketing</a></li>
+				<li><a href="/ucat/colleges-depts/business-administration/bba/">Bachelor of Business Administration</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/minors/">Minors</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><span class="active">College of Business Administration</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">College of Business Administration</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p class="campus_location"><span class="label"><strong>Contact Information: </strong></span><br/>
+<span class="campus_location">Campus Location: 1111 University Hall (UH): Academic Services and Undergraduate Business Career Center <br/>
+<span class="phone">(312) 996-2700 </span><br/>
+<span class="website"><a href="http://business.uic.edu/" target="_blank">business.uic.edu</a>, Undergraduate Programs: <a href="http://business.uic.edu/ugrad" target="_blank">business.uic.edu/ugrad</a></span></span></p>
+<p class="administration"><span class="label"><strong>Administration: </strong></span><br/>
+Dean, Michael B. Mikhail<br/>
+Undergraduate Programs: Assistant Dean, Angela Prazza Winters<br/>
+Departments: Accounting, Finance, Information and Decision Sciences, Managerial Studies (includes Entrepreneurship and Management), Marketing </p>
+<ul>
+	<li><a href="#a">Introduction</a></li>
+	<li><a href="#b">Accreditation</a></li>
+	<li><a href="#c">Degree Requirements</a>
+	<ul>
+		<li><a href="#c1">Semester Hour Requirement</a></li>
+		<li><a href="#Service-Hour-Requirement">Service Hour Requirement</a></li>
+		<li><a href="#c2">General and Basic Course Requirements</a></li>
+		<li><a href="#c3">Business Course Requirements</a></li>
+		<li><a href="#d">Other Course Requirements</a></li>
+		<li><a href="#e">Other Requirements</a></li>
+	</ul>
+	</li>
+	<li><a href="#f">College Policies</a>
+	<ul>
+		<li><a href="#f1">Academic Load</a></li>
+		<li>A<a href="#f2">cademic Probation and Dismissal Rules</a></li>
+		<li><a href="#f3">Change of Course Schedule — Dropping Courses</a></li>
+		<li><a href="#f4">Change of Major/Declaring a Major</a></li>
+		<li><a href="#f5">Class Attendance</a></li>
+		<li><a href="#f6">Closed Courses</a></li>
+		<li><a href="#f7">College Level Examination Program</a></li>
+		<li><a href="#f8">Course Prerequisites</a></li>
+		<li><a href="#f9">Credit/No Credit Option</a></li>
+		<li><a href="#f10">Double Major, Double Degrees, and Second Bachelor's</a></li>
+		<li><a href="#f11">Graduate-Level Courses for Undergraduate Credit</a></li>
+		<li><a href="#f12">Independent Study</a></li>
+		<li><a href="#f13">Petition Procedures</a></li>
+		<li><a href="#f14">Proficiency Examinations</a></li>
+		<li><a href="#f15">Required Advising for Registration Approval</a></li>
+		<li><a href="#f16">Repeat Policy for Standard Graded Courses</a></li>
+		<li><a href="#f17">Transferring</a></li>
+	</ul>
+	</li>
+	<li><a href="#g">Minors</a></li>
+	<li><a href="#h">Academic Advising</a>
+	<ul>
+		<li><a href="#h2">Advising Policy</a></li>
+		<li><a href="#h2">Required Advising</a></li>
+		<li><a href="#h3">Policies to Ensure Academic Success</a></li>
+	</ul>
+	</li>
+	<li><a href="#i">Academic Honors</a>
+	<ul>
+		<li><a href="#i1">College Honors</a></li>
+		<li><a href="#i2">Dean's List</a></li>
+		<li><a href="#i3">Department Honors</a></li>
+	</ul>
+	</li>
+	<li><a href="#j">Special Programs and Opportunities</a>
+	<ul>
+		<li><a href="#j1">Undergraduate Programs</a></li>
+		<li><a href="#j2">Business Career Center</a></li>
+		<li><a href="#j3">Academic Options</a></li>
+		<li><a href="#j4">Honor Code</a></li>
+	</ul>
+	</li>
+	<li><a href="#k">Student Organizations</a>
+	<ul>
+		<li><a href="#k1">Beta Gamma Sigma</a></li>
+	</ul>
+	</li>
+	<li><a href="#l">Sample Business Major Curriculum</a></li>
+</ul>
+<hr/>
+<h2><a id="a" name="a"></a>Introduction</h2>
+<p>The College of Business Administration transforms student potential into success. We provide a proven, research-based education, real­-world skills, and professional experiences that add up to exciting career opportunities. For the past four years <em>U.S. News &amp; World Report</em> has ranked the University of Illinois at Chicago College of Business Administration the #1 business program among accredited undergraduate business programs in Chicago.</p>
+<p>The ranking places UIC among the top 15 percent of the 467 programs accredited by the Association to Advance Collegiate Schools of Business (AACSB), the primary accreditation organization for business schools. Over 2,500 undergraduate students annually pursue degrees in seven areas:</p>
+<ol>
+	<li>accounting</li>
+	<li>entrepreneurship</li>
+	<li>finance</li>
+	<li>human resources management</li>
+	<li>information and decision sciences</li>
+	<li>management</li>
+	<li>marketing</li>
+</ol>
+<p>In addition to our campus-based programs UIC Business offers a Bachelor of Business Administration degree completion program that is offered both on campus and online. More information about this program can be found in the <em><a href="/ucat/colleges-depts/business-administration/bba/">Bachelor of Business Administration</a></em> section.</p>
+<p>UIC’s proximity to the urban business community in Chicago connects students to Chicago’s living classroom and provides constant contact with the college's 33,000 alumni.</p>
+<p>The undergraduate program's diverse student body and rigorous programs help students develop the skills they need to become the business leaders of the future. The knowledgeable faculty and the quality of their research and scholarly work are evidenced by publications in the leading journals in their fields.</p>
+<p>In addition to course work in their degree program, the curriculum includes core courses in all functional areas of business, and supporting course work in mathematics, communications, statistics, and information systems. UIC's program allows graduates to go on to pursue management and leadership positions in business and nonbusiness settings, or start and own their own businesses. The undergraduate program provides students with the skills necessary for a successful career in business and is also an excellent preparation for graduate training in business, law, or any business-related discipline.</p>
+<p>UIC Business provides a proven education that is enhanced through academically challenging course work, innovative theoretical and applied research, active professional development programs, a full-service Business Career Center, and an array of research and outreach centers.</p>
+<h2><a id="b" name="b"></a>Accreditation</h2>
+<p>The College of Business Administration is accredited by AACSB International—The Association to Advance Collegiate Schools of Business. AACSB International accreditation represents the highest standard of achievement for business schools worldwide. Institutions that earn accreditation confirm their commitment to quality and continuous improvement through a rigorous and comprehensive peer review. The accreditation ensures that the business program delivers what is promised. AACSB accreditation is the hallmark of excellence in management education.</p>
+<h2><a id="c" name="c"></a>Degree Requirements</h2>
+<p>To earn a College of Business Administration degree from UIC, students need to complete university, college, and department degree requirements. General university and college degree requirements for all College of Business Administration students are outlined below. Students should consult the academic department section for major course requirements.</p>
+<h3><a id="c1" name="c1"></a>Semester Hour Requirement</h3>
+<p>The College of Business Administration minimum semester hour requirement is 120 semester hours for all degree programs.</p>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugsemesterhourrqrmt" summary="UG Semester Hour Requirement">
+<caption class="hidden noscript">UG Semester Hour Requirement</caption>
+<colgroup><col class="column0"/><col class="column1"/><col class="column2"/><col class="column3"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Degree Program</th>
+<th scope="col" class="column1">School/Department</th>
+<th scope="col" class="column2">Degree Conferred</th>
+<th scope="col" class="column3">Total Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td class="column0">Accounting</td>
+<td class="column1">Accounting</td>
+<td class="column2">BS in Accounting</td>
+<td class="column3">120</td>
+</tr>
+<tr class="odd"><td class="column0">Entrepreneurship</td>
+<td class="column1">Managerial Studies</td>
+<td class="column2">BS in Entrepreneurship</td>
+<td class="column3">120</td>
+</tr>
+<tr class="even"><td class="column0">Finance</td>
+<td class="column1">Finance</td>
+<td class="column2">BS in Finance</td>
+<td class="column3">120</td>
+</tr>
+<tr class="odd"><td class="column0">Human Resource Management</td>
+<td class="column1">Managerial Studies</td>
+<td class="column2">BS in Human Resource Management</td>
+<td class="column3">120</td>
+</tr>
+<tr class="even"><td class="column0">Information and Decision Sciences</td>
+<td class="column1">Information and Decision Sciences</td>
+<td class="column2">BS in Information and Decision Sciences</td>
+<td class="column3">120</td>
+</tr>
+<tr class="odd"><td class="column0">Management</td>
+<td class="column1">Managerial Studies</td>
+<td class="column2">BS in Management</td>
+<td class="column3">120</td>
+</tr>
+<tr class="even"><td class="column0">Marketing</td>
+<td class="column1">Marketing</td>
+<td class="column2">BS in Marketing</td>
+<td class="column3">120</td>
+</tr>
+<tr class="odd last lastrow"><td class="column0">BBA Degree Completion Program (Online or Campus)<sup>a</sup></td>
+<td class="column1">College of Business Administration</td>
+<td class="column2">Bachelor of Business Administration</td>
+<td class="column3">60 + 60</td>
+</tr>
+</tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>The Bachelor of Business Administration online program follows a different curriculum. More information can be found in the <a href="/ucat/colleges-depts/business-administration/bba/">Bachelor of Business Administration</a> section. </em></p></td></tr></table>
+<h3><a id="Service-Hour-Requirement" name="Service-Hour-Requirement"></a>Service Hour Requirement</h3>
+<p>Students in the College of Business Administration pursuing the Bachelor of Science degrees in any of the seven majors and the on-campus BBA Program will be required to participate in a minimum of 10 hours of service learning per calendar year for a total of 40 hours in four years or for a total of 20 hours over two years for transfer students. Students in the BBA online program are exempt from the service requirement.</p>
+<h3><a id="c2" name="c2"></a>General and Basic Course Requirements</h3>
+<p>Students should take <span class="sc_courseinline"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></span> and <span class="sc_courseinline"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></span>, the courses of one of the mathematics tracks, and <span class="sc_courseinline"><a href="/search/?P=ECON%20120" title="ECON 120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON 120</a></span> and <span class="sc_courseinline"><a href="/search/?P=ECON%20121" title="ECON 121" class="bubblelink code" onclick="return showCourse(this, 'ECON 121');">ECON 121</a></span> as early as possible, since these courses are prerequisites for most of the business core courses.</p>
+
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Business Administration Professional Development</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=BA%20100" title="BA 100" class="bubblelink code" onclick="return showCourse(this, 'BA 100');">BA 100</a></td><td>Introduction to UIC and Professional Development <sup>a</sup></td><td class="hourscol">1</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=BA%20220" title="BA 220" class="bubblelink code" onclick="return showCourse(this, 'BA 220');">BA 220</a></td><td>Business Professional Development II <sup>a</sup></td><td class="hourscol">1</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=BA%20320" title="BA 320" class="bubblelink code" onclick="return showCourse(this, 'BA 320');">BA 320</a></td><td>Civic Engagement <sup>a</sup></td><td class="hourscol">1</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=BA%20420" title="BA 420" class="bubblelink code" onclick="return showCourse(this, 'BA 420');">BA 420</a></td><td>Professional Presence <sup>d</sup></td><td class="hourscol">3</td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">English</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td><td>Academic Writing I: Writing in Academic and Public Contexts <sup>b</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td><td>Academic Writing II: Writing for Inquiry and Research <sup>b</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Mathematics</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Select one of the following Tracks:</span></td><td class="hourscol">8-10</td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Track I</span> <sup>c</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MATH%20180" title="MATH 180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH 180</a></div></td><td>Calculus I <sup>b</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MATH%20181" title="MATH 181" class="bubblelink code" onclick="return showCourse(this, 'MATH 181');">MATH 181</a></div></td><td>Calculus II <sup>b</sup></td><td class="hourscol"></td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Track II</span> <sup>c</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MATH%20125" title="MATH 125" class="bubblelink code" onclick="return showCourse(this, 'MATH 125');">MATH 125</a></div></td><td>Elementary Linear Algebra <sup>b</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MATH%20165" title="MATH 165" class="bubblelink code" onclick="return showCourse(this, 'MATH 165');">MATH 165</a></div></td><td>Calculus for Business <sup>b</sup></td><td class="hourscol"></td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Track III</span> <sup>c</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MATH%20125" title="MATH 125" class="bubblelink code" onclick="return showCourse(this, 'MATH 125');">MATH 125</a></div></td><td>Elementary Linear Algebra <sup>b</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MATH%20180" title="MATH 180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH 180</a></div></td><td>Calculus I <sup>b</sup></td><td class="hourscol"></td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Economics  </span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ECON%20120" title="ECON 120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON 120</a></td><td>Principles of Microeconomics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ECON%20121" title="ECON 121" class="bubblelink code" onclick="return showCourse(this, 'ECON 121');">ECON 121</a></td><td>Principles of Macroeconomics</td><td class="hourscol">3</td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Communication</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=COMM%20100" title="COMM 100" class="bubblelink code" onclick="return showCourse(this, 'COMM 100');">COMM 100</a></td><td>Fundamentals of Human Communication</td><td class="hourscol">3</td></tr>
+<tr class="odd lastrow"><td class="codecol"><a href="/search/?P=BA%20395" title="BA 395" class="bubblelink code" onclick="return showCourse(this, 'BA 395');">BA 395</a></td><td>Assessment Experience</td><td class="hourscol">0</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">23-28</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><span class="sccourseinline"><em><span class="sc_courseinline"><a href="/search/?P=BA%20100" title="BA 100" class="bubblelink code" onclick="return showCourse(this, 'BA 100');">BA 100</a></span></em></span><em>, </em><span class="sccourseinline"><em><span class="sc_courseinline"><a href="/search/?P=BA%20220" title="BA 220" class="bubblelink code" onclick="return showCourse(this, 'BA 220');">BA 220</a></span></em></span><em>, and <span class="sc_courseinline"><a href="/search/?P=BA%20320" title="BA 320" class="bubblelink code" onclick="return showCourse(this, 'BA 320');">BA 320</a></span> </em><em>are one-semester-hour courses that are required for graduation for students who start as first year students in the College of Business Administration and transfer students who enter with less than 24 hours. The hours count in the calculation of tuition, full- or part-time enrollment status, and financial aid eligibility. The hours do not count towards the 120 hours necessary to graduate.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>Minimum grades of C must be earned in these courses.</em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>Students should select the mathematics track that matches their preparation and career goals.</em></p></td></tr><tr><td valign="top" class="symcol">d</td><td class="notecol"><p><em>Required for students who enter the College of Business Administration as transfer students. <span class="sc_courseinline"><a href="/search/?P=BA%20420" title="BA 420" class="bubblelink code" onclick="return showCourse(this, 'BA 420');">BA 420</a></span> will be applied as credit toward the degree for all Bachelor of Science programs, reducing the hours of general electives.</em></p></td></tr></table>
+<h4>University General Education Requirements</h4>
+<p>Students must satisfy the university’s General Education requirements by taking classes from various subject areas. The requirement in some of these subject areas may be fulfilled through the required courses listed above. For the categories with additional hours, students should consult the<em> <a href="/ucat/degree-programs/general-education/">General Education</a></em> section of the catalog for a list of courses in each category.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Subject Area</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Analyzing the Natural World course</span> <sup>a</sup></td><td class="hourscol">4</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Exploring World Cultures course</span></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Understanding the Creative Arts course</span></td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Understanding the Individual and Society course</span> <sup>b</sup></td><td class="hourscol">0</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Understanding the Past course</span></td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">Understanding U.S. Society course</span> <sup>c</sup></td><td class="hourscol">0</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">13</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=MATH%20125" title="MATH 125" class="bubblelink code" onclick="return showCourse(this, 'MATH 125');">MATH 125</a></span>, <span class="sc_courseinline"><a href="/search/?P=MATH%20165" title="MATH 165" class="bubblelink code" onclick="return showCourse(this, 'MATH 165');">MATH 165</a></span>, <span class="sc_courseinline"><a href="/search/?P=MATH%20180" title="MATH 180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH 180</a></span>, and <span class="sc_courseinline"><a href="/search/?P=MATH%20181" title="MATH 181" class="bubblelink code" onclick="return showCourse(this, 'MATH 181');">MATH 181</a></span> listed in the preceding General and Basic Education Requirements table are approved General Education Core courses for the Analyzing the Natural World General Education requirement. Students must take one additional course in this category.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=COMM%20100" title="COMM 100" class="bubblelink code" onclick="return showCourse(this, 'COMM 100');">COMM 100</a></span> satisfies the Understanding the Individual and Society course requirement.</em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=ECON%20120" title="ECON 120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON 120</a></span> satisfies the Understanding U.S. Society course requirement.</em></p></td></tr></table>
+<h4>Electives</h4>
+<p>Kinesiology and music skills courses cannot count in this category.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select 4-12 hours of electives. Hours of required electives are determined by the degree program in which a student is enrolled, and the mathematics track selected. Students in the Accounting degree program must take enough electives to reach 45 hours of General Course Requirements. Students in the Entrepreneurship, Finance, Information Decision Sciences, Management, and Marketing degree programs must take enough electives to reach 48 hours of General Course Requirements.</span></td><td class="hourscol">4-12</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">Students contracted in the ROTC program may only utilize hours of 200-, 300-, and 400-level Military Science (MILS) and Naval Science (NS) courses towards hours of electives required for the seven Bachelor of Science degrees in the College of Business Adminstration and the Bachelor of Business Administration degrees. MILS courses approved for general education are excluded from this limitation. In addition, CBA will allow a maximum of 3 semester hours of credit for MILS/NS courses at the 100 level and an additional 1 hour of credit in basic military science for a minimum of six months of extended active duty in any branch of the armed forces of the United States.</span></td><td class="hourscol"></td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">4-12</td></tr></tbody>
+</table>
+
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  lastrow firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Total Hours for General and Basic Education Requirements</span></td><td class="hourscol">45-48</td></tr>
+</tbody>
+</table>
+
+<h3><a id="c3" name="c3"></a>Business Course Requirements<sup>a</sup></h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Business Core—Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Accounting </span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ACTG%20210" title="ACTG 210" class="bubblelink code" onclick="return showCourse(this, 'ACTG 210');">ACTG 210</a></td><td>Introduction to Financial Accounting</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ACTG%20211" title="ACTG 211" class="bubblelink code" onclick="return showCourse(this, 'ACTG 211');">ACTG 211</a></td><td>Introduction to Managerial Accounting</td><td class="hourscol">3</td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Business Administration</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=BA%20200" title="BA 200" class="bubblelink code" onclick="return showCourse(this, 'BA 200');">BA 200</a></td><td>Managerial Communication</td><td class="hourscol">3</td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Finance </span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=FIN%20301" title="FIN 301" class="bubblelink code" onclick="return showCourse(this, 'FIN 301');">FIN 301</a></td><td>Introduction to Managerial Finance</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=FIN%20302" title="FIN 302" class="bubblelink code" onclick="return showCourse(this, 'FIN 302');">FIN 302</a></td><td>Introduction to Investments</td><td class="hourscol">3</td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Information and Decision Sciences </span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=IDS%20200" title="IDS 200" class="bubblelink code" onclick="return showCourse(this, 'IDS 200');">IDS 200</a></td><td>Intro to Management Information Systems</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=IDS%20270" title="IDS 270" class="bubblelink code" onclick="return showCourse(this, 'IDS 270');">IDS 270</a></td><td>Business Statistics I</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=IDS%20355" title="IDS 355" class="bubblelink code" onclick="return showCourse(this, 'IDS 355');">IDS 355</a></td><td>Operations Management</td><td class="hourscol">3</td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Management </span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=MGMT%20340" title="MGMT 340" class="bubblelink code" onclick="return showCourse(this, 'MGMT 340');">MGMT 340</a></td><td>Introduction to Organizations</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=MGMT%20350" title="MGMT 350" class="bubblelink code" onclick="return showCourse(this, 'MGMT 350');">MGMT 350</a></td><td>Business and Its External Environment</td><td class="hourscol">3</td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Marketing </span></td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td class="codecol"><a href="/search/?P=MKTG%20360" title="MKTG 360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG 360</a></td><td>Introduction to Marketing</td><td class="hourscol">3</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">35</td></tr></tbody>
+</table>
+
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader "> Business Core—Selective Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Advanced Quantitative Skills</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Select one of the following:</span> <sup>b</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ECON%20300" title="ECON 300" class="bubblelink code" onclick="return showCourse(this, 'ECON 300');">ECON 300</a></div></td><td>Econometrics</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FIN%20330" title="FIN 330" class="bubblelink code" onclick="return showCourse(this, 'FIN 330');">FIN 330</a></div></td><td>Quantitative Methods (required for finance majors)</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=IDS%20371" title="IDS 371" class="bubblelink code" onclick="return showCourse(this, 'IDS 371');">IDS 371</a></div></td><td>Business Statistics II (required for IDS majors)</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MKTG%20462" title="MKTG 462" class="bubblelink code" onclick="return showCourse(this, 'MKTG 462');">MKTG 462</a></div></td><td>Marketing Research (required for marketing majors who started at UIC Fall 2020 and after)</td><td class="hourscol"></td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Global Business Perspective</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Select one of the following:</span> <sup>c</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ACTG%20484" title="ACTG 484" class="bubblelink code" onclick="return showCourse(this, 'ACTG 484');">ACTG 484</a></div></td><td>International Accounting</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ECON%20333" title="ECON 333" class="bubblelink code" onclick="return showCourse(this, 'ECON 333');">ECON 333</a></div></td><td>International Economics</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FIN%20442" title="FIN 442" class="bubblelink code" onclick="return showCourse(this, 'FIN 442');">FIN 442</a></div></td><td>International Corporate Financial Management</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MGMT%20460" title="MGMT 460" class="bubblelink code" onclick="return showCourse(this, 'MGMT 460');">MGMT 460</a></div></td><td>Managing Globally</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MKTG%20469" title="MKTG 469" class="bubblelink code" onclick="return showCourse(this, 'MKTG 469');">MKTG 469</a></div></td><td>Global Marketing</td><td class="hourscol"></td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Integrative Course—Competitive Strategy </span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select one of the following:</span> <sup>d</sup></td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=IDS%20495" title="IDS 495" class="bubblelink code" onclick="return showCourse(this, 'IDS 495');">IDS 495</a></div></td><td>Competitive Strategy</td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MGMT%20495" title="MGMT 495" class="bubblelink code" onclick="return showCourse(this, 'MGMT 495');">MGMT 495</a></div></td><td>Competitive Strategy</td><td class="hourscol"></td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">10</td></tr></tbody>
+</table>
+
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  lastrow firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Total Business Core Hours </span></td><td class="hourscol">45</td></tr>
+</tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Business Core courses cannot be taken as Business Electives.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>Students MUST check their degree audits (with proper catalog year) to know which Advanced Quantitative Skills course they are eligible to take. Not all students have the option of taking all of these courses. Students should consult their academic advisor if they are uncertain about their course requirements. No exceptions will be made.</em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>Students may also use an approved Study Abroad or International Exchange to satisfy this requirement. BS Management students must take <span class="sc_courseinline"><a href="/search/?P=MGMT%20460" title="MGMT 460" class="bubblelink code" onclick="return showCourse(this, 'MGMT 460');">MGMT 460</a></span></em>.</p></td></tr><tr><td valign="top" class="symcol">d</td><td class="notecol"><p><em>These courses have the same prerequisites—senior standing and completion of all other Business Core courses. Students may take the integrative course in any department, not necessarily in their major.</em></p></td></tr></table>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">The Major and Business Electives</span> <sup>a</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select a major from the following areas:</span></td><td class="hourscol">27-30</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">Accounting, Entrepreneurship, Finance, Human Resources Management, Information and Decision Sciences, Management, and Marketing. The major consists of 27–30 hours of major courses and business electives. The exact number of business electives varies by department.</span></td><td class="hourscol"></td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">27-30</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Business Core Courses cannot be taken as Business Electives.</em></p></td></tr></table>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  lastrow firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Total Hours—Business Course Requirements</span></td><td class="hourscol">72-75</td></tr>
+</tbody>
+</table>
+
+<h3><a id="d" name="d"></a>Other Course Requirements</h3>
+<h4>Business Administration Course Requirements</h4>
+<p>All entering freshmen in the college must successfully complete <span class="sc_courseinline"><a href="/search/?P=BA%20100" title="BA 100" class="bubblelink code" onclick="return showCourse(this, 'BA 100');">BA 100</a></span> during the fall semester. This first-year experience and professional development course is designed to help students successfully transition from high school to a university environment as well as teach professional development skills needed for leadership. <span class="sc_courseinline"><a href="/search/?P=BA%20100" title="BA 100" class="bubblelink code" onclick="return showCourse(this, 'BA 100');">BA 100</a></span> includes an introduction to study strategies and techniques as well as an orientation to resources available at UIC. Students will be given an overview of the CBA degree programs and careers in business. Additionally, this course provides ample opportunities to connect with other students, faculty, staff, and organizations and activities on campus. In their second year, students must successfully complete <span class="sc_courseinline"><a href="/search/?P=BA%20220" title="BA 220" class="bubblelink code" onclick="return showCourse(this, 'BA 220');">BA 220</a></span>.  <span class="sc_courseinline"><a href="/search/?P=BA%20220" title="BA 220" class="bubblelink code" onclick="return showCourse(this, 'BA 220');">BA 220</a></span> is to be taken in students’ fourth semester and is intended to develop “professional presence”—the verbal and nonverbal skills necessary to excel professionally. In either semester of their third year, students must successfully complete <span class="sc_courseinline"><a href="/search/?P=BA%20320" title="BA 320" class="bubblelink code" onclick="return showCourse(this, 'BA 320');">BA 320</a></span>. The primary goal of <span class="sc_courseinline"><a href="/search/?P=BA%20320" title="BA 320" class="bubblelink code" onclick="return showCourse(this, 'BA 320');">BA 320</a></span> is to understand and practice the value of serving the community. A secondary goal of the class is to learn and practice building effective teams.</p>
+
+<p><span class="sc_courseinline"><a href="/search/?P=BA%20100" title="BA 100" class="bubblelink code" onclick="return showCourse(this, 'BA 100');">BA 100</a></span>, <span class="sc_courseinline"><a href="/search/?P=BA%20220" title="BA 220" class="bubblelink code" onclick="return showCourse(this, 'BA 220');">BA 220</a></span>, and <span class="sc_courseinline"><a href="/search/?P=BA%20320" title="BA 320" class="bubblelink code" onclick="return showCourse(this, 'BA 320');">BA 320</a></span> are one-semester-hour courses required for graduation. The hours count in the calculation of tuition, full- or part-time enrollment status, and financial aid eligibility. However, the hours do not count towards the 120 hours necessary to graduate.</p>
+
+<h4>Foreign Language Requirement</h4>
+<p>The College of Business Administration requires at least two years of a single foreign language in high school with minimum grades of C as a criterion for admission. Students who are admitted with a deficiency in this area must take two semesters of a single foreign language or American Sign Language at the college level with minimum grades of C or prove proficiency in a foreign language.</p>
+<h4>General Education Core</h4>
+<p>General Education at UIC is designed to serve as a foundation for lifelong learning. Students are required to complete a minimum of 24 semester hours in the General Education Core with at least one course from each of the following categories:</p>
+<ol>
+	<li>Analyzing the Natural World</li>
+	<li>Understanding the Individual and Society</li>
+	<li>Understanding the Past</li>
+	<li>Understanding the Creative Arts</li>
+	<li>Exploring World Cultures</li>
+	<li>Understanding U.S. Society</li>
+</ol>
+<p>For a description and a list of courses for each General Education Core category, students should consult the <em><a href="/ucat/degree-programs/general-education/">General Education</a></em> section of the catalog. Information on meeting the General Education requirements for each College of Business Administration degree program is detailed in the previous section on General Course Requirements.</p>
+<h4>General Education Proficiencies—University Writing Requirement</h4>
+<p>A minimum grade of C in <span class="sc_courseinline"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></span> and <span class="sc_courseinline"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></span> is a degree requirement. Transfer students who have taken the equivalent of <span class="sc_courseinline"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></span> and/or <span class="sc_courseinline"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></span> at other institutions may only receive graduation credit for these courses if they earned minimum grades of C.</p>
+
+<h4>Mathematics Requirements</h4>
+<p><strong>Business students must register for a mathematics course every semester beginning with their first semester of enrollment until one of the required mathematics tracks has been completed.</strong> After completing the required math courses, students must enroll in Business Statistics (<span class="sc_courseinline"><a href="/search/?P=IDS%20270" title="IDS 270" class="bubblelink code" onclick="return showCourse(this, 'IDS 270');">IDS 270</a></span>). Some students may be required to take prerequisite math courses prior to enrolling in the required math courses.</p>
+
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MATH%20090" title="MATH 090" class="bubblelink code" onclick="return showCourse(this, 'MATH 090');">MATH 090</a></div></td><td>Intermediate Algebra <sup>a,b</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MATH%20110" title="MATH 110" class="bubblelink code" onclick="return showCourse(this, 'MATH 110');">MATH 110</a></div></td><td>College Algebra <sup>b</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MATH%20125" title="MATH 125" class="bubblelink code" onclick="return showCourse(this, 'MATH 125');">MATH 125</a></div></td><td>Elementary Linear Algebra</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MATH%20165" title="MATH 165" class="bubblelink code" onclick="return showCourse(this, 'MATH 165');">MATH 165</a></div></td><td>Calculus for Business</td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MATH%20180" title="MATH 180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH 180</a></div></td><td>Calculus I</td><td class="hourscol"></td></tr>
+</tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Satisfactory grades are required in <span class="sc_courseinline"><a href="/search/?P=MATH%20090" title="MATH 090" class="bubblelink code" onclick="return showCourse(this, 'MATH 090');">MATH 090</a></span> to progress to the next math course.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>Credit earned for these prerequisite courses will not count toward the hours required for graduation, and the grades earned are not included in the grade point average (GPA). Students may place anywhere in this sequence</em></p></td></tr></table>
+<h3><a id="e" name="e"></a>Other Requirements</h3>
+<h4>Course Work Limitations</h4>
+<p>Courses that duplicate previous course work do not count toward graduation, nor do courses in which failing grades are received. Furthermore, credit earned in the following courses does not count towards graduation:</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=BA%20100" title="BA 100" class="bubblelink code" onclick="return showCourse(this, 'BA 100');">BA 100</a></div></td><td>Introduction to UIC and Professional Development</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=BA%20220" title="BA 220" class="bubblelink code" onclick="return showCourse(this, 'BA 220');">BA 220</a></div></td><td>Business Professional Development II</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=BA%20289" title="BA 289" class="bubblelink code" onclick="return showCourse(this, 'BA 289');">BA 289</a></div></td><td>Business Internship Program I</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=BA%20320" title="BA 320" class="bubblelink code" onclick="return showCourse(this, 'BA 320');">BA 320</a></div></td><td>Civic Engagement</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20070" title="ENGL 070" class="bubblelink code" onclick="return showCourse(this, 'ENGL 070');">ENGL 070</a></div></td><td>Introduction to Academic Writing for the Nonnative Speakers of English</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20071" title="ENGL 071" class="bubblelink code" onclick="return showCourse(this, 'ENGL 071');">ENGL 071</a></div></td><td>Introduction to Academic Writing</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MATH%20090" title="MATH 090" class="bubblelink code" onclick="return showCourse(this, 'MATH 090');">MATH 090</a></div></td><td>Intermediate Algebra</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MATH%20118" title="MATH 118" class="bubblelink code" onclick="return showCourse(this, 'MATH 118');">MATH 118</a></div></td><td>Mathematical Reasoning</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MATH%20121" title="MATH 121" class="bubblelink code" onclick="return showCourse(this, 'MATH 121');">MATH 121</a></div></td><td>Precalculus Mathematics</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MATH%20140" title="MATH 140" class="bubblelink code" onclick="return showCourse(this, 'MATH 140');">MATH 140</a></div></td><td>Arithmetic and Algebraic Structures</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MATH%20141" title="MATH 141" class="bubblelink code" onclick="return showCourse(this, 'MATH 141');">MATH 141</a></div></td><td>Algebraic and Geometric Structures</td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Kinesiology courses. Kinesiology courses that are approved for General Education requirements are accepted.</span></div></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Foreign Language courses taken to fulfill a deficiency in the CBA foreign language additional graduation requirement will not be counted in the total degree hours needed for graduation. Students who take foreign language courses that do not fall into the foreign language requirement category can use these courses to fulfill general elective credit requirements.</span></div></td><td class="hourscol"></td></tr>
+<tr class="even lastrow"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">English as a Second Language courses (CC 050 and CC 060)</span></div></td><td class="hourscol"></td></tr>
+</tbody>
+</table>
+
+<p>The only exception is that students may earn 3 semester hours of credit in <span class="sc_courseinline"><a href="/search/?P=ENGL%20070" title="ENGL 070" class="bubblelink code" onclick="return showCourse(this, 'ENGL 070');">ENGL 070</a></span> or <span class="sc_courseinline"><a href="/search/?P=ENGL%20071" title="ENGL 071" class="bubblelink code" onclick="return showCourse(this, 'ENGL 071');">ENGL 071</a></span> and a waiver of <span class="sc_courseinline"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></span> if written authorization is received from the Department of English. <span class="sc_courseinline"><a href="/search/?P=BA%20100" title="BA 100" class="bubblelink code" onclick="return showCourse(this, 'BA 100');">BA 100</a></span>, <span class="sc_courseinline"><a href="/search/?P=BA%20200" title="BA 200" class="bubblelink code" onclick="return showCourse(this, 'BA 200');">BA 200</a></span>, <span class="sc_courseinline"><a href="/search/?P=BA%20289" title="BA 289" class="bubblelink code" onclick="return showCourse(this, 'BA 289');">BA 289</a></span>, <span class="sc_courseinline"><a href="/search/?P=BA%20320" title="BA 320" class="bubblelink code" onclick="return showCourse(this, 'BA 320');">BA 320</a></span>, ESL courses, <span class="sc_courseinline"><a href="/search/?P=MATH%20090" title="MATH 090" class="bubblelink code" onclick="return showCourse(this, 'MATH 090');">MATH 090</a></span>, and Academic Skills Program courses do not carry academic credit and will not be used in computing the grade point average, but will be used for the purpose of determining full- or part-time status, and for financial aid eligibility.</p>
+
+<h4>Grade Point Average (GPA) Requirement</h4>
+<p>In addition to meeting all University requirements for the degree, students must earn a minimum cumulative GPA of 2.00/4.00 in each of the following to qualify for graduation:</p>
+<ol>
+	<li>all courses taken at the University of Illinois at Chicago</li>
+	<li>all courses (UIC and transfer) counted toward the degree and</li>
+	<li>in the major.</li>
+</ol>
+<h4>Graduation Declaration/Filing to Graduate/Degree Completion</h4>
+<p>The College of Business Administration is dedicated to assisting students with the achievement of both their academic and professional goals in a timely manner. One semester before graduation, CBA students are required to meet with their academic advisor to complete a graduation review. In the semester of graduation, students will receive a graduation check via their UIC email account verifying they are cleared to graduate. When students register for their final semester of courses, they will also declare their intent to graduate online using Student Self-Service. The deadline to declare graduation in the <em>my.UIC</em> system is the end of the third week (fall and spring) or second week (Summer Session 2) of the term in which graduation is sought. Failure to complete these two steps may delay the awarding of the degree to the next semester. A final review of the records will be made following the close of the term.</p>
+<p>Students completing all degree requirements for their declared major will need permission from their college to enroll in additional undergraduate courses. See the <em><a href="http://www.catalog.uic.edu/ucat/degree-programs/univ-degree-requirements-graduation">University Degree Requirements</a></em> section of the catalog for a complete description of this policy.</p>
+<h4>Enrollment Residence Requirement</h4>
+<p>The following college enrollment residence requirements apply to all CBA students:</p>
+<ul>
+	<li>At a minimum, 60 semester hours are required at the University of Illinois at Chicago or any other accredited four-year college or university. The enrollment residence requirements must also be met. Thus, students ordinarily should not register at a community college after completing the sophomore year.</li>
+	<li>The last 30 hours of course work must be taken in enrollment residence at UIC.</li>
+	<li>At least two-thirds of the credit required for a departmental major must be completed at UIC.</li>
+	<li>Concurrent attendance at the University of Illinois at Chicago and another collegiate institution or enrollment during the summer at another institution, when approved by the student’s college, does not interrupt the UIC or CBA enrollment residence requirement for graduation.</li>
+</ul>
+<h4>Ethics Requirement</h4>
+<p>All students are required to demonstrate understanding of business ethics through completion of an online ethics examination or by taking an ethics course offered in the CBA.</p>
+<h4>Assessment Requirement</h4>
+<p>To ensure the quality of the academic program and to assist in continuous improvement efforts, all students must participate in one assessment event prior to graduation. Students will register for a non-credit course (<span class="sc_courseinline"><a href="/search/?P=BA%20395" title="BA 395" class="bubblelink code" onclick="return showCourse(this, 'BA 395');">BA 395</a></span>) to complete this requirement.</p>
+
+<h4>Computer Requirement</h4>
+<p>Business students are required to have a laptop computer that can run the latest versions of Microsoft Windows and Office and has Wi-Fi or wireless Internet access.</p>
+<h2><a id="f" name="f"></a>College Policies</h2>
+<h3><a id="f1" name="f1"></a>Academic Load</h3>
+<p>To be considered a full-time student during the fall and spring semesters, a student must be registered for a minimum of 12 semester hours. For Summer Session 1 (Four-Week) and Summer Session 2 (Eight-Week), UIC considers a total aggregate of 6 semester hours as the minimum number necessary to constitute full-time enrollment. A maximum of 18 semester hours may be taken in a semester (12 hours between the two summer sessions). To complete a CBA degree within four years, a student must take an average course load of 15–16 hours per semester. Students requiring prerequisite math or English courses should plan to attend summer school to ensure timely graduation and meet this goal. For each hour of registered course work, students should expect to complete three hours of homework, studying, and reading.</p>
+<h3><a id="f2" name="f2"></a>Academic Probation and Dismissal Rules</h3>
+<p>Students’ academic status will be based on their semester or cumulative grade point average. Students are in “good standing,” “on probation,” or “dismissed.” Students can check their academic status after each semester on <a href="http://my.uic.edu/common/" target="_blank"><em>my.UIC</em></a>. Students who are on academic probation or who have been dismissed are informed of their status by UIC email from the college following the end of the semester.</p>
+<h4>Probation Rules</h4>
+<p>Students will be placed on academic probation in any term in which they earn either a cumulative or semester grade point average of less than 2.00/4.00. They will then be expected to earn at least a 2.00/4.00 semester grade point average and to raise their cumulative grade point average to a 2.00/4.00 to achieve good academic standing.</p>
+<p>Academic probation at UIC can only be removed by successfully completing additional course work at UIC. Probation is broken down as follows.</p>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugprobationrules" summary="UG Probation Rules">
+<caption class="hidden noscript">UG Probation Rules</caption>
+<colgroup><col class="column0"/><col class="column1"/><col class="column2"/><col class="column3"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Probation Level</th>
+<th scope="col" class="column1">Conditions</th>
+<th scope="col" class="column2">Consequences</th>
+<th scope="col" class="column3">Remedy</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td class="column0">Semester Probation</td>
+<td class="column1">Semester GPA is below 2.00/4.00, but the UIC cumulative GPA is 2.00 or higher</td>
+<td class="column2">Warning status is assigned.</td>
+<td class="column3">Must meet with an advisor to discuss academic difficulties and seek tutoring, if necessary.</td>
+</tr>
+<tr class="odd"><td class="column0">Academic Probation</td>
+<td class="column1">UIC cumulative GPA is below 2.00/4.00</td>
+<td class="column2">Academic restrictions enforced until required GPA level is achieved.</td>
+<td class="column3">Must meet with an advisor to discuss their academic progress, sign an academic contract, and seek tutoring in difficult subjects. Students are required to meet with an academic advisor three times each semester until they are no longer on probation.</td>
+</tr>
+<tr class="even last lastrow"><td class="column0">Dismissed</td>
+<td class="column1">UIC cumulative GPA is considerably below 2.00/4.00</td>
+<td class="column2">Student is dismissed from the university.</td>
+<td class="column3">Student will not be allowed to register for classes at UIC.</td>
+</tr>
+</tbody>
+</table>
+
+<p>The following rules are applied to determine the academic status of a student on probation:</p>
+<ol>
+	<li>A student in good academic standing is placed on semester probation for any semester in which less than a 2.00/4.00 GPA is earned, but the UIC cumulative GPA is 2.00 or higher (Warning Status).</li>
+	<li>A student in good academic standing is placed on academic probation in any semester in which the UIC cumulative GPA falls below a 2.00/4.00.</li>
+	<li>A student currently on academic probation is continued on academic probation (unless dismissed from the university) until both the cumulative GPA and the UIC GPA are raised to 2.00/4.00.</li>
+</ol>
+<p>CBA Undergraduate Programs determines the conditions of probation. In addition to specifying the grade point average, the college may require the completion of specific courses, limit the number of hours for which students register, and exclude students from taking certain courses while on probation.</p>
+<p>All students on probation are required to adhere to the following terms of probation (academic restrictions). Failure to do so will result in registration holds and possible academic dismissal.</p>
+<ol>
+	<li>Students must meet with their academic advisor to complete an academic contract. The contract will include any requirements and/or restrictions for the student’s next semester.</li>
+	<li>Students must schedule an appointment with their CBA academic advisor two additional times during the semester to discuss their academic progress for the term.</li>
+	<li>Students cannot register for more than 12 hours of course work for the semester (6 hours during the summer term).</li>
+	<li>Students must seek tutoring in their weak subject areas, i.e. math, accounting, economics, statistics, etc. Tutoring is available in the College of Business Administration Business Learning Center during the fall, spring, and summer semesters, the Honors College, the Writing Center, and the Mathematical Science Learning Center, as well as many other support programs on campus.</li>
+</ol>
+<h4>Dismissal Rules</h4>
+<ol>
+	<li>If a student is on academic probation, the student may be dismissed in any term in which he/she fails to meet the grade point average required by the probation status and in which the cumulative grade point average in courses taken at UIC is less than 2.00/4.00.</li>
+	<li>If a student is on academic probation, the student may be dismissed in any term in which he/she fails to meet the grade point average required by the probation and in which the combined transfer and UIC grade point average is less than 2.00/4.00.</li>
+	<li>If the student fails to make any significant progress toward a degree, the student may be dismissed from the college, and is therefore ineligible to enroll at the university in subsequent semesters.</li>
+	<li>The student may be dismissed in any term in which he or she fails to comply with the conditions set by the College of Business Administration.</li>
+</ol>
+<h3><a id="f3" name="f3"></a>Change of Course Schedule—Dropping Courses</h3>
+<p>Undergraduate students may drop courses using <a href="http://my.uic.edu/common/" target="_blank"><em>my.UIC</em></a> through the end of the second week of classes for fall and spring semesters, the first Wednesday of Summer Session 1, or the first Friday of Summer Session 2. During weeks 3 through 10 of the fall and spring semesters (first Thursday through the third Wednesday of Summer Session 1 or weeks 2 through 5 of Summer Session 2), students may drop courses with the permission of their major college. If the drop occurs between 0 and 2 weeks in fall and spring, there will be no notation on the transcript. If the drop occurs during weeks 3 through 10 in fall and spring (first Thursday through the second Wednesday of Summer Session 1 or weeks 2 through 5 of Summer Session 2), a W is noted on the transcript. Undergraduate students may drop a maximum of 4 UIC individual courses that result in a W notation on their transcript during their entire undergraduate degree program.</p>
+<p>To avoid difficulty, CBA suggests that students do the following:</p>
+<ul>
+	<li>Meet with a CBA academic advisor each semester to plan a manageable course schedule and stay on track for graduation.</li>
+	<li>Get feedback from their instructors before the drop deadline to determine if they are succeeding in their classes.</li>
+	<li>Give careful consideration before using this option early in their academic career.</li>
+</ul>
+<h3><a id="f4" name="f4"></a>Change of Major/Declaring a Major</h3>
+<p>Students are encouraged to discuss their options for majors within the College of Business Administration with faculty, career advisors, and academic advisors. CBA students must declare a major by the end of their sophomore year. Declaring or changing a major is done by making an appointment with an academic advisor.</p>
+<h3><a id="f5" name="f5"></a>Class Attendance</h3>
+<p>CBA’s expectation is that students will attend all classes because it is necessary for achieving academic success. Each instructor may establish specific attendance requirements for his/her course. The instructor is responsible for making the attendance policy clear to the students. An instructor cannot drop a student from a course due to nonattendance. It is the student’s responsibility to make certain that all courses are added and dropped properly by the published deadlines.</p>
+<h3><a id="f6" name="f6"></a>Closed Courses</h3>
+<p>Courses close because a maximum enrollment capacity is placed on each course. This limit cannot be exceeded due to fire code, safety and environmental regulations. It is necessary that students register at their assigned time to ensure the preferred course schedule.</p>
+<h3><a id="f7" name="f7"></a>College Level Examination Program (CLEP)</h3>
+<p>UIC awards credit on the basis of scores earned on the College Level Examination Program (CLEP). When seeking credit for a CLEP exam taken at another institution, a student's official score will be evaluated on UIC's credit-granting policy.</p>
+<p>CLEP credit will not count toward general education credit, university writing, quantitative reasoning, foreign language, residency, major, or minor requirements. A student cannot take a CLEP exam in a subect in which they have earned credit. Three elective credit hours will be awarded per exam. A maximum of 30 credit hours is allowed.</p>
+<p>The <a href="https://clep.collegeboard.org/exams" target="_blank">full list of CLEP exams available</a> is available online. The Office of Testing Services administers CLEP exams on campus and can be reached at (312) 996-0919 for further information on CLEP examinations.</p>
+<h3><a id="f8" name="f8"></a>Course Prerequisites</h3>
+<p>Students must meet all course prerequisites. The most up-to-date prerequisites for courses are listed on <em><a href="http://my.uic.edu/common/" target="_blank">my.UIC</a></em>. Prerequisites are put on courses to ensure students’ success in the course and to maximize understanding and comprehension of the academic material. Students who do not meet published prerequisites may be <strong>dropped</strong> from the course.</p>
+<h3><a id="f9" name="f9"></a>Credit/No Credit Option</h3>
+<p>Students may elect to take courses on the credit/no credit option under the following conditions:  </p>
+<ol>
+	<li>Students must be on clear academic status, not on academic probation;</li>
+	<li>Students must be enrolled full-time at UIC;</li>
+	<li>Only one course per semester may be taken on the credit/no credit option;</li>
+	<li>A maximum of 21 semester hours of credit/no credit course work can be earned at UIC. Courses that may <strong>not</strong> be taken on the credit/no credit option include:</li>
+</ol>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></div></td><td>Academic Writing I: Writing in Academic and Public Contexts</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></div></td><td>Academic Writing II: Writing for Inquiry and Research</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=BA%20200" title="BA 200" class="bubblelink code" onclick="return showCourse(this, 'BA 200');">BA 200</a></div></td><td>Managerial Communication</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=COMM%20100" title="COMM 100" class="bubblelink code" onclick="return showCourse(this, 'COMM 100');">COMM 100</a></div></td><td>Fundamentals of Human Communication</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ECON%20120" title="ECON 120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON 120</a></div></td><td>Principles of Microeconomics</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ECON%20121" title="ECON 121" class="bubblelink code" onclick="return showCourse(this, 'ECON 121');">ECON 121</a></div></td><td>Principles of Macroeconomics</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MATH%20125" title="MATH 125" class="bubblelink code" onclick="return showCourse(this, 'MATH 125');">MATH 125</a></div></td><td>Elementary Linear Algebra</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MATH%20165" title="MATH 165" class="bubblelink code" onclick="return showCourse(this, 'MATH 165');">MATH 165</a></div></td><td>Calculus for Business</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MATH%20180" title="MATH 180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH 180</a></div></td><td>Calculus I</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MATH%20181" title="MATH 181" class="bubblelink code" onclick="return showCourse(this, 'MATH 181');">MATH 181</a></div></td><td>Calculus II</td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">• Business Core courses </span></div></td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">• Courses taken to satisfy a requirement of a particular major, i.e., the advanced quantitative skills requirement for Finance, and Information and Decision Sciences majors</span></div></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">• Major business courses</span></div></td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">• Business elective courses</span></div></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">• Any accounting courses</span></div></td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">• Any course a department or college stipulates as not eligible to be taken under the CR/NC option; this restriction should be listed on the course syllabus</span></div></td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">• Minor courses</span></div></td><td class="hourscol"></td></tr>
+</tbody>
+</table>
+
+<p>To elect this option, students must complete a Credit/No Credit Form in the CBA Undergraduate Programs office. The form must be submitted to 1118 UH by 4:15 p.m. (the close of business) on the tenth day of instruction (or the first Friday of Summer Session 1 or the second Friday of Summer Session 2). No exceptions will be made to this policy.</p>
+<h3><a id="f10" name="f10"></a>Double Major, Double Degrees, and Second Bachelor’s Degree</h3>
+<h4>Double Major</h4>
+<p>Students pursuing a double major or dual major must submit a double major petition through <a href="http://businessconnect.uic.edu" target="_blank">Business Connect</a> on the CBA website.</p>
+<h5>Dual Degrees</h5>
+<p>Students interested in pursuing a dual degree should submit a formal request via general petition to the undergraduate programs office. If a student’s request is approved, the College of Business Administration will serve as the primary college.</p>
+<h5>Second Bachelor’s Degree</h5>
+<p>Applicants who have already earned a bachelor’s degree must <a href="http://business.uic.edu/liautaud-graduate-school-business-uic" target="_blank">apply to the graduate program</a>.</p>
+<h3><a id="f11" name="f11"></a>Graduate-Level Courses for Undergraduate Credit</h3>
+<p>The College of Business Administration prohibits undergraduate students from registering for graduate-level courses and the use of graduate-level credit applied toward the undergraduate degree. Students should understand that graduate-level courses taken by an undergraduate student are not applicable toward a future graduate or professional degree.</p>
+<h3><a id="f12" name="f12"></a>Independent Study</h3>
+<p>Students are required to contact an instructor in their major field of study to propose a topic for independent study. If approved, a Request for Independent Study Form must be completed and approved by the academic department before registering for an independent study course. In addition, if the course is to be applied toward the major, a formal petition must be approved by the department head and the Undergraduate Programs Office of the college. Students should consult the department office for specific procedures regarding enrollment in independent study courses.</p>
+<h3><a id="f13" name="f13"></a>Petition Procedure</h3>
+<p>Students who want to make formal requests or appeal college policies do so by using a petition process. CBA has various types of petitions available for different types of appeals, requests, or clarifications of policies and requirements. <a href="https://businessconnect.uic.edu/student-services/academic-resources" target="_blank">Petition forms</a> and advice for completing these forms are available in the Undergraduate Programs Office in 1111 UH or on the CBA website.</p>
+<h3><a id="f14" name="f14"></a>Proficiency Examinations</h3>
+<p>Students interested in earning proficiency credit should contact the department for information concerning eligibility and availability of a proficiency exam. This is subject to the university, college, and departmental policy on proficiency examinations. Proficiency credit cannot be earned by CBA students for major-level courses, nor can proficiency credit earned for a foreign language be used towards the degree. A student who earns proficiency credit is given the amount of credit toward graduation regularly allowed in the course. Proficiency credit is not considered an interruption of the enrollment residence requirement, nor a satisfaction of the last 30-semester-hour enrollment residence requirement for graduation.</p>
+<h3><a id="f15" name="f15"></a>Required Advising for Registration Approval</h3>
+<p>Each semester, all Accounting majors, who have started taking major-level accounting courses, are required to meet with an academic advisor and an assigned faculty advisor in their major department prior to receiving approval to register. Students on academic probation must also meet with an academic advisor prior to registering for the next semester. Registration holds will not be removed from the student’s account until these conditions have been met.</p>
+<h3><a id="f16" name="f16"></a>Repeat Policy for Standard Graded Courses</h3>
+<p>Students may repeat a course to increase their knowledge of the subject matter. There are circumstances under which repeating a course is advisable and to a student’s advantage. There are also circumstances where repeating a course may disadvantage a student and narrow a student’s options. The College of Business Administration requires students to discuss any plan to repeat a course with their academic advisor before they register to repeat the course.</p>
+<p>Courses with A, B, or C grades may not be repeated. Courses with D or F grades may be repeated once without written permissions. In all cases, the original grade for the course and the grade for each repeat <strong>will appear on the transcript</strong>. The original grade and the grade for each repeat will be calculated into the grade point average.</p>
+<p>Only one registration for the course counts toward the total number of credits required for graduation. A course cannot be repeated after receiving credit in a course for which the repeat course is a prerequisite.</p>
+<p>To repeat a course more than once requires written permission from the academic department head from which the course is being offered. Students who have been dismissed may not appeal on the grounds of intention to repeat courses. Certain courses may not be repeated; students should always consult their CBA academic advisor before repeating a course.</p>
+<h4><strong>Undergraduate Grade Point Average Recalculation/Grade Exclusion Policy</strong></h4>
+<p>The College of Business Administration may elect to implement this policy as early as the end of the junior year, or as late as the final semester during degree certification.</p>
+<p>The college will evaluate each student unable to graduate because of an academic grade point average deficit. The deficit may occur in the UIC GPA, the program GPA, or both.</p>
+<p>A student's academic record is examined so as to determine if courses, deemed appropriate by each college, with grades of F or grades of D, may be excluded from the student’s grade point average.</p>
+<p>A total of four courses may be excluded, with one course excluded at a time until the necessary quality points are obtained to meet the UIC GPA requirement and/or degree program minimum GPA. The credit hours associated with excluded course grades will not count towards graduation requirements.</p>
+<ul>
+	<li>The college will initiate course exclusions, and only in consultation with the evaluated student.</li>
+	<li>This policy only applies to undergraduate degree-seeking students.</li>
+	<li>All courses taken and all grades will remain on the official transcript.</li>
+	<li>The grade exclusion policy does not apply to courses failed as the result of a student conduct hearing.</li>
+	<li>Grades earned from institutions other than UIC cannot be excluded.</li>
+</ul>
+<p>CBA academic advisors and departments will have discretion in choosing courses that impact the student's major or degree program.</p>
+<h5><strong>Effective Term: Fall, 2017 </strong></h5>
+<p>This policy will apply to all entering students for Fall 2017. Current and continuing students (who have entered prior to Fall 2017) are able to continue using the 2009 Grade Point Average Recalculation Policy until graduation or dismissal from the university.  The new proposed policy could be applied to any current or continuing student who has not utilized the 2009 Recalculation Policy.</p>
+<h3><a id="f17" name="f17"></a>Transferring</h3>
+<h4>Intercollege Transfer Students</h4>
+<p>UIC students from other colleges may apply for transfer to the College of Business Administration. Admission is competitive and based on space availability.</p>
+<p>The following is a list of the <strong>minimum</strong> criteria needed to be considered for admission:</p>
+<ul>
+	<li>Students must have a minimum UIC grade point average of 2.50/4.00 and a cumulative grade point average (UIC and transfer) of 2.50/4.00 in 36 or more semester hours of course work to have their records reviewed by the college.</li>
+	<li>Students on academic probation or dismissal status will not be considered for admission.</li>
+	<li>Students must have successfully completed one of the following math courses with a minimum grade of C: <span class="sc_courseinline"><a href="/search/?P=MATH%20125" title="MATH 125" class="bubblelink code" onclick="return showCourse(this, 'MATH 125');">MATH 125</a></span> (<span class="sc_courseinline"><a href="/search/?P=MATH%20160" title="MATH 160" class="bubblelink code" onclick="return showCourse(this, 'MATH 160');">MATH 160</a></span> also meets this requirement), <span class="sc_courseinline"><a href="/search/?P=MATH%20165" title="MATH 165" class="bubblelink code" onclick="return showCourse(this, 'MATH 165');">MATH 165</a></span>, or <span class="sc_courseinline"><a href="/search/?P=MATH%20180" title="MATH 180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH 180</a></span>.</li>
+
+</ul>
+
+<h4>Transfer Students from Other Colleges and Universities</h4>
+<p>Admission into the college is competitive. The college reserves the right to adjust admissions criteria based on number of applications received and space availability.</p>
+<p>The following guidelines list the minimum requirements to be considered for admission to the College of Business Administration:</p>
+<ul>
+	<li>At the time of application,<sup>a</sup> a student must have completed a minimum of 24 semester hours (36 quarter hours) of credit with at least a 2.50/4.00 GPA.</li>
+	<li>At the time of enrollment,<sup>a</sup> a student must have completed a minimum of 36 semester hours of credit with at least a 2.50/4.00 GPA.</li>
+</ul>
+<p>See the Office of Admission <a href="https://admissions.uic.edu/undergraduate/undergraduate-requirements-deadlines/transfer-requirements/transfer" target="_blank">Transfer Guide</a> for more information about transfer admission requirements.</p>
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>It is highly recommended that students complete their required Academic Writing courses, Finite Math or Linear Algebra, and either Business Calculus or Calculus I with minimum grades of C by the time of enrollment at UIC.</em></p></td></tr></table>
+<h4>Transferring Out of the College of Business Administration</h4>
+<p>Students should follow the process of the receiving college when requesting a transfer out of the College of Business Administration.</p>
+<h2><a id="g" name="g"></a>Minors</h2>
+<h3>Minors for CBA Students</h3>
+<p>The College of Business Administration offers the following minors for students within the college. Completion of one of these programs will be noted on the official UIC transcript upon graduation. Students seeking one of these minors are required to have a 2.50/4.00 GPA.</p>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugminors" summary="UG Minors">
+<caption class="hidden noscript">UG Minors</caption>
+<colgroup><col class="column0" pdfwidth="50%" width="50%"/><col class="column1" pdfwidth="35%" width="35%"/><col class="column2" pdfwidth="15%" width="15%"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Minor</th>
+<th scope="col" class="column1">School/Department</th>
+<th scope="col" class="column2">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td class="column0">Business Analytics </td>
+<td class="column1">Information and Decision Sciences </td>
+<td class="column2">12</td>
+</tr>
+<tr class="odd"><td class="column0">Entrepreneurship</td>
+<td class="column1">Managerial Studies</td>
+<td class="column2">12–15</td>
+</tr>
+<tr class="even"><td class="column0">Finance</td>
+<td class="column1">Finance</td>
+<td class="column2">15</td>
+</tr>
+<tr class="odd"><td class="column0">International Business </td>
+<td class="column1">Interdepartmental </td>
+<td class="column2">15</td>
+</tr>
+<tr class="even"><td class="column0">Leadership</td>
+<td class="column1">Interdepartmental</td>
+<td class="column2">12</td>
+</tr>
+<tr class="odd"><td class="column0">Management Information Systems</td>
+<td class="column1">Information and Decision Sciences </td>
+<td class="column2">12</td>
+</tr>
+<tr class="even last lastrow"><td class="column0">Supply Chain and Operations Management </td>
+<td class="column1">Information and Decision Sciences</td>
+<td class="column2">12</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Minors for Non-CBA Students</h3>
+<p>The College of Business Administration offers the following minors for students outside of the college. Completion of one of these programs will be noted on the official UIC transcript upon graduation. Students seeking one of these minors are required to have a 2.50/4.00 GPA.</p>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugminors" summary="UG Minors">
+<caption class="hidden noscript">UG Minors</caption>
+<colgroup><col class="column0" pdfwidth="50%" width="50%"/><col class="column1" pdfwidth="35%" width="35%"/><col class="column2" pdfwidth="15%" width="15%"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Minor</th>
+<th scope="col" class="column1">School/Department</th>
+<th scope="col" class="column2">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td class="column0">Business Administration</td>
+<td class="column1">Interdepartmental</td>
+<td class="column2">18–19</td>
+</tr>
+<tr class="odd"><td class="column0">Business Analytics </td>
+<td class="column1">Information and Decision Sciences </td>
+<td class="column2">12</td>
+</tr>
+<tr class="even"><td class="column0">Entrepreneurship</td>
+<td class="column1">Managerial Studies</td>
+<td class="column2">12–15</td>
+</tr>
+<tr class="odd"><td class="column0">Finance</td>
+<td class="column1">Finance</td>
+<td class="column2">15</td>
+</tr>
+<tr class="even"><td class="column0">Management Information Systems</td>
+<td class="column1">Information and Decision Sciences </td>
+<td class="column2">12</td>
+</tr>
+<tr class="odd last lastrow"><td class="column0">Supply Chain and Operations Management</td>
+<td class="column1">Information and Decision Sciences</td>
+<td class="column2">12</td>
+</tr>
+</tbody>
+</table>
+
+<h2><a id="h" name="h"></a>Academic Advising</h2>
+<p>Academic advisors are located in the CBA Undergraduate Programs Office located on the 11th floor of University Hall, room 111. Office hours are Monday through Friday, 8:30 to 4:45. Additional information can be found on the <a href="https://businessconnect.uic.edu/undergraduate" target="_blank">CBA website</a>.</p>
+<h3><a id="h1" name="h1"></a>Advising Policy</h3>
+<p>The CBA Student Services Office provides academic advising regarding course selection and registration, transfer credit, academic probation, and progress made toward the degree. It is the student’s responsibility to make certain that the degree requirements are fulfilled. The college strongly recommends that all students meet with an advisor each semester to plan a manageable course schedule to stay on track for graduation.</p>
+<h3><a id="h2" name="h2"></a>Required Advising</h3>
+<p>Students should meet with an advisor for any of the situations listed below:  </p>
+<ul>
+	<li>All new students must attend an Orientation session to meet with an advisor and register for classes.</li>
+	<li>All beginning freshmen should meet with their academic advisor each semester during their first year.</li>
+	<li>All new transfer students are assigned an advisor and should meet with them during their first semester.</li>
+	<li>All new intercollege transfer students should meet with an advisor in their first semester.</li>
+	<li>Juniors and seniors majoring in Accounting should meet with a college advisor prior to meeting with an assigned faculty advisor in the Accounting department each semester.</li>
+	<li>Students on academic probation and whose UIC GPA is below 2.00/4.00 may be required to meet with an advisor two to three times each semester until the probationary status has been cleared.</li>
+	<li>All graduating seniors are required to meet with an advisor for a graduation check the semester before they plan to graduate. See <em>Graduation Declaration/Filing to Graduate/Degree Completion</em> in this section of the catalog for information on filing to graduate.</li>
+</ul>
+<p>Individual academic advising is by appointment. General questions can be answered by phone and email. Students faced with an emergency situation should contact CBA Student Services at (312) 996-2700.</p>
+<h3><a id="h3" name="h3"></a>Policies to Ensure Academic Progress </h3>
+<ul>
+	<li>Meet with an academic advisor each semester to facilitate academic success and stay on track for graduation.</li>
+	<li>It is recommended that students enroll in a manageable course load of 12–16 hours the first semester of the freshman year. After the first semester, to complete the degree within four years, a student must enroll in an average course load of 15–16 hours per semester every semester after their first. The maximum course load is 18 hours per semester (12 hours between the two summer sessions).</li>
+	<li>Students must choose courses for which they meet the prerequisites. Current prerequisites are listed on <a href="http://my.uic.edu/common/" target="_blank"><em>my.UIC</em></a> or the online course descriptions.</li>
+	<li>Students must enroll in a math or statistics course each semester until the sequence is completed.</li>
+	<li><span class="sc_courseinline"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></span> and <span class="sc_courseinline"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></span> should be completed by the end of the freshman year with minimum grades of C.</li>
+
+	<li><span class="sc_courseinline"><a href="/search/?P=ECON%20120" title="ECON 120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON 120</a></span> should be completed during the first semester in which a student is enrolled for <span class="sc_courseinline"><a href="/search/?P=MATH%20125" title="MATH 125" class="bubblelink code" onclick="return showCourse(this, 'MATH 125');">MATH 125</a></span> or <span class="sc_courseinline"><a href="/search/?P=MATH%20180" title="MATH 180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH 180</a></span>.</li>
+
+	<li><span class="sc_courseinline"><a href="/search/?P=IDS%20200" title="IDS 200" class="bubblelink code" onclick="return showCourse(this, 'IDS 200');">IDS 200</a></span> should be completed after the first semester of the freshman year or during the sophomore year.</li>
+
+	<li>Finance and Information and Decisions Science majors should complete the advanced quantitative skills course after <span class="sc_courseinline"><a href="/search/?P=IDS%20270" title="IDS 270" class="bubblelink code" onclick="return showCourse(this, 'IDS 270');">IDS 270</a></span> credit is earned.</li>
+
+</ul>
+
+<h2><a id="i" name="i"></a>Academic Honors</h2>
+<h3><a id="i1" name="i1"></a>College Honors</h3>
+<p>College Honors are awarded when a student graduates and are noted on both the diploma and transcript. To qualify for College Honors, students must do the following:</p>
+<ol>
+	<li>Complete the degree requirements.</li>
+	<li>Earn a minimum of 60 semester hours of credit at UIC.</li>
+	<li>Achieve a minimum UIC cumulative grade point average of 3.50.</li>
+</ol>
+<h3><a id="i2" name="i2"></a>Dean’s List</h3>
+<p>Students are eligible for the Dean’s List if they have completed a minimum of 12 graded hours, or 6 graded hours during the summer term, and if they earn a term grade point average of 3.50 or higher. Although the grade point average excludes courses taken on the credit/no credit option, a student who fails a course taken under this option is <strong>ineligible</strong> for the Dean’s List.</p>
+<h3><a id="i3" name="i3"></a>Department Honors</h3>
+<p>Department Honors are awarded when a student graduates and are noted on the UIC official transcript. Department honors are awarded if the student meets the grade point average criteria listed below:</p>
+<ul>
+	<li><strong>Distinction:</strong> Overall cumulative GPA of 3.25 and major GPA of 3.25</li>
+	<li><strong>High Distinction: </strong>Overall cumulative GPA of 3.50 and major GPA of 3.50</li>
+	<li><strong>Highest Distinction:</strong> Overall cumulative GPA of 3.75 and major GPA of 3.75</li>
+</ul>
+<h2><a id="j" name="j"></a>Special Programs and Opportunities</h2>
+<h3><a id="j1" name="j1"></a>Undergraduate Programs </h3>
+<ul>
+	<li>The CBA’s official mode of communication is through UIC email. The CBA keeps its students informed of news and deadlines through UIC email and the UIC Business newsletter. CBA students are expected to check their UIC email account daily for updates.</li>
+	<li>The CBA awards approximately $500,000 in scholarships per year. Applications are submitted online in January with the deadline in early February. Scholarship recipients are notified in April and the scholarship awards are distributed in the next fall semester. Information about <a href="https://businessconnect.uic.edu/student-services/scholarships" target="_blank">applying for scholarships</a> can be found online.</li>
+	<li>Student organizations related to each of the business majors provide opportunities for students to interact with faculty, alumni, and corporate professionals. Some of the CBA student organizations are: Accounting Club, Beta Alpha Psi, Beta Gamma Sigma, The Business Student Advisory Board, The Finance and Investment Group, Collegiate Entrepreneurship Organization, Latino Association of Business Students, American Marketing Association, Management Leadership Association, National Association of Black Accountants, Information and Decision Sciences Organization, INFORMS, UIC has over 300 registered student organizations. Organizations can be found on the <a href="http://campusprograms.uic.edu" target="_blank">Center for Student Involvement website</a>.</li>
+	<li>The CBA offers Honors/Business Scholars courses each semester. Students must be a member of the Business Scholars (Honors College) to take these courses or have a cumulative GPA of 3.40/4.00. These courses provide an enhanced classroom experience and more contact and interaction with the professor. The Honors Course Designation will be noted on the official UIC transcript.</li>
+	<li>Business students may opt to live on the Business floors of the residence halls which provide an opportunity to connect, study, and socialize with other business students. Special programs are delivered by the college in the residence hall.</li>
+	<li>Notable authors and business executives are invited to speak and interact with CBA students on a regular basis. Professional development opportunities will be offered.</li>
+	<li>The CBA Tutoring Program is available to business students in the areas of accounting, finance, and statistics.</li>
+</ul>
+<h3><a id="j2" name="j2"></a>Business Career Center</h3>
+<p>The <a href="https://businessconnect.uic.edu/business-career-center" target="_blank">Undergraduate Business Career Center (BCC)</a> encourages students to participate in many activities that are designed to prepare future business leaders for their careers. Information can be found on the CBA website.</p>
+<ul>
+	<li>Career advisors help students gain career preparation and planning skills that they can use throughout their careers.</li>
+	<li>Resume development and mock interviews help maximize each student’s opportunity for employment.</li>
+	<li>Internships expose students to professional organizations through full-time and part-time paid internships. Students gain hands-on experience with corporate, nonprofit and governmental clients in their fields of study.</li>
+	<li>Students can meet hundreds of company representatives and learn about employment trends, salary ranges, and corporate cultures through student organizations and campus job fairs.</li>
+	<li>The Business Career Center hosts career fairs, corporate information sessions, resume expos, mock interview days, job shadow days, and other career related events.</li>
+</ul>
+<p>Career advising services include:  </p>
+<ul>
+	<li>Career path and job market information</li>
+	<li>Resume and cover letter reviews</li>
+</ul>
+<p>We <em>Coach</em> students:</p>
+<ul>
+	<li>in 1:1 career advising sessions</li>
+	<li>at our Resume Expo</li>
+	<li>during mock interviews</li>
+	<li>through preparation sessions</li>
+</ul>
+<p>We <em>Expose</em> students to employers through our:</p>
+<ul>
+	<li>Internship Preparation Series</li>
+	<li>MBA Career Topics</li>
+	<li>corporate site visits </li>
+	<li>Alumni for You Program</li>
+</ul>
+<p>We <em>Connect</em> students to employers via our:</p>
+<ul>
+	<li>Business Career Fair</li>
+	<li>Meet the Firms, Accounting Career Fair</li>
+	<li>On-campus Interviews</li>
+</ul>
+<p>The <a href="https://businessconnect.uic.edu/business-career-center/services" target="_blank">Undergraduate Business Career Center</a> is located on the first floor of Douglas Hall.</p>
+<h3><a id="j3" name="j3"></a>Academic Options</h3>
+<ul>
+	<li>UIC Business Scholars Program is a highly selective four-year cohort honors program for first-year undergraduate business majors designed to develop leadership excellence and professionalism through courses, workshops, service opportunities, and development activities. Students who qualify for in-state tuition will be awarded a minimum scholarship that is renewable for up to four years as long as the student remains eligible.</li>
+	<li>The UIC Study Abroad Program and Exchange Program provide students the opportunity to take courses in universities around the world. Courses must be reviewed and approved by the College of Business Administration for credit towards graduation.</li>
+	<li>A Certificate in Entrepreneurial Studies is available to students in the College of Business Administration interested in the area of small business. This is an excellent opportunity for students to choose their major electives with an academic objective.</li>
+	<li>Students may pursue Minors in: Business Administration, Business Analytics, Business Operations, Entrepreneurship, Finance, International Business, Management Information Systems, or Managerial Skills, as well as minors outside of the college.</li>
+</ul>
+<h3><a id="j4" name="j4"></a>Honor Code</h3>
+<p>As an academic community, the College of Business Administration at the University of Illinois at Chicago is committed to providing an environment in which teaching, learning, research, and scholarship can flourish and in which all endeavors are guided by academic and professional integrity. All members of the college community—students, faculty, staff, and administrators—share the responsibility of insuring that high standards of integrity are upheld so that such an environment exists.</p>
+<p>In pursuit of these high ideals and standards of academic life, students will be expected to respect and uphold the UIC College of Business Administration Honor Code throughout their academic life at UIC. They will be expected to maintain the highest moral and ethical standards in all academic and business endeavors and to conduct themselves honorably as responsible members of the college academic community. This includes the following: </p>
+<ul>
+	<li>Not to seek unfair advantage over other students, including but not limited to giving or receiving unauthorized aid during completion of academic requirements;</li>
+	<li>To represent fact and self truthfully at all times;</li>
+	<li>To respect the property and personal rights of all members of the academic community.</li>
+</ul>
+<p>Violations of the Honor Code are just causes for discipline under the University of Illinois at Chicago Student Disciplinary Policy, and all allegations of Honor Code violations shall be handled pursuant to that Policy.</p>
+<h2><a id="k" name="k"></a>Student Organizations and Co-Curricular Opportunities</h2>
+<p>Student organizations related to each of the business majors provide opportunities for students to interact with faculty, alumni, and corporate professionals. To learn more about student organizations please visit the <a href="https://businessconnect.uic.edu/undergrad/current-undergrad-students/" target="_blank">UIC Business Connect website</a>. </p>
+<h3><a id="k1" name="k1"></a>Beta Gamma Sigma</h3>
+<p>The College of Business Administration annually invites the upper 10 percent of the junior class and senior class to accept membership in Beta Gamma Sigma, the national scholastic honor society in the field of business administration. Inductees must have completed at least 30 semester hours at UIC and are chosen on the basis of their UIC and cumulative grade point averages.</p>
+<h2><a id="l" name="l"></a>Sample Business Major Curriculum</h2>
+<table pdfnorepeatheader="true" class="sc_plangrid">
+<caption>Plan of Study Grid</caption><colgroup>
+	<col class="codecol"/>
+	<col class="titlecol"/>
+	<col class="hourscol"/>
+</colgroup>
+<tr class="plangridyear"><th id="plangrid2_0" class="year" colspan="3">Freshman Year</th></tr>
+<tr class="plangridterm"><th id="plangrid2_0_0" colspan="2">First Semester</th><th id="hoursheader" scope="col" class="hourscol">Hours</th></tr>
+<tr class="even"><td headers=" plangrid2_0_0" class="codecol"><a href="/search/?P=BA%20100" title="BA 100" class="bubblelink code" onclick="return showCourse(this, 'BA 100');">BA 100</a></td>
+<td headers=" plangrid2_0_0" class="titlecol">Introduction to UIC and Professional Development <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_0" class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td>
+<td headers=" plangrid2_0_0" class="titlecol">Academic Writing I: Writing in Academic and Public Contexts</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_0" colspan="2" class="codecol"><span class="comment">Math Track first course:</span></td>
+<td headers="hoursheader" class="hourscol">4-5</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MATH%20125" title="MATH 125" class="bubblelink code" onclick="return showCourse(this, 'MATH 125');">MATH 125</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=MATH%20180" title="MATH 180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH 180</a></div></div></td>
+<td headers=" plangrid2_0_0" class="titlecol">Elementary Linear Algebra<br/><div style="margin-left:20px;" class="blockindent">or Calculus I</div></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_0" class="codecol"><a href="/search/?P=ECON%20120" title="ECON 120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON 120</a></td>
+<td headers=" plangrid2_0_0" class="titlecol">Principles of Microeconomics</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_0" class="codecol"><a href="/search/?P=COMM%20100" title="COMM 100" class="bubblelink code" onclick="return showCourse(this, 'COMM 100');">COMM 100</a></td>
+<td headers=" plangrid2_0_0" class="titlecol">Fundamentals of Human Communication</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid2_0_0" class="titlecol">Hours</td><td headers=" plangrid2_0_0 hoursheader" class="hourscol">13-14</td></tr>
+<tr class="plangridterm"><th id="plangrid2_0_1" colspan="3">Second Semester</th></tr>
+<tr class="odd"><td headers=" plangrid2_0_1" class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td>
+<td headers=" plangrid2_0_1" class="titlecol">Academic Writing II: Writing for Inquiry and Research</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_1" colspan="2" class="codecol"><span class="comment">Math Track second course:</span></td>
+<td headers="hoursheader" class="hourscol">4-5</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MATH%20165" title="MATH 165" class="bubblelink code" onclick="return showCourse(this, 'MATH 165');">MATH 165</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=MATH%20180" title="MATH 180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH 180</a><br/>or <a href="/search/?P=MATH%20181" title="MATH 181" class="bubblelink code" onclick="return showCourse(this, 'MATH 181');">MATH 181</a></div></div></td>
+<td headers=" plangrid2_0_1" class="titlecol">Calculus for Business<br/><div style="margin-left:20px;" class="blockindent">or Calculus I<br/>or Calculus II</div></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_1" colspan="2" class="codecol"><span class="comment">One of the following:</span></td>
+<td headers="hoursheader" class="hourscol">3-4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=IDS%20200" title="IDS 200" class="bubblelink code" onclick="return showCourse(this, 'IDS 200');">IDS 200</a></div></td>
+<td headers=" plangrid2_0_1" class="titlecol">Intro to Management Information Systems <sup>c</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ACTG%20210" title="ACTG 210" class="bubblelink code" onclick="return showCourse(this, 'ACTG 210');">ACTG 210</a></div></td>
+<td headers=" plangrid2_0_1" class="titlecol">Introduction to Financial Accounting <sup>c</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FIN%20301" title="FIN 301" class="bubblelink code" onclick="return showCourse(this, 'FIN 301');">FIN 301</a></div></td>
+<td headers=" plangrid2_0_1" class="titlecol">Introduction to Managerial Finance <sup>c</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_1" class="codecol"><a href="/search/?P=ECON%20121" title="ECON 121" class="bubblelink code" onclick="return showCourse(this, 'ECON 121');">ECON 121</a></td>
+<td headers=" plangrid2_0_1" class="titlecol">Principles of Macroeconomics</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid2_0_1" class="titlecol">Hours</td><td headers=" plangrid2_0_1 hoursheader" class="hourscol">13-15</td></tr>
+<tr class="plangridyear"><th id="plangrid2_1" class="year" colspan="3">Sophomore Year</th></tr>
+<tr class="plangridterm"><th id="plangrid2_1_0" colspan="3">First Semester</th></tr>
+<tr class="even"><td headers=" plangrid2_1_0" class="codecol"><a href="/search/?P=IDS%20270" title="IDS 270" class="bubblelink code" onclick="return showCourse(this, 'IDS 270');">IDS 270</a></td>
+<td headers=" plangrid2_1_0" class="titlecol">Business Statistics I</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_0" class="codecol"><a href="/search/?P=ACTG%20210" title="ACTG 210" class="bubblelink code" onclick="return showCourse(this, 'ACTG 210');">ACTG 210</a></td>
+<td headers=" plangrid2_1_0" class="titlecol">Introduction to Financial Accounting</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_1_0" class="codecol"><a href="/search/?P=BA%20200" title="BA 200" class="bubblelink code" onclick="return showCourse(this, 'BA 200');">BA 200</a></td>
+<td headers=" plangrid2_1_0" class="titlecol">Managerial Communication</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_0" colspan="2" class="codecol"><span class="comment">General Education Core course (example: Analyzing the Natural World)</span> <sup>b</sup></td>
+<td headers="hoursheader" class="hourscol">5</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid2_1_0" class="titlecol">Hours</td><td headers=" plangrid2_1_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid2_1_1" colspan="3">Second Semester</th></tr>
+<tr class="odd"><td headers=" plangrid2_1_1" class="codecol"><a href="/search/?P=BA%20220" title="BA 220" class="bubblelink code" onclick="return showCourse(this, 'BA 220');">BA 220</a></td>
+<td headers=" plangrid2_1_1" class="titlecol">Business Professional Development II</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_1_1" class="codecol"><a href="/search/?P=ACTG%20211" title="ACTG 211" class="bubblelink code" onclick="return showCourse(this, 'ACTG 211');">ACTG 211</a></td>
+<td headers=" plangrid2_1_1" class="titlecol">Introduction to Managerial Accounting</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_1" class="codecol"><a href="/search/?P=FIN%20301" title="FIN 301" class="bubblelink code" onclick="return showCourse(this, 'FIN 301');">FIN 301</a></td>
+<td headers=" plangrid2_1_1" class="titlecol">Introduction to Managerial Finance</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_1_1" class="codecol"><a href="/search/?P=MGMT%20340" title="MGMT 340" class="bubblelink code" onclick="return showCourse(this, 'MGMT 340');">MGMT 340</a></td>
+<td headers=" plangrid2_1_1" class="titlecol">Introduction to Organizations</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_1" colspan="2" class="codecol"><span class="comment">General Education Core course (example: Understanding the Past)</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_1_1" colspan="2" class="codecol"><span class="comment">Elective </span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid2_1_1" class="titlecol">Hours</td><td headers=" plangrid2_1_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridyear"><th id="plangrid2_2" class="year" colspan="3">Junior Year</th></tr>
+<tr class="plangridterm"><th id="plangrid2_2_0" colspan="3">First Semester</th></tr>
+<tr class="even"><td headers=" plangrid2_2_0" class="codecol"><a href="/search/?P=FIN%20302" title="FIN 302" class="bubblelink code" onclick="return showCourse(this, 'FIN 302');">FIN 302</a></td>
+<td headers=" plangrid2_2_0" class="titlecol">Introduction to Investments</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_2_0" class="codecol"><a href="/search/?P=MKTG%20360" title="MKTG 360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG 360</a></td>
+<td headers=" plangrid2_2_0" class="titlecol">Introduction to Marketing</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_2_0" colspan="2" class="codecol"><span class="comment">Advanced Quantitative Skills</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_2_0" colspan="2" class="codecol"><span class="comment">General Education Core course (example: Exploring World Cultures)</span> <sup>b</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_2_0" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_2_0" class="codecol"><a href="/search/?P=BA%20320" title="BA 320" class="bubblelink code" onclick="return showCourse(this, 'BA 320');">BA 320</a></td>
+<td headers=" plangrid2_2_0" class="titlecol">Civic Engagement (<span class="comment">can be taken either semester junior year)</span>)</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid2_2_0" class="titlecol">Hours</td><td headers=" plangrid2_2_0 hoursheader" class="hourscol">15-16</td></tr>
+<tr class="plangridterm"><th id="plangrid2_2_1" colspan="3">Second Semester</th></tr>
+<tr class="odd"><td headers=" plangrid2_2_1" class="codecol"><a href="/search/?P=IDS%20355" title="IDS 355" class="bubblelink code" onclick="return showCourse(this, 'IDS 355');">IDS 355</a></td>
+<td headers=" plangrid2_2_1" class="titlecol">Operations Management</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_2_1" class="codecol"><a href="/search/?P=MGMT%20350" title="MGMT 350" class="bubblelink code" onclick="return showCourse(this, 'MGMT 350');">MGMT 350</a></td>
+<td headers=" plangrid2_2_1" class="titlecol">Business and Its External Environment</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_2_1" colspan="2" class="codecol"><span class="comment">Major course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_2_1" colspan="2" class="codecol"><span class="comment">Major course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_2_1" colspan="2" class="codecol"><span class="comment">General Education Core course (example: Understanding the Creative Arts)</span> <sup>b</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid2_2_1" class="titlecol">Hours</td><td headers=" plangrid2_2_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridyear"><th id="plangrid2_3" class="year" colspan="3">Senior Year</th></tr>
+<tr class="plangridterm"><th id="plangrid2_3_0" colspan="3">First Semester</th></tr>
+<tr class="odd"><td headers=" plangrid2_3_0" colspan="2" class="codecol"><span class="comment">Global Business Perspectives</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_3_0" colspan="2" class="codecol"><span class="comment">Major course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_3_0" colspan="2" class="codecol"><span class="comment">Major course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_3_0" colspan="2" class="codecol"><span class="comment">Business Elective/Major course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_3_0" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid2_3_0" class="titlecol">Hours</td><td headers=" plangrid2_3_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid2_3_1" colspan="3">Second Semester</th></tr>
+<tr class="odd"><td headers=" plangrid2_3_1" colspan="2" class="codecol"><span class="comment">Major course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_3_1" colspan="2" class="codecol"><span class="comment">Major course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_3_1" colspan="2" class="codecol"><span class="comment">Business Elective/Major course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_3_1" colspan="2" class="codecol"><span class="comment">Business Elective/Major course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_3_1" colspan="2" class="codecol"><span class="comment">Integrative course</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid2_3_1" class="titlecol">Hours</td><td headers=" plangrid2_3_1 hoursheader" class="hourscol">16</td></tr>
+<tr class="plangridtotal lastrow odd"><td> </td><td>Total Hours</td><td headers="hoursheader" class="hourscol">120</td></tr>
+</table>
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em> <span class="sc_courseinline"><a href="/search/?P=BA%20100" title="BA 100" class="bubblelink code" onclick="return showCourse(this, 'BA 100');">BA 100</a></span>, <span class="sc_courseinline"><a href="/search/?P=BA%20220" title="BA 220" class="bubblelink code" onclick="return showCourse(this, 'BA 220');">BA 220</a></span>, and <span class="sc_courseinline"><a href="/search/?P=BA%20320" title="BA 320" class="bubblelink code" onclick="return showCourse(this, 'BA 320');">BA 320</a></span> are required one-semester-hour courses, but the hours do not count toward the total hours required for graduation.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>Courses may be taken in any semester in any order.</em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>Accounting and Finance students may start with the core courses in their major.</em></p></td></tr></table></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="business-administration.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

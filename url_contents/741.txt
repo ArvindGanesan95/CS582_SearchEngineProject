@@ -1,0 +1,179 @@
+https://go.uic.edu/
+
+<!DOCTYPE html
+  PUBLIC "XSLT-compat">
+<html xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Webtools | Short URLs</title>
+<link rel="shortcut icon" href="https://webservices.illinois.edu/webservices/styles/favicon/illinois.edu/favicon.ico" type="image/x-icon">
+</head>
+<body style="margin:0;">
+<!--[if (gte mso 9) | (gte IE 7)]><style>
+                    /* set table width for Outlook 2007+ */
+                    table#wrapper 
+                    { 
+                        width:724px !important; 
+                    } 
+                </style><![endif]-->
+<style>
+                    table#wrapper
+                    {
+                        max-width:724px !important;
+                        box-shadow: 0 3px 10px -3px #666666, 0 3px 10px -10px #666666 ;
+                    }
+                    table th, 
+                    table td
+                    {
+                        padding:0 !important;
+                    }
+                    .col-2 table td {
+                    padding: 10px !important;
+                    }
+                    #outlook a
+                    {
+                        padding:0;
+                    }
+                    .ExternalClass
+                    {
+                        width:100%;
+                    }
+                    .ExternalClass, 
+                    .ExternalClass p, 
+                    .ExternalClass span, 
+                    .ExternalClass font, 
+                    .ExternalClass td, 
+                    .ExternalClass div
+                    {
+                        line-height:100% !important;
+                    }
+                    .content-td a,
+                    .content-div a
+                    {
+                        color: #056DFF;
+                        text-decoration: none;
+                    }
+                    .content-td a:hover,
+                    .content-div a:hover
+                    {
+                        color: #;
+                        text-decoration: underline;
+                    }
+                    #footer a
+                    {
+                        color: #E2E3E4;
+                        text-decoration: none;
+                    }
+                    #footer a:hover
+                    {
+                        color: #;
+                        text-decoration: underline;
+                    }
+                    #footer img
+                    {
+                        border:0;
+                    }
+                </style>
+<style>
+                    span.preheader{display:none !important;}
+                </style>
+<style type="text/css">
+#main td  {
+padding:0px;
+}
+#main td .edu-uiuc-webservices-calendar-title  {
+padding-top:2px;
+padding-bottom:1px;
+padding-right:10px;
+
+}
+</style>
+<table bgcolor="#F8F8F8" style="background-color:#F8F8F8;width:100%; border-collapse: collapse;">
+  <tbody>
+      <tr>
+    
+    <td><table id="archive-label" align="center" border="0" cellpadding="0" cellspacing="0" style="max-width:724px;" width="">
+        <tr><!-- ARCHIVE_LINK_START -->
+        <tr>
+          <td align="left" bgcolor="#F8F8F8" style="background:#F8F8F8;line-height:12px;padding:0;">&nbsp;</td>
+        </tr>
+        <!-- ARCHIVE_LINK_STOP -->
+        <tr>
+          <td align="left" bgcolor="#F8F8F8" style="background:#F8F8F8;line-height:12px;padding:0;">&nbsp;</td>
+        </tr>
+          </tr>
+        
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" style="border:none;max-width:724px;border-collapse:collapse;" width="" id="wrapper">
+        <tr id="header">
+          <td align="left" bgcolor="#E6E6E6" style="background:#E6E6E6;padding:0;width:100%;border-bottom:1px solid #E6E6E6;" width="100%" colspan="3"><a href="https://webtools.illinois.edu" style="border:0;"><img style="vertical-align:top;width:100%;border:0;" src="https://skins.webservices.illinois.edu/files/29844/wizard_header.png?iIndex=1017T151743" alt="Web Services" width="100%"></a></td>
+        </tr>
+        <tbody>
+          <tr>
+            <td align="left" colspan="3" style="padding:0;width:100%;" width="100%"><table id="content-tb" background="#ffffff" bgcolor="#ffffff" cellpadding="0" cellspacing="0" style="background:#ffffff;border:none;border-top:none;width:100%;">
+                <tbody>
+                  <tr>
+                    <td align="left" colspan="3" style="padding:0;line-height:24px;height:24px;font-size:24px;">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td align="left" style="padding:0;width:5%;" width="5%">&nbsp;</td>
+                    <td class="content-td" align="left" style="padding:0;width:90%;color:#555;font-size:16px;" width="90%"><table class="content-div" cellpadding="0" cellspacing="0" style="font-family:Verdana;font-size:16px;color:#555;width:100%;">
+                        <tr>
+                          <td><div id="system-form-header"></div>
+                            
+                            <!--  SKIN_HEADER_END --> 
+                            <!--CONTENT_STARTS-->
+                            
+                            <h1>Short URLs</h1>
+                            <p style="font-size:100%;line-height:140%;">The Short URL Webtool allows you to take a long URL and create a short one that points to it. 
+                              Short URLs are great for print or emailing or displaying on a Web page. If the long URL changes, simply update it in the Webtools; no need to reprint marketing material or resend emails. 
+                              It also has a reporting feature that lets you know when the link has been clicked. <br>
+                              <br>
+                              <strong>Login to the Webtools at:</strong><br>
+                              <a href="https://webtools.illinois.edu">https://webtools.illinois.edu</a> </p>
+                            <p>Provided by Web Services in Public Affairs at the University of Illinois </p>
+                            
+                            <!--CONTENT_ENDS--> 
+                            <!--  SKIN_FOOTER_START --></td>
+                        </tr>
+                      </table></td>
+                    <td align="left" style="padding:0;width:5%;" width="5%">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td align="left" colspan="3" style="padding:0;line-height:24px;height:24px;font-size:24px;">&nbsp;</td>
+                  </tr>
+                </tbody>
+              </table></td>
+          </tr>
+          <tr>
+            <td align="left" bgcolor="#48484A" style="background:#48484A;padding:0;line-height:8px;border-top:12px solid #FFFFFF;" colspan="3">&nbsp;</td>
+          </tr>
+          <tr id="footer-wrapper">
+            <td align="left" bgcolor="#48484A" style="background:#48484A;padding:0;width:35px;">&nbsp;</td>
+            <td align="center" id="footer" bgcolor="#48484A" border="0" style="width:654px;text-align:center;background-color:#48484A;color:#E2E3E4;font-family:Verdana;font-size:75%;padding:0;"><p style="text-align: left;">&nbsp;</p>
+              <p style="text-align: left; color: #8fbdff; letter-spacing: 0.1em; text-transform: uppercase;"><span style="font-family: verdana, geneva, sans-serif; font-size: 18px;">Web Services</span></p>
+              <p style="text-align: left;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12px;">507 E. Green Street, MC-426<br />
+                Champaign, IL 61820</span></p>
+              <p style="text-align: left;"><span style="font-family: verdana, geneva, sans-serif; font-size: 12px;"> <a href="https://blogs.illinois.edu/view/6291">Help Blog&nbsp;&raquo;</a><br />
+                <a href="https://blogs.illinois.edu/view/437">Announcements&nbsp;&raquo;</a><br />
+                <a href="https://blogs.illinois.edu/view/7252">About Web Services&nbsp;&raquo;</a><br />
+                <a href="https://forms.illinois.edu/sec/4337334">Questions? Contact us&nbsp;&raquo;</a></span></p></td>
+            <td align="left" bgcolor="#48484A" style="background:#48484A;padding:0;width:35px;">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="left" bgcolor="#48484A" style="background:#48484A;padding:0;line-height:8px;" colspan="3">&nbsp;</td>
+          </tr>
+        </tbody>
+      </table></td>
+      </tr>
+    
+    <tr>
+      <td align="left" style="padding:0;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="left" style="padding:0;">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>

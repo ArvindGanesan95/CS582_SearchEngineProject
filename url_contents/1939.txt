@@ -1,0 +1,485 @@
+https://catalog.uic.edu/ucat/colleges-depts/education/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>College of Education &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="active isparent self"><a href="#" onclick="return false;">College of Education</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/education/">
+				<li class="isparent"><a href="/ucat/colleges-depts/education/ci/">Curriculum and Instruction</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/education/epsy/">Educational Psychology</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><span class="active">College of Education</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">College of Education</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p class="campus_location"><span class="label"><strong>Contact Information: </strong></span><br/>
+<span class="campus_location">Campus Location: 3004 Education, Theatre, Music, and Social Work (ETMSW) <br/>
+<span class="phone">(312) 996-5641</span> <br/>
+<span class="website"><a href="http://www.education.uic.edu/" target="_blank">www.education.uic.edu</a></span></span></p>
+<p class="administration"><span class="label"><strong>Administration: </strong></span><br/>
+Interim Dean, Dr. Marc VanOverbeke<br/>
+Associate Dean for Academic Affairs, Dr. Marc Van Overbeke<br/>
+Associate Dean for Student Affairs, Dr. Gena Flynn<br/>
+Associate Dean for Administration, Loretta Foote Casey<br/>
+Associate Dean for Research, Dr. Kim Lawless<br/>
+Program Coordinator of BA in Urban Education, Dr. Victoria Trinder<br/>
+Program Coordinator of BA in Human Development and Learning, Dr. Kathleen Sheridan<br/>
+Student Services: 3145 ETMSW, (312) 996-4532<br/>
+Coordinator of Advising and Registration, Jennifer DeLago, (312) 996-0707</p>
+<ul>
+	<li><a href="#a">Introduction</a></li>
+	<li><a href="#b">Degree Requirements</a>
+	<ul>
+		<li><a href="#b1">Semester Hour Requirements</a></li>
+		<li><a href="#b2">Course Requirements</a></li>
+		<li><a href="#b3">Other Requirements</a></li>
+	</ul>
+	</li>
+	<li><a href="#c">College Policies</a>
+	<ul>
+		<li><a href="#c1">Academic Load</a></li>
+		<li><a href="#c2">Academic Probation and Dismissal Rules</a></li>
+		<li><a href="#c3">Change of Course Schedule – Dropping Courses</a></li>
+		<li><a href="#c4">Change of Major</a></li>
+		<li><a href="#c5">Class Attendance</a></li>
+		<li><a href="#c6">Closed Courses</a></li>
+		<li><a href="#c7">Course Prerequisites</a></li>
+		<li><a href="#c8">Credit/No Credit Option</a></li>
+		<li><a href="#c9">Declaring a Major</a></li>
+		<li><a href="#c10">Double Major, Double Degrees, and Second Bachelor’s Degree</a></li>
+		<li><a href="#c11">Graduate-Level Course for Undergraduate Credit</a></li>
+		<li><a href="#c12">Independent Study</a></li>
+		<li><a href="#c13">Petition Procedure</a></li>
+		<li><a href="#c14">Proficiency Examinations</a></li>
+		<li><a href="#c15">Registration Approval</a></li>
+		<li><a href="#c16">Repeat Policy for Standard Graded Courses</a></li>
+		<li><a href="#c17">Transferring</a></li>
+	</ul>
+	</li>
+	<li><a href="#d">Minors</a></li>
+	<li><a href="#e">Academic Advising</a>
+	<ul>
+		<li><a href="#e1">Advising Policy</a></li>
+	</ul>
+	</li>
+	<li><a href="#f">Academic Honors</a>
+	<ul>
+		<li><a href="#f1">College Honors</a></li>
+		<li><a href="#f2">Dean’s List</a></li>
+	</ul>
+	</li>
+	<li><a href="#g">Special Programs and Opportunities</a></li>
+	<li><a href="#g">Licensure</a></li>
+	<li><a href="#h2">Secondary Education Program</a>
+	<ul>
+		<li><a href="#h3">Middle School Endorsement</a></li>
+	</ul>
+	</li>
+</ul>
+<hr/>
+<h2><a id="a" name="a"></a>Introduction</h2>
+<p>The College of Education (COE) offers two degree programs. The Bachelor of Arts in Urban Education leads to a State of Illinois Professional Educator License (PEL) in Elementary Education (Grades 1–6) with an option of adding a middle grades (5–8) endorsement. The Bachelor of Arts in Human Development and Learning (HDL) is appropriate for students who have an interest in working with individuals from infancy to adulthood and from diverse groups and/or communities. The BA in HDL is not an Illinois Professional Educator licensure program.</p>
+<h2><a id="b" name="b"></a>Degree Requirements</h2>
+<h3><a id="b1" name="b1"></a>Semester Hour Requirement</h3>
+<p>The College of Education semester hour requirement is determined by program:</p>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugsemesterhourrqrmt" summary="UG Semester Hour Requirement">
+<caption class="hidden noscript">UG Semester Hour Requirement</caption>
+<colgroup><col class="column0"/><col class="column1"/><col class="column2"/><col class="column3"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Degree Program</th>
+<th scope="col" class="column1">School/Department</th>
+<th scope="col" class="column2">Degree Conferred</th>
+<th scope="col" class="column3">Total Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td class="column0">Urban Education</td>
+<td class="column1">Curriculum and Instruction</td>
+<td class="column2">BA in Urban Education</td>
+<td class="column3">121-124</td>
+</tr>
+<tr class="odd last lastrow"><td class="column0">Human Development and Learning</td>
+<td class="column1">Educational Psychology</td>
+<td class="column2">BA in Human Development and Learning</td>
+<td class="column3">120</td>
+</tr>
+</tbody>
+</table>
+
+<h3><a id="b2" name="b2"></a>Course Requirements</h3>
+<p>See academic department sections for specific course requirements.</p>
+<h4>General Education Core</h4>
+<p>General Education at UIC is designed to serve as a foundation for lifelong learning. Students are required to complete a minimum of 24 semester hours in the General Education Core with at least one course from each of the following categories:</p>
+<ol>
+	<li>Analyzing the Natural World</li>
+	<li>Understanding the Individual and Society</li>
+	<li>Understanding the Past</li>
+	<li>Understanding the Creative Arts</li>
+	<li>Exploring World Cultures</li>
+	<li>Understanding U.S. Society</li>
+</ol>
+<p>For a description and a list of courses for each General Education Core category, students should consult the <a href="/ucat/degree-programs/general-education/"><em>General Education</em></a> section of the catalog. Information on meeting the General Education requirements for Education programs is listed in the academic department sections.</p>
+<h4>General Education Proficiencies—University Writing Requirement and Quantitative Reasoning Requirement</h4>
+<p>College of Education students must meet the University Writing Requirement and the Quantitative Reasoning Requirement.</p>
+<h5>University Writing Requirement</h5>
+<p>Students must earn a passing grade in <span class="sc_courseinline"><a class="bubblelink code" href="/search/?P=ENGL%20160" title="ENGL 160">ENGL 160</a></span> and <span class="sc_courseinline"><a class="bubblelink code" href="/search/?P=ENGL%20161" title="ENGL 161">ENGL 161</a></span>.</p>
+<h5>Quantitative Reasoning Requirement</h5>
+<p>Students in the Human Development and Learning program should consult the <em>Human Development and Learning</em> section for information on meeting this requirement. To satisfy the Quantitative Reasoning Requirement in the Urban Education program, students must complete <span class="sc_courseinline"><a href="/search/?P=MATH%20140" title="MATH 140" class="bubblelink code" onclick="return showCourse(this, 'MATH 140');">MATH 140</a></span> and <span class="sc_courseinline"><a href="/search/?P=MATH%20141" title="MATH 141" class="bubblelink code" onclick="return showCourse(this, 'MATH 141');">MATH 141</a></span> with a GPA of 2.50/4.00 in these courses.</p>
+
+<h3><a id="b3" name="b3"></a>Other Requirements</h3>
+<p>Students must complete the requirements of the university and college that are in effect at the time of initial registration. It is essential for each student to become familiar with graduation requirements and to keep up to date with any published changes. If requirements are changed, continuing students and those whose attendance at UIC has been interrupted for no more than two years may complete the current graduation requirements or may continue to meet those requirements in effect at the time of initial registration. Students who return to UIC after an absence of more than two years are responsible for meeting the requirements of the university and college in effect at the time of the student’s reenrollment. If courses originally required are no longer offered, the college has the prerogative of specifying substitutes. Students in the BA in Urban Education program should be aware that changes occurring in state licensure requirements may necessitate additional course work.</p>
+<h4>Course Level Requirement</h4>
+<p>During the junior and senior years, a student must earn a total of at least 30 hours in advanced-level courses (300-level or above) at the University of Illinois at Chicago or any other accredited four-year college or university.</p>
+<h4>Course Work Limitations</h4>
+<p>Course work that duplicates previous credit does not count toward graduation. Credit is not given for a course in which a failing grade is received.</p>
+<h4>Full-Time Enrollment</h4>
+<h5>BA in Urban Education</h5>
+<p>During the first two years of study, students are provided with opportunities to select courses from the Urban Education Core Curriculum. After candidacy, students will be required to register for specific course work each semester while enrolled. The program requires full-time enrollment.</p>
+<h5>BA in Human Development and Learning</h5>
+<p>Full-time enrollment in the BA in Human Development in Learning is recommended, but not required.</p>
+<h4>Grade Point Average (GPA) Requirement</h4>
+<p>For the BA in Human Development and Learning, students must have at least a 2.00/4.00 grade point average in all work taken at the University of Illinois at Chicago, in all work taken in the major field, and in all work accepted by the university (transfer work plus work taken at UIC).</p>
+<p>For the BA in Urban Education program, a student must have a cumulative GPA of at least 2.50/4.00, a GPA of 2.50/4.00 across select courses in core content areas (English, mathematics, science, and social studies), and a GPA of at least 3.00/4.00 in the professional education courses.</p>
+<h4>Graduation Declaration/Filing to Graduate</h4>
+<p>Students declare their intent to graduate online using <a href="http://my.UIC.edu" target="_blank"><em>my.UIC</em></a>. The deadline for submission to the Pending Degree List is the end of the third week (fall and spring) or second week (summer) of the term in which graduation is sought. Failure to submit the request at this time may delay the awarding of the degree. A final review will be made following the close of the term. If a student has satisfactorily completed all the degree requirements, the student’s name will be placed on the official degree list.</p>
+<h4>Enrollment Residence Requirement</h4>
+<p>Either the first 90 or the last 30 semester hours of degree work must be completed in continuous, uninterrupted enrollment residence at the University of Illinois at Chicago. Concurrent attendance at the University of Illinois at Chicago and another collegiate institution, or enrollment during the summer at another institution, when approved by the student’s college, does not interrupt the UIC enrollment residence requirement for graduation. Work done at the Springfield or Urbana-Champaign campuses of the University of Illinois does not satisfy this requirement. Credit earned through proficiency examinations, including credit earned through the College Level Examination Program (CLEP), UIC extension courses, and Urbana-Champaign correspondence courses, does not apply toward the minimum 30 semester hour enrollment residence requirement.</p>
+<h4>Transfer Credit</h4>
+<p>Courses completed at other institutions may be applied in partial fulfillment of graduation requirements and as prerequisites for courses at UIC. The college determines the transfer hours that apply toward the degree. Courses listed for credit on a Student Profile, Academic Advising Document, Degree Audit Report, or transcripts are not necessarily accepted for the degree.</p>
+<h4>Transfer Credit for Continuing Students</h4>
+<p>The College of Education may permit concurrent registration at a transfer institution. Please consult an academic advisor in the Office of Student Services (OSS), 3145 ETMSW.</p>
+<h2><a id="c" name="c"></a>College Policies</h2>
+<h3><a id="c1" name="c1"></a>Academic Load</h3>
+<p>To be considered full time, a student must be enrolled in a minimum of 12 semester hours each semester. During the regular academic year a course load exceeding 18 hours (12 hours in the summer) must be approved in the College of Education. Please consult an academic advisor in the Office of Students Services (OSS), 3145 ETMSW.</p>
+<p>In addition, some education courses require fieldwork, which means that students will spend a significant amount of time participating in other education settings (e.g., local schools, community centers). The nature and extent of the fieldwork varies from course to course.</p>
+<h3><a id="c2" name="c2"></a>Academic Probation and Dismissal Rules</h3>
+<p>Education faculty evaluate each student’s progress through semester reviews.</p>
+<h4>Probation Rules</h4>
+<p>Students in the BA in Human Development and Learning program whose term grade point average or cumulative grade point average is less than 2.00/4.00 are placed on probation. The cumulative grade point average includes all transfer credit and work completed at UIC.</p>
+<p>Students in the BA in Urban Education program must maintain a cumulative GPA of at least 2.50/4.00, and a concentration GPA of at least 3.00/4.00. Students in the BA in Urban Education program who fall below a cumulative GPA of 2.50/4.00 or a concentration GPA of 3.00/4.00 are placed on probation.</p>
+<h4>Dismissal Rules</h4>
+<ol>
+	<li>A student whose grade point average in any term is below 1.00/4.00 will be dismissed.</li>
+	<li>A student who fails to meet the terms of probation or is on probation for two consecutive terms will be dismissed.</li>
+	<li>A student who is dismissed will not be considered for readmission to the College of Education until after a lapse of at least one year.</li>
+	<li>A student who fails to make progress toward a degree may be dismissed. Examples include failure to complete required courses, accumulation of an excessive number of incomplete grades, failure to earn credit in any semester, failure to meet the minimum grade point average in each concentration, and/or inadequate professional performance as judged by program faculty.</li>
+</ol>
+<p>Any student who does not meet the requirements of the College of Education will be dismissed from the college and the university.</p>
+<h3><a id="c3" name="c3"></a>Change of Course Schedule—Dropping Courses</h3>
+<p>Undergraduate students may drop courses using <em><a href="http://my.uic.edu" target="_blank">my.UIC</a></em> through the end of the second week of classes for fall and spring semesters, the first Wednesday of Summer Session 1, or the first Friday of Summer Session 2. During weeks 3 through 10 of the fall and spring semesters (first Thursday through the third Wednesday of Summer Session 1 or weeks 2 through 5 of Summer Session 2), students may drop courses with the permission of their major college. If the drop occurs between 0 and 2 weeks in fall and spring, there will be no notation on the transcript. If the drop occurs during weeks 3 through 10 in fall and spring (first Thursday through the second Wednesday of Summer Session 1 or weeks 2 through 5 of Summer Session 2), a W is noted on the transcript. Undergraduate students may drop a maximum of 4 UIC individual courses that result in a W notation on their transcript during their entire undergraduate degree program.</p>
+<h3><a id="c4" name="c4"></a>Change of Major</h3>
+<p>At the undergraduate level, the College of Education offers the BA in Urban Education and the BA in Human Development and Learning. To change majors, please meet with an academic advisor in the Office of Student Services to discuss the specific program requirements and the application process.</p>
+<h3><a id="c5" name="c5"></a>Class Attendance</h3>
+<p>The class attendance policy is generally stated on the course syllabus. The College of Education encourages students to contact the instructor of the course if class will not be attended on a specific date. Excessive absences from class and/or fieldwork and/or student teaching may result in dismissal from the program.</p>
+<h3><a id="c6" name="c6"></a>Closed Courses</h3>
+<p>Classes that are closed will not be overenrolled. Please consult the advisor in OSS, 3145 ETMSW, for further information.</p>
+<h3><a id="c7" name="c7"></a>Course Prerequisites</h3>
+<p>Course prerequisites will not be waived. Please consult the advisor in OSS, 3145 ETMSW, for further information.</p>
+<h3><a id="c8" name="c8"></a>Credit/No Credit Option</h3>
+<p>None of the required courses in the College of Education may be taken on the credit/no credit option.</p>
+<h3><a id="c9" name="c9"></a>Declaring a Major</h3>
+<p>The major will be declared upon admission to the College of Education.</p>
+<h3><a id="c10" name="c10"></a>Double Major, Double Degrees, and Second Bachelor’s Degree</h3>
+<h4>Double Major</h4>
+<p>The College of Education does not permit double majors. Please consult the advisor in the Office of Student Services, 3145 ETMSW, for further information.</p>
+<h4>Double Degrees</h4>
+<p>Students interested in this option should consult the Office of Students Services in 3145 ETMSW.</p>
+<h4>Second Bachelor’s Degree</h4>
+<p>Applicants who have already earned a bachelor’s degree are strongly encouraged to apply to a graduate program or consult an advisor.</p>
+<h3><a id="c11" name="c11"></a>Graduate-Level Course for Undergraduate Credit</h3>
+<p>Please consult the advisor in OSS, 3145 ETMSW, for further information.</p>
+<h3><a id="c12" name="c12"></a>Independent Study</h3>
+<p>Enrollment in an independent study course is limited to students with junior or senior standing. A student may apply a maximum of 8 hours of independent study toward graduation requirements. Please consult the advisor in OSS, 3145 ETMSW, for further information.</p>
+<h3><a id="c13" name="c13"></a>Petition Procedure</h3>
+<p>Any rule, regulation, or action of the college may be appealed through the use of the undergraduate student petition. These petitions are submitted to the associate dean for student affairs. Petitions are available in the College of Education Office of Student Services, 3145 ETMSW. Please consult the advisor in OSS, 3145 ETMSW, for further information. Licensure program requirements may be appealed through the CTE petition process with proof of extenuating circumstances. The petition form and an explanation of the process can be found at on the <a href="http://cte.uic.edu/forms/" target="_blank">CTE website</a>. Requirements of the State of Illinois cannot be appealed.</p>
+<h3><a id="c14" name="c14"></a>Proficiency Examinations</h3>
+<p>Please consult the advisor in OSS, 3145 ETMSW, for further information.</p>
+<h3><a id="c15" name="c15"></a>Registration Approval</h3>
+<p>To be eligible to register or change of course schedule, a College of Education student must secure written approval from the College of Education academic advisor in the Office of Student Services, 3145 ETMSW.</p>
+<h3><a id="c16" name="c16"></a>Repeat Policy for Standard Graded Courses</h3>
+<p>Students may repeat a course to increase their knowledge of the subject matter. There are circumstances under which repeating a course is advisable and to a student’s advantage. There are also circumstances where repeating a course may disadvantage a student and narrow a student’s options. The College of Education requires students to discuss any plan to repeat a course with their academic advisor and the Office of Student Financial Aid before they register to repeat the course.</p>
+<p>Courses with A or B grades may not be repeated. Normally, courses with a C grade may not be repeated. Courses from the Common Core Curriculum with D or F grades may be repeated once. In all cases, the original grade for the course and the grade for each repeat will appear on the transcript. The original grade and the grade for each repeat will be calculated into the grade point average. Only one registration for the course counts toward the total number of credits required for graduation. A course cannot be repeated after receiving credit in a course for which the repeat course is a prerequisite.</p>
+<p>To repeat a course more than once requires written permission from the student’s college dean. Students who have been dismissed may not appeal on the grounds of intention to repeat courses. Certain courses may not be repeated; students should consult their college before repeating a course.</p>
+<h4><strong>Undergraduate Grade Point Average Recalculation Policy</strong></h4>
+<ul>
+	<li>Colleges may elect to implement this policy as early as the end of the junior year, or as late as the final semester during degree certification.</li>
+	<li>The college will evaluate each student unable to graduate because of an academic grade point average deficit. The deficit may occur in the UIC GPA, the program GPA, or both.</li>
+	<li>The academic record is examined so as to determine if courses, deemed appropriate by each college, with grades of F or grades of D, may be excluded from the student’s grade point average.</li>
+	<li>A total of four courses may be excluded, with one course excluded at a time until the necessary quality points are obtained to meet the UIC GPA requirement and/or degree program minimum GPA. The semester hours associated with excluded course grades will not count towards graduation requirements.</li>
+	<li>Only the college can initiate course exclusions, and only in consultation with the evaluated student.</li>
+	<li>Students may not request exclusions.</li>
+	<li>Only courses taken at UIC may be converted as part of this policy.</li>
+	<li>This policy only applies to undergraduate degree seeking students.</li>
+	<li>All courses taken and all grades will remain on the official transcript.</li>
+	<li>The grade exclusion policy does not apply to courses failed as the result of a student conduct hearing.</li>
+	<li>In cases where these procedures would impact program accreditation, licensure or similar, colleges may use their discretion to allow the policy. Colleges, departments, and programs may have discretion in choosing courses that impact the student’s major.</li>
+</ul>
+<h3><a id="c17" name="c17"></a>Transferring</h3>
+<h4>Intercollege Transfer Students</h4>
+<p>Both the BA in Urban Education and the BA in Human Development and Learning accept transfer students. More information may also be obtained from the Office of Student Services (OSS), 3145 ETMSW or by going directly to the<a href="http://education.uic.edu" target="_blank"> College of Education website</a>.</p>
+<h4>Transfer Students from Other Colleges and Universities</h4>
+<p>Students wishing to transfer from another college must apply for admission. Consult the previous section. Application information on applying may also be obtained from the OSS, 3145 ETMSW. See the Office of Admission <a href="https://admissions.uic.edu/undergraduate/undergraduate-requirements-deadlines/transfer-requirements/transfer">Transfer Guide</a> for more information about transfer admission requirements.</p>
+<h4>Transferring out of the College</h4>
+<p>Students wishing to transfer from the College of Education to another college should follow the procedures of the other college.</p>
+<h2><a id="d" name="d"></a>Minors</h2>
+<p>The College of Education offers the following minor. Please see departmental listings for more information.</p>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugminors" summary="UG Minors">
+<caption class="hidden noscript">UG Minors</caption>
+<colgroup><col class="column0" pdfwidth="50%" width="50%"/><col class="column1" pdfwidth="35%" width="35%"/><col class="column2" pdfwidth="15%" width="15%"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Minor</th>
+<th scope="col" class="column1">School/Department</th>
+<th scope="col" class="column2">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even last lastrow firstrow"><td class="column0">Minor in Instructional Design and Training</td>
+<td class="column1">Department of Educational Psychology</td>
+<td class="column2">12-18</td>
+</tr>
+</tbody>
+</table>
+
+<h2><a id="e" name="e"></a>Academic Advising</h2>
+<p>Advisors are located in the:</p>
+<p>College of Education<br/>
+Office of Student Services<br/>
+3145 ETMSW<br/>
+(312) 996-4532</p>
+<h3><a id="e1" name="e1"></a>Advising Policy</h3>
+<p>The College of Education has mandatory advising for all students. Students are required to meet with an advisor each semester, and have their course work approved to be eligible to register. All students admitted to the College of Education are required to attend a mandatory program orientation to become familiar with expectations and student responsibilities. Students must attend the orientation to be eligible to register for first semester courses. Orientations are announced upon acceptance into the College of Education.</p>
+<h2><a id="f" name="f"></a>Academic Honors</h2>
+<h3><a id="f1" name="f1"></a>College Honors</h3>
+<p>A student who has demonstrated outstanding academic excellence throughout the undergraduate program may be eligible for graduation with College Honors. Students will be considered for the distinction—graduation with College Honors—during the semester in which minimum graduation requirements are fulfilled. Those students who meet each of the following criteria will graduate with College Honors:</p>
+<ol>
+	<li>The student must earn a cumulative grade point average of 3.50/4.00. The cumulative grade point average includes work completed at UIC.</li>
+	<li>The student must be on the Dean’s List for two consecutive semesters prior to the semester of graduation.</li>
+</ol>
+<p>Graduation with High Honors will be awarded to any student who meets each of the following criteria:</p>
+<ol>
+	<li>The student must be eligible for graduation with College Honors.</li>
+	<li>The student must earn a cumulative grade point average of at least 3.75/4.00. The cumulative grade point average includes all work completed at UIC.</li>
+</ol>
+<h3><a id="f2" name="f2"></a>Dean’s List</h3>
+<p>Outstanding academic achievement in the College of Education is recognized by inclusion on the Dean’s List. Eligibility is based on a 3.50/4.00 term grade point average with a program of 12 semester hours of letter grades in a semester. If any additional course work is taken on a credit/no credit basis, a grade of CR must be earned. A cumulative grade point average of 2.50/4.00 for 60 hours and above as well as clear academic status must be maintained for Dean’s List eligibility.</p>
+<h2><a id="g" name="g"></a>Special Programs and Opportunities</h2>
+<p>Please consult the advisor in OSS, 3145 ETMSW, for further information.</p>
+<h2><a id="g" name="g"></a>Licensure</h2>
+<p>See the <em><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></em> section for information on teacher licensure.</p>
+<h2><strong><a id="h2" name="h2"></a>Secondary Education Program</strong></h2>
+<p>The University of Illinois at Chicago offers several secondary teacher education programs located in the College of Liberal Arts and Sciences (LAS). Through LAS, the student can study the Teaching of English, Teaching of French, Teaching of German, Teaching of History, Teaching of Mathematics, and Teaching of Spanish. The programs provide for the development of a major field of study with an emphasis on teaching. Please consult the home college for more information about these degree requirements.</p>
+<p>At the undergraduate level, the College of Education offers the BA in Urban Education leading to the State of Illinois Professional Educator Licensure in grades 1–6 with the option of adding grades 5–8 only. </p>
+<p>Licensure in the teaching of biology, chemistry, physics, environmental science, or earth and space sciences is available through the College of Education in the MEd in Instructional Leadership: Science Education. </p>
+<p>Contact the appropriate department for more information on content specific programs.</p>
+<h3><strong><a id="h3" name="h3"></a>Middle School Endorsement for Secondary Education Programs</strong></h3>
+<p>Teacher candidates wishing to teach in the middle grades (5–8) should take additional course work, even though the Standard Secondary License states eligibility for teaching in grades 6–12. Please note that the State of Illinois is in the process of revising middle school endorsement requirements and additional course work may be required. Be advised that changes may occur without notice and will be effective immediately. Additional information may be obtained from the College of Education Office of Student Services, 3145 ETMSW, (312) 996-4532. For information on how the middle grades can be added to the Grades 1–6 Professional Educator License, please consult the BA in Urban Education in the<em> <a href="http://catalog.uic.edu/ucat/colleges-depts/education/ci/">Department of Curriculum and Instruction</a></em> section of the catalog.</p>
+<div>
+<hr/></div></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="education.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

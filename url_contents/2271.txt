@@ -1,0 +1,608 @@
+https://catalog.uic.edu/all-course-descriptions/psop/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Pharmacy Systems, Outcomes, and Policy (PSOP) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="isparent"><a href="/ucat/">Undergraduate Catalog</a></li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="active isparent"><a href="/all-course-descriptions/">All Course Descriptions</a>
+	<ul class="nav levelone" id="/all-course-descriptions/">
+		<li><a href="/all-course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+		<li><a href="/all-course-descriptions/actg/">Accounting (ACTG)</a></li>
+		<li><a href="/all-course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+		<li><a href="/all-course-descriptions/anth/">Anthropology (ANTH)</a></li>
+		<li><a href="/all-course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+		<li><a href="/all-course-descriptions/arab/">Arabic (ARAB)</a></li>
+		<li><a href="/all-course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+		<li><a href="/all-course-descriptions/arch/">Architecture (ARCH)</a></li>
+		<li><a href="/all-course-descriptions/art/">Art (ART)</a></li>
+		<li><a href="/all-course-descriptions/ah/">Art History (AH)</a></li>
+		<li><a href="/all-course-descriptions/bms/">Basic Medical Sciences (BMS)</a></li>
+		<li><a href="/all-course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+		<li><a href="/all-course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+		<li><a href="/all-course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+		<li><a href="/all-course-descriptions/bvis/">Biomedical Visualization (BVIS)</a></li>
+		<li><a href="/all-course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+		<li><a href="/all-course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+		<li><a href="/all-course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+		<li><a href="/all-course-descriptions/blst/">Black Studies (BLST)</a></li>
+		<li><a href="/all-course-descriptions/ba/">Business Administration (BA)</a></li>
+		<li><a href="/all-course-descriptions/cc/">Campus Courses (CC)</a></li>
+		<li><a href="/all-course-descriptions/cst/">Catholic Studies (CST)</a></li>
+		<li><a href="/all-course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+		<li><a href="/all-course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+		<li><a href="/all-course-descriptions/chem/">Chemistry (CHEM)</a></li>
+		<li><a href="/all-course-descriptions/chin/">Chinese (CHIN)</a></li>
+		<li><a href="/all-course-descriptions/cd/">City Design (CD)</a></li>
+		<li><a href="/all-course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+		<li><a href="/all-course-descriptions/cl/">Classics (CL)</a></li>
+		<li><a href="/all-course-descriptions/cler/">Clerkship -&#8203; Medicine (CLER)</a></li>
+		<li><a href="/all-course-descriptions/cele/">Clerkship Electives -&#8203; Chicago (CELE)</a></li>
+		<li><a href="/all-course-descriptions/pele/">Clerkship Electives -&#8203; Peoria (PELE)</a></li>
+		<li><a href="/all-course-descriptions/rele/">Clerkship Electives -&#8203; Rockford (RELE)</a></li>
+		<li><a href="/all-course-descriptions/uele/">Clerkship Electives -&#8203; Urbana (UELE)</a></li>
+		<li><a href="/all-course-descriptions/comm/">Communication (COMM)</a></li>
+		<li><a href="/all-course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+		<li><a href="/all-course-descriptions/cs/">Computer Science (CS)</a></li>
+		<li><a href="/all-course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+		<li><a href="/all-course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+		<li><a href="/all-course-descriptions/dadm/">Dental Administration (DADM)</a></li>
+		<li><a href="/all-course-descriptions/daob/">Dentistry -&#8203; Applied Oral and Behavioral Sciences (DAOB)</a></li>
+		<li><a href="/all-course-descriptions/dbcs/">Dentistry -&#8203; Biomedical and Clinical Sciences (DBCS)</a></li>
+		<li><a href="/all-course-descriptions/dcle/">Dentistry -&#8203; Community Learning Experience (DCLE)</a></li>
+		<li><a href="/all-course-descriptions/dosi/">Dentistry -&#8203; Oral/&#8203;Systemic Issues (DOSI)</a></li>
+		<li><a href="/all-course-descriptions/dost/">Dentistry -&#8203; Oral/&#8203;Systemic Topics (DOST)</a></li>
+		<li><a href="/all-course-descriptions/des/">Design (DES)</a></li>
+		<li><a href="/all-course-descriptions/dlg/">Dialogue (DLG)</a></li>
+		<li><a href="/all-course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+		<li><a href="/all-course-descriptions/mdc/">Doctor of Medicine—Chicago (MDC)</a></li>
+		<li><a href="/all-course-descriptions/mdp/">Doctor of Medicine—Peoria (MDP)</a></li>
+		<li><a href="/all-course-descriptions/mdr/">Doctor of Medicine—Rockford (MDR)</a></li>
+		<li><a href="/all-course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+		<li><a href="/all-course-descriptions/econ/">Economics (ECON)</a></li>
+		<li><a href="/all-course-descriptions/ed/">Education (ED)</a></li>
+		<li><a href="/all-course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+		<li><a href="/all-course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+		<li><a href="/all-course-descriptions/ece/">Electrical and Computer Engineering (ECE)</a></li>
+		<li><a href="/all-course-descriptions/eb/">Employee Benefits (EB)</a></li>
+		<li><a href="/all-course-descriptions/endo/">Endodontics (ENDO)</a></li>
+		<li><a href="/all-course-descriptions/ener/">Energy Engineering (ENER)</a></li>
+		<li><a href="/all-course-descriptions/engr/">Engineering (ENGR)</a></li>
+		<li><a href="/all-course-descriptions/engl/">English (ENGL)</a></li>
+		<li><a href="/all-course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+		<li><a href="/all-course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+		<li><a href="/all-course-descriptions/eohs/">Environmental and Occupational Health Sciences (EOHS)</a></li>
+		<li><a href="/all-course-descriptions/epid/">Epidemiology (EPID)</a></li>
+		<li><a href="/all-course-descriptions/epl/">Estate Planning (EPL)</a></li>
+		<li><a href="/all-course-descriptions/fin/">Finance (FIN)</a></li>
+		<li><a href="/all-course-descriptions/fr/">French (FR)</a></li>
+		<li><a href="/all-course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+		<li><a href="/all-course-descriptions/geog/">Geography (GEOG)</a></li>
+		<li><a href="/all-course-descriptions/ger/">Germanic Studies (GER)</a></li>
+		<li><a href="/all-course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+		<li><a href="/all-course-descriptions/gc/">Graduate College (GC)</a></li>
+		<li><a href="/all-course-descriptions/gems/">Graduate Education in Medical Sciences (GEMS)</a></li>
+		<li><a href="/all-course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+		<li><a href="/all-course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+		<li><a href="/all-course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+		<li><a href="/all-course-descriptions/him/">Health Information Management (HIM)</a></li>
+		<li><a href="/all-course-descriptions/hpa/">Health Policy and Administration (HPA)</a></li>
+		<li><a href="/all-course-descriptions/hlp/">Healthy Living Practitioner™ (HLP)</a></li>
+		<li><a href="/all-course-descriptions/heb/">Hebrew (HEB)</a></li>
+		<li><a href="/all-course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+		<li><a href="/all-course-descriptions/hstl/">Histology (HSTL)</a></li>
+		<li><a href="/all-course-descriptions/hist/">History (HIST)</a></li>
+		<li><a href="/all-course-descriptions/hon/">Honors College (HON)</a></li>
+		<li><a href="/all-course-descriptions/hn/">Human Nutrition (HN)</a></li>
+		<li><a href="/all-course-descriptions/hum/">Humanities (HUM)</a></li>
+		<li><a href="/all-course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+		<li><a href="/all-course-descriptions/it/">Information Technology (IT)</a></li>
+		<li><a href="/all-course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+		<li><a href="/all-course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+		<li><a href="/all-course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+		<li><a href="/all-course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+		<li><a href="/all-course-descriptions/ip/">Intellectual Property (IP)</a></li>
+		<li><a href="/all-course-descriptions/ibt/">International Business and Trade (IBT)</a></li>
+		<li><a href="/all-course-descriptions/inst/">International Studies (INST)</a></li>
+		<li><a href="/all-course-descriptions/ital/">Italian (ITAL)</a></li>
+		<li><a href="/all-course-descriptions/jpn/">Japanese (JPN)</a></li>
+		<li><a href="/all-course-descriptions/jst/">Jewish Studies (JST)</a></li>
+		<li><a href="/all-course-descriptions/jd/">Juris Doctor (JD)</a></li>
+		<li><a href="/all-course-descriptions/kn/">Kinesiology (KN)</a></li>
+		<li><a href="/all-course-descriptions/kor/">Korean (KOR)</a></li>
+		<li><a href="/all-course-descriptions/lat/">Latin (LAT)</a></li>
+		<li><a href="/all-course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+		<li><a href="/all-course-descriptions/law/">Law (LAW)</a></li>
+		<li><a href="/all-course-descriptions/lrsc/">Learning Sciences (LRSC)</a></li>
+		<li><a href="/all-course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+		<li><a href="/all-course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+		<li><a href="/all-course-descriptions/ling/">Linguistics (LING)</a></li>
+		<li><a href="/all-course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+		<li><a href="/all-course-descriptions/lith/">Lithuanian (LITH)</a></li>
+		<li><a href="/all-course-descriptions/mgmt/">Management (MGMT)</a></li>
+		<li><a href="/all-course-descriptions/mktg/">Marketing (MKTG)</a></li>
+		<li><a href="/all-course-descriptions/mba/">Master of Business Administration (MBA)</a></li>
+		<li><a href="/all-course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+		<li><a href="/all-course-descriptions/mj/">Master of Jurisprudence (MJ)</a></li>
+		<li><a href="/all-course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+		<li><a href="/all-course-descriptions/math/">Mathematics (MATH)</a></li>
+		<li><a href="/all-course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+		<li><a href="/all-course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+		<li><a href="/all-course-descriptions/mbt/">Medical Biotechnology (MBT)</a></li>
+		<li><a href="/all-course-descriptions/mhpe/">Medical Education (MHPE)</a></li>
+		<li><a href="/all-course-descriptions/mhum/">Medical Humanities (MHUM)</a></li>
+		<li><a href="/all-course-descriptions/mdch/">Medicinal Chemistry (MDCH)</a></li>
+		<li><a href="/all-course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+		<li><a href="/all-course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+		<li><a href="/all-course-descriptions/mils/">Military Science (MILS)</a></li>
+		<li><a href="/all-course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+		<li><a href="/all-course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+		<li><a href="/all-course-descriptions/mus/">Music (MUS)</a></li>
+		<li><a href="/all-course-descriptions/nast/">Native American Studies (NAST)</a></li>
+		<li><a href="/all-course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+		<li><a href="/all-course-descriptions/ns/">Naval Science (NS)</a></li>
+		<li><a href="/all-course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+		<li><a href="/all-course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+		<li><a href="/all-course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+		<li><a href="/all-course-descriptions/nupr/">Nursing Practicum (NUPR)</a></li>
+		<li><a href="/all-course-descriptions/nusp/">Nursing Specialty (NUSP)</a></li>
+		<li><a href="/all-course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+		<li><a href="/all-course-descriptions/omds/">Oral Medicine and Diagnostic Sciences (OMDS)</a></li>
+		<li><a href="/all-course-descriptions/osci/">Oral Sciences (OSCI)</a></li>
+		<li><a href="/all-course-descriptions/osur/">Oral and Maxillofacial Surgery (OSUR)</a></li>
+		<li><a href="/all-course-descriptions/ortd/">Orthodontics (ORTD)</a></li>
+		<li><a href="/all-course-descriptions/path/">Pathology (PATH)</a></li>
+		<li><a href="/all-course-descriptions/psl/">Patient Safety Leadership (PSL)</a></li>
+		<li><a href="/all-course-descriptions/pedd/">Pediatric Dentistry (PEDD)</a></li>
+		<li><a href="/all-course-descriptions/peri/">Periodontics (PERI)</a></li>
+		<li><a href="/all-course-descriptions/psci/">Pharmaceutical Sciences (PSCI)</a></li>
+		<li><a href="/all-course-descriptions/pmpg/">Pharmacognosy (PMPG)</a></li>
+		<li><a href="/all-course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+		<li><a href="/all-course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+		<li><a href="/all-course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+		<li class="active self"><a href="#" onclick="return false;">Pharmacy Systems, Outcomes, and Policy (PSOP)</a></li>
+		<li><a href="/all-course-descriptions/phil/">Philosophy (PHIL)</a></li>
+		<li><a href="/all-course-descriptions/pt/">Physical Therapy (PT)</a></li>
+		<li><a href="/all-course-descriptions/phys/">Physics (PHYS)</a></li>
+		<li><a href="/all-course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+		<li><a href="/all-course-descriptions/pol/">Polish (POL)</a></li>
+		<li><a href="/all-course-descriptions/pols/">Political Science (POLS)</a></li>
+		<li><a href="/all-course-descriptions/port/">Portuguese (PORT)</a></li>
+		<li><a href="/all-course-descriptions/prcl/">Preclinical Medicine (PRCL)</a></li>
+		<li><a href="/all-course-descriptions/ptl/">Privacy and Technology Law (PTL)</a></li>
+		<li><a href="/all-course-descriptions/pros/">Prosthodontics (PROS)</a></li>
+		<li><a href="/all-course-descriptions/psch/">Psychology (PSCH)</a></li>
+		<li><a href="/all-course-descriptions/pa/">Public Administration (PA)</a></li>
+		<li><a href="/all-course-descriptions/pubh/">Public Health (PUBH)</a></li>
+		<li><a href="/all-course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+		<li><a href="/all-course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+		<li><a href="/all-course-descriptions/re/">Real Estate (RE)</a></li>
+		<li><a href="/all-course-descriptions/rels/">Religious Studies (RELS)</a></li>
+		<li><a href="/all-course-descriptions/rest/">Restorative Dentistry (REST)</a></li>
+		<li><a href="/all-course-descriptions/russ/">Russian (RUSS)</a></li>
+		<li><a href="/all-course-descriptions/slav/">Slavic and Baltic Languages and Literatures (SLAV)</a></li>
+		<li><a href="/all-course-descriptions/sj/">Social Justice (SJ)</a></li>
+		<li><a href="/all-course-descriptions/socw/">Social Work (SOCW)</a></li>
+		<li><a href="/all-course-descriptions/soc/">Sociology (SOC)</a></li>
+		<li><a href="/all-course-descriptions/span/">Spanish (SPAN)</a></li>
+		<li><a href="/all-course-descriptions/sped/">Special Education (SPED)</a></li>
+		<li><a href="/all-course-descriptions/spec/">Specialty Medicine (SPEC)</a></li>
+		<li><a href="/all-course-descriptions/stat/">Statistics (STAT)</a></li>
+		<li><a href="/all-course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+		<li><a href="/all-course-descriptions/surg/">Surgery (SURG)</a></li>
+		<li><a href="/all-course-descriptions/tx/">Taxation (TX)</a></li>
+		<li><a href="/all-course-descriptions/thtr/">Theatre (THTR)</a></li>
+		<li><a href="/all-course-descriptions/tadr/">Trial Advocacy and Dispute Resolution (TADR)</a></li>
+		<li><a href="/all-course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+		<li><a href="/all-course-descriptions/us/">Urban Studies (US)</a></li>
+		<li><a href="/all-course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+		<li><a href="/all-course-descriptions/usl/">US Legal Studies (USL)</a></li>
+	</ul>
+	</li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/all-course-descriptions/">All&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Pharmacy Systems, Outcomes, and Policy (PSOP)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Pharmacy Systems, Outcomes, and Policy (PSOP)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="psopcourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;300.  Undergraduate Research Experience in Pharmacy Systems, Outcomes and Policy.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Supports the academic environment for undergraduate students at UIC.  The research experience will be under the guidance of a faculty member who will act as a research supervisor. Course Information: Satisfactory/Unstatisfatory grading only. May be repeated. Application of credit toward the degree is contingent upon the approval of the student's college and/or department. Prerequisite(s): Consent of the instructor supervising the research experience. Open only to sophomores, juniors, and seniors.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;380.  Undergraduate Research in Pharmacy Systems, Outcomes and Policy.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Investigation, under the direction of one or more faculty members, of a problem of limited scope. May require literature research related to the research project. Course Information: May be repeated. A maximum of 6 hours of credit is allowed per department. A total of not more than 8 hours of 380 and 390 numbered courses in the college may be applied toward the 12 hours of PharmD professional electives. Prerequisite(s): Minimum cumulative grade point average of 3.50 and consent of the instructor, department head, and Associate Dean for Student Affairs.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;381.  Professional Development Seminar I.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Weekly seminar series for second professional year pharmacy students. Discusses educational issues related to the second professional year. Students create/update Curriculum Vitae; explore various pharmacy career opportunities. Course Information: Credit is not given for <a href="/search/?P=PSOP%20381" title="PSOP&#160;381" class="bubblelink code" onclick="return showCourse(this, 'PSOP 381');">PSOP&#160;381</a> if the student has credit for <a href="/search/?P=BPS%20381" title="BPS&#160;381" class="bubblelink code" onclick="return showCourse(this, 'BPS 381');">BPS&#160;381</a> or <a href="/search/?P=PMMP%20381" title="PMMP&#160;381" class="bubblelink code" onclick="return showCourse(this, 'PMMP 381');">PMMP&#160;381</a> or <a href="/search/?P=PMPR%20371" title="PMPR&#160;371" class="bubblelink code" onclick="return showCourse(this, 'PMPR 371');">PMPR&#160;371</a>. Prerequisite(s): Student must be listed as an advisee of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;382.  Professional Development Seminar II.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Weekly seminar series for second year pharmacy students. Discusses educational issues related to the second professional year. Students create/update Curriculum Vitae; explore various pharmacy career opportunities. Course Information: Credit is not givern for <a href="/search/?P=PSOP%20382" title="PSOP&#160;382" class="bubblelink code" onclick="return showCourse(this, 'PSOP 382');">PSOP&#160;382</a> if the student has credit for <a href="/search/?P=BPS%20382" title="BPS&#160;382" class="bubblelink code" onclick="return showCourse(this, 'BPS 382');">BPS&#160;382</a> or <a href="/search/?P=PMMP%20382" title="PMMP&#160;382" class="bubblelink code" onclick="return showCourse(this, 'PMMP 382');">PMMP&#160;382</a>. Prerequisite(s): Student must be listed as an advisee of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;383.  Professional Development Seminar III.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Weekly seminar series for third professional year pharmacy students. Discusses relevant educational and professional issues. Update CV/Resume and Portfolio. Explore pharmacy career opportunities with invited guests. Course Information: Credit is not given for <a href="/search/?P=PSOP%20383" title="PSOP&#160;383" class="bubblelink code" onclick="return showCourse(this, 'PSOP 383');">PSOP&#160;383</a> if the student has credit for <a href="/search/?P=BPS%20383" title="BPS&#160;383" class="bubblelink code" onclick="return showCourse(this, 'BPS 383');">BPS&#160;383</a> or <a href="/search/?P=PMMP%20383" title="PMMP&#160;383" class="bubblelink code" onclick="return showCourse(this, 'PMMP 383');">PMMP&#160;383</a>. Prerequisite(s): Student must be listed as an advisee of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;384.  Professional Development Seminar IV.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Weekly seminar series for third year pharmacy students. Discusses with advisees relevant educational and professional issues. Update CV/Resume and Portfolio.  Explore pharmacy career opportunities with invited guests. Course Information: Credit is not given for <a href="/search/?P=PSOP%20384" title="PSOP&#160;384" class="bubblelink code" onclick="return showCourse(this, 'PSOP 384');">PSOP&#160;384</a> if the student has credit for <a href="/search/?P=BPS%20384" title="BPS&#160;384" class="bubblelink code" onclick="return showCourse(this, 'BPS 384');">BPS&#160;384</a> or <a href="/search/?P=PMMP%20384" title="PMMP&#160;384" class="bubblelink code" onclick="return showCourse(this, 'PMMP 384');">PMMP&#160;384</a>.Prerequisite(s): Student must be listed as an advisee of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;385.  Special Topics in Pharmacy Systems, Outcomes and Policy.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+A selected topic of current interest in pharmacy systems, outcomes and policy;  or an experimental course, offered by faculty or a visiting lecturer. Course Information: Previously listed as PMAD 385. Prerequisite(s): Good standing and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;387.  Critical Dialogue (CD) for Professional Student Development.  2 hours.</strong></p>
+<p class="courseblockdesc">
+This highly interactive course engages pharmacy students in a broad conceptualization of pharmaceutical practice in a multicultural society.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;389.  Online Contemporary Issues in Pharmacy Student Development.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces students to various contemporary pharmacy issues  through the lens of a multi-disciplinary health education policy analysis.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;390.  Special Projects in Pharmacy Systems, Outcomes and Policy.  1 or 2 hour.</strong></p>
+<p class="courseblockdesc">
+Special projects within the departmental discipline. Defined and terminal project goals are achieved through independent study. Course Information: 1 to 2 hours. May be repeated. A maximum of 4 hours of 390 credit is allowed in all departments. A total of not more than 8 hours of 380 and 390 numbered courses in the college may be applied toward the 12 hours of PharmD professional electives. Prerequisite(s): Consent of the instructor, department head, and Associate Dean for Student Affairs.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;391.  Foundations in Urban Family and Community Healthcare 1.  1 hour.</strong></p>
+<p class="courseblockdesc">
+This course is a first in a series and is designed to introduce students to concepts and issues as it relates to urban public health and primary care practice. Course Information: Prerequisite(s): Acceptance into the Urban Pharmacy program and consent of the instructor .<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;392.  Foundations in Urban Family and Community Healthcare 2.  1 hour.</strong></p>
+<p class="courseblockdesc">
+The second course in a series that is designed to introduce students to concepts and issues as it relates to urban public health and primary care practice. Course Information: Prerequisite(s): Acceptance into the Urban Pharmacy program and successful completion of <a href="/search/?P=PSOP%20391" title="PSOP&#160;391" class="bubblelink code" onclick="return showCourse(this, 'PSOP 391');">PSOP&#160;391</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;393.  Foundations in Urban Family and Community Healthcare 3.  1 hour.</strong></p>
+<p class="courseblockdesc">
+This course is a third in a series and is designed to introduce students to concepts and issues as it relates to urban public health and primary care practice. Course Information: Prerequisite(s): Acceptance into the UPHARM program and successful completion of UPHARM Year 1.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;394.  Foundations in Urban Family and Community Healthcare 4.  1 hour.</strong></p>
+<p class="courseblockdesc">
+This course is fourth in a series and is designed to introduce students to concepts and issues as it relates to urban public health and primary care practice. Course Information: Prerequisite(s):Acceptance into the UPHARM program and successful completion of UPHARM Year 1.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;395.  Foundations in Urban Family and Community Healthcare 5.  1 hour.</strong></p>
+<p class="courseblockdesc">
+This course is fifth in a series and is designed to introduce students to concepts and issues as it relates to urban public health and primary care practice. Course Information: Prerequisite(s): Acceptance into the UPHARM program and successful completion of UPHARM Year 2. In the UPHARM program and expressed interest in urban pharmacy education practice in underserved Chicagoland communities and interest in health disparities research.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;396.  Foundations in Urban Family and Community Healthcare 6.  1 hour.</strong></p>
+<p class="courseblockdesc">
+This course is sixth in a series and is designed to introduce students to concepts and issues as it relates to urban public health and primary care practice. Course Information: Prerequisite(s): Acceptance into the UPHARM program and successful completion of UPHARM Year 2. Expressed interest in urban pharmacy education practice in underserved Chicagoland communities and interest in health disparities research.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;397.  Capstone Project in Urban Healthcare.  2 hours.</strong></p>
+<p class="courseblockdesc">
+This is the seventh and final course in a series, and is the capstone project. Course Information: Prerequisite(s): Successful completion of UPHARM program years 1-3.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;400.  Ethics and Privacy Issues in Comparative Effectiveness Research.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Covers ethical and privacy issues in comparative effectiveness research. Course Information: Satisfactory/Unsatisfactory grading only. Extensive computer use required. Taught online.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;421.  Pharmaceutical Marketing.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the field of marketing with specific emphasis on pharmaceuticals and the marketing of pharmacy services.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;470.  Managed Care Pharmacy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Professional development in managed care pharmacy to learn history, administrative and policy aspects, network with operational managers and leaders in field, visit managed care sites and observe activies of managed care pharmacists. Course Information: Prerequisite(s): Third year standing in the Doctor of Pharmacy program or second year standing in the Doctor of Pharmacy program with consent of the instructor, or graduate standing in pharmacy.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;482.  Professional Practice Management.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Managerial functions of the pharmacist in all practice environments with emphasis on the planning, organizing, staffing, directing and controlling of resources.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;484.  Systematic Reviews and Meta-Analysis.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The course will discuss the concepts, process, and statistical methods required to perform a systematic review or meta-analysis of a large body of empirical findings.  Course Information: Extensive computer use required. Taught online. Prerequisite(s):  <a href="/search/?P=EPID%20403" title="EPID&#160;403" class="bubblelink code" onclick="return showCourse(this, 'EPID 403');">EPID&#160;403</a> or <a href="/search/?P=BSTT%20400" title="BSTT&#160;400" class="bubblelink code" onclick="return showCourse(this, 'BSTT 400');">BSTT&#160;400</a> or <a href="/search/?P=PSOP%20502" title="PSOP&#160;502" class="bubblelink code" onclick="return showCourse(this, 'PSOP 502');">PSOP&#160;502</a>; or graduate or professional standing; or consent of the instructor. Recommended background: Graduate coursework in biostatistics or epidemiology.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;494.  Special Topics in Pharmacy Systems, Outcomes and Policy.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Topics will vary, including the on-going analysis of contemporary issues associated with delivery, financing and management of pharmaceutical products and professional services. Course Information: May be repeated to a maximum of 6 hours.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;502.  Research Methods in Pharmacy Systems, Outcomes and Policy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Overview of the research process in the social, behavioral, and economic pharmaceutical sciences from problem identification and conceptualization through data collection, analysis, and interpretation. Course Information: Extensive computer use required. Taught online, in person, or via distance education. Prerequisite(s): Consent of the instructor is required for non-departmental students.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;507.  Pharmacy and Its Environment.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Factors directly influencing the practice of pharmacy. Roles of the  pharmacist as affected by contemporary organizational, legislative  societal and fiscal environments in the U.S. Course Information: Prerequisite(s): Admission into the M.S. or Ph.D. in Pharmacy Program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;510.  Problems in Pharmacy Management.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selective managerial problems relative to pharmacy practice in complex healthcare environments. Course Information: Prerequisite(s): <a href="/search/?P=PSOP%20482" title="PSOP&#160;482" class="bubblelink code" onclick="return showCourse(this, 'PSOP 482');">PSOP&#160;482</a> or the equivalent.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;516.  Comparative Effectiveness Research.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Overview of concepts and application of comparative effectiveness research. Course Information: Extensive computer use required. Taught online.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;525.  Medication, Identity and Illness.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines the role of pharmaceutical care and medication-taking in the social context of chronic illness. Course Information: Prerequisite(s): Credit or concurrent registration in PHAR 344 or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;526.  Pharmacoepidemiology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Provides an introduction to pharmacoepidemiology and key concepts and principles that are unique to the study of medications in large populations. Course Information: Same as <a href="/search/?P=EPID%20526" title="EPID&#160;526" class="bubblelink code" onclick="return showCourse(this, 'EPID 526');">EPID&#160;526</a>. Previously listed as PSOP 426. Extensive computer use required. Taught online. A computer with sufficient memory and Internet access is required. Prerequisite(s): <a href="/search/?P=EPID%20400" title="EPID&#160;400" class="bubblelink code" onclick="return showCourse(this, 'EPID 400');">EPID&#160;400</a> or <a href="/search/?P=EPID%20403" title="EPID&#160;403" class="bubblelink code" onclick="return showCourse(this, 'EPID 403');">EPID&#160;403</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;535.  Pharmaceutical Policy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces key features of pharmaceutical policy and provides a framework for analyzing and evaluating current policy issues that affect the development and provision of safe, effective and affordable medications in the U.S. Course Information: Extensive computer use required. Taught online.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;555.  Measurement and Evaluation of Patient Reported Outcomes.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on the development, assessment, and application of measures of patient-reported outcomes (PROs). Course Information: Extensive computer use required. Course offered online.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;573.  Principles of Economic Evaluations of Health Care Interventions.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Principles, models and practical methods for the economic evaluation of health care services with an emphasis on pharmaceutical care. Course Information: Same as <a href="/search/?P=HPA%20573" title="HPA&#160;573" class="bubblelink code" onclick="return showCourse(this, 'HPA 573');">HPA&#160;573</a>. Extensive computer use required. Course offered online, in person, or via distance education. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;575.  Educational Instruction and Practice in Pharmacy Systems, Outcomes and Policy.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Designed to develop teaching skills and improve instructional abilities. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;577.  Applied Population Health Survey Research.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Development of computer programming skills and knowledge of statistical techniques for analyzing population health survey data. Course Information: Credit is not given for <a href="/search/?P=PSOP%20577" title="PSOP&#160;577" class="bubblelink code" onclick="return showCourse(this, 'PSOP 577');">PSOP&#160;577</a> if the student has credit in <a href="/search/?P=BSTT%20507" title="BSTT&#160;507" class="bubblelink code" onclick="return showCourse(this, 'BSTT 507');">BSTT&#160;507</a> or <a href="/search/?P=CHSC%20447" title="CHSC&#160;447" class="bubblelink code" onclick="return showCourse(this, 'CHSC 447');">CHSC&#160;447</a> or <a href="/search/?P=STAT%20431" title="STAT&#160;431" class="bubblelink code" onclick="return showCourse(this, 'STAT 431');">STAT&#160;431</a> or <a href="/search/?P=STAT%20531" title="STAT&#160;531" class="bubblelink code" onclick="return showCourse(this, 'STAT 531');">STAT&#160;531</a> or <a href="/search/?P=STAT%20532" title="STAT&#160;532" class="bubblelink code" onclick="return showCourse(this, 'STAT 532');">STAT&#160;532</a>. Extensive computer use required. Prerequisite(s): Consent of the instructor. Restricted to graduate students in the Health Sciences Colleges. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;579.  Advanced Methods in Outcomes Research and Grant Writing.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An advanced graduate-level course focused on the grant writing strategies with an emphasis on methodologies relevant to health services, economics and outcomes research. Course Information: Prerequisite(s): <a href="/search/?P=PSOP%20502" title="PSOP&#160;502" class="bubblelink code" onclick="return showCourse(this, 'PSOP 502');">PSOP&#160;502</a> and <a href="/search/?P=PSOP%20573" title="PSOP&#160;573" class="bubblelink code" onclick="return showCourse(this, 'PSOP 573');">PSOP&#160;573</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;580.  Advanced Decision Analysis Techniques I.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Exposes students to advanced decision analysis and related sensitivity analysis methodologies. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=PSOP%20573" title="PSOP&#160;573" class="bubblelink code" onclick="return showCourse(this, 'PSOP 573');">PSOP&#160;573</a> and consent of the instructor. Priority enrollment is provided to graduate students in the Health Science Colleges and the Department of Economics, School of Liberal Arts and Sciences, and those enrolled in the MBA program, College of Business Administration.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;581.  Advanced Decision Analysis Techniques II.  1 hour.</strong></p>
+<p class="courseblockdesc">
+The purpose will be to gain experience using techniques germane to the advanced decision analysis and related sensitivity analysis methodologies taught in <a href="/search/?P=PSOP%20580" title="PSOP&#160;580" class="bubblelink code" onclick="return showCourse(this, 'PSOP 580');">PSOP&#160;580</a>. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=PSOP%20580" title="PSOP&#160;580" class="bubblelink code" onclick="return showCourse(this, 'PSOP 580');">PSOP&#160;580</a> and consent of the instructor. Priority enrollment is provided to graduate students in the Health Science Colleges and the Department of Economics, School of Liberal Arts and Sciences, and those enrolled in the MBA program, College of Business Administration.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;592.  Comparative Effectiveness Research Project.  6 hours.</strong></p>
+<p class="courseblockdesc">
+Supervised literature-based scholarship and/or research in comparative effectiveness research. Selected problems or issues in comparative effectiveness research are investigated under the direction of the faculty advisor. Course Information: Satisfactory/Unsatisfactory grading only. Extensive computer use required. Taught online, in person, or via distance education.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;594.  Special Topics in Pharmacy Systems, Outcomes and Policy.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Topics vary. Intensive analysis of contemporary issue(s) associated with delivery and financing of pharmaceutical products and professional services. Course Information: May be repeated to a maximum of 6 hours.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;595.  Departmental Seminar in Pharmacy Systems, Outcomes and Policy.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Presentation by students, faculty and visiting experts. Topics to be arranged. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Extensive computer use required. Taught online, in person, or via distance education. Prerequisite(s): Consent of the instructor. Graduate students in the Pharmacy Systems, Outcomes and Policy degree program must register for <a href="/search/?P=PSOP%20595" title="PSOP&#160;595" class="bubblelink code" onclick="return showCourse(this, 'PSOP 595');">PSOP&#160;595</a> every fall and spring semester.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;596.  Independent Study.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Individual research under direction of a member of the faculty. Course Information: May be repeated. Students may register in more than one section per term. Extensive computer use required. Taught online, in person, or via distance education. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;597.  Pharmacy Systems, Outcomes and Policy Project.  6 hours.</strong></p>
+<p class="courseblockdesc">
+Supervised literature-based scholarship and/or research in pharmacy systems, outcomes and policy. Selected problems or issues in social, behavioral, or economic pharmaceutical sciences are investigated under the direction of the faculty advisor. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): <a href="/search/?P=PSOP%20502" title="PSOP&#160;502" class="bubblelink code" onclick="return showCourse(this, 'PSOP 502');">PSOP&#160;502</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSOP&#160;599.  Ph.D. Thesis Research.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Independent dissertation research on topic approved by student's graduate committee. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Prerequisite(s): Consent of the committee. Open only to degree candidates.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="psop.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

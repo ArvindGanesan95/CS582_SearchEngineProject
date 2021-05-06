@@ -1,0 +1,487 @@
+https://catalog.uic.edu/ucat/colleges-depts/liberal-arts-sciences/fr/ba-fr/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>BA with a Major in French and Francophone Studies &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/liberal-arts-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/">Anthropology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/">Biochemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/">Biological Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/">Black Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/">Chemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/">Classics and Mediterranean Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/">Communication</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/">Criminology, Law, and Justice</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/">Earth and Environmental Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/">Economics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/">English</a></li>
+				<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French and Francophone Studies</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/liberal-arts-sciences/fr/">
+					<li class="active self"><a href="#" onclick="return false;">BA with a Major in French and Francophone Studies</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/ba-teach-fr/">BA in the Teaching of French</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/minor-fr/">Minor in French and Francophone Studies</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/">Gender and Women's Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/">Germanic Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/">Global Asian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/">Hispanic and Italian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/">History</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/">Integrated Health Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/">International Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/">Liberal Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/">Linguistics</a></li>
+				<li><a href="/ucat/colleges-depts/liberal-arts-sciences/lcsl/">Literatures, Cultural Studies, and Linguistics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/">Mathematics, Statistics, and Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/">Moving Image Arts</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/">Neuroscience</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/">Philosophy</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/">Physics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/">Polish, Russian, and Lithuanian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/">Political Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/">Psychology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/">Religious Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/">Sociology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional Studies</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/">College&nbsp;of&nbsp;Liberal&nbsp;Arts&nbsp;and&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French&nbsp;and&nbsp;Francophone&nbsp;Studies</a><span class="crumbsep">/</span></li><li><span class="active">BA with a Major in French and Francophone Studies</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">BA with a Major in French and Francophone Studies</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+<p class="program_codes"><span class="label"><strong>Program Codes:</strong> </span><br />20FT5293BA<br /></p>	</div>
+</div>
+
+<h2>Degree Requirements</h2>
+<p>To earn a Bachelor of Arts in Liberal Arts and Sciences degree from UIC, students must complete university, college, and department degree requirements. The Department of French and Francophone Studies degree requirements are outlined below. Students should consult the <a href="/ucat/colleges-depts/liberal-arts-sciences/"><em>College of Liberal Arts and Sciences</em></a> section for additional degree requirements and college academic policies.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Summary of Requirements</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Major Requirements</span></td><td class="hourscol">31</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">General Education and Electives to reach minimum Total Hours</span></td><td class="hourscol">89</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">120</td></tr></tbody>
+</table>
+
+<h3>General Education</h3>
+<p>See <em>General Education and Writing-in-the-Discipline</em> in the<em> <a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></em> section for information on meeting these requirements.</p>
+<h3>Major Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select three of the following:</span></td><td class="hourscol">9</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20211" title="FR 211" class="bubblelink code" onclick="return showCourse(this, 'FR 211');">FR 211</a></div></td><td>French in the Professions</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20212" title="FR 212" class="bubblelink code" onclick="return showCourse(this, 'FR 212');">FR 212</a></div></td><td>Exploring the French-Speaking World</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20213" title="FR 213" class="bubblelink code" onclick="return showCourse(this, 'FR 213');">FR 213</a></div></td><td>France Past and Present</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20214" title="FR 214" class="bubblelink code" onclick="return showCourse(this, 'FR 214');">FR 214</a></div></td><td>Conversational French through Popular Culture and Media</td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Select two of the following:</span></td><td class="hourscol">6</td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20300" title="FR 300" class="bubblelink code" onclick="return showCourse(this, 'FR 300');">FR 300</a></div></td><td>Topics in Film and Media of the French-Speaking World</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20301" title="FR 301" class="bubblelink code" onclick="return showCourse(this, 'FR 301');">FR 301</a></div></td><td>Topics in French and Francophone Literature <sup>a</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20302" title="FR 302" class="bubblelink code" onclick="return showCourse(this, 'FR 302');">FR 302</a></div></td><td>Topics in French and Francophone Culture <sup>a</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=FR%20303" title="FR 303" class="bubblelink code" onclick="return showCourse(this, 'FR 303');">FR 303</a></td><td>Writing in the Discipline <sup>b</sup></td><td class="hourscol">1</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Two 400-level FR electives</span></td><td class="hourscol">6</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">Three FR electives at the 200, 300, or 400 level</span> <sup>a,c,d</sup></td><td class="hourscol">9</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">31</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Students may not take a 300-level FR course unless they EITHER have completed two 200-level courses OR have completed one 200-level course and register concurrently in a 200-level course taught in French.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=FR%20303" title="FR 303" class="bubblelink code" onclick="return showCourse(this, 'FR 303');">FR 303</a></span> fulfills the Writing-in-the-Discipline requirement. <span class="sc_courseinline"><a href="/search/?P=FR%20303" title="FR 303" class="bubblelink code" onclick="return showCourse(this, 'FR 303');">FR 303</a></span> must be taken concurrently with <span class="sc_courseinline"><a href="/search/?P=FR%20300" title="FR 300" class="bubblelink code" onclick="return showCourse(this, 'FR 300');">FR 300</a></span>, <span class="sc_courseinline"><a href="/search/?P=FR%20301" title="FR 301" class="bubblelink code" onclick="return showCourse(this, 'FR 301');">FR 301</a></span>, or <span class="sc_courseinline"><a href="/search/?P=FR%20302" title="FR 302" class="bubblelink code" onclick="return showCourse(this, 'FR 302');">FR 302</a></span>.</em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>Students may take only one French course taught in English at the 200 level (i.e., <span class="sc_courseinline"><a href="/search/?P=FR%20298" title="FR 298" class="bubblelink code" onclick="return showCourse(this, 'FR 298');">FR 298</a></span> or <span class="sc_courseinline"><a href="/search/?P=FR%20297" title="FR 297" class="bubblelink code" onclick="return showCourse(this, 'FR 297');">FR 297</a></span>) toward their major or minor. </em></p></td></tr><tr><td valign="top" class="symcol">d</td><td class="notecol"><p><em>Students may not take a 400-level French course (even if it is taught in English, since all writing and supplemental reading will need to be in French) unless they either have taken a 300-level course or are registered concurrently in a 300-level course.</em></p></td></tr></table>
+<h2>Recommended Plan of Study</h2>
+<table pdfnorepeatheader="true" class="sc_plangrid">
+<caption>Plan of Study Grid</caption><colgroup>
+	<col class="codecol"/>
+	<col class="titlecol"/>
+	<col class="hourscol"/>
+</colgroup>
+<tr class="plangridyear"><th id="plangrid1_0" class="year" colspan="3">First Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_0_0" colspan="2">Fall Semester</th><th id="hoursheader" scope="col" class="hourscol">Hours</th></tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Academic Writing I: Writing in Academic and Public Contexts</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">Quantitative Reasoning</span></td>
+<td headers="hoursheader" class="hourscol">3-5</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">Select two of the following:</span></td>
+<td headers="hoursheader" class="hourscol">6</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20211" title="FR 211" class="bubblelink code" onclick="return showCourse(this, 'FR 211');">FR 211</a></div></td>
+<td headers=" plangrid1_0_0" class="titlecol">French in the Professions</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20212" title="FR 212" class="bubblelink code" onclick="return showCourse(this, 'FR 212');">FR 212</a></div></td>
+<td headers=" plangrid1_0_0" class="titlecol">Exploring the French-Speaking World</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20213" title="FR 213" class="bubblelink code" onclick="return showCourse(this, 'FR 213');">FR 213</a></div></td>
+<td headers=" plangrid1_0_0" class="titlecol">France Past and Present</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20214" title="FR 214" class="bubblelink code" onclick="return showCourse(this, 'FR 214');">FR 214</a></div></td>
+<td headers=" plangrid1_0_0" class="titlecol">Conversational French through Popular Culture and Media</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_0_0" class="titlecol">Hours</td><td headers=" plangrid1_0_0 hoursheader" class="hourscol">15-17</td></tr>
+<tr class="plangridterm"><th id="plangrid1_0_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Academic Writing II: Writing for Inquiry and Research</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">Select one of the following:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20211" title="FR 211" class="bubblelink code" onclick="return showCourse(this, 'FR 211');">FR 211</a></div></td>
+<td headers=" plangrid1_0_1" class="titlecol">French in the Professions</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20212" title="FR 212" class="bubblelink code" onclick="return showCourse(this, 'FR 212');">FR 212</a></div></td>
+<td headers=" plangrid1_0_1" class="titlecol">Exploring the French-Speaking World</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20213" title="FR 213" class="bubblelink code" onclick="return showCourse(this, 'FR 213');">FR 213</a></div></td>
+<td headers=" plangrid1_0_1" class="titlecol">France Past and Present</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20214" title="FR 214" class="bubblelink code" onclick="return showCourse(this, 'FR 214');">FR 214</a></div></td>
+<td headers=" plangrid1_0_1" class="titlecol">Conversational French through Popular Culture and Media</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">Select one of the following:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20300" title="FR 300" class="bubblelink code" onclick="return showCourse(this, 'FR 300');">FR 300</a></div></td>
+<td headers=" plangrid1_0_1" class="titlecol">Topics in Film and Media of the French-Speaking World <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20301" title="FR 301" class="bubblelink code" onclick="return showCourse(this, 'FR 301');">FR 301</a></div></td>
+<td headers=" plangrid1_0_1" class="titlecol">Topics in French and Francophone Literature <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20302" title="FR 302" class="bubblelink code" onclick="return showCourse(this, 'FR 302');">FR 302</a></div></td>
+<td headers=" plangrid1_0_1" class="titlecol">Topics in French and Francophone Culture <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3-5</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_0_1" class="titlecol">Hours</td><td headers=" plangrid1_0_1 hoursheader" class="hourscol">15-17</td></tr>
+<tr class="plangridyear"><th id="plangrid1_1" class="year" colspan="3">Second Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_1_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">Select one of the following:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20300" title="FR 300" class="bubblelink code" onclick="return showCourse(this, 'FR 300');">FR 300</a></div></td>
+<td headers=" plangrid1_1_0" class="titlecol">Topics in Film and Media of the French-Speaking World <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20301" title="FR 301" class="bubblelink code" onclick="return showCourse(this, 'FR 301');">FR 301</a></div></td>
+<td headers=" plangrid1_1_0" class="titlecol">Topics in French and Francophone Literature <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20302" title="FR 302" class="bubblelink code" onclick="return showCourse(this, 'FR 302');">FR 302</a></div></td>
+<td headers=" plangrid1_1_0" class="titlecol">Topics in French and Francophone Culture <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" class="codecol"><a href="/search/?P=FR%20303" title="FR 303" class="bubblelink code" onclick="return showCourse(this, 'FR 303');">FR 303</a></td>
+<td headers=" plangrid1_1_0" class="titlecol">Writing in the Discipline <sup>b</sup></td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">200-, 300-, or 400-level FR Elective</span> <sup>c,d</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3-5</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_1_0" class="titlecol">Hours</td><td headers=" plangrid1_1_0 hoursheader" class="hourscol">16-18</td></tr>
+<tr class="plangridterm"><th id="plangrid1_1_1" colspan="3">Spring Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">200-, 300-, or 400-level FR Elective</span> <sup>c,d</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3-5</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">General Education Requirement course/Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">General Education Requirement course/Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_1_1" class="titlecol">Hours</td><td headers=" plangrid1_1_1 hoursheader" class="hourscol">15-17</td></tr>
+<tr class="plangridyear"><th id="plangrid1_2" class="year" colspan="3">Third Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_2_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">200-, 300-, or 400-level FR Elective</span> <sup>c,d</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">11-13</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_2_0" class="titlecol">Hours</td><td headers=" plangrid1_2_0 hoursheader" class="hourscol">14-16</td></tr>
+<tr class="plangridterm"><th id="plangrid1_2_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">FR 4xx</span> <sup>d</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">12</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_2_1" class="titlecol">Hours</td><td headers=" plangrid1_2_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridyear"><th id="plangrid1_3" class="year" colspan="3">Fourth Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_3_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">FR 4xx</span> <sup>d</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">12</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_3_0" class="titlecol">Hours</td><td headers=" plangrid1_3_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid1_3_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">15</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_3_1" class="titlecol">Hours</td><td headers=" plangrid1_3_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridtotal lastrow odd"><td> </td><td>Total Hours</td><td headers="hoursheader" class="hourscol">120</td></tr>
+</table>
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Students may not take a 300-level FR class unless they EITHER have completed two 200-level courses OR have completed one 200-level course and register concurrently in a 200-level course taught in French.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=FR%20303" title="FR 303" class="bubblelink code" onclick="return showCourse(this, 'FR 303');">FR 303</a></span> fulfills the Writing-in-the-Discipline requirement. <span class="sc_courseinline"><a href="/search/?P=FR%20303" title="FR 303" class="bubblelink code" onclick="return showCourse(this, 'FR 303');">FR 303</a></span> must be taken in conjunction with <span class="sc_courseinline"><a href="/search/?P=FR%20300" title="FR 300" class="bubblelink code" onclick="return showCourse(this, 'FR 300');">FR 300</a></span>, <span class="sc_courseinline"><a href="/search/?P=FR%20301" title="FR 301" class="bubblelink code" onclick="return showCourse(this, 'FR 301');">FR 301</a></span>, or <span class="sc_courseinline"><a href="/search/?P=FR%20302" title="FR 302" class="bubblelink code" onclick="return showCourse(this, 'FR 302');">FR 302</a></span></em><em>.</em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>Students may take only ONE French class taught in English at the 200 level (i.e., <span class="sc_courseinline"><a href="/search/?P=FR%20297" title="FR 297" class="bubblelink code" onclick="return showCourse(this, 'FR 297');">FR 297</a></span> or <span class="sc_courseinline"><a href="/search/?P=FR%20298" title="FR 298" class="bubblelink code" onclick="return showCourse(this, 'FR 298');">FR 298</a></span>) toward their major or minor. </em></p></td></tr><tr><td valign="top" class="symcol">d</td><td class="notecol"><p><em>Students may not take a 400-level French class (even if it is taught in English, since all writing and supplemental reading will need to be in French) unless they EITHER have taken a 300-level class OR register concurrently in a 300-level class.</em></p></td></tr></table>
+<p><strong>Note</strong>: Study abroad options are available that can significantly advance the time required to satisfy the French major; this can help students who begin French in the 100-level program at UIC complete the major in a timely manner.</p></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="ba-fr.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

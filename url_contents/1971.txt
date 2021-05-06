@@ -1,0 +1,583 @@
+https://catalog.uic.edu/ucat/course-descriptions/pmpr/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Pharmacy Practice (PMPR) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a></li>
+		<li class="active isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a>
+		<ul class="nav leveltwo" id="/ucat/course-descriptions/">
+			<li><a href="/ucat/course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+			<li><a href="/ucat/course-descriptions/actg/">Accounting (ACTG)</a></li>
+			<li><a href="/ucat/course-descriptions/aast/">African American Studies (AAST)</a></li>
+			<li><a href="/ucat/course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+			<li><a href="/ucat/course-descriptions/anth/">Anthropology (ANTH)</a></li>
+			<li><a href="/ucat/course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+			<li><a href="/ucat/course-descriptions/arab/">Arabic (ARAB)</a></li>
+			<li><a href="/ucat/course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+			<li><a href="/ucat/course-descriptions/arch/">Architecture (ARCH)</a></li>
+			<li><a href="/ucat/course-descriptions/art/">Art (ART)</a></li>
+			<li><a href="/ucat/course-descriptions/ah/">Art History (AH)</a></li>
+			<li><a href="/ucat/course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+			<li><a href="/ucat/course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+			<li><a href="/ucat/course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+			<li><a href="/ucat/course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+			<li><a href="/ucat/course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+			<li><a href="/ucat/course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+			<li><a href="/ucat/course-descriptions/blst/">Black Studies (BLST)</a></li>
+			<li><a href="/ucat/course-descriptions/ba/">Business Administration (BA)</a></li>
+			<li><a href="/ucat/course-descriptions/cc/">Campus Courses (CC)</a></li>
+			<li><a href="/ucat/course-descriptions/cst/">Catholic Studies (CST)</a></li>
+			<li><a href="/ucat/course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+			<li><a href="/ucat/course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+			<li><a href="/ucat/course-descriptions/chem/">Chemistry (CHEM)</a></li>
+			<li><a href="/ucat/course-descriptions/chin/">Chinese (CHIN)</a></li>
+			<li><a href="/ucat/course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+			<li><a href="/ucat/course-descriptions/cl/">Classics (CL)</a></li>
+			<li><a href="/ucat/course-descriptions/comm/">Communication (COMM)</a></li>
+			<li><a href="/ucat/course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+			<li><a href="/ucat/course-descriptions/cs/">Computer Science (CS)</a></li>
+			<li><a href="/ucat/course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+			<li><a href="/ucat/course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+			<li><a href="/ucat/course-descriptions/des/">Design (DES)</a></li>
+			<li><a href="/ucat/course-descriptions/dlg/">Dialogue (DLG)</a></li>
+			<li><a href="/ucat/course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+			<li><a href="/ucat/course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+			<li><a href="/ucat/course-descriptions/econ/">Economics (ECON)</a></li>
+			<li><a href="/ucat/course-descriptions/ed/">Education (ED)</a></li>
+			<li><a href="/ucat/course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+			<li><a href="/ucat/course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+			<li><a href="/ucat/course-descriptions/ece/">Electrical and Computer Engr (ECE)</a></li>
+			<li><a href="/ucat/course-descriptions/engr/">Engineering (ENGR)</a></li>
+			<li><a href="/ucat/course-descriptions/engl/">English (ENGL)</a></li>
+			<li><a href="/ucat/course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+			<li><a href="/ucat/course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+			<li><a href="/ucat/course-descriptions/fin/">Finance (FIN)</a></li>
+			<li><a href="/ucat/course-descriptions/fr/">French (FR)</a></li>
+			<li><a href="/ucat/course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+			<li><a href="/ucat/course-descriptions/geog/">Geography (GEOG)</a></li>
+			<li><a href="/ucat/course-descriptions/ger/">Germanic Studies (GER)</a></li>
+			<li><a href="/ucat/course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+			<li><a href="/ucat/course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+			<li><a href="/ucat/course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+			<li><a href="/ucat/course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+			<li><a href="/ucat/course-descriptions/him/">Health Information Management (HIM)</a></li>
+			<li><a href="/ucat/course-descriptions/heb/">Hebrew (HEB)</a></li>
+			<li><a href="/ucat/course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+			<li><a href="/ucat/course-descriptions/hist/">History (HIST)</a></li>
+			<li><a href="/ucat/course-descriptions/hon/">Honors College Courses (HON)</a></li>
+			<li><a href="/ucat/course-descriptions/hn/">Human Nutrition (HN)</a></li>
+			<li><a href="/ucat/course-descriptions/hum/">Humanities (HUM)</a></li>
+			<li><a href="/ucat/course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+			<li><a href="/ucat/course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+			<li><a href="/ucat/course-descriptions/it/">Information Technology (IT)</a></li>
+			<li><a href="/ucat/course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+			<li><a href="/ucat/course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+			<li><a href="/ucat/course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+			<li><a href="/ucat/course-descriptions/inst/">International Studies (INST)</a></li>
+			<li><a href="/ucat/course-descriptions/ital/">Italian (ITAL)</a></li>
+			<li><a href="/ucat/course-descriptions/jpn/">Japanese (JPN)</a></li>
+			<li><a href="/ucat/course-descriptions/jst/">Jewish Studies (JST)</a></li>
+			<li><a href="/ucat/course-descriptions/kn/">Kinesiology (KN)</a></li>
+			<li><a href="/ucat/course-descriptions/kor/">Korean (KOR)</a></li>
+			<li><a href="/ucat/course-descriptions/lat/">Latin (LAT)</a></li>
+			<li><a href="/ucat/course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+			<li><a href="/ucat/course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+			<li><a href="/ucat/course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+			<li><a href="/ucat/course-descriptions/ling/">Linguistics (LING)</a></li>
+			<li><a href="/ucat/course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+			<li><a href="/ucat/course-descriptions/lith/">Lithuanian (LITH)</a></li>
+			<li><a href="/ucat/course-descriptions/mgmt/">Management (MGMT)</a></li>
+			<li><a href="/ucat/course-descriptions/mktg/">Marketing (MKTG)</a></li>
+			<li><a href="/ucat/course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+			<li><a href="/ucat/course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+			<li><a href="/ucat/course-descriptions/math/">Mathematics (MATH)</a></li>
+			<li><a href="/ucat/course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+			<li><a href="/ucat/course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+			<li><a href="/ucat/course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+			<li><a href="/ucat/course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+			<li><a href="/ucat/course-descriptions/mils/">Military Science (MILS)</a></li>
+			<li><a href="/ucat/course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+			<li><a href="/ucat/course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+			<li><a href="/ucat/course-descriptions/mus/">Music (MUS)</a></li>
+			<li><a href="/ucat/course-descriptions/nast/">Native American Studies (NAST)</a></li>
+			<li><a href="/ucat/course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+			<li><a href="/ucat/course-descriptions/ns/">Naval Science (NS)</a></li>
+			<li><a href="/ucat/course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+			<li><a href="/ucat/course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+			<li><a href="/ucat/course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+			<li><a href="/ucat/course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+			<li><a href="/ucat/course-descriptions/path/">Pathology (PATH)</a></li>
+			<li><a href="/ucat/course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+			<li><a href="/ucat/course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+			<li class="active self"><a href="#" onclick="return false;">Pharmacy Practice (PMPR)</a></li>
+			<li><a href="/ucat/course-descriptions/psop/">Pharmacy Systems, Outcomes &amp;&#8203; Policy (PSOP)</a></li>
+			<li><a href="/ucat/course-descriptions/phil/">Philosophy (PHIL)</a></li>
+			<li><a href="/ucat/course-descriptions/pt/">Physical Therapy (PT)</a></li>
+			<li><a href="/ucat/course-descriptions/phys/">Physics (PHYS)</a></li>
+			<li><a href="/ucat/course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+			<li><a href="/ucat/course-descriptions/pol/">Polish (POL)</a></li>
+			<li><a href="/ucat/course-descriptions/pols/">Political Science (POLS)</a></li>
+			<li><a href="/ucat/course-descriptions/port/">Portuguese (PORT)</a></li>
+			<li><a href="/ucat/course-descriptions/psch/">Psychology (PSCH)</a></li>
+			<li><a href="/ucat/course-descriptions/pa/">Public Administration (PA)</a></li>
+			<li><a href="/ucat/course-descriptions/pubh/">Public Health (PUBH)</a></li>
+			<li><a href="/ucat/course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+			<li><a href="/ucat/course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+			<li><a href="/ucat/course-descriptions/rels/">Religious Studies (RELS)</a></li>
+			<li><a href="/ucat/course-descriptions/russ/">Russian (RUSS)</a></li>
+			<li><a href="/ucat/course-descriptions/slav/">Slavic &amp;&#8203; Baltic Languages &amp;&#8203;Lit (SLAV)</a></li>
+			<li><a href="/ucat/course-descriptions/sj/">Social Justice (SJ)</a></li>
+			<li><a href="/ucat/course-descriptions/soc/">Sociology (SOC)</a></li>
+			<li><a href="/ucat/course-descriptions/span/">Spanish (SPAN)</a></li>
+			<li><a href="/ucat/course-descriptions/sped/">Special Education (SPED)</a></li>
+			<li><a href="/ucat/course-descriptions/stat/">Statistics (STAT)</a></li>
+			<li><a href="/ucat/course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+			<li><a href="/ucat/course-descriptions/thtr/">Theatre (THTR)</a></li>
+			<li><a href="/ucat/course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+			<li><a href="/ucat/course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+			<li><a href="/ucat/course-descriptions/us/">Urban Studies (US)</a></li>
+		</ul>
+		</li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/course-descriptions/">Undergraduate&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Pharmacy Practice (PMPR)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Pharmacy Practice (PMPR)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="pmprcourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;300.  Undergraduate Research Experience in Pharmacy Practice.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Course is being developed to support the academic environment for undergraduate students at UIC. The research experience will be under the guidance of a faculty member who will act as a research supervisor. Course Information: Satisfactory/Unstatisfatory grading only. May be repeated. Application of credit toward the degree is contingent upon the approval of the student's college and/or department. Prerequisite(s): Consent of the instructor supervising the research experience. Open only to sophomores, juniors, and seniors.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;315.  Foundations in Rural Family and Community Healthcare I.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Designed to introduce health care professions students to concepts and issues related to rural public health and primary care practice. Course Information: Prerequisite(s): Acceptance into the Rural Health Professions (RPHARM) Program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;316.  Foundations in Rural Family and Community Healthcare II.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Introduces students to concepts of health resources development, rural mental health as well as community based research in rural communities. Course Information: Prerequisite(s): Acceptance into the Rural Health Professions (RPHARM) Program and successful completion of <a href="/search/?P=PMPR%20315" title="PMPR&#160;315" class="bubblelink code" onclick="return showCourse(this, 'PMPR 315');">PMPR&#160;315</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;317.  Foundations in Rural Family and Community Healthcare III.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Allows students to apply what was learned in the first year by participating in hands on community health education. In addition, clinical aspects of rural healthcare are introduced. Course Information: Prerequisite(s): Acceptance into the Rural Health Professions (RPharm) Program AND successful completion of RHP Year 1.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;318.  Foundations in Rural Family and Community Healthcare IV.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Students apply what was learned in the first year by participating in hands on community health education. Course Information: Prerequisite(s): Acceptance into the Rural Health Professions (RPHARM) Program; and successful completion of <a href="/search/?P=PMPR%20315" title="PMPR&#160;315" class="bubblelink code" onclick="return showCourse(this, 'PMPR 315');">PMPR&#160;315</a>, <a href="/search/?P=PMPR%20316" title="PMPR&#160;316" class="bubblelink code" onclick="return showCourse(this, 'PMPR 316');">PMPR&#160;316</a> and <a href="/search/?P=PMPR%20317" title="PMPR&#160;317" class="bubblelink code" onclick="return showCourse(this, 'PMPR 317');">PMPR&#160;317</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;319.  Foundations in Rural Family and Community Healthcare V.  1 hour.</strong></p>
+<p class="courseblockdesc">
+The fifth course in a series of six courses of supplementary education for PharmD students accepted into the Rural Health Professions (RHP) Program. Course Information: Prerequisite(s):Acceptance into the Rural Health Professions (RPHARM) Program AND successful completion of RHP Years 1 and 2.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;320.  Foundations in Rural Family and Community Healthcare VI.  1 hour.</strong></p>
+<p class="courseblockdesc">
+The sixth course in a series of six courses of supplementary education for PharmD students accepted into the Rural Health Professions (RHP) Program. Course Information: Prerequisite(s):Acceptance into the Rural Health Professions (RPHARM) Program AND successful completion of RHP Years 1 and 2.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;321.  Capstone Project in Rural Healthcare.  2 hours.</strong></p>
+<p class="courseblockdesc">
+The capstone project is a community-based research project which requires study of their chosen community's social, economic, cultural, organizational and political structure. Course Information: Prerequisite(s): Acceptance into the Rural Health Professions/RPHARM Program and successful completion of Years 1-3 of the RPHARM series of courses.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;325.  Drugs and Society.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Presents factual basis of drug use and abuse. Provides physiological and socio-psychological underpinnings of drug abuse. Evaluates social policies and regulatory issues surrounding drug abuse. Course Information: Same as <a href="/search/?P=BPS%20325" title="BPS&#160;325" class="bubblelink code" onclick="return showCourse(this, 'BPS 325');">BPS&#160;325</a>. Extensive computer use required. Prerequisite(s): Open only to first year students in the Doctor of Pharmacy program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;326.  Topics for Professional Student Enrichment.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Students will meet at the beginning of the semester with the course instructor to review and select topics from a schedule of topics. Topics chosen will reflect 15 hours of class time as well as writen journals. Course Information: Prerequisite(s): PHAR 341.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;327.  Lifestyle Modifications in Disease Management.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Provides students with the background and practical knowledge for teaching their patients the best ways to become aware of and implement specific lifestyle modifications for their disease states. Course Information: Co-requisites: Concurrently enrolled in PDATs (i.e. P2's and up).<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;328.  Evidence Based Phytotherapy.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Provides a basis for the evidenced-based evaluation of phytotherapy and other Complementary and Alternative Medicine (CAM) modalities.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;329.  Dean's Leadership Forum.  1 hour.</strong></p>
+<p class="courseblockdesc">
+In addition to student exposure of established pharmacist roles, it will foster awareness about emerging trends and unique managerial roles for pharmacists as well as alternative career paths within the profession and the pharmaceutical sciences. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): P2 or P3 class standing.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;330.  Journal Club and Advanced Literature Analysis.  1 hour.</strong></p>
+<p class="courseblockdesc">
+A course designed to familiarize students with more advanced study design and statistical concepts commonly used in the medical literature. Course Information: Prerequisite(s): P-3 standing and completion of PHAR 455.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;335.  Academic Advanced Pharmacy Practice Experience.  4 hours.</strong></p>
+<p class="courseblockdesc">
+An APPE occurring across the curriculum that exposes fourth-professional year students to academic pharmacy. Course Information: May be repeated to a maximum of 8 hours. Prerequisite(s): P4 level student standing.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;336.  Concepts in Drug Development: From Bench to Bedside.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Designed to give clinician-scientists an overview of the drug development process, from bench to bedside. Course Information: Offered online only. Prerequisite(s): Students will be required to search and evaluate scientific literature independently. PharmD candidates must be current second- or third-year students. First-year pharmacy students or graduate students of any year require instructor approval.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;337.  Spanish for Pharmacists.  2 hours.</strong></p>
+<p class="courseblockdesc">
+This online elective course is designed to provide students with the fundamental knowledge they will need to interact with a Spanish speaking patient.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;338.  Management of the HIV Patient.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Incorporates team and case-based learning. Provides an opportunity to advance HIV understanding and clinical application. Course Information: Prerequisite(s): PHAR 403.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;339.  Exploration of Telemedicine in Pharmacy Practice.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Provides an overview of telemedicine and its role in the healthcare system. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion, one Laboratory, and one Clinical Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;345.  Clinical Toxicology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Basic and applied concepts in clinical toxicology including general approach, poisoning prevention measures, retrieval and evaluation of toxicology literature, substance abuse issues and practice site specific toxicology concerns. Course Information: Prerequisite(s): Enrollment in the Doctor of Pharmacy program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;347.  Advanced Transplant Therapeutics.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Builds upon the fundamentals of solid organ transplantation established in PHAR 407. Course Information: Requires concurrent registration in PHAR 407.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;348.  Exploring Advanced Topics in Ambulatory Care.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Provides pharmacy students with advanced knowledge of various ambulatory care models. Course Information: Prerequisite(s): P3 standing.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;349.  Case Based Infectious Diseases.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Provides an opportunity to advance infectious disease understanding and clinical application. Students will be responsible for providing therapeutic recommendations based on evidence based medicine. Course Information: Prerequisite(s): PHAR 403 and current P3 standing.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;355.  Seminar in Pharmacy Research.  1 hour.</strong></p>
+<p class="courseblockdesc">
+A weekly 1 hour research seminar provided by the College of Pharmacy faculty who are currently conducting clinical and/or basic science research.  Course Information:  Prerequisite(s):  Enrollment in the Doctor of Pharmacy Program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;356.  The Role of the Pharmacist in Tobacco Cessation.  2 hours.</strong></p>
+<p class="courseblockdesc">
+An in-depth knowledge base in smoking cessation, skills for counseling, and detailed &quot;how to&quot; information on specific counseling techniques.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;357.  Natural and Recombinant Plasma-Derived Therapeutics.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Introduction to plasma-derived therapeutics including albumin, immune globulins, and factor products. Production, viral safety, and clinical applications will be covered.  Course Information:  Prerequisite(s):  P3 class standing.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;358.  Pharmacotherapeutic Issues in Women's Health.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Team taught case-based pharmacotherapeutic lecture course related to women's health.  Course Information:  Prerequisite(s):  P3 class standing or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;359.  Topics and Issues in Clinical Post-Graduate Training Programs.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Increases PharmD students' knowledge and professionalization about post-graduate training. Students will &quot;shadow&quot; residents or fellows during non-class times, overnight and weekends while the resident or fellow is on call. Course Information: Field work required. Prerequisite(s): Second or third year standing in the Doctor of Pharmacy program with good academic standing. Class Schedule Information:  To be properly registered, students must enroll in one Clinical Practice and one Lecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;360.  Clinical Aspects of Drug Interactions, Metabolism and Pharmacogenetics.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Clinical perspective in interpreting drug interaction/metabolism and pharmacogenetic data from the literature; application of the information in practice. Hands-on opportunities to manage drug interactions using real-life cases. Course Information: Prerequisite(s): Third year standing in the Doctor of Pharmacy program or above; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;361.  Introduction to Public Health: Concepts and Applications in Pharmacy.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces pharmacy students to major concepts in public health.  Emphasizes an interdisciplinary team that focuses on the well being of the population.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;362.  Clinical Aspects of Diabetes Mellitus.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Discussion and project-based coursework covering more detailed information about diabetes mellitus types 1 and 2 for students interested in learning more about diabetes beyond the required Principles of Drug Action and Therapeutics course. Course Information: Prerequisite(s): PHAR 404.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;363.  Primary Care Clinical Nutrition.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Students will evaluate the clinical importance of nutritional intervention, and its practical applications for chronic disease prevention and management such as cancer, hypertension, hyperlipidemia, diabetes, and obesity.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;370.  Pharmacy Grand Rounds.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Case studies in drug therapy; review of relevant areas of drug treatment and research. Role of the pharmacist emphasized. Weekly presentations. Manadatory attendance. Course Information: Satisfactory/Unsatisfactory grading only. May not be repeated for credit. Prerequisite(s): Enrollment in the Doctor of Pharmacy program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;371.  Professional Development Seminar I.  1 hour.</strong></p>
+<p class="courseblockdesc">
+A weekly seminar series designed to draw select second year professional students together to discuss educational issues related to the second professional year. Course Information: Credit is not given for <a href="/search/?P=PMPR%20371" title="PMPR&#160;371" class="bubblelink code" onclick="return showCourse(this, 'PMPR 371');">PMPR&#160;371</a> if the student has credit in <a href="/search/?P=BPS%20381" title="BPS&#160;381" class="bubblelink code" onclick="return showCourse(this, 'BPS 381');">BPS&#160;381</a> or PMAD 381 or <a href="/search/?P=PMMP%20381" title="PMMP&#160;381" class="bubblelink code" onclick="return showCourse(this, 'PMMP 381');">PMMP&#160;381</a>. Prerequisite(s): Completion of the first year of the Doctor of Pharmacy program; Student must be listed as an advisee of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;377.  Professional Development for Pharmacists.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Designed to develop the skills necessary for the professional development of future pharmacists: resume writing, interview preparation, written correspondence, and verbal presentation skills. Course Information: Prerequisite(s): Enrollment in the Doctor of Pharmacy program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;378.  Pediatric Therapeutics.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Drug therapy of common pediatric disease states, emphasizing special pediatric considerations in the areas of infectious disease, psychiatry, hematology, neonatology. Course Information: Prerequisite(s): Completion of the second year of the Doctor of Pharmacy Program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;380.  Undergraduate Research in Pharmacy Practice.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Investigation, under the direction of one or more faculty members, of a problem of limited scope.  May require literature research related to the research project. Course Information: May be repeated. A maximum of 6 hours of credit is allowed per department. A total of not more than 8 hours of 380 and 390 numbered courses in the college may be applied toward the 12 hours of PharmD professional electives.  Prerequisite(s): Minimum cumulative grade point average of 2.50 and consent of the instructor, department head, and Associate Dean for Student Affairs.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;381.  Chronic Kidney Disease (CKD) - Interventions and Treatment.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Identification and treatment of patients with chronic kidney disease utilizing a multifactorial approach to attain goals set by Kidney Disease Outcome Quality Initiatives (KDOQI) Guidelines, ADA Guidelines, JNCVII Guidelines and NCEPIII Guidelines. Course Information: Prerequisite(s): PHAR 401.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;382.  Ethical Considerations in the Practice of Pharmacy.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Students will review ethical principles, identify ethical dilemmas, analyze case studies, and engage in role-playing. Individual and group written/oral presentations will be required. Course Information: Prerequisite(s): PHAR 404.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;383.  Managed Care Pharmacy.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Covers fundamental concepts in managed care pharmacy and provides a basic understanding of how managed care pharmacy impacts the health care system.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;385.  Special Topics of Current Interest in Pharmacy Practice.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Course offered by faculty or a visiting lecturer on a selected topic of current interest. Available on an experimental basis for two offerings only. Course Information:  May be repeated.  Students may register in more than one section per term.  Prerequisite(s): Good academic standing and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;390.  Special Projects in Pharmacy Practice.  1-2 hours.</strong></p>
+<p class="courseblockdesc">
+Special projects within the departmental discipline. Defined and terminal project goals are achieved through independent study. Course Information: May be repeated. A maximum of 4 hours of 390 credit is allowed in all departments. A total of not more than 8 hours of 380 and 390 numbered courses in the college may be applied toward the 12 hours of PharmD professional electives.   Prerequisite(s): Consent of the instructor, department head, and Associate Dean for Student Affairs.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;430.  Critical Care I.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced pharmacotherapeutics course that will concentrate on the medical management and the pharmacotherapist's role in the management of the critically ill patient.  This course will also incorporate and apply pharmacokinetic principles. Course Information: Prerequisite(s): HAR 401 and PHAR 402 and PHAR 403 and PHAR 404 and PHAR 405 and PHAR 406; and PHAR 407 and PHAR 408; and completion of the second year of the program Beginning Spring 2019: Concurrent enrollment in <a href="/search/?P=PHAR%20510" title="PHAR&#160;510" class="bubblelink code" onclick="return showCourse(this, 'PHAR 510');">PHAR&#160;510</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;440.  Applied Pharmacokinetics.  2 hours.</strong></p>
+<p class="courseblockdesc">
+An elective course demonstrating practical application of pharmacokinetic principles. Course Information: Previously listed as PMPR 340. Scientific calculator required. Prerequisite(s): PHAR 401, PHAR 402, PHAR 403, PHAR 404, PHAR 405, and PHAR 406 or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;442.  Introduction to Specialty Pharmacy.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Specialty pharmacy practice model and how it impacts access and management of drugs used to treat complex ans chronic disease. Course Information: Prerequisite(s): P2 or P3 standing. Class Schedule Information: To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;445.  Interprofessional Approaches to Health Disparities (IAHD) I.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Designed to build upon the concepts of health disparities, social determinants of health, public health, Interprofessional education, quality improvement and community-based participatory research across the PharmD curriculum. Course Information: Prerequisite(s): Successful completion of PharmD Curriculum through P2 year. Completion of competitive application packet for the course.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;446.  Interprofessional Approaches to Health Disparities (IAHD) II.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Equips learners with essential skills to improve health care for underserved populations and transform health disparities through interprofessional education, research and collaborative practice. Prerequisite(s): <a href="/search/?P=PMPR%20445" title="PMPR&#160;445" class="bubblelink code" onclick="return showCourse(this, 'PMPR 445');">PMPR&#160;445</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PMPR&#160;450.  Medical writing.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Students will access weekly online modules that will cover the fundamentals of writing, editing, and publishing scientific medical information. Prerequisite(s): <a href="/search/?P=PHAR%20440" title="PHAR&#160;440" class="bubblelink code" onclick="return showCourse(this, 'PHAR 440');">PHAR&#160;440</a>.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="pmpr.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

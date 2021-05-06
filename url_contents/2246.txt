@@ -1,0 +1,778 @@
+https://catalog.uic.edu/all-course-descriptions/mus/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Music (MUS) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="isparent"><a href="/ucat/">Undergraduate Catalog</a></li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="active isparent"><a href="/all-course-descriptions/">All Course Descriptions</a>
+	<ul class="nav levelone" id="/all-course-descriptions/">
+		<li><a href="/all-course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+		<li><a href="/all-course-descriptions/actg/">Accounting (ACTG)</a></li>
+		<li><a href="/all-course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+		<li><a href="/all-course-descriptions/anth/">Anthropology (ANTH)</a></li>
+		<li><a href="/all-course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+		<li><a href="/all-course-descriptions/arab/">Arabic (ARAB)</a></li>
+		<li><a href="/all-course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+		<li><a href="/all-course-descriptions/arch/">Architecture (ARCH)</a></li>
+		<li><a href="/all-course-descriptions/art/">Art (ART)</a></li>
+		<li><a href="/all-course-descriptions/ah/">Art History (AH)</a></li>
+		<li><a href="/all-course-descriptions/bms/">Basic Medical Sciences (BMS)</a></li>
+		<li><a href="/all-course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+		<li><a href="/all-course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+		<li><a href="/all-course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+		<li><a href="/all-course-descriptions/bvis/">Biomedical Visualization (BVIS)</a></li>
+		<li><a href="/all-course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+		<li><a href="/all-course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+		<li><a href="/all-course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+		<li><a href="/all-course-descriptions/blst/">Black Studies (BLST)</a></li>
+		<li><a href="/all-course-descriptions/ba/">Business Administration (BA)</a></li>
+		<li><a href="/all-course-descriptions/cc/">Campus Courses (CC)</a></li>
+		<li><a href="/all-course-descriptions/cst/">Catholic Studies (CST)</a></li>
+		<li><a href="/all-course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+		<li><a href="/all-course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+		<li><a href="/all-course-descriptions/chem/">Chemistry (CHEM)</a></li>
+		<li><a href="/all-course-descriptions/chin/">Chinese (CHIN)</a></li>
+		<li><a href="/all-course-descriptions/cd/">City Design (CD)</a></li>
+		<li><a href="/all-course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+		<li><a href="/all-course-descriptions/cl/">Classics (CL)</a></li>
+		<li><a href="/all-course-descriptions/cler/">Clerkship -&#8203; Medicine (CLER)</a></li>
+		<li><a href="/all-course-descriptions/cele/">Clerkship Electives -&#8203; Chicago (CELE)</a></li>
+		<li><a href="/all-course-descriptions/pele/">Clerkship Electives -&#8203; Peoria (PELE)</a></li>
+		<li><a href="/all-course-descriptions/rele/">Clerkship Electives -&#8203; Rockford (RELE)</a></li>
+		<li><a href="/all-course-descriptions/uele/">Clerkship Electives -&#8203; Urbana (UELE)</a></li>
+		<li><a href="/all-course-descriptions/comm/">Communication (COMM)</a></li>
+		<li><a href="/all-course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+		<li><a href="/all-course-descriptions/cs/">Computer Science (CS)</a></li>
+		<li><a href="/all-course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+		<li><a href="/all-course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+		<li><a href="/all-course-descriptions/dadm/">Dental Administration (DADM)</a></li>
+		<li><a href="/all-course-descriptions/daob/">Dentistry -&#8203; Applied Oral and Behavioral Sciences (DAOB)</a></li>
+		<li><a href="/all-course-descriptions/dbcs/">Dentistry -&#8203; Biomedical and Clinical Sciences (DBCS)</a></li>
+		<li><a href="/all-course-descriptions/dcle/">Dentistry -&#8203; Community Learning Experience (DCLE)</a></li>
+		<li><a href="/all-course-descriptions/dosi/">Dentistry -&#8203; Oral/&#8203;Systemic Issues (DOSI)</a></li>
+		<li><a href="/all-course-descriptions/dost/">Dentistry -&#8203; Oral/&#8203;Systemic Topics (DOST)</a></li>
+		<li><a href="/all-course-descriptions/des/">Design (DES)</a></li>
+		<li><a href="/all-course-descriptions/dlg/">Dialogue (DLG)</a></li>
+		<li><a href="/all-course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+		<li><a href="/all-course-descriptions/mdc/">Doctor of Medicine—Chicago (MDC)</a></li>
+		<li><a href="/all-course-descriptions/mdp/">Doctor of Medicine—Peoria (MDP)</a></li>
+		<li><a href="/all-course-descriptions/mdr/">Doctor of Medicine—Rockford (MDR)</a></li>
+		<li><a href="/all-course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+		<li><a href="/all-course-descriptions/econ/">Economics (ECON)</a></li>
+		<li><a href="/all-course-descriptions/ed/">Education (ED)</a></li>
+		<li><a href="/all-course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+		<li><a href="/all-course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+		<li><a href="/all-course-descriptions/ece/">Electrical and Computer Engineering (ECE)</a></li>
+		<li><a href="/all-course-descriptions/eb/">Employee Benefits (EB)</a></li>
+		<li><a href="/all-course-descriptions/endo/">Endodontics (ENDO)</a></li>
+		<li><a href="/all-course-descriptions/ener/">Energy Engineering (ENER)</a></li>
+		<li><a href="/all-course-descriptions/engr/">Engineering (ENGR)</a></li>
+		<li><a href="/all-course-descriptions/engl/">English (ENGL)</a></li>
+		<li><a href="/all-course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+		<li><a href="/all-course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+		<li><a href="/all-course-descriptions/eohs/">Environmental and Occupational Health Sciences (EOHS)</a></li>
+		<li><a href="/all-course-descriptions/epid/">Epidemiology (EPID)</a></li>
+		<li><a href="/all-course-descriptions/epl/">Estate Planning (EPL)</a></li>
+		<li><a href="/all-course-descriptions/fin/">Finance (FIN)</a></li>
+		<li><a href="/all-course-descriptions/fr/">French (FR)</a></li>
+		<li><a href="/all-course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+		<li><a href="/all-course-descriptions/geog/">Geography (GEOG)</a></li>
+		<li><a href="/all-course-descriptions/ger/">Germanic Studies (GER)</a></li>
+		<li><a href="/all-course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+		<li><a href="/all-course-descriptions/gc/">Graduate College (GC)</a></li>
+		<li><a href="/all-course-descriptions/gems/">Graduate Education in Medical Sciences (GEMS)</a></li>
+		<li><a href="/all-course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+		<li><a href="/all-course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+		<li><a href="/all-course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+		<li><a href="/all-course-descriptions/him/">Health Information Management (HIM)</a></li>
+		<li><a href="/all-course-descriptions/hpa/">Health Policy and Administration (HPA)</a></li>
+		<li><a href="/all-course-descriptions/hlp/">Healthy Living Practitioner™ (HLP)</a></li>
+		<li><a href="/all-course-descriptions/heb/">Hebrew (HEB)</a></li>
+		<li><a href="/all-course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+		<li><a href="/all-course-descriptions/hstl/">Histology (HSTL)</a></li>
+		<li><a href="/all-course-descriptions/hist/">History (HIST)</a></li>
+		<li><a href="/all-course-descriptions/hon/">Honors College (HON)</a></li>
+		<li><a href="/all-course-descriptions/hn/">Human Nutrition (HN)</a></li>
+		<li><a href="/all-course-descriptions/hum/">Humanities (HUM)</a></li>
+		<li><a href="/all-course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+		<li><a href="/all-course-descriptions/it/">Information Technology (IT)</a></li>
+		<li><a href="/all-course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+		<li><a href="/all-course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+		<li><a href="/all-course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+		<li><a href="/all-course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+		<li><a href="/all-course-descriptions/ip/">Intellectual Property (IP)</a></li>
+		<li><a href="/all-course-descriptions/ibt/">International Business and Trade (IBT)</a></li>
+		<li><a href="/all-course-descriptions/inst/">International Studies (INST)</a></li>
+		<li><a href="/all-course-descriptions/ital/">Italian (ITAL)</a></li>
+		<li><a href="/all-course-descriptions/jpn/">Japanese (JPN)</a></li>
+		<li><a href="/all-course-descriptions/jst/">Jewish Studies (JST)</a></li>
+		<li><a href="/all-course-descriptions/jd/">Juris Doctor (JD)</a></li>
+		<li><a href="/all-course-descriptions/kn/">Kinesiology (KN)</a></li>
+		<li><a href="/all-course-descriptions/kor/">Korean (KOR)</a></li>
+		<li><a href="/all-course-descriptions/lat/">Latin (LAT)</a></li>
+		<li><a href="/all-course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+		<li><a href="/all-course-descriptions/law/">Law (LAW)</a></li>
+		<li><a href="/all-course-descriptions/lrsc/">Learning Sciences (LRSC)</a></li>
+		<li><a href="/all-course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+		<li><a href="/all-course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+		<li><a href="/all-course-descriptions/ling/">Linguistics (LING)</a></li>
+		<li><a href="/all-course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+		<li><a href="/all-course-descriptions/lith/">Lithuanian (LITH)</a></li>
+		<li><a href="/all-course-descriptions/mgmt/">Management (MGMT)</a></li>
+		<li><a href="/all-course-descriptions/mktg/">Marketing (MKTG)</a></li>
+		<li><a href="/all-course-descriptions/mba/">Master of Business Administration (MBA)</a></li>
+		<li><a href="/all-course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+		<li><a href="/all-course-descriptions/mj/">Master of Jurisprudence (MJ)</a></li>
+		<li><a href="/all-course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+		<li><a href="/all-course-descriptions/math/">Mathematics (MATH)</a></li>
+		<li><a href="/all-course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+		<li><a href="/all-course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+		<li><a href="/all-course-descriptions/mbt/">Medical Biotechnology (MBT)</a></li>
+		<li><a href="/all-course-descriptions/mhpe/">Medical Education (MHPE)</a></li>
+		<li><a href="/all-course-descriptions/mhum/">Medical Humanities (MHUM)</a></li>
+		<li><a href="/all-course-descriptions/mdch/">Medicinal Chemistry (MDCH)</a></li>
+		<li><a href="/all-course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+		<li><a href="/all-course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+		<li><a href="/all-course-descriptions/mils/">Military Science (MILS)</a></li>
+		<li><a href="/all-course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+		<li><a href="/all-course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+		<li class="active self"><a href="#" onclick="return false;">Music (MUS)</a></li>
+		<li><a href="/all-course-descriptions/nast/">Native American Studies (NAST)</a></li>
+		<li><a href="/all-course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+		<li><a href="/all-course-descriptions/ns/">Naval Science (NS)</a></li>
+		<li><a href="/all-course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+		<li><a href="/all-course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+		<li><a href="/all-course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+		<li><a href="/all-course-descriptions/nupr/">Nursing Practicum (NUPR)</a></li>
+		<li><a href="/all-course-descriptions/nusp/">Nursing Specialty (NUSP)</a></li>
+		<li><a href="/all-course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+		<li><a href="/all-course-descriptions/omds/">Oral Medicine and Diagnostic Sciences (OMDS)</a></li>
+		<li><a href="/all-course-descriptions/osci/">Oral Sciences (OSCI)</a></li>
+		<li><a href="/all-course-descriptions/osur/">Oral and Maxillofacial Surgery (OSUR)</a></li>
+		<li><a href="/all-course-descriptions/ortd/">Orthodontics (ORTD)</a></li>
+		<li><a href="/all-course-descriptions/path/">Pathology (PATH)</a></li>
+		<li><a href="/all-course-descriptions/psl/">Patient Safety Leadership (PSL)</a></li>
+		<li><a href="/all-course-descriptions/pedd/">Pediatric Dentistry (PEDD)</a></li>
+		<li><a href="/all-course-descriptions/peri/">Periodontics (PERI)</a></li>
+		<li><a href="/all-course-descriptions/psci/">Pharmaceutical Sciences (PSCI)</a></li>
+		<li><a href="/all-course-descriptions/pmpg/">Pharmacognosy (PMPG)</a></li>
+		<li><a href="/all-course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+		<li><a href="/all-course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+		<li><a href="/all-course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+		<li><a href="/all-course-descriptions/psop/">Pharmacy Systems, Outcomes, and Policy (PSOP)</a></li>
+		<li><a href="/all-course-descriptions/phil/">Philosophy (PHIL)</a></li>
+		<li><a href="/all-course-descriptions/pt/">Physical Therapy (PT)</a></li>
+		<li><a href="/all-course-descriptions/phys/">Physics (PHYS)</a></li>
+		<li><a href="/all-course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+		<li><a href="/all-course-descriptions/pol/">Polish (POL)</a></li>
+		<li><a href="/all-course-descriptions/pols/">Political Science (POLS)</a></li>
+		<li><a href="/all-course-descriptions/port/">Portuguese (PORT)</a></li>
+		<li><a href="/all-course-descriptions/prcl/">Preclinical Medicine (PRCL)</a></li>
+		<li><a href="/all-course-descriptions/ptl/">Privacy and Technology Law (PTL)</a></li>
+		<li><a href="/all-course-descriptions/pros/">Prosthodontics (PROS)</a></li>
+		<li><a href="/all-course-descriptions/psch/">Psychology (PSCH)</a></li>
+		<li><a href="/all-course-descriptions/pa/">Public Administration (PA)</a></li>
+		<li><a href="/all-course-descriptions/pubh/">Public Health (PUBH)</a></li>
+		<li><a href="/all-course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+		<li><a href="/all-course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+		<li><a href="/all-course-descriptions/re/">Real Estate (RE)</a></li>
+		<li><a href="/all-course-descriptions/rels/">Religious Studies (RELS)</a></li>
+		<li><a href="/all-course-descriptions/rest/">Restorative Dentistry (REST)</a></li>
+		<li><a href="/all-course-descriptions/russ/">Russian (RUSS)</a></li>
+		<li><a href="/all-course-descriptions/slav/">Slavic and Baltic Languages and Literatures (SLAV)</a></li>
+		<li><a href="/all-course-descriptions/sj/">Social Justice (SJ)</a></li>
+		<li><a href="/all-course-descriptions/socw/">Social Work (SOCW)</a></li>
+		<li><a href="/all-course-descriptions/soc/">Sociology (SOC)</a></li>
+		<li><a href="/all-course-descriptions/span/">Spanish (SPAN)</a></li>
+		<li><a href="/all-course-descriptions/sped/">Special Education (SPED)</a></li>
+		<li><a href="/all-course-descriptions/spec/">Specialty Medicine (SPEC)</a></li>
+		<li><a href="/all-course-descriptions/stat/">Statistics (STAT)</a></li>
+		<li><a href="/all-course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+		<li><a href="/all-course-descriptions/surg/">Surgery (SURG)</a></li>
+		<li><a href="/all-course-descriptions/tx/">Taxation (TX)</a></li>
+		<li><a href="/all-course-descriptions/thtr/">Theatre (THTR)</a></li>
+		<li><a href="/all-course-descriptions/tadr/">Trial Advocacy and Dispute Resolution (TADR)</a></li>
+		<li><a href="/all-course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+		<li><a href="/all-course-descriptions/us/">Urban Studies (US)</a></li>
+		<li><a href="/all-course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+		<li><a href="/all-course-descriptions/usl/">US Legal Studies (USL)</a></li>
+	</ul>
+	</li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/all-course-descriptions/">All&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Music (MUS)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Music (MUS)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="muscourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;100.  Introduction to Music I.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Listening, understanding, and enjoying music. Course Information: May not be taken for credit by music majors or minors.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;101.  Music Theory I.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Notation of rhythm and pitch; scales, intervals, triads, and seventh chords; principles of voice leading and harmonic progression. Course Information: Must enroll concurrently in <a href="/search/?P=MUS%20103" title="MUS&#160;103" class="bubblelink code" onclick="return showCourse(this, 'MUS 103');">MUS&#160;103</a> and <a href="/search/?P=MUS%20170" title="MUS&#160;170" class="bubblelink code" onclick="return showCourse(this, 'MUS 170');">MUS&#160;170</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;102.  Music Theory II.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Non-chord tones; cadences, phrases, and periods; introduction to Schenkerian analysis; inversions of triads and seventh chords. Course Information: Prerequisite(s): <a href="/search/?P=MUS%20101" title="MUS&#160;101" class="bubblelink code" onclick="return showCourse(this, 'MUS 101');">MUS&#160;101</a>. Must enroll concurrently in <a href="/search/?P=MUS%20104" title="MUS&#160;104" class="bubblelink code" onclick="return showCourse(this, 'MUS 104');">MUS&#160;104</a> and <a href="/search/?P=MUS%20171" title="MUS&#160;171" class="bubblelink code" onclick="return showCourse(this, 'MUS 171');">MUS&#160;171</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;103.  Ear Training I.  1 hour.</strong></p>
+<p class="courseblockdesc">
+The development of aural perception and sight-singing ability; material is correlated with <a href="/search/?P=MUS%20101" title="MUS&#160;101" class="bubblelink code" onclick="return showCourse(this, 'MUS 101');">MUS&#160;101</a>. Course Information:  Must enroll concurrently in <a href="/search/?P=MUS%20101" title="MUS&#160;101" class="bubblelink code" onclick="return showCourse(this, 'MUS 101');">MUS&#160;101</a>, and <a href="/search/?P=MUS%20170" title="MUS&#160;170" class="bubblelink code" onclick="return showCourse(this, 'MUS 170');">MUS&#160;170</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;104.  Ear Training II.  1 hour.</strong></p>
+<p class="courseblockdesc">
+The development of aural perception and sight-singing ability; material is correlated with <a href="/search/?P=MUS%20102" title="MUS&#160;102" class="bubblelink code" onclick="return showCourse(this, 'MUS 102');">MUS&#160;102</a>. Course Information: Prerequisite(s): <a href="/search/?P=MUS%20103" title="MUS&#160;103" class="bubblelink code" onclick="return showCourse(this, 'MUS 103');">MUS&#160;103</a> or the equivalent; and concurrent registration in <a href="/search/?P=MUS%20102" title="MUS&#160;102" class="bubblelink code" onclick="return showCourse(this, 'MUS 102');">MUS&#160;102</a> and <a href="/search/?P=MUS%20171" title="MUS&#160;171" class="bubblelink code" onclick="return showCourse(this, 'MUS 171');">MUS&#160;171</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;107.  Fundamentals of Music Theory.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Notation, metrical organization and rhythmic structure, scales and key signatures, intervals, triads, ear training, and sight singing. Course Information: For the general student. May not be taken for credit by music majors or minors. Creative Arts course.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;108.  Jazz Fundamentals I.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The study and execution of fundamental jazz terminology, skills, and applications of major-scale melody and harmony. Course Information: Requires concurrent registration in <a href="/search/?P=MUS%20101" title="MUS&#160;101" class="bubblelink code" onclick="return showCourse(this, 'MUS 101');">MUS&#160;101</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Discussion.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;109.  Jazz Fundamentals II.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The study and execution of jazz fundamental terminology, skills, and applications of minor-scale melody and harmony. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=MUS%20108" title="MUS&#160;108" class="bubblelink code" onclick="return showCourse(this, 'MUS 108');">MUS&#160;108</a>. Requires concurrent registration in <a href="/search/?P=MUS%20102" title="MUS&#160;102" class="bubblelink code" onclick="return showCourse(this, 'MUS 102');">MUS&#160;102</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;110.  Convocation/Recital.  0 hours.</strong></p>
+<p class="courseblockdesc">
+A weekly convocation presenting concerts by faculty, visiting artists, or students. Course Information: Satisfactory/Unsatisfactory grading only.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;111.  Master Class in Performance.  0 hours.</strong></p>
+<p class="courseblockdesc">
+Three to six master classes are offered per semester.  Students must attend at least half of those offered; students must perform in one class each year. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): Enrollment in the Music Performance option. Recommended background: Three years of private lessons.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;113.  Art Song.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines the core art song repertoire of German Romantic song and the French, Russian and American art song repertoires of the 19th and 20th centuries.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;114.  Jazz History.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A nontechnical survey of the history and development of jazz from its West African roots to contemporary styles.<i>  Creative Arts course, and  Past course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;115.  Opera.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Representative operas from Mozart through the early 20th century from the point of view of how music contributes to drama in opera.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;116.  The Science and History of Sound in the Arts.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Investigates physical properties of sound and their application in the arts. Students will explore sound through math, physics, and acoustics fundamental principles. Principles of sound will be tested/evaluated through research/applied projects. Course Information: Same as <a href="/search/?P=ART%20116" title="ART&#160;116" class="bubblelink code" onclick="return showCourse(this, 'ART 116');">ART&#160;116</a>. Extensive computer use required. Field work required.<i>  Natural World - No Lab course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;117.  Music for Symphony Orchestra.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines representative works for symphony orchestra from Haydn through the 20th century focusing on the most important genres; symphony, overture and tone poem.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;118.  American Popular Music since 1850.  3 hours.</strong></p>
+<p class="courseblockdesc">
+History of American popular music from 1850 to the twenty-first century. Analysis of musical characteristics, survey of traditions, and examination of social/cultural contexts of popular music developments.<i>  Creative Arts course, and  Past course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;119.  Music for the Piano.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A survey of piano music from the Classical period through the 20th century.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;120.  Jazz Improvisation I.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A study of the techniques and methods of jazz improvisation. Course Information: Non-music majors must pass theory / ear-training pre-test. Prerequisite(s): Grade of C or better in <a href="/search/?P=MUS%20101" title="MUS&#160;101" class="bubblelink code" onclick="return showCourse(this, 'MUS 101');">MUS&#160;101</a> and grade of C or better in <a href="/search/?P=MUS%20102" title="MUS&#160;102" class="bubblelink code" onclick="return showCourse(this, 'MUS 102');">MUS&#160;102</a>. Corequisite(s): Concurrent registration in <a href="/search/?P=MUS%20150" title="MUS&#160;150" class="bubblelink code" onclick="return showCourse(this, 'MUS 150');">MUS&#160;150</a>, <a href="/search/?P=MUS%20159" title="MUS&#160;159" class="bubblelink code" onclick="return showCourse(this, 'MUS 159');">MUS&#160;159</a> or <a href="/search/?P=MUS%20160" title="MUS&#160;160" class="bubblelink code" onclick="return showCourse(this, 'MUS 160');">MUS&#160;160</a>. Recommended background: Previous performance in jazz big band or jazz combo.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;127.  Latin American Music.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey class that introduces students to the rich repertoire of music in Latin America. It explores the history of genres, their development, instruments and representative artists in their geographical, social and cultural contexts.  Course Information:  Same as <a href="/search/?P=LALS%20127" title="LALS&#160;127" class="bubblelink code" onclick="return showCourse(this, 'LALS 127');">LALS&#160;127</a>.<i>  Creative Arts course, and  World Cultures course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;150.  Vocal Jazz Ensemble.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Study/performance of jazz ensemble techniques and the performance of standard vocal jazz repertoire. Course Information: May be repeated to a maximum of 8 hours. Prerequisite(s): Basic music reading skills and an audition required. Recommended background: Previous choir experience.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;151.  Concert Band.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Introduction to varied symphonic band and wind ensemble literature. Regular performances during the school year; occasional field trips. Course Information: May be repeated to a maximum of 8 hours. Occasional field trips. Prerequisite(s): Audition and/or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;152.  Instrumental Ensembles.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Performance of chamber ensemble literature of varied types. Course Information: May be repeated to a maximum of 8 hours. Students may register in more than one section per term. Occasional concerts on and off campus. Prerequisite(s): Audition and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;153.  University Choir.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Student performance of choral literature of all musical periods. Course Information: May be repeated to a maximum of 8 hours. Occasional concerts off-campus. Prerequisite(s): Audition required.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;154.  Chamber Choir.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Study/performance of choral literature for 16 to 24 voices. Course Information: May be repeated to a maximum of 8 hours. Occasional concerts off-campus. Prerequisite(s): Audition required.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;155.  Women's Choral Ensemble.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Study/performance of choral literature of all musical periods. Course Information: May be repeated to a maximum of 8 hours. Occasional concerts off-campus. Prerequisite(s): Basic music-reading skills and an audition required.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;156.  Pep Band.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Performs at home basketball games. Course Information: May be repeated to a maximum of 8 hours. Prerequisite(s): Consent of instructor. Must enroll concurrently in <a href="/search/?P=MUS%20151" title="MUS&#160;151" class="bubblelink code" onclick="return showCourse(this, 'MUS 151');">MUS&#160;151</a>. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;157.  University Orchestras.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Designed for the study and performance of traditional and contemporary literature for symphony orchestra. Course Information: May be repeated to a maximum of 8 hours. Students may register in more than one section per term. Participation in rehearsals and field trip performances required. Due to the nature of music ensembles, required performances will occur at times other than class times, and additional required rehearsals may be announced. Prerequisite(s): Audition and/or consent of the instructor. Recommended background: Three years of private lessons and/or high school orchestra experience.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;159.  Jazz Ensemble.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Practical experience in the preparation and public performance of big band and small ensemble jazz. Course Information: May be repeated to a maximum of 8 hours. Field trips may be required. Prerequisite(s): Audition or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;160.  Small Jazz Ensemble.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Various instrumental ensembles focusing on performance techniques within the historical development of the American jazz ensemble.  Performances at various events across the UIC campus and the greater Chicago community. Course Information: May be repeated to a maximum of 8 hours. Prerequisite(s): Audition or consent of the instructor. Recommended backgroud: Minimum three years private instruction on student's preferred instrument.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;170.  Keyboard Skills I.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Development of basic keyboard skills including sight reading, transposition, improvisation, and ensemble playing. Course Information: Prerequisite(s): Concurrent registration in <a href="/search/?P=MUS%20101" title="MUS&#160;101" class="bubblelink code" onclick="return showCourse(this, 'MUS 101');">MUS&#160;101</a> and 103, or approval of the department. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Laboratory.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;171.  Keyboard Skills II.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Continues <a href="/search/?P=MUS%20170" title="MUS&#160;170" class="bubblelink code" onclick="return showCourse(this, 'MUS 170');">MUS&#160;170</a>. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=MUS%20170" title="MUS&#160;170" class="bubblelink code" onclick="return showCourse(this, 'MUS 170');">MUS&#160;170</a>; Concurrent registration in <a href="/search/?P=MUS%20102" title="MUS&#160;102" class="bubblelink code" onclick="return showCourse(this, 'MUS 102');">MUS&#160;102</a> and <a href="/search/?P=MUS%20104" title="MUS&#160;104" class="bubblelink code" onclick="return showCourse(this, 'MUS 104');">MUS&#160;104</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;180.  Private Instrumental Lessons.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Applied music instruction in strings, woodwinds, brass, percussion, piano, guitar or organ. Prerequisite(s): Audition prior to initial registration and approval of the department. Class Schedule Information: To be properly registered, students must enroll in one Conference and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;181.  Private Instrumental Lessons-30 Minutes.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Applied music instruction on musical instruments. Lessons last 30 minutes. Course Information: May be repeated to a maximum of 8 hours. Prerequisite(s): Approval of the Department and admission to the music major and successful completion of an audition. Recommended Background: Previous music and instrumental study. Class Schedule Information: To be properly registered, students must enroll in one Practice and Conference.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;182.  Private Voice Lessons.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Applied music instruction in voice. Course Information: May be repeated to a maximum of 16 hours. Prerequisite(s): Approval of the department and admission to the music major and successful completion of an audition. Recommended background: Previous music and vocal study. Class Schedule Information:  To be properly registered, students must enroll in one Conference and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;183.  Private Vocal Lessons-30 Minutes.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Applied music instruction in voice. Lessons last 30 minutes. Course Information: May be repeated to a maximum of 8 hours. Prerequisite(s): Approval of the Department and admission to the music major and successful completion of an audition. Recommended Background: Previous music and voice study. Class Schedule Information: To be properly registered, students must enroll in one Practice and Conference.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;190.  Class Voice.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Group instruction in singing. Course Information: May be repeated to a maximum of 8 hours. Prerequisite(s): Consent of the instructor and concurrent registration in <a href="/search/?P=MUS%20153" title="MUS&#160;153" class="bubblelink code" onclick="return showCourse(this, 'MUS 153');">MUS&#160;153</a> or <a href="/search/?P=MUS%20155" title="MUS&#160;155" class="bubblelink code" onclick="return showCourse(this, 'MUS 155');">MUS&#160;155</a>. May not be taken concurrently with <a href="/search/?P=MUS%20180" title="MUS&#160;180" class="bubblelink code" onclick="return showCourse(this, 'MUS 180');">MUS&#160;180</a>. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;201.  Theory of Music III.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Continues <a href="/search/?P=MUS%20102" title="MUS&#160;102" class="bubblelink code" onclick="return showCourse(this, 'MUS 102');">MUS&#160;102</a>. Chromatic harmony of the eighteenth and nineteenth centuries. Study of two- and three-part forms. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=MUS%20102" title="MUS&#160;102" class="bubblelink code" onclick="return showCourse(this, 'MUS 102');">MUS&#160;102</a> and grade of C or better in <a href="/search/?P=MUS%20104" title="MUS&#160;104" class="bubblelink code" onclick="return showCourse(this, 'MUS 104');">MUS&#160;104</a> or the equivalents.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;202.  Theory of Music IV.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Continues <a href="/search/?P=MUS%20201" title="MUS&#160;201" class="bubblelink code" onclick="return showCourse(this, 'MUS 201');">MUS&#160;201</a>. Harmony in the late nineteenth century; introduction to twentieth-century practices. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=MUS%20201" title="MUS&#160;201" class="bubblelink code" onclick="return showCourse(this, 'MUS 201');">MUS&#160;201</a> and Grade of C or better in <a href="/search/?P=MUS%20203" title="MUS&#160;203" class="bubblelink code" onclick="return showCourse(this, 'MUS 203');">MUS&#160;203</a>, or the equivalents.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;203.  Ear Training III.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Aural perception and sight singing. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=MUS%20104" title="MUS&#160;104" class="bubblelink code" onclick="return showCourse(this, 'MUS 104');">MUS&#160;104</a> or the equivalent; and concurrent registration in <a href="/search/?P=MUS%20201" title="MUS&#160;201" class="bubblelink code" onclick="return showCourse(this, 'MUS 201');">MUS&#160;201</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;204.  Ear Training IV.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Advanced aural perception and sight singing. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=MUS%20203" title="MUS&#160;203" class="bubblelink code" onclick="return showCourse(this, 'MUS 203');">MUS&#160;203</a>. Must enroll concurrently in <a href="/search/?P=MUS%20202" title="MUS&#160;202" class="bubblelink code" onclick="return showCourse(this, 'MUS 202');">MUS&#160;202</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;220.  Jazz Aesthetics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A technical survey of the factors and topics that permeate and surround the development and production of jazz. Course Information: Prerequisite(s): Sophomore standing or above and <a href="/search/?P=MUS%20114" title="MUS&#160;114" class="bubblelink code" onclick="return showCourse(this, 'MUS 114');">MUS&#160;114</a>; and grade of C or better in <a href="/search/?P=MUS%20102" title="MUS&#160;102" class="bubblelink code" onclick="return showCourse(this, 'MUS 102');">MUS&#160;102</a> and grade of C or better in <a href="/search/?P=MUS%20104" title="MUS&#160;104" class="bubblelink code" onclick="return showCourse(this, 'MUS 104');">MUS&#160;104</a>. Requires concurrent registration in <a href="/search/?P=MUS%20150" title="MUS&#160;150" class="bubblelink code" onclick="return showCourse(this, 'MUS 150');">MUS&#160;150</a>, or <a href="/search/?P=MUS%20159" title="MUS&#160;159" class="bubblelink code" onclick="return showCourse(this, 'MUS 159');">MUS&#160;159</a> or <a href="/search/?P=MUS%20160" title="MUS&#160;160" class="bubblelink code" onclick="return showCourse(this, 'MUS 160');">MUS&#160;160</a>. Recommended background: Jazz ensemble performance.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;221.  Jazz Improvisation II.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Continues the study of the technique and methods of jazz improvisation. Course Information: Prerequisite(s): Grade of C of better in <a href="/search/?P=MUS%20102" title="MUS&#160;102" class="bubblelink code" onclick="return showCourse(this, 'MUS 102');">MUS&#160;102</a> and grade of C or better in <a href="/search/?P=MUS%20104" title="MUS&#160;104" class="bubblelink code" onclick="return showCourse(this, 'MUS 104');">MUS&#160;104</a> and grade of C or better in <a href="/search/?P=MUS%20120" title="MUS&#160;120" class="bubblelink code" onclick="return showCourse(this, 'MUS 120');">MUS&#160;120</a> and grade of C or better in <a href="/search/?P=MUS%20171" title="MUS&#160;171" class="bubblelink code" onclick="return showCourse(this, 'MUS 171');">MUS&#160;171</a>; and sophomore standing or above; or approval of the department.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;223.  Music Technology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the techniques and applications of music technologies. Students trained in music software, applications to education, composition, and performance. MIDI, analog and digital audio, acoustics, notation, multimedia, and sequencing. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=MUS%20107" title="MUS&#160;107" class="bubblelink code" onclick="return showCourse(this, 'MUS 107');">MUS&#160;107</a>; or appropriate score on the department placement test; or consent of the instructor. Due to number of workstations, enrollment will be capped at 14.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;227.  Music Cultures of the World.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of music throughout the world from an ethnomusicological perspective. Emphasis on classical, tribal, and folk musics; music as a cultural phenomenon.<i>  Creative Arts course, and  World Cultures course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;230.  Music History I.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Principal styles and composers from the Middle Ages through the Renaissance. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=MUS%20102" title="MUS&#160;102" class="bubblelink code" onclick="return showCourse(this, 'MUS 102');">MUS&#160;102</a> and Grade of C or better in <a href="/search/?P=MUS%20104" title="MUS&#160;104" class="bubblelink code" onclick="return showCourse(this, 'MUS 104');">MUS&#160;104</a> or the equivalents. Music Majors may have only one Grade of D among <a href="/search/?P=MUS%20230" title="MUS&#160;230" class="bubblelink code" onclick="return showCourse(this, 'MUS 230');">MUS&#160;230</a>, <a href="/search/?P=MUS%20231" title="MUS&#160;231" class="bubblelink code" onclick="return showCourse(this, 'MUS 231');">MUS&#160;231</a>, and <a href="/search/?P=MUS%20232" title="MUS&#160;232" class="bubblelink code" onclick="return showCourse(this, 'MUS 232');">MUS&#160;232</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;231.  Music History II.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Principal styles and composers from the baroque period through the classical period. Course Information: Prerequisite(s): <a href="/search/?P=MUS%20230" title="MUS&#160;230" class="bubblelink code" onclick="return showCourse(this, 'MUS 230');">MUS&#160;230</a>; and a Grade of C or better in <a href="/search/?P=MUS%20202" title="MUS&#160;202" class="bubblelink code" onclick="return showCourse(this, 'MUS 202');">MUS&#160;202</a> and <a href="/search/?P=MUS%20204" title="MUS&#160;204" class="bubblelink code" onclick="return showCourse(this, 'MUS 204');">MUS&#160;204</a>, or the equivalents. Music Majors may have only one Grade of D among <a href="/search/?P=MUS%20230" title="MUS&#160;230" class="bubblelink code" onclick="return showCourse(this, 'MUS 230');">MUS&#160;230</a>, <a href="/search/?P=MUS%20231" title="MUS&#160;231" class="bubblelink code" onclick="return showCourse(this, 'MUS 231');">MUS&#160;231</a>, and <a href="/search/?P=MUS%20232" title="MUS&#160;232" class="bubblelink code" onclick="return showCourse(this, 'MUS 232');">MUS&#160;232</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;232.  Music History III.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Principal styles and composers from the nineteenth through the twenty-first centuries. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=MUS%20202" title="MUS&#160;202" class="bubblelink code" onclick="return showCourse(this, 'MUS 202');">MUS&#160;202</a> and grade of C or better in <a href="/search/?P=MUS%20204" title="MUS&#160;204" class="bubblelink code" onclick="return showCourse(this, 'MUS 204');">MUS&#160;204</a>; and <a href="/search/?P=MUS%20231" title="MUS&#160;231" class="bubblelink code" onclick="return showCourse(this, 'MUS 231');">MUS&#160;231</a>. Music Majors may have only one Grade of D among <a href="/search/?P=MUS%20230" title="MUS&#160;230" class="bubblelink code" onclick="return showCourse(this, 'MUS 230');">MUS&#160;230</a>, <a href="/search/?P=MUS%20231" title="MUS&#160;231" class="bubblelink code" onclick="return showCourse(this, 'MUS 231');">MUS&#160;231</a>, and <a href="/search/?P=MUS%20232" title="MUS&#160;232" class="bubblelink code" onclick="return showCourse(this, 'MUS 232');">MUS&#160;232</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;240.  Music, Gender and Culture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of the intersection of music, gender and sexuality in different historical periods and cultures. Study of music's role in the formation and expression of gender identity in classical and popular music. Course Information: Same as <a href="/search/?P=GWS%20240" title="GWS&#160;240" class="bubblelink code" onclick="return showCourse(this, 'GWS 240');">GWS&#160;240</a>.<i>  Creative Arts course, and  Individual and Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;270.  Keyboard Skills III.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Continues <a href="/search/?P=MUS%20171" title="MUS&#160;171" class="bubblelink code" onclick="return showCourse(this, 'MUS 171');">MUS&#160;171</a>. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=MUS%20171" title="MUS&#160;171" class="bubblelink code" onclick="return showCourse(this, 'MUS 171');">MUS&#160;171</a> and concurrent registration in <a href="/search/?P=MUS%20201" title="MUS&#160;201" class="bubblelink code" onclick="return showCourse(this, 'MUS 201');">MUS&#160;201</a> and <a href="/search/?P=MUS%20203" title="MUS&#160;203" class="bubblelink code" onclick="return showCourse(this, 'MUS 203');">MUS&#160;203</a> or approval of the department. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Laboratory.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;271.  Keyboard Skills IV.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced keyboard skills, including keyboard harmony, improvisation, accompanying, and score reading. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=MUS%20270" title="MUS&#160;270" class="bubblelink code" onclick="return showCourse(this, 'MUS 270');">MUS&#160;270</a> and concurrent registration in <a href="/search/?P=MUS%20202" title="MUS&#160;202" class="bubblelink code" onclick="return showCourse(this, 'MUS 202');">MUS&#160;202</a> and <a href="/search/?P=MUS%20204" title="MUS&#160;204" class="bubblelink code" onclick="return showCourse(this, 'MUS 204');">MUS&#160;204</a> or approval of the department. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Laboratory.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;280.  Advanced Private Instrumental Lessons.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Private instruction at an advanced level in strings, woodwinds, brass, percussion, or piano, culminating in a jury exam. Course Information: May be repeated to a maximum of 12 hours. Prerequisite(s): Four semesters of <a href="/search/?P=MUS%20180" title="MUS&#160;180" class="bubblelink code" onclick="return showCourse(this, 'MUS 180');">MUS&#160;180</a> and approval of the department. Students must receive a grade of B or better in order to repeat this course. Class Schedule Information: To be properly registered, students must enroll in one Conference and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;282.  Advanced Private Voice Lessons.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced applied music instruction in voice. Course Information: May be repeated to a maximum of 12 hours. Prerequisite(s): Approval of the department and admission to the music major and successful completion of four terms of <a href="/search/?P=MUS%20182" title="MUS&#160;182" class="bubblelink code" onclick="return showCourse(this, 'MUS 182');">MUS&#160;182</a>. Students must receive a grade of B or better in order to repeat this course. Recommended background: Performance experience beyond regular UIC studies. Class Schedule Information:  To be properly registered, students must enroll in one Conference and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;290.  Commercial and Legal Foundations of the Music Industry.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Historical survey of the music industry since 1900. Examination of business sectors associated with music products and services. Survey of intellectual property law and contractual agreements associated with arts organization. Course Information: Field work required. Prerequisite(s): Grade of C or better in <a href="/search/?P=MUS%20101" title="MUS&#160;101" class="bubblelink code" onclick="return showCourse(this, 'MUS 101');">MUS&#160;101</a> and Grade of C or better in <a href="/search/?P=MUS%20103" title="MUS&#160;103" class="bubblelink code" onclick="return showCourse(this, 'MUS 103');">MUS&#160;103</a> and Grade of C or better in <a href="/search/?P=MUS%20170" title="MUS&#160;170" class="bubblelink code" onclick="return showCourse(this, 'MUS 170');">MUS&#160;170</a>. Recommended background: Fluency in reading and performing music and <a href="/search/?P=ECON%20120" title="ECON&#160;120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON&#160;120</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;298.  Selected Topics in Music.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Study in specialized areas of music history, music theory, jazz, and ethnomusicology. Course Information: May be repeated to a maximum of 12 hours. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;299.  Independent Study.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Projects and topics for individual investigation. Course number may be used for student-initiated courses. Course Information: May be repeated to a maximum of 16 hours. Students may register in more than one section per term. Prerequisite(s): <a href="/search/?P=MUS%20202" title="MUS&#160;202" class="bubblelink code" onclick="return showCourse(this, 'MUS 202');">MUS&#160;202</a> and <a href="/search/?P=MUS%20204" title="MUS&#160;204" class="bubblelink code" onclick="return showCourse(this, 'MUS 204');">MUS&#160;204</a> and approval of the department.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;300.  Counterpoint.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Written exercises and study of contrapuntal techniques in a variety of styles. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=MUS%20202" title="MUS&#160;202" class="bubblelink code" onclick="return showCourse(this, 'MUS 202');">MUS&#160;202</a> and grade of C or better <a href="/search/?P=MUS%20204" title="MUS&#160;204" class="bubblelink code" onclick="return showCourse(this, 'MUS 204');">MUS&#160;204</a>; or approval of the department. Music major may have only one grade of D in 300-level coursework.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;301.  Analytic Techniques.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of representative works in a variety of genres from the seventeenth through the twentieth centuries. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=MUS%20202" title="MUS&#160;202" class="bubblelink code" onclick="return showCourse(this, 'MUS 202');">MUS&#160;202</a>. Music majors may have only one grade of D in 300-level coursework.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;302.  Composition I.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Class and individual instruction in the basic techniques of twentieth-century composition. Practice in the use of twentieth-century musical materials. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=MUS%20202" title="MUS&#160;202" class="bubblelink code" onclick="return showCourse(this, 'MUS 202');">MUS&#160;202</a> and grade of C or better in <a href="/search/?P=MUS%20204" title="MUS&#160;204" class="bubblelink code" onclick="return showCourse(this, 'MUS 204');">MUS&#160;204</a> or approval of the department. Music majors may have only one grade of D in 300-level coursework.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;303.  Composition II.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Continues instruction in the techniques and materials of twentieth-century composition. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=MUS%20302" title="MUS&#160;302" class="bubblelink code" onclick="return showCourse(this, 'MUS 302');">MUS&#160;302</a>. Music majors may have only one grade of D in 300-level coursework.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;304.  Conducting.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Basic techniques; body position; beat patterns; use of baton; division of beats; starting and stopping; the left hand; dynamics; fermatas; ensemble application; score preparation; memorization. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=MUS%20202" title="MUS&#160;202" class="bubblelink code" onclick="return showCourse(this, 'MUS 202');">MUS&#160;202</a> and grade of C or better in <a href="/search/?P=MUS%20204" title="MUS&#160;204" class="bubblelink code" onclick="return showCourse(this, 'MUS 204');">MUS&#160;204</a> or approval of the department. Music majors may have only one grade of D in 300-level coursework.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;306.  Orchestration and Arranging I.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The acoustical properties, musical characteristics, and scoring problems of string, woodwind, and brass and percussion instruments. Scoring for string, woodwind, and brass ensembles. Course Information: Prerequisite(s): Grade of C or better <a href="/search/?P=MUS%20202" title="MUS&#160;202" class="bubblelink code" onclick="return showCourse(this, 'MUS 202');">MUS&#160;202</a> and grade of C or better in <a href="/search/?P=MUS%20204" title="MUS&#160;204" class="bubblelink code" onclick="return showCourse(this, 'MUS 204');">MUS&#160;204</a> or approval of the department. Music majors may have only one grade of D in 300-level coursework.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;307.  Orchestration and Arranging II.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The acoustical properties, musical characteristics, and scoring problems of percussion, keyboard, and electronic instruments. Scoring for mixed ensembles, band, orchestra. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=MUS%20306" title="MUS&#160;306" class="bubblelink code" onclick="return showCourse(this, 'MUS 306');">MUS&#160;306</a>. Music majors may have only one grade of D in 300-level coursework.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;310.  Jazz Theory and Keyboard I.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introductory course designed to acquaint students with rhythmic, melodic, harmonic, and structural aspects of jazz. Course Information: Prerequisite(s): Grade of C of better in <a href="/search/?P=MUS%20202" title="MUS&#160;202" class="bubblelink code" onclick="return showCourse(this, 'MUS 202');">MUS&#160;202</a>, and Grade of C or better in <a href="/search/?P=MUS%20204" title="MUS&#160;204" class="bubblelink code" onclick="return showCourse(this, 'MUS 204');">MUS&#160;204</a>, and Grade of B or better in <a href="/search/?P=MUS%20271" title="MUS&#160;271" class="bubblelink code" onclick="return showCourse(this, 'MUS 271');">MUS&#160;271</a>; and junior standing or above; or approval of the department. Majors may have only one D in 300-level courses.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;311.  Jazz Theory and Keyboard II.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced course to continue exploration of rhythmic, melodic, harmonic, and structural aspects of jazz. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=MUS%20310" title="MUS&#160;310" class="bubblelink code" onclick="return showCourse(this, 'MUS 310');">MUS&#160;310</a>. Majors may have only one D in 300-level courses.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;312.  Jazz Arranging I.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Concentration on developing compositional and orchestration/arranging skills in various jazz and commercial styles. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=MUS%20120" title="MUS&#160;120" class="bubblelink code" onclick="return showCourse(this, 'MUS 120');">MUS&#160;120</a> and Grade of C or better in <a href="/search/?P=MUS%20221" title="MUS&#160;221" class="bubblelink code" onclick="return showCourse(this, 'MUS 221');">MUS&#160;221</a>; and junior standing or above; or approval of the department. Majors may have only one D in 300-level courses.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;313.  Jazz Arranging II.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced course for developing compositional and orchestration/arranging skills in various jazz and commercial styles. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=MUS%20312" title="MUS&#160;312" class="bubblelink code" onclick="return showCourse(this, 'MUS 312');">MUS&#160;312</a>; or approval of the department. Majors may have only one D in 300-level courses.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;314.  Advanced Topics in Jazz History and Analysis.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Transcription/analysis is widely acknowledged to be an essential study to develop a jazz studentâ€™s expressive voice. Students study great jazz recordings in historical context. Compositions/improvised solos are transcribed, analyzed, and performed. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=MUS%20221" title="MUS&#160;221" class="bubblelink code" onclick="return showCourse(this, 'MUS 221');">MUS&#160;221</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;320.  Music Proseminar.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics for intensive study in specialized areas of music history or music theory. Course Information: May be repeated to a maximum of 6 hours. Prerequisite(s): Senior standing with major in music and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;323.  Digital Music Engraving.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A hands-on music notation and engraving course designed to give the student professional-level fluency in music notation software. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Discussion.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;330.  Advanced Topics in Music History and Ethnomusicology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced study of topics relating to music history, music literature, and music theory and ethnomusicology. Subject chosen by instructor. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=MUS%20230" title="MUS&#160;230" class="bubblelink code" onclick="return showCourse(this, 'MUS 230');">MUS&#160;230</a> and Grade of C or better in <a href="/search/?P=MUS%20101" title="MUS&#160;101" class="bubblelink code" onclick="return showCourse(this, 'MUS 101');">MUS&#160;101</a> and Grade of C or better in <a href="/search/?P=MUS%20102" title="MUS&#160;102" class="bubblelink code" onclick="return showCourse(this, 'MUS 102');">MUS&#160;102</a>; and consent of the instructor. Recommended background: Grade of C or better in <a href="/search/?P=MUS%20230" title="MUS&#160;230" class="bubblelink code" onclick="return showCourse(this, 'MUS 230');">MUS&#160;230</a> or Grade of C or better in <a href="/search/?P=MUS%20231" title="MUS&#160;231" class="bubblelink code" onclick="return showCourse(this, 'MUS 231');">MUS&#160;231</a> or Grade of C or better in <a href="/search/?P=MUS%20232" title="MUS&#160;232" class="bubblelink code" onclick="return showCourse(this, 'MUS 232');">MUS&#160;232</a>; and Grade of C or better in <a href="/search/?P=MUS%20113" title="MUS&#160;113" class="bubblelink code" onclick="return showCourse(this, 'MUS 113');">MUS&#160;113</a> or Grade of C or better in <a href="/search/?P=MUS%20114" title="MUS&#160;114" class="bubblelink code" onclick="return showCourse(this, 'MUS 114');">MUS&#160;114</a> or Grade of C or better in <a href="/search/?P=MUS%20115" title="MUS&#160;115" class="bubblelink code" onclick="return showCourse(this, 'MUS 115');">MUS&#160;115</a> or Grade of C or better in <a href="/search/?P=MUS%20116" title="MUS&#160;116" class="bubblelink code" onclick="return showCourse(this, 'MUS 116');">MUS&#160;116</a> or Grade of C or better in <a href="/search/?P=MUS%20117" title="MUS&#160;117" class="bubblelink code" onclick="return showCourse(this, 'MUS 117');">MUS&#160;117</a> or Grade of C or better in <a href="/search/?P=MUS%20118" title="MUS&#160;118" class="bubblelink code" onclick="return showCourse(this, 'MUS 118');">MUS&#160;118</a> A grade of C or above in any Music Literature course (<a href="/search/?P=MUS%20113" title="MUS&#160;113" class="bubblelink code" onclick="return showCourse(this, 'MUS 113');">MUS&#160;113</a>, <a href="/search/?P=MUS%20114" title="MUS&#160;114" class="bubblelink code" onclick="return showCourse(this, 'MUS 114');">114</a>, <a href="/search/?P=MUS%20115" title="MUS&#160;115" class="bubblelink code" onclick="return showCourse(this, 'MUS 115');">115</a>, <a href="/search/?P=MUS%20117" title="MUS&#160;117" class="bubblelink code" onclick="return showCourse(this, 'MUS 117');">117</a>, <a href="/search/?P=MUS%20118" title="MUS&#160;118" class="bubblelink code" onclick="return showCourse(this, 'MUS 118');">118</a>, <a href="/search/?P=MUS%20127" title="MUS&#160;127" class="bubblelink code" onclick="return showCourse(this, 'MUS 127');">127</a>, <a href="/search/?P=MUS%20119" title="MUS&#160;119" class="bubblelink code" onclick="return showCourse(this, 'MUS 119');">119</a>, <a href="/search/?P=MUS%20240" title="MUS&#160;240" class="bubblelink code" onclick="return showCourse(this, 'MUS 240');">240</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;390.  Record Company Marketing and Operations.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Study of marketing and operations practices employed by record companies. Understanding of analytic techniques used to inform marketing decisions. Analysis of music industry marketing research methodology. Survey of promotion practices. Course Information: Extensive computer use required. Field work required. Grade of C or better in <a href="/search/?P=MUS%20290" title="MUS&#160;290" class="bubblelink code" onclick="return showCourse(this, 'MUS 290');">MUS&#160;290</a> and Grade of C or better in <a href="/search/?P=MUS%20202" title="MUS&#160;202" class="bubblelink code" onclick="return showCourse(this, 'MUS 202');">MUS&#160;202</a> and Grade of C or better in <a href="/search/?P=MUS%20201" title="MUS&#160;201" class="bubblelink code" onclick="return showCourse(this, 'MUS 201');">MUS&#160;201</a> and Grade of C or better in <a href="/search/?P=MUS%20270" title="MUS&#160;270" class="bubblelink code" onclick="return showCourse(this, 'MUS 270');">MUS&#160;270</a> and Grade of C or better in <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a> and Grade of C or better in <a href="/search/?P=ACTG%20210" title="ACTG&#160;210" class="bubblelink code" onclick="return showCourse(this, 'ACTG 210');">ACTG&#160;210</a>. Recommended background: Fluency in reading and performing music.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;391.  Study Abroad in Music.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Study abroad within an approved foreign exchange program or department-sponsored program. Course Information: May be repeated with approval. Approval to repeat course granted by the department. Prerequisite(s): Approval of the department.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;395.  Internship in Music Business.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Cooperative education that provides students with opportunities, mentors and practical work experience in music businesses. Course Information: May be repeated for a maximum of 12 hours of credit. Students may register for more than one section per term. Field work required. Prerequisite(s): Grade of C or better in <a href="/search/?P=MUS%20390" title="MUS&#160;390" class="bubblelink code" onclick="return showCourse(this, 'MUS 390');">MUS&#160;390</a> and consent of the program coordinator.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;396.  Music Publishing.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of the music publishing industry. Issues of rights and ownership in music, songwriting collaboration agreements and music licensing are analyzed. The role of the Music Supervisor is discussed. Issues of negotiation and compliance are covered. Course Information: Field work required. Prerequisite(s): <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a> and <a href="/search/?P=ACTG%20210" title="ACTG&#160;210" class="bubblelink code" onclick="return showCourse(this, 'ACTG 210');">ACTG&#160;210</a> and <a href="/search/?P=MUS%20290" title="MUS&#160;290" class="bubblelink code" onclick="return showCourse(this, 'MUS 290');">MUS&#160;290</a> and <a href="/search/?P=MUS%20202" title="MUS&#160;202" class="bubblelink code" onclick="return showCourse(this, 'MUS 202');">MUS&#160;202</a> and <a href="/search/?P=MUS%20201" title="MUS&#160;201" class="bubblelink code" onclick="return showCourse(this, 'MUS 201');">MUS&#160;201</a> and <a href="/search/?P=MUS%20270" title="MUS&#160;270" class="bubblelink code" onclick="return showCourse(this, 'MUS 270');">MUS&#160;270</a>.  Recommended Background: Fluency in reading and performing music.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;397.  Concert Promotion and Venue Management.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of the concert and event promotion industry. Analysis of legal aspects of concert promotion. Survey of the process of selling and staging musical performances. Survey of practices and procedures of public assembly and venue management. Course Information: Field work required. Prerequisite(s): <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a> and <a href="/search/?P=ACTG%20210" title="ACTG&#160;210" class="bubblelink code" onclick="return showCourse(this, 'ACTG 210');">ACTG&#160;210</a> and <a href="/search/?P=MUS%20290" title="MUS&#160;290" class="bubblelink code" onclick="return showCourse(this, 'MUS 290');">MUS&#160;290</a> and <a href="/search/?P=MUS%20390" title="MUS&#160;390" class="bubblelink code" onclick="return showCourse(this, 'MUS 390');">MUS&#160;390</a> and <a href="/search/?P=MUS%20201" title="MUS&#160;201" class="bubblelink code" onclick="return showCourse(this, 'MUS 201');">MUS&#160;201</a> and <a href="/search/?P=MUS%20202" title="MUS&#160;202" class="bubblelink code" onclick="return showCourse(this, 'MUS 202');">MUS&#160;202</a>; and <a href="/search/?P=MUS%20270" title="MUS&#160;270" class="bubblelink code" onclick="return showCourse(this, 'MUS 270');">MUS&#160;270</a>. Recommended Background: Fluency in reading and performing music.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;490.  Music Education:  Special Topics.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+An investigation of various topics in music education pertinent to practicing music teachers.  Course Information:  May be repeated.  Prerequisite(s):  Senior standing or above.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MUS&#160;498.  Advanced Music Ensembles.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Participation in a UIC music ensemble. Performance of music literature of varied types, corresponding to the ensemble: band, choir, chamber music, jazz bands, mariachi, and orchestra. Occasional concerts on and off campus. Course Information: May be repeated for credit. Students may register for more than one section per term. Due to the nature of music ensembles, required performances will occur at times other than class times, and additional required rehearsals may be announced. Open to all students who have been accepted by audition, with assignments made according to proficiency and instrumentation. Placement auditions are required for all students and held at the beginning of each semester.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="mus.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

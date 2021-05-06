@@ -1,0 +1,410 @@
+https://catalog.uic.edu/ucat/colleges-depts/urban-planning-public-affairs/pa/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Department of Public Administration &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/urban-planning-public-affairs/">
+				<li class="active isparent self"><a href="#" onclick="return false;">Public Administration</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/urban-planning-public-affairs/pa/">
+					<li><a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/ba/">BA in Public Policy</a></li>
+					<li><a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/joint-degrees/">Joint Degrees</a></li>
+					<li><a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/minor-civic-analytics/">Minor in Civic Analytics</a></li>
+					<li><a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/minor-nonprofit-management/">Minor in Nonprofit Management</a></li>
+					<li><a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/minor-pp/">Minor in Public Policy</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/upp/">Urban Planning and Policy</a></li>
+			</ul>
+			</li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College&nbsp;of&nbsp;Urban&nbsp;Planning&nbsp;and&nbsp;Public&nbsp;Affairs</a><span class="crumbsep">/</span></li><li><span class="active">Public Administration</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Department of Public Administration</h1>
+
+
+<script type="text/javascript">
+//<![CDATA[
+	var defshow = "text";
+	var bodycontainer = "#body";
+	var validhashes = ",text,undergraduateprogramstext,coursestext,";
+
+if(window.location.hash.length) {
+	var hash = cleanHash(window.location.hash);
+	if(validhashes.indexOf("," + hash + ",") != -1)
+		defshow = hash;	
+}
+var ss = document.styleSheets;
+var workss = null;
+for(var i=0; i < ss.length; i++) {
+	var currmedia = "";
+	if (typeof ss[i].media == "string") 
+		currmedia = ss[i].media
+	else if (typeof ss[i].media == "object" && ss[i].media.mediaText) 
+		currmedia = ss[i].media.mediaText;
+	
+	if((currmedia == "screen" || currmedia == "all") && (ss[i].href.indexOf("/") == 0 || ss[i].href.indexOf(document.location.host) >= 0)) {
+		workss = ss[i];
+		break;	
+	}
+}
+if(workss && workss.insertRule) {
+	workss.insertRule(".tab_content { display: none; }", workss.cssRules.length)
+	workss.insertRule(".sectionheader { display: none; }", workss.cssRules.length)
+	workss.insertRule("#" + defshow + "container { display: block; }", workss.cssRules.length)
+} else if(workss && workss.addRule) {
+	workss.addRule(".tab_content", "display: none");
+	workss.addRule(".sectionheader", "display: none");
+	workss.addRule("#" + defshow + "container", "display: block");
+}
+else {
+	if (window.console)
+		window.console.log('screen.css <link> needs attribute media="screen"');
+}
+//]]>
+</script>
+	<div id="tabs">
+		<ul class="clearfix" role="tablist">
+			<li id="texttab" role="presentation">
+<a href="#textcontainer" role="tab" aria-controls="textcontainer" onclick="return showSection('text');">Overview</a></li>
+			<li id="undergraduateprogramstexttab" role="presentation">
+<a href="#undergraduateprogramstextcontainer" role="tab" aria-controls="undergraduateprogramstextcontainer" onclick="return showSection('undergraduateprogramstext');" >Programs and Requirements</a></li>
+			<li id="coursestexttab" role="presentation">
+<a href="#coursestextcontainer" role="tab" aria-controls="coursestextcontainer" onclick="return showSection('coursestext');" >Courses</a></li>
+		</ul>
+	</div>
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p class="campus_location"><span class="label"><strong>Contact Information: </strong></span><br/>
+<span class="campus_location">Campus Location: 2100 AEH, 400 S. Peoria St, Chicago, IL 60607 <br/>
+<span class="phone">(312) 996-3109</span> <br/>
+<span class="website"><a href="http://cuppa-pa.uic.edu/" target="_blank">cuppa-pa.uic.edu</a></span></span></p>
+<p class="administration"><span class="label"><strong>Administration: </strong></span><br/>
+Director of Undergraduate Studies and Clinical Assistant Professor of Public Administration, Kathleen Yang-Clayton, <a href="mailto:kyclaytn@uic.edu">kyclaytn@uic.edu</a><br/>
+Academic Advisor and Program Manager, Sharon Hayes, <a href="mailto:shar@uic.edu">shar@uic.edu</a></p>
+<h2>Bachelor of Arts in Public Policy</h2>
+<p>Public Policy is a field that promotes the understanding of public problems and how governments and the public attempt to address them. Public Policy provides excellent preparation for careers in government at all levels (federal, state, local), as well as the nonprofit sector, law, and consulting. Given the impact public policy has on medicine, engineering, technology, and other key sectors of the global economy, a minor in Public Policy provides critical knowledge for students pursuing careers in these fields.</p>
+<p>This program focuses on the systematic analysis of public policy issues and decision processes, and includes instruction in the role of economic and political factors in public decision-making and policy formulation, microeconomic analysis of policy issues, resource allocation and decision modeling, cost/benefit analysis, statistical methods, and through a three-course specialization sequence, includes applications to specific public policy topics. Students may enter as freshmen or as transfer students from other programs or universities. Students must maintain a minimum cumulative GPA of 2.00/4.00 in all course work taken at UIC and a minimum GPA of 2.50/4.00 in all course work counting toward core program requirements (see below).</p>
+<h3>Admission Requirements</h3>
+<p>New first year students interested in admission to the BA in Public Policy program must apply using the Common Application and be admitted by the Department of Public Administration, College of Urban Planning and Public Affairs. Admission is competitive, and preference is given to those applicants selected to have the best potential for academic success. See the <em><a href="/ucat/admissions-registration-finances/admissions/">Admission</a></em><a href="/ucat/admissions-registration-finances/admissions/"><em>s</em></a><em> </em>section for more information.</p>
+<p>Transfer students who have completed a minimum of 24 semester hours or 36 quarter hours of transferable college course work by the time of application, and do not meet the definition of an incoming first year or readmission applicant may apply to transfer into the BA in Public Policy. While 24 semester or 36 quarter hours are the minimum number of hours required, most curricula require additional credit hours and the completion of some specific core first year courses. See the <a href="/ucat/admissions-registration-finances/admissions/"><em>Admissions</em></a><em> </em>section for additional information. See the Office of Admission <a href="https://admissions.uic.edu/undergraduate/undergraduate-requirements-deadlines/transfer-requirements/transfer" target="_blank">Transfer Guide</a> for more information about transfer admission requirements.</p>
+<h3>Grade Point Average</h3>
+<p>A student must earn a cumulative grade point average of 2.00/4.00 in all work taken at UIC and a cumulative grade point average of 2.50/4.00 for required courses (core program requirements) for the Public Policy degree. In addition, the combined grade point average of a student’s transfer work and work taken at UIC must be at least 2.00.</p>
+<h2>Minor in Public Policy</h2>
+<p>The minor in Public Policy is open to undergraduate students from any unit or college at UIC. Note that students who are pursuing a BA in Urban Studies may not count courses on this list toward both the degree and the Public Policy minor. Students must submit a request form to the Department of Public Administration (shar@uic.edu or 2108 AEH, 400 S. Peoria St.) to enroll. Note that students pursuing a BA in Urban and Public Affairs (UPA) or Urban Studies (US) and the minor in Public Policy may not use the same courses for both the degree and minor. Students are encouraged to consult with their primary advisor in their home unit about the suitability of the Public Policy minor to their overall academic plan of study. Elective courses may have prerequisites that do not count toward the minor. Students must maintain a minimum GPA of 2.50/4.00 in all course work counting toward the minor.</p></div><!--end #textcontainer -->
+
+			<div id="undergraduateprogramstextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="undergraduateprogramstexttab" aria-hidden="true">
+				<a name="undergraduateprogramstext"></a><h2>Degree Program</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/ba/">BA in Public Policy</a></li>
+	<li><a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/joint-degrees/">Joint BA in Public Policy/Master of Public Administration</a></li>
+	<li><a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/joint-degrees/">Joint BA in Public Policy/Master of Public Policy</a></li>
+	<li><a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/joint-degrees/">Joint BA in Public Policy/Master of Urban Planning and Policy</a></li>
+	<li><a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/joint-degrees/">Joint BA in Public Policy/MS in Civic Analytics</a></li>
+</ul>
+<h2>Minors</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/minor-civic-analytics">Minor in Civic Analytics</a></li>
+	<li><a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/minor-nonprofit-management/">Minor in Nonprofit Management</a></li>
+	<li><a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/minor-pp/">Minor in Public Policy</a></li>
+</ul>
+			</div>
+			<div id="coursestextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="coursestexttab" aria-hidden="true">
+				<a name="coursestext"></a><div class="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle"><strong>PA 401.  Foundations of Public Service.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines political, legal, economic and social environment of public service, internal dynamics of public organizations, relationship between public organizations and external stakeholders, and ethical and moral challenges.  Course Information: 3 undergraduate hours. 4 graduate hours. Previously listed as PA 400. Prerequisite(s): Admission to the MPA program or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PA 402.  Principles of Data Analysis.  0-4 hours.</strong></p>
+<p class="courseblockdesc">
+Topics and methods of analyzing information relevant to the administration and management of public programs and organizations. Includes causation, univariate statistics, significance testing, correlation, and regression. Course Information: 3 undergraduate hours; 4 graduate hours. Previously listed as PA 407.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PA 403.  Economics for Management and Policy.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Basic economic tools and methods relevant to public admin and current policy: opportunity cost, supply and demand, rational choice, production costs, competition vs monopoly, and economic efficiency versus equity, market failure, and public goods. Course Information: 3 undergraduate hours. 4 graduate hours. Previously listed as PA 410. Prerequisite(s):  Appropriate score on the department placement test and graduate standing and admission to the MPA program; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PA 412.  Addressing Public Problems with Data.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Intended to explore best practices for utilizing data and innovative approaches to application development while ensuring commitment to the public values of access, equity, and sustainability. Course Information:  3 undergraduate hours; 4 graduate hours.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PA 421.  Public Management.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Theories, concepts, and applications of management in public organizations. Topics include bureaucracy, public versus private organizations, leadership, motivation, and managing organization change, discretion, and networks. Course Information: Previously listed as PA 415. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Admission to the MPA program or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PA 422.  Project Management.  4 hours.</strong></p>
+<p class="courseblockdesc">
+A comprehensive review of project management practices and techniques necessary to successfully manage projects in government and non-profit organizations which is rooted largely in Project Management Institute (PMI) standards and practices. Course Information: Previously listed as PA 462.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PA 431.  Civic Technology.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Application of the Internet and related technologies for public management. Topics include, Web-based service delivery, online governance, the technological divide, the use of social media, and the changing role of public managers. Course Information: 3 undergraduate hours.  4 graduate hours.  Previously listed as PA 463.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PA 432.  Management of Information Technology.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+The management of technology in government and nonprofit organizations, including typical organizational models; technology roles, skills, and leadership; integration of technology with business operations; and common technology challenges.Course Information: 3 undergraduate hours. 4 graduate hours. Previously listed as PA 461. Prerequisite(s): Graduate or professional standing; or Admission to the MPA program or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PA 433.  Data Management.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+An overview of the use and leveraging of data in order to allow government and nonprofit organizations to make better decisions and improve operations. Topics to be covered will include the concepts of data management and governance. Course Information: 3 undergraduate hours. 4 graduate hours. Previously listed as PA 460. Prerequisite(s): Graduate or professional standing; or admission to the MPA program or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PA 434.  Data Analytics.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to data analytics concepts, including the latest practices for gaining better value from data.  An emphasis will be placed upon hands-on use and application of data analytics techniques. Course Information: 3 undergraduate hours. 4 graduate hours. Extensive computer use required. Meets eight weeks of the semester.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PA 435.  Geographic Information Systems (GIS) for Public Managers.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Fundamental GIS tools and applications as well as the challenges in implementing and sustaining a GIS function in the public setting.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PA 446.  Coding for Civic Data Applications.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Designed to provide students with the advanced technical skills for coding, transforming, and displaying data within existing commercial platforms. Emphasis is placed on the use of and R and Python, SQL, data scraping, mining, etc. Course Information: 3 undergraduate hours. 4 graduate hours.  Recommended background: Familiarity with coding environments and programming.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PA 447.  Survey Planning and Design.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Theory and applications of sample survey planning and design for conducting research in health sciences and related fields. Addresses three major topics: survey design and planning, sampling, and data collection procedures. Course Information:   Same as <a href="/search/?P=CHSC%20447" title="CHSC 447" class="bubblelink code" onclick="return showCourse(this, 'CHSC 447');">CHSC 447</a>.  Prerequisite(s):  Graduate or professional standing and <a href="/search/?P=BSTT%20400" title="BSTT 400" class="bubblelink code" onclick="return showCourse(this, 'BSTT 400');">BSTT 400</a> and <a href="/search/?P=CHSC%20446" title="CHSC 446" class="bubblelink code" onclick="return showCourse(this, 'CHSC 446');">CHSC 446</a>; or approval of the department.Recommended background:  Credit in <a href="/search/?P=CHSC%20446" title="CHSC 446" class="bubblelink code" onclick="return showCourse(this, 'CHSC 446');">CHSC 446</a> or the equivalent.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PA 464.  Technology and Innovation Theory.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The course focuses on theories surrounding the creation, development, transfer, and use of technology. Course Information: Prerequisite(s): Admission to the Ph.D. in Public Administration program or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PA 466.  Science, Technology and Public Policy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+This course addresses the relationships between public policy and science and technology in the United States. Course Information: Prerequisite(s): Admission to the Ph.D. in Public Administration program or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PA 467.  Civic Engagement.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Analytic frameworks and practical strategies for utilizing public participation in government and community decisions. Investigates interactions between civic participation, efforts to improve administration of programs and develop new public policies. Course Information: Same as <a href="/search/?P=PPOL%20467" title="PPOL 467" class="bubblelink code" onclick="return showCourse(this, 'PPOL 467');">PPOL 467</a>. 3 undergraduate hours; 4 graduate hours. Previously listed as PA 564. Prerequisite(s): Admission to the MPA program or consent of instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PA 468.  Topics in Management and Leadership of Public Organizations.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines management and leadership issues through experiences of current and former public managers, political appointees, elected officials, and other key public leaders. Emphasis on topics from Illinois and Chicago metropolitan region. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Admission to the MPA program or consent of instructor .<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PA 490.  Field Experience in Public Policy and Administration.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Students work in an organization such as a government agency, community group, or nonprofit organization. Students are required to submit written work and meet with professor on periodic basis to review work experience. Course Information: Same as <a href="/search/?P=PPOL%20490" title="PPOL 490" class="bubblelink code" onclick="return showCourse(this, 'PPOL 490');">PPOL 490</a>. Satisfactory/Unsatisfactory grading only. May be repeated. A maximum of 4 hours of credit may be applied to the Master of Public Administration program. Field work required. Students who have no prior work experience in the public or non-profit sectors are strongly recommended to register for this course. Prerequisite(s): Graduate standing required; and admission to the MPA program or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PA 494.  Special Topics in Public Administration.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Consideration of timely or enduring issues in public administration not available in regularly offered courses. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated to a maximum of 12 hours. Students may register in more than one section per term. Prerequisite(s): Admission to the MPA program or consent of the instructor.<br/>
+</p>
+</div></div>
+			</div>
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="pa.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,527 @@
+https://catalog.uic.edu/ucat/colleges-depts/liberal-arts-sciences/ihs/bs-bh-conc/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>BS with a Major in Integrated Health Studies—Concentration in Behaviorial Health &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/liberal-arts-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/">Anthropology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/">Biochemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/">Biological Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/">Black Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/">Chemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/">Classics and Mediterranean Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/">Communication</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/">Criminology, Law, and Justice</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/">Earth and Environmental Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/">Economics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/">English</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French and Francophone Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/">Gender and Women's Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/">Germanic Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/">Global Asian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/">Hispanic and Italian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/">History</a></li>
+				<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/">Integrated Health Studies</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/liberal-arts-sciences/ihs/">
+					<li class="active self"><a href="#" onclick="return false;">BS with a Major in Integrated Health Studies—Concentration in Behaviorial Health</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/bs-hs-conc/">BS with a Major in Integrated Health Studies—Concentration in Health and Science </a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/">International Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/">Liberal Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/">Linguistics</a></li>
+				<li><a href="/ucat/colleges-depts/liberal-arts-sciences/lcsl/">Literatures, Cultural Studies, and Linguistics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/">Mathematics, Statistics, and Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/">Moving Image Arts</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/">Neuroscience</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/">Philosophy</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/">Physics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/">Polish, Russian, and Lithuanian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/">Political Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/">Psychology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/">Religious Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/">Sociology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional Studies</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/">College&nbsp;of&nbsp;Liberal&nbsp;Arts&nbsp;and&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/">Integrated&nbsp;Health&nbsp;Studies</a><span class="crumbsep">/</span></li><li><span class="active">BS with a Major in Integrated Health Studies—Concentration in Behaviorial Health</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">BS with a Major in Integrated Health Studies—Concentration in Behaviorial Health</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<h2>Degree Requirements</h2>
+<p>To earn a Bachelor of Science in Liberal Arts and Sciences degree from UIC, students must complete university, college, and departmental degree requirements. The degree requirements are outlined below. Students should consult the <a href="/ucat/colleges-depts/liberal-arts-sciences"><em>College of Liberal Arts and Sciences</em></a> section for additional degree requirements and college academic policies.</p>
+<p>Majors in Integrated Health Studies must complete either the Behavioral Health Concentration or the Health and Science Concentration.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Summary of Requirements</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Required Prerequisite and Collateral Courses</span></td><td class="hourscol">14</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Major Requirements</span></td><td class="hourscol">38-52</td></tr>
+<tr class="odd lastrow"><td colspan="2"><span class="courselistcomment">General Education and Electives to reach Minimum Total Hours</span></td><td class="hourscol">54-68</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">120</td></tr></tbody>
+</table>
+
+<h3>General Education</h3>
+<p>See <em>General Education and Writing-in-the-Discipline </em>in the<em> <a href="/ucat/colleges-depts/liberal-arts-sciences">College of Liberal Arts and Sciences</a></em> section for information on meeting these requirements. Students should consult the course lists below and their advisors to determine which courses are counted toward the General Education and Writing-in-the-Discipline requirements.</p>
+<p>Note: Students are strongly encouraged to satisfy the Quantitative Reasoning requirement by taking <span class="sc_courseinline"><a href="/search/?P=STAT%20130" title="STAT 130" class="bubblelink code" onclick="return showCourse(this, 'STAT 130');">STAT 130</a></span> or calculus at the level of <span class="sc_courseinline"><a href="/search/?P=MATH%20170" title="MATH 170" class="bubblelink code" onclick="return showCourse(this, 'MATH 170');">MATH 170</a></span> or above.</p>
+
+<h3>Required Prerequisite and Collateral Courses</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select one of the following sequences in general chemistry:</span></td><td class="hourscol">10</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20122" title="CHEM 122" class="bubblelink code" onclick="return showCourse(this, 'CHEM 122');">CHEM 122</a></div></td><td>General Chemistry I Lecture <sup>a</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20123" title="CHEM 123" class="bubblelink code" onclick="return showCourse(this, 'CHEM 123');">CHEM 123</a></div></td><td>General Chemistry Laboratory I <sup>a</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20124" title="CHEM 124" class="bubblelink code" onclick="return showCourse(this, 'CHEM 124');">CHEM 124</a></div></td><td>General Chemistry II Lecture <sup>a</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20125" title="CHEM 125" class="bubblelink code" onclick="return showCourse(this, 'CHEM 125');">CHEM 125</a></div></td><td>General Chemistry Laboratory II <sup>a</sup></td><td class="hourscol"></td></tr>
+<tr class="even areaheader "><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment areaheader  commentindent">OR</span></div></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20116" title="CHEM 116" class="bubblelink code" onclick="return showCourse(this, 'CHEM 116');">CHEM 116</a></div></td><td>Honors and Majors General and Analytical Chemistry I</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20118" title="CHEM 118" class="bubblelink code" onclick="return showCourse(this, 'CHEM 118');">CHEM 118</a></div></td><td>Honors and Majors General and Analytical Chemistry II</td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td class="codecol"><a href="/search/?P=ECON%20120" title="ECON 120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON 120</a></td><td>Principles of Microeconomics</td><td class="hourscol">4</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">14</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Each of the following pairs of courses will be considered one course in meeting the LAS General Education requirements or requirements of the major: <span class="sc_courseinline"><a href="/search/?P=CHEM%20122" title="CHEM 122" class="bubblelink code" onclick="return showCourse(this, 'CHEM 122');">CHEM 122</a></span>/<span class="sc_courseinline"><a href="/search/?P=CHEM%20123" title="CHEM 123" class="bubblelink code" onclick="return showCourse(this, 'CHEM 123');">CHEM 123</a></span>, <span class="sc_courseinline"><a href="/search/?P=CHEM%20124" title="CHEM 124" class="bubblelink code" onclick="return showCourse(this, 'CHEM 124');">CHEM 124</a></span>/<span class="sc_courseinline"><a href="/search/?P=CHEM%20125" title="CHEM 125" class="bubblelink code" onclick="return showCourse(this, 'CHEM 125');">CHEM 125</a></span></em></p></td></tr></table>
+<h3>Major Requirements</h3>
+<p>Of the 38–52 semester hours for the major, no more than 22 hours may be at the 100 level and at least 6 semester hours must be at the 300 or 400 level.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Core Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=AHS%20200" title="AHS 200" class="bubblelink code" onclick="return showCourse(this, 'AHS 200');">AHS 200</a></td><td>Introduction to Integrated Health Sciences</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a></td><td>Biology of Cells and Organisms</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=BIOS%20120" title="BIOS 120" class="bubblelink code" onclick="return showCourse(this, 'BIOS 120');">BIOS 120</a></td><td>Biology of Populations and Communities</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=PSCH%20100" title="PSCH 100" class="bubblelink code" onclick="return showCourse(this, 'PSCH 100');">PSCH 100</a></td><td>Introduction to Psychology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=AHS%20375" title="AHS 375" class="bubblelink code" onclick="return showCourse(this, 'AHS 375');">AHS 375</a></td><td>Ethics, Law and Professionalism in Health Sciences <sup>a</sup></td><td class="hourscol">3</td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Content Area Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Students must select one course from each of the following content areas:</span></td><td class="hourscol"></td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Applied Health</span></td><td class="hourscol">3-5</td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=HN%20196" title="HN 196" class="bubblelink code" onclick="return showCourse(this, 'HN 196');">HN 196</a></div></td><td>Nutrition</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=KN%20152" title="KN 152" class="bubblelink code" onclick="return showCourse(this, 'KN 152');">KN 152</a></div></td><td>Introduction to Exercise Physiology and Health</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=KN%20251" title="KN 251" class="bubblelink code" onclick="return showCourse(this, 'KN 251');">KN 251</a></div></td><td>Human Physiological Anatomy I</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=KN%20253" title="KN 253" class="bubblelink code" onclick="return showCourse(this, 'KN 253');">KN 253</a></div></td><td>Human Anatomy and Physiology I <sup>b</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PUBH%20100" title="PUBH 100" class="bubblelink code" onclick="return showCourse(this, 'PUBH 100');">PUBH 100</a></div></td><td>Health and the Public</td><td class="hourscol"></td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Health Economics</span></td><td class="hourscol">3-4</td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ECON%20106" title="ECON 106" class="bubblelink code" onclick="return showCourse(this, 'ECON 106');">ECON 106</a></div></td><td>Tobacconomics</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ECON%20121" title="ECON 121" class="bubblelink code" onclick="return showCourse(this, 'ECON 121');">ECON 121</a></div></td><td>Principles of Macroeconomics</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ECON%20215" title="ECON 215" class="bubblelink code" onclick="return showCourse(this, 'ECON 215');">ECON 215</a></div></td><td>Health Economics</td><td class="hourscol"></td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Humanities/Social Sciences</span></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ANTH%20216" title="ANTH 216" class="bubblelink code" onclick="return showCourse(this, 'ANTH 216');">ANTH 216</a></div></td><td>Medicine, Culture, and Society</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DHD%20101" title="DHD 101" class="bubblelink code" onclick="return showCourse(this, 'DHD 101');">DHD 101</a></div></td><td>Disability in U.S. Society</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHIL%20116" title="PHIL 116" class="bubblelink code" onclick="return showCourse(this, 'PHIL 116');">PHIL 116</a></div></td><td>Biomedical Ethics</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20231" title="PSCH 231" class="bubblelink code" onclick="return showCourse(this, 'PSCH 231');">PSCH 231</a></div></td><td>Community Psychology</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20270" title="PSCH 270" class="bubblelink code" onclick="return showCourse(this, 'PSCH 270');">PSCH 270</a></div></td><td>Abnormal Psychology</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=SOC%20105" title="SOC 105" class="bubblelink code" onclick="return showCourse(this, 'SOC 105');">SOC 105</a></div></td><td>Social Problems</td><td class="hourscol"></td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Natural Sciences</span></td><td class="hourscol">3-6</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=BIOS%20222" title="BIOS 222" class="bubblelink code" onclick="return showCourse(this, 'BIOS 222');">BIOS 222</a><br/><span style="margin-left:20px;" class="blockindent">&amp; <a href="/search/?P=BIOS%20312" title="BIOS 312" class="bubblelink code" onclick="return showCourse(this, 'BIOS 312');">BIOS 312</a></span></div></td><td>Cell Biology<br/><span style="margin-left:20px;" class="blockindent">and Cell Biology Laboratory</span> <sup>c</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20230" title="CHEM 230" class="bubblelink code" onclick="return showCourse(this, 'CHEM 230');">CHEM 230</a><br/><span style="margin-left:20px;" class="blockindent">&amp; <a href="/search/?P=CHEM%20233" title="CHEM 233" class="bubblelink code" onclick="return showCourse(this, 'CHEM 233');">CHEM 233</a></span></div></td><td>Organic Chemistry of Biological Systems<br/><span style="margin-left:20px;" class="blockindent">and Organic Chemistry Laboratory I</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20232" title="CHEM 232" class="bubblelink code" onclick="return showCourse(this, 'CHEM 232');">CHEM 232</a><br/><span style="margin-left:20px;" class="blockindent">&amp; <a href="/search/?P=CHEM%20233" title="CHEM 233" class="bubblelink code" onclick="return showCourse(this, 'CHEM 233');">CHEM 233</a></span></div></td><td>Organic Chemistry I<br/><span style="margin-left:20px;" class="blockindent">and Organic Chemistry Laboratory I</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHYS%20118" title="PHYS 118" class="bubblelink code" onclick="return showCourse(this, 'PHYS 118');">PHYS 118</a></div></td><td>Physics in Modern Medicine</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHYS%20131" title="PHYS 131" class="bubblelink code" onclick="return showCourse(this, 'PHYS 131');">PHYS 131</a></div></td><td>Introductory Physics for Life Sciences I</td><td class="hourscol"></td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Concentration Courses</span></td><td class="hourscol">8-16</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">In addition to Core and Content Area courses, students are required to earn either the Concentration in Behavioral Health or the Concentration in Health and Science.</span></td><td class="hourscol"></td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Concentration in Behavioral Health (8-13 hours)</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Select three courses from either the following list or the Applied Health and/or Humanities/Social Sciences Content Areas. Courses taken to satisfy the Content Area requirement may not be used to satisfy the requirements of the concentration.</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=AHS%20304" title="AHS 304" class="bubblelink code" onclick="return showCourse(this, 'AHS 304');">AHS 304</a></div></td><td>Human Sexuality and Health Science</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=AHS%20330" title="AHS 330" class="bubblelink code" onclick="return showCourse(this, 'AHS 330');">AHS 330</a></div></td><td>Physical and Mental Health Issues in Rehabilitation</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=AHS%20393" title="AHS 393" class="bubblelink code" onclick="return showCourse(this, 'AHS 393');">AHS 393</a></div></td><td>Synthesis in Health/Rehabilitation Sciences <sup>d</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=AHS%20402" title="AHS 402" class="bubblelink code" onclick="return showCourse(this, 'AHS 402');">AHS 402</a></div></td><td>Health Inter-professional Seminar</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DHD%20202" title="DHD 202" class="bubblelink code" onclick="return showCourse(this, 'DHD 202');">DHD 202</a></div></td><td>Disability, Health, and Society</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=KN%20237" title="KN 237" class="bubblelink code" onclick="return showCourse(this, 'KN 237');">KN 237</a></div></td><td>Sport and Exercise Psychology</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=KN%20252" title="KN 252" class="bubblelink code" onclick="return showCourse(this, 'KN 252');">KN 252</a></div></td><td>Human Physiological Anatomy II</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=KN%20254" title="KN 254" class="bubblelink code" onclick="return showCourse(this, 'KN 254');">KN 254</a></div></td><td>Human Anatomy and Physiology II</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LAS%20289" title="LAS 289" class="bubblelink code" onclick="return showCourse(this, 'LAS 289');">LAS 289</a></div></td><td>LAS Internship <sup>d</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20242" title="PSCH 242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH 242</a></div></td><td>Introduction to Research in Psychology</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20320" title="PSCH 320" class="bubblelink code" onclick="return showCourse(this, 'PSCH 320');">PSCH 320</a></div></td><td>Developmental Psychology</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20415" title="PSCH 415" class="bubblelink code" onclick="return showCourse(this, 'PSCH 415');">PSCH 415</a></div></td><td>Social Bases of Health Behavior</td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=SOC%20251" title="SOC 251" class="bubblelink code" onclick="return showCourse(this, 'SOC 251');">SOC 251</a></div></td><td>Health and Medicine</td><td class="hourscol"></td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">38-52</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=AHS%20375" title="AHS 375" class="bubblelink code" onclick="return showCourse(this, 'AHS 375');">AHS 375</a></span> satisfies the Writing-in-the-Discipline requirement.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>Credit is not given if the student has credit in <span class="sc_courseinline"><a href="/search/?P=KN%20251" title="KN 251" class="bubblelink code" onclick="return showCourse(this, 'KN 251');">KN 251</a></span>.</em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>Each of the following pairs of courses will be considered one course in meeting the LAS General Education requirements or requirements of the major: <span class="sc_courseinline"><a href="/search/?P=BIOS%20222" title="BIOS 222" class="bubblelink code" onclick="return showCourse(this, 'BIOS 222');">BIOS 222</a></span>/<span class="sc_courseinline"><a href="/search/?P=BIOS%20312" title="BIOS 312" class="bubblelink code" onclick="return showCourse(this, 'BIOS 312');">BIOS 312</a></span>, <span class="sc_courseinline"><a href="/search/?P=BIOS%20320" title="BIOS 320" class="bubblelink code" onclick="return showCourse(this, 'BIOS 320');">BIOS 320</a></span>/<span class="sc_courseinline"><a href="/search/?P=BIOS%20321" title="BIOS 321" class="bubblelink code" onclick="return showCourse(this, 'BIOS 321');">BIOS 321</a></span>, <span class="sc_courseinline"><a href="/search/?P=CHEM%20230" title="CHEM 230" class="bubblelink code" onclick="return showCourse(this, 'CHEM 230');">CHEM 230</a></span>/<span class="sc_courseinline"><a href="/search/?P=CHEM%20233" title="CHEM 233" class="bubblelink code" onclick="return showCourse(this, 'CHEM 233');">CHEM 233</a></span> or <span class="sc_courseinline"><a href="/search/?P=CHEM%20232" title="CHEM 232" class="bubblelink code" onclick="return showCourse(this, 'CHEM 232');">CHEM 232</a></span>/<span class="sc_courseinline"><a href="/search/?P=CHEM%20233" title="CHEM 233" class="bubblelink code" onclick="return showCourse(this, 'CHEM 233');">CHEM 233</a></span>.</em></p></td></tr><tr><td valign="top" class="symcol">d</td><td class="notecol"><p><em>Students who select <span class="sc_courseinline"><a href="/search/?P=AHS%20393" title="AHS 393" class="bubblelink code" onclick="return showCourse(this, 'AHS 393');">AHS 393</a></span> or <span class="sc_courseinline"><a href="/search/?P=LAS%20289" title="LAS 289" class="bubblelink code" onclick="return showCourse(this, 'LAS 289');">LAS 289</a></span> must enroll for a minimum of 3 semester hours. Only one course may be counted toward the major.</em></p></td></tr></table>
+<h2>Recommended Plan of Study—Integrated Health Studies Major, Concentration in Behavioral Health</h2>
+<table pdfnorepeatheader="true" class="sc_plangrid">
+<caption>Plan of Study Grid</caption><colgroup>
+	<col class="codecol"/>
+	<col class="titlecol"/>
+	<col class="hourscol"/>
+</colgroup>
+<tr class="plangridyear"><th id="plangrid1_0" class="year" colspan="3">First Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_0_0" colspan="2">Fall Semester</th><th id="hoursheader" scope="col" class="hourscol">Hours</th></tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Academic Writing I: Writing in Academic and Public Contexts</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">Select one of the following:</span> <sup>b</sup></td>
+<td headers="hoursheader" class="hourscol">5</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20116" title="CHEM 116" class="bubblelink code" onclick="return showCourse(this, 'CHEM 116');">CHEM 116</a></div></td>
+<td headers=" plangrid1_0_0" class="titlecol">Honors and Majors General and Analytical Chemistry I</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20122" title="CHEM 122" class="bubblelink code" onclick="return showCourse(this, 'CHEM 122');">CHEM 122</a><br/><span style="margin-left:20px;" class="blockindent">&amp; <a href="/search/?P=CHEM%20123" title="CHEM 123" class="bubblelink code" onclick="return showCourse(this, 'CHEM 123');">CHEM 123</a></span></div></td>
+<td headers=" plangrid1_0_0" class="titlecol">General Chemistry I Lecture<br/><span style="margin-left:20px;" class="blockindent">and General Chemistry Laboratory I</span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">Quantitative Reasoning Requirement</span> <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol">4-5</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">General Education Requirement</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_0_0" class="titlecol">Hours</td><td headers=" plangrid1_0_0 hoursheader" class="hourscol">15-16</td></tr>
+<tr class="plangridterm"><th id="plangrid1_0_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Academic Writing II: Writing for Inquiry and Research</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=BIOS%20120" title="BIOS 120" class="bubblelink code" onclick="return showCourse(this, 'BIOS 120');">BIOS 120</a></div></td>
+<td headers=" plangrid1_0_1" class="titlecol">Biology of Cells and Organisms <sup>b</sup><br/><div style="margin-left:20px;" class="blockindent">or Biology of Populations and Communities</div></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">Select one of the following:</span> <sup>b</sup></td>
+<td headers="hoursheader" class="hourscol">5</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20118" title="CHEM 118" class="bubblelink code" onclick="return showCourse(this, 'CHEM 118');">CHEM 118</a></div></td>
+<td headers=" plangrid1_0_1" class="titlecol">Honors and Majors General and Analytical Chemistry II</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20124" title="CHEM 124" class="bubblelink code" onclick="return showCourse(this, 'CHEM 124');">CHEM 124</a><br/><span style="margin-left:20px;" class="blockindent">&amp; <a href="/search/?P=CHEM%20125" title="CHEM 125" class="bubblelink code" onclick="return showCourse(this, 'CHEM 125');">CHEM 125</a></span></div></td>
+<td headers=" plangrid1_0_1" class="titlecol">General Chemistry II Lecture<br/><span style="margin-left:20px;" class="blockindent">and General Chemistry Laboratory II</span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=AHS%20200" title="AHS 200" class="bubblelink code" onclick="return showCourse(this, 'AHS 200');">AHS 200</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Introduction to Integrated Health Sciences</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_0_1" class="titlecol">Hours</td><td headers=" plangrid1_0_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridyear"><th id="plangrid1_1" class="year" colspan="3">Second Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_1_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_1_0" class="codecol"><a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=BIOS%20120" title="BIOS 120" class="bubblelink code" onclick="return showCourse(this, 'BIOS 120');">BIOS 120</a></div></td>
+<td headers=" plangrid1_1_0" class="titlecol">Biology of Cells and Organisms <sup>b</sup><br/><div style="margin-left:20px;" class="blockindent">or Biology of Populations and Communities</div></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" class="codecol"><a href="/search/?P=ECON%20120" title="ECON 120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON 120</a></td>
+<td headers=" plangrid1_1_0" class="titlecol">Principles of Microeconomics</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" class="codecol"><a href="/search/?P=PSCH%20100" title="PSCH 100" class="bubblelink code" onclick="return showCourse(this, 'PSCH 100');">PSCH 100</a></td>
+<td headers=" plangrid1_1_0" class="titlecol">Introduction to Psychology</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_1_0" class="titlecol">Hours</td><td headers=" plangrid1_1_0 hoursheader" class="hourscol">16</td></tr>
+<tr class="plangridterm"><th id="plangrid1_1_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">Applied Health Content Area Selective</span> <sup>c</sup></td>
+<td headers="hoursheader" class="hourscol">3-5</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">Humanities/Social Sciences Content Area Selective</span> <sup>d</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">General Education Requirement</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">General Education Requirement</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_1_1" class="titlecol">Hours</td><td headers=" plangrid1_1_1 hoursheader" class="hourscol">16-18</td></tr>
+<tr class="plangridyear"><th id="plangrid1_2" class="year" colspan="3">Third Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_2_0" colspan="3">Fall Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">Health Economics Content Area Selective</span> <sup>e</sup></td>
+<td headers="hoursheader" class="hourscol">3-4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">Natural Sciences Content Area Selective</span> <sup>f</sup></td>
+<td headers="hoursheader" class="hourscol">3-6</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">Behavioral Health Concentration Selective</span> <sup>g</sup></td>
+<td headers="hoursheader" class="hourscol">3-4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">General Education Requirement</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_2_0" class="titlecol">Hours</td><td headers=" plangrid1_2_0 hoursheader" class="hourscol">16-21</td></tr>
+<tr class="plangridterm"><th id="plangrid1_2_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">Behavioral Health Concentration Selective</span> <sup>g</sup></td>
+<td headers="hoursheader" class="hourscol">3-4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">Behavioral Health Concentration Selective</span> <sup>g</sup></td>
+<td headers="hoursheader" class="hourscol">2-5</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">General Education Requirement</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_2_1" class="titlecol">Hours</td><td headers=" plangrid1_2_1 hoursheader" class="hourscol">12-16</td></tr>
+<tr class="plangridyear"><th id="plangrid1_3" class="year" colspan="3">Fourth Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_3_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_3_0" class="codecol"><a href="/search/?P=AHS%20375" title="AHS 375" class="bubblelink code" onclick="return showCourse(this, 'AHS 375');">AHS 375</a></td>
+<td headers=" plangrid1_3_0" class="titlecol">Ethics, Law and Professionalism in Health Sciences <sup>h</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">12</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_3_0" class="titlecol">Hours</td><td headers=" plangrid1_3_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid1_3_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">15</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_3_1" class="titlecol">Hours</td><td headers=" plangrid1_3_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridtotal lastrow odd"><td> </td><td>Total Hours</td><td headers="hoursheader" class="hourscol">120</td></tr>
+</table>
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Majors are strongly encouraged to satisfy the Quantitative Reasoning requirement by taking either <span class="sc_courseinline"><a href="/search/?P=STAT%20130" title="STAT 130" class="bubblelink code" onclick="return showCourse(this, 'STAT 130');">STAT 130</a></span> or calculus at the level of <span class="sc_courseinline"><a href="/search/?P=MATH%20170" title="MATH 170" class="bubblelink code" onclick="return showCourse(this, 'MATH 170');">MATH 170</a></span> or above. A grade of C or better is required to satisfy the Quantitative Reasoning requirement.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>The two Analyzing the Natural World and the two General Education course requirements can be satisfied with <span class="sc_courseinline"><a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a></span>, <span class="sc_courseinline"><a href="/search/?P=BIOS%20120" title="BIOS 120" class="bubblelink code" onclick="return showCourse(this, 'BIOS 120');">BIOS 120</a></span> , <span class="sc_courseinline"><a href="/search/?P=CHEM%20116" title="CHEM 116" class="bubblelink code" onclick="return showCourse(this, 'CHEM 116');">CHEM 116</a></span> or <span class="sc_courseinline"><a href="/search/?P=CHEM%20122" title="CHEM 122" class="bubblelink code" onclick="return showCourse(this, 'CHEM 122');">CHEM 122</a></span>/<span class="sc_courseinline"><a href="/search/?P=CHEM%20123" title="CHEM 123" class="bubblelink code" onclick="return showCourse(this, 'CHEM 123');">CHEM 123</a></span>, and <span class="sc_courseinline"><a href="/search/?P=CHEM%20118" title="CHEM 118" class="bubblelink code" onclick="return showCourse(this, 'CHEM 118');">CHEM 118</a></span> or <span class="sc_courseinline"><a href="/search/?P=CHEM%20124" title="CHEM 124" class="bubblelink code" onclick="return showCourse(this, 'CHEM 124');">CHEM 124</a></span>/<span class="sc_courseinline"><a href="/search/?P=CHEM%20125" title="CHEM 125" class="bubblelink code" onclick="return showCourse(this, 'CHEM 125');">CHEM 125</a></span>.</em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>Applied Health Content Area requirement may be satisfied by taking one of the following: <span class="sc_courseinline"><a href="/search/?P=HN%20196" title="HN 196" class="bubblelink code" onclick="return showCourse(this, 'HN 196');">HN 196</a></span>, <span class="sc_courseinline"><a href="/search/?P=KN%20152" title="KN 152" class="bubblelink code" onclick="return showCourse(this, 'KN 152');">KN 152</a></span>, <span class="sc_courseinline"><a href="/search/?P=KN%20251" title="KN 251" class="bubblelink code" onclick="return showCourse(this, 'KN 251');">KN 251</a></span>, <span class="sc_courseinline"><a href="/search/?P=KN%20253" title="KN 253" class="bubblelink code" onclick="return showCourse(this, 'KN 253');">KN 253</a></span>, <span class="sc_courseinline"><a href="/search/?P=PUBH%20100" title="PUBH 100" class="bubblelink code" onclick="return showCourse(this, 'PUBH 100');">PUBH 100</a></span>.</em></p></td></tr><tr><td valign="top" class="symcol">d</td><td class="notecol"><p><em>Humanities/Social Sciences Content Area requirement my be satisfied by taking one of the following: <span class="sc_courseinline"><a href="/search/?P=ANTH%20216" title="ANTH 216" class="bubblelink code" onclick="return showCourse(this, 'ANTH 216');">ANTH 216</a></span>, <span class="sc_courseinline"><a href="/search/?P=DHD%20101" title="DHD 101" class="bubblelink code" onclick="return showCourse(this, 'DHD 101');">DHD 101</a></span>, <span class="sc_courseinline"><a href="/search/?P=PHIL%20116" title="PHIL 116" class="bubblelink code" onclick="return showCourse(this, 'PHIL 116');">PHIL 116</a></span>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20231" title="PSCH 231" class="bubblelink code" onclick="return showCourse(this, 'PSCH 231');">PSCH 231</a></span>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20270" title="PSCH 270" class="bubblelink code" onclick="return showCourse(this, 'PSCH 270');">PSCH 270</a></span>, <span class="sc_courseinline"><a href="/search/?P=SOC%20105" title="SOC 105" class="bubblelink code" onclick="return showCourse(this, 'SOC 105');">SOC 105</a></span>.</em></p></td></tr><tr><td valign="top" class="symcol">e</td><td class="notecol"><p><em>Health Economics Content Area requirement may be satisfied by taking one of the following: <span class="sc_courseinline"><a href="/search/?P=ECON%20106" title="ECON 106" class="bubblelink code" onclick="return showCourse(this, 'ECON 106');">ECON 106</a></span>, <span class="sc_courseinline"><a href="/search/?P=ECON%20121" title="ECON 121" class="bubblelink code" onclick="return showCourse(this, 'ECON 121');">ECON 121</a></span>, </em><span class="sc_courseinline"><a href="/search/?P=ECON%20215" title="ECON 215" class="bubblelink code" onclick="return showCourse(this, 'ECON 215');">ECON 215</a></span>.</p></td></tr><tr><td valign="top" class="symcol">f</td><td class="notecol"><p><em>Natural Sciences Content Area requirement my be satisfied by taking one of the following: <span class="sc_courseinline"><a href="/search/?P=BIOS%20222" title="BIOS 222" class="bubblelink code" onclick="return showCourse(this, 'BIOS 222');">BIOS 222</a></span>/<span class="sc_courseinline"><a href="/search/?P=BIOS%20312" title="BIOS 312" class="bubblelink code" onclick="return showCourse(this, 'BIOS 312');">BIOS 312</a></span>, <span class="sc_courseinline"><a href="/search/?P=CHEM%20232" title="CHEM 232" class="bubblelink code" onclick="return showCourse(this, 'CHEM 232');">CHEM 232</a></span>/<span class="sc_courseinline"><a href="/search/?P=CHEM%20233" title="CHEM 233" class="bubblelink code" onclick="return showCourse(this, 'CHEM 233');">CHEM 233</a></span> or <span class="sc_courseinline"><a href="/search/?P=CHEM%20230" title="CHEM 230" class="bubblelink code" onclick="return showCourse(this, 'CHEM 230');">CHEM 230</a></span>/<span class="sc_courseinline"><a href="/search/?P=CHEM%20233" title="CHEM 233" class="bubblelink code" onclick="return showCourse(this, 'CHEM 233');">CHEM 233</a></span>, <span class="sc_courseinline"><a href="/search/?P=PHYS%20118" title="PHYS 118" class="bubblelink code" onclick="return showCourse(this, 'PHYS 118');">PHYS 118</a></span>, <span class="sc_courseinline"><a href="/search/?P=PHYS%20131" title="PHYS 131" class="bubblelink code" onclick="return showCourse(this, 'PHYS 131');">PHYS 131</a></span>. It is recommended that the BIOS and CHEM lecture and lab be taken over two semesters. </em></p></td></tr><tr><td valign="top" class="symcol">g</td><td class="notecol"><p><em>Courses that may be used to satisfy the Behavioral Health Concentration are: <span class="sc_courseinline"><a href="/search/?P=AHS%20304" title="AHS 304" class="bubblelink code" onclick="return showCourse(this, 'AHS 304');">AHS 304</a></span>, <span class="sc_courseinline"><a href="/search/?P=AHS%20330" title="AHS 330" class="bubblelink code" onclick="return showCourse(this, 'AHS 330');">AHS 330</a></span>, <span class="sc_courseinline"><a href="/search/?P=AHS%20393" title="AHS 393" class="bubblelink code" onclick="return showCourse(this, 'AHS 393');">AHS 393</a></span>, <span class="sc_courseinline"><a href="/search/?P=AHS%20402" title="AHS 402" class="bubblelink code" onclick="return showCourse(this, 'AHS 402');">AHS 402</a></span>, <span class="sc_courseinline"><a href="/search/?P=DHD%20202" title="DHD 202" class="bubblelink code" onclick="return showCourse(this, 'DHD 202');">DHD 202</a></span>, <span class="sc_courseinline"><a href="/search/?P=KN%20237" title="KN 237" class="bubblelink code" onclick="return showCourse(this, 'KN 237');">KN 237</a></span>, <span class="sc_courseinline"><a href="/search/?P=KN%20252" title="KN 252" class="bubblelink code" onclick="return showCourse(this, 'KN 252');">KN 252</a></span>, <span class="sc_courseinline"><a href="/search/?P=KN%20254" title="KN 254" class="bubblelink code" onclick="return showCourse(this, 'KN 254');">KN 254</a></span>, <span class="sc_courseinline"><a href="/search/?P=LAS%20289" title="LAS 289" class="bubblelink code" onclick="return showCourse(this, 'LAS 289');">LAS 289</a></span>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20242" title="PSCH 242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH 242</a></span>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20320" title="PSCH 320" class="bubblelink code" onclick="return showCourse(this, 'PSCH 320');">PSCH 320</a></span>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20415" title="PSCH 415" class="bubblelink code" onclick="return showCourse(this, 'PSCH 415');">PSCH 415</a></span>, <span class="sc_courseinline"><a href="/search/?P=SOC%20251" title="SOC 251" class="bubblelink code" onclick="return showCourse(this, 'SOC 251');">SOC 251</a></span>, in addition to courses listed under Applied Health and/or Humanities/Social Sciences Content Areas. Courses taken to satisfy Content Area requirements may not be be used to satisfy the requirement of the concentration.</em></p></td></tr><tr><td valign="top" class="symcol">h</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=AHS%20375" title="AHS 375" class="bubblelink code" onclick="return showCourse(this, 'AHS 375');">AHS 375</a></span> satisfies the LAS Writing-in-the-Discipline requirement.</em></p></td></tr></table>
+<p><strong>Note:</strong> Of the total semester hours used to satisfy the requirements of the major, no more than 22 hours may be at the 100 level and at least 6 semester hours must be at the 300 or 400 level.</p></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="bs-bh-conc.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

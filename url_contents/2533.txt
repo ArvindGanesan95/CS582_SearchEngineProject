@@ -1,0 +1,904 @@
+https://catalog.uic.edu/ucat/colleges-depts/architecture-design-arts/thtr-mus/bmus-perf/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>BMus in Performance &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/architecture-design-arts/">
+				<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/arch/">School of Architecture</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/">School of Art &amp;&#8203; Art History</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/des/">School of Design</a></li>
+				<li class="active isparent"><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/">School of Theatre &amp;&#8203; Music</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/architecture-design-arts/thtr-mus/">
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/ba-mus/">BA in Music</a></li>
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/b-mus-bus/">BA in Music Business</a></li>
+					<li class="active self"><a href="#" onclick="return false;">BMus in Performance</a></li>
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/bmus-jazz/">BMus in Jazz Studies</a></li>
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/ba-act/">BA in Theatre and Performance</a></li>
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/ba-thtr-des/">BA in Theatre Design, Production, and Technology</a></li>
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/bfa-act/">BFA in Acting</a></li>
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/minor-mus/">Minor in Music</a></li>
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/minor-thtr/">Minor in Theatre</a></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/architecture-design-arts/">College&nbsp;of&nbsp;Architecture,&nbsp;Design,&nbsp;and&nbsp;the&nbsp;Arts</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/">School&nbsp;of&nbsp;Theatre&nbsp;&amp;&nbsp;Music</a><span class="crumbsep">/</span></li><li><span class="active">BMus in Performance</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">BMus in Performance</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+<p class="program_codes"><span class="label"><strong>Program Codes:</strong> </span><br />20FR5449BMUS	<br /></p>	</div>
+</div>
+
+<h2>Degree Requirements—Bachelor of Music in Performance</h2>
+<p>To earn a Bachelor of Music in Performance degree from UIC, students need to complete university, college, and school degree requirements. An audition is also required to enter the major. The School of Theatre &amp; Music degree requirements are outlined below. Students should consult the <a href="/ucat/colleges-depts/architecture-design-arts/"><em>College of Architecture, Design, and the Arts</em></a> section of the <em>Undergraduate Catalog</em> for additional degree requirements and college academic policies.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Summary of Requirements</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">General Education Requirements</span></td><td class="hourscol">24</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Major Course Requirements</span></td><td class="hourscol">77-79</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Electives</span></td><td class="hourscol">16-19</td></tr>
+<tr class="even lastrow"><td class="codecol"><a href="/search/?P=DLG%20120" title="DLG 120" class="bubblelink code" onclick="return showCourse(this, 'DLG 120');">DLG 120</a></td><td>UIC First-Year Dialogue Seminar (Required of new freshmen only) <sup>a</sup></td><td class="hourscol">1</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">120</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>New freshmen are required to complete <span class="sc_courseinline"><a href="/search/?P=DLG%20120" title="DLG 120" class="bubblelink code" onclick="return showCourse(this, 'DLG 120');">DLG 120</a></span> for one hour. These students will complete 16–19 hours of electives for the BMus in Performance. All other students complete 17–19 hours of electives for the BMus in Performance.</em></p></td></tr></table>
+<h3>General Education Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span> <sup>a</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td><td>Academic Writing I: Writing in Academic and Public Contexts</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td><td>Academic Writing II: Writing for Inquiry and Research</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Analyzing the Natural World course</span> <sup>b</sup></td><td class="hourscol">3-5</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Understanding the Individual and Society course</span> <sup>b</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Understanding the Past course</span> <sup>b</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Understanding U.S. Society course</span> <sup>b</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd lastrow"><td colspan="2"><span class="courselistcomment">Additional General Education Core courses from any categories</span> <sup>b,c</sup></td><td class="hourscol">4-6</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">24</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>The Understanding the Creative Arts and Exploring World Cultures General Education requirements are met by courses within the major.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>Students should consult the <a href="/ucat/degree-programs/general-education/">General Education</a> section of the catalog for a list of approved courses in this category.</em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>Students take two additional courses from any General Education categories for a total of 4–6 hours to reach the required 24 hours in the General Education Core.</em> </p></td></tr></table>
+<h3>Course Requirements</h3>
+<p>For the Performance Major, 77–79 semester hours distributed as follows:</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=MUS%20101" title="MUS 101" class="bubblelink code" onclick="return showCourse(this, 'MUS 101');">MUS 101</a></td><td>Music Theory I</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=MUS%20102" title="MUS 102" class="bubblelink code" onclick="return showCourse(this, 'MUS 102');">MUS 102</a></td><td>Music Theory II</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=MUS%20103" title="MUS 103" class="bubblelink code" onclick="return showCourse(this, 'MUS 103');">MUS 103</a></td><td>Ear Training I</td><td class="hourscol">1</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=MUS%20104" title="MUS 104" class="bubblelink code" onclick="return showCourse(this, 'MUS 104');">MUS 104</a></td><td>Ear Training II</td><td class="hourscol">1</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=MUS%20110" title="MUS 110" class="bubblelink code" onclick="return showCourse(this, 'MUS 110');">MUS 110</a></td><td>Convocation/Recital <sup>a</sup></td><td class="hourscol">0</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=MUS%20201" title="MUS 201" class="bubblelink code" onclick="return showCourse(this, 'MUS 201');">MUS 201</a></td><td>Theory of Music III</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=MUS%20202" title="MUS 202" class="bubblelink code" onclick="return showCourse(this, 'MUS 202');">MUS 202</a></td><td>Theory of Music IV</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=MUS%20203" title="MUS 203" class="bubblelink code" onclick="return showCourse(this, 'MUS 203');">MUS 203</a></td><td>Ear Training III</td><td class="hourscol">1</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=MUS%20204" title="MUS 204" class="bubblelink code" onclick="return showCourse(this, 'MUS 204');">MUS 204</a></td><td>Ear Training IV</td><td class="hourscol">1</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=MUS%20170" title="MUS 170" class="bubblelink code" onclick="return showCourse(this, 'MUS 170');">MUS 170</a></td><td>Keyboard Skills I</td><td class="hourscol">2</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=MUS%20171" title="MUS 171" class="bubblelink code" onclick="return showCourse(this, 'MUS 171');">MUS 171</a></td><td>Keyboard Skills II</td><td class="hourscol">2</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=MUS%20270" title="MUS 270" class="bubblelink code" onclick="return showCourse(this, 'MUS 270');">MUS 270</a></td><td>Keyboard Skills III</td><td class="hourscol">2</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=MUS%20271" title="MUS 271" class="bubblelink code" onclick="return showCourse(this, 'MUS 271');">MUS 271</a></td><td>Keyboard Skills IV</td><td class="hourscol">2</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=MUS%20230" title="MUS 230" class="bubblelink code" onclick="return showCourse(this, 'MUS 230');">MUS 230</a></td><td>Music History I</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=MUS%20231" title="MUS 231" class="bubblelink code" onclick="return showCourse(this, 'MUS 231');">MUS 231</a></td><td>Music History II</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=MUS%20232" title="MUS 232" class="bubblelink code" onclick="return showCourse(this, 'MUS 232');">MUS 232</a></td><td>Music History III</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=MUS%20300" title="MUS 300" class="bubblelink code" onclick="return showCourse(this, 'MUS 300');">MUS 300</a></td><td>Counterpoint</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=MUS%20301" title="MUS 301" class="bubblelink code" onclick="return showCourse(this, 'MUS 301');">MUS 301</a></td><td>Analytic Techniques</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=MUS%20111" title="MUS 111" class="bubblelink code" onclick="return showCourse(this, 'MUS 111');">MUS 111</a></td><td>Master Class in Performance <sup>b</sup></td><td class="hourscol">0</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=MUS%20223" title="MUS 223" class="bubblelink code" onclick="return showCourse(this, 'MUS 223');">MUS 223</a></td><td>Music Technology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=MUS%20227" title="MUS 227" class="bubblelink code" onclick="return showCourse(this, 'MUS 227');">MUS 227</a></td><td>Music Cultures of the World <sup>c,d</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Select two of the following:</span></td><td class="hourscol">6</td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20113" title="MUS 113" class="bubblelink code" onclick="return showCourse(this, 'MUS 113');">MUS 113</a></div></td><td>Art Song <sup>c</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20114" title="MUS 114" class="bubblelink code" onclick="return showCourse(this, 'MUS 114');">MUS 114</a></div></td><td>Jazz History <sup>c,h</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20115" title="MUS 115" class="bubblelink code" onclick="return showCourse(this, 'MUS 115');">MUS 115</a></div></td><td>Opera <sup>c</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20117" title="MUS 117" class="bubblelink code" onclick="return showCourse(this, 'MUS 117');">MUS 117</a></div></td><td>Music for Symphony Orchestra <sup>c</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20119" title="MUS 119" class="bubblelink code" onclick="return showCourse(this, 'MUS 119');">MUS 119</a></div></td><td>Music for the Piano <sup>c</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20240" title="MUS 240" class="bubblelink code" onclick="return showCourse(this, 'MUS 240');">MUS 240</a></div></td><td>Music, Gender and Culture <sup>c,i</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select two of the following:</span></td><td class="hourscol">6</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20302" title="MUS 302" class="bubblelink code" onclick="return showCourse(this, 'MUS 302');">MUS 302</a></div></td><td>Composition I</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20303" title="MUS 303" class="bubblelink code" onclick="return showCourse(this, 'MUS 303');">MUS 303</a></div></td><td>Composition II</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20304" title="MUS 304" class="bubblelink code" onclick="return showCourse(this, 'MUS 304');">MUS 304</a></div></td><td>Conducting</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20306" title="MUS 306" class="bubblelink code" onclick="return showCourse(this, 'MUS 306');">MUS 306</a></div></td><td>Orchestration and Arranging I</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20307" title="MUS 307" class="bubblelink code" onclick="return showCourse(this, 'MUS 307');">MUS 307</a></div></td><td>Orchestration and Arranging II</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20330" title="MUS 330" class="bubblelink code" onclick="return showCourse(this, 'MUS 330');">MUS 330</a></div></td><td>Advanced Topics in Music History and Ethnomusicology</td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Ensemble Requirement: Performance Majors must be enrolled in a minimum of one ensemble during every term in which they are a major, distributed as follows:</span> <sup>j</sup></td><td class="hourscol">6-8</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Ensemble Requirement: Select four of the following:</span> <sup>e</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20151" title="MUS 151" class="bubblelink code" onclick="return showCourse(this, 'MUS 151');">MUS 151</a></div></td><td>Concert Band</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20153" title="MUS 153" class="bubblelink code" onclick="return showCourse(this, 'MUS 153');">MUS 153</a></div></td><td>University Choir</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20157" title="MUS 157" class="bubblelink code" onclick="return showCourse(this, 'MUS 157');">MUS 157</a></div></td><td>University Orchestras</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20159" title="MUS 159" class="bubblelink code" onclick="return showCourse(this, 'MUS 159');">MUS 159</a></div></td><td>Jazz Ensemble</td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Ensemble Requirement: Select two of the following:</span> <sup>e</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20152" title="MUS 152" class="bubblelink code" onclick="return showCourse(this, 'MUS 152');">MUS 152</a></div></td><td>Instrumental Ensembles</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20154" title="MUS 154" class="bubblelink code" onclick="return showCourse(this, 'MUS 154');">MUS 154</a></div></td><td>Chamber Choir</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20155" title="MUS 155" class="bubblelink code" onclick="return showCourse(this, 'MUS 155');">MUS 155</a></div></td><td>Women's Choral Ensemble</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20160" title="MUS 160" class="bubblelink code" onclick="return showCourse(this, 'MUS 160');">MUS 160</a></div></td><td>Small Jazz Ensemble</td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Ensemble Requirement: Select two hours of any ensemble, excluding <a href="/search/?P=MUS%20156" title="MUS 156" class="bubblelink code" onclick="return showCourse(this, 'MUS 156');">MUS 156</a></span></td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Select eight hours from the following:</span></td><td class="hourscol">8</td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20180" title="MUS 180" class="bubblelink code" onclick="return showCourse(this, 'MUS 180');">MUS 180</a></div></td><td>Private Instrumental Lessons <sup>f</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20182" title="MUS 182" class="bubblelink code" onclick="return showCourse(this, 'MUS 182');">MUS 182</a></div></td><td>Private Voice Lessons <sup>f</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select six hours from the following:</span></td><td class="hourscol">6</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20280" title="MUS 280" class="bubblelink code" onclick="return showCourse(this, 'MUS 280');">MUS 280</a></div></td><td>Advanced Private Instrumental Lessons <sup>g</sup></td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20282" title="MUS 282" class="bubblelink code" onclick="return showCourse(this, 'MUS 282');">MUS 282</a></div></td><td>Advanced Private Voice Lessons <sup>g</sup></td><td class="hourscol"></td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">77-79</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Students must register for <span class="sc_courseinline"><a href="/search/?P=MUS%20110" title="MUS 110" class="bubblelink code" onclick="return showCourse(this, 'MUS 110');">MUS 110</a></span> for four terms.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>Students must register for <span class="sc_courseinline"><a href="/search/?P=MUS%20111" title="MUS 111" class="bubblelink code" onclick="return showCourse(this, 'MUS 111');">MUS 111</a></span> for four terms and perform in one master class in two of those terms.</em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>This course is approved for the Understanding the Creative Arts General Education category.</em></p></td></tr><tr><td valign="top" class="symcol">d</td><td class="notecol"><p><em>This course is approved for the Exploring World Cultures General Education category.</em></p></td></tr><tr><td valign="top" class="symcol">e</td><td class="notecol"><p><em>Vocalists must choose four hours of <span class="sc_courseinline"><a href="/search/?P=MUS%20153" title="MUS 153" class="bubblelink code" onclick="return showCourse(this, 'MUS 153');">MUS 153</a></span> and two hours of <span class="sc_courseinline"><a href="/search/?P=MUS%20154" title="MUS 154" class="bubblelink code" onclick="return showCourse(this, 'MUS 154');">MUS 154</a></span> or <span class="sc_courseinline"><a href="/search/?P=MUS%20155" title="MUS 155" class="bubblelink code" onclick="return showCourse(this, 'MUS 155');">MUS 155</a></span>; wind and percussion students must choose four hours between <span class="sc_courseinline"><a href="/search/?P=MUS%20151" title="MUS 151" class="bubblelink code" onclick="return showCourse(this, 'MUS 151');">MUS 151</a></span> and <span class="sc_courseinline"><a href="/search/?P=MUS%20159" title="MUS 159" class="bubblelink code" onclick="return showCourse(this, 'MUS 159');">MUS 159</a></span>, and two hours between <span class="sc_courseinline"><a href="/search/?P=MUS%20152" title="MUS 152" class="bubblelink code" onclick="return showCourse(this, 'MUS 152');">MUS 152</a></span> and <span class="sc_courseinline"><a href="/search/?P=MUS%20160" title="MUS 160" class="bubblelink code" onclick="return showCourse(this, 'MUS 160');">MUS 160</a></span>; piano, classical guitar, and organ students must complete two hours from <span class="sc_courseinline"><a href="/search/?P=MUS%20152" title="MUS 152" class="bubblelink code" onclick="return showCourse(this, 'MUS 152');">MUS 152</a></span>, and four hours of a large ensemble, excluding <span class="sc_courseinline"><a href="/search/?P=MUS%20156" title="MUS 156" class="bubblelink code" onclick="return showCourse(this, 'MUS 156');">MUS 156</a></span>; string students must choose four hours of <span class="sc_courseinline"><a href="/search/?P=MUS%20157" title="MUS 157" class="bubblelink code" onclick="return showCourse(this, 'MUS 157');">MUS 157</a></span> and two hours of <span class="sc_courseinline"><a href="/search/?P=MUS%20152" title="MUS 152" class="bubblelink code" onclick="return showCourse(this, 'MUS 152');">MUS 152</a></span>.</em></p></td></tr><tr><td valign="top" class="symcol">f</td><td class="notecol"><p><em>Students must register for <span class="sc_courseinline"><a href="/search/?P=MUS%20180" title="MUS 180" class="bubblelink code" onclick="return showCourse(this, 'MUS 180');">MUS 180</a></span> or <span class="sc_courseinline"><a href="/search/?P=MUS%20182" title="MUS 182" class="bubblelink code" onclick="return showCourse(this, 'MUS 182');">MUS 182</a></span> for at least four terms. Both courses require juries or half-recitals; a minimum grade of B is required to remain in the major.</em></p></td></tr><tr><td valign="top" class="symcol">g</td><td class="notecol"><p><em>Students must register for <span class="sc_courseinline"><a href="/search/?P=MUS%20280" title="MUS 280" class="bubblelink code" onclick="return showCourse(this, 'MUS 280');">MUS 280</a></span> or <span class="sc_courseinline"><a href="/search/?P=MUS%20282" title="MUS 282" class="bubblelink code" onclick="return showCourse(this, 'MUS 282');">MUS 282</a></span> for two terms. Both courses require one jury and one full recital. A minimum grade of B in the first term is required to remain in the major.</em></p></td></tr><tr><td valign="top" class="symcol">h</td><td class="notecol"><p><em>This course is approved for the Understanding the Past General Education category. Students who apply <span class="sc_courseinline"><a href="/search/?P=MUS%20114" title="MUS 114" class="bubblelink code" onclick="return showCourse(this, 'MUS 114');">MUS 114</a></span> to the Understanding the Past category need to fulfill the Understanding the Creative Arts category with another course.</em></p></td></tr><tr><td valign="top" class="symcol">i</td><td class="notecol"><p><em>This course is approved for the Understanding the Individual and Society category. Students who apply <span class="sc_courseinline"><a href="/search/?P=MUS%20240" title="MUS 240" class="bubblelink code" onclick="return showCourse(this, 'MUS 240');">MUS 240</a></span> to the Understanding Individual and Society category need to fulfill the Understanding the Creative Arts General Education category with another course.</em></p></td></tr><tr><td valign="top" class="symcol">j</td><td class="notecol"><p><em>Total ensemble hour requirement will be determined by the number of semesters enrolled in the major.</em></p></td></tr></table>
+<h3>Electives</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Electives</span></td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td colspan="2"><span class="courselistcomment">Electives to reach total hours</span> <sup>a</sup></td><td class="hourscol">16-19</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">16-19</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>New freshmen are required to complete <span class="sc_courseinline"><a href="/search/?P=DLG%20120" title="DLG 120" class="bubblelink code" onclick="return showCourse(this, 'DLG 120');">DLG 120</a></span> for one hour. These students will complete 16–19 hours of electives for the BMus in Performance. All other students complete 17–19 hours of electives for the BMus in Performance.</em> </p></td></tr></table>
+<h3>UIC First-Year Dialogue Seminar</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Course</span></td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td class="codecol"><a href="/search/?P=DLG%20120" title="DLG 120" class="bubblelink code" onclick="return showCourse(this, 'DLG 120');">DLG 120</a></td><td>UIC First-Year Dialogue Seminar (Required of new freshmen only)</td><td class="hourscol">1</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">1</td></tr></tbody>
+</table>
+
+<h2>Sample Course Schedule—Bachelor of Music in Performance</h2>
+<table pdfnorepeatheader="true" class="sc_plangrid">
+<caption>Plan of Study Grid</caption><colgroup>
+	<col class="codecol"/>
+	<col class="titlecol"/>
+	<col class="hourscol"/>
+</colgroup>
+<tr class="plangridyear"><th id="plangrid2_0" class="year" colspan="3">Freshman Year</th></tr>
+<tr class="plangridterm"><th id="plangrid2_0_0" colspan="2">Fall Semester</th><th id="hoursheader" scope="col" class="hourscol">Hours</th></tr>
+<tr class="even"><td headers=" plangrid2_0_0" class="codecol"><a href="/search/?P=MUS%20180" title="MUS 180" class="bubblelink code" onclick="return showCourse(this, 'MUS 180');">MUS 180</a></td>
+<td headers=" plangrid2_0_0" class="titlecol">Private Instrumental Lessons</td>
+<td headers="hoursheader" class="hourscol">2</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_0" class="codecol"><a href="/search/?P=MUS%20101" title="MUS 101" class="bubblelink code" onclick="return showCourse(this, 'MUS 101');">MUS 101</a></td>
+<td headers=" plangrid2_0_0" class="titlecol">Music Theory I</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_0" class="codecol"><a href="/search/?P=MUS%20103" title="MUS 103" class="bubblelink code" onclick="return showCourse(this, 'MUS 103');">MUS 103</a></td>
+<td headers=" plangrid2_0_0" class="titlecol">Ear Training I</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_0" colspan="2" class="codecol"><span class="comment">Ensemble</span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_0" colspan="2" class="codecol"><span class="comment">Select one of the following:</span></td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20151" title="MUS 151" class="bubblelink code" onclick="return showCourse(this, 'MUS 151');">MUS 151</a></div></td>
+<td headers=" plangrid2_0_0" class="titlecol">Concert Band</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20153" title="MUS 153" class="bubblelink code" onclick="return showCourse(this, 'MUS 153');">MUS 153</a></div></td>
+<td headers=" plangrid2_0_0" class="titlecol">University Choir</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20157" title="MUS 157" class="bubblelink code" onclick="return showCourse(this, 'MUS 157');">MUS 157</a></div></td>
+<td headers=" plangrid2_0_0" class="titlecol">University Orchestras</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20159" title="MUS 159" class="bubblelink code" onclick="return showCourse(this, 'MUS 159');">MUS 159</a></div></td>
+<td headers=" plangrid2_0_0" class="titlecol">Jazz Ensemble</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_0" class="codecol"><a href="/search/?P=MUS%20110" title="MUS 110" class="bubblelink code" onclick="return showCourse(this, 'MUS 110');">MUS 110</a></td>
+<td headers=" plangrid2_0_0" class="titlecol">Convocation/Recital</td>
+<td headers="hoursheader" class="hourscol">0</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_0" class="codecol"><a href="/search/?P=MUS%20170" title="MUS 170" class="bubblelink code" onclick="return showCourse(this, 'MUS 170');">MUS 170</a></td>
+<td headers=" plangrid2_0_0" class="titlecol">Keyboard Skills I</td>
+<td headers="hoursheader" class="hourscol">2</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_0" class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td>
+<td headers=" plangrid2_0_0" class="titlecol">Academic Writing I: Writing in Academic and Public Contexts</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_0" colspan="2" class="codecol"><span class="comment">General Education Core course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid2_0_0" class="titlecol">Hours</td><td headers=" plangrid2_0_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid2_0_1" colspan="3">Spring Semester</th></tr>
+<tr class="even"><td headers=" plangrid2_0_1" class="codecol"><a href="/search/?P=MUS%20180" title="MUS 180" class="bubblelink code" onclick="return showCourse(this, 'MUS 180');">MUS 180</a></td>
+<td headers=" plangrid2_0_1" class="titlecol">Private Instrumental Lessons</td>
+<td headers="hoursheader" class="hourscol">2</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_1" class="codecol"><a href="/search/?P=MUS%20102" title="MUS 102" class="bubblelink code" onclick="return showCourse(this, 'MUS 102');">MUS 102</a></td>
+<td headers=" plangrid2_0_1" class="titlecol">Music Theory II</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_1" class="codecol"><a href="/search/?P=MUS%20104" title="MUS 104" class="bubblelink code" onclick="return showCourse(this, 'MUS 104');">MUS 104</a></td>
+<td headers=" plangrid2_0_1" class="titlecol">Ear Training II</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_1" class="codecol"><a href="/search/?P=MUS%20110" title="MUS 110" class="bubblelink code" onclick="return showCourse(this, 'MUS 110');">MUS 110</a></td>
+<td headers=" plangrid2_0_1" class="titlecol">Convocation/Recital</td>
+<td headers="hoursheader" class="hourscol">0</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_1" colspan="2" class="codecol"><span class="comment">Ensemble</span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_1" colspan="2" class="codecol"><span class="comment">Select one of the following:</span></td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20151" title="MUS 151" class="bubblelink code" onclick="return showCourse(this, 'MUS 151');">MUS 151</a></div></td>
+<td headers=" plangrid2_0_1" class="titlecol">Concert Band</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20153" title="MUS 153" class="bubblelink code" onclick="return showCourse(this, 'MUS 153');">MUS 153</a></div></td>
+<td headers=" plangrid2_0_1" class="titlecol">University Choir</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20157" title="MUS 157" class="bubblelink code" onclick="return showCourse(this, 'MUS 157');">MUS 157</a></div></td>
+<td headers=" plangrid2_0_1" class="titlecol">University Orchestras</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20159" title="MUS 159" class="bubblelink code" onclick="return showCourse(this, 'MUS 159');">MUS 159</a></div></td>
+<td headers=" plangrid2_0_1" class="titlecol">Jazz Ensemble</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_1" class="codecol"><a href="/search/?P=MUS%20171" title="MUS 171" class="bubblelink code" onclick="return showCourse(this, 'MUS 171');">MUS 171</a></td>
+<td headers=" plangrid2_0_1" class="titlecol">Keyboard Skills II</td>
+<td headers="hoursheader" class="hourscol">2</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_1" class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td>
+<td headers=" plangrid2_0_1" class="titlecol">Academic Writing II: Writing for Inquiry and Research</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_1" colspan="2" class="codecol"><span class="comment">General Education Core course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_1" class="codecol"><a href="/search/?P=DLG%20120" title="DLG 120" class="bubblelink code" onclick="return showCourse(this, 'DLG 120');">DLG 120</a></td>
+<td headers=" plangrid2_0_1" class="titlecol">UIC First-Year Dialogue Seminar (<span class="comment">Required of new freshmen only</span>)</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid2_0_1" class="titlecol">Hours</td><td headers=" plangrid2_0_1 hoursheader" class="hourscol">15-16</td></tr>
+<tr class="plangridyear"><th id="plangrid2_1" class="year" colspan="3">Sophomore Year</th></tr>
+<tr class="plangridterm"><th id="plangrid2_1_0" colspan="3">Fall Semester</th></tr>
+<tr class="odd"><td headers=" plangrid2_1_0" class="codecol"><a href="/search/?P=MUS%20180" title="MUS 180" class="bubblelink code" onclick="return showCourse(this, 'MUS 180');">MUS 180</a></td>
+<td headers=" plangrid2_1_0" class="titlecol">Private Instrumental Lessons</td>
+<td headers="hoursheader" class="hourscol">2</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_1_0" class="codecol"><a href="/search/?P=MUS%20110" title="MUS 110" class="bubblelink code" onclick="return showCourse(this, 'MUS 110');">MUS 110</a></td>
+<td headers=" plangrid2_1_0" class="titlecol">Convocation/Recital</td>
+<td headers="hoursheader" class="hourscol">0</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_0" colspan="2" class="codecol"><span class="comment">Ensemble</span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_1_0" colspan="2" class="codecol"><span class="comment">Select one of the following:</span></td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20151" title="MUS 151" class="bubblelink code" onclick="return showCourse(this, 'MUS 151');">MUS 151</a></div></td>
+<td headers=" plangrid2_1_0" class="titlecol">Concert Band</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_1_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20153" title="MUS 153" class="bubblelink code" onclick="return showCourse(this, 'MUS 153');">MUS 153</a></div></td>
+<td headers=" plangrid2_1_0" class="titlecol">University Choir</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20157" title="MUS 157" class="bubblelink code" onclick="return showCourse(this, 'MUS 157');">MUS 157</a></div></td>
+<td headers=" plangrid2_1_0" class="titlecol">University Orchestras</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_1_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20159" title="MUS 159" class="bubblelink code" onclick="return showCourse(this, 'MUS 159');">MUS 159</a></div></td>
+<td headers=" plangrid2_1_0" class="titlecol">Jazz Ensemble</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_0" class="codecol"><a href="/search/?P=MUS%20201" title="MUS 201" class="bubblelink code" onclick="return showCourse(this, 'MUS 201');">MUS 201</a></td>
+<td headers=" plangrid2_1_0" class="titlecol">Theory of Music III</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_1_0" class="codecol"><a href="/search/?P=MUS%20203" title="MUS 203" class="bubblelink code" onclick="return showCourse(this, 'MUS 203');">MUS 203</a></td>
+<td headers=" plangrid2_1_0" class="titlecol">Ear Training III</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_0" class="codecol"><a href="/search/?P=MUS%20270" title="MUS 270" class="bubblelink code" onclick="return showCourse(this, 'MUS 270');">MUS 270</a></td>
+<td headers=" plangrid2_1_0" class="titlecol">Keyboard Skills III</td>
+<td headers="hoursheader" class="hourscol">2</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_1_0" class="codecol"><a href="/search/?P=MUS%20223" title="MUS 223" class="bubblelink code" onclick="return showCourse(this, 'MUS 223');">MUS 223</a></td>
+<td headers=" plangrid2_1_0" class="titlecol">Music Technology</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_0" colspan="2" class="codecol"><span class="comment">General Education Core course</span></td>
+<td headers="hoursheader" class="hourscol">5</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid2_1_0" class="titlecol">Hours</td><td headers=" plangrid2_1_0 hoursheader" class="hourscol">17</td></tr>
+<tr class="plangridterm"><th id="plangrid2_1_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid2_1_1" class="codecol"><a href="/search/?P=MUS%20180" title="MUS 180" class="bubblelink code" onclick="return showCourse(this, 'MUS 180');">MUS 180</a></td>
+<td headers=" plangrid2_1_1" class="titlecol">Private Instrumental Lessons</td>
+<td headers="hoursheader" class="hourscol">2</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_1_1" class="codecol"><a href="/search/?P=MUS%20110" title="MUS 110" class="bubblelink code" onclick="return showCourse(this, 'MUS 110');">MUS 110</a></td>
+<td headers=" plangrid2_1_1" class="titlecol">Convocation/Recital</td>
+<td headers="hoursheader" class="hourscol">0</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_1" class="codecol"><a href="/search/?P=MUS%20202" title="MUS 202" class="bubblelink code" onclick="return showCourse(this, 'MUS 202');">MUS 202</a></td>
+<td headers=" plangrid2_1_1" class="titlecol">Theory of Music IV</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_1_1" class="codecol"><a href="/search/?P=MUS%20204" title="MUS 204" class="bubblelink code" onclick="return showCourse(this, 'MUS 204');">MUS 204</a></td>
+<td headers=" plangrid2_1_1" class="titlecol">Ear Training IV</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_1" class="codecol"><a href="/search/?P=MUS%20271" title="MUS 271" class="bubblelink code" onclick="return showCourse(this, 'MUS 271');">MUS 271</a></td>
+<td headers=" plangrid2_1_1" class="titlecol">Keyboard Skills IV</td>
+<td headers="hoursheader" class="hourscol">2</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_1_1" class="codecol"><a href="/search/?P=MUS%20230" title="MUS 230" class="bubblelink code" onclick="return showCourse(this, 'MUS 230');">MUS 230</a></td>
+<td headers=" plangrid2_1_1" class="titlecol">Music History I</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_1" colspan="2" class="codecol"><span class="comment">Ensemble</span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_1_1" colspan="2" class="codecol"><span class="comment">Select one of the following:</span></td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20151" title="MUS 151" class="bubblelink code" onclick="return showCourse(this, 'MUS 151');">MUS 151</a></div></td>
+<td headers=" plangrid2_1_1" class="titlecol">Concert Band</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_1_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20153" title="MUS 153" class="bubblelink code" onclick="return showCourse(this, 'MUS 153');">MUS 153</a></div></td>
+<td headers=" plangrid2_1_1" class="titlecol">University Choir</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20157" title="MUS 157" class="bubblelink code" onclick="return showCourse(this, 'MUS 157');">MUS 157</a></div></td>
+<td headers=" plangrid2_1_1" class="titlecol">University Orchestras</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_1_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20159" title="MUS 159" class="bubblelink code" onclick="return showCourse(this, 'MUS 159');">MUS 159</a></div></td>
+<td headers=" plangrid2_1_1" class="titlecol">Jazz Ensemble</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_1" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid2_1_1" class="titlecol">Hours</td><td headers=" plangrid2_1_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridyear"><th id="plangrid2_2" class="year" colspan="3">Junior Year</th></tr>
+<tr class="plangridterm"><th id="plangrid2_2_0" colspan="3">Fall Semester</th></tr>
+<tr class="odd"><td headers=" plangrid2_2_0" class="codecol"><a href="/search/?P=MUS%20111" title="MUS 111" class="bubblelink code" onclick="return showCourse(this, 'MUS 111');">MUS 111</a></td>
+<td headers=" plangrid2_2_0" class="titlecol">Master Class in Performance</td>
+<td headers="hoursheader" class="hourscol">0</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_2_0" class="codecol"><a href="/search/?P=MUS%20231" title="MUS 231" class="bubblelink code" onclick="return showCourse(this, 'MUS 231');">MUS 231</a></td>
+<td headers=" plangrid2_2_0" class="titlecol">Music History II</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_2_0" class="codecol"><a href="/search/?P=MUS%20300" title="MUS 300" class="bubblelink code" onclick="return showCourse(this, 'MUS 300');">MUS 300</a></td>
+<td headers=" plangrid2_2_0" class="titlecol">Counterpoint</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_2_0" colspan="2" class="codecol"><span class="comment">Select one of the following:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20113" title="MUS 113" class="bubblelink code" onclick="return showCourse(this, 'MUS 113');">MUS 113</a></div></td>
+<td headers=" plangrid2_2_0" class="titlecol">Art Song</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20114" title="MUS 114" class="bubblelink code" onclick="return showCourse(this, 'MUS 114');">MUS 114</a></div></td>
+<td headers=" plangrid2_2_0" class="titlecol">Jazz History</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20115" title="MUS 115" class="bubblelink code" onclick="return showCourse(this, 'MUS 115');">MUS 115</a></div></td>
+<td headers=" plangrid2_2_0" class="titlecol">Opera</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20117" title="MUS 117" class="bubblelink code" onclick="return showCourse(this, 'MUS 117');">MUS 117</a></div></td>
+<td headers=" plangrid2_2_0" class="titlecol">Music for Symphony Orchestra</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20119" title="MUS 119" class="bubblelink code" onclick="return showCourse(this, 'MUS 119');">MUS 119</a></div></td>
+<td headers=" plangrid2_2_0" class="titlecol">Music for the Piano</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20240" title="MUS 240" class="bubblelink code" onclick="return showCourse(this, 'MUS 240');">MUS 240</a></div></td>
+<td headers=" plangrid2_2_0" class="titlecol">Music, Gender and Culture</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_2_0" colspan="2" class="codecol"><span class="comment">Ensemble</span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_2_0" colspan="2" class="codecol"><span class="comment">Select one of the following:</span></td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20152" title="MUS 152" class="bubblelink code" onclick="return showCourse(this, 'MUS 152');">MUS 152</a></div></td>
+<td headers=" plangrid2_2_0" class="titlecol">Instrumental Ensembles</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20154" title="MUS 154" class="bubblelink code" onclick="return showCourse(this, 'MUS 154');">MUS 154</a></div></td>
+<td headers=" plangrid2_2_0" class="titlecol">Chamber Choir</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20155" title="MUS 155" class="bubblelink code" onclick="return showCourse(this, 'MUS 155');">MUS 155</a></div></td>
+<td headers=" plangrid2_2_0" class="titlecol">Women's Choral Ensemble</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20160" title="MUS 160" class="bubblelink code" onclick="return showCourse(this, 'MUS 160');">MUS 160</a></div></td>
+<td headers=" plangrid2_2_0" class="titlecol">Small Jazz Ensemble</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_2_0" colspan="2" class="codecol"><span class="comment">Composition, Conducting, or Orchestration</span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_2_0" colspan="2" class="codecol"><span class="comment">Select one of the following:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20302" title="MUS 302" class="bubblelink code" onclick="return showCourse(this, 'MUS 302');">MUS 302</a></div></td>
+<td headers=" plangrid2_2_0" class="titlecol">Composition I</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20303" title="MUS 303" class="bubblelink code" onclick="return showCourse(this, 'MUS 303');">MUS 303</a></div></td>
+<td headers=" plangrid2_2_0" class="titlecol">Composition II</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20304" title="MUS 304" class="bubblelink code" onclick="return showCourse(this, 'MUS 304');">MUS 304</a></div></td>
+<td headers=" plangrid2_2_0" class="titlecol">Conducting</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20306" title="MUS 306" class="bubblelink code" onclick="return showCourse(this, 'MUS 306');">MUS 306</a></div></td>
+<td headers=" plangrid2_2_0" class="titlecol">Orchestration and Arranging I</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20307" title="MUS 307" class="bubblelink code" onclick="return showCourse(this, 'MUS 307');">MUS 307</a></div></td>
+<td headers=" plangrid2_2_0" class="titlecol">Orchestration and Arranging II</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20330" title="MUS 330" class="bubblelink code" onclick="return showCourse(this, 'MUS 330');">MUS 330</a></div></td>
+<td headers=" plangrid2_2_0" class="titlecol">Advanced Topics in Music History and Ethnomusicology</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_2_0" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid2_2_0" class="titlecol">Hours</td><td headers=" plangrid2_2_0 hoursheader" class="hourscol">16</td></tr>
+<tr class="plangridterm"><th id="plangrid2_2_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid2_2_1" class="codecol"><a href="/search/?P=MUS%20111" title="MUS 111" class="bubblelink code" onclick="return showCourse(this, 'MUS 111');">MUS 111</a></td>
+<td headers=" plangrid2_2_1" class="titlecol">Master Class in Performance</td>
+<td headers="hoursheader" class="hourscol">0</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_2_1" class="codecol"><a href="/search/?P=MUS%20232" title="MUS 232" class="bubblelink code" onclick="return showCourse(this, 'MUS 232');">MUS 232</a></td>
+<td headers=" plangrid2_2_1" class="titlecol">Music History III</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_2_1" class="codecol"><a href="/search/?P=MUS%20301" title="MUS 301" class="bubblelink code" onclick="return showCourse(this, 'MUS 301');">MUS 301</a></td>
+<td headers=" plangrid2_2_1" class="titlecol">Analytic Techniques</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_2_1" colspan="2" class="codecol"><span class="comment">Ensemble</span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_2_1" colspan="2" class="codecol"><span class="comment">Select one of the following:</span></td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20152" title="MUS 152" class="bubblelink code" onclick="return showCourse(this, 'MUS 152');">MUS 152</a></div></td>
+<td headers=" plangrid2_2_1" class="titlecol">Instrumental Ensembles</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20154" title="MUS 154" class="bubblelink code" onclick="return showCourse(this, 'MUS 154');">MUS 154</a></div></td>
+<td headers=" plangrid2_2_1" class="titlecol">Chamber Choir</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20155" title="MUS 155" class="bubblelink code" onclick="return showCourse(this, 'MUS 155');">MUS 155</a></div></td>
+<td headers=" plangrid2_2_1" class="titlecol">Women's Choral Ensemble</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20160" title="MUS 160" class="bubblelink code" onclick="return showCourse(this, 'MUS 160');">MUS 160</a></div></td>
+<td headers=" plangrid2_2_1" class="titlecol">Small Jazz Ensemble</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_2_1" colspan="2" class="codecol"><span class="comment">One additional course chosen from Composition, Conducting, or Orchestration</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_2_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid2_2_1" class="titlecol">Hours</td><td headers=" plangrid2_2_1 hoursheader" class="hourscol">14</td></tr>
+<tr class="plangridyear"><th id="plangrid2_3" class="year" colspan="3">Senior Year</th></tr>
+<tr class="plangridterm"><th id="plangrid2_3_0" colspan="3">Fall Semester</th></tr>
+<tr class="odd"><td headers=" plangrid2_3_0" class="codecol"><a href="/search/?P=MUS%20111" title="MUS 111" class="bubblelink code" onclick="return showCourse(this, 'MUS 111');">MUS 111</a></td>
+<td headers=" plangrid2_3_0" class="titlecol">Master Class in Performance</td>
+<td headers="hoursheader" class="hourscol">0</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_3_0" class="codecol"><a href="/search/?P=MUS%20280" title="MUS 280" class="bubblelink code" onclick="return showCourse(this, 'MUS 280');">MUS 280</a></td>
+<td headers=" plangrid2_3_0" class="titlecol">Advanced Private Instrumental Lessons</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_3_0" colspan="2" class="codecol"><span class="comment">Ensemble</span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_3_0" colspan="2" class="codecol"><span class="comment">Select one of the following:</span></td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_3_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20151" title="MUS 151" class="bubblelink code" onclick="return showCourse(this, 'MUS 151');">MUS 151</a></div></td>
+<td headers=" plangrid2_3_0" class="titlecol">Concert Band</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_3_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20152" title="MUS 152" class="bubblelink code" onclick="return showCourse(this, 'MUS 152');">MUS 152</a></div></td>
+<td headers=" plangrid2_3_0" class="titlecol">Instrumental Ensembles</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_3_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20153" title="MUS 153" class="bubblelink code" onclick="return showCourse(this, 'MUS 153');">MUS 153</a></div></td>
+<td headers=" plangrid2_3_0" class="titlecol">University Choir</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_3_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20154" title="MUS 154" class="bubblelink code" onclick="return showCourse(this, 'MUS 154');">MUS 154</a></div></td>
+<td headers=" plangrid2_3_0" class="titlecol">Chamber Choir</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_3_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20155" title="MUS 155" class="bubblelink code" onclick="return showCourse(this, 'MUS 155');">MUS 155</a></div></td>
+<td headers=" plangrid2_3_0" class="titlecol">Women's Choral Ensemble</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_3_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20157" title="MUS 157" class="bubblelink code" onclick="return showCourse(this, 'MUS 157');">MUS 157</a></div></td>
+<td headers=" plangrid2_3_0" class="titlecol">University Orchestras</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_3_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20159" title="MUS 159" class="bubblelink code" onclick="return showCourse(this, 'MUS 159');">MUS 159</a></div></td>
+<td headers=" plangrid2_3_0" class="titlecol">Jazz Ensemble</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_3_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20160" title="MUS 160" class="bubblelink code" onclick="return showCourse(this, 'MUS 160');">MUS 160</a></div></td>
+<td headers=" plangrid2_3_0" class="titlecol">Small Jazz Ensemble</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_3_0" colspan="2" class="codecol"><span class="comment">General Education Core course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_3_0" colspan="2" class="codecol"><span class="comment">General Education Core course</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_3_0" class="codecol"><a href="/search/?P=MUS%20227" title="MUS 227" class="bubblelink code" onclick="return showCourse(this, 'MUS 227');">MUS 227</a></td>
+<td headers=" plangrid2_3_0" class="titlecol">Music Cultures of the World</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_3_0" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid2_3_0" class="titlecol">Hours</td><td headers=" plangrid2_3_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid2_3_1" colspan="3">Spring Semester</th></tr>
+<tr class="even"><td headers=" plangrid2_3_1" class="codecol"><a href="/search/?P=MUS%20111" title="MUS 111" class="bubblelink code" onclick="return showCourse(this, 'MUS 111');">MUS 111</a></td>
+<td headers=" plangrid2_3_1" class="titlecol">Master Class in Performance</td>
+<td headers="hoursheader" class="hourscol">0</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_3_1" class="codecol"><a href="/search/?P=MUS%20280" title="MUS 280" class="bubblelink code" onclick="return showCourse(this, 'MUS 280');">MUS 280</a></td>
+<td headers=" plangrid2_3_1" class="titlecol">Advanced Private Instrumental Lessons</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_3_1" colspan="2" class="codecol"><span class="comment">Ensemble</span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_3_1" colspan="2" class="codecol"><span class="comment">Select one of the following:</span></td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20151" title="MUS 151" class="bubblelink code" onclick="return showCourse(this, 'MUS 151');">MUS 151</a></div></td>
+<td headers=" plangrid2_3_1" class="titlecol">Concert Band</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20152" title="MUS 152" class="bubblelink code" onclick="return showCourse(this, 'MUS 152');">MUS 152</a></div></td>
+<td headers=" plangrid2_3_1" class="titlecol">Instrumental Ensembles</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20153" title="MUS 153" class="bubblelink code" onclick="return showCourse(this, 'MUS 153');">MUS 153</a></div></td>
+<td headers=" plangrid2_3_1" class="titlecol">University Choir</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20154" title="MUS 154" class="bubblelink code" onclick="return showCourse(this, 'MUS 154');">MUS 154</a></div></td>
+<td headers=" plangrid2_3_1" class="titlecol">Chamber Choir</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20155" title="MUS 155" class="bubblelink code" onclick="return showCourse(this, 'MUS 155');">MUS 155</a></div></td>
+<td headers=" plangrid2_3_1" class="titlecol">Women's Choral Ensemble</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20157" title="MUS 157" class="bubblelink code" onclick="return showCourse(this, 'MUS 157');">MUS 157</a></div></td>
+<td headers=" plangrid2_3_1" class="titlecol">University Orchestras</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20159" title="MUS 159" class="bubblelink code" onclick="return showCourse(this, 'MUS 159');">MUS 159</a></div></td>
+<td headers=" plangrid2_3_1" class="titlecol">Jazz Ensemble</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20160" title="MUS 160" class="bubblelink code" onclick="return showCourse(this, 'MUS 160');">MUS 160</a></div></td>
+<td headers=" plangrid2_3_1" class="titlecol">Small Jazz Ensemble</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_3_1" colspan="2" class="codecol"><span class="comment">Select one of the following:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20113" title="MUS 113" class="bubblelink code" onclick="return showCourse(this, 'MUS 113');">MUS 113</a></div></td>
+<td headers=" plangrid2_3_1" class="titlecol">Art Song</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20114" title="MUS 114" class="bubblelink code" onclick="return showCourse(this, 'MUS 114');">MUS 114</a></div></td>
+<td headers=" plangrid2_3_1" class="titlecol">Jazz History</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20115" title="MUS 115" class="bubblelink code" onclick="return showCourse(this, 'MUS 115');">MUS 115</a></div></td>
+<td headers=" plangrid2_3_1" class="titlecol">Opera</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20117" title="MUS 117" class="bubblelink code" onclick="return showCourse(this, 'MUS 117');">MUS 117</a></div></td>
+<td headers=" plangrid2_3_1" class="titlecol">Music for Symphony Orchestra</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20119" title="MUS 119" class="bubblelink code" onclick="return showCourse(this, 'MUS 119');">MUS 119</a></div></td>
+<td headers=" plangrid2_3_1" class="titlecol">Music for the Piano</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20240" title="MUS 240" class="bubblelink code" onclick="return showCourse(this, 'MUS 240');">MUS 240</a></div></td>
+<td headers=" plangrid2_3_1" class="titlecol">Music, Gender and Culture</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_3_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">6</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid2_3_1" class="titlecol">Hours</td><td headers=" plangrid2_3_1 hoursheader" class="hourscol">13</td></tr>
+<tr class="plangridtotal lastrow odd"><td> </td><td>Total Hours</td><td headers="hoursheader" class="hourscol">120</td></tr>
+</table></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="bmus-perf.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,698 @@
+https://catalog.uic.edu/all-course-descriptions/mktg/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Marketing (MKTG) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="isparent"><a href="/ucat/">Undergraduate Catalog</a></li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="active isparent"><a href="/all-course-descriptions/">All Course Descriptions</a>
+	<ul class="nav levelone" id="/all-course-descriptions/">
+		<li><a href="/all-course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+		<li><a href="/all-course-descriptions/actg/">Accounting (ACTG)</a></li>
+		<li><a href="/all-course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+		<li><a href="/all-course-descriptions/anth/">Anthropology (ANTH)</a></li>
+		<li><a href="/all-course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+		<li><a href="/all-course-descriptions/arab/">Arabic (ARAB)</a></li>
+		<li><a href="/all-course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+		<li><a href="/all-course-descriptions/arch/">Architecture (ARCH)</a></li>
+		<li><a href="/all-course-descriptions/art/">Art (ART)</a></li>
+		<li><a href="/all-course-descriptions/ah/">Art History (AH)</a></li>
+		<li><a href="/all-course-descriptions/bms/">Basic Medical Sciences (BMS)</a></li>
+		<li><a href="/all-course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+		<li><a href="/all-course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+		<li><a href="/all-course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+		<li><a href="/all-course-descriptions/bvis/">Biomedical Visualization (BVIS)</a></li>
+		<li><a href="/all-course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+		<li><a href="/all-course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+		<li><a href="/all-course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+		<li><a href="/all-course-descriptions/blst/">Black Studies (BLST)</a></li>
+		<li><a href="/all-course-descriptions/ba/">Business Administration (BA)</a></li>
+		<li><a href="/all-course-descriptions/cc/">Campus Courses (CC)</a></li>
+		<li><a href="/all-course-descriptions/cst/">Catholic Studies (CST)</a></li>
+		<li><a href="/all-course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+		<li><a href="/all-course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+		<li><a href="/all-course-descriptions/chem/">Chemistry (CHEM)</a></li>
+		<li><a href="/all-course-descriptions/chin/">Chinese (CHIN)</a></li>
+		<li><a href="/all-course-descriptions/cd/">City Design (CD)</a></li>
+		<li><a href="/all-course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+		<li><a href="/all-course-descriptions/cl/">Classics (CL)</a></li>
+		<li><a href="/all-course-descriptions/cler/">Clerkship -&#8203; Medicine (CLER)</a></li>
+		<li><a href="/all-course-descriptions/cele/">Clerkship Electives -&#8203; Chicago (CELE)</a></li>
+		<li><a href="/all-course-descriptions/pele/">Clerkship Electives -&#8203; Peoria (PELE)</a></li>
+		<li><a href="/all-course-descriptions/rele/">Clerkship Electives -&#8203; Rockford (RELE)</a></li>
+		<li><a href="/all-course-descriptions/uele/">Clerkship Electives -&#8203; Urbana (UELE)</a></li>
+		<li><a href="/all-course-descriptions/comm/">Communication (COMM)</a></li>
+		<li><a href="/all-course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+		<li><a href="/all-course-descriptions/cs/">Computer Science (CS)</a></li>
+		<li><a href="/all-course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+		<li><a href="/all-course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+		<li><a href="/all-course-descriptions/dadm/">Dental Administration (DADM)</a></li>
+		<li><a href="/all-course-descriptions/daob/">Dentistry -&#8203; Applied Oral and Behavioral Sciences (DAOB)</a></li>
+		<li><a href="/all-course-descriptions/dbcs/">Dentistry -&#8203; Biomedical and Clinical Sciences (DBCS)</a></li>
+		<li><a href="/all-course-descriptions/dcle/">Dentistry -&#8203; Community Learning Experience (DCLE)</a></li>
+		<li><a href="/all-course-descriptions/dosi/">Dentistry -&#8203; Oral/&#8203;Systemic Issues (DOSI)</a></li>
+		<li><a href="/all-course-descriptions/dost/">Dentistry -&#8203; Oral/&#8203;Systemic Topics (DOST)</a></li>
+		<li><a href="/all-course-descriptions/des/">Design (DES)</a></li>
+		<li><a href="/all-course-descriptions/dlg/">Dialogue (DLG)</a></li>
+		<li><a href="/all-course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+		<li><a href="/all-course-descriptions/mdc/">Doctor of Medicine—Chicago (MDC)</a></li>
+		<li><a href="/all-course-descriptions/mdp/">Doctor of Medicine—Peoria (MDP)</a></li>
+		<li><a href="/all-course-descriptions/mdr/">Doctor of Medicine—Rockford (MDR)</a></li>
+		<li><a href="/all-course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+		<li><a href="/all-course-descriptions/econ/">Economics (ECON)</a></li>
+		<li><a href="/all-course-descriptions/ed/">Education (ED)</a></li>
+		<li><a href="/all-course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+		<li><a href="/all-course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+		<li><a href="/all-course-descriptions/ece/">Electrical and Computer Engineering (ECE)</a></li>
+		<li><a href="/all-course-descriptions/eb/">Employee Benefits (EB)</a></li>
+		<li><a href="/all-course-descriptions/endo/">Endodontics (ENDO)</a></li>
+		<li><a href="/all-course-descriptions/ener/">Energy Engineering (ENER)</a></li>
+		<li><a href="/all-course-descriptions/engr/">Engineering (ENGR)</a></li>
+		<li><a href="/all-course-descriptions/engl/">English (ENGL)</a></li>
+		<li><a href="/all-course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+		<li><a href="/all-course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+		<li><a href="/all-course-descriptions/eohs/">Environmental and Occupational Health Sciences (EOHS)</a></li>
+		<li><a href="/all-course-descriptions/epid/">Epidemiology (EPID)</a></li>
+		<li><a href="/all-course-descriptions/epl/">Estate Planning (EPL)</a></li>
+		<li><a href="/all-course-descriptions/fin/">Finance (FIN)</a></li>
+		<li><a href="/all-course-descriptions/fr/">French (FR)</a></li>
+		<li><a href="/all-course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+		<li><a href="/all-course-descriptions/geog/">Geography (GEOG)</a></li>
+		<li><a href="/all-course-descriptions/ger/">Germanic Studies (GER)</a></li>
+		<li><a href="/all-course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+		<li><a href="/all-course-descriptions/gc/">Graduate College (GC)</a></li>
+		<li><a href="/all-course-descriptions/gems/">Graduate Education in Medical Sciences (GEMS)</a></li>
+		<li><a href="/all-course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+		<li><a href="/all-course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+		<li><a href="/all-course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+		<li><a href="/all-course-descriptions/him/">Health Information Management (HIM)</a></li>
+		<li><a href="/all-course-descriptions/hpa/">Health Policy and Administration (HPA)</a></li>
+		<li><a href="/all-course-descriptions/hlp/">Healthy Living Practitioner™ (HLP)</a></li>
+		<li><a href="/all-course-descriptions/heb/">Hebrew (HEB)</a></li>
+		<li><a href="/all-course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+		<li><a href="/all-course-descriptions/hstl/">Histology (HSTL)</a></li>
+		<li><a href="/all-course-descriptions/hist/">History (HIST)</a></li>
+		<li><a href="/all-course-descriptions/hon/">Honors College (HON)</a></li>
+		<li><a href="/all-course-descriptions/hn/">Human Nutrition (HN)</a></li>
+		<li><a href="/all-course-descriptions/hum/">Humanities (HUM)</a></li>
+		<li><a href="/all-course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+		<li><a href="/all-course-descriptions/it/">Information Technology (IT)</a></li>
+		<li><a href="/all-course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+		<li><a href="/all-course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+		<li><a href="/all-course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+		<li><a href="/all-course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+		<li><a href="/all-course-descriptions/ip/">Intellectual Property (IP)</a></li>
+		<li><a href="/all-course-descriptions/ibt/">International Business and Trade (IBT)</a></li>
+		<li><a href="/all-course-descriptions/inst/">International Studies (INST)</a></li>
+		<li><a href="/all-course-descriptions/ital/">Italian (ITAL)</a></li>
+		<li><a href="/all-course-descriptions/jpn/">Japanese (JPN)</a></li>
+		<li><a href="/all-course-descriptions/jst/">Jewish Studies (JST)</a></li>
+		<li><a href="/all-course-descriptions/jd/">Juris Doctor (JD)</a></li>
+		<li><a href="/all-course-descriptions/kn/">Kinesiology (KN)</a></li>
+		<li><a href="/all-course-descriptions/kor/">Korean (KOR)</a></li>
+		<li><a href="/all-course-descriptions/lat/">Latin (LAT)</a></li>
+		<li><a href="/all-course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+		<li><a href="/all-course-descriptions/law/">Law (LAW)</a></li>
+		<li><a href="/all-course-descriptions/lrsc/">Learning Sciences (LRSC)</a></li>
+		<li><a href="/all-course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+		<li><a href="/all-course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+		<li><a href="/all-course-descriptions/ling/">Linguistics (LING)</a></li>
+		<li><a href="/all-course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+		<li><a href="/all-course-descriptions/lith/">Lithuanian (LITH)</a></li>
+		<li><a href="/all-course-descriptions/mgmt/">Management (MGMT)</a></li>
+		<li class="active self"><a href="#" onclick="return false;">Marketing (MKTG)</a></li>
+		<li><a href="/all-course-descriptions/mba/">Master of Business Administration (MBA)</a></li>
+		<li><a href="/all-course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+		<li><a href="/all-course-descriptions/mj/">Master of Jurisprudence (MJ)</a></li>
+		<li><a href="/all-course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+		<li><a href="/all-course-descriptions/math/">Mathematics (MATH)</a></li>
+		<li><a href="/all-course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+		<li><a href="/all-course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+		<li><a href="/all-course-descriptions/mbt/">Medical Biotechnology (MBT)</a></li>
+		<li><a href="/all-course-descriptions/mhpe/">Medical Education (MHPE)</a></li>
+		<li><a href="/all-course-descriptions/mhum/">Medical Humanities (MHUM)</a></li>
+		<li><a href="/all-course-descriptions/mdch/">Medicinal Chemistry (MDCH)</a></li>
+		<li><a href="/all-course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+		<li><a href="/all-course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+		<li><a href="/all-course-descriptions/mils/">Military Science (MILS)</a></li>
+		<li><a href="/all-course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+		<li><a href="/all-course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+		<li><a href="/all-course-descriptions/mus/">Music (MUS)</a></li>
+		<li><a href="/all-course-descriptions/nast/">Native American Studies (NAST)</a></li>
+		<li><a href="/all-course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+		<li><a href="/all-course-descriptions/ns/">Naval Science (NS)</a></li>
+		<li><a href="/all-course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+		<li><a href="/all-course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+		<li><a href="/all-course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+		<li><a href="/all-course-descriptions/nupr/">Nursing Practicum (NUPR)</a></li>
+		<li><a href="/all-course-descriptions/nusp/">Nursing Specialty (NUSP)</a></li>
+		<li><a href="/all-course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+		<li><a href="/all-course-descriptions/omds/">Oral Medicine and Diagnostic Sciences (OMDS)</a></li>
+		<li><a href="/all-course-descriptions/osci/">Oral Sciences (OSCI)</a></li>
+		<li><a href="/all-course-descriptions/osur/">Oral and Maxillofacial Surgery (OSUR)</a></li>
+		<li><a href="/all-course-descriptions/ortd/">Orthodontics (ORTD)</a></li>
+		<li><a href="/all-course-descriptions/path/">Pathology (PATH)</a></li>
+		<li><a href="/all-course-descriptions/psl/">Patient Safety Leadership (PSL)</a></li>
+		<li><a href="/all-course-descriptions/pedd/">Pediatric Dentistry (PEDD)</a></li>
+		<li><a href="/all-course-descriptions/peri/">Periodontics (PERI)</a></li>
+		<li><a href="/all-course-descriptions/psci/">Pharmaceutical Sciences (PSCI)</a></li>
+		<li><a href="/all-course-descriptions/pmpg/">Pharmacognosy (PMPG)</a></li>
+		<li><a href="/all-course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+		<li><a href="/all-course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+		<li><a href="/all-course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+		<li><a href="/all-course-descriptions/psop/">Pharmacy Systems, Outcomes, and Policy (PSOP)</a></li>
+		<li><a href="/all-course-descriptions/phil/">Philosophy (PHIL)</a></li>
+		<li><a href="/all-course-descriptions/pt/">Physical Therapy (PT)</a></li>
+		<li><a href="/all-course-descriptions/phys/">Physics (PHYS)</a></li>
+		<li><a href="/all-course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+		<li><a href="/all-course-descriptions/pol/">Polish (POL)</a></li>
+		<li><a href="/all-course-descriptions/pols/">Political Science (POLS)</a></li>
+		<li><a href="/all-course-descriptions/port/">Portuguese (PORT)</a></li>
+		<li><a href="/all-course-descriptions/prcl/">Preclinical Medicine (PRCL)</a></li>
+		<li><a href="/all-course-descriptions/ptl/">Privacy and Technology Law (PTL)</a></li>
+		<li><a href="/all-course-descriptions/pros/">Prosthodontics (PROS)</a></li>
+		<li><a href="/all-course-descriptions/psch/">Psychology (PSCH)</a></li>
+		<li><a href="/all-course-descriptions/pa/">Public Administration (PA)</a></li>
+		<li><a href="/all-course-descriptions/pubh/">Public Health (PUBH)</a></li>
+		<li><a href="/all-course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+		<li><a href="/all-course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+		<li><a href="/all-course-descriptions/re/">Real Estate (RE)</a></li>
+		<li><a href="/all-course-descriptions/rels/">Religious Studies (RELS)</a></li>
+		<li><a href="/all-course-descriptions/rest/">Restorative Dentistry (REST)</a></li>
+		<li><a href="/all-course-descriptions/russ/">Russian (RUSS)</a></li>
+		<li><a href="/all-course-descriptions/slav/">Slavic and Baltic Languages and Literatures (SLAV)</a></li>
+		<li><a href="/all-course-descriptions/sj/">Social Justice (SJ)</a></li>
+		<li><a href="/all-course-descriptions/socw/">Social Work (SOCW)</a></li>
+		<li><a href="/all-course-descriptions/soc/">Sociology (SOC)</a></li>
+		<li><a href="/all-course-descriptions/span/">Spanish (SPAN)</a></li>
+		<li><a href="/all-course-descriptions/sped/">Special Education (SPED)</a></li>
+		<li><a href="/all-course-descriptions/spec/">Specialty Medicine (SPEC)</a></li>
+		<li><a href="/all-course-descriptions/stat/">Statistics (STAT)</a></li>
+		<li><a href="/all-course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+		<li><a href="/all-course-descriptions/surg/">Surgery (SURG)</a></li>
+		<li><a href="/all-course-descriptions/tx/">Taxation (TX)</a></li>
+		<li><a href="/all-course-descriptions/thtr/">Theatre (THTR)</a></li>
+		<li><a href="/all-course-descriptions/tadr/">Trial Advocacy and Dispute Resolution (TADR)</a></li>
+		<li><a href="/all-course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+		<li><a href="/all-course-descriptions/us/">Urban Studies (US)</a></li>
+		<li><a href="/all-course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+		<li><a href="/all-course-descriptions/usl/">US Legal Studies (USL)</a></li>
+	</ul>
+	</li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/all-course-descriptions/">All&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Marketing (MKTG)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Marketing (MKTG)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="mktgcourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;360.  Introduction to Marketing.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The role of marketing in business and society. The marketing decision process in domestic and international settings. Required of all students in the College of Business Administration. Course Information: Prerequisite(s): <a href="/search/?P=ENGL%20161" title="ENGL&#160;161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL&#160;161</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;370.  Quantitative Marketing Skills.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Foundational knowledge in the quantitative analysis of marketing problems and marketing research methods. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;452.  Principles of Retailing.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The theory and practice of making retailing decisions regarding pricing, product, place and promotion, and the development of strategy based on market competition and trends.  Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;455.  Multichannel Retailing.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The role of multichannel retail strategies: the development and management of successful online retail models and the coordination of retail activities across multiple platforms and physical stores. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;458.  Digital Marketing Research.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Covers advanced methodologies in market research and data analysis in digital platforms. This includes qualitative and quantitative techniques to understand and analyze data collected from the web and social media. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a> and <a href="/search/?P=MKTG%20462" title="MKTG&#160;462" class="bubblelink code" onclick="return showCourse(this, 'MKTG 462');">MKTG&#160;462</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;459.  Marketing Insights Qual Rsrch.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Applications of qualitative research methods to marketing problems. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;460.  Marketing Analytics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to data-centered analysis for critical aspects of marketing, such as sales forcasting, profitibility analysis, market segmentation, promotion budgeting, and database marketing.  Course Information:  Prerequisite(s):  <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a> and <a href="/search/?P=IDS%20270" title="IDS&#160;270" class="bubblelink code" onclick="return showCourse(this, 'IDS 270');">IDS&#160;270</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;461.  Consumer Market Behavior.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Understanding consumer decision processes; steps in decision making, including need recognition, perception, cognition and attitude formation; effect of environmental social, psychological, and individual difference factors on consumer decision making. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;462.  Marketing Research.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An investigation of the gathering, analyses and interpretation of information used in solving marketing problems. Both qualitative and quantitative methods are employed in developing an analytical framework.  Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a>; and <a href="/search/?P=IDS%20270" title="IDS&#160;270" class="bubblelink code" onclick="return showCourse(this, 'IDS 270');">IDS&#160;270</a> or <a href="/search/?P=MKTG%20370" title="MKTG&#160;370" class="bubblelink code" onclick="return showCourse(this, 'MKTG 370');">MKTG&#160;370</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;463.  Marketing and Sales Channels.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Develop an integrated distribution strategy driven by product and customer needs; understand the selection and roles of channel partners; explore the management of channel relationships. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a>. Business Administration students must have declared a major; or consent of instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;464.  Content Marketing.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The planning, design, distribution and management of content for digital marketing. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;465.  Strategic Marketing Management.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of marketing problems, development of marketing strategies, and persuasive communication of strategic and tactical marketing decisions. Course Information: Prerequisite(s): 15 hours of marketing course work. Recommended background: <a href="/search/?P=MKTG%20461" title="MKTG&#160;461" class="bubblelink code" onclick="return showCourse(this, 'MKTG 461');">MKTG&#160;461</a> and <a href="/search/?P=MKTG%20462" title="MKTG&#160;462" class="bubblelink code" onclick="return showCourse(this, 'MKTG 462');">MKTG&#160;462</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;466.  Comparative Marketing Systems.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Treats the topic of domestic marketing systems in other countries, their structures and processes, in a framework of comparative cultural, political, economic, and social systems. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a> or consent of the instructor. Business Administration students must have declared a major.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;467.  Business Intelligence in Marketing.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Provides knowledge of critical concepts and tools in the use of business intelligence in marketing. Students will learn to use business intelligence to gain market and competitive insights and support marketing decision making. Course Information: 3 undergraduate hours. 4 graduate hours. Extensive computer use required. Prerequisite(s): <a href="/search/?P=MKTG%20462" title="MKTG&#160;462" class="bubblelink code" onclick="return showCourse(this, 'MKTG 462');">MKTG&#160;462</a> and <a href="/search/?P=IDS%20270" title="IDS&#160;270" class="bubblelink code" onclick="return showCourse(this, 'IDS 270');">IDS&#160;270</a>. Recommended background: <a href="/search/?P=MKTG%20460" title="MKTG&#160;460" class="bubblelink code" onclick="return showCourse(this, 'MKTG 460');">MKTG&#160;460</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;468.  Advanced Marketing Research.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced knowledge of critical concepts and tools in marketing research related to problem identification, data collection, and analysis in conventional and digital media. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=MKTG%20462" title="MKTG&#160;462" class="bubblelink code" onclick="return showCourse(this, 'MKTG 462');">MKTG&#160;462</a> and <a href="/search/?P=IDS%20270" title="IDS&#160;270" class="bubblelink code" onclick="return showCourse(this, 'IDS 270');">IDS&#160;270</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;469.  Global Marketing.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The strategic and tactical marketing of goods and services to countries beyond domestic or current markets. Distinct economic, socio-cultural, and political-legal-regulatory environments are considered.  Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a> and <a href="/search/?P=BA%20200" title="BA&#160;200" class="bubblelink code" onclick="return showCourse(this, 'BA 200');">BA&#160;200</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;470.  Branding.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of how firms can connect with consumers to build, measure, leverage and protect strong brands. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a>. Recommended background: <a href="/search/?P=MKTG%20462" title="MKTG&#160;462" class="bubblelink code" onclick="return showCourse(this, 'MKTG 462');">MKTG&#160;462</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;471.  Services Marketing.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An exploration of the special challenges of services marketing, including analyzing and developing solutions for new services, services quality, design and delivery of services, and services recovery.  Course Information:  Prerequisite(s):  <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;473.  Introduction to Sales.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Detailed exploration of the steps in a standard selling process; explores buyers motivations; sales presentations skills and sales technologies. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;474.  Advertising.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Strategy, planning, creation, distribution, evaluation and management of traditional and digital advertising campaigns. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20461" title="MKTG&#160;461" class="bubblelink code" onclick="return showCourse(this, 'MKTG 461');">MKTG&#160;461</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;475.  Product Management.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Development and review of new and existing products during their life cycles; the evolution of products and services from a creative idea to their withdrawal from the market. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20462" title="MKTG&#160;462" class="bubblelink code" onclick="return showCourse(this, 'MKTG 462');">MKTG&#160;462</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;476.  Business-to-Business (B2B) Marketing.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Unique concepts and strategies applied when businesses market to other organizations and institutions. Derived demand, systems selling, bid pricing, national account programs, and using distributors. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;477.  Interdisciplinary Product Development I.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An interdisciplinary team-based course developing new product concepts from ideation to commercialization. Course Information: Students complete a product development project in conjunction with students enrolled in <a href="/search/?P=ME%20444" title="ME&#160;444" class="bubblelink code" onclick="return showCourse(this, 'ME 444');">ME&#160;444</a> and AD 420. Prerequisite(s): <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a>; and consent of the instructor. This is the first half of a year-long course. Students will be required to take <a href="/search/?P=MKTG%20478" title="MKTG&#160;478" class="bubblelink code" onclick="return showCourse(this, 'MKTG 478');">MKTG&#160;478</a> in the following semester.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;478.  Interdisciplinary Product Development II.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An interdisciplinary team-based course developing new product concepts from ideation to commercialization. Course Information: Students complete a product development project in conjunction with students enrolled in <a href="/search/?P=ME%20445" title="ME&#160;445" class="bubblelink code" onclick="return showCourse(this, 'ME 445');">ME&#160;445</a> and AD 421. Prerequisite(s): <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a> and <a href="/search/?P=MKTG%20477" title="MKTG&#160;477" class="bubblelink code" onclick="return showCourse(this, 'MKTG 477');">MKTG&#160;477</a>. This is the second  half of a year-long course. Students will be required to take <a href="/search/?P=MKTG%20477" title="MKTG&#160;477" class="bubblelink code" onclick="return showCourse(this, 'MKTG 477');">MKTG&#160;477</a> in the previous semester.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;479.  Digital and Social Media Marketing.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Creation, evaluation, and implementation of effective digital and social media marketing strategies and tactics. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a>. Recommended background: <a href="/search/?P=BA%20200" title="BA&#160;200" class="bubblelink code" onclick="return showCourse(this, 'BA 200');">BA&#160;200</a> and <a href="/search/?P=MKTG%20461" title="MKTG&#160;461" class="bubblelink code" onclick="return showCourse(this, 'MKTG 461');">MKTG&#160;461</a> and general computer skills.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;480.  Approaches to Creativity.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Students will be taught, and have an opportunity to use, the dominant contemporary creative ideation methods used in business, particularly in regards to new products/services and advertisements. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;481.  Advanced Sales.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on key account management. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a> and <a href="/search/?P=MKTG%20473" title="MKTG&#160;473" class="bubblelink code" onclick="return showCourse(this, 'MKTG 473');">MKTG&#160;473</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;482.  Innovation Management.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to a human-centered approach to designing products, services and business systems using a Design Thinking methodology. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a> and <a href="/search/?P=MKTG%20462" title="MKTG&#160;462" class="bubblelink code" onclick="return showCourse(this, 'MKTG 462');">MKTG&#160;462</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;485.  Customer Experience Management.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Applying customer experience concepts, tools, and research methods in order to understand and manage customer-centric business models across industries. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;494.  Special Topics in Marketing.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Intensive study of selected problems. Reading assignments from scholarly and professional journals; emphasis on covering relatively few areas in great depth. Course Information: May be repeated. Students may register in more than one section per term. Prerequisite(s): Business administration students must have declared a major.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;499.  Research Experience.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Research experience under the supervision of a faculty member. The faculty member and student will determine the research project. Each student must submit a written report and each student must participate at a research event on campus. Course Information: May be repeated to a maximum of 12 hours. Students may register in more than one section per term. Prerequisite(s): Major in marketing. Consent of the head of the department and the instructor required.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;500.  Introduction to Marketing.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Client/consumer behavior and the way institutions respond to such behavior through the planning, pricing, promotion, and distribution of goods and services. Course Information: Credit is not given for <a href="/search/?P=MKTG%20500" title="MKTG&#160;500" class="bubblelink code" onclick="return showCourse(this, 'MKTG 500');">MKTG&#160;500</a> if the student has credit for MBA 506. Prerequisite(s): Graduate standing in the College of Business Administration or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;518.  Electronic Marketing.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Overview of the electronic marketing value chain. Internet and web technologies, system design, payment systems, business requirements for e-marketing, design and ethical issues. Course Information: Same as <a href="/search/?P=IDS%20518" title="IDS&#160;518" class="bubblelink code" onclick="return showCourse(this, 'IDS 518');">IDS&#160;518</a>. Prerequisite(s): <a href="/search/?P=MKTG%20500" title="MKTG&#160;500" class="bubblelink code" onclick="return showCourse(this, 'MKTG 500');">MKTG&#160;500</a> or MBA 506 or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;560.  Marketing Management.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The structural system for the management of marketing: environmental considerations; goal determinations; the sequential process; marketing planning; product-market integration; channel components; demand stimulation; evaluation and audit. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20500" title="MKTG&#160;500" class="bubblelink code" onclick="return showCourse(this, 'MKTG 500');">MKTG&#160;500</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;561.  Consumer Behavior.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Application of knowledge from the behavioral sciences to the study of consumer behavior. Individual and group influences on consumer preferences and purchasing patterns are considered. Both theory and application are stressed. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20500" title="MKTG&#160;500" class="bubblelink code" onclick="return showCourse(this, 'MKTG 500');">MKTG&#160;500</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;562.  Marketing Analytics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces concepts, data analysis techniques and software tools for making key marketing decisions including segmentation, targeting, positioning, forecasting, new product design and resource allocation. Course Information: Same as <a href="/search/?P=IDS%20540" title="IDS&#160;540" class="bubblelink code" onclick="return showCourse(this, 'IDS 540');">IDS&#160;540</a>. Extensive computer use required. Prerequisite(s): <a href="/search/?P=MKTG%20500" title="MKTG&#160;500" class="bubblelink code" onclick="return showCourse(this, 'MKTG 500');">MKTG&#160;500</a> or <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a>; or consent of the instructor. Recommended background: <a href="/search/?P=MKTG%20563" title="MKTG&#160;563" class="bubblelink code" onclick="return showCourse(this, 'MKTG 563');">MKTG&#160;563</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;563.  Marketing Research I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Design, data collection, analysis, communication, and use of marketing research for effective  marketing decision making. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=MKTG%20500" title="MKTG&#160;500" class="bubblelink code" onclick="return showCourse(this, 'MKTG 500');">MKTG&#160;500</a> or <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a>; or consent of the instructor. Recommended background: <a href="/search/?P=MKTG%20562" title="MKTG&#160;562" class="bubblelink code" onclick="return showCourse(this, 'MKTG 562');">MKTG&#160;562</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;564.  Marketing Research II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on qualitative research, new media marketing research, and advanced quantitative market research for marketing decision-making. Course Information: Extensive computer use required. Field work required. Prerequisite(s): <a href="/search/?P=MKTG%20500" title="MKTG&#160;500" class="bubblelink code" onclick="return showCourse(this, 'MKTG 500');">MKTG&#160;500</a> or <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a>; and <a href="/search/?P=MKTG%20562" title="MKTG&#160;562" class="bubblelink code" onclick="return showCourse(this, 'MKTG 562');">MKTG&#160;562</a> and <a href="/search/?P=MKTG%20563" title="MKTG&#160;563" class="bubblelink code" onclick="return showCourse(this, 'MKTG 563');">MKTG&#160;563</a>; or consent of the instructor. Recommended background: Prior coursework in marketing, the social sciences, and experience in marketing research.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;565.  Marketing Communication and Promotional Strategy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+An overview of contemporary marketing communication and promotional mix tools and their integration, which include media advertising, direct marketing, sales promotion, public relations, interactive media, and personal selling. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20500" title="MKTG&#160;500" class="bubblelink code" onclick="return showCourse(this, 'MKTG 500');">MKTG&#160;500</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;567.  Digital and Social Media Marketing.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Analytical evaluation and development of effective digital and social media marketing strategies and their implementation. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=MKTG%20500" title="MKTG&#160;500" class="bubblelink code" onclick="return showCourse(this, 'MKTG 500');">MKTG&#160;500</a> or <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a>; or consent of the instructor. Recommended background: <a href="/search/?P=MKTG%20561" title="MKTG&#160;561" class="bubblelink code" onclick="return showCourse(this, 'MKTG 561');">MKTG&#160;561</a> and general computer skills.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;568.  Market and Business Intelligence.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The collection, analysis, interpretation and presentation of market and business intelligence to make critical marketing and business decisions. Hands-on use of advanced statistical tools and techniques to analyze and present intelligence data. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=MKTG%20500" title="MKTG&#160;500" class="bubblelink code" onclick="return showCourse(this, 'MKTG 500');">MKTG&#160;500</a> or <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a>; and <a href="/search/?P=MKTG%20562" title="MKTG&#160;562" class="bubblelink code" onclick="return showCourse(this, 'MKTG 562');">MKTG&#160;562</a> and <a href="/search/?P=MKTG%20563" title="MKTG&#160;563" class="bubblelink code" onclick="return showCourse(this, 'MKTG 563');">MKTG&#160;563</a>; or consent of the instructor. Recommended background: Awareness of basic data analysis concepts.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;569.  Multicultural Marketing.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Understanding and applying marketing and cultural theories and tools to develop effective marketing strategies and tactics to reach diverse subcultures, including various racial-ethnic, religious, gender, age-based, and sexual orientation groups. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20500" title="MKTG&#160;500" class="bubblelink code" onclick="return showCourse(this, 'MKTG 500');">MKTG&#160;500</a> or <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a>; or consent of the instructor. Recommended background: <a href="/search/?P=MKTG%20561" title="MKTG&#160;561" class="bubblelink code" onclick="return showCourse(this, 'MKTG 561');">MKTG&#160;561</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;570.  Brand Management.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Addresses many of the strategic areas of brand asset management in modern business entities. Issues in building and managing brand assets are covered. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20500" title="MKTG&#160;500" class="bubblelink code" onclick="return showCourse(this, 'MKTG 500');">MKTG&#160;500</a> or <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a>; or consent of the instructor. Recommended background: 1) Brand management experience 2) <a href="/search/?P=MKTG%20561" title="MKTG&#160;561" class="bubblelink code" onclick="return showCourse(this, 'MKTG 561');">MKTG&#160;561</a> 3) <a href="/search/?P=MKTG%20563" title="MKTG&#160;563" class="bubblelink code" onclick="return showCourse(this, 'MKTG 563');">MKTG&#160;563</a> or work experience 4) Consumer psychology experience.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;571.  International Business Operations.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Centers attention on the policies and problems of firms operating across international frontiers and the social questions they generate. Attention is directed at investing overseas, licensing agreements, joint ventures and contracting. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20500" title="MKTG&#160;500" class="bubblelink code" onclick="return showCourse(this, 'MKTG 500');">MKTG&#160;500</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;572.  International Marketing.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on firms which operate internationally from their home country base. Attention is directed toward working with overseas distributors, promotion and pricing problems, governmental export assistance, and physical distribution matters. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20500" title="MKTG&#160;500" class="bubblelink code" onclick="return showCourse(this, 'MKTG 500');">MKTG&#160;500</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;573.  Marketing Channels Management.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Operations of various institutions that constitute the channel(s) for marketing goods and services. Emphasis on the practices of institutions at each level in the distribution system and the interaction that occurs among them. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20500" title="MKTG&#160;500" class="bubblelink code" onclick="return showCourse(this, 'MKTG 500');">MKTG&#160;500</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;574.  Product Planning.  4 hours.</strong></p>
+<p class="courseblockdesc">
+In-depth coverage of all aspects of the product, service, and program planning process. Conceptual aspects as applied to new and existing product entries. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20500" title="MKTG&#160;500" class="bubblelink code" onclick="return showCourse(this, 'MKTG 500');">MKTG&#160;500</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;576.  Advanced Business-to-Business (B2B) Marketing.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Buyer behavior, market segmentation, derived demand, national account programs, system selling, big pricing. Industrial promotion mix, mass communications and management of sales force.  Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20500" title="MKTG&#160;500" class="bubblelink code" onclick="return showCourse(this, 'MKTG 500');">MKTG&#160;500</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;577.  Interdisciplinary Product Development I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+An interdisciplinary team-based course developing new product concepts from ideation to commercialization. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20500" title="MKTG&#160;500" class="bubblelink code" onclick="return showCourse(this, 'MKTG 500');">MKTG&#160;500</a> and consent of the instructor. This is the first half of a year-long course. Students will be required to take <a href="/search/?P=MKTG%20578" title="MKTG&#160;578" class="bubblelink code" onclick="return showCourse(this, 'MKTG 578');">MKTG&#160;578</a> in the following semester. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;578.  Interdisciplinary Product Development II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+An interdisciplinary team-based course developing new product concepts from ideation to commercialization. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20500" title="MKTG&#160;500" class="bubblelink code" onclick="return showCourse(this, 'MKTG 500');">MKTG&#160;500</a> and <a href="/search/?P=MKTG%20577" title="MKTG&#160;577" class="bubblelink code" onclick="return showCourse(this, 'MKTG 577');">MKTG&#160;577</a>; and consent of the instructor. This is the second half of a year long course. Students will be required to take <a href="/search/?P=MKTG%20577" title="MKTG&#160;577" class="bubblelink code" onclick="return showCourse(this, 'MKTG 577');">MKTG&#160;577</a> in the previous semester. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;581.  Seminars in Consumer Behavior.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Theories and concepts relevant to consumer behavior; the decision making process for both profit and non-profit goods and services. Course Information: Prerequisite(s): Admission to the Ph.D. in Business Administration program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;583.  Seminar in Marketing Theory.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Emphasis on marketing literature evolution and development of marketing practices that reflect /influence the basic literature. Attention devoted to how other fields have contributed to marketing thought. Course Information: Prerequisite(s): Admission to the Ph.D. in Business Administration program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;584.  Product Innovation and Development.  4 hours.</strong></p>
+<p class="courseblockdesc">
+An in-depth investigation of the factors affecting the new product strategy of the firm and its management of product innovation. Course Information: Prerequisite(s): Admission to the Ph.D. in Business Administration program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;585.  Seminar: Topics in Quantitative Models in Marketing.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Formulation of conceptual and quantitative models which relate marketing activities and behaviors to other behaviors or sales or profits. Examines methods which researchers have used to test hypothesized marketing models. Course Information: Prerequisite(s): Admission to the Ph.D. in Business Administration program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;586.  Advanced International Marketing.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Concepts and problems pertaining to export marketing with emphasis on multinational businesses. Includes product modification, differential pricing, national social and commercial policies, promotion, logistical issues. Course Information: Prerequisite(s): Admission to the Ph.D. in Business Administration program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;587.  Advanced Marketing Research.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Multi-dimensional scaling, conjoint analysis including hybrid analysis, choice models including multinomial logit and probit models, selectivity models. Course Information: Prerequisite(s): Admission to the Ph.D. in Business Administration program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;588.  Marketing Communications.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The firm's use of the elements of the promotion mix; advertising, personal selling, sales promotion, publicity and public relations for effective communication with its markets. Course Information: Prerequisite(s): Prerequisite(s): Admission to the Ph.D. in Business Administration program and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;589.  Services Marketing.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Distinctive aspects of services marketing examined from both a conceptual and managerial perspective with focus on the research frontiers and questions in services marketing. Course Information: Prerequisite(s): Admission to the Ph.D. in Business Administration program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;594.  Special Topics in Marketing.  4 hours.</strong></p>
+<p class="courseblockdesc">
+An intensive study of a selected topic in marketing. Topics vary. Students should contact the instructor to find out what topics will be covered. Course Information: Prerequisite(s): <a href="/search/?P=MKTG%20500" title="MKTG&#160;500" class="bubblelink code" onclick="return showCourse(this, 'MKTG 500');">MKTG&#160;500</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;596.  Independent Study in Marketing.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Independent study under the direction of a faculty member. Course Information: May be repeated. Students may register in more than one section per term. Prerequisite(s): Enrollment by petition to the Director of the MBA program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MKTG&#160;599.  Ph.D. Thesis Research.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Independent research on topic approved for the doctoral dissertation. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="mktg.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

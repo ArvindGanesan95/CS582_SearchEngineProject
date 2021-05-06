@@ -1,0 +1,113 @@
+https://connected.uic.edu/
+
+<!doctype html>
+<html lang="en-US" ng-app="campuskudosWebApp" ng-class="[backgroundClass, modalBox]" ng-style="backgroundStyle" class="ckbg">
+  <head ng-controller="BodyCtrl">
+    <meta charset="utf-8">
+    <!-- Compatiblity mode for latest IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge;">
+    <title ng-bind="pageTitle.title()"></title>
+    <meta name="fragment" content="!">
+    <meta name="description" content="{{metaInformation.metaDescription()}}">
+    <meta name="keywords" content="{{metaInformation.metaKeywords()}}">
+    <meta name="viewport" content="width=device-width">
+    <meta property="og:title" content="{{metaInformation.socialSharingTitle()}}">
+    <meta property="og:description" content="{{metaInformation.socialSharingText()}}">
+    <meta property="og:image" content="{{metaInformation.socialImage()}}">
+
+    <!--TWITTER SPECIFIC META TAGS-->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:description" content="{{metaInformation.socialSharingText()}}">
+    <meta name="twitter:title" content="{{metaInformation.socialSharingTitle() || pageTitle.title() || 'Welcome'}}">
+    <meta name="twitter:image" content="{{metaInformation.socialImage()}}">
+    <meta name="twitter:site" content="@PeopleGroveCo">
+    <meta name="twitter:creator" content="@PeopleGroveCo">
+
+    <base href="/">
+
+    <!-- inject:css -->
+    <link rel="stylesheet" href="https://gae-frontend-production.peoplegrove.com/styles/main-5172fc58e5.css">
+    <link rel="stylesheet" href="https://gae-frontend-production.peoplegrove.com/styles/vendor-13175f3273.css">
+    <!-- endinject -->
+
+    <!-- bower:css -->
+    <!-- endinject -->
+
+    <script async src="https://apis.google.com/js/client.js"></script>
+    <script async src="https://www.youtube.com/iframe_api"></script>
+    <script defer="defer" src="//static.filestackapi.com/filestack-js/2.x.x/filestack.min.js"></script>
+
+    <!-- BEGIN IFRAMELY -->
+    <script async charset="utf-8" src="//cdn.iframe.ly/embed.js?key=155c6006ee6df99ff4c5bf3a68ef7a73"></script>
+    <!-- END IFRAMELY -->
+
+    <script async src="https://maps-api.peoplegrove.com/g-maps-api/?libraries=places"></script>
+    <script defer="defer" src="https://www.gstatic.com/firebasejs/5.9.2/firebase-app.js"></script>
+    <script defer="defer" src="https://www.gstatic.com/firebasejs/5.9.2/firebase-auth.js"></script>
+    <script defer="defer" src="https://www.gstatic.com/firebasejs/5.9.2/firebase-database.js"></script>
+    <script defer="defer" src="https://www.gstatic.com/firebasejs/5.9.2/firebase-firestore.js"></script>
+    <script defer="defer" src="https://www.google.com/recaptcha/api.js?render=explicit" async></script>
+    <script type="text/javascript">
+      window.smartlook||(function(d) {
+        var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+        var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+        c.charset='utf-8';c.src='https://rec.smartlook.com/recorder.js';h.appendChild(c);
+        })(document);
+    </script>
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,300,400italic,700italic,700,900" rel="stylesheet" type="text/css">
+    <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/igojolgolbceapgmkoknicggafeceiml">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" integrity="sha256-VBrFgheoreGl4pKmWgZh3J23pJrhNlSUOBek+8Z2Gv0=" crossorigin="anonymous">
+    <script type="text/javascript">
+      window._mfq = window._mfq || [];
+      _mfq.push(["config", "autoStart", false]);
+      (function() {
+        var mf = document.createElement("script");
+        mf.type = "text/javascript"; mf.defer = true;
+        mf.src = "//cdn.mouseflow.com/projects/1e1910a9-9c9e-448d-a7e2-2939b352d74a.js";
+        document.getElementsByTagName("head")[0].appendChild(mf);
+      })();
+    </script>
+  <script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+  <body ng-class="[
+      'ckbg',
+      {'pg-admin': $root.isAdminApp()},
+      $root.backgroundClass,
+      $root.modalBox,
+      $root.bodyNoPad,
+      $root.showScroll,
+      $root.getClusterCoreSetting('branding','useCustomCss'),
+      $root.hideHubNavBarClass,
+      $root.hideClusterNavBarClass,
+      'ck-cluster-theme',
+      'pg-hide-icon'
+    ]" ng-style="backgroundStyle" ng-init="setIframeTitle()">
+    <noscript><div class="no-script">This site requires Javascript for this page to display correctly.</div></noscript>
+
+    <div ng-include="'modules/helpers/cover-loading/coverLoading.html'" class="full-cover-loading-container" ng-show="fullCoverLoading"></div>
+    <div ng-include="'views/browserCompatibility.html'" ng-if="!browser.compatible"></div>
+    <div class="full-cover-loading-content" ng-class="{ 'full-cover-loading-content-active': fullCoverLoading }" ng-if="browser.compatible">
+      <cluster-nav ng-if="!$root.hideNavBar && $root.clusterInfo" role="navigation"></cluster-nav>
+      <div ng-include="'views/loading.html'"></div>
+      <div ng-include="'views/transparent-loading.html'"></div>
+      <main id="main" tabindex="-1" class="main-view-container" ng-hide="$root.loading" ng-if="!$root.detailPageObject.open">
+        <div class="main-view fade-in" ng-view="" autoscroll="true" ng-class="bodyBlurred ? 'blurred' : ''">
+        </div>
+      </main>
+      <main id="main" ng-include="'modules/helpers/detail-object-page/detailObjectPage.html'" ng-if="$root.detailPageObject.open"></main>
+    </div>
+    <support-widget role="complementary" aria-labelledby="support-widget" ng-if="$root.currentUser.isAdmin || $root.currentUser.isClusterAdmin || $root.isHubAdmin() || $root.isAnyGroupAdmin()"></support-widget>
+
+    <!-- bower:js -->
+    <!-- endinject -->
+
+    <script defer="defer" src="https://static.pg.services/rl.min.js"></script>
+    <!-- inject:js -->
+    <script src="https://gae-frontend-production.peoplegrove.com/scripts/vendor-d9454d753b.js" crossorigin="anonymous"></script>
+    <script src="https://gae-frontend-production.peoplegrove.com/scripts/scripts-f47782241c.js" crossorigin="anonymous"></script>
+    <!-- endinject -->
+
+    <!-- <script async src="http://localhost:8080/service.js"></script> -->
+    <script async src="https://support-widget.prod.static.pg.services/service.js"></script>
+  <script type="text/javascript">(function(){window['__CF$cv$params']={r:'64b179c359300881',m:'55d498faa97c5176a2d17dc53b773f882cee4c01-1620296423-1800-AV0Pk9FDXm0JGL9iA+6TgpoGTqTucRIz1BX2zySgIFN+yBrtZ6nitOEb762loiwqj3LEMMX/BoaCvtJgrJqL5bua4rYnGhI9PqWBHNRQ3vau3NyC31A4gL3l0yKgL/ilow==',s:[0x6384c8ce2a,0xd86b5670ea],}})();</script></body>
+</html>

@@ -1,0 +1,70 @@
+https://tangw.people.uic.edu/
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Wei Tang's home page</title>
+<style type="text/css">
+
+</style>
+<link href="test.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="800" border="0" align="center">
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><span class="navigation"><span class="navigation_color">Home</span>&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="bio.html" class="navigation">Bio &amp; CV</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="publications.html" class="navigation">Publications</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="teaching.html" class="navigation">Teaching</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="services.html" class="navigation">Services</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="team.html" class="navigation">Team</a></td>
+  </tr>
+</table>
+<hr class="gap" />
+<table width="800" border="0" align="center">
+  <tr>
+    <td width="846"><table width="800" border="0" align="center">
+      <tr>
+        <td colspan="3">&nbsp;</td>
+        </tr>
+      <tr>
+        <td width="269"><img src="weitang.jpg" width="259" height="259" /></td>
+        <td width="10">&nbsp;</td>
+        <td width="507" class="professor"><strong class="name">Wei Tang</strong><strong><br />
+          <br />
+          </strong>Assistant Professor<strong><br />
+          </strong><a href="https://cs.uic.edu/" target="new">Department of Computer Science</a><br />
+          <a href="http://uic.edu/" target="new">University of Illinois at Chicago</a><br />
+          <br />
+          1141 Science and Engineering Offices<br />
+          851 S Morgan St (M/C 152)<br />
+          Chicago, IL 60607<br />
+          <br />
+          Email: tangw at uic dot edu<br /></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="bodytext"><strong>Ph.D. openings are available for Fall 2021.  Research interns and visiting scholars are also welcome. Prospective students please contact Dr. Tang with your resume and transcripts.</strong></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><span class="section_font22"><strong>Research Interests</strong><br />
+    </span>      
+      <ul>
+      <li class="bodytext">Computer Vision</li>
+      <li class="bodytext"> Machine Learning and Pattern Recognition</li>
+      <li class="bodytext">Human Motion and Action Analysis</li>
+      <li class="bodytext"> Intelligent Human-Computer Interaction</li>
+      <li><span class="bodytext"> Remote Sensing Image Analysis and Applications </span></li>
+    </ul></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+</html>

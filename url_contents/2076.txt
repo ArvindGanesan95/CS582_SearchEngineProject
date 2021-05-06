@@ -1,0 +1,600 @@
+https://catalog.uic.edu/ucat/course-descriptions/comm/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Communication (COMM) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a></li>
+		<li class="active isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a>
+		<ul class="nav leveltwo" id="/ucat/course-descriptions/">
+			<li><a href="/ucat/course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+			<li><a href="/ucat/course-descriptions/actg/">Accounting (ACTG)</a></li>
+			<li><a href="/ucat/course-descriptions/aast/">African American Studies (AAST)</a></li>
+			<li><a href="/ucat/course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+			<li><a href="/ucat/course-descriptions/anth/">Anthropology (ANTH)</a></li>
+			<li><a href="/ucat/course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+			<li><a href="/ucat/course-descriptions/arab/">Arabic (ARAB)</a></li>
+			<li><a href="/ucat/course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+			<li><a href="/ucat/course-descriptions/arch/">Architecture (ARCH)</a></li>
+			<li><a href="/ucat/course-descriptions/art/">Art (ART)</a></li>
+			<li><a href="/ucat/course-descriptions/ah/">Art History (AH)</a></li>
+			<li><a href="/ucat/course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+			<li><a href="/ucat/course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+			<li><a href="/ucat/course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+			<li><a href="/ucat/course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+			<li><a href="/ucat/course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+			<li><a href="/ucat/course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+			<li><a href="/ucat/course-descriptions/blst/">Black Studies (BLST)</a></li>
+			<li><a href="/ucat/course-descriptions/ba/">Business Administration (BA)</a></li>
+			<li><a href="/ucat/course-descriptions/cc/">Campus Courses (CC)</a></li>
+			<li><a href="/ucat/course-descriptions/cst/">Catholic Studies (CST)</a></li>
+			<li><a href="/ucat/course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+			<li><a href="/ucat/course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+			<li><a href="/ucat/course-descriptions/chem/">Chemistry (CHEM)</a></li>
+			<li><a href="/ucat/course-descriptions/chin/">Chinese (CHIN)</a></li>
+			<li><a href="/ucat/course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+			<li><a href="/ucat/course-descriptions/cl/">Classics (CL)</a></li>
+			<li class="active self"><a href="#" onclick="return false;">Communication (COMM)</a></li>
+			<li><a href="/ucat/course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+			<li><a href="/ucat/course-descriptions/cs/">Computer Science (CS)</a></li>
+			<li><a href="/ucat/course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+			<li><a href="/ucat/course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+			<li><a href="/ucat/course-descriptions/des/">Design (DES)</a></li>
+			<li><a href="/ucat/course-descriptions/dlg/">Dialogue (DLG)</a></li>
+			<li><a href="/ucat/course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+			<li><a href="/ucat/course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+			<li><a href="/ucat/course-descriptions/econ/">Economics (ECON)</a></li>
+			<li><a href="/ucat/course-descriptions/ed/">Education (ED)</a></li>
+			<li><a href="/ucat/course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+			<li><a href="/ucat/course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+			<li><a href="/ucat/course-descriptions/ece/">Electrical and Computer Engr (ECE)</a></li>
+			<li><a href="/ucat/course-descriptions/engr/">Engineering (ENGR)</a></li>
+			<li><a href="/ucat/course-descriptions/engl/">English (ENGL)</a></li>
+			<li><a href="/ucat/course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+			<li><a href="/ucat/course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+			<li><a href="/ucat/course-descriptions/fin/">Finance (FIN)</a></li>
+			<li><a href="/ucat/course-descriptions/fr/">French (FR)</a></li>
+			<li><a href="/ucat/course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+			<li><a href="/ucat/course-descriptions/geog/">Geography (GEOG)</a></li>
+			<li><a href="/ucat/course-descriptions/ger/">Germanic Studies (GER)</a></li>
+			<li><a href="/ucat/course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+			<li><a href="/ucat/course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+			<li><a href="/ucat/course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+			<li><a href="/ucat/course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+			<li><a href="/ucat/course-descriptions/him/">Health Information Management (HIM)</a></li>
+			<li><a href="/ucat/course-descriptions/heb/">Hebrew (HEB)</a></li>
+			<li><a href="/ucat/course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+			<li><a href="/ucat/course-descriptions/hist/">History (HIST)</a></li>
+			<li><a href="/ucat/course-descriptions/hon/">Honors College Courses (HON)</a></li>
+			<li><a href="/ucat/course-descriptions/hn/">Human Nutrition (HN)</a></li>
+			<li><a href="/ucat/course-descriptions/hum/">Humanities (HUM)</a></li>
+			<li><a href="/ucat/course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+			<li><a href="/ucat/course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+			<li><a href="/ucat/course-descriptions/it/">Information Technology (IT)</a></li>
+			<li><a href="/ucat/course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+			<li><a href="/ucat/course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+			<li><a href="/ucat/course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+			<li><a href="/ucat/course-descriptions/inst/">International Studies (INST)</a></li>
+			<li><a href="/ucat/course-descriptions/ital/">Italian (ITAL)</a></li>
+			<li><a href="/ucat/course-descriptions/jpn/">Japanese (JPN)</a></li>
+			<li><a href="/ucat/course-descriptions/jst/">Jewish Studies (JST)</a></li>
+			<li><a href="/ucat/course-descriptions/kn/">Kinesiology (KN)</a></li>
+			<li><a href="/ucat/course-descriptions/kor/">Korean (KOR)</a></li>
+			<li><a href="/ucat/course-descriptions/lat/">Latin (LAT)</a></li>
+			<li><a href="/ucat/course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+			<li><a href="/ucat/course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+			<li><a href="/ucat/course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+			<li><a href="/ucat/course-descriptions/ling/">Linguistics (LING)</a></li>
+			<li><a href="/ucat/course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+			<li><a href="/ucat/course-descriptions/lith/">Lithuanian (LITH)</a></li>
+			<li><a href="/ucat/course-descriptions/mgmt/">Management (MGMT)</a></li>
+			<li><a href="/ucat/course-descriptions/mktg/">Marketing (MKTG)</a></li>
+			<li><a href="/ucat/course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+			<li><a href="/ucat/course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+			<li><a href="/ucat/course-descriptions/math/">Mathematics (MATH)</a></li>
+			<li><a href="/ucat/course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+			<li><a href="/ucat/course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+			<li><a href="/ucat/course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+			<li><a href="/ucat/course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+			<li><a href="/ucat/course-descriptions/mils/">Military Science (MILS)</a></li>
+			<li><a href="/ucat/course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+			<li><a href="/ucat/course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+			<li><a href="/ucat/course-descriptions/mus/">Music (MUS)</a></li>
+			<li><a href="/ucat/course-descriptions/nast/">Native American Studies (NAST)</a></li>
+			<li><a href="/ucat/course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+			<li><a href="/ucat/course-descriptions/ns/">Naval Science (NS)</a></li>
+			<li><a href="/ucat/course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+			<li><a href="/ucat/course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+			<li><a href="/ucat/course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+			<li><a href="/ucat/course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+			<li><a href="/ucat/course-descriptions/path/">Pathology (PATH)</a></li>
+			<li><a href="/ucat/course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+			<li><a href="/ucat/course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+			<li><a href="/ucat/course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+			<li><a href="/ucat/course-descriptions/psop/">Pharmacy Systems, Outcomes &amp;&#8203; Policy (PSOP)</a></li>
+			<li><a href="/ucat/course-descriptions/phil/">Philosophy (PHIL)</a></li>
+			<li><a href="/ucat/course-descriptions/pt/">Physical Therapy (PT)</a></li>
+			<li><a href="/ucat/course-descriptions/phys/">Physics (PHYS)</a></li>
+			<li><a href="/ucat/course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+			<li><a href="/ucat/course-descriptions/pol/">Polish (POL)</a></li>
+			<li><a href="/ucat/course-descriptions/pols/">Political Science (POLS)</a></li>
+			<li><a href="/ucat/course-descriptions/port/">Portuguese (PORT)</a></li>
+			<li><a href="/ucat/course-descriptions/psch/">Psychology (PSCH)</a></li>
+			<li><a href="/ucat/course-descriptions/pa/">Public Administration (PA)</a></li>
+			<li><a href="/ucat/course-descriptions/pubh/">Public Health (PUBH)</a></li>
+			<li><a href="/ucat/course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+			<li><a href="/ucat/course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+			<li><a href="/ucat/course-descriptions/rels/">Religious Studies (RELS)</a></li>
+			<li><a href="/ucat/course-descriptions/russ/">Russian (RUSS)</a></li>
+			<li><a href="/ucat/course-descriptions/slav/">Slavic &amp;&#8203; Baltic Languages &amp;&#8203;Lit (SLAV)</a></li>
+			<li><a href="/ucat/course-descriptions/sj/">Social Justice (SJ)</a></li>
+			<li><a href="/ucat/course-descriptions/soc/">Sociology (SOC)</a></li>
+			<li><a href="/ucat/course-descriptions/span/">Spanish (SPAN)</a></li>
+			<li><a href="/ucat/course-descriptions/sped/">Special Education (SPED)</a></li>
+			<li><a href="/ucat/course-descriptions/stat/">Statistics (STAT)</a></li>
+			<li><a href="/ucat/course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+			<li><a href="/ucat/course-descriptions/thtr/">Theatre (THTR)</a></li>
+			<li><a href="/ucat/course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+			<li><a href="/ucat/course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+			<li><a href="/ucat/course-descriptions/us/">Urban Studies (US)</a></li>
+		</ul>
+		</li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/course-descriptions/">Undergraduate&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Communication (COMM)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Communication (COMM)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="commcourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;100.  Fundamentals of Human Communication.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Emphasis on strategies for public speaking, public presentations, and conducting meetings. Effective approaches to audience analysis, speaker/presenter credibility, using evidence, argument development, delivery, and planning meetings. Course Information: No credit given toward the Major in Communication.<i>  Individual and Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;101.  Introduction to Communication.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to central concepts in communication, including key terms and theories, specific contexts and key debates. Course Information: Some sections may be offered fully online or in a blended-online and classroom course setting. Use of computer and internet access is required for all online and blended sections. A high speed connection, while not required, is strongly suggested.<i>  Individual and Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;102.  Introduction to Interpersonal Communication.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Effective communication in human relationships; verbal and nonverbal messages; reflective listening, disclosure, showing affection, empathy, assertiveness; handling interpersonal conflict; cultural and gender differences. Course Information: Some sections may be offered fully online or in a blended-online and classroom course setting. Consult the Schedule of Classes for the mode of instruction. Use of computer and internet access is required for all online and blended sections. A high speed connection, while not required, is strongly suggested.<i>  Individual and Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;103.  Introduction to Media.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Conceptualizing mass communication. Internal and external controls. Media and minorities. Individual and societal functions of the media. Individual and societal effects of the media. Course Information: Some sections may be offered fully online or in a blended-online and classroom course setting.  use of computer and internet access is required for all online and blended sections. A high speed connection, while not required, is strongly suggested.<i>  Individual and Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;105.  Black Film, 1900 - Present: Images, Individuals and Ideas on Screen.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of the history of black people in film â€“ looking both at films by black people in the United States and the diaspora, and at the relationship between black filmmakers, performers, and audiences to national and global film industries. Course Information: Same as <a href="/search/?P=BLST%20105" title="BLST&#160;105" class="bubblelink code" onclick="return showCourse(this, 'BLST 105');">BLST&#160;105</a> and <a href="/search/?P=MOVI%20105" title="MOVI&#160;105" class="bubblelink code" onclick="return showCourse(this, 'MOVI 105');">MOVI&#160;105</a>.<i>  Creative Arts course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;140.  Fundamentals of Social Media and Communication.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Instruction and practice in the composition, analysis and dissemination of messages that employ media and social media in professional contexts.<i>  Individual and Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;200.  Communication Technologies.  3 hours.</strong></p>
+<p class="courseblockdesc">
+History, development, and social impact of communication technology: print, broadcast, cable, satellite, computer, internet. Issues related to infrastructure, regulation, access, globalization, conveyance, and change. Course Information: Same as <a href="/search/?P=MOVI%20200" title="MOVI&#160;200" class="bubblelink code" onclick="return showCourse(this, 'MOVI 200');">MOVI&#160;200</a>. Some sections may be offered fully online or in a blended-online and classroom course setting. Use of computer and internet access is required for all online and blended sections. A high speed connection, while not required, is strongly suggested. Prerequisite(s): Credit in <a href="/search/?P=COMM%20103" title="COMM&#160;103" class="bubblelink code" onclick="return showCourse(this, 'COMM 103');">COMM&#160;103</a>. Credit in <a href="/search/?P=COMM%20101" title="COMM&#160;101" class="bubblelink code" onclick="return showCourse(this, 'COMM 101');">COMM&#160;101</a> or concurrent registration. Credit in <a href="/search/?P=COMM%20102" title="COMM&#160;102" class="bubblelink code" onclick="return showCourse(this, 'COMM 102');">COMM&#160;102</a> or concurrent registration. Moving Image Arts minors must obtain approval of the Department of Communication.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;201.  Statistics in Communication Research.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Processes of communication research as a social science; variables, hypotheses, and theories; conceptual and operational definition; sampling; research design; statistics; use of computers for research. Course Information: Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=COMM%20101" title="COMM&#160;101" class="bubblelink code" onclick="return showCourse(this, 'COMM 101');">COMM&#160;101</a>; and Credit or concurrent registration in <a href="/search/?P=COMM%20102" title="COMM&#160;102" class="bubblelink code" onclick="return showCourse(this, 'COMM 102');">COMM&#160;102</a>; and Credit or concurrent registration in <a href="/search/?P=COMM%20103" title="COMM&#160;103" class="bubblelink code" onclick="return showCourse(this, 'COMM 103');">COMM&#160;103</a> ; and <a href="/search/?P=MATH%20090" title="MATH&#160;090" class="bubblelink code" onclick="return showCourse(this, 'MATH 090');">MATH&#160;090</a> or <a href="/search/?P=MATH%20105" title="MATH&#160;105" class="bubblelink code" onclick="return showCourse(this, 'MATH 105');">MATH&#160;105</a> or any other advanced math course with a minimum grade of C, or math placement above <a href="/search/?P=MATH%20090" title="MATH&#160;090" class="bubblelink code" onclick="return showCourse(this, 'MATH 090');">MATH&#160;090</a> or <a href="/search/?P=MATH%20105" title="MATH&#160;105" class="bubblelink code" onclick="return showCourse(this, 'MATH 105');">MATH&#160;105</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;204.  Gender and Popular Culture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of representations of gender and sexuality in popular and material culture, using contemporary theories. Focus is on US popular culture. Course Information: Same as <a href="/search/?P=GWS%20204" title="GWS&#160;204" class="bubblelink code" onclick="return showCourse(this, 'GWS 204');">GWS&#160;204</a>. Prerequisite(s): Sophomore standing or above; or consent of the instructor. Recommended background: Credit or concurrent registration in <a href="/search/?P=GWS%20101" title="GWS&#160;101" class="bubblelink code" onclick="return showCourse(this, 'GWS 101');">GWS&#160;101</a> or Credit or concurrent registration in <a href="/search/?P=COMM%20102" title="COMM&#160;102" class="bubblelink code" onclick="return showCourse(this, 'COMM 102');">COMM&#160;102</a> or Credit or concurrent registration in <a href="/search/?P=GWS%20102" title="GWS&#160;102" class="bubblelink code" onclick="return showCourse(this, 'GWS 102');">GWS&#160;102</a> or Credit or concurrent registration in <a href="/search/?P=COMM%20103" title="COMM&#160;103" class="bubblelink code" onclick="return showCourse(this, 'COMM 103');">COMM&#160;103</a>.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;205.  The Health Media Environment.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Health issues coverage in the media (traditional, social, and future); misinformation, disinformation, fake news, health literacy, best practices. Foundational theory on health, news, and the media. Course Information: Prerequisite(s): Completion of the English Composition requirement.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;206.  Public Relations and Digital Media.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The basics of public relations strategy applied to a contemporary digital media environment. The ethics and practice of public relations. Course Information: Prerequisite(s): <a href="/search/?P=ENGL%20160" title="ENGL&#160;160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL&#160;160</a> and <a href="/search/?P=ENGL%20161" title="ENGL&#160;161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL&#160;161</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;207.  The Mass Media and Politics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Impact of mass media coverage on political attitudes and the conduct of American politics. Communication policies and media institutions in times of rapid technological change. Course Information: Same as <a href="/search/?P=POLS%20207" title="POLS&#160;207" class="bubblelink code" onclick="return showCourse(this, 'POLS 207');">POLS&#160;207</a>. Prerequisite(s): One course in political science, sociology or contemporary history.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;210.  Race, Media and Culture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The construction and dissemination of race through mediated structures. Includes but not limited to news, television, children's literature, advertising, movies, music, social media, and video games. Course Information: Prerequisite(s): Completion of the English Composition requirement.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;216.  Digital Journalism.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Basics, best practices, and ethics of digital journalism. Assembling, producing, and publicizing news content for the contemporary digital news environment. Course Information: Prerequisite(s): <a href="/search/?P=ENGL%20160" title="ENGL&#160;160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL&#160;160</a> and <a href="/search/?P=ENGL%20161" title="ENGL&#160;161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL&#160;161</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;220.  Social Media and Marketing.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The basics of marketing in the social media age.Theoretical and practical strategies used by corporations and non-profits to leverage digital communication and enhance brand identity, loyalty, and consumer engagement. Course Information: Course may be offered in a traditional, blended, or online format. Use of computer and internet access is required for all online and blended sections. Consult the Schedule of Classes for the mode of instruction. Prerequisite(s): <a href="/search/?P=ENGL%20160" title="ENGL&#160;160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL&#160;160</a> and <a href="/search/?P=ENGL%20161" title="ENGL&#160;161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL&#160;161</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;234.  History of Television.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A critical history of television. Course Information: Same as <a href="/search/?P=ENGL%20234" title="ENGL&#160;234" class="bubblelink code" onclick="return showCourse(this, 'ENGL 234');">ENGL&#160;234</a> and <a href="/search/?P=MOVI%20234" title="MOVI&#160;234" class="bubblelink code" onclick="return showCourse(this, 'MOVI 234');">MOVI&#160;234</a>. Prerequisite(s): <a href="/search/?P=ENGL%20160" title="ENGL&#160;160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL&#160;160</a> and <a href="/search/?P=ENGL%20161" title="ENGL&#160;161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL&#160;161</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;240.  Data Journalism.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The basics of journalism/reporting in the social media age. Theoretical and practical strategies used gather, analyze, and report data for current events, crime, politics and other news topics toward crafting interactive storytelling. Course Information: Prerequisite(s): <a href="/search/?P=ENGL%20160" title="ENGL&#160;160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL&#160;160</a> and <a href="/search/?P=ENGL%20161" title="ENGL&#160;161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL&#160;161</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;250.  Social Media and Society.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Social media platforms as they affect crucial social, political, and economic aspects of society. Course Information: Prerequisite(s): <a href="/search/?P=ENGL%20160" title="ENGL&#160;160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL&#160;160</a> and <a href="/search/?P=ENGL%20161" title="ENGL&#160;161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL&#160;161</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;254.  Future Television.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The expansion of television and the forces shaping its future. Course Inforamation: Prerequisite(s):
+<a href="/search/?P=ENGL%20160" title="ENGL&#160;160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL&#160;160</a> and <a href="/search/?P=ENGL%20161" title="ENGL&#160;161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL&#160;161</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;260.  Games as Social Technology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Games as networked and collaborative technologies. Focus on community building and interaction; the social impact of gaming; use of gaming technologies for communication; representation in gaming. Course Information: Prerequisite(s): Completion of the English Composition requirement.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;301.  Communication Research.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Designs and measurements for conducting empirical analyses of communication activities in both laboratory and business settings. Course Information: Prerequisite(s): <a href="/search/?P=COMM%20101" title="COMM&#160;101" class="bubblelink code" onclick="return showCourse(this, 'COMM 101');">COMM&#160;101</a> and <a href="/search/?P=COMM%20102" title="COMM&#160;102" class="bubblelink code" onclick="return showCourse(this, 'COMM 102');">COMM&#160;102</a> and <a href="/search/?P=COMM%20103" title="COMM&#160;103" class="bubblelink code" onclick="return showCourse(this, 'COMM 103');">COMM&#160;103</a>; and Credit or concurrent registration in <a href="/search/?P=COMM%20200" title="COMM&#160;200" class="bubblelink code" onclick="return showCourse(this, 'COMM 200');">COMM&#160;200</a>; and quantitative reasoning requirement met. Junior standing or above.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;303.  Communication and Culture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of the relationship between communication and culture through an exploration of the general theoretical principles linking cultural influences and communicative acts.  Course Information: Prerequisite(s):  <a href="/search/?P=COMM%20101" title="COMM&#160;101" class="bubblelink code" onclick="return showCourse(this, 'COMM 101');">COMM&#160;101</a> and <a href="/search/?P=COMM%20103" title="COMM&#160;103" class="bubblelink code" onclick="return showCourse(this, 'COMM 103');">COMM&#160;103</a>; and Credit or concurrent registration in <a href="/search/?P=COMM%20102" title="COMM&#160;102" class="bubblelink code" onclick="return showCourse(this, 'COMM 102');">COMM&#160;102</a>; and Credit or concurrent registration in <a href="/search/?P=COMM%20200" title="COMM&#160;200" class="bubblelink code" onclick="return showCourse(this, 'COMM 200');">COMM&#160;200</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;304.  Gender and Communication.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Speech differences and universals across genders. Talk in male-female interaction. Communication in romantic relationships. Gender issues in work settings. Course Information: Same as <a href="/search/?P=GWS%20304" title="GWS&#160;304" class="bubblelink code" onclick="return showCourse(this, 'GWS 304');">GWS&#160;304</a>. Prerequisite(s): <a href="/search/?P=COMM%20101" title="COMM&#160;101" class="bubblelink code" onclick="return showCourse(this, 'COMM 101');">COMM&#160;101</a> and <a href="/search/?P=COMM%20103" title="COMM&#160;103" class="bubblelink code" onclick="return showCourse(this, 'COMM 103');">COMM&#160;103</a> and Credit or concurrent registration in <a href="/search/?P=COMM%20102" title="COMM&#160;102" class="bubblelink code" onclick="return showCourse(this, 'COMM 102');">COMM&#160;102</a> and Credit or concurrent registration in <a href="/search/?P=COMM%20200" title="COMM&#160;200" class="bubblelink code" onclick="return showCourse(this, 'COMM 200');">COMM&#160;200</a>; or <a href="/search/?P=GWS%20204" title="GWS&#160;204" class="bubblelink code" onclick="return showCourse(this, 'GWS 204');">GWS&#160;204</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;306.  Organizational Communication.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of communication issues in organizational settings. Exposure to topics such as rules, networks, leadership, and decision making as well as methods of analyzing communication problems. Course Information: Prerequisite(s): <a href="/search/?P=COMM%20101" title="COMM&#160;101" class="bubblelink code" onclick="return showCourse(this, 'COMM 101');">COMM&#160;101</a> and <a href="/search/?P=COMM%20103" title="COMM&#160;103" class="bubblelink code" onclick="return showCourse(this, 'COMM 103');">COMM&#160;103</a>; and Credit or concurrent registration in <a href="/search/?P=COMM%20102" title="COMM&#160;102" class="bubblelink code" onclick="return showCourse(this, 'COMM 102');">COMM&#160;102</a>; and Credit or concurrent registration in <a href="/search/?P=COMM%20200" title="COMM&#160;200" class="bubblelink code" onclick="return showCourse(this, 'COMM 200');">COMM&#160;200</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;309.  Environmental Communication.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Description and analysis of communication practices about environmental issues with attention to conflict resolution, media coverage, advocacy initiatives and marketing campaigns. Course Information: Prerequisite(s): <a href="/search/?P=COMM%20101" title="COMM&#160;101" class="bubblelink code" onclick="return showCourse(this, 'COMM 101');">COMM&#160;101</a> and <a href="/search/?P=COMM%20103" title="COMM&#160;103" class="bubblelink code" onclick="return showCourse(this, 'COMM 103');">COMM&#160;103</a>; and Credit or concurrent registration in <a href="/search/?P=COMM%20102" title="COMM&#160;102" class="bubblelink code" onclick="return showCourse(this, 'COMM 102');">COMM&#160;102</a>; and Credit or concurrent registration in <a href="/search/?P=COMM%20200" title="COMM&#160;200" class="bubblelink code" onclick="return showCourse(this, 'COMM 200');">COMM&#160;200</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;311.  Interviewing and Communication.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Study of the forms and principles of information-seeking interviews, with special attention to fact-finding and data gathering missions. Course Information: Prerequisite(s): <a href="/search/?P=COMM%20101" title="COMM&#160;101" class="bubblelink code" onclick="return showCourse(this, 'COMM 101');">COMM&#160;101</a> and <a href="/search/?P=COMM%20103" title="COMM&#160;103" class="bubblelink code" onclick="return showCourse(this, 'COMM 103');">COMM&#160;103</a>; and Credit or concurrent registration in <a href="/search/?P=COMM%20102" title="COMM&#160;102" class="bubblelink code" onclick="return showCourse(this, 'COMM 102');">COMM&#160;102</a> and Credit or concurrent registration in <a href="/search/?P=COMM%20200" title="COMM&#160;200" class="bubblelink code" onclick="return showCourse(this, 'COMM 200');">COMM&#160;200</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;315.  Group Communication.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Study and practice in the theories and techniques of group communication; the nature of small group decision-making; observation and analysis of established work groups. Course Information: Prerequisite(s): <a href="/search/?P=COMM%20101" title="COMM&#160;101" class="bubblelink code" onclick="return showCourse(this, 'COMM 101');">COMM&#160;101</a> and <a href="/search/?P=COMM%20103" title="COMM&#160;103" class="bubblelink code" onclick="return showCourse(this, 'COMM 103');">COMM&#160;103</a>; and Credit or concurrent registration in <a href="/search/?P=COMM%20102" title="COMM&#160;102" class="bubblelink code" onclick="return showCourse(this, 'COMM 102');">COMM&#160;102</a>; and Credit or concurrent registration in <a href="/search/?P=COMM%20200" title="COMM&#160;200" class="bubblelink code" onclick="return showCourse(this, 'COMM 200');">COMM&#160;200</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;316.  Writing for the Electronic Media.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Principles of writing applied to the presentation of information in electronic media.  Practical applications and analysis of relations between form and content. Course Information: Prerequisite(s): <a href="/search/?P=COMM%20101" title="COMM&#160;101" class="bubblelink code" onclick="return showCourse(this, 'COMM 101');">COMM&#160;101</a> and <a href="/search/?P=COMM%20103" title="COMM&#160;103" class="bubblelink code" onclick="return showCourse(this, 'COMM 103');">COMM&#160;103</a>; and Credit or concurrent registration in <a href="/search/?P=COMM%20102" title="COMM&#160;102" class="bubblelink code" onclick="return showCourse(this, 'COMM 102');">COMM&#160;102</a>; and Credit or concurrent registration in <a href="/search/?P=COMM%20200" title="COMM&#160;200" class="bubblelink code" onclick="return showCourse(this, 'COMM 200');">COMM&#160;200</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;323.  Argument and Persuasion.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis and application of historical and contemporary theories of argument and persuasion as they function to form or change opinions and beliefs. Course Information: Prerequisite(s): <a href="/search/?P=COMM%20101" title="COMM&#160;101" class="bubblelink code" onclick="return showCourse(this, 'COMM 101');">COMM&#160;101</a> and <a href="/search/?P=COMM%20103" title="COMM&#160;103" class="bubblelink code" onclick="return showCourse(this, 'COMM 103');">COMM&#160;103</a>; and Credit or concurrent registration in <a href="/search/?P=COMM%20102" title="COMM&#160;102" class="bubblelink code" onclick="return showCourse(this, 'COMM 102');">COMM&#160;102</a>; and Credit or concurrent registration in <a href="/search/?P=COMM%20200" title="COMM&#160;200" class="bubblelink code" onclick="return showCourse(this, 'COMM 200');">COMM&#160;200</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;326.  Public Relations and Social Responsibility.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Foundational public relations (PR) theory and practices. Focus on how PR plays a more active role in the betterment of organizations and society. Emphasis on corporate social responsibility (CSR) initiatives and case studies. Course Information: Prerequisite(s): <a href="/search/?P=COMM%20101" title="COMM&#160;101" class="bubblelink code" onclick="return showCourse(this, 'COMM 101');">COMM&#160;101</a> and <a href="/search/?P=COMM%20103" title="COMM&#160;103" class="bubblelink code" onclick="return showCourse(this, 'COMM 103');">COMM&#160;103</a>; and Credit or concurrent registration in <a href="/search/?P=COMM%20102" title="COMM&#160;102" class="bubblelink code" onclick="return showCourse(this, 'COMM 102');">COMM&#160;102</a>; and Credit or concurrent registration in <a href="/search/?P=COMM%20200" title="COMM&#160;200" class="bubblelink code" onclick="return showCourse(this, 'COMM 200');">COMM&#160;200</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;330.  Mass Media and Popular Culture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A theoretical and analytical examination of the media and popular arts as cultural artifacts. Focus on form, content, design, and effects of cultural commodities. Course Information: Prerequisite(s): <a href="/search/?P=COMM%20101" title="COMM&#160;101" class="bubblelink code" onclick="return showCourse(this, 'COMM 101');">COMM&#160;101</a> and <a href="/search/?P=COMM%20103" title="COMM&#160;103" class="bubblelink code" onclick="return showCourse(this, 'COMM 103');">COMM&#160;103</a>; and Credit or concurrent registration in <a href="/search/?P=COMM%20102" title="COMM&#160;102" class="bubblelink code" onclick="return showCourse(this, 'COMM 102');">COMM&#160;102</a>; and Credit or concurrent registration in <a href="/search/?P=COMM%20200" title="COMM&#160;200" class="bubblelink code" onclick="return showCourse(this, 'COMM 200');">COMM&#160;200</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;350.  Personal Relationships and Technology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of personal connections in the digital age. Focus on romantic relationships, friendships, families and other social relationships. Topics include identity, intimacy, and relationship development. Course Information: Prerequisite(s): <a href="/search/?P=COMM%20101" title="COMM&#160;101" class="bubblelink code" onclick="return showCourse(this, 'COMM 101');">COMM&#160;101</a> and <a href="/search/?P=COMM%20103" title="COMM&#160;103" class="bubblelink code" onclick="return showCourse(this, 'COMM 103');">COMM&#160;103</a>; and Credit or concurrent registration in <a href="/search/?P=COMM%20102" title="COMM&#160;102" class="bubblelink code" onclick="return showCourse(this, 'COMM 102');">COMM&#160;102</a>; and Credit or concurrent registration in <a href="/search/?P=COMM%20200" title="COMM&#160;200" class="bubblelink code" onclick="return showCourse(this, 'COMM 200');">COMM&#160;200</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;394.  Special Topics in Communication.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of contemporary or historical issues in media and communication. Course Information: May be repeated to a maximum of 9 hours if topic is different for each registration. Prerequisite(s): <a href="/search/?P=COMM%20101" title="COMM&#160;101" class="bubblelink code" onclick="return showCourse(this, 'COMM 101');">COMM&#160;101</a> and <a href="/search/?P=COMM%20103" title="COMM&#160;103" class="bubblelink code" onclick="return showCourse(this, 'COMM 103');">COMM&#160;103</a>; and Credit or concurrent registration in <a href="/search/?P=COMM%20102" title="COMM&#160;102" class="bubblelink code" onclick="return showCourse(this, 'COMM 102');">COMM&#160;102</a>; and Credit or concurrent registration in <a href="/search/?P=COMM%20200" title="COMM&#160;200" class="bubblelink code" onclick="return showCourse(this, 'COMM 200');">COMM&#160;200</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;416.  Conflict and Communication.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Students learn to manage and resolve conflict in business, governmental, and community settings. Practical analysis of interpersonal and group conflict cases. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=COMM%20301" title="COMM&#160;301" class="bubblelink code" onclick="return showCourse(this, 'COMM 301');">COMM&#160;301</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;423.  Discourse and Rhetoric.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Exploration of interconnections between language and social practices with attention to multiple components of discursive situations: senders, receivers, context, code, media, and content. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=COMM%20301" title="COMM&#160;301" class="bubblelink code" onclick="return showCourse(this, 'COMM 301');">COMM&#160;301</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;425.  Digital Advocacy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Social media, social movements and advocacy efforts in the digital era. Topics covered include hashtag activism, global movements, digital activism, online mobilization around social injustice. Course Information: Prerequisite(s): <a href="/search/?P=COMM%20301" title="COMM&#160;301" class="bubblelink code" onclick="return showCourse(this, 'COMM 301');">COMM&#160;301</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;430.  Media, Information and Society.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Dissemination of information via mass media involving social functions and significant questions about facts, truth, knowledge and values. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=COMM%20301" title="COMM&#160;301" class="bubblelink code" onclick="return showCourse(this, 'COMM 301');">COMM&#160;301</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;433.  Mobile Media and the City.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Relationship between contemporary technologies - new media, urban screens, mobile and wireless technologies, ubiquitous computing - and cities. Foundational theory on mobile media and communication. Course Information: Prerequisite(s): <a href="/search/?P=COMM%20301" title="COMM&#160;301" class="bubblelink code" onclick="return showCourse(this, 'COMM 301');">COMM&#160;301</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;434.  Global Communication Systems.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Structure and flow of international communication. Media organization systems. International impact of new media and information technology. Impact of U.S. media reporting on foreign affairs. Course Information:  3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=COMM%20301" title="COMM&#160;301" class="bubblelink code" onclick="return showCourse(this, 'COMM 301');">COMM&#160;301</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;435.  Data, Privacy and Ethics in the Digital Age.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Datafication and privacy. Topics include commodification of personal information through various devices and platforms; the quantified self; legal, ethical, and contextual approaches to privacy; politics of algorithms. Course Information: Prerequisite(s): <a href="/search/?P=COMM%20301" title="COMM&#160;301" class="bubblelink code" onclick="return showCourse(this, 'COMM 301');">COMM&#160;301</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;440.  Technology, Social Justice, and Sustainable Futures.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Complex interplay between technology, humans and the environment. Anthropocene and climate change. Sustainable design. Electronic waste. Environmental racism. Futurology and Afrofuturism. Technological diffusion and planned obsolescence. Course Information: Prerequisite(s):
+<a href="/search/?P=COMM%20301" title="COMM&#160;301" class="bubblelink code" onclick="return showCourse(this, 'COMM 301');">COMM&#160;301</a>; or approval of the department.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;458.  Minorities and Communication.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Description and analysis of the processes through which ethnic and racial perceptions shape public discourse. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=COMM%20301" title="COMM&#160;301" class="bubblelink code" onclick="return showCourse(this, 'COMM 301');">COMM&#160;301</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;460.  Visual Communication.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Exploration of processes through which meaning is derived from visible signs, and the role of media images in the cultural context. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=COMM%20301" title="COMM&#160;301" class="bubblelink code" onclick="return showCourse(this, 'COMM 301');">COMM&#160;301</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;465.  Video Games and Society.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Games and their complex socio-cultural impact on society. Explores what games say about the nature of identity, community, presence, learning, and communication. Course Information: Prerequisite(s): <a href="/search/?P=COMM%20301" title="COMM&#160;301" class="bubblelink code" onclick="return showCourse(this, 'COMM 301');">COMM&#160;301</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;467.  Public Opinion and Political Communication.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Nature of public opinion and political communication systems. Patterns of opinion distribution and its measurement. Forces shaping public opinion and its impact on public policy. Course Information: Same as <a href="/search/?P=POLS%20467" title="POLS&#160;467" class="bubblelink code" onclick="return showCourse(this, 'POLS 467');">POLS&#160;467</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=POLS%20200" title="POLS&#160;200" class="bubblelink code" onclick="return showCourse(this, 'POLS 200');">POLS&#160;200</a> or the equivalent or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;474.  Internship.  1-8 hours.</strong></p>
+<p class="courseblockdesc">
+Students work in an approved professional setting. Individual projects developed through conferences with a faculty member and a field supervisor. Course Information: May be repeated to a maximum of 8 hours. No more than 3 credit hours of <a href="/search/?P=COMM%20474" title="COMM&#160;474" class="bubblelink code" onclick="return showCourse(this, 'COMM 474');">COMM&#160;474</a> may be applied toward the major. May not be counted toward the minimum Master of Arts degree requirements. Prerequisite(s): Approval of the Department.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;489.  Human Augmentics.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of technologies for augmentation of human capabilities; human limitations; implants and wearable technologies; implants; brain-computer interfaces; exoskeletons; sensors; and networks. Includes project work. Course Information: Same as <a href="/search/?P=CS%20486" title="CS&#160;486" class="bubblelink code" onclick="return showCourse(this, 'CS 486');">CS&#160;486</a>. 3 undergraduate hours. 4 graduate hours. Extensive computer use required. Prerequisite(s): Senior standing or above; or consent of the instructor; or Senior majoring in Communications or Psychology.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;490.  Seminar in Culture and Communication.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of contrastive cultural paradigms (interethnic, gender, class) to develop student's awareness of own socialization and cultural orientation. Course Information:  This course may be offered as a blended-online and classroom course. Use of computer and internet access is required. A high-speed connection, while not required, is strongly suggested. Prerequisite(s): <a href="/search/?P=COMM%20301" title="COMM&#160;301" class="bubblelink code" onclick="return showCourse(this, 'COMM 301');">COMM&#160;301</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;491.  Seminar in Media and Communication.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of contemporary or historical issues in mediated communication.  Course Information:  This course may be offered as a blended-online and classroom course. Use of computer and internet access is required. A high speed connection, while not required, is strongly suggested.  Prerequisite(s):  <a href="/search/?P=COMM%20301" title="COMM&#160;301" class="bubblelink code" onclick="return showCourse(this, 'COMM 301');">COMM&#160;301</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;494.  Special Topics in Communication.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Contemporary trends in the field of communication. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 2 time(s). Prerequisite(s): <a href="/search/?P=COMM%20301" title="COMM&#160;301" class="bubblelink code" onclick="return showCourse(this, 'COMM 301');">COMM&#160;301</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>COMM&#160;498.  Independent Study.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Individual investigation of special problems (student-initiated or related to faculty research). May be used for special projects, such as interdisciplinary seminars. Course Information: May be repeated to a maximum of 8 hours. No more than 3 credit hours of <a href="/search/?P=COMM%20498" title="COMM&#160;498" class="bubblelink code" onclick="return showCourse(this, 'COMM 498');">COMM&#160;498</a> may be applied toward the major. Credit earned may not be applied toward the minimum Master of Arts in Communication degree requirements. Prerequisite(s): Approval of the Department and Junior or Senior standing.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="comm.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

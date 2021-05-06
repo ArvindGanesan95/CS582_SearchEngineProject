@@ -1,0 +1,362 @@
+https://catalog.uic.edu/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-pubh/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Pre-Public Health &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/liberal-arts-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/">Anthropology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/">Biochemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/">Biological Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/">Black Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/">Chemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/">Classics and Mediterranean Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/">Communication</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/">Criminology, Law, and Justice</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/">Earth and Environmental Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/">Economics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/">English</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French and Francophone Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/">Gender and Women's Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/">Germanic Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/">Global Asian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/">Hispanic and Italian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/">History</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/">Integrated Health Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/">International Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/">Liberal Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/">Linguistics</a></li>
+				<li><a href="/ucat/colleges-depts/liberal-arts-sciences/lcsl/">Literatures, Cultural Studies, and Linguistics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/">Mathematics, Statistics, and Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/">Moving Image Arts</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/">Neuroscience</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/">Philosophy</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/">Physics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/">Polish, Russian, and Lithuanian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/">Political Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/">Psychology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/">Religious Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/">Sociology</a></li>
+				<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional Studies</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-dent/">Pre-&#8203;Dentistry</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-med/">Pre-&#8203;Medicine</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-ot/">Pre-&#8203;Occupational Therapy</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-pt/">Pre-&#8203;Physical Therapy</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-vet-med/">Pre-&#8203;Veterinary Medicine</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-him/">Pre-&#8203;Health Information Management</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-nurs/">Pre-&#8203;Nursing</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-nut/">Pre-&#8203;Nutrition</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-pharm/">Pre-&#8203;Pharmacy</a></li>
+					<li class="active self"><a href="#" onclick="return false;">Pre-&#8203;Public Health</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-law/">Pre-&#8203;Law</a></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/">College&nbsp;of&nbsp;Liberal&nbsp;Arts&nbsp;and&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional&nbsp;Studies</a><span class="crumbsep">/</span></li><li><span class="active">Pre-Public Health</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Pre-Public Health</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p><span style="font-size:1em">Students apply for admission through the School of Public Health. Admission into the Bachelor of Arts in Public Health and Bachelor of Science in Public Health programs is selective and dependent on the availability of space. Students seeking direct admission to the Bachelor of Arts in Public Health or Bachelor of Science in Public Health programs must meet these minimum requirements:</span></p>
+<ol>
+	<li>Junior standing - completion of 60 semester hours of specified General Education course work at UIC or from any accredited community college or four-year college or university. Note: Students who have not yet completed the specified general education course work necessary for direct admission to the Bachelor of Arts in Public Health or Bachelor of Science in Public Health programs are eligible to apply to the Public Health–Undecided (Pre-Public Health) program within the School of Public Health.</li>
+	<li>Specified General Education course work includes completion of 9 semester hours of introductory public health course work with a grade of B or better in each course (<a href="https://catalog.uic.edu/search/?P=PUBH%20100" title="PUBH 100">PUBH 100</a>, <a href="https://catalog.uic.edu/search/?P=PUBH%20110" title="PUBH 110">PUBH 110</a>, and <a href="https://catalog.uic.edu/search/?P=PUBH%20120" title="PUBH 120">PUBH 120</a>). Special consideration will be given to students who have taken comparable prerequisites at community colleges or other four-year colleges or universities.</li>
+	<li> Minimum cumulative grade point average of 2.50/4.00. A 2.75/4.00 or above is recommended for priority consideration.</li>
+	<li>Personal statement of educational goals including reasons for selecting a public health degree.</li>
+	<li>One letter of recommendation from a professional or academic reference.</li>
+</ol>
+<p>The 60 semester hours required for admission to the Bachelor of Arts in Public Health or of Bachelor of Science in Public Health should include the following courses:</p>
+<h3><strong>Pre-Public Health Requirements for the BA in Public Health</strong></h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td><td>Academic Writing I: Writing in Academic and Public Contexts</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td><td>Academic Writing II: Writing for Inquiry and Research</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Foreign language (16 hours in a single language or equivalent)</span> <sup>a</sup></td><td class="hourscol">16</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Quantitative Reasoning course</span> <sup>b</sup></td><td class="hourscol">3-5</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=PUBH%20100" title="PUBH 100" class="bubblelink code" onclick="return showCourse(this, 'PUBH 100');">PUBH 100</a></td><td>Health and the Public <sup>c, d </sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=PUBH%20105" title="PUBH 105" class="bubblelink code" onclick="return showCourse(this, 'PUBH 105');">PUBH 105</a></td><td>Foundations for Public Health <sup>e</sup></td><td class="hourscol">2</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=PUBH%20110" title="PUBH 110" class="bubblelink code" onclick="return showCourse(this, 'PUBH 110');">PUBH 110</a></td><td>Public Health and Global Societies <sup>c, f</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=PUBH%20120" title="PUBH 120" class="bubblelink code" onclick="return showCourse(this, 'PUBH 120');">PUBH 120</a></td><td>Public Health and the Study of Disease and Epidemics <sup>g</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Analyzing the Natural World: two courses required, including <a href="/search/?P=PUBH%20120" title="PUBH 120" class="bubblelink code" onclick="return showCourse(this, 'PUBH 120');">PUBH 120</a> (see above) and a Life Science course with a lab as indicated below.</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Life Science course</span></td><td class="hourscol">4</td></tr>
+<tr class="odd"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Select one of the following:</span></div></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ANTH%20105" title="ANTH 105" class="bubblelink code" onclick="return showCourse(this, 'ANTH 105');">ANTH 105</a></div></td><td>Human Evolution</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=BIOS%20104" title="BIOS 104" class="bubblelink code" onclick="return showCourse(this, 'BIOS 104');">BIOS 104</a></div></td><td>Biology for Non-majors</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a></div></td><td>Biology of Cells and Organisms</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=BIOS%20120" title="BIOS 120" class="bubblelink code" onclick="return showCourse(this, 'BIOS 120');">BIOS 120</a></div></td><td>Biology of Populations and Communities</td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Exploring World Cultures course</span> <sup>h, j</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Understanding U.S. Society course</span> <sup>i, j</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Understanding the Individual and Society course</span> <sup>h, i, j</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Understanding the Past course</span> <sup>j</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Understanding the Creative Arts course</span> <sup>j</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Additional General Education course(s) from any category, as necessary to total 24 hours of General Education credit.</span> <sup>j</sup></td><td class="hourscol">1-3</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">Free electives to total 60 hours</span></td><td class="hourscol">0-10</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">60</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>If a student has a background in a foreign language, proficiency in that language will be determined by testing. Should a student be deemed proficient, other course work is chosen for this credit hour requirement. See the<a href="/ucat/colleges-depts/liberal-arts-sciences/"> College of Liberal Arts and Sciences</a> foreign language requirement for further explanation. </em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>See Quantitative Reasoning in the <a href="/ucat/colleges-depts/public-health">School of Public Health</a> section. </em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>This course is approved for the Understanding the Individual and Society General Education category. Courses approved for more than one General Education category may only be applied to one General Education category. </em></p></td></tr><tr><td valign="top" class="symcol">d</td><td class="notecol"><p><em>This course is approved for the Understanding U.S. Society General Education category. Courses approved for more than one General Education category may only be applied to one General Education category. </em></p></td></tr><tr><td valign="top" class="symcol">e</td><td class="notecol"><p><em>Required for new first year students in the School of Public Health as well as transfer students who enter the School of Public Health with less than 24 credit hours earned. Others may enroll with permission of instructor if space permits. </em></p></td></tr><tr><td valign="top" class="symcol">f</td><td class="notecol"><p><em>This course is approved for the Exploring World Cultures General Education category. Courses approved for more than one General Education category may only be applied to one General Education category. </em></p></td></tr><tr><td valign="top" class="symcol">g</td><td class="notecol"><p><em>This course is approved for the Analyzing the Natural World General Education category (nonlaboratory course). </em></p></td></tr><tr><td valign="top" class="symcol">h</td><td class="notecol"><p> <em>Students must take a course approved for this General Education category if not fulfilled by <span class="sc_courseinline"><a href="/search/?P=PUBH%20110" title="PUBH 110" class="bubblelink code" onclick="return showCourse(this, 'PUBH 110');">PUBH 110</a></span>.</em></p></td></tr><tr><td valign="top" class="symcol">i</td><td class="notecol"><p><em>Students must take a course approved for this General Education category if not fulfilled by <span class="sc_courseinline"><a href="/search/?P=PUBH%20100" title="PUBH 100" class="bubblelink code" onclick="return showCourse(this, 'PUBH 100');">PUBH 100</a></span>.</em></p></td></tr><tr><td valign="top" class="symcol">j</td><td class="notecol"><p><em>Students should consult the <a href="/ucat/degree-programs/general-education/">General Education</a> section of the catalog for a list of approved courses in this category. All students must complete a minimum of 24 semester hours of General Education course work with at least one course from each of the six General Education categories. </em></p></td></tr></table>
+<h3> <strong>Pre-Public Health Requirements for the BS in Public Health</strong></h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td><td>Academic Writing I: Writing in Academic and Public Contexts</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td><td>Academic Writing II: Writing for Inquiry and Research</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Quantitative Reasoning Course</span> <sup>a</sup></td><td class="hourscol">4-5</td></tr>
+<tr class="even"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Select one of the following:</span></div></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=STAT%20101" title="STAT 101" class="bubblelink code" onclick="return showCourse(this, 'STAT 101');">STAT 101</a></div></td><td>Introduction to Statistics</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=STAT%20130" title="STAT 130" class="bubblelink code" onclick="return showCourse(this, 'STAT 130');">STAT 130</a></div></td><td>Introduction to Statistics for the Life Sciences</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MATH%20121" title="MATH 121" class="bubblelink code" onclick="return showCourse(this, 'MATH 121');">MATH 121</a></div></td><td>Precalculus Mathematics</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MATH%20170" title="MATH 170" class="bubblelink code" onclick="return showCourse(this, 'MATH 170');">MATH 170</a></div></td><td>Calculus for the Life Sciences</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MATH%20180" title="MATH 180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH 180</a></div></td><td>Calculus I</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=PUBH%20100" title="PUBH 100" class="bubblelink code" onclick="return showCourse(this, 'PUBH 100');">PUBH 100</a></td><td>Health and the Public <sup>b,c</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=PUBH%20105" title="PUBH 105" class="bubblelink code" onclick="return showCourse(this, 'PUBH 105');">PUBH 105</a></td><td>Foundations for Public Health <sup>d</sup></td><td class="hourscol">2</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=PUBH%20110" title="PUBH 110" class="bubblelink code" onclick="return showCourse(this, 'PUBH 110');">PUBH 110</a></td><td>Public Health and Global Societies <sup>b,e</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=PUBH%20120" title="PUBH 120" class="bubblelink code" onclick="return showCourse(this, 'PUBH 120');">PUBH 120</a></td><td>Public Health and the Study of Disease and Epidemics <sup>f</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Life Science course with a lab. Select one of the following:</span></td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a></div></td><td>Biology of Cells and Organisms</td><td class="hourscol"></td></tr>
+<tr class="orclass odd"><td class="codecol orclass"><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=BIOS%20120" title="BIOS 120" class="bubblelink code" onclick="return showCourse(this, 'BIOS 120');">BIOS 120</a></div></td><td colspan="2"> Biology of Populations and Communities</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Exploring World Cultures course</span> <sup>g,i</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Understanding U.S. Society course</span> <sup>h,i</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Understanding the Individual and Society course</span> <sup>g,h,i</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Understanding the Past course</span> <sup>i</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Understanding the Creative Arts course</span> <sup>i</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Additional General Education course(s) from any category, as necessary, to total 24 hours of General Education</span></td><td class="hourscol">0-2</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">Free electives to total 60 hours</span> <sup>j</sup></td><td class="hourscol">19-24</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">60</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Fulfillment of the quantitative reasoning requirement may be satisfied through placement exam. <span class="sc_courseinline"><a href="/search/?P=STAT%20101" title="STAT 101" class="bubblelink code" onclick="return showCourse(this, 'STAT 101');">STAT 101</a></span> or <span class="sc_courseinline"><a href="/search/?P=STAT%20130" title="STAT 130" class="bubblelink code" onclick="return showCourse(this, 'STAT 130');">STAT 130</a></span> is recommended to fulfill this requirement. </em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>This course is approved for the Understanding the Individual and Society General Education category. </em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>This course is approved for the Understanding U.S. Society General Education category. </em></p></td></tr><tr><td valign="top" class="symcol">d</td><td class="notecol"><p><em>Required for first year students in the School of Public Health as well as transfer students who enter the School of Public Health with less than 24 semester hours. Other students may enroll with permission of the instructor if space permits. </em></p></td></tr><tr><td valign="top" class="symcol">e</td><td class="notecol"><p><em>This course is approved for the Exploring World Cultures General Education category. </em></p></td></tr><tr><td valign="top" class="symcol">f</td><td class="notecol"><p><em>This course is approved for the Analyzing the Natural World General Education category (non laboratory course). </em></p></td></tr><tr><td valign="top" class="symcol">g</td><td class="notecol"><p><em>Students must take a course approved for this General Education category if not fulfilled by <span class="sc_courseinline"><a href="/search/?P=PUBH%20110" title="PUBH 110" class="bubblelink code" onclick="return showCourse(this, 'PUBH 110');">PUBH 110</a></span>.</em></p></td></tr><tr><td valign="top" class="symcol">h</td><td class="notecol"><p><em>Students must take a course approved for this General Education category if not fulfilled by <span class="sc_courseinline"><a href="/search/?P=PUBH%20100" title="PUBH 100" class="bubblelink code" onclick="return showCourse(this, 'PUBH 100');">PUBH 100</a></span>.</em></p></td></tr><tr><td valign="top" class="symcol">i</td><td class="notecol"><p><em>Students should consult the General Education section of the catalog for a list of approved courses in this category. All students must complete a minimum of 24 semester hours of General Education course work with at least one course from each of the six General Education categories. Courses approved for more than one General Education category may only be applied to one General Education category.</em></p></td></tr><tr><td valign="top" class="symcol">j</td><td class="notecol"><p><em>If any future selective courses have prerequisites that are not already satisfied by the University and General Education requirements, students are advised to choose free electives that work towards satisfying these requirements.</em></p></td></tr></table></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="pre-pubh.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

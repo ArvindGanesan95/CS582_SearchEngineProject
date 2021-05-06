@@ -1,0 +1,473 @@
+https://catalog.uic.edu/ucat/course-descriptions/asp/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Academic Skills Program (ASP) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a></li>
+		<li class="active isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a>
+		<ul class="nav leveltwo" id="/ucat/course-descriptions/">
+			<li class="active self"><a href="#" onclick="return false;">Academic Skills Program (ASP)</a></li>
+			<li><a href="/ucat/course-descriptions/actg/">Accounting (ACTG)</a></li>
+			<li><a href="/ucat/course-descriptions/aast/">African American Studies (AAST)</a></li>
+			<li><a href="/ucat/course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+			<li><a href="/ucat/course-descriptions/anth/">Anthropology (ANTH)</a></li>
+			<li><a href="/ucat/course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+			<li><a href="/ucat/course-descriptions/arab/">Arabic (ARAB)</a></li>
+			<li><a href="/ucat/course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+			<li><a href="/ucat/course-descriptions/arch/">Architecture (ARCH)</a></li>
+			<li><a href="/ucat/course-descriptions/art/">Art (ART)</a></li>
+			<li><a href="/ucat/course-descriptions/ah/">Art History (AH)</a></li>
+			<li><a href="/ucat/course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+			<li><a href="/ucat/course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+			<li><a href="/ucat/course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+			<li><a href="/ucat/course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+			<li><a href="/ucat/course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+			<li><a href="/ucat/course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+			<li><a href="/ucat/course-descriptions/blst/">Black Studies (BLST)</a></li>
+			<li><a href="/ucat/course-descriptions/ba/">Business Administration (BA)</a></li>
+			<li><a href="/ucat/course-descriptions/cc/">Campus Courses (CC)</a></li>
+			<li><a href="/ucat/course-descriptions/cst/">Catholic Studies (CST)</a></li>
+			<li><a href="/ucat/course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+			<li><a href="/ucat/course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+			<li><a href="/ucat/course-descriptions/chem/">Chemistry (CHEM)</a></li>
+			<li><a href="/ucat/course-descriptions/chin/">Chinese (CHIN)</a></li>
+			<li><a href="/ucat/course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+			<li><a href="/ucat/course-descriptions/cl/">Classics (CL)</a></li>
+			<li><a href="/ucat/course-descriptions/comm/">Communication (COMM)</a></li>
+			<li><a href="/ucat/course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+			<li><a href="/ucat/course-descriptions/cs/">Computer Science (CS)</a></li>
+			<li><a href="/ucat/course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+			<li><a href="/ucat/course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+			<li><a href="/ucat/course-descriptions/des/">Design (DES)</a></li>
+			<li><a href="/ucat/course-descriptions/dlg/">Dialogue (DLG)</a></li>
+			<li><a href="/ucat/course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+			<li><a href="/ucat/course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+			<li><a href="/ucat/course-descriptions/econ/">Economics (ECON)</a></li>
+			<li><a href="/ucat/course-descriptions/ed/">Education (ED)</a></li>
+			<li><a href="/ucat/course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+			<li><a href="/ucat/course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+			<li><a href="/ucat/course-descriptions/ece/">Electrical and Computer Engr (ECE)</a></li>
+			<li><a href="/ucat/course-descriptions/engr/">Engineering (ENGR)</a></li>
+			<li><a href="/ucat/course-descriptions/engl/">English (ENGL)</a></li>
+			<li><a href="/ucat/course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+			<li><a href="/ucat/course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+			<li><a href="/ucat/course-descriptions/fin/">Finance (FIN)</a></li>
+			<li><a href="/ucat/course-descriptions/fr/">French (FR)</a></li>
+			<li><a href="/ucat/course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+			<li><a href="/ucat/course-descriptions/geog/">Geography (GEOG)</a></li>
+			<li><a href="/ucat/course-descriptions/ger/">Germanic Studies (GER)</a></li>
+			<li><a href="/ucat/course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+			<li><a href="/ucat/course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+			<li><a href="/ucat/course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+			<li><a href="/ucat/course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+			<li><a href="/ucat/course-descriptions/him/">Health Information Management (HIM)</a></li>
+			<li><a href="/ucat/course-descriptions/heb/">Hebrew (HEB)</a></li>
+			<li><a href="/ucat/course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+			<li><a href="/ucat/course-descriptions/hist/">History (HIST)</a></li>
+			<li><a href="/ucat/course-descriptions/hon/">Honors College Courses (HON)</a></li>
+			<li><a href="/ucat/course-descriptions/hn/">Human Nutrition (HN)</a></li>
+			<li><a href="/ucat/course-descriptions/hum/">Humanities (HUM)</a></li>
+			<li><a href="/ucat/course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+			<li><a href="/ucat/course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+			<li><a href="/ucat/course-descriptions/it/">Information Technology (IT)</a></li>
+			<li><a href="/ucat/course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+			<li><a href="/ucat/course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+			<li><a href="/ucat/course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+			<li><a href="/ucat/course-descriptions/inst/">International Studies (INST)</a></li>
+			<li><a href="/ucat/course-descriptions/ital/">Italian (ITAL)</a></li>
+			<li><a href="/ucat/course-descriptions/jpn/">Japanese (JPN)</a></li>
+			<li><a href="/ucat/course-descriptions/jst/">Jewish Studies (JST)</a></li>
+			<li><a href="/ucat/course-descriptions/kn/">Kinesiology (KN)</a></li>
+			<li><a href="/ucat/course-descriptions/kor/">Korean (KOR)</a></li>
+			<li><a href="/ucat/course-descriptions/lat/">Latin (LAT)</a></li>
+			<li><a href="/ucat/course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+			<li><a href="/ucat/course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+			<li><a href="/ucat/course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+			<li><a href="/ucat/course-descriptions/ling/">Linguistics (LING)</a></li>
+			<li><a href="/ucat/course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+			<li><a href="/ucat/course-descriptions/lith/">Lithuanian (LITH)</a></li>
+			<li><a href="/ucat/course-descriptions/mgmt/">Management (MGMT)</a></li>
+			<li><a href="/ucat/course-descriptions/mktg/">Marketing (MKTG)</a></li>
+			<li><a href="/ucat/course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+			<li><a href="/ucat/course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+			<li><a href="/ucat/course-descriptions/math/">Mathematics (MATH)</a></li>
+			<li><a href="/ucat/course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+			<li><a href="/ucat/course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+			<li><a href="/ucat/course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+			<li><a href="/ucat/course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+			<li><a href="/ucat/course-descriptions/mils/">Military Science (MILS)</a></li>
+			<li><a href="/ucat/course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+			<li><a href="/ucat/course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+			<li><a href="/ucat/course-descriptions/mus/">Music (MUS)</a></li>
+			<li><a href="/ucat/course-descriptions/nast/">Native American Studies (NAST)</a></li>
+			<li><a href="/ucat/course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+			<li><a href="/ucat/course-descriptions/ns/">Naval Science (NS)</a></li>
+			<li><a href="/ucat/course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+			<li><a href="/ucat/course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+			<li><a href="/ucat/course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+			<li><a href="/ucat/course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+			<li><a href="/ucat/course-descriptions/path/">Pathology (PATH)</a></li>
+			<li><a href="/ucat/course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+			<li><a href="/ucat/course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+			<li><a href="/ucat/course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+			<li><a href="/ucat/course-descriptions/psop/">Pharmacy Systems, Outcomes &amp;&#8203; Policy (PSOP)</a></li>
+			<li><a href="/ucat/course-descriptions/phil/">Philosophy (PHIL)</a></li>
+			<li><a href="/ucat/course-descriptions/pt/">Physical Therapy (PT)</a></li>
+			<li><a href="/ucat/course-descriptions/phys/">Physics (PHYS)</a></li>
+			<li><a href="/ucat/course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+			<li><a href="/ucat/course-descriptions/pol/">Polish (POL)</a></li>
+			<li><a href="/ucat/course-descriptions/pols/">Political Science (POLS)</a></li>
+			<li><a href="/ucat/course-descriptions/port/">Portuguese (PORT)</a></li>
+			<li><a href="/ucat/course-descriptions/psch/">Psychology (PSCH)</a></li>
+			<li><a href="/ucat/course-descriptions/pa/">Public Administration (PA)</a></li>
+			<li><a href="/ucat/course-descriptions/pubh/">Public Health (PUBH)</a></li>
+			<li><a href="/ucat/course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+			<li><a href="/ucat/course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+			<li><a href="/ucat/course-descriptions/rels/">Religious Studies (RELS)</a></li>
+			<li><a href="/ucat/course-descriptions/russ/">Russian (RUSS)</a></li>
+			<li><a href="/ucat/course-descriptions/slav/">Slavic &amp;&#8203; Baltic Languages &amp;&#8203;Lit (SLAV)</a></li>
+			<li><a href="/ucat/course-descriptions/sj/">Social Justice (SJ)</a></li>
+			<li><a href="/ucat/course-descriptions/soc/">Sociology (SOC)</a></li>
+			<li><a href="/ucat/course-descriptions/span/">Spanish (SPAN)</a></li>
+			<li><a href="/ucat/course-descriptions/sped/">Special Education (SPED)</a></li>
+			<li><a href="/ucat/course-descriptions/stat/">Statistics (STAT)</a></li>
+			<li><a href="/ucat/course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+			<li><a href="/ucat/course-descriptions/thtr/">Theatre (THTR)</a></li>
+			<li><a href="/ucat/course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+			<li><a href="/ucat/course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+			<li><a href="/ucat/course-descriptions/us/">Urban Studies (US)</a></li>
+		</ul>
+		</li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/course-descriptions/">Undergraduate&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Academic Skills Program (ASP)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Academic Skills Program (ASP)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="aspcourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;018.  Workshop for Mathematical Reasoning -LARES.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Workshop for LARES students enrolled in <a href="/search/?P=MATH%20118" title="MATH&#160;118" class="bubblelink code" onclick="return showCourse(this, 'MATH 118');">MATH&#160;118</a>. Elementary topics from algebra applied to descriptive statistics of data, scatter plots, correlation, linear regression, probability, random samples, sampling distributions. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. No graduation credit. Corequisites: Requires concurrent registration in <a href="/search/?P=MATH%20118" title="MATH&#160;118" class="bubblelink code" onclick="return showCourse(this, 'MATH 118');">MATH&#160;118</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;021.  Workshop for Precalculus Mathematics - LARES.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Workshop for LARES students enrolled in <a href="/search/?P=MATH%20121" title="MATH&#160;121" class="bubblelink code" onclick="return showCourse(this, 'MATH 121');">MATH&#160;121</a>. Logarithms, radicals, graphing of rational functions, complex numbers, trigonometry, DeMoivre's formula, theory of equations, sequences, systems of linear equations. MyMathLab assignment reviews. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. No graduation credit. Corequisites: Requires concurrent registration in <a href="/search/?P=MATH%20121" title="MATH&#160;121" class="bubblelink code" onclick="return showCourse(this, 'MATH 121');">MATH&#160;121</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;036.  English Lab for UIC International-Humanities.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Supports students in strategies for increasing the number of words students understand in their reading/ listening and use in their study of Humanities courses, including history. Techniques for learning unfamiliar and technical terms in textbooks will be covered, along with. Course Information: Satisfactory/Unsatisfactory grading only. No graduation credit. Taught in English. Co-requisite(s): Students will be enrolled in a UIC course in the humanities or a related area.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;037.  English Lab for UIC International-Social Sciences.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Supports students in strategies for increasing the number of words students understand in their reading/ listening and use in their study of Social Sciences courses, including history. Techniques for learning unfamiliar and technical terms in textbooks will be covered, along with. Course Information: Satisfactory/Unsatisfactory grading only. No graduation credit. Taught in English. Co-requisite(s): Students will be enrolled in a UIC course in the Social Sciences or a related area.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;038.  English Lab for UIC International-Natural Sciences.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Supports students in strategies for increasing the number of words students understand in their reading/ listening and use in their study of Natural Sciences courses, including history. Techniques for learning unfamiliar and technical terms in textbooks will be covered, along with. Course Information: Satisfactory/Unsatisfactory grading only. No graduation credit. Taught in English. Co-requisite(s): Students will be enrolled in a UIC course in the natural sciences or a related area.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;039.  English Lab for UIC International-Mathematics.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Supports students in strategies for increasing the number of words students understand in their reading/ listening and use in their study of Mathematics courses, including history. Techniques for learning unfamiliar and technical terms in textbooks will be covered, along with. Course Information: Satisfactory/Unsatisfactory grading only. No graduation credit. Taught in English. Co-requisite(s): Students will be enrolled in a UIC course in mathematics or a related area.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;050.  Speaking, Reading, and Writing in English as a Second Language.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Reading, speaking, and writing formal and colloquial English for students with limited English proficiency. English language skills in everyday and academic contexts stressed. Course Information: Satisfactory/Unsatisfactory grading only. No graduation credit.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;051.  Advanced Communication Skills in English as a Second Language.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Discipline-specific reading, writing, and speaking strategies necessary for coping with complex ideas in textbooks, class discussions, and writing tasks. Principles of formal English language in the American academic context stressed. Course Information: Satisfactory/Unsatisfactory grading only. No graduation credit. Prerequisite(s): <a href="/search/?P=ASP%20050" title="ASP&#160;050" class="bubblelink code" onclick="return showCourse(this, 'ASP 050');">ASP&#160;050</a> or an appropriate score on the reading placement test, or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;052.  Vocabulary Enrichment in English as a Second Language.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Strategies for increasing, building, and retaining better vocabularies. Instruction in combining forms, analogies and using the dictionary. Course Information: Satisfactory/Unsatisfactory grading only. No graduation credit.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;055.  Communication Skills for International Graduate Students.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Instruction and practice in formal and informal English language usage in the context of intercultural learning are provided for international graduate students with limited English proficiency. Course Information: Satisfactory/Unsatisfactory grading only. No graduation credit.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;060.  Resources and Strategies for College Success.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Learn study strategies such as time management, studying for and taking tests, critical reading, and critical thinking. Connect to key campus resources that are designed to help students succeed. Course Information: Satisfactory/Unsatisfactory grading only. No graduation credit.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;061.  Introduction to Positive Psychology.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Student coaches and mentors will study theory in positive psychology, as it relates to the coaching practice. Topics such as motivation, behavioral change, decision making, and communication will be covered. Course Information: Satisfactory/Unsatisfactory grading only. Field work required. Meets eight weeks of the semester. Course will take place on Part-of-Term B (second part) of the Fall semester. No graduation credit. Prerequisite(s): Students must be pre-approved to register for the course. Students must be working as a coach or mentor in an approved UIC program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;062.  Semester Refresh: Strategies to Finish Strong.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Specially designed course that introduces and provides practice in special topics related to reading, writing, learning, and quantitative reasoning strategies. Promotes positive study techniques that can be applied throughout the semester. Course Information: Satisfactory/Unsatisfactory grading only. No graduation credit.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;063.  Topics in Learning Support Instruction for LARES Students.  2-3 hours.</strong></p>
+<p class="courseblockdesc">
+Specially designed course that introduces and provides practice in special topics related to reading, writing, learning and thinking strategies geared to specific course demands. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. No graduation credit. Prerequisite(s): Consent of the instructor. Restricted to students in the Latin American Recruitment and Educational Services Program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;065.  Workshop for Calculus for Business - LARES.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Workshop for LARES students enrolled in <a href="/search/?P=MATH%20165" title="MATH&#160;165" class="bubblelink code" onclick="return showCourse(this, 'MATH 165');">MATH&#160;165</a>. Introduction to differential and integral calculus of algebraic, exponential and logarithmic functions and techniques of partial derivatives and optimization. Emphasis on business applications. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. No graduation credit. Corequisites: Requires concurrent registration in <a href="/search/?P=MATH%20165" title="MATH&#160;165" class="bubblelink code" onclick="return showCourse(this, 'MATH 165');">MATH&#160;165</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;075.  Workshop for Beginning Algebra - LARES.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Workshop for students enrolled in MATH 075. Linear equations and inequalities, functions, linear functions, slope, exponents, polynomials, quadratic equations, rational expressions, rational equations, and applications.  MyMathLab assignment reviews. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. No graduation credit. Meets eight weeks of the semester. Corequisites: Requires concurrent registration in MATH 075.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;076.  Math Workshop for Intermediate Algebra - LARES.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Workshop for LARES students enrolled in <a href="/search/?P=MATH%20110" title="MATH&#160;110" class="bubblelink code" onclick="return showCourse(this, 'MATH 110');">MATH&#160;110</a>. Linear equations, rational expressions, quadratic equations, graphing, exponentials and logarithms, systems of linear equations. MyMathLab assignment reviews. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. No graduation credit. Corequisites: Requires concurrent registration in <a href="/search/?P=MATH%20110" title="MATH&#160;110" class="bubblelink code" onclick="return showCourse(this, 'MATH 110');">MATH&#160;110</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;080.  Workshop for Calculus -LARES.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Workshop for LARES students enrolled in <a href="/search/?P=MATH%20180" title="MATH&#160;180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH&#160;180</a>. Differentiation, curve sketching, maximum-minimum problems, related rates, mean-value theorem, antiderivative, Riemann integral, logarithm, and exponential functions. WebAssign assignment reviews. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. No graduation credit. Corequisites: Requires concurrent registration in <a href="/search/?P=MATH%20180" title="MATH&#160;180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH&#160;180</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;086.  Critical Reading and Thinking I-LARES.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Strategies for comprehending and learning textbook material representing different academic disciplines and for writing summaries and syntheses. Cultural and language concerns of Latino students addressed. Course Information: Satisfactory/Unsatisfactory grading only. No graduation credit. Restricted to students in the Latin American Recruitment and Educational Services Program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;087.  Critical Reading and Thinking II-LARES.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced, discipline-specific reading, writing and thinking strategies for practice in comprehending and writing about complex textbook material. Cultural and language concerns of Latino students addressed. Course Information: Satisfactory/Unsatisfactory grading only. No graduation credit. Prerequisite(s): <a href="/search/?P=ASP%20086" title="ASP&#160;086" class="bubblelink code" onclick="return showCourse(this, 'ASP 086');">ASP&#160;086</a>; or an appropriate score on the reading placement test or consent of the instructor. Restricted to students enrolled in the Latin American Recruitment and Educational Services Program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;088.  Intensive Writing Workshop for LARES Students.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Practice in basic writing skills for students who are enrolled, or intending to enroll, in the required composition courses, or courses requiring writing. Cultural and language concerns of Latino students addressed. Course Information: Satisfactory/Unsatisfactory grading only. No graduation credit. Restricted to students in the Latin American Recruitment and Educational Services Program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;090.  Critical Strategies for Reading and Writing Success.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Critical reading and thinking strategies for comprehending, writing about, and learning textbook material representing different academic disciplines. Instruction in writing summaries and syntheses of readings included. Course Information: Satisfactory/Unsatisfactory grading only. No graduation credit.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;091.  Critical Reading and Thinking II.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced, discipline-specific reading, writing, and thinking strategies for practice in comprehending and writing about complex textbook material. Instruction in writing syntheses and critical analyses of readings included. Course Information: Satisfactory/Unsatisfactory grading only. No graduation credit. Prerequisite(s): <a href="/search/?P=ASP%20090" title="ASP&#160;090" class="bubblelink code" onclick="return showCourse(this, 'ASP 090');">ASP&#160;090</a> or an appropriate score on the reading placement test, or consent of instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;092.  Vocabulary Enrichment.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Strategies for increasing the number of words students understand in their reading/ listening and use in their speaking/writing. Techniques for learning unfamiliar technical terms in textbooks. Course Information: Satisfactory/Unsatisfactory grading only. No graduation credit. Meets 8 weeks of the semester.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;095.  Academic and Professional Writing.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Academic and professional writing principles and their application are introduced and practiced. Practice in writing resumes, business and professional correspondence, reports, and theses. Course Information: Satisfactory/Unsatisfactory grading only. No graduation credit.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ASP&#160;096.  Independent Study.  0-3 hours.</strong></p>
+<p class="courseblockdesc">
+For those who wish to supplement regular courses or undertake individual study projects. Course Information: Satisfactory/Unsatisfactory grading only. No graduation credit. Prerequisite(s): Approval of the department.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="asp.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,327 @@
+https://catalog.uic.edu/ucat/degree-programs/program-updates/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Program Changes and Updates &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="active isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a>
+		<ul class="nav leveltwo" id="/ucat/degree-programs/">
+			<li><a href="/ucat/degree-programs/degree-minors/">Degree Program and Minor List</a></li>
+			<li><a href="/ucat/degree-programs/academic-standing/">Academic Standing</a></li>
+			<li><a href="/ucat/degree-programs/academic-planning-progress/">Academic Planning and Progress</a></li>
+			<li><a href="/ucat/degree-programs/general-education/">General Education</a></li>
+			<li><a href="/ucat/degree-programs/univ-degree-requirements-graduation/">University Degree Requirements, Graduation, and Commencement</a></li>
+			<li class="active self"><a href="#" onclick="return false;">Program Changes and Updates</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a></li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/degree-programs/">Degree&nbsp;Programs&nbsp;and&nbsp;Requirements</a><span class="crumbsep">/</span></li><li><span class="active">Program Changes and Updates</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Program Changes and Updates</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p>The online catalog is updated as program and requirement changes are approved. If the same program is revised more than once, the new requirements replace previous requirements. All of the links below refer users to the current requirements.</p>
+<h2><strong>Spring 2021</strong></h2>
+<h3>College of Applied Health Sciences</h3>
+<ul>
+	<li>Establish a <a href="/ucat/colleges-depts/applied-health-sciences/kn/minor-food-science/">Minor in Food Science</a></li>
+</ul>
+<h3>​College of Business Administration</h3>
+<ul>
+	<li>Rename and Revise the Concentration in Marketing Research; Revise the Concentration in Sales and Leadership; Rename and Revise the Concentration in Innovation and Product Management; Establish the Concentration in Retail and Services Marketing in the <a href="/ucat/colleges-depts/business-administration/marketing/bs/">BS in Marketing</a></li>
+	<li>Revise the <a href="/ucat/colleges-depts/business-administration/mgmt/bs-mgmt/">BS in Management</a>, Establish the Concentration in Management Consulting, and Eliminate the Concentration in Strategic Management, Rename the Concentration in Leadership and Managerial Skills</li>
+	<li>Rename and Revise the <a href="/ucat/colleges-depts/business-administration/minors/minor-mgr-skill/">Minor in Managerial Skills</a></li>
+</ul>
+<h3><strong>College of Engineering</strong></h3>
+<ul>
+	<li>
+	<p>Revise the Technical Electives Requirement in the <a href="/ucat/colleges-depts/engineering/cme/bs-cive/">Bachelor of Science in Civil Engineering</a></p>
+	</li>
+	<li>Revise the <a href="/ucat/colleges-depts/engineering/ece/bs-eng-phys/">BS in Engineering Physics</a></li>
+</ul>
+<h3>College of Liberal Arts and Sciences</h3>
+<ul>
+	<li>Revise the <a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/bs-teach-math/">BS in the Teaching of Mathematics</a></li>
+</ul>
+<h3>College of Urban Planning and Public Affairs</h3>
+<ul>
+	<li>Establish a <a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/minor-civic-analytics/">Minor in Civic Analytics</a></li>
+	<li>Establish a <a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/minor-nonprofit-management/">Minor in Nonprofit Management</a></li>
+	<li>Establish the <a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/joint-degrees/">Joint BA in Public Policy/Master of Public Policy</a>, the <a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/joint-degrees/">Joint BA in Public Policy/Master of Urban Planning and Policy</a>, and the <a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/joint-degrees/">Joint BA in Public Policy/MS in Civic Analytics</a></li>
+	<li>Establish the <a href="/ucat/colleges-depts/urban-planning-public-affairs/upp/joint-degrees/">Joint BA in Urban Studies/Master of Public Administration</a>, the <a href="/ucat/colleges-depts/urban-planning-public-affairs/upp/joint-degrees/">Joint BA in Urban Studies/Master of Public Policy</a>, and the <a href="/ucat/colleges-depts/urban-planning-public-affairs/upp/joint-degrees/">Joint BA in Urban Studies/MS in Civic Analytics</a></li>
+</ul>
+<h2><strong>Spring 2020</strong></h2>
+<ul>
+	<li>Revise the <a href="/ucat/degree-programs/univ-degree-requirements-graduation/#enrollment-residence-requirement">Enrollment Residence Requirement</a> for Undergraduate Degrees</li>
+</ul>
+<h3>College of Applied Health Sciences</h3>
+<ul>
+	<li>Revise the <a href="/ucat/colleges-depts/applied-health-sciences/kn/mino-nutr/">Minor in Nutrition</a></li>
+</ul>
+<h3>College of Architecture, Design, and the Arts</h3>
+<ul>
+	<li>Revise the <a href="/ucat/colleges-depts/architecture-design-arts/des/bdes-gd/">BDes in Graphic Design</a> and the <a href="/ucat/colleges-depts/architecture-design-arts/des/bdes-id/">BDes in Industrial Design</a></li>
+	<li>Revise the <a href="/ucat/colleges-depts/liberal-arts-sciences/anth/ba/">BA in Liberal Arts and Sciences, Major in Anthropology</a></li>
+	<li>Revise the <a href="/colleges-depts/liberal-arts-sciences/ihs/">BS in Liberal Arts and Sciences, Major in Integrated Health Studies</a></li>
+	<li>Revise the <a href="/ucat/colleges-depts/liberal-arts-sciences/soc/ba/">BA in Liberal Arts and Sciences, Major in Sociology</a></li>
+</ul>
+<h3>College of Business Administration</h3>
+<ul>
+	<li>Revise the <a href="/ucat/colleges-depts/business-administration/actg/bs/">BS in Accounting</a></li>
+</ul>
+<h3>College of Liberal Arts and Sciences</h3>
+<ul>
+	<li>Establish the <a href="/ucat/colleges-depts/liberal-arts-sciences/slav/certificate-polish/">Undergraduate Campus Certificate in Polish Language</a></li>
+	<li>Establish the <a href="/ucat/colleges-depts/liberal-arts-sciences/slav/certificate-russian/">Undergraduate Campus Certificate in Russian Language</a></li>
+</ul>
+<h3>College of Urban Planning and Policy</h3>
+<ul>
+	<li>Revise the <a href="/ucat/colleges-depts/urban-planning-public-affairs/upp/minor-gis/">Minor in Geographic Information Systems</a></li>
+	<li>Revise the <a href="/ucat/colleges-depts/urban-planning-public-affairs/upp/minor-sc/">Minor in Sustainable Cities</a></li>
+	<li>Revise the <a href="/ucat/colleges-depts/urban-planning-public-affairs/upp/minor-upp/">Minor in Urban Studies</a></li>
+</ul>
+<h2>Summer 2020</h2>
+<h3>College of Liberal Arts and Sciences</h3>
+<ul>
+	<li>Revise the <a href="/ucat/colleges-depts/liberal-arts-sciences/psych/ba-psych-gp-conc/">BA in Liberal Arts and Sciences, Major in Psychology, General Psychology Concentration</a> and <a href="/ucat/colleges-depts/liberal-arts-sciences/psych/ba-psych-ap-conc/">BA in Liberal Arts and Sciences, Major in Psychology, Applied Psychology Concentration</a></li>
+	<li><span>Establish the <a href="/ucat/colleges-depts/liberal-arts-sciences/anth/certificate-medical-humanities/">Undergraduate Campus Certificate in Medical <span>Humanities</span></a></span></li>
+</ul>
+<h2><span><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/certificate-medical-humanities/"><span>​</span></a></span>Fall 2020</h2>
+<h3>College of Applied Health Sciences</h3>
+<ul>
+	<li>Establish a <a href="/ucat/colleges-depts/applied-health-sciences/#d2">Required First-Year Seminar in the College of Applied Health Sciences</a></li>
+	<li>Revise the <a href="/ucat/colleges-depts/applied-health-sciences/dhd/bs/">BS in Disability and Human Development</a></li>
+	<li>Revise the <a href="/ucat/colleges-depts/applied-health-sciences/kn/bs-nutr-cp-conc/">BS in Nutrition, Coordinated Program Concentration</a> and the <a href="/ucat/colleges-depts/applied-health-sciences/kn/bs-nutr-nsc-conc/">BS in Nutrition, Nutrition Science Concentration</a></li>
+	<li>Revise the <a href="/ucat/colleges-depts/applied-health-sciences/kn/mino-nutr/">Minor in Nutrition</a></li>
+	<li>Revise the <a href="/ucat/colleges-depts/applied-health-sciences/bhis/lsv-minor/">Minor in Life Science Visualization</a></li>
+	<li>Revise the <a href="/ucat/colleges-depts/applied-health-sciences/kn/minor-kn/">Minor in Kinesiology</a></li>
+	<li>Revise the <a href="/ucat/colleges-depts/applied-health-sciences/kn/bs-kn/">Bachelor of Science in Kinesiology</a> and Eliminate the Concentration in Exercise Science and Health Promotion and Concentration in Movement Science</li>
+	<li>Revise the <a href="/ucat/colleges-depts/architecture-design-arts/arch/ba-arch/">BA in Architectural Studies</a></li>
+</ul>
+<h3>College of Architecture, Design, and the Arts</h3>
+<ul>
+	<li>Revise the <a href="/ucat/colleges-depts/architecture-design-arts/art-ah/minor-art/">Minor in Art</a></li>
+	<li>Revise the <a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/bfa-act/">BFA in Acting</a></li>
+	<li>Revise the <a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/ba-act/">BA in Theatre and Performance</a></li>
+	<li>Revise the <a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/ba-thtr-des/">BA in Theatre Design, Production, and Technology</a></li>
+	<li>Revise the <a href="/ucat/colleges-depts/architecture-design-arts/art-ah/ba-ida/">BA in Interdisciplinary Education in the Arts</a></li>
+</ul>
+<h3>College of Business Administration</h3>
+<ul>
+	<li>Revise the <a href="/ucat/colleges-depts/business-administration/mgmt/bs-mktg/">BS in Marketing</a></li>
+	<li>Revise the <a href="/ucat/colleges-depts/business-administration/fin/bs/">BS in Finance</a></li>
+	<li>Establish the <a href="/ucat/colleges-depts/business-administration/marketing/">Department of Marketing</a></li>
+</ul>
+<h3>College of Engineering</h3>
+<ul>
+	<li>Revise the <a href="/ucat/colleges-depts/engineering/cme/bs-cive/">BS in Civil Engineering</a></li>
+	<li>Revise the <a href="/ucat/colleges-depts/engineering/che/bs-che/">BS in Chemical Engineering</a></li>
+</ul>
+<h3>College of Liberal Arts and Sciences</h3>
+<ul>
+	<li>Revise the <a href="/ucat/colleges-depts/liberal-arts-sciences/lals/ba/">BS in Liberal Arts and Sciences, Major in Latin American and Latino Studies</a></li>
+	<li>Revise the <a href="/ucat/colleges-depts/liberal-arts-sciences/lals/minor/">Minor in Latin American and Latino Studies</a></li>
+	<li>Revise the <a href="/ucat/colleges-depts/liberal-arts-sciences/pols/">BA in Liberal Arts and Sciences, Major in Political Science</a></li>
+	<li>Revise the <a href="/ucat/colleges-depts/liberal-arts-sciences/pols/minor-pols/">Minor in Political Science</a></li>
+	<li>Revise the <a href="/ucat/colleges-depts/liberal-arts-sciences/comm/minor/">Minor in Communication</a></li>
+	<li>Revise the <a href="/ucat/colleges-depts/liberal-arts-sciences/econ/ba/">BA in Liberal Arts and Sciences, Major in Economics</a></li>
+	<li>Revise the <a href="/ucat/colleges-depts/liberal-arts-sciences/ling/minor-ling/">Minor in Linguistics</a></li>
+	<li>Rename the <a href="/ucat/colleges-depts/liberal-arts-sciences/blst/">Department of African American Studies</a> </li>
+	<li>Rename the <a href="/ucat/colleges-depts/liberal-arts-sciences/blst/ba">Bachelor of Arts in Liberal Arts and Sciences, Major in African American Studies</a> and Rename the <a href="/ucat/colleges-depts/liberal-arts-sciences/blst/minor-blst">Minor in African American Studies</a></li>
+	<li>Establish the <a href="/ucat/colleges-depts/liberal-arts-sciences/ger/certificate-german/">Undergraduate Campus Certificate in German Language</a></li>
+	<li>Revise the <a href="/ucat/colleges-depts/liberal-arts-sciences/engl/ba-engl/">BA in Liberal Arts and Sciences, Major in English</a>, and Consolidate  and Revise the Concentration in British and Anglophone Literature and Concentration in American Literature</li>
+	<li>Establish the <a href="/ucat/colleges-depts/liberal-arts-sciences/ling/cs-linguistics/">BS in Computer Science and Linguistics</a></li>
+	<li>Redesignate and Reorganize the Bachelor of Arts in Liberal Arts and Sciences, Major in Psychology, Concentration in General Psychology as the <a href="/ucat/colleges-depts/liberal-arts-sciences/psych/bs-psychology/">BS in Liberal Arts and Sciences with a Major in Psychology</a>, and Rename and Reorganize the Bachelor of Arts in Liberal Arts and Sciences, Major in Psychology, Concentration in Applied Psychology as the <a href="/ucat/colleges-depts/liberal-arts-sciences/psych/ba-applied-psychology/">BA in Liberal Arts and Sciences with a Major in Applied Psychology</a></li>
+	<li>Revise the <a href="/ucat/colleges-depts/liberal-arts-sciences/hist/ba-teach-hist/">Bachelor of Arts in the Teaching of History</a></li>
+</ul>
+<p><strong>School of Public Health</strong></p>
+<ul>
+	<li>Establish the <a href="/ucat/colleges-depts/public-health/bs-pubh/">BS in Public Health</a></li>
+</ul></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="program-updates.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

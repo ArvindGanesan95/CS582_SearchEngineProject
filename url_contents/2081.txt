@@ -1,0 +1,253 @@
+https://catalog.webhost.uic.edu/ucat/cat1113archive/
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us"><!-- InstanceBegin template="/Templates/template.dwt" codeOutsideHTMLIsLocked="false" -->
+
+
+
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="author" content="UIC Undergraduate Catalog"/>
+<meta name="description" content="UIC Undergraduate Catalog" />
+<meta name="keywords" content="UIC, University of Illinois at Chicago, Undergraduate Catalog, undergrad catalog" />
+ 
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>UIC Undergraduate Catalog | 2011–2013 Undergraduate Catalog</title>
+<!-- InstanceEndEditable -->
+
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+
+
+<!-- ULTIMATE DROP DOWN MENU Version 4.5 by Brothercake -->
+<!-- http://www.udm4.com/ -->
+<script type="text/javascript" src="udm/udm-resources/udm-custom.js"></script>
+<script type="text/javascript" src="udm/udm-resources/udm-control.js"></script>
+<script type="text/javascript" src="udm/udm-resources/udm-style.js"></script>
+
+
+<!-- Menu stylesheet  -->
+<!-- Layout stylesheet  -->
+<link href="styles/ucat_layout.css" rel="stylesheet" type="text/css" media="screen" />
+<!-- Catalog stylesheet  -->
+<link href="styles/ucat_catalog_styles.css" rel="stylesheet" type="text/css" media="screen" />
+<!-- Print stylesheet  -->
+<link href="styles/ucat_print.css" rel="stylesheet" type="text/css" media="print" />
+
+ 
+
+</head>
+
+
+
+
+<body>
+
+
+<!-- menu script -->
+<script type="text/javascript" src="udm/udm-resources/udm-dom.js"></script>
+
+<!-- keyboard navigation module -->
+<script type="text/javascript" src="udm/udm-resources/udm-mod-keyboard.js"></script>
+
+
+
+
+
+
+<div id="skip"><a href="#the_content">Skip to Main Content</a></div>
+
+
+
+
+
+<div id="container">
+  
+  
+  <div id="banner">
+  
+    <div class="masthead">
+      <div class="uiclogo"><a href="http://www.uic.edu/"><img src="graphics/uic_logo.gif" alt="U I C Homepage" title="U I C Homepage" longdesc="http://www.uic.edu/" /></a></div>
+      
+	  <div class="ucatlogo">
+	    <p><a href="index.shtml"><img src="graphics/undergraduate_catalog.gif" alt="U I C Undergraduate Catalog" title="U I C Undergraduate Catalog"longdesc="http://www.uic.edu/gcat/" /></a></p>
+	    <p>&nbsp;</p>
+	  </div>
+	  <div class="message">
+<p>Important Note: This is the archived version of the 2011–2013 Undergraduate Catalog. The information on these pages was archived on June 15, 2011 and will not be updated as requirement and/or program changes are approved.</p>      
+	  </div><!-- end message -->
+    </div><!-- end masthead -->
+	
+    <div id="navigation">
+	
+ 		<div id="navbar_center">
+		<div class="navbar_center">
+	
+
+
+
+<h6>site menu</h6>
+<ul id="udm" class="udm">
+	<li><a href="#" title="University Information">&nbsp;The University</a>
+		<ul>
+			<li><a href="CA.shtml">Academic Calendar</a></li>
+			<li><a href="UN.shtml">Welcome to UIC</a></li>
+			<li><a href="SS.shtml">The Savvy Student’s Guide to UIC</a></li>
+			<li><a href="FL.shtml">Faculty List</a></li>
+			<li><a href="http://www.uic.edu/uic/about/visit/campus-maps.shtml">Campus Maps</a></li>
+			<li><a href="http://www.uic.edu/uic/about/visit/parking-bus.shtml">Parking and Transportation</a></li> 
+		</ul>
+	</li>
+
+	<li><a href="#" title="Admissions, Registration, and Financial Information">Admissions, Registration, and Finances</a>
+		<ul>
+			<li><a href="AR.shtml">Admissions</a></li>
+			<li><a href="ARE.shtml">Registering and Enrolling in Courses at UIC</a></li>
+			<li><a href="SC.shtml">Student Tuition and Fees</a></li>
+			<li><a href="FA.shtml">Financial Aid</a></li>
+		</ul>
+	</li>
+
+	<li><a href="#" title="Degree Programs and Planning">Degree Programs and Planning</a>
+		<ul>
+			<li><a href="DPML.shtml">Degree Program and Minor List</a></li>
+			<li><a href="AS.shtml">Academic Standing</a></li>
+			<li><a href="AP.shtml">Academic Planning and Progress</a></li>
+			<li><a href="GE.shtml">General Education</a></li>
+			<li><a href="GR.shtml">University Degree Requirements, Graduation, and Commencement</a></li>
+		</ul>
+	</li>
+
+	<li><a href="#" title="College and Department Information">Colleges and Departments</a>
+		<ul>
+			<li><a href="HP.shtml">College of Applied Health Sciences</a></li>
+			<li><a href="AA.shtml">College of Architecture and the Arts</a></li>
+			<li><a href="BA.shtml">College of Business Administration</a></li>
+			<li><a href="ED.shtml">College of Education</a></li>
+			<li><a href="EG.shtml">College of Engineering</a></li>
+			<li><a href="HC.shtml">Honors College</a></li>
+			<li><a href="LA.shtml">College of Liberal Arts and Sciences</a></li>
+			<li><a href="NU.shtml">College of Nursing</a></li>
+			<li><a href="PM.shtml">College of Pharmacy</a></li>
+			<li><a href="CUPPA.shtml">College of Urban Planning and Public Affairs</a></li>
+		</ul>
+	</li>
+
+	<li><a href="#" title="Links">Links</a>
+		<ul>
+        
+        			<li><a href="https://catalog.webhost.uic.edu/ucat/cat0911/pdf/">2009-2011 Undergraduate Catalog (PDF of published version)</a></li>
+
+        
+			<li><a href="https://catalog.webhost.uic.edu/ucat/toc.html">2007-2009 Undergraduate Catalog (PDF of published version)</a></li>
+			<li><a href="2005UndergraduateCatalog.pdf">2005-2007 Undergraduate Catalog (PDF of published version)</a></li>
+			<li><a href="2003UndergraduateCatalog.pdf">2003-2005 Undergraduate Catalog (PDF of published version)</a></li>
+			<li><a href="http://www.uic.edu/gcat">Graduate College Catalog</a></li>
+			<li><a href="https://catalog.webhost.uic.edu/ucat/courses/">Graduate Course Descriptions</a></li>
+			<li><a href="https://ossswebcs.admin.uillinois.edu/PORTAL_UIC/classsch.html">Schedule of Classes</a></li>
+			<li><a href="http://www.uic.edu/depts/oae/">Office of Access and Equity</a></li>
+			<li><a href="http://www.adobe.com/support/downloads/main.html">Download PDF Reader Plug-In</a></li>
+		</ul>
+	</li>
+	<li><a href="https://catalog.webhost.uic.edu/ucat/cat1113archive/course_descriptions/" title="Course Descriptions">Course Descriptions</a>
+	</li>
+
+</ul>
+
+
+
+
+
+
+
+		</div><!-- end navbar_center -->
+		</div><!-- end navbar_center -->
+ 
+ 
+ 
+ 
+    </div><!-- end navigation -->
+	
+
+	<div class="header-and-search">
+	
+	
+		<div class="H1box"> 
+			<!-- InstanceBeginEditable name="Header (Use H1 tag - must be same as title)" --> 
+			<h1>2011&ndash;2013 Undergraduate Catalog</h1>
+		  <!-- InstanceEndEditable --> 
+		</div><!-- end H1box -->
+	
+		<div class="search">
+			<form action="http://www.google.com/u/uiatc" method="get">
+			<label for="q">Search:</label>
+			<input name="q" type=text id="q">
+			<input type=hidden name=hq value="inurl:www.uic.edu/ucat/catalog/">
+			<input type=submit value="Search">
+			</form>
+		</div>	<!-- end search -->
+		
+	</div>	<!-- end header-and-search -->
+
+
+    
+  </div><!-- end banner -->
+  
+  
+
+
+
+	<div id="content"><a name="the_content" id="the_content"></a>
+	
+		<div class="content_container_tokeepeverythingstraight">
+			<div class="content_main">
+			
+		
+				<!-- InstanceBeginEditable name="Content" -->
+<p><span class="clsSubHead">How to Use the Online Catalog</span></p>
+<p><strong>Important Note: This is the archived version of the 2011-2013 Undergraduate Catalog. The information on these pages was archived on June 15, 2011 and will not be updated as requirement and/or program changes are approved. </strong></p>
+<p><strong>To see the most current information on all undergraduate degree programs and requirements, please visit the online <em><a href="../catalog/">2011</a><a href="../cat0911/pdf/"><em>&#8211;</em></a><a href="../catalog/">2013 Undergraduate Catalog</a></em>.</strong></p>
+<p>The archived online catalog is a record of the 2011<em>&#8211;</em>2013 academic years. It is for informational purposes only and does not constitute a contract. Faculty assignments and programs listed are subject to change, and individual departments and units should be consulted for further information. Courses are not necessarily offered each term or each year. Individual departments or units should be consulted for information regarding regularity of course offerings. </p>
+<p>The archived online catalog includes a comprehensive list of <a href="DPML.shtml">Degree Programs and Minors</a> by college. </p>
+<p>The archived versions of the <a href="../cat0911/pdf/"><em>2009&#8211;2011 Undergraduate Catalog</em></a>, <em><a href="../toc.html">2007&#8211;2009 Undergraduate Catalog</a>, <a href="2005UndergraduateCatalog.pdf">2005<em>&#8211;</em>2007 Undergraduate Catalog,</a></em> and <a href="2003UndergraduateCatalog.pdf"><em>2003&#8211;2005 Undergraduate Catalog </em></a>are available under the Links menu.</p>
+<p>The online catalog is an academic planning tool for undergraduate students. The online catalog is divided into six major sections:</p>
+<ul style="margin-top: 0;">
+  <li>The University</li>
+  <li>Admissions, Registration, and Finances</li>
+  <li>Degree Programs and Planning</li>
+  <li>Colleges and Departments</li>
+  <li>Links</li>
+  <li>Course Descriptions</li>
+</ul>
+<p>Each section of the online catalog provides information necessary for the academic planning process. A brief description of each section is provided below.</p>
+<h3 class="clsSubHead2">The University</h3>
+<p>The <em>University</em> section provides a helpful overview of the University of Illinois at Chicago. </p>
+<h3 class="clsSubHead2">Admissions, Registration, and Finances</h3>
+<p>The A<em>dmissions, Registration, and Finances</em> section covers undergraduate admissions, enrollment and registration procedures, tuition and fees, and financial aid. </p>
+<h3 class="clsSubHead2">Degree Programs and Planning</h3>
+<p>The <em>Degree Programs and Planning</em> section lists all degree programs and minors available to undergraduate students. It also includes information on program and requirement changes, University degree requirements, grading, advising, and graduation. These topics help students define academic standards and track their progress toward degree completion. </p>
+<h3 class="clsSubHead2">Colleges and Departments</h3>
+<p>The <em>Colleges and Departments</em> section describes all of UIC&rsquo;s undergraduate degree programs and their requirements in detail. Students use this section of the catalog to ensure that they understand and meet all requirements for their degree program.</p>
+<h3 class="clsSubHead2">Links </h3>
+<p>The <em>Links</em> section lists additional documents and Web sites that are useful in the academic planning process.</p>
+<h3 class="clsSubHead2">Course Descriptions</h3>
+<p>The <em>Course Descriptions</em> section lists all the undergraduate courses at UIC. The course descriptions are arranged alphabetically by subject area. Each course description includes a rubric (subject area abbreviation), course number, course title, semester hours, prerequisites (if any), and course content. A list of rubrics may be found at the beginning of the <em>Course Descriptions</em> section.</p>
+<p>The catalog includes all undergraduate courses at UIC. However, not all courses are offered during a given semester. To determine which courses are being offered, students should consult the <em>Schedule of Classes</em> through<em> my.UIC</em> before registration begins.</p>
+<!-- InstanceEndEditable --> 
+			</div><!-- end content_main -->
+      
+			<div class="footer">
+        		<p>Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a></p>
+        		<p><a href="http://www.uic.edu/depts/oar/undergrad/">Apply Online</a> | <a href="CU.shtml">Contact Information</a> | <a href="http://www.uic.edu/">Campus Homepage</a></p>
+        		<p><a href="https://catalog.webhost.uic.edu/ucat/">UIC Undergraduate Catalog</a> // 601 S. Morgan St. // Chicago, Illinois 60607<br >
+          		&copy; 2011 University of Illinois Board of Trustees </p>
+			</div><!-- end footer -->
+			
+		</div><!-- end content_container_tokeepeverythingstraight -->
+	</div><!-- end content -->
+	
+</div><!-- end container -->
+
+
+</body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,325 @@
+https://catalog.uic.edu/ucat/colleges-depts/nursing/rn-bsn/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>RN to BSN Completion Program &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/nursing/">
+				<li><a href="/ucat/colleges-depts/nursing/bs-nursing/">BS in Nursing</a></li>
+				<li class="active self"><a href="#" onclick="return false;">RN to BSN Completion Program</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/nursing/">College&nbsp;of&nbsp;Nursing</a><span class="crumbsep">/</span></li><li><span class="active">RN to BSN Completion Program</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">RN to BSN Completion Program</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+<p class="program_codes"><span class="label"><strong>Program Codes:</strong> </span><br />2PFW1505BSNU<br /></p>	</div>
+</div>
+
+<h2>RN to BSN and DA ADN + BSN Course Requirements: Non-Nursing Studies</h2>
+<p>See the<em> <a href="/ucat/colleges-depts/nursing/bs-nursing/">BS in Nursing</a></em> page for requirements pertaining to the four-year degree program.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td><td>Academic Writing I: Writing in Academic and Public Contexts</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td><td>Academic Writing II: Writing for Inquiry and Research</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=BIOS%20350" title="BIOS 350" class="bubblelink code" onclick="return showCourse(this, 'BIOS 350');">BIOS 350</a></td><td>General Microbiology <sup>a</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=CHEM%20122" title="CHEM 122" class="bubblelink code" onclick="return showCourse(this, 'CHEM 122');">CHEM 122</a></td><td>General Chemistry I Lecture <sup>b,f</sup></td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=CHEM%20123" title="CHEM 123" class="bubblelink code" onclick="return showCourse(this, 'CHEM 123');">CHEM 123</a></td><td>General Chemistry Laboratory I <sup>b,f</sup></td><td class="hourscol">1</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=KN%20251" title="KN 251" class="bubblelink code" onclick="return showCourse(this, 'KN 251');">KN 251</a></td><td>Human Physiological Anatomy I</td><td class="hourscol">5</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=KN%20252" title="KN 252" class="bubblelink code" onclick="return showCourse(this, 'KN 252');">KN 252</a></td><td>Human Physiological Anatomy II</td><td class="hourscol">5</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=NUEL%20250" title="NUEL 250" class="bubblelink code" onclick="return showCourse(this, 'NUEL 250');">NUEL 250</a></td><td>Human Development Across the Life Span</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=HN%20196" title="HN 196" class="bubblelink code" onclick="return showCourse(this, 'HN 196');">HN 196</a></td><td>Nutrition</td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Exploring World Cultures course</span> <sup>c</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Understanding the Creative Arts course</span> <sup>c</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Understanding the Individual and Society course</span> <sup>c,d</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Understanding the Past course</span> <sup>c</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Understanding U.S. Society course</span> <sup>c,d</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">One 3-semester-hour, 200-level, upper-division course in the arts and sciences</span> <sup>e</sup></td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">LAS Electives  to reach 57 hours (hours vary, minimum of 9)</span> <sup>g</sup></td><td class="hourscol">9</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">57</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a></span> is a prerequisite for this course.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>This course is approved for the Analyzing the Natural World General Education category.</em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>Students should consult the General Education section of the catalog for a list of approved courses in this category.</em></p></td></tr><tr><td valign="top" class="symcol">d</td><td class="notecol"><p><em>For the Understanding the Individual and Society requirement, <span class="sc_courseinline"><a href="/search/?P=PSCH%20100" title="PSCH 100" class="bubblelink code" onclick="return showCourse(this, 'PSCH 100');">PSCH 100</a></span> is recommended; for the Understanding U.S. Society requirement, <span class="sc_courseinline"><a href="/search/?P=SOC%20100" title="SOC 100" class="bubblelink code" onclick="return showCourse(this, 'SOC 100');">SOC 100</a></span> is recommended. </em></p></td></tr><tr><td valign="top" class="symcol">e</td><td class="notecol"><p><em>Upper Division Elective: Students may choose a course from one of the following categories: physical sciences, life sciences, mathematical sciences, social sciences, fine arts, performing arts, or humanities. Must be 200-level or above; may be completed at either a community college or a four-year college or university. Though the requirement may be completed after entry to the program, it is very highly recommended that students complete an upper-division elective with other prerequisite courses prior to enrollment. </em></p></td></tr><tr><td valign="top" class="symcol">f</td><td class="notecol"><p><em>Students applying for the RN/BSN Program are requirement to take a total of 4–5 hours of chemistry. This requirement can be fulfilled by taking any of the following UIC courses: <span class="sc_courseinline"><a href="/search/?P=CHEM%20100" title="CHEM 100" class="bubblelink code" onclick="return showCourse(this, 'CHEM 100');">CHEM 100</a></span>, <span class="sc_courseinline"><a href="/search/?P=CHEM%20105" title="CHEM 105" class="bubblelink code" onclick="return showCourse(this, 'CHEM 105');">CHEM 105</a></span>, <span class="sc_courseinline"><a href="/search/?P=CHEM%20122" title="CHEM 122" class="bubblelink code" onclick="return showCourse(this, 'CHEM 122');">CHEM 122</a></span>/<span class="sc_courseinline"><a href="/search/?P=CHEM%20123" title="CHEM 123" class="bubblelink code" onclick="return showCourse(this, 'CHEM 123');">CHEM 123</a></span>, <span class="sc_courseinline"><a href="/search/?P=CHEM%20124" title="CHEM 124" class="bubblelink code" onclick="return showCourse(this, 'CHEM 124');">CHEM 124</a></span>/<span class="sc_courseinline"><a href="/search/?P=CHEM%20125" title="CHEM 125" class="bubblelink code" onclick="return showCourse(this, 'CHEM 125');">CHEM 125</a></span>, <span class="sc_courseinline"><a href="/search/?P=CHEM%20116" title="CHEM 116" class="bubblelink code" onclick="return showCourse(this, 'CHEM 116');">CHEM 116</a></span>, <span class="sc_courseinline"><a href="/search/?P=CHEM%20118" title="CHEM 118" class="bubblelink code" onclick="return showCourse(this, 'CHEM 118');">CHEM 118</a></span>, or <span class="sc_courseinline"><a href="/search/?P=CHEM%20130" title="CHEM 130" class="bubblelink code" onclick="return showCourse(this, 'CHEM 130');">CHEM 130</a></span>, or by completing a 4- to 5-hour chemistry lab course at an accredited community college, college, or university that also satisfies the UIC Analyzing the Natural World lab requirement. These students may need to take additional course(s) approved for General Education to meet the university requirement of 24 hours distributed across the six categories.</em></p></td></tr><tr><td valign="top" class="symcol">g</td><td class="notecol"><p><em>Students applying for the RN/BSN Program are not required to take either introductory statistics or organic chemistry. As a result, these students will need to take hours of LAS electives to meet the 57 hours of non-nursing requirements.</em></p></td></tr></table>
+<h2>Course Requirements in the College of Nursing: RN to BSN and DA ADN + BSN</h2>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=NURS%20212" title="NURS 212" class="bubblelink code" onclick="return showCourse(this, 'NURS 212');">NURS 212</a></td><td>Health Assessment and Communication</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=NURS%20242" title="NURS 242" class="bubblelink code" onclick="return showCourse(this, 'NURS 242');">NURS 242</a></td><td>Concepts and Processes in Contemporary Nursing</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=NURS%20316" title="NURS 316" class="bubblelink code" onclick="return showCourse(this, 'NURS 316');">NURS 316</a></td><td>Nursing Informatics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=NURS%20322" title="NURS 322" class="bubblelink code" onclick="return showCourse(this, 'NURS 322');">NURS 322</a></td><td>Introduction to Nursing Research and Statistics for Evidence-Based Practice</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=NURS%20342" title="NURS 342" class="bubblelink code" onclick="return showCourse(this, 'NURS 342');">NURS 342</a></td><td>Caring in Professional Nursing</td><td class="hourscol">2</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=NURS%20385" title="NURS 385" class="bubblelink code" onclick="return showCourse(this, 'NURS 385');">NURS 385</a></td><td>Nursing Care of Populations (RN to BSN)</td><td class="hourscol">5</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=NURS%20390" title="NURS 390" class="bubblelink code" onclick="return showCourse(this, 'NURS 390');">NURS 390</a></td><td>Nursing Leadership and Management in Healthcare</td><td class="hourscol">6</td></tr>
+<tr class="even lastrow"><td class="codecol"><a href="/search/?P=NURS%20397" title="NURS 397" class="bubblelink code" onclick="return showCourse(this, 'NURS 397');">NURS 397</a></td><td>Issues in Nursing Practice</td><td class="hourscol">3</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">30</td></tr></tbody>
+</table>
+
+<h2>Sample Curriculum:  RN to BSN</h2>
+<p><strong>Note:</strong> RN to BSN Courses are eight weeks in length.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=NURS%20212" title="NURS 212" class="bubblelink code" onclick="return showCourse(this, 'NURS 212');">NURS 212</a></td><td>Health Assessment and Communication</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=NURS%20242" title="NURS 242" class="bubblelink code" onclick="return showCourse(this, 'NURS 242');">NURS 242</a></td><td>Concepts and Processes in Contemporary Nursing</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=NURS%20316" title="NURS 316" class="bubblelink code" onclick="return showCourse(this, 'NURS 316');">NURS 316</a></td><td>Nursing Informatics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=NURS%20322" title="NURS 322" class="bubblelink code" onclick="return showCourse(this, 'NURS 322');">NURS 322</a></td><td>Introduction to Nursing Research and Statistics for Evidence-Based Practice</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=NURS%20342" title="NURS 342" class="bubblelink code" onclick="return showCourse(this, 'NURS 342');">NURS 342</a></td><td>Caring in Professional Nursing</td><td class="hourscol">2</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=NURS%20385" title="NURS 385" class="bubblelink code" onclick="return showCourse(this, 'NURS 385');">NURS 385</a></td><td>Nursing Care of Populations (RN to BSN)</td><td class="hourscol">5</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=NURS%20390" title="NURS 390" class="bubblelink code" onclick="return showCourse(this, 'NURS 390');">NURS 390</a></td><td>Nursing Leadership and Management in Healthcare</td><td class="hourscol">6</td></tr>
+<tr class="even lastrow"><td class="codecol"><a href="/search/?P=NURS%20397" title="NURS 397" class="bubblelink code" onclick="return showCourse(this, 'NURS 397');">NURS 397</a></td><td>Issues in Nursing Practice</td><td class="hourscol">3</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">30</td></tr></tbody>
+</table>
+
+<h2>Sample Curriculum:  DA ADN + BSN</h2>
+<p>Progression of courses varies with specific community college partnership, but generally follows a pattern of:</p>
+<ul>
+	<li>Months 1 to 12: Non-nursing, general education courses</li>
+	<li>Months 13 to 36: ADN nursing courses, remaining non-nursing courses, 1 to 3 BSN courses</li>
+	<li>Months 37 to 48: Remaining BSN completion courses</li>
+</ul>
+<p>Months above are approximations.</p>
+<h2>Enrollment Residence Requirement</h2>
+<p>Per the UIC <a href="https://catalog.uic.edu/ucat/degree-programs/univ-degree-requirements-graduation/#enrollment-residence-requirement" target="_blank">Enrollment Residence Requirement Policy</a>, the College of Nursing affirms that for students enrolled in the RN to BSN Completion Program concurrent attendance at the University of Illinois at Chicago and another collegiate institution, or enrollment at another institution, does not interrupt the UIC enrollment residence requirement for graduation.</p></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="rn-bsn.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

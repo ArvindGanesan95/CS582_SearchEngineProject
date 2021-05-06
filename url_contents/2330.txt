@@ -1,0 +1,475 @@
+https://catalog.uic.edu/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Preprofessional Studies &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/liberal-arts-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/">Anthropology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/">Biochemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/">Biological Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/">Black Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/">Chemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/">Classics and Mediterranean Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/">Communication</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/">Criminology, Law, and Justice</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/">Earth and Environmental Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/">Economics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/">English</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French and Francophone Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/">Gender and Women's Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/">Germanic Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/">Global Asian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/">Hispanic and Italian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/">History</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/">Integrated Health Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/">International Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/">Liberal Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/">Linguistics</a></li>
+				<li><a href="/ucat/colleges-depts/liberal-arts-sciences/lcsl/">Literatures, Cultural Studies, and Linguistics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/">Mathematics, Statistics, and Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/">Moving Image Arts</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/">Neuroscience</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/">Philosophy</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/">Physics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/">Polish, Russian, and Lithuanian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/">Political Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/">Psychology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/">Religious Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/">Sociology</a></li>
+				<li class="active isparent self"><a href="#" onclick="return false;">Preprofessional Studies</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-dent/">Pre-&#8203;Dentistry</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-med/">Pre-&#8203;Medicine</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-ot/">Pre-&#8203;Occupational Therapy</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-pt/">Pre-&#8203;Physical Therapy</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-vet-med/">Pre-&#8203;Veterinary Medicine</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-him/">Pre-&#8203;Health Information Management</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-nurs/">Pre-&#8203;Nursing</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-nut/">Pre-&#8203;Nutrition</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-pharm/">Pre-&#8203;Pharmacy</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-pubh/">Pre-&#8203;Public Health</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-law/">Pre-&#8203;Law</a></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/">College&nbsp;of&nbsp;Liberal&nbsp;Arts&nbsp;and&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><span class="active">Preprofessional Studies</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Preprofessional Studies</h1>
+
+
+<script type="text/javascript">
+//<![CDATA[
+	var defshow = "text";
+	var bodycontainer = "#body";
+	var validhashes = ",text,undergraduateprogramstext,";
+
+if(window.location.hash.length) {
+	var hash = cleanHash(window.location.hash);
+	if(validhashes.indexOf("," + hash + ",") != -1)
+		defshow = hash;	
+}
+var ss = document.styleSheets;
+var workss = null;
+for(var i=0; i < ss.length; i++) {
+	var currmedia = "";
+	if (typeof ss[i].media == "string") 
+		currmedia = ss[i].media
+	else if (typeof ss[i].media == "object" && ss[i].media.mediaText) 
+		currmedia = ss[i].media.mediaText;
+	
+	if((currmedia == "screen" || currmedia == "all") && (ss[i].href.indexOf("/") == 0 || ss[i].href.indexOf(document.location.host) >= 0)) {
+		workss = ss[i];
+		break;	
+	}
+}
+if(workss && workss.insertRule) {
+	workss.insertRule(".tab_content { display: none; }", workss.cssRules.length)
+	workss.insertRule(".sectionheader { display: none; }", workss.cssRules.length)
+	workss.insertRule("#" + defshow + "container { display: block; }", workss.cssRules.length)
+} else if(workss && workss.addRule) {
+	workss.addRule(".tab_content", "display: none");
+	workss.addRule(".sectionheader", "display: none");
+	workss.addRule("#" + defshow + "container", "display: block");
+}
+else {
+	if (window.console)
+		window.console.log('screen.css <link> needs attribute media="screen"');
+}
+//]]>
+</script>
+	<div id="tabs">
+		<ul class="clearfix" role="tablist">
+			<li id="texttab" role="presentation">
+<a href="#textcontainer" role="tab" aria-controls="textcontainer" onclick="return showSection('text');">Overview</a></li>
+			<li id="undergraduateprogramstexttab" role="presentation">
+<a href="#undergraduateprogramstextcontainer" role="tab" aria-controls="undergraduateprogramstextcontainer" onclick="return showSection('undergraduateprogramstext');" >Programs and Requirements</a></li>
+		</ul>
+	</div>
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p class="campus_location"><span class="label"><strong>Contact Information: </strong></span><br/>
+<span class="campus_location">Campus Location: Third Floor, University Hall (UH) <br/>
+<span class="phone">(312) 996–3366</span></span></p>
+<p class="administration"><span class="label"><strong>Administration: </strong></span><br/>
+Dean, Astrida Orle Tantillo<br/>
+Executive Assistant Dean, Student Academic Affairs, Brian Roessler, Third Floor, UH<br/>
+Director, Pre-Professional Advising, Misty Huacuja-LaPointe, Second Floor, SES</p>
+<p>Students who desire to pursue careers for which a professional degree is required may take the necessary course work to apply to such programs in the College of Liberal Arts and Sciences. Preprofessional advisors who specialize in pre-health and pre-law advising are able to assist students in pursuing programs in the following areas:</p>
+<ul>
+	<li>Pre-Dentistry</li>
+	<li>Pre-Health Information Management</li>
+	<li>Pre-Law</li>
+	<li>Pre-Medicine (M.D./D.O. and podiatric medicine)</li>
+	<li>Pre-Nursing</li>
+	<li>Pre-Nutrition</li>
+	<li>Pre-Occupational Therapy</li>
+	<li>Pre-Optometry</li>
+	<li>Pre-Pharmacy</li>
+	<li>Pre-Physical Therapy</li>
+	<li>Pre-Physician Assistant</li>
+	<li>Pre-Public Health</li>
+	<li>Pre-Veterinary Medicine.</li>
+</ul>
+<p>Preprofessional advisors are available to meet with students during individual appointment sessions and group workshops. On-demand webinars are also available for students interested in pre-health fields. Students interested in preprofessional studies should visit the<a href="http://prehealth.las.uic.edu/" target="_blank"> LAS Pre-Health website</a> or the <a href="http://prelaw.las.uic.edu/" target="_blank">LAS Pre-Law website</a> for information regarding webinars, upcoming workshops, and other related information. Students can also find information regarding how to schedule an appointment with a pre-health  or pre-law advisor.</p>
+<p>Preprofessional studies in Pre-Dentistry, Pre-Law, Pre-Medicine, Pre-Occupational Therapy, Pre-Optometry, Pre-Physical Therapy, Pre-Physician Assistant, and Pre-Veterinary Medicine require students to complete an undergraduate degree program, including a major and prerequisite course work. In most cases, the bachelor’s degree is required prior to matriculation to the professional program. If admitted, students complete a professional degree program and graduate with a post-baccalaureate professional degree.</p>
+<p>Preprofessional studies in Pre-Health Information Management, Pre-Nutrition, Pre-Nursing, and Pre-Public Health require students to complete at least two years of undergraduate study prior to admission to a different UIC college. In some instances, completion of a particular program may take more time than anticipated if the student needs to satisfy prerequisites, or when a student does not take courses in the proper sequence. If admitted, students complete at least two additional years of undergraduate study in the program and graduate with a bachelor’s degree.</p>
+<p>Preprofessional study in Pre-Pharmacy requires students to complete a minimum of two years of undergraduate study prior to admission to the College of Pharmacy. In most cases, three years of undergraduate study are needed to complete the prerequisite course work. A majority of the students admitted to the College of Pharmacy have completed a bachelor’s degree at the time of matriculation. If admitted, students complete four additional years of study in the UIC College of Pharmacy and graduate with a doctor of pharmacy (PharmD) degree.</p>
+<p>Completion of prerequisite course work does not guarantee admission to a professional college or program. Students pursuing preprofessional studies are strongly encouraged to consult an LAS preprofessional advisor and an advisor in the professional program before submitting an application. Each professional program has specific application procedures, deadlines, and requirements, which can change from time to time and may not be reflected in this catalog. Students are responsible for obtaining the most current information.</p>
+<p>Students pursuing preprofessional studies must plan their course of study with care. Advisors are available to assist students, however, the responsibility for selecting courses and meeting admission requirements rests with the individual student who must plan and select courses consistent with the program requirements. The information below provides the current prerequisite course information for the UIC or UIUC professional programs. LAS Preprofessional advisors can assist students in applying to programs outside of UIC as well.</p>
+<h2>Pre-Dentistry, Pre-Medicine, Pre-Occupational Therapy, Pre-Physical Therapy, and Pre-Veterinary Medicine</h2>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugpredentmedoccptvet" summary="UG Pre-Dentistry, Medicine, Occup Ther, Phy Ther, Vet Med">
+<caption class="hidden noscript">UG Pre-Dentistry, Medicine, Occup Ther, Phy Ther, Vet Med</caption>
+<colgroup><col class="column0" pdfwidth="25%" width="25%"/><col class="column1" pdfwidth="20%" width="20%"/><col class="column2" pdfwidth="15%" width="15%"/><col class="column3" pdfwidth="20%" width="20%"/><col class="column4" pdfwidth="20%" width="20%"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Preprofessional Studies</th>
+<th scope="col" class="column1">Prerequisite Required Hours</th>
+<th scope="col" class="column2">Major</th>
+<th scope="col" class="column3"> Bachelor's Degree Required for Admission to Professional College</th>
+<th scope="col" class="column4">Professional College<sup>a</sup></th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td class="column0">Pre-Dentistry</td>
+<td class="column1">41-42</td>
+<td class="column2">Any</td>
+<td class="column3">Yes</td>
+<td class="column4">UIC College of Dentistry</td>
+</tr>
+<tr class="odd"><td class="column0">Pre-Medicine</td>
+<td class="column1">47-51</td>
+<td class="column2">Any</td>
+<td class="column3">Yes</td>
+<td class="column4">UIC College of Medicine</td>
+</tr>
+<tr class="even"><td class="column0">Pre-Occupational Therapy</td>
+<td class="column1">34</td>
+<td class="column2">Any</td>
+<td class="column3">Yes</td>
+<td class="column4">UIC College of Applied Health Sciences</td>
+</tr>
+<tr class="odd"><td class="column0">Pre-Physical Therapy</td>
+<td class="column1">46</td>
+<td class="column2">Any </td>
+<td class="column3">Yes</td>
+<td class="column4">UIC College of Applied Health Sciences</td>
+</tr>
+<tr class="even last lastrow"><td class="column0">Pre-Veterinary Medicine</td>
+<td class="column1">39-40</td>
+<td class="column2">Any</td>
+<td class="column3">Yes<sup>b</sup></td>
+<td class="column4">UIUC College of Veterinary Medicine</td>
+</tr>
+</tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Although the prerequisites for admission to professional programs are those for University of Illinois professional colleges, students interested in other institutions should consult those programs for their requirements.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>Students should visit the <a href="http://vetmed.illinois.edu/education/doctor-veterinary-medicine-degree/admissions/prerequisites" target="_blank">College of Veterinary Medicine website</a> for information regarding applying without a bachelor’s degree.</em></p></td></tr></table>
+<h3>Course Requirements</h3>
+<p>For a list of Course Requirements in each area, please see the pages for <a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-dent/">Pre-Dentistry</a>, <a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-med/">Pre-Medicine</a>, <a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-ot/">Pre-Occupational Therapy</a>, <a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-pt/">Pre-Physical Therapy</a>, and <a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-vet-med/">Pre-Veterinary Medicine</a>.</p>
+<h2>Pre-Health Information Management, Pre-Nutrition, Pre-Nursing, Pre-Pharmacy, and Pre-Public Health</h2>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugprehealthimnutnursepharm" summary="UG Pre-Health IM, Nutrition, Nursing, Pharmacy">
+<caption class="hidden noscript">UG Pre-Health IM, Nutrition, Nursing, Pharmacy</caption>
+<colgroup><col class="column0"/><col class="column1"/><col class="column2"/><col class="column3"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Preprofessional Studies</th>
+<th scope="col" class="column1">Preprofessional Studies Required Hours</th>
+<th scope="col" class="column2">UIC Professional College</th>
+<th scope="col" class="column3">Professional Degree Program</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td class="column0">Pre-Health Information Management</td>
+<td class="column1">60</td>
+<td class="column2">College of Applied Health Sciences</td>
+<td class="column3">BS in Health Information Management</td>
+</tr>
+<tr class="odd"><td class="column0">Pre-Nursing</td>
+<td class="column1">57</td>
+<td class="column2">College of Nursing</td>
+<td class="column3">BS in Nursing</td>
+</tr>
+<tr class="even"><td class="column0">Pre-Nutrition</td>
+<td class="column1">63</td>
+<td class="column2">College of Applied Health Sciences</td>
+<td class="column3">BS in Nutrition</td>
+</tr>
+<tr class="odd"><td class="column0">Pre-Pharmacy</td>
+<td class="column1">71-74</td>
+<td class="column2">College of Pharmacy</td>
+<td class="column3">Doctor of Pharmacy (PharmD)</td>
+</tr>
+<tr class="even last lastrow"><td class="column0">Pre-Public Health</td>
+<td class="column1">60</td>
+<td class="column2">School of Public Health</td>
+<td class="column3">BA in Public Health</td>
+</tr>
+</tbody>
+</table>
+
+<p>Preprofessional studies in these health sciences areas require at least two years of undergraduate study prior to matriculation in the professional program. If admitted to the professional program, pre-health information management, pre-nutrition, pre-nursing, and pre-public health students complete the bachelor’s degree in the professional college, and pre-pharmacy students complete the doctor of pharmacy degree in the College of Pharmacy.</p>
+<h3>Course Requirements</h3>
+<p>For a list of Course Requirements in each area, please see the pages for <a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-him/">Pre-Health Information Management</a>, <a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-nurs/">Pre-Nursing</a>, <a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-nut/">Pre-Nutrition</a>, <a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-pharm/">Pre-Pharmacy</a>, and <a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-pubh/">Pre-Public Health</a>.</p>
+<h2>Pre-Law</h2>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugprofessionalprelaw" summary="UG Professional Studies Pre-Law">
+<caption class="hidden noscript">UG Professional Studies Pre-Law</caption>
+<colgroup><col class="column0"/><col class="column1"/><col class="column2"/><col class="column3"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Preprofessional Studies</th>
+<th scope="col" class="column1">Preprofessional Studies Required Hours</th>
+<th scope="col" class="column2">Major</th>
+<th scope="col" class="column3">Bachelor's Degree Required for Admission to Professional College</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even last lastrow firstrow"><td class="column0">Pre-Law</td>
+<td class="column1">Varies</td>
+<td class="column2">Any</td>
+<td class="column3">Yes</td>
+</tr>
+</tbody>
+</table>
+
+<p>For more information about Pre-Law at UIC, please see the <a href="http://prelaw.las.uic.edu/" target="_blank">Pre-Law</a> page.</p></div><!--end #textcontainer -->
+
+			<div id="undergraduateprogramstextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="undergraduateprogramstexttab" aria-hidden="true">
+				<a name="undergraduateprogramstext"></a><h3>Preprofessional Studies</h3>
+<ul>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-dent/">Pre-Dentistry</a></li>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-med/">Pre-Medicine</a></li>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-ot/">Pre-Occupational Therapy</a></li>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-pt/">Pre-Physical Therapy</a></li>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-vet-med/">Pre-Veterinary Medicine</a></li>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-him/">Pre-Health Information Management</a></li>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-nurs/">Pre-Nursing</a></li>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-nut/">Pre-Nutrition</a></li>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-pharm/">Pre-Pharmacy</a></li>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-pubh/">Pre-Public Health</a></li>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-law/">Pre-Law</a></li>
+</ul>
+			</div>
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="preprofessional-studies.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

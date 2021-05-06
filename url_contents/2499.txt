@@ -1,0 +1,326 @@
+https://catalog.uic.edu/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-dent/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Pre-Dentistry &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/liberal-arts-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/">Anthropology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/">Biochemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/">Biological Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/">Black Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/">Chemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/">Classics and Mediterranean Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/">Communication</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/">Criminology, Law, and Justice</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/">Earth and Environmental Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/">Economics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/">English</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French and Francophone Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/">Gender and Women's Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/">Germanic Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/">Global Asian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/">Hispanic and Italian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/">History</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/">Integrated Health Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/">International Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/">Liberal Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/">Linguistics</a></li>
+				<li><a href="/ucat/colleges-depts/liberal-arts-sciences/lcsl/">Literatures, Cultural Studies, and Linguistics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/">Mathematics, Statistics, and Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/">Moving Image Arts</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/">Neuroscience</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/">Philosophy</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/">Physics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/">Polish, Russian, and Lithuanian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/">Political Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/">Psychology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/">Religious Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/">Sociology</a></li>
+				<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional Studies</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">
+					<li class="active self"><a href="#" onclick="return false;">Pre-&#8203;Dentistry</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-med/">Pre-&#8203;Medicine</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-ot/">Pre-&#8203;Occupational Therapy</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-pt/">Pre-&#8203;Physical Therapy</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-vet-med/">Pre-&#8203;Veterinary Medicine</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-him/">Pre-&#8203;Health Information Management</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-nurs/">Pre-&#8203;Nursing</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-nut/">Pre-&#8203;Nutrition</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-pharm/">Pre-&#8203;Pharmacy</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-pubh/">Pre-&#8203;Public Health</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-law/">Pre-&#8203;Law</a></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/">College&nbsp;of&nbsp;Liberal&nbsp;Arts&nbsp;and&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional&nbsp;Studies</a><span class="crumbsep">/</span></li><li><span class="active">Pre-Dentistry</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Pre-Dentistry</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p>Pre-dentistry students may choose any major, but should work with a Pre-Health Advisor to plan a course of study that fulfills the prerequisite requirements as well as the requirements for the major and college. The UIC College of Dentistry notes that it is very important for applicants to demonstrate a strong science foundation regardless of the major chosen.</p>
+<p>The table below lists the minimum course work required to apply for admission to the College of Dentistry at the University of Illinois at Chicago. DMD applicants must have a minimum of a bachelor's degree conferred no later than June of the matriculation year from a United States institution. A baccalaureate degree <strong>is required</strong> to matriculate into the DMD program at the UIC College of Dentistry.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span> <sup>a</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td><td>Academic Writing I: Writing in Academic and Public Contexts</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td><td>Academic Writing II: Writing for Inquiry and Research</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a></td><td>Biology of Cells and Organisms <sup>b</sup></td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=BIOS%20120" title="BIOS 120" class="bubblelink code" onclick="return showCourse(this, 'BIOS 120');">BIOS 120</a></td><td>Biology of Populations and Communities <sup>b</sup></td><td class="hourscol">4</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select one of the following sequences in general chemistry:</span></td><td class="hourscol">10</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20122" title="CHEM 122" class="bubblelink code" onclick="return showCourse(this, 'CHEM 122');">CHEM 122</a></div></td><td>General Chemistry I Lecture</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20123" title="CHEM 123" class="bubblelink code" onclick="return showCourse(this, 'CHEM 123');">CHEM 123</a></div></td><td>General Chemistry Laboratory I <sup>b,c</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20124" title="CHEM 124" class="bubblelink code" onclick="return showCourse(this, 'CHEM 124');">CHEM 124</a></div></td><td>General Chemistry II Lecture</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20125" title="CHEM 125" class="bubblelink code" onclick="return showCourse(this, 'CHEM 125');">CHEM 125</a></div></td><td>General Chemistry Laboratory II <sup>b,c</sup></td><td class="hourscol"></td></tr>
+<tr class="even areaheader "><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment areaheader  commentindent">OR </span></div></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20116" title="CHEM 116" class="bubblelink code" onclick="return showCourse(this, 'CHEM 116');">CHEM 116</a></div></td><td>Honors and Majors General and Analytical Chemistry I <sup>b</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20118" title="CHEM 118" class="bubblelink code" onclick="return showCourse(this, 'CHEM 118');">CHEM 118</a></div></td><td>Honors and Majors General and Analytical Chemistry II <sup>b</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=CHEM%20232" title="CHEM 232" class="bubblelink code" onclick="return showCourse(this, 'CHEM 232');">CHEM 232</a></td><td>Organic Chemistry I</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=CHEM%20233" title="CHEM 233" class="bubblelink code" onclick="return showCourse(this, 'CHEM 233');">CHEM 233</a></td><td>Organic Chemistry Laboratory I</td><td class="hourscol">2</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select one of the following biochemistry courses:</span></td><td class="hourscol">3-4</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=BIOS%20352" title="BIOS 352" class="bubblelink code" onclick="return showCourse(this, 'BIOS 352');">BIOS 352</a></div></td><td>Introductory Biochemistry</td><td class="hourscol"></td></tr>
+<tr class="odd areaheader "><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment areaheader  commentindent">OR</span></div></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=BIOS%20452" title="BIOS 452" class="bubblelink code" onclick="return showCourse(this, 'BIOS 452');">BIOS 452</a></div></td><td>Biochemistry I (prerequisite of <a href="/search/?P=CHEM%20234" title="CHEM 234" class="bubblelink code" onclick="return showCourse(this, 'CHEM 234');">CHEM 234</a> - Organic Chemistry II)</td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select one of the following sequences in physics:</span></td><td class="hourscol">8</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHYS%20131" title="PHYS 131" class="bubblelink code" onclick="return showCourse(this, 'PHYS 131');">PHYS 131</a></div></td><td>Introductory Physics for Life Sciences I <sup>b</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHYS%20132" title="PHYS 132" class="bubblelink code" onclick="return showCourse(this, 'PHYS 132');">PHYS 132</a></div></td><td>Introductory Physics for Life Sciences II <sup>b</sup></td><td class="hourscol"></td></tr>
+<tr class="even areaheader "><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment areaheader  commentindent">OR</span></div></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHYS%20141" title="PHYS 141" class="bubblelink code" onclick="return showCourse(this, 'PHYS 141');">PHYS 141</a></div></td><td>General Physics I (Mechanics) <sup>b</sup></td><td class="hourscol"></td></tr>
+<tr class="even lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHYS%20142" title="PHYS 142" class="bubblelink code" onclick="return showCourse(this, 'PHYS 142');">PHYS 142</a></div></td><td>General Physics II (Electricity and Magnetism) <sup>b</sup></td><td class="hourscol"></td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">41-42</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>The UIC College of Dentistry does not accept Advanced Placement (AP) courses as meeting course requirements. If basic-level biological sciences, chemistry, and physics course requirements are satisfied with AP credit, students must then take the specified number of credit hours in each area from upper-level science courses. Students are advised to take an additional English course if their ACT score allows exemption from the first English composition requirement. </em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>This course is approved for the Analyzing the Natural World General Education category. </em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>Each of the following pairs of courses will be considered one course in meeting the LAS General Education requirements: <span class="sc_courseinline"><a href="/search/?P=CHEM%20122" title="CHEM 122" class="bubblelink code" onclick="return showCourse(this, 'CHEM 122');">CHEM 122</a></span>/<span class="sc_courseinline"><a href="/search/?P=CHEM%20123" title="CHEM 123" class="bubblelink code" onclick="return showCourse(this, 'CHEM 123');">CHEM 123</a></span>; <span class="sc_courseinline"><a href="/search/?P=CHEM%20124" title="CHEM 124" class="bubblelink code" onclick="return showCourse(this, 'CHEM 124');">CHEM 124</a></span>/<span class="sc_courseinline"><a href="/search/?P=CHEM%20125" title="CHEM 125" class="bubblelink code" onclick="return showCourse(this, 'CHEM 125');">CHEM 125</a></span>. </em></p></td></tr></table>
+<p>The College of Dentistry requires that all prerequisite science courses  (except biochemistry) include labs. <strong>Additionally, all required prerequisite courses taken must be completed with a grade of C or better.</strong> Please note that a baccalaureate degree is required to matriculate into the DMD program at the College of Dentistry. Furthermore, the College of Dentistry gives strong preference to applicants who have taken three to four of the following science courses beyond the above minimum: human anatomy, physiology, biochemistry, microbiology, cell biology, histology, immunology, and genetics.</p>
+<p>In addition to the course work listed above, applicants to the College of Dentistry must also take the Dental Admission Test (DAT). The DAT is offered through the American Dental Association (ADA). For more information on the DAT, please see the <a href="http://www.ada.org/dat" target="_blank">ADA website</a>. Applicants to the College of Dentistry must apply through a centralized application service sponsored by the American Dental Education Association (ADEA). More information on the <a href="https://portal.aadsasweb.org" target="_blank">Associated American Dental Schools Application Service (AADSAS)</a> is available online.</p>
+<p>Students may obtain information regarding the DAT and AADSAS by attending workshops sponsored by Pre-Health Advising in LAS. Students are advised to declare a pre-health educational goal upon entering UIC which will alert them to specific workshops and as well as add them to a Pre-Health Advising BlackBoard page where they will receive other pertinent information.</p>
+<p>Students are strongly encouraged to select an undergraduate major and begin fulfilling their degree requirements as they complete their pre-dentistry prerequisites. No specific major is required. To obtain a degree in the College of Liberal Arts and Sciences, pre-dentistry students must satisfy all degree requirements of the college, including a major program.</p>
+<p>In addition to the academic requirements, pre-dental students at UIC are strongly encouraged to become active members of the UIC Pre-Dental Club, obtain research experience, and preprofessional experiences in dental practices which may include but are not limited to shadowing a private practitioner, working as a dental assistant, working as a dental lab technician, observing in a public health dental clinic, etc. The UIC College of Dentistry recommends at least 100 hours of shadowing experience by the time of application.</p>
+<p>The pre-dentistry information described above includes the minimum courses for application to the UIC College of Dentistry. Specific admission requirements of other dental schools are listed in The Official Guide to Dental Schools, which is published by the American Dental Education Association, 655 K. Street, N.W., Suite 800, Washington, D.C. 20001. <a href="http://www.adea.org/publications/Pages/OfficialGuide.aspx" target="_blank">Information on dental schools</a> is also available online. </p>
+<p>Students admitted to a U.S. accredited college of dentistry before earning a bachelor’s degree may be eligible to complete the baccalaureate by transferring credit from the first year of study in dental school. The College of Liberal Arts and Sciences accepts a total of 32 semester hours of credit from an accredited college of dentistry to enable a student to complete the requirements for a bachelor’s degree, provided that the following conditions are met:</p>
+<ol>
+	<li>The student is in good standing in the college of dentistry;</li>
+	<li>The course work taken in the college of dentistry does not duplicate previous course work;</li>
+	<li>The courses are in fields such as biochemistry, physiology, histology, or anatomy as approved by the College of Liberal Arts and Sciences;</li>
+	<li>The student satisfies the enrollment residence requirement by completing at UIC at least the last 60 semester hours prior to entry into a college of dentistry;</li>
+	<li>The student meets all other requirements for graduation from the College of Liberal Arts and Sciences, including a major field and a 2.00/4.00 GPA in all course work taken at UIC and other institutions.</li>
+</ol></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="pre-dent.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,518 @@
+https://catalog.uic.edu/ucat/course-descriptions/eaes/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Earth and Environmental Sciences (EAES) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a></li>
+		<li class="active isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a>
+		<ul class="nav leveltwo" id="/ucat/course-descriptions/">
+			<li><a href="/ucat/course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+			<li><a href="/ucat/course-descriptions/actg/">Accounting (ACTG)</a></li>
+			<li><a href="/ucat/course-descriptions/aast/">African American Studies (AAST)</a></li>
+			<li><a href="/ucat/course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+			<li><a href="/ucat/course-descriptions/anth/">Anthropology (ANTH)</a></li>
+			<li><a href="/ucat/course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+			<li><a href="/ucat/course-descriptions/arab/">Arabic (ARAB)</a></li>
+			<li><a href="/ucat/course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+			<li><a href="/ucat/course-descriptions/arch/">Architecture (ARCH)</a></li>
+			<li><a href="/ucat/course-descriptions/art/">Art (ART)</a></li>
+			<li><a href="/ucat/course-descriptions/ah/">Art History (AH)</a></li>
+			<li><a href="/ucat/course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+			<li><a href="/ucat/course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+			<li><a href="/ucat/course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+			<li><a href="/ucat/course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+			<li><a href="/ucat/course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+			<li><a href="/ucat/course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+			<li><a href="/ucat/course-descriptions/blst/">Black Studies (BLST)</a></li>
+			<li><a href="/ucat/course-descriptions/ba/">Business Administration (BA)</a></li>
+			<li><a href="/ucat/course-descriptions/cc/">Campus Courses (CC)</a></li>
+			<li><a href="/ucat/course-descriptions/cst/">Catholic Studies (CST)</a></li>
+			<li><a href="/ucat/course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+			<li><a href="/ucat/course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+			<li><a href="/ucat/course-descriptions/chem/">Chemistry (CHEM)</a></li>
+			<li><a href="/ucat/course-descriptions/chin/">Chinese (CHIN)</a></li>
+			<li><a href="/ucat/course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+			<li><a href="/ucat/course-descriptions/cl/">Classics (CL)</a></li>
+			<li><a href="/ucat/course-descriptions/comm/">Communication (COMM)</a></li>
+			<li><a href="/ucat/course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+			<li><a href="/ucat/course-descriptions/cs/">Computer Science (CS)</a></li>
+			<li><a href="/ucat/course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+			<li><a href="/ucat/course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+			<li><a href="/ucat/course-descriptions/des/">Design (DES)</a></li>
+			<li><a href="/ucat/course-descriptions/dlg/">Dialogue (DLG)</a></li>
+			<li><a href="/ucat/course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+			<li class="active self"><a href="#" onclick="return false;">Earth and Environmental Sciences (EAES)</a></li>
+			<li><a href="/ucat/course-descriptions/econ/">Economics (ECON)</a></li>
+			<li><a href="/ucat/course-descriptions/ed/">Education (ED)</a></li>
+			<li><a href="/ucat/course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+			<li><a href="/ucat/course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+			<li><a href="/ucat/course-descriptions/ece/">Electrical and Computer Engr (ECE)</a></li>
+			<li><a href="/ucat/course-descriptions/engr/">Engineering (ENGR)</a></li>
+			<li><a href="/ucat/course-descriptions/engl/">English (ENGL)</a></li>
+			<li><a href="/ucat/course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+			<li><a href="/ucat/course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+			<li><a href="/ucat/course-descriptions/fin/">Finance (FIN)</a></li>
+			<li><a href="/ucat/course-descriptions/fr/">French (FR)</a></li>
+			<li><a href="/ucat/course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+			<li><a href="/ucat/course-descriptions/geog/">Geography (GEOG)</a></li>
+			<li><a href="/ucat/course-descriptions/ger/">Germanic Studies (GER)</a></li>
+			<li><a href="/ucat/course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+			<li><a href="/ucat/course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+			<li><a href="/ucat/course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+			<li><a href="/ucat/course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+			<li><a href="/ucat/course-descriptions/him/">Health Information Management (HIM)</a></li>
+			<li><a href="/ucat/course-descriptions/heb/">Hebrew (HEB)</a></li>
+			<li><a href="/ucat/course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+			<li><a href="/ucat/course-descriptions/hist/">History (HIST)</a></li>
+			<li><a href="/ucat/course-descriptions/hon/">Honors College Courses (HON)</a></li>
+			<li><a href="/ucat/course-descriptions/hn/">Human Nutrition (HN)</a></li>
+			<li><a href="/ucat/course-descriptions/hum/">Humanities (HUM)</a></li>
+			<li><a href="/ucat/course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+			<li><a href="/ucat/course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+			<li><a href="/ucat/course-descriptions/it/">Information Technology (IT)</a></li>
+			<li><a href="/ucat/course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+			<li><a href="/ucat/course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+			<li><a href="/ucat/course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+			<li><a href="/ucat/course-descriptions/inst/">International Studies (INST)</a></li>
+			<li><a href="/ucat/course-descriptions/ital/">Italian (ITAL)</a></li>
+			<li><a href="/ucat/course-descriptions/jpn/">Japanese (JPN)</a></li>
+			<li><a href="/ucat/course-descriptions/jst/">Jewish Studies (JST)</a></li>
+			<li><a href="/ucat/course-descriptions/kn/">Kinesiology (KN)</a></li>
+			<li><a href="/ucat/course-descriptions/kor/">Korean (KOR)</a></li>
+			<li><a href="/ucat/course-descriptions/lat/">Latin (LAT)</a></li>
+			<li><a href="/ucat/course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+			<li><a href="/ucat/course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+			<li><a href="/ucat/course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+			<li><a href="/ucat/course-descriptions/ling/">Linguistics (LING)</a></li>
+			<li><a href="/ucat/course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+			<li><a href="/ucat/course-descriptions/lith/">Lithuanian (LITH)</a></li>
+			<li><a href="/ucat/course-descriptions/mgmt/">Management (MGMT)</a></li>
+			<li><a href="/ucat/course-descriptions/mktg/">Marketing (MKTG)</a></li>
+			<li><a href="/ucat/course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+			<li><a href="/ucat/course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+			<li><a href="/ucat/course-descriptions/math/">Mathematics (MATH)</a></li>
+			<li><a href="/ucat/course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+			<li><a href="/ucat/course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+			<li><a href="/ucat/course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+			<li><a href="/ucat/course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+			<li><a href="/ucat/course-descriptions/mils/">Military Science (MILS)</a></li>
+			<li><a href="/ucat/course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+			<li><a href="/ucat/course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+			<li><a href="/ucat/course-descriptions/mus/">Music (MUS)</a></li>
+			<li><a href="/ucat/course-descriptions/nast/">Native American Studies (NAST)</a></li>
+			<li><a href="/ucat/course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+			<li><a href="/ucat/course-descriptions/ns/">Naval Science (NS)</a></li>
+			<li><a href="/ucat/course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+			<li><a href="/ucat/course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+			<li><a href="/ucat/course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+			<li><a href="/ucat/course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+			<li><a href="/ucat/course-descriptions/path/">Pathology (PATH)</a></li>
+			<li><a href="/ucat/course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+			<li><a href="/ucat/course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+			<li><a href="/ucat/course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+			<li><a href="/ucat/course-descriptions/psop/">Pharmacy Systems, Outcomes &amp;&#8203; Policy (PSOP)</a></li>
+			<li><a href="/ucat/course-descriptions/phil/">Philosophy (PHIL)</a></li>
+			<li><a href="/ucat/course-descriptions/pt/">Physical Therapy (PT)</a></li>
+			<li><a href="/ucat/course-descriptions/phys/">Physics (PHYS)</a></li>
+			<li><a href="/ucat/course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+			<li><a href="/ucat/course-descriptions/pol/">Polish (POL)</a></li>
+			<li><a href="/ucat/course-descriptions/pols/">Political Science (POLS)</a></li>
+			<li><a href="/ucat/course-descriptions/port/">Portuguese (PORT)</a></li>
+			<li><a href="/ucat/course-descriptions/psch/">Psychology (PSCH)</a></li>
+			<li><a href="/ucat/course-descriptions/pa/">Public Administration (PA)</a></li>
+			<li><a href="/ucat/course-descriptions/pubh/">Public Health (PUBH)</a></li>
+			<li><a href="/ucat/course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+			<li><a href="/ucat/course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+			<li><a href="/ucat/course-descriptions/rels/">Religious Studies (RELS)</a></li>
+			<li><a href="/ucat/course-descriptions/russ/">Russian (RUSS)</a></li>
+			<li><a href="/ucat/course-descriptions/slav/">Slavic &amp;&#8203; Baltic Languages &amp;&#8203;Lit (SLAV)</a></li>
+			<li><a href="/ucat/course-descriptions/sj/">Social Justice (SJ)</a></li>
+			<li><a href="/ucat/course-descriptions/soc/">Sociology (SOC)</a></li>
+			<li><a href="/ucat/course-descriptions/span/">Spanish (SPAN)</a></li>
+			<li><a href="/ucat/course-descriptions/sped/">Special Education (SPED)</a></li>
+			<li><a href="/ucat/course-descriptions/stat/">Statistics (STAT)</a></li>
+			<li><a href="/ucat/course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+			<li><a href="/ucat/course-descriptions/thtr/">Theatre (THTR)</a></li>
+			<li><a href="/ucat/course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+			<li><a href="/ucat/course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+			<li><a href="/ucat/course-descriptions/us/">Urban Studies (US)</a></li>
+		</ul>
+		</li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/course-descriptions/">Undergraduate&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Earth and Environmental Sciences (EAES)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Earth and Environmental Sciences (EAES)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="eaescourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;101.  Global Environmental Change.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Natural and anthropogenic controls on the structure and evolution of the earth's surface environment. Interactions among the Earth's solid surface, hydrosphere, atmosphere, and biosphere and human impacts on these processes. Course Information: Field trip required at nominal fee. Class Schedule Information: To be properly registered, students must enroll in one Laboratory and one Lecture.<i>  Natural World - With Lab course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;105.  Climate, Contamination, and Chicago.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Environmental earth science issues relevant to Chicagoâ€™s economy and history. Course Information: Field trip required at a nominal fee.<i>  Natural World - No Lab course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;111.  Earth, Energy, and the Environment.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Nature and evolution of Earth from the scale of minerals and rocks to tectonic plates.  Earthquakes and volcanoes, their hazards and effects on humans.  Natural resources, sources of energy, and their environmental impacts. Course Information: Previously listed as EAES 102. Field trip required at nominal fee. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture.<i>  Natural World - With Lab course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;116.  Energy for Future Decision-Makers.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of energy sustainability and environmental issues. All energy forms of production, sources, storage, and uses; their environmental implications on a global scale within the scientific, technological, political, economic, and social context. Course Information: Same as <a href="/search/?P=PHYS%20116" title="PHYS&#160;116" class="bubblelink code" onclick="return showCourse(this, 'PHYS 116');">PHYS&#160;116</a>. Recommended background: High school algebra.<i>  Natural World - No Lab course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;180.  Honors Earth and Environmental Sciences.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Provides honors students with the opportunity to explore in depth a topic treated in the concurrent lecture course. Course Information: May be repeated up to 1 time(s). Students may register in more than one section per term. May be taken a total of 2 times, each time with concurrent registration in <a href="/search/?P=EAES%20101" title="EAES&#160;101" class="bubblelink code" onclick="return showCourse(this, 'EAES 101');">EAES&#160;101</a> or <a href="/search/?P=EAES%20111" title="EAES&#160;111" class="bubblelink code" onclick="return showCourse(this, 'EAES 111');">EAES&#160;111</a>. Prerequisite(s): Concurrent registration in <a href="/search/?P=EAES%20101" title="EAES&#160;101" class="bubblelink code" onclick="return showCourse(this, 'EAES 101');">EAES&#160;101</a> or <a href="/search/?P=EAES%20111" title="EAES&#160;111" class="bubblelink code" onclick="return showCourse(this, 'EAES 111');">EAES&#160;111</a>.<i>  Honors course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;200.  Field Work in Missouri.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Field observations in the St. Francois Mountains and vicinity, southeast Missouri. Credit is given upon completion of assignments that include a satisfactory written report. Course Information: Three two-hour meetings and one-week field trip during the spring vacation. Full participation in pre-field trip class meetings is mandatory. Prerequisite(s): Grades of C or better in <a href="/search/?P=EAES%20101" title="EAES&#160;101" class="bubblelink code" onclick="return showCourse(this, 'EAES 101');">EAES&#160;101</a> and <a href="/search/?P=EAES%20111" title="EAES&#160;111" class="bubblelink code" onclick="return showCourse(this, 'EAES 111');">EAES&#160;111</a>; or Grade of C or better in <a href="/search/?P=EAES%20101" title="EAES&#160;101" class="bubblelink code" onclick="return showCourse(this, 'EAES 101');">EAES&#160;101</a> and concurrent registration in <a href="/search/?P=EAES%20111" title="EAES&#160;111" class="bubblelink code" onclick="return showCourse(this, 'EAES 111');">EAES&#160;111</a>; or Grade of C or better in <a href="/search/?P=EAES%20111" title="EAES&#160;111" class="bubblelink code" onclick="return showCourse(this, 'EAES 111');">EAES&#160;111</a> and concurrent registration in <a href="/search/?P=EAES%20101" title="EAES&#160;101" class="bubblelink code" onclick="return showCourse(this, 'EAES 101');">EAES&#160;101</a>. Registration may be limited if student is not majoring in Earth and Environmental Sciences. Recommended Background: Credit or concurrent registration in <a href="/search/?P=EAES%20230" title="EAES&#160;230" class="bubblelink code" onclick="return showCourse(this, 'EAES 230');">EAES&#160;230</a>.<i>  Natural World - With Lab course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;230.  Earth Materials.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to physical and chemical properties of earth materials, as well as their distribution, through lectures and laboratory exercises. Course Information: Prerequisite(s): Grade of C or better or concurrent registration in <a href="/search/?P=EAES%20101" title="EAES&#160;101" class="bubblelink code" onclick="return showCourse(this, 'EAES 101');">EAES&#160;101</a> and Grade of C or better in <a href="/search/?P=EAES%20111" title="EAES&#160;111" class="bubblelink code" onclick="return showCourse(this, 'EAES 111');">EAES&#160;111</a>; or consent of the instructor. Class Schedule Information: To be properly registered, students must enroll one Lecture and one Laboratory.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;285.  Earth Systems.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Earth systems and global change; global processes, greenhouse gases and global warming; geologic hazards; energy and the environment; human impact on the physical environment; geology of waste management. Course Information: Saturday field trip required at nominal fee. Prerequisite(s): <a href="/search/?P=EAES%20101" title="EAES&#160;101" class="bubblelink code" onclick="return showCourse(this, 'EAES 101');">EAES&#160;101</a> and <a href="/search/?P=EAES%20111" title="EAES&#160;111" class="bubblelink code" onclick="return showCourse(this, 'EAES 111');">EAES&#160;111</a>; or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory-Discussion and one Lecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;290.  Current Topics in Earth and Environmental Sciences.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Seminar on current issues in earth and environmental sciences. Introduction to reading, interpretation, and writing of scientific papers. Course Information: Previously listed as EAES 390. Prerequisite(s): Completion of at least one 100-level course in earth and environmental sciences.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;320.  Mineralogy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Structure, composition, occurrence, and identification of minerals and materials. Introduction to crystallography, optical mineralogy, crystal chemistry and X-ray diffraction. Applications to earth and environmental sciences. Course Information: Previously listed as EAES 220. Prerequisite(s): <a href="/search/?P=EAES%20111" title="EAES&#160;111" class="bubblelink code" onclick="return showCourse(this, 'EAES 111');">EAES&#160;111</a> and <a href="/search/?P=EAES%20230" title="EAES&#160;230" class="bubblelink code" onclick="return showCourse(this, 'EAES 230');">EAES&#160;230</a>; and CHEM 112 or <a href="/search/?P=CHEM%20122" title="CHEM&#160;122" class="bubblelink code" onclick="return showCourse(this, 'CHEM 122');">CHEM&#160;122</a> and <a href="/search/?P=CHEM%20123" title="CHEM&#160;123" class="bubblelink code" onclick="return showCourse(this, 'CHEM 123');">CHEM&#160;123</a>; or consent of the instructor. Class Schedule Information: To be properly registered, students must enroll in one Laboratory and one Lecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;350.  Sedimentary Environments.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Characterization of sediments and sedimentary rocks, sediment transport, deposition and sedimentary structures, depositional environments. Stratigraphic principles, introductory sequence stratigraphy. Applied sedimentary geology. Course Information: Field trips required at nominal fee. Prerequisite(s): <a href="/search/?P=EAES%20230" title="EAES&#160;230" class="bubblelink code" onclick="return showCourse(this, 'EAES 230');">EAES&#160;230</a> and <a href="/search/?P=EAES%20320" title="EAES&#160;320" class="bubblelink code" onclick="return showCourse(this, 'EAES 320');">EAES&#160;320</a>; or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory-Discussion and one Lecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;360.  Introduction to Paleontology.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The morphology, ecology, and relationships of fossil organisms. Basic principles of paleontology, including evolution, paleoecology and functional morphology. Course Information: Same as <a href="/search/?P=BIOS%20360" title="BIOS&#160;360" class="bubblelink code" onclick="return showCourse(this, 'BIOS 360');">BIOS&#160;360</a>. Field trip required at a nominal fee. One day field trip to collect fossils. Prerequisite(s): <a href="/search/?P=EAES%20101" title="EAES&#160;101" class="bubblelink code" onclick="return showCourse(this, 'EAES 101');">EAES&#160;101</a> or <a href="/search/?P=EAES%20111" title="EAES&#160;111" class="bubblelink code" onclick="return showCourse(this, 'EAES 111');">EAES&#160;111</a>; or BIOS 100 or <a href="/search/?P=BIOS%20110" title="BIOS&#160;110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS&#160;110</a>; and BIOS 101 or <a href="/search/?P=BIOS%20120" title="BIOS&#160;120" class="bubblelink code" onclick="return showCourse(this, 'BIOS 120');">BIOS&#160;120</a>. Class Schedule Information: To be properly registered, students must enroll in one Laboratory and one Lecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;396.  Independent Research.  2-8 hours.</strong></p>
+<p class="courseblockdesc">
+Individual study under supervision of a faculty member in areas not covered in standard courses. Course Information: May be repeated. Students may register in more than one section per term. A combined maximum of 6 hours of credit in <a href="/search/?P=EAES%20396" title="EAES&#160;396" class="bubblelink code" onclick="return showCourse(this, 'EAES 396');">EAES&#160;396</a> and <a href="/search/?P=EAES%20492" title="EAES&#160;492" class="bubblelink code" onclick="return showCourse(this, 'EAES 492');">EAES&#160;492</a> may be applied toward the degree. Independent research and a resulting undergraduate thesis are required for graduating with highest departmental distinction. Prerequisite(s): Consent of the instructor. Class Schedule Information: This course counts toward the limited number of independent study hours accepted toward the degree and the major.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;400.  Field Experience in Earth Sciences.  1-6 hours.</strong></p>
+<p class="courseblockdesc">
+Training in and application of field methods (geological, geochemical, and geophysical) to solution of problems in earth and environmental sciences. Course Information: May be repeated to a maximum of 6 hours. Field trips required at a nominal fee. Field work required. Students who wish to use <a href="/search/?P=EAES%20400" title="EAES&#160;400" class="bubblelink code" onclick="return showCourse(this, 'EAES 400');">EAES&#160;400</a> to satisfy the summer course selective must register for at least 4 credit hours. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;410.  Geochemistry.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Origin of elements. Principles of the distribution of elements in the earth's crust. Element partitioning between coexisting minerals. Thermodynamic considerations of mineral equilibria. Geochemistry of continental waters. Ocean geochemistry. Course Information: Prerequisite(s): CHEM 114 or <a href="/search/?P=CHEM%20124" title="CHEM&#160;124" class="bubblelink code" onclick="return showCourse(this, 'CHEM 124');">CHEM&#160;124</a> and <a href="/search/?P=CHEM%20125" title="CHEM&#160;125" class="bubblelink code" onclick="return showCourse(this, 'CHEM 125');">CHEM&#160;125</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;415.  Environmental Geochemistry.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Origin and distribution of elements in the earth. Thermodynamics and kinetics of mineral-solution reactions. Behavior of stable and radioisotopes in geochemical processes. Elemental Cycles. Course Information: Prerequisite(s): <a href="/search/?P=EAES%20230" title="EAES&#160;230" class="bubblelink code" onclick="return showCourse(this, 'EAES 230');">EAES&#160;230</a> and <a href="/search/?P=EAES%20285" title="EAES&#160;285" class="bubblelink code" onclick="return showCourse(this, 'EAES 285');">EAES&#160;285</a>; and CHEM 114 or <a href="/search/?P=CHEM%20124" title="CHEM&#160;124" class="bubblelink code" onclick="return showCourse(this, 'CHEM 124');">CHEM&#160;124</a> and <a href="/search/?P=CHEM%20125" title="CHEM&#160;125" class="bubblelink code" onclick="return showCourse(this, 'CHEM 125');">CHEM&#160;125</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;416.  Organic Geochemistry.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Global carbon cycle, chemical composition of biogenic matter, sedimentology and diagenesis of organic matter, molecular fossils, geopolymers, fossil fuels, anthropogenic organic compounds, carbon isotope geochemistry. Course Information: Prerequisite(s): <a href="/search/?P=EAES%20230" title="EAES&#160;230" class="bubblelink code" onclick="return showCourse(this, 'EAES 230');">EAES&#160;230</a> or <a href="/search/?P=EAES%20320" title="EAES&#160;320" class="bubblelink code" onclick="return showCourse(this, 'EAES 320');">EAES&#160;320</a>; and CHEM 114, or <a href="/search/?P=CHEM%20124" title="CHEM&#160;124" class="bubblelink code" onclick="return showCourse(this, 'CHEM 124');">CHEM&#160;124</a> and <a href="/search/?P=CHEM%20125" title="CHEM&#160;125" class="bubblelink code" onclick="return showCourse(this, 'CHEM 125');">CHEM&#160;125</a>, or <a href="/search/?P=CHEM%20130" title="CHEM&#160;130" class="bubblelink code" onclick="return showCourse(this, 'CHEM 130');">CHEM&#160;130</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;418.  Introduction to Biogeochemistry.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Explores the interaction of the biosphere, geosphere, and atmosphere on Earth, with focus on biogeochemical cycles and the methods used to study them. Examination of conditions on early Earth and the changes brought by the introduction of life. Course Information: Prerequisite(s): CHEM 112 or <a href="/search/?P=CHEM%20122" title="CHEM&#160;122" class="bubblelink code" onclick="return showCourse(this, 'CHEM 122');">CHEM&#160;122</a> and <a href="/search/?P=CHEM%20123" title="CHEM&#160;123" class="bubblelink code" onclick="return showCourse(this, 'CHEM 123');">CHEM&#160;123</a>; and CHEM 114 or <a href="/search/?P=CHEM%20124" title="CHEM&#160;124" class="bubblelink code" onclick="return showCourse(this, 'CHEM 124');">CHEM&#160;124</a> and <a href="/search/?P=CHEM%20125" title="CHEM&#160;125" class="bubblelink code" onclick="return showCourse(this, 'CHEM 125');">CHEM&#160;125</a>; and <a href="/search/?P=EAES%20230" title="EAES&#160;230" class="bubblelink code" onclick="return showCourse(this, 'EAES 230');">EAES&#160;230</a> or <a href="/search/?P=EAES%20285" title="EAES&#160;285" class="bubblelink code" onclick="return showCourse(this, 'EAES 285');">EAES&#160;285</a> or <a href="/search/?P=EAES%20111" title="EAES&#160;111" class="bubblelink code" onclick="return showCourse(this, 'EAES 111');">EAES&#160;111</a>; or consent of the instructor. Recommended background: BIOS 100 or BIOS 101.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;422.  Crystal Chemistry.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+The crystal chemistry, chemistry, phase equilibria, and properties of materials and minerals. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=EAES%20320" title="EAES&#160;320" class="bubblelink code" onclick="return showCourse(this, 'EAES 320');">EAES&#160;320</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;430.  Petrology.  0-4 hours.</strong></p>
+<p class="courseblockdesc">
+Igneous and metamorphic rock composition, classification, rock-forming processes. Description and interpretation of thin-sections. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=EAES%20320" title="EAES&#160;320" class="bubblelink code" onclick="return showCourse(this, 'EAES 320');">EAES&#160;320</a>; and CHEM 114 or <a href="/search/?P=CHEM%20124" title="CHEM&#160;124" class="bubblelink code" onclick="return showCourse(this, 'CHEM 124');">CHEM&#160;124</a> and <a href="/search/?P=CHEM%20125" title="CHEM&#160;125" class="bubblelink code" onclick="return showCourse(this, 'CHEM 125');">CHEM&#160;125</a>; or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;440.  Structural Geology and Tectonics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Elementary stress and strain relations; folds, fabrics and faults; deformation mechanisms; basic plate tectonic concepts with regional geological examples. Course Information: Required weekend field trip at a nominal fee. Prerequisite(s): <a href="/search/?P=EAES%20111" title="EAES&#160;111" class="bubblelink code" onclick="return showCourse(this, 'EAES 111');">EAES&#160;111</a> or consent of the instructor. Recommended Background: <a href="/search/?P=EAES%20230" title="EAES&#160;230" class="bubblelink code" onclick="return showCourse(this, 'EAES 230');">EAES&#160;230</a>. Class Schedule Information: To be properly registered, students must enroll in one Laboratory and one Lecture-Discussion.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;444.  Geophysics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to basic principles of geophysics applicable for environmental problems and the solid earth including magnetics, electric, seismic, gravity, geophysical well logging, radioactivity and heat flow. Course Information: Prerequisite(s): <a href="/search/?P=EAES%20111" title="EAES&#160;111" class="bubblelink code" onclick="return showCourse(this, 'EAES 111');">EAES&#160;111</a> or consent of the instructor. Recommended background: <a href="/search/?P=EAES%20285" title="EAES&#160;285" class="bubblelink code" onclick="return showCourse(this, 'EAES 285');">EAES&#160;285</a> and completion of introductory courses in physics and calculus.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;448.  Plate Tectonics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Basic concepts and recent developments including plate kinematics, marine magnetics and paleomagnetics, evolution of oceanic lithosphere, subduction zones and passive margins. Course Information: Prerequisite(s): <a href="/search/?P=EAES%20111" title="EAES&#160;111" class="bubblelink code" onclick="return showCourse(this, 'EAES 111');">EAES&#160;111</a> or consent of the instructor. Recommended background: Completion of introductory courses in physics and calculus.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;455.  Clastic Sedimentology and Sequence Stratigraphy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Processes, facies, and sedimentary architecture in fluvial, deltaic, coastal, and offshore marine clastic depositional environments. Relative sea-level change and its controls on the stratigraphic record. Basin and reservoir modeling. Course Information: Field trips required at nominal fee. Prerequisite(s): <a href="/search/?P=EAES%20350" title="EAES&#160;350" class="bubblelink code" onclick="return showCourse(this, 'EAES 350');">EAES&#160;350</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;460.  Earth System History.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Earth history in the context of the interactions of the components of the Earth system; methods used to establish the ages of geologic events and  to reconstruct ancient geographies and environments; implications for current issues of global change. Course Information: Field trip required at a nominal fee. Field trip cost assessed prior to trip, depending on destination and vehicle expenses. Prerequisite(s): <a href="/search/?P=EAES%20230" title="EAES&#160;230" class="bubblelink code" onclick="return showCourse(this, 'EAES 230');">EAES&#160;230</a> and <a href="/search/?P=EAES%20285" title="EAES&#160;285" class="bubblelink code" onclick="return showCourse(this, 'EAES 285');">EAES&#160;285</a>. Recommended background: <a href="/search/?P=EAES%20360" title="EAES&#160;360" class="bubblelink code" onclick="return showCourse(this, 'EAES 360');">EAES&#160;360</a> and <a href="/search/?P=EAES%20440" title="EAES&#160;440" class="bubblelink code" onclick="return showCourse(this, 'EAES 440');">EAES&#160;440</a> and <a href="/search/?P=EAES%20350" title="EAES&#160;350" class="bubblelink code" onclick="return showCourse(this, 'EAES 350');">EAES&#160;350</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;466.  Principles of Paleontology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Theory and methods of evolutionary paleobiology; includes paleoecology, functional morphology, and major features of organic evolution. Course Information: Same as <a href="/search/?P=BIOS%20466" title="BIOS&#160;466" class="bubblelink code" onclick="return showCourse(this, 'BIOS 466');">BIOS&#160;466</a>. Prerequisite(s): <a href="/search/?P=EAES%20360" title="EAES&#160;360" class="bubblelink code" onclick="return showCourse(this, 'EAES 360');">EAES&#160;360</a> or consent of the instructor. Class Schedule Information: To be properly registered, students must enroll in one Laboratory-Discussion and one Lecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;470.  Environmental Geomorphology.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Quantitative analysis of the mechanics, rates, and distribution of physical processes that modify Earth's and other planets' surfaces. Introduction to field, theoretical, and modelling approaches. Course Information: Prerequisite(s): <a href="/search/?P=EAES%20230" title="EAES&#160;230" class="bubblelink code" onclick="return showCourse(this, 'EAES 230');">EAES&#160;230</a> or <a href="/search/?P=EAES%20285" title="EAES&#160;285" class="bubblelink code" onclick="return showCourse(this, 'EAES 285');">EAES&#160;285</a>; and <a href="/search/?P=MATH%20181" title="MATH&#160;181" class="bubblelink code" onclick="return showCourse(this, 'MATH 181');">MATH&#160;181</a>; or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;473.  Soils and the Environment.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Soil science, emphasizing local soils and parent materials, soil classification and mapping, soil physics, soil gases and greenhouse gas emissions, soil chemistry and biogeochemistry, soil-plant interactions, and soil invertebrates. Course Information: Same as <a href="/search/?P=BIOS%20473" title="BIOS&#160;473" class="bubblelink code" onclick="return showCourse(this, 'BIOS 473');">BIOS&#160;473</a>. Field work required. Recommended background: Introductory courses in Chemistry and Biology are recommended. Coursework in EAES (such as <a href="/search/?P=EAES%20101" title="EAES&#160;101" class="bubblelink code" onclick="return showCourse(this, 'EAES 101');">EAES&#160;101</a> and/or 111) is preferred.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;475.  Hydrology/Hydrogeology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The occurrence, storage, movement, and quality of water above, on and below the Earth's surface. Topics progress through atmospheric water vapor processes, Earth surface hydrology, and groundwater hydrology. Course Information: Field trip required at nominal fee. Prerequisite(s): <a href="/search/?P=EAES%20111" title="EAES&#160;111" class="bubblelink code" onclick="return showCourse(this, 'EAES 111');">EAES&#160;111</a>; or consent of the instructor. Recommended Background: <a href="/search/?P=EAES%20285" title="EAES&#160;285" class="bubblelink code" onclick="return showCourse(this, 'EAES 285');">EAES&#160;285</a> and <a href="/search/?P=EAES%20230" title="EAES&#160;230" class="bubblelink code" onclick="return showCourse(this, 'EAES 230');">EAES&#160;230</a> and <a href="/search/?P=MATH%20181" title="MATH&#160;181" class="bubblelink code" onclick="return showCourse(this, 'MATH 181');">MATH&#160;181</a>. Class Schedule Information: To be properly registered, students must enroll in one Laboratory and one Lecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;478.  Elements of Machining Scientific Equipment.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Elements of machining scientific equipment, including the use of machine shop tools and technical drawing of scientific apparatus. Course Information: Same as <a href="/search/?P=CHEM%20480" title="CHEM&#160;480" class="bubblelink code" onclick="return showCourse(this, 'CHEM 480');">CHEM&#160;480</a> and <a href="/search/?P=PHYS%20480" title="PHYS&#160;480" class="bubblelink code" onclick="return showCourse(this, 'PHYS 480');">PHYS&#160;480</a>. Satisfactory/Unsatisfactory grading only. Prerequisite(s): Graduate standing; and approval of the department.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;480.  Statistical Methods in Earth and Environmental Sciences.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Techniques of probability and data analysis as applied to problems in environmental sciences. Sampling, statistical inference, descriptive statistics, multivariate methods, time series analysis. Course Information: Prerequisite(s): Completion of at least one 200- or 300-level course in the earth and environmental sciences or consent of the instructor. Class Schedule Information: To be properly registered, students must enroll in one Laboratory and one Lecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;484.  Planetary Science.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Explores how geologic processes are expressed on bodies in our solar system other than the Earth. Course Information: Prerequisite(s): <a href="/search/?P=EAES%20230" title="EAES&#160;230" class="bubblelink code" onclick="return showCourse(this, 'EAES 230');">EAES&#160;230</a> and <a href="/search/?P=EAES%20285" title="EAES&#160;285" class="bubblelink code" onclick="return showCourse(this, 'EAES 285');">EAES&#160;285</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;488.  Instrumental Analysis.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Scanning electron microscopy with energy-dispersive system. DC plasma analysis. Course Information: Prerequisite(s): CHEM 114 or <a href="/search/?P=CHEM%20124" title="CHEM&#160;124" class="bubblelink code" onclick="return showCourse(this, 'CHEM 124');">CHEM&#160;124</a> and <a href="/search/?P=CHEM%20125" title="CHEM&#160;125" class="bubblelink code" onclick="return showCourse(this, 'CHEM 125');">CHEM&#160;125</a>; and EAES 220; or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;492.  Internship in the Earth and Environmental Sciences.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Off-campus participation in governmental or private-sector training program. Credit is contingent on submission of a final report. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated with approval. A combined maximum of 6 hours of credit in <a href="/search/?P=EAES%20492" title="EAES&#160;492" class="bubblelink code" onclick="return showCourse(this, 'EAES 492');">EAES&#160;492</a> and <a href="/search/?P=EAES%20396" title="EAES&#160;396" class="bubblelink code" onclick="return showCourse(this, 'EAES 396');">EAES&#160;396</a> may be applied toward the degree. Prerequisite(s):  Approval of the Department.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EAES&#160;494.  Current Topics in Earth and Environmental Sciences.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Discussion of current research topics in earth and environmental sciences. Course Information: May be repeated to a maximum of 8 hours if topics vary. Students may register in more than one section per term. Prerequisite(s): Junior or Senior standing and 12 hours of advanced courses in earth and environmental sciences are recommended.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="eaes.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

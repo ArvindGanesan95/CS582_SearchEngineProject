@@ -1,0 +1,543 @@
+https://catalog.uic.edu/ucat/colleges-depts/architecture-design-arts/art-ah/bfa-art/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>BFA in Art &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/architecture-design-arts/">
+				<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/arch/">School of Architecture</a></li>
+				<li class="active isparent"><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/">School of Art &amp;&#8203; Art History</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/architecture-design-arts/art-ah/">
+					<li class="active self"><a href="#" onclick="return false;">BFA in Art</a></li>
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/bfa-art-ed/">BFA in Art Education</a></li>
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/ba-ah/">BA in Art History</a></li>
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/ba-ida/">BA in Interdisciplinary Education in the Arts</a></li>
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/minor-art/">Minor in Art</a></li>
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/minor-ah/">Minor in Art History</a></li>
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/minor-mes/">Minor in Museum and Exhibition Studies</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/des/">School of Design</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/">School of Theatre &amp;&#8203; Music</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/architecture-design-arts/">College&nbsp;of&nbsp;Architecture,&nbsp;Design,&nbsp;and&nbsp;the&nbsp;Arts</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/">School&nbsp;of&nbsp;Art&nbsp;&amp;&nbsp;Art&nbsp;History</a><span class="crumbsep">/</span></li><li><span class="active">BFA in Art</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">BFA in Art</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+<p class="program_codes"><span class="label"><strong>Program Codes:</strong> </span><br />20FR5448BFA<br /></p>	</div>
+</div>
+
+<h2>Degree Requirements</h2>
+<p>To earn a Bachelor of Fine Arts in Art degree from UIC, students need to complete university, college, and school degree requirements. The Art Degree requirements are outlined below. Students should consult the <em><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a> </em>section for additional degree requirements and college academic policies.</p>
+<p>A portfolio review is required upon completion of the Art Foundations Course Work.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Summary of Requirements</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">First Year Program</span></td><td class="hourscol">24</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">General Education and Foundation Courses</span></td><td class="hourscol">33</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Art Major Requirements</span></td><td class="hourscol">61</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Electives outside the Department of Art</span></td><td class="hourscol">10-11</td></tr>
+<tr class="odd lastrow"><td class="codecol"><a href="/search/?P=DLG%20120" title="DLG 120" class="bubblelink code" onclick="return showCourse(this, 'DLG 120');">DLG 120</a></td><td>UIC First-Year Dialogue Seminar (Required of new freshmen only) <sup>a</sup></td><td class="hourscol">1</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">129</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>New freshmen are required to complete <span class="sc_courseinline"><a href="/search/?P=DLG%20120" title="DLG 120" class="bubblelink code" onclick="return showCourse(this, 'DLG 120');">DLG 120</a></span> for one hour. These students will complete 10 hours of electives for the BFA in Art. All other students complete 11 hours of electives for the BFA in Art.</em></p></td></tr></table>
+<h3>First Year Program</h3>
+<p>Students are required to take <span class="sc_courseinline"><a href="/search/?P=ART%20101" title="ART 101" class="bubblelink code" onclick="return showCourse(this, 'ART 101');">ART 101</a></span> and choose five 100-level, studio-based courses from the six that are offered for a total of 24 hours.</p>
+
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ART%20101" title="ART 101" class="bubblelink code" onclick="return showCourse(this, 'ART 101');">ART 101</a></td><td>Signifying Practices: Art and Visual Culture</td><td class="hourscol">4</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Select five of the following: </span></td><td class="hourscol">20</td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ART%20112" title="ART 112" class="bubblelink code" onclick="return showCourse(this, 'ART 112');">ART 112</a></div></td><td>Introduction to Drawing</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ART%20130" title="ART 130" class="bubblelink code" onclick="return showCourse(this, 'ART 130');">ART 130</a></div></td><td>Introduction to Painting + Color</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ART%20140" title="ART 140" class="bubblelink code" onclick="return showCourse(this, 'ART 140');">ART 140</a></div></td><td>Introduction to Sculpture</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ART%20150" title="ART 150" class="bubblelink code" onclick="return showCourse(this, 'ART 150');">ART 150</a></div></td><td>Introduction to New Media Arts</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ART%20160" title="ART 160" class="bubblelink code" onclick="return showCourse(this, 'ART 160');">ART 160</a></div></td><td>Introduction to Digital Photography</td><td class="hourscol"></td></tr>
+<tr class="even lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ART%20170" title="ART 170" class="bubblelink code" onclick="return showCourse(this, 'ART 170');">ART 170</a></div></td><td>Introduction to Filmmaking</td><td class="hourscol"></td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">24</td></tr></tbody>
+</table>
+
+<h3> General Education and Foundation Courses</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td><td>Academic Writing I: Writing in Academic and Public Contexts</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td><td>Academic Writing II: Writing for Inquiry and Research</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Understanding the Individual and Society course</span> <sup>a</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Understanding U.S. Society course</span> <sup>a</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Analyzing the Natural World course</span> <sup>a,b</sup></td><td class="hourscol">4</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Understanding the Past course</span> <sup>a</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Exploring World Cultures course</span> <sup>a</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=AH%20110" title="AH 110" class="bubblelink code" onclick="return showCourse(this, 'AH 110');">AH 110</a></td><td>World History of Art and the Built Environment I <sup>c</sup></td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=AH%20111" title="AH 111" class="bubblelink code" onclick="return showCourse(this, 'AH 111');">AH 111</a></td><td>World History of Art and the Built Environment II <sup>c</sup></td><td class="hourscol">4</td></tr>
+<tr class="even lastrow"><td class="codecol"><a href="/search/?P=AH%20160" title="AH 160" class="bubblelink code" onclick="return showCourse(this, 'AH 160');">AH 160</a></td><td>Trends in International Contemporary Art Since 1960 <sup>c</sup></td><td class="hourscol">3</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">33</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Students should consult the <a href="/ucat/degree-programs/general-education/">General Education</a> section of the catalog for a list of approved courses in this category. Students may choose a General Education course that falls below the recommended semester hour value for a particular category as long as the student reaches a total of 24 hours of General Education distributed across the six categories.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>Students who select a course worth less than 4 hours from the Analyzing the Natural World list will need to take an additional General Education Core course as part of their electives.</em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>This course is approved for the Understanding the Creative Arts General Education category.</em></p></td></tr></table>
+<h3>Art Major Requirements</h3>
+<p>Students must consult with faculty advisors for approval of concentration and elective courses each semester.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Art Concentration in one discipline (chosen from ART courses at 200-300 level)</span></td><td class="hourscol">16</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Art Electives (chosen from ART courses at 200-300 level)</span></td><td class="hourscol">24</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ART%20401" title="ART 401" class="bubblelink code" onclick="return showCourse(this, 'ART 401');">ART 401</a></td><td>Senior Projects: Critique</td><td class="hourscol">6</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ART%20402" title="ART 402" class="bubblelink code" onclick="return showCourse(this, 'ART 402');">ART 402</a></td><td>Senior Projects: Thesis</td><td class="hourscol">6</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=AH%20201" title="AH 201" class="bubblelink code" onclick="return showCourse(this, 'AH 201');">AH 201</a></td><td>Reading and Writing Art Criticism</td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">Art History— Chosen from AH courses at 200-level and above</span></td><td class="hourscol">6</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">61</td></tr></tbody>
+</table>
+
+<h3>Electives outside the Department of Art</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Electives</span></td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td colspan="2"><span class="courselistcomment">Electives outside the Department of Art</span> <sup>a</sup></td><td class="hourscol">10-11</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">10-11</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>New freshmen are required to complete <span class="sc_courseinline"><a href="/search/?P=DLG%20120" title="DLG 120" class="bubblelink code" onclick="return showCourse(this, 'DLG 120');">DLG 120</a></span> for one hour. These students will complete 10 hours of electives for the BFA in Art. All other students complete 11 hours of electives for the BFA in Art.</em></p></td></tr></table>
+<h3>UIC First Year Dialogue Seminar</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Course</span></td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td class="codecol"><a href="/search/?P=DLG%20120" title="DLG 120" class="bubblelink code" onclick="return showCourse(this, 'DLG 120');">DLG 120</a></td><td>UIC First-Year Dialogue Seminar</td><td class="hourscol">1</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">1</td></tr></tbody>
+</table>
+
+<h2>Sample Course Schedule</h2>
+<table pdfnorepeatheader="true" class="sc_plangrid">
+<caption>Plan of Study Grid</caption><colgroup>
+	<col class="codecol"/>
+	<col class="titlecol"/>
+	<col class="hourscol"/>
+</colgroup>
+<tr class="plangridyear"><th id="plangrid2_0" class="year" colspan="3">Freshman Year</th></tr>
+<tr class="plangridterm"><th id="plangrid2_0_0" colspan="2">Fall Semester</th><th id="hoursheader" scope="col" class="hourscol">Hours</th></tr>
+<tr class="even"><td headers=" plangrid2_0_0" class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td>
+<td headers=" plangrid2_0_0" class="titlecol">Academic Writing I: Writing in Academic and Public Contexts</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_0" class="codecol"><a href="/search/?P=ART%20112" title="ART 112" class="bubblelink code" onclick="return showCourse(this, 'ART 112');">ART 112</a></td>
+<td headers=" plangrid2_0_0" class="titlecol">Introduction to Drawing</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_0" class="codecol"><a href="/search/?P=ART%20170" title="ART 170" class="bubblelink code" onclick="return showCourse(this, 'ART 170');">ART 170</a></td>
+<td headers=" plangrid2_0_0" class="titlecol">Introduction to Filmmaking</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_0" class="codecol"><a href="/search/?P=ART%20101" title="ART 101" class="bubblelink code" onclick="return showCourse(this, 'ART 101');">ART 101</a></td>
+<td headers=" plangrid2_0_0" class="titlecol">Signifying Practices: Art and Visual Culture</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid2_0_0" class="titlecol">Hours</td><td headers=" plangrid2_0_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid2_0_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid2_0_1" class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td>
+<td headers=" plangrid2_0_1" class="titlecol">Academic Writing II: Writing for Inquiry and Research</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_1" class="codecol"><a href="/search/?P=DLG%20120" title="DLG 120" class="bubblelink code" onclick="return showCourse(this, 'DLG 120');">DLG 120</a></td>
+<td headers=" plangrid2_0_1" class="titlecol">UIC First-Year Dialogue Seminar (<span class="comment">Required of new freshmen only</span>)</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_1" class="codecol"><a href="/search/?P=ART%20160" title="ART 160" class="bubblelink code" onclick="return showCourse(this, 'ART 160');">ART 160</a></td>
+<td headers=" plangrid2_0_1" class="titlecol">Introduction to Digital Photography</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_1" class="codecol"><a href="/search/?P=ART%20130" title="ART 130" class="bubblelink code" onclick="return showCourse(this, 'ART 130');">ART 130</a></td>
+<td headers=" plangrid2_0_1" class="titlecol">Introduction to Painting + Color</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_1" class="codecol"><a href="/search/?P=ART%20150" title="ART 150" class="bubblelink code" onclick="return showCourse(this, 'ART 150');">ART 150</a></td>
+<td headers=" plangrid2_0_1" class="titlecol">Introduction to New Media Arts</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid2_0_1" class="titlecol">Hours</td><td headers=" plangrid2_0_1 hoursheader" class="hourscol">15-16</td></tr>
+<tr class="plangridyear"><th id="plangrid2_1" class="year" colspan="3">Sophomore Year</th></tr>
+<tr class="plangridterm"><th id="plangrid2_1_0" colspan="3">Fall Semester</th></tr>
+<tr class="odd"><td headers=" plangrid2_1_0" class="codecol"><a href="/search/?P=AH%20110" title="AH 110" class="bubblelink code" onclick="return showCourse(this, 'AH 110');">AH 110</a></td>
+<td headers=" plangrid2_1_0" class="titlecol">World History of Art and the Built Environment I</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_1_0" colspan="2" class="codecol"><span class="comment">Concentration Course</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_0" colspan="2" class="codecol"><span class="comment">Concentration Course</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_1_0" colspan="2" class="codecol"><span class="comment">Understanding U.S. Society course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_0" colspan="2" class="codecol"><span class="comment">Exploring World Cultures course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid2_1_0" class="titlecol">Hours</td><td headers=" plangrid2_1_0 hoursheader" class="hourscol">18</td></tr>
+<tr class="plangridterm"><th id="plangrid2_1_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid2_1_1" class="codecol"><a href="/search/?P=AH%20111" title="AH 111" class="bubblelink code" onclick="return showCourse(this, 'AH 111');">AH 111</a></td>
+<td headers=" plangrid2_1_1" class="titlecol">World History of Art and the Built Environment II</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_1_1" colspan="2" class="codecol"><span class="comment">Art Elective</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_1" colspan="2" class="codecol"><span class="comment">Concentration Course</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_1_1" colspan="2" class="codecol"><span class="comment">Understanding the Individual and Society course </span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_1" colspan="2" class="codecol"><span class="comment">Understanding the Past course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid2_1_1" class="titlecol">Hours</td><td headers=" plangrid2_1_1 hoursheader" class="hourscol">18</td></tr>
+<tr class="plangridyear"><th id="plangrid2_2" class="year" colspan="3">Junior Year</th></tr>
+<tr class="plangridterm"><th id="plangrid2_2_0" colspan="3">Fall Semester</th></tr>
+<tr class="odd"><td headers=" plangrid2_2_0" class="codecol"><a href="/search/?P=AH%20160" title="AH 160" class="bubblelink code" onclick="return showCourse(this, 'AH 160');">AH 160</a></td>
+<td headers=" plangrid2_2_0" class="titlecol">Trends in International Contemporary Art Since 1960</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_2_0" colspan="2" class="codecol"><span class="comment">Concentration Course</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_2_0" colspan="2" class="codecol"><span class="comment">Art Elective</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_2_0" colspan="2" class="codecol"><span class="comment">General Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_2_0" colspan="2" class="codecol"><span class="comment">General Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid2_2_0" class="titlecol">Hours</td><td headers=" plangrid2_2_0 hoursheader" class="hourscol">17</td></tr>
+<tr class="plangridterm"><th id="plangrid2_2_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid2_2_1" class="codecol"><a href="/search/?P=AH%20201" title="AH 201" class="bubblelink code" onclick="return showCourse(this, 'AH 201');">AH 201</a></td>
+<td headers=" plangrid2_2_1" class="titlecol">Reading and Writing Art Criticism</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_2_1" colspan="2" class="codecol"><span class="comment">Art Elective</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_2_1" colspan="2" class="codecol"><span class="comment">Art Elective</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_2_1" colspan="2" class="codecol"><span class="comment">Analyzing Natural World course</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid2_2_1" class="titlecol">Hours</td><td headers=" plangrid2_2_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridyear"><th id="plangrid2_3" class="year" colspan="3">Senior Year</th></tr>
+<tr class="plangridterm"><th id="plangrid2_3_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid2_3_0" class="codecol"><a href="/search/?P=ART%20401" title="ART 401" class="bubblelink code" onclick="return showCourse(this, 'ART 401');">ART 401</a></td>
+<td headers=" plangrid2_3_0" class="titlecol">Senior Projects: Critique</td>
+<td headers="hoursheader" class="hourscol">6</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_3_0" colspan="2" class="codecol"><span class="comment">AH Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_3_0" colspan="2" class="codecol"><span class="comment">General Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_3_0" colspan="2" class="codecol"><span class="comment">General Elective</span></td>
+<td headers="hoursheader" class="hourscol">2</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid2_3_0" class="titlecol">Hours</td><td headers=" plangrid2_3_0 hoursheader" class="hourscol">14</td></tr>
+<tr class="plangridterm"><th id="plangrid2_3_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid2_3_1" class="codecol"><a href="/search/?P=ART%20402" title="ART 402" class="bubblelink code" onclick="return showCourse(this, 'ART 402');">ART 402</a></td>
+<td headers=" plangrid2_3_1" class="titlecol">Senior Projects: Thesis</td>
+<td headers="hoursheader" class="hourscol">6</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_3_1" colspan="2" class="codecol"><span class="comment">AH Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_3_1" colspan="2" class="codecol"><span class="comment">Art Elective</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_3_1" colspan="2" class="codecol"><span class="comment">Art Elective</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid2_3_1" class="titlecol">Hours</td><td headers=" plangrid2_3_1 hoursheader" class="hourscol">17</td></tr>
+<tr class="plangridtotal lastrow even"><td> </td><td>Total Hours</td><td headers="hoursheader" class="hourscol">129</td></tr>
+</table></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="bfa-art.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,759 @@
+https://catalog.uic.edu/all-course-descriptions/socw/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Social Work (SOCW) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="isparent"><a href="/ucat/">Undergraduate Catalog</a></li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="active isparent"><a href="/all-course-descriptions/">All Course Descriptions</a>
+	<ul class="nav levelone" id="/all-course-descriptions/">
+		<li><a href="/all-course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+		<li><a href="/all-course-descriptions/actg/">Accounting (ACTG)</a></li>
+		<li><a href="/all-course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+		<li><a href="/all-course-descriptions/anth/">Anthropology (ANTH)</a></li>
+		<li><a href="/all-course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+		<li><a href="/all-course-descriptions/arab/">Arabic (ARAB)</a></li>
+		<li><a href="/all-course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+		<li><a href="/all-course-descriptions/arch/">Architecture (ARCH)</a></li>
+		<li><a href="/all-course-descriptions/art/">Art (ART)</a></li>
+		<li><a href="/all-course-descriptions/ah/">Art History (AH)</a></li>
+		<li><a href="/all-course-descriptions/bms/">Basic Medical Sciences (BMS)</a></li>
+		<li><a href="/all-course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+		<li><a href="/all-course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+		<li><a href="/all-course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+		<li><a href="/all-course-descriptions/bvis/">Biomedical Visualization (BVIS)</a></li>
+		<li><a href="/all-course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+		<li><a href="/all-course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+		<li><a href="/all-course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+		<li><a href="/all-course-descriptions/blst/">Black Studies (BLST)</a></li>
+		<li><a href="/all-course-descriptions/ba/">Business Administration (BA)</a></li>
+		<li><a href="/all-course-descriptions/cc/">Campus Courses (CC)</a></li>
+		<li><a href="/all-course-descriptions/cst/">Catholic Studies (CST)</a></li>
+		<li><a href="/all-course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+		<li><a href="/all-course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+		<li><a href="/all-course-descriptions/chem/">Chemistry (CHEM)</a></li>
+		<li><a href="/all-course-descriptions/chin/">Chinese (CHIN)</a></li>
+		<li><a href="/all-course-descriptions/cd/">City Design (CD)</a></li>
+		<li><a href="/all-course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+		<li><a href="/all-course-descriptions/cl/">Classics (CL)</a></li>
+		<li><a href="/all-course-descriptions/cler/">Clerkship -&#8203; Medicine (CLER)</a></li>
+		<li><a href="/all-course-descriptions/cele/">Clerkship Electives -&#8203; Chicago (CELE)</a></li>
+		<li><a href="/all-course-descriptions/pele/">Clerkship Electives -&#8203; Peoria (PELE)</a></li>
+		<li><a href="/all-course-descriptions/rele/">Clerkship Electives -&#8203; Rockford (RELE)</a></li>
+		<li><a href="/all-course-descriptions/uele/">Clerkship Electives -&#8203; Urbana (UELE)</a></li>
+		<li><a href="/all-course-descriptions/comm/">Communication (COMM)</a></li>
+		<li><a href="/all-course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+		<li><a href="/all-course-descriptions/cs/">Computer Science (CS)</a></li>
+		<li><a href="/all-course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+		<li><a href="/all-course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+		<li><a href="/all-course-descriptions/dadm/">Dental Administration (DADM)</a></li>
+		<li><a href="/all-course-descriptions/daob/">Dentistry -&#8203; Applied Oral and Behavioral Sciences (DAOB)</a></li>
+		<li><a href="/all-course-descriptions/dbcs/">Dentistry -&#8203; Biomedical and Clinical Sciences (DBCS)</a></li>
+		<li><a href="/all-course-descriptions/dcle/">Dentistry -&#8203; Community Learning Experience (DCLE)</a></li>
+		<li><a href="/all-course-descriptions/dosi/">Dentistry -&#8203; Oral/&#8203;Systemic Issues (DOSI)</a></li>
+		<li><a href="/all-course-descriptions/dost/">Dentistry -&#8203; Oral/&#8203;Systemic Topics (DOST)</a></li>
+		<li><a href="/all-course-descriptions/des/">Design (DES)</a></li>
+		<li><a href="/all-course-descriptions/dlg/">Dialogue (DLG)</a></li>
+		<li><a href="/all-course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+		<li><a href="/all-course-descriptions/mdc/">Doctor of Medicine—Chicago (MDC)</a></li>
+		<li><a href="/all-course-descriptions/mdp/">Doctor of Medicine—Peoria (MDP)</a></li>
+		<li><a href="/all-course-descriptions/mdr/">Doctor of Medicine—Rockford (MDR)</a></li>
+		<li><a href="/all-course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+		<li><a href="/all-course-descriptions/econ/">Economics (ECON)</a></li>
+		<li><a href="/all-course-descriptions/ed/">Education (ED)</a></li>
+		<li><a href="/all-course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+		<li><a href="/all-course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+		<li><a href="/all-course-descriptions/ece/">Electrical and Computer Engineering (ECE)</a></li>
+		<li><a href="/all-course-descriptions/eb/">Employee Benefits (EB)</a></li>
+		<li><a href="/all-course-descriptions/endo/">Endodontics (ENDO)</a></li>
+		<li><a href="/all-course-descriptions/ener/">Energy Engineering (ENER)</a></li>
+		<li><a href="/all-course-descriptions/engr/">Engineering (ENGR)</a></li>
+		<li><a href="/all-course-descriptions/engl/">English (ENGL)</a></li>
+		<li><a href="/all-course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+		<li><a href="/all-course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+		<li><a href="/all-course-descriptions/eohs/">Environmental and Occupational Health Sciences (EOHS)</a></li>
+		<li><a href="/all-course-descriptions/epid/">Epidemiology (EPID)</a></li>
+		<li><a href="/all-course-descriptions/epl/">Estate Planning (EPL)</a></li>
+		<li><a href="/all-course-descriptions/fin/">Finance (FIN)</a></li>
+		<li><a href="/all-course-descriptions/fr/">French (FR)</a></li>
+		<li><a href="/all-course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+		<li><a href="/all-course-descriptions/geog/">Geography (GEOG)</a></li>
+		<li><a href="/all-course-descriptions/ger/">Germanic Studies (GER)</a></li>
+		<li><a href="/all-course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+		<li><a href="/all-course-descriptions/gc/">Graduate College (GC)</a></li>
+		<li><a href="/all-course-descriptions/gems/">Graduate Education in Medical Sciences (GEMS)</a></li>
+		<li><a href="/all-course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+		<li><a href="/all-course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+		<li><a href="/all-course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+		<li><a href="/all-course-descriptions/him/">Health Information Management (HIM)</a></li>
+		<li><a href="/all-course-descriptions/hpa/">Health Policy and Administration (HPA)</a></li>
+		<li><a href="/all-course-descriptions/hlp/">Healthy Living Practitioner™ (HLP)</a></li>
+		<li><a href="/all-course-descriptions/heb/">Hebrew (HEB)</a></li>
+		<li><a href="/all-course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+		<li><a href="/all-course-descriptions/hstl/">Histology (HSTL)</a></li>
+		<li><a href="/all-course-descriptions/hist/">History (HIST)</a></li>
+		<li><a href="/all-course-descriptions/hon/">Honors College (HON)</a></li>
+		<li><a href="/all-course-descriptions/hn/">Human Nutrition (HN)</a></li>
+		<li><a href="/all-course-descriptions/hum/">Humanities (HUM)</a></li>
+		<li><a href="/all-course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+		<li><a href="/all-course-descriptions/it/">Information Technology (IT)</a></li>
+		<li><a href="/all-course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+		<li><a href="/all-course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+		<li><a href="/all-course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+		<li><a href="/all-course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+		<li><a href="/all-course-descriptions/ip/">Intellectual Property (IP)</a></li>
+		<li><a href="/all-course-descriptions/ibt/">International Business and Trade (IBT)</a></li>
+		<li><a href="/all-course-descriptions/inst/">International Studies (INST)</a></li>
+		<li><a href="/all-course-descriptions/ital/">Italian (ITAL)</a></li>
+		<li><a href="/all-course-descriptions/jpn/">Japanese (JPN)</a></li>
+		<li><a href="/all-course-descriptions/jst/">Jewish Studies (JST)</a></li>
+		<li><a href="/all-course-descriptions/jd/">Juris Doctor (JD)</a></li>
+		<li><a href="/all-course-descriptions/kn/">Kinesiology (KN)</a></li>
+		<li><a href="/all-course-descriptions/kor/">Korean (KOR)</a></li>
+		<li><a href="/all-course-descriptions/lat/">Latin (LAT)</a></li>
+		<li><a href="/all-course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+		<li><a href="/all-course-descriptions/law/">Law (LAW)</a></li>
+		<li><a href="/all-course-descriptions/lrsc/">Learning Sciences (LRSC)</a></li>
+		<li><a href="/all-course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+		<li><a href="/all-course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+		<li><a href="/all-course-descriptions/ling/">Linguistics (LING)</a></li>
+		<li><a href="/all-course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+		<li><a href="/all-course-descriptions/lith/">Lithuanian (LITH)</a></li>
+		<li><a href="/all-course-descriptions/mgmt/">Management (MGMT)</a></li>
+		<li><a href="/all-course-descriptions/mktg/">Marketing (MKTG)</a></li>
+		<li><a href="/all-course-descriptions/mba/">Master of Business Administration (MBA)</a></li>
+		<li><a href="/all-course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+		<li><a href="/all-course-descriptions/mj/">Master of Jurisprudence (MJ)</a></li>
+		<li><a href="/all-course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+		<li><a href="/all-course-descriptions/math/">Mathematics (MATH)</a></li>
+		<li><a href="/all-course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+		<li><a href="/all-course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+		<li><a href="/all-course-descriptions/mbt/">Medical Biotechnology (MBT)</a></li>
+		<li><a href="/all-course-descriptions/mhpe/">Medical Education (MHPE)</a></li>
+		<li><a href="/all-course-descriptions/mhum/">Medical Humanities (MHUM)</a></li>
+		<li><a href="/all-course-descriptions/mdch/">Medicinal Chemistry (MDCH)</a></li>
+		<li><a href="/all-course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+		<li><a href="/all-course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+		<li><a href="/all-course-descriptions/mils/">Military Science (MILS)</a></li>
+		<li><a href="/all-course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+		<li><a href="/all-course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+		<li><a href="/all-course-descriptions/mus/">Music (MUS)</a></li>
+		<li><a href="/all-course-descriptions/nast/">Native American Studies (NAST)</a></li>
+		<li><a href="/all-course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+		<li><a href="/all-course-descriptions/ns/">Naval Science (NS)</a></li>
+		<li><a href="/all-course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+		<li><a href="/all-course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+		<li><a href="/all-course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+		<li><a href="/all-course-descriptions/nupr/">Nursing Practicum (NUPR)</a></li>
+		<li><a href="/all-course-descriptions/nusp/">Nursing Specialty (NUSP)</a></li>
+		<li><a href="/all-course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+		<li><a href="/all-course-descriptions/omds/">Oral Medicine and Diagnostic Sciences (OMDS)</a></li>
+		<li><a href="/all-course-descriptions/osci/">Oral Sciences (OSCI)</a></li>
+		<li><a href="/all-course-descriptions/osur/">Oral and Maxillofacial Surgery (OSUR)</a></li>
+		<li><a href="/all-course-descriptions/ortd/">Orthodontics (ORTD)</a></li>
+		<li><a href="/all-course-descriptions/path/">Pathology (PATH)</a></li>
+		<li><a href="/all-course-descriptions/psl/">Patient Safety Leadership (PSL)</a></li>
+		<li><a href="/all-course-descriptions/pedd/">Pediatric Dentistry (PEDD)</a></li>
+		<li><a href="/all-course-descriptions/peri/">Periodontics (PERI)</a></li>
+		<li><a href="/all-course-descriptions/psci/">Pharmaceutical Sciences (PSCI)</a></li>
+		<li><a href="/all-course-descriptions/pmpg/">Pharmacognosy (PMPG)</a></li>
+		<li><a href="/all-course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+		<li><a href="/all-course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+		<li><a href="/all-course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+		<li><a href="/all-course-descriptions/psop/">Pharmacy Systems, Outcomes, and Policy (PSOP)</a></li>
+		<li><a href="/all-course-descriptions/phil/">Philosophy (PHIL)</a></li>
+		<li><a href="/all-course-descriptions/pt/">Physical Therapy (PT)</a></li>
+		<li><a href="/all-course-descriptions/phys/">Physics (PHYS)</a></li>
+		<li><a href="/all-course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+		<li><a href="/all-course-descriptions/pol/">Polish (POL)</a></li>
+		<li><a href="/all-course-descriptions/pols/">Political Science (POLS)</a></li>
+		<li><a href="/all-course-descriptions/port/">Portuguese (PORT)</a></li>
+		<li><a href="/all-course-descriptions/prcl/">Preclinical Medicine (PRCL)</a></li>
+		<li><a href="/all-course-descriptions/ptl/">Privacy and Technology Law (PTL)</a></li>
+		<li><a href="/all-course-descriptions/pros/">Prosthodontics (PROS)</a></li>
+		<li><a href="/all-course-descriptions/psch/">Psychology (PSCH)</a></li>
+		<li><a href="/all-course-descriptions/pa/">Public Administration (PA)</a></li>
+		<li><a href="/all-course-descriptions/pubh/">Public Health (PUBH)</a></li>
+		<li><a href="/all-course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+		<li><a href="/all-course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+		<li><a href="/all-course-descriptions/re/">Real Estate (RE)</a></li>
+		<li><a href="/all-course-descriptions/rels/">Religious Studies (RELS)</a></li>
+		<li><a href="/all-course-descriptions/rest/">Restorative Dentistry (REST)</a></li>
+		<li><a href="/all-course-descriptions/russ/">Russian (RUSS)</a></li>
+		<li><a href="/all-course-descriptions/slav/">Slavic and Baltic Languages and Literatures (SLAV)</a></li>
+		<li><a href="/all-course-descriptions/sj/">Social Justice (SJ)</a></li>
+		<li class="active self"><a href="#" onclick="return false;">Social Work (SOCW)</a></li>
+		<li><a href="/all-course-descriptions/soc/">Sociology (SOC)</a></li>
+		<li><a href="/all-course-descriptions/span/">Spanish (SPAN)</a></li>
+		<li><a href="/all-course-descriptions/sped/">Special Education (SPED)</a></li>
+		<li><a href="/all-course-descriptions/spec/">Specialty Medicine (SPEC)</a></li>
+		<li><a href="/all-course-descriptions/stat/">Statistics (STAT)</a></li>
+		<li><a href="/all-course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+		<li><a href="/all-course-descriptions/surg/">Surgery (SURG)</a></li>
+		<li><a href="/all-course-descriptions/tx/">Taxation (TX)</a></li>
+		<li><a href="/all-course-descriptions/thtr/">Theatre (THTR)</a></li>
+		<li><a href="/all-course-descriptions/tadr/">Trial Advocacy and Dispute Resolution (TADR)</a></li>
+		<li><a href="/all-course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+		<li><a href="/all-course-descriptions/us/">Urban Studies (US)</a></li>
+		<li><a href="/all-course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+		<li><a href="/all-course-descriptions/usl/">US Legal Studies (USL)</a></li>
+	</ul>
+	</li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/all-course-descriptions/">All&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Social Work (SOCW)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Social Work (SOCW)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="socwcourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;399.  Research Experience in Social Work.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Research experience under the guidance of a faculty member who will act as research supervisor. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Application of credit toward the degree is contingent upon the approval of the student's college and/or department. Prerequisite(s): Approval of the College and consent of the instructor supervising the research experience.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;410.  Human Behavior and the Social Environment.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Human development through the life span including urban family, group, community, and organizational interactions with social, cultural, psychological factors. Course Information: Credit is not given for <a href="/search/?P=SOCW%20410" title="SOCW&#160;410" class="bubblelink code" onclick="return showCourse(this, 'SOCW 410');">SOCW&#160;410</a> if the student has credit for SOCW 535. Some sections may be fully or partially online. Prerequisite(s): Graduate standing and consent of the instructor or admission to the MSW program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;411.  Critical Social Work in a Multicultural Society.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines the social construction of race in groups, communities, and organizations with focus on African Americans, Latinos, Asian Americans, Native/Indigenous people, and other diverse populations. Particular attention to resistance to oppression. Course Information: Credit is not given for <a href="/search/?P=SOCW%20411" title="SOCW&#160;411" class="bubblelink code" onclick="return showCourse(this, 'SOCW 411');">SOCW&#160;411</a> if the student has credit for SOCW 537. Prerequisite(s): Admission to MSW program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;420.  Policy I: Social Welfare Policy and Services.  3 hours.</strong></p>
+<p class="courseblockdesc">
+History of social welfare policy, role of social work profession, examining origins and development of current social welfare system, policies, and service delivery, in view of principles of human rights, social, economic, environmental justice. Course Information: Credit is not given for <a href="/search/?P=SOCW%20420" title="SOCW&#160;420" class="bubblelink code" onclick="return showCourse(this, 'SOCW 420');">SOCW&#160;420</a> if the student has credit for SOCW 550. Prerequisite(s): Graduate standing and Admission to the MSW program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;430.  Practice I: Generalist Practice with Individuals and Organizations.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Overview of generalist social work as method and process emphasizing fundamental competencies, values, principles, and practice behaviors. Special attention to practice with individuals and practice with and within organizations. Course Information: Credit is not given for <a href="/search/?P=SOCW%20430" title="SOCW&#160;430" class="bubblelink code" onclick="return showCourse(this, 'SOCW 430');">SOCW&#160;430</a> if the student has credit for SOCW 501. Prerequisite(s): Graduate standing and Admission to the MSW program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;431.  Practice II: Generalist Practice with Families, Groups, and Communities.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Generalist social work practice. Special attention to practice with families, groups, and communities. Course Information: Credit is not given for <a href="/search/?P=SOCW%20431" title="SOCW&#160;431" class="bubblelink code" onclick="return showCourse(this, 'SOCW 431');">SOCW&#160;431</a> if the student has credit for SOCW 502. Prerequisite(s): <a href="/search/?P=SOCW%20430" title="SOCW&#160;430" class="bubblelink code" onclick="return showCourse(this, 'SOCW 430');">SOCW&#160;430</a> and graduate standing.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;460.  Research I: Social Work Research.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Prepares students to demonstrate basic competencies in the knowledge, values, and skills of research methodology in social work, including problem formulation, design of research, measurement, sampling, data analysis. Course Information: Credit is not given for <a href="/search/?P=SOCW%20460" title="SOCW&#160;460" class="bubblelink code" onclick="return showCourse(this, 'SOCW 460');">SOCW&#160;460</a> if the student has credit for SOCW 560. Prerequisite(s): Graduate standing and Admission to the MSW program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;480.  Special Studies in School Social Work Practice.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Ecological and strengths-based interventions in urban school systems. Course Information: Extensive computer use required. This course is fully online. Prerequisite(s): Admission to the post-MSW Type 73 program and graduate standing.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;503.  Family Practice in Urban Communities.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Empowering at-risk urban families using strengths-based intervention; brief treatment models; attention to diversity, community, poor, and other urban at-risk populations. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20430" title="SOCW&#160;430" class="bubblelink code" onclick="return showCourse(this, 'SOCW 430');">SOCW&#160;430</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;504.  Group Theory and Practice.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Theory and practice of social work with empower groups in both clinical and large system settings; diversity and equity issues. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20430" title="SOCW&#160;430" class="bubblelink code" onclick="return showCourse(this, 'SOCW 430');">SOCW&#160;430</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;508.  Research Methods in Social Work I.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Functions of scholarship in social work, contributions of scholarship to social and economic justice, research methodologies and knowledge building precesses for practice and policy analysis. Course Information: Extensive computer use required. Previously listed as SOCW 592. Prerequisite(s): Admission to the Ph.D. in Social Work program or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;509.  Research Methods in Social Work II.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Functions and processes of research in social work, knowledge-building methodologies and the contributions of multiple research models to the growth of knowledge for the profession. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=SOCW%20508" title="SOCW&#160;508" class="bubblelink code" onclick="return showCourse(this, 'SOCW 508');">SOCW&#160;508</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;511.  Practice With Children.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Direct treatment with urban at-risk children including situations involving homelessness, substance-abuse, violence; treatment modalities emphasizing family, community, culture. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20430" title="SOCW&#160;430" class="bubblelink code" onclick="return showCourse(this, 'SOCW 430');">SOCW&#160;430</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;512.  International Social Work.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the field of international social work; emphasis on social development theory and practice strategies to attack poverty and improve human well-being globally and locally. Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=SOCW%20411" title="SOCW&#160;411" class="bubblelink code" onclick="return showCourse(this, 'SOCW 411');">SOCW&#160;411</a> and <a href="/search/?P=SOCW%20420" title="SOCW&#160;420" class="bubblelink code" onclick="return showCourse(this, 'SOCW 420');">SOCW&#160;420</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;517.  Practice with Family Violence, Neglect, and Abuse.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Ecological approach to family violence: physical, psychological and sexual abuse of children, women and elders at practice and policy levels; urban vulnerable population. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20430" title="SOCW&#160;430" class="bubblelink code" onclick="return showCourse(this, 'SOCW 430');">SOCW&#160;430</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;519.  Practice III: Organization and Community Practice.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Provide students with the tools needed in order to build effective, culturally-relevant, community based organizations to combat structural violence, promote social justice, and improve the quality of and access to the social determinants of health. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=SOCW%20431" title="SOCW&#160;431" class="bubblelink code" onclick="return showCourse(this, 'SOCW 431');">SOCW&#160;431</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;520.  Practice IV: Community Health and Urban Development.  3 hours.</strong></p>
+<p class="courseblockdesc">
+It focuses on community methods of practice. Human rights, health inequities and the social determinants of health are used to contextualize community. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=SOCW%20519" title="SOCW&#160;519" class="bubblelink code" onclick="return showCourse(this, 'SOCW 519');">SOCW&#160;519</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;521.  Aging Populations: Social Work Response.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Psychological, social, biological aging factors of individuals and families; emphasis on practice skills for community, long-term care and hospital-based services with urban emphases. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20410" title="SOCW&#160;410" class="bubblelink code" onclick="return showCourse(this, 'SOCW 410');">SOCW&#160;410</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;522.  Crisis Intervention.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Nature of crises including suicide and large-scale disaster; strengths-based interventions in urban settings: medical and mental health facilities, schools, community centers, and neighborhoods. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20430" title="SOCW&#160;430" class="bubblelink code" onclick="return showCourse(this, 'SOCW 430');">SOCW&#160;430</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;523.  Drug and Alcohol Abuse and Social Work.  3 hours.</strong></p>
+<p class="courseblockdesc">
+History and pharmacology of alcohol and other drugs; etiology of abuse and dependence; assessment and treatment models; practice in multi-disciplinary settings; emphasis on urban systems. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20430" title="SOCW&#160;430" class="bubblelink code" onclick="return showCourse(this, 'SOCW 430');">SOCW&#160;430</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;525.  Social Work with Women.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Research, policy, and practice approaches to working with women in diverse urban settings; empowerment and diversity perspectives. Course Information: Same as <a href="/search/?P=GWS%20525" title="GWS&#160;525" class="bubblelink code" onclick="return showCourse(this, 'GWS 525');">GWS&#160;525</a>. Prerequisite(s): <a href="/search/?P=SOCW%20410" title="SOCW&#160;410" class="bubblelink code" onclick="return showCourse(this, 'SOCW 410');">SOCW&#160;410</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;527.  Topics in Social Services.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Critical review of selected areas of social work, social services, and social welfare. Course Information: May be repeated. Students may register in more than one section per term. Depending on the section of this course, field trips may be part of the course. Prerequisite(s): Admission to the MSW program or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;529.  Kinship Care: A Comprehensive Overview.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Provides a comprehensive overview focusing on the growing number of children who are raised by relatives other than their parents. Course Information: Extensive computer use required. This course may be offered fully online or in a blended-online format.  Please check the Schedule of Classes for information on the format of the course offering. Prerequisite(s): Consent of the instructor. Recommended background: Interest in children, families and family caregiving.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;530.  Leadership and Professional Development.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Social work leadership and professional development including writing for publication, communication skills, personal leadership plan development, theory and practice of leadership at individual agency and community levels. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20410" title="SOCW&#160;410" class="bubblelink code" onclick="return showCourse(this, 'SOCW 410');">SOCW&#160;410</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;531.  Policy II: Community Health and Urban Development.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced policy content for urban communities including health disparities, discrimination, urban poverty and social dislocation. Analytical and policy practice skills addressed. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=SOCW%20420" title="SOCW&#160;420" class="bubblelink code" onclick="return showCourse(this, 'SOCW 420');">SOCW&#160;420</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;532.  Social Work in Corrections.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Policy and practice roles of social workers in correctional settings with emphasis on race, ethnicity, gender, sexual orientation and poverty factors. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20410" title="SOCW&#160;410" class="bubblelink code" onclick="return showCourse(this, 'SOCW 410');">SOCW&#160;410</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;533.  Sexual Minority Communities.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Community and social justice framework applied to gay, lesbian, bisexual and transgendered populations; historical development of sexual minority communities; overview of social work response. Course Information: Prerequisite(s): Admission to the MSW program or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;534.  Independent Study in Practice.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Independent study in practice area not covered by existing course offerings. Course Information: May be repeated to a maximum of 6 hours. Prerequisite(s): Consent of the instructor and approval of the college.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;538.  Social Work and Human Rights.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Assists students to understand the historical development of human rights principles related to vulnerable populations to prepare for advocacy for this population. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20410" title="SOCW&#160;410" class="bubblelink code" onclick="return showCourse(this, 'SOCW 410');">SOCW&#160;410</a> and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;539.  Mental Health Issues with Children and Adolescents.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Critical, strengths-based understanding of current classification and diagnostic systems for assessment and treatment planning with children and adolescents. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20410" title="SOCW&#160;410" class="bubblelink code" onclick="return showCourse(this, 'SOCW 410');">SOCW&#160;410</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;540.  Mental Health Issues with Adults.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Critical, strengths-based understanding of current classification and diagnostic systems for assessment and treatment planning with adults. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20410" title="SOCW&#160;410" class="bubblelink code" onclick="return showCourse(this, 'SOCW 410');">SOCW&#160;410</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;544.  Community Violence.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Urban community violence; impact on individuals and society; policies and theories critically studied from race, class, and gender perspectives, including LBGTQ; social work implications. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20410" title="SOCW&#160;410" class="bubblelink code" onclick="return showCourse(this, 'SOCW 410');">SOCW&#160;410</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;545.  HIV/AIDS: Social Work Challenges.  3 hours.</strong></p>
+<p class="courseblockdesc">
+HIV prevention and intervention in urban settings; system and ecological understanding of impact of HIV on society and role of social work practice and policy. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20410" title="SOCW&#160;410" class="bubblelink code" onclick="return showCourse(this, 'SOCW 410');">SOCW&#160;410</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;546.  Public Health Approaches with Adolescents and Young Adults.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Health and social development of the adolescent and young adult populations and special subgroups (e.g. parenting, homeless) are reviewed from a critical pedagogy and public health science perspective.  Course Information: Same as <a href="/search/?P=CHSC%20544" title="CHSC&#160;544" class="bubblelink code" onclick="return showCourse(this, 'CHSC 544');">CHSC&#160;544</a>. Prerequisite(s): <a href="/search/?P=CHSC%20421" title="CHSC&#160;421" class="bubblelink code" onclick="return showCourse(this, 'CHSC 421');">CHSC&#160;421</a> and credit or concurrent registration in <a href="/search/?P=CHSC%20422" title="CHSC&#160;422" class="bubblelink code" onclick="return showCourse(this, 'CHSC 422');">CHSC&#160;422</a>; and graduate or professional standing; or approval of the department. Recommended background: Research, policy and/or practice and interest in adolescence and youth and in community development and intervention studies; ethnic/minority studies; education; health and social/human service professions.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;547.  Advanced Child Welfare Practice.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on practice in child welfare with children and families who have experienced abuse or neglect and addresses theoretical and programmatic aspects of child welfare practice, with particular attention to practice in Illinois. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20430" title="SOCW&#160;430" class="bubblelink code" onclick="return showCourse(this, 'SOCW 430');">SOCW&#160;430</a> and <a href="/search/?P=SOCW%20431" title="SOCW&#160;431" class="bubblelink code" onclick="return showCourse(this, 'SOCW 431');">SOCW&#160;431</a> and <a href="/search/?P=SOCW%20410" title="SOCW&#160;410" class="bubblelink code" onclick="return showCourse(this, 'SOCW 410');">SOCW&#160;410</a> and <a href="/search/?P=SOCW%20460" title="SOCW&#160;460" class="bubblelink code" onclick="return showCourse(this, 'SOCW 460');">SOCW&#160;460</a> and <a href="/search/?P=SOCW%20411" title="SOCW&#160;411" class="bubblelink code" onclick="return showCourse(this, 'SOCW 411');">SOCW&#160;411</a> and <a href="/search/?P=SOCW%20420" title="SOCW&#160;420" class="bubblelink code" onclick="return showCourse(this, 'SOCW 420');">SOCW&#160;420</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;548.  Social Entrepreneurship.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to global spectrum of socially responsible ventures providing innovative solutions to poverty and other social issues through entrepreneurship. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20431" title="SOCW&#160;431" class="bubblelink code" onclick="return showCourse(this, 'SOCW 431');">SOCW&#160;431</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;549.  Independent Study in Human Behavior and the Social Environment.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Independent study in human behavior and social environment areas not covered by existing course offerings. Course Information: May be repeated to a maximum of 6 hours. Prerequisite(s): Consent of the instructor and approval of the college.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;551.  Policy II: School Social Work Policy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Critical analysis of federal, state, and local policies relevant to social work practice in urban school systems. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20420" title="SOCW&#160;420" class="bubblelink code" onclick="return showCourse(this, 'SOCW 420');">SOCW&#160;420</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;552.  Policy II: Child and Family Policy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Critical analysis of policies affecting welfare of families and children; focus on child welfare, juvenile justice, adult criminal justice, mental health, and special education systems. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20420" title="SOCW&#160;420" class="bubblelink code" onclick="return showCourse(this, 'SOCW 420');">SOCW&#160;420</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;554.  Policy II: Mental Health Policy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Critical analysis of policies and structures in mental health delivery system with a focus on persons with chronic mental illness. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20420" title="SOCW&#160;420" class="bubblelink code" onclick="return showCourse(this, 'SOCW 420');">SOCW&#160;420</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;557.  Social Work with Military Service Members.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Social work with military services members, veterans and families in a variety of settings. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20410" title="SOCW&#160;410" class="bubblelink code" onclick="return showCourse(this, 'SOCW 410');">SOCW&#160;410</a> and <a href="/search/?P=SOCW%20430" title="SOCW&#160;430" class="bubblelink code" onclick="return showCourse(this, 'SOCW 430');">SOCW&#160;430</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;558.  Social Work and the Law.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Social work input in legal system: family law, family violence, crime, delinquency, civil rights, education, health, mental health, social advocacy, social work practice regulation. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20420" title="SOCW&#160;420" class="bubblelink code" onclick="return showCourse(this, 'SOCW 420');">SOCW&#160;420</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;559.  Independent Study in Social Welfare Policy and Services.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Independent study in social welfare policy and services areas not covered by existing course offerings. Course Information: May be repeated to a maximum of 6 hours. Prerequisite(s): Consent of the instructor and approval of the college.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;563.  Program Evaluation.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Prepares students to demonstrate advanced competencies in designing needs assessments and program evaluations. Emphasis on evaluation of programs serving urban at-risk populations. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20460" title="SOCW&#160;460" class="bubblelink code" onclick="return showCourse(this, 'SOCW 460');">SOCW&#160;460</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;564.  The Mexican Experience: A Transnational Examination of Social Justice in Chicago.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces students to the culture, policy, social needs, and social action relevant t to Mexicans in Chicago through a transnational lens using the migration experience of the Mexican community in Chicago as a case study. Prerequisite(s): <a href="/search/?P=SOCW%20410" title="SOCW&#160;410" class="bubblelink code" onclick="return showCourse(this, 'SOCW 410');">SOCW&#160;410</a> or consent of instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;565.  Research Seminars: Social Service Issues.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Methodologies and results of research in selected fields of social services; special issues and problems in practice; relationship of research, theory, and practice; priorities for future research. Course Information: Prerequisite(s):  <a href="/search/?P=SOCW%20460" title="SOCW&#160;460" class="bubblelink code" onclick="return showCourse(this, 'SOCW 460');">SOCW&#160;460</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;566.  Doctoral Independent Study.  1-5 hours.</strong></p>
+<p class="courseblockdesc">
+Individual research under faculty direction of an area not adequately covered in an existing graduate level course. Course Information: Prerequisite(s): Open only to Ph.D. degree students and approval of the department.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;567.  Research Project.  0-9 hours.</strong></p>
+<p class="courseblockdesc">
+Application of research methods to social work problems in an individual or group project or library research project. Preparation of a formal report based on field study processes and findings. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. If taken for a minimum of 3 credits this course will be accepted as meeting MSW degree requirements for advanced research in all concentrations except the School Social Work concentration. Prerequisite(s): Grade of A in <a href="/search/?P=SOCW%20460" title="SOCW&#160;460" class="bubblelink code" onclick="return showCourse(this, 'SOCW 460');">SOCW&#160;460</a> or an equivalent course or consent of the instructor; and approval of the college.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;568.  Advanced Clinical Social Work Practice in Integrated Healthcare.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Prepares students with an understanding of social work's role in health care settings (e.g. primary care, specialty clinics, hospitals) and the relationship between psychosocial health, illness and medical care. Prerequisite(s): Specialization year standing or consent of instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;569.  Independent Study in Research.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Independent study in research methodology or areas not covered by existing course offerings. Course Information: May be repeated to a maximum of 6 hours. Prerequisite(s): Consent of the instructor and approval of the college.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;570.  Field Instruction I.  5 hours.</strong></p>
+<p class="courseblockdesc">
+Students are assigned to social agencies where, under the supervision of an agency field instructor, selected micro and macro system cases are carried for social work services. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;571.  Field Instruction II.  5 hours.</strong></p>
+<p class="courseblockdesc">
+Students are assigned to social agencies where, under the supervision of an agency field instructor, they carry selected cases or groups for social work services. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): <a href="/search/?P=SOCW%20570" title="SOCW&#160;570" class="bubblelink code" onclick="return showCourse(this, 'SOCW 570');">SOCW&#160;570</a> and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;572.  Field Instruction III.  8 hours.</strong></p>
+<p class="courseblockdesc">
+Students are assigned to social agencies where, under the supervision of an agency field instructor, selected micro and macro system cases are carried for social work services. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): <a href="/search/?P=SOCW%20571" title="SOCW&#160;571" class="bubblelink code" onclick="return showCourse(this, 'SOCW 571');">SOCW&#160;571</a> and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;573.  Field Instruction IV.  8 hours.</strong></p>
+<p class="courseblockdesc">
+Students are assigned to social agencies where, under the supervision of an agency field instructor, selected micro and macro system cases are carried for social work services. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): <a href="/search/?P=SOCW%20572" title="SOCW&#160;572" class="bubblelink code" onclick="return showCourse(this, 'SOCW 572');">SOCW&#160;572</a> and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;574.  Special Studies in Field Instruction I.  2-4 hours.</strong></p>
+<p class="courseblockdesc">
+Practicum experiences in approved social agencies/organizations where students carry selected cases applying knowledge to skill applications under the supervision of an agency field instructor. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;575.  Special Studies in Field Instruction II.  2-4 hours.</strong></p>
+<p class="courseblockdesc">
+Practicum experiences in approved social agencies/organizations where students carry selected cases applying knowledge to skill applications under the supervision of an agency field instructor. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;576.  Clinical Interventions.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Prepares students to provide Cognitive Behavioral Therapy and Motivational Interviewing and work with individual clients, families and groups in a variety of mental health settings in the urban community context. Prerequisite(s): <a href="/search/?P=SOCW%20411" title="SOCW&#160;411" class="bubblelink code" onclick="return showCourse(this, 'SOCW 411');">SOCW&#160;411</a> and <a href="/search/?P=SOCW%20430" title="SOCW&#160;430" class="bubblelink code" onclick="return showCourse(this, 'SOCW 430');">SOCW&#160;430</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;577.  Social Welfare History.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Social work history in context of political, economic, and social developments; focus on gender, class, and race; critical application of theoretical models. Course Information: Prerequisite(s): Admission to the Ph.D. in Social Work program or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;578.  Qualitative Methods in Social Work Research.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Theoretical foundations and methods for qualitative research in social work; consideration of issues of power, privilege, and oppression and their significance in research approaches and implementation.
+Course Information: Extensive computer use required. MSW students may enroll in this course and expect to have some differences in workload and assignments compared to PhD students enrolled. Prerequisite(s): Consent of the instructor. In addition, students need consent of academic advisor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;582.  Practice III: Practice with Children and Families.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Ecological and strengths-based practice with urban children and families using  trauma-informed, culturally-grounded, family-centered framework; special focus on child welfare. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20431" title="SOCW&#160;431" class="bubblelink code" onclick="return showCourse(this, 'SOCW 431');">SOCW&#160;431</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;583.  Practice IV: Practice with Children and Families.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Critical analysis and application of ecological, strengths-based, evidence-based practice approaches to urban at-risk children and families facing abuse, neglect, mental illness, grief/loss; interactions with criminal and juvenile justice systems. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20582" title="SOCW&#160;582" class="bubblelink code" onclick="return showCourse(this, 'SOCW 582');">SOCW&#160;582</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;586.  Practice III: Mental Health.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Strengths-based assessment and treatment planning in urban settings; diversity issues; managed care settings; critical use of current mental health diagnostic and classification systems. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20431" title="SOCW&#160;431" class="bubblelink code" onclick="return showCourse(this, 'SOCW 431');">SOCW&#160;431</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;587.  Practice IV: Mental Health.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced urban mental health practice; diversity issues; focus on children and adolescents and their families; critical application of current mental health diagnosis and classification. Course Information: Prerequisite(s): <a href="/search/?P=SOCW%20586" title="SOCW&#160;586" class="bubblelink code" onclick="return showCourse(this, 'SOCW 586');">SOCW&#160;586</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;588.  Practice III: School Social Work.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Response to intervention, tier-based model, ecological and strengths-based perspectives for the development of basic competencies for urban school social work; diversity issues. Course Information: Students take a (free) online course as part of the course requirement. Prerequisite(s): <a href="/search/?P=SOCW%20431" title="SOCW&#160;431" class="bubblelink code" onclick="return showCourse(this, 'SOCW 431');">SOCW&#160;431</a> and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;589.  Practice IV: School Social Work.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Response to intervention, tier-based model, ecological systems, strengths perspective for practice in urban school systems; use of groups, consultation, classroom interventions, family empowerment, community interventions; diversity issues. Course Information: Students take a (free) online course as part of the course requirement. Prerequisite(s): <a href="/search/?P=SOCW%20588" title="SOCW&#160;588" class="bubblelink code" onclick="return showCourse(this, 'SOCW 588');">SOCW&#160;588</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;590.  Analysis of Social Work Practice Approaches.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Historical and current developments in the conceptualization of social work practice. Implications of practice approaches for contributing to social justice. Values and ethics addressed. Course Information: Extensive computer use required. Prerequisite(s): Admission to the Ph.D. in Social Work program or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;591.  Social Welfare Policy Analysis and Development.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of social welfare policies with particular attention to issues of social and economic justice; conceptual models for analysis; application of models to selected problems. Course Information: Prerequisite(s): Admission to the PhD in Social Work program or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;593.  Social Statistics and Data Analysis.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected statistical and analytical methods as applied to social issues. Use of computerized tools, sampling, hypothesis testing, descriptive and inferential procedure, introduction to multivariate analysis. Course Information: Extensive computer use required. Prerequisite(s): Admission to Ph.D. in Social Work program or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;594.  Dissertation Proseminar in Social Work.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Preparation in development of dissertation focus and planning of dissertation research. Readings are assigned and discussed in class. Emphasis on ideas for dissertation topic, its formulation, operationalization, and research design. Course Information: Prerequisite(s): SOCW 592 and <a href="/search/?P=SOCW%20593" title="SOCW&#160;593" class="bubblelink code" onclick="return showCourse(this, 'SOCW 593');">SOCW&#160;593</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;595.  Seminar in Social Work Education.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Preparation for roles as social work educators. Historical development of social work education with special emphasis on relation between curriculum design and the accreditation process. Pedagogical issues such as selecting educational objectives, teaching methods, and evaluation of student performance. Students must participate in a teaching laboratory. Course Information: Prerequisite(s): Admission to the Ph.D. in Social Work program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;596.  Proseminar on Selected Topics and Issues in Social Work.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Review and critique of selected areas of social work content, theory, or practice. State of current knowledge and needed research stressed. Course Information: May be repeated. Prerequisite(s): Admission to the Ph.D. in Social Work program or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;597.  Applied Linear and Generalized Linear Regression Models.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Concepts and uses of multivariate statistical techniques as well as using the computer to do data analyses; use of Stata. Course Information: Extensive computer use required.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SOCW&#160;599.  Ph.D. Thesis Research.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Individual research, under faculty direction, on social work doctoral dissertation. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="socw.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

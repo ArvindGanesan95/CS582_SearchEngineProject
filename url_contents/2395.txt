@@ -1,0 +1,649 @@
+https://catalog.uic.edu/ucat/colleges-depts/liberal-arts-sciences/bios/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Department of Biological Sciences &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/liberal-arts-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/">Anthropology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/">Biochemistry</a></li>
+				<li class="active isparent self"><a href="#" onclick="return false;">Biological Sciences</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/liberal-arts-sciences/bios/">
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/bs-eeeb/">BS with a Major in Biological Sciences—Evolution, Ecology, and Environmental Biology Concentration </a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/bs-generalbiology/">BS with a Major in Biological Sciences—General Biology Concentration </a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/bs-mcob/">BS with a Major in Biological Sciences—Molecular, Cellular, and Organismal Biology Concentration </a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/minor/">Minor in Biological Sciences</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/">Black Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/">Chemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/">Classics and Mediterranean Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/">Communication</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/">Criminology, Law, and Justice</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/">Earth and Environmental Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/">Economics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/">English</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French and Francophone Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/">Gender and Women's Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/">Germanic Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/">Global Asian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/">Hispanic and Italian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/">History</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/">Integrated Health Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/">International Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/">Liberal Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/">Linguistics</a></li>
+				<li><a href="/ucat/colleges-depts/liberal-arts-sciences/lcsl/">Literatures, Cultural Studies, and Linguistics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/">Mathematics, Statistics, and Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/">Moving Image Arts</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/">Neuroscience</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/">Philosophy</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/">Physics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/">Polish, Russian, and Lithuanian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/">Political Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/">Psychology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/">Religious Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/">Sociology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional Studies</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/">College&nbsp;of&nbsp;Liberal&nbsp;Arts&nbsp;and&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><span class="active">Biological Sciences</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Department of Biological Sciences</h1>
+
+
+<script type="text/javascript">
+//<![CDATA[
+	var defshow = "text";
+	var bodycontainer = "#body";
+	var validhashes = ",text,undergraduateprogramstext,coursestext,";
+
+if(window.location.hash.length) {
+	var hash = cleanHash(window.location.hash);
+	if(validhashes.indexOf("," + hash + ",") != -1)
+		defshow = hash;	
+}
+var ss = document.styleSheets;
+var workss = null;
+for(var i=0; i < ss.length; i++) {
+	var currmedia = "";
+	if (typeof ss[i].media == "string") 
+		currmedia = ss[i].media
+	else if (typeof ss[i].media == "object" && ss[i].media.mediaText) 
+		currmedia = ss[i].media.mediaText;
+	
+	if((currmedia == "screen" || currmedia == "all") && (ss[i].href.indexOf("/") == 0 || ss[i].href.indexOf(document.location.host) >= 0)) {
+		workss = ss[i];
+		break;	
+	}
+}
+if(workss && workss.insertRule) {
+	workss.insertRule(".tab_content { display: none; }", workss.cssRules.length)
+	workss.insertRule(".sectionheader { display: none; }", workss.cssRules.length)
+	workss.insertRule("#" + defshow + "container { display: block; }", workss.cssRules.length)
+} else if(workss && workss.addRule) {
+	workss.addRule(".tab_content", "display: none");
+	workss.addRule(".sectionheader", "display: none");
+	workss.addRule("#" + defshow + "container", "display: block");
+}
+else {
+	if (window.console)
+		window.console.log('screen.css <link> needs attribute media="screen"');
+}
+//]]>
+</script>
+	<div id="tabs">
+		<ul class="clearfix" role="tablist">
+			<li id="texttab" role="presentation">
+<a href="#textcontainer" role="tab" aria-controls="textcontainer" onclick="return showSection('text');">Overview</a></li>
+			<li id="undergraduateprogramstexttab" role="presentation">
+<a href="#undergraduateprogramstextcontainer" role="tab" aria-controls="undergraduateprogramstextcontainer" onclick="return showSection('undergraduateprogramstext');" >Programs and Requirements</a></li>
+			<li id="coursestexttab" role="presentation">
+<a href="#coursestextcontainer" role="tab" aria-controls="coursestextcontainer" onclick="return showSection('coursestext');" >Courses</a></li>
+		</ul>
+	</div>
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p class="campus_location"><span class="label"><strong>Contact Information: </strong></span><br/>
+<span class="campus_location">Campus Location: 3272 Science and Engineering South (SES), Advising Office: 3272 SES <br/>
+<span class="phone">(312) 996–2211</span> <br/>
+<span class="website"><a href="http://bios.uic.edu/">bios.uic.edu</a>, Advising Office: <a href="http://bios.uic.edu/bios/undergraduate-study/advising" target="_blank">bios.uic.edu/bios/undergraduate-study/advising</a></span></span></p>
+<p class="administration"><span class="label"><strong>Administration: </strong></span><br/>
+Head, Janet Richmond<br/>
+Director of Undergraduate Studies, Miquel Gonzalez-Meler</p>
+<p>Biological Sciences majors study living systems. Students and faculty pursue diverse programs of study, including, but not limited to, biochemistry, animal behavior, cell biology, development, ecology, environmental sciences, evolution, genetics, microbiology, molecular biology, neuroscience, paleontology, plant biology, physiology (cellular, organismal, and environmental), population biology, and urban ecology. Students completing a baccalaureate degree in Biological Sciences are prepared for a wide range of careers, including jobs in a variety of health professions, the veterinary or pharmaceutical sciences, public or private research, education, regulatory policy, conservation and wildlife biology, environmental professions, and agriculture.</p>
+<p>The Department of Biological Sciences offers a program leading to the Bachelor of Science in Liberal Arts and Sciences with a Major in Biological Sciences. A Minor in Biological Sciences is also offered.</p>
+<h2>Admission to the Major</h2>
+<p>Continuing students, readmitted students, and transfer students not previously declared as a major in Biological Sciences must have a minimum GPA of 2.00/4.00 for all biology courses taken. Admission to the major is dependent upon space availability; therefore, meeting the minimum requirements does not guarantee admission to the major.</p>
+<h2>Distinction</h2>
+<p><strong>Departmental Distinction.</strong> Departmental Distinction is awarded to students with a minimum 3.70/4.00 GPA in biological sciences courses and to students with a minimum 3.30/4.00 GPA in biological sciences courses who also successfully complete <span class="sc_courseinline"><a href="/search/?P=BIOS%20399" title="BIOS 399" class="bubblelink code" onclick="return showCourse(this, 'BIOS 399');">BIOS 399</a></span>.</p>
+
+<p><strong>Highest Departmental Distinction.</strong> Highest Departmental Distinction is awarded to students who have a minimum 3.70/4.00 GPA in biological sciences courses and who also successfully complete <span class="sc_courseinline"><a href="/search/?P=BIOS%20399" title="BIOS 399" class="bubblelink code" onclick="return showCourse(this, 'BIOS 399');">BIOS 399</a></span>.</p>
+</div><!--end #textcontainer -->
+
+			<div id="undergraduateprogramstextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="undergraduateprogramstexttab" aria-hidden="true">
+				<a name="undergraduateprogramstext"></a><h2>Degree Program</h2>
+<ul>
+	<li>
+	<p><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/bs-eeeb/">BS with a Major in Biological Sciences—Evolution, Ecology, and Environmental Biology Concentration</a></p>
+	</li>
+	<li>
+	<p><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/bs-generalbiology/">BS with a Major in Biological Sciences—General Biology Concentration</a></p>
+	</li>
+	<li>
+	<p><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/bs-mcob/">BS with a Major in Biological Sciences—Molecular, Cellular, and Organismal Biology Concentration</a></p>
+	</li>
+</ul>
+<h2>Minor</h2>
+<ul>
+	<li>
+	<p><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/minor/">Minor in Biological Sciences</a></p>
+	</li>
+</ul>
+			</div>
+			<div id="coursestextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="coursestexttab" aria-hidden="true">
+				<a name="coursestext"></a><div class="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 104.  Biology for Non-majors.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Origin and diversity of life; genetics, evolution, ecology and ecosystems; energy flow; photosynthesis; human anatomy and physiology; development of biological ideas; and biology, biotechnology and human society. Course Information: Credit is not given for <a href="/search/?P=BIOS%20104" title="BIOS 104" class="bubblelink code" onclick="return showCourse(this, 'BIOS 104');">BIOS 104</a> if the student has credit in BIOS 100 or BIOS 101 or <a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a> or <a href="/search/?P=BIOS%20120" title="BIOS 120" class="bubblelink code" onclick="return showCourse(this, 'BIOS 120');">BIOS 120</a>. Animals may be used in instruction. Class Schedule Information: To be properly registered, students must enroll in one Laboratory-Discussion and one Lecture.<i>  Natural World - With Lab course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 110.  Biology of Cells and Organisms.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introductory biology at the molecular, cellular, and organismal level. Topics include: Scientific skills, biological chemistry, cell structure and function, metabolism, cell division, molecular genetics, diversity, anatomy and physiology.  Course Information: Previously listed as BIOS 100. Animals used in instruction. THIS COURSE IS INTENDED FOR SCIENCE MAJORS. <a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a> and <a href="/search/?P=BIOS%20120" title="BIOS 120" class="bubblelink code" onclick="return showCourse(this, 'BIOS 120');">BIOS 120</a> may be taken in any order. Credit is not given for <a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a> if the student has credit in BIOS 100. Credit is not given for <a href="/search/?P=BIOS%20104" title="BIOS 104" class="bubblelink code" onclick="return showCourse(this, 'BIOS 104');">BIOS 104</a> if the student has credit in BIOS 100, BIOS 101, <a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a> or <a href="/search/?P=BIOS%20120" title="BIOS 120" class="bubblelink code" onclick="return showCourse(this, 'BIOS 120');">BIOS 120</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Laboratory-Discussion.<i>  Natural World - With Lab course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 112.  Program Design I in the Context of Biological Problems.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to programming using Biology as the context for programming in a high-level language; control structures, variables, simple and aggregate data types; problem-solving techniques; biology topics include central dogma and genetics. Course Information: Same as <a href="/search/?P=CS%20112" title="CS 112" class="bubblelink code" onclick="return showCourse(this, 'CS 112');">CS 112</a>. Credits is not given for <a href="/search/?P=CS%20112" title="CS 112" class="bubblelink code" onclick="return showCourse(this, 'CS 112');">CS 112</a>, if student has credit in <a href="/search/?P=CS%20111" title="CS 111" class="bubblelink code" onclick="return showCourse(this, 'CS 111');">CS 111</a> or <a href="/search/?P=CS%20113" title="CS 113" class="bubblelink code" onclick="return showCourse(this, 'CS 113');">CS 113</a>. Course Schedule Information: To be properly registered, students must enroll in one Laboratory and one Lecture-Discussion.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 120.  Biology of Populations and Communities.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introductory biology at the level of populations and communities. Topics include: Scientific skills, evolution, Mendelian and population genetics, biological diversity, and ecological systems including ecosystem processes and human impacts. Course Information: Previously listed as BIOS 101. Animals used in instruction. This course is intended for science majors. <a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a> and <a href="/search/?P=BIOS%20120" title="BIOS 120" class="bubblelink code" onclick="return showCourse(this, 'BIOS 120');">BIOS 120</a> may be taken in any order. Credit is not given for <a href="/search/?P=BIOS%20120" title="BIOS 120" class="bubblelink code" onclick="return showCourse(this, 'BIOS 120');">BIOS 120</a> if the student has credit in BIOS 101.  Credit is not given for <a href="/search/?P=BIOS%20104" title="BIOS 104" class="bubblelink code" onclick="return showCourse(this, 'BIOS 104');">BIOS 104</a> if the student has credit in BIOS 100, BIOS 101, <a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a> or <a href="/search/?P=BIOS%20120" title="BIOS 120" class="bubblelink code" onclick="return showCourse(this, 'BIOS 120');">BIOS 120</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Laboratory-Discussion.<i>  Natural World - With Lab course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 184.  The Basics of Neuroscience.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Introduction to the scientific study of the brain and behavior. Overview of neuroscience as an integrative discipline. Course Information: Same as <a href="/search/?P=PHIL%20184" title="PHIL 184" class="bubblelink code" onclick="return showCourse(this, 'PHIL 184');">PHIL 184</a> and <a href="/search/?P=PSCH%20184" title="PSCH 184" class="bubblelink code" onclick="return showCourse(this, 'PSCH 184');">PSCH 184</a>. Satisfactory/Unsatisfactory grading only.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 196.  Biology Colloquium.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Combines in-class seminars with off-campus day and weekend field trips, with the goal of introducing students to different areas of the Biological Sciences, and alternate career options.Course Information: May be repeated up to 1 time(s). Field trips required at a nominal fee. Prerequisite(s): Major in biological sciences, biochemistry, or neuroscience.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 199.  Introduction to Research.  1 hour.</strong></p>
+<p class="courseblockdesc">
+An introduction to research for students interested in becoming biology majors. Credit is contingent on approval by the research supervisor of a written report that is also submitted to the Biology colloquium faculty adviser. Course Information: 1 hour. Satisfactory/Unsatisfactory grading only. May be repeated. Prerequisite(s): Approval of the department. Class Schedule Information: To be properly registered, students must enroll in one Conference and one Laboratory.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 220.  Genetics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Principles of genetics, gene and chromosome structure, gene expression, inheritance of complex traits, Mendelian and non-Mendelian inheritance, genomes, and genetic engineering. Course Information: No credit may be applied toward the biological sciences major unless credit is also obtained for BIOS 221. Prerequisite(s): BIOS 100 or <a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a>; and BIOS 101 or <a href="/search/?P=BIOS%20120" title="BIOS 120" class="bubblelink code" onclick="return showCourse(this, 'BIOS 120');">BIOS 120</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 222.  Cell Biology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The physiological processes that govern cell function. Topics include enzyme kinetics, metabolism, membranes, membrane transport, electrical and chemical signaling, intracellular motors, motility, and junctions. Prerequisite(s): BIOS 100 or <a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 230.  Evolution and Ecology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Molecular and ecological basis of evolutionary change through adaptation or natural selection to explain diversity of species, behaviors, populations, communities and ecosystems and how these interactions are affected by the changing environment. Prerequisite(s): BIOS 101 or <a href="/search/?P=BIOS%20120" title="BIOS 120" class="bubblelink code" onclick="return showCourse(this, 'BIOS 120');">BIOS 120</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 236.  Animal Behavior.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examine the proximate and ultimate causes of animal behavior; neural and hormonal mechanisms; diversity of behavior and their relationship to an organism's ecology and evolution. Course Information: Prerequisite(s): BIOS 101 or <a href="/search/?P=BIOS%20120" title="BIOS 120" class="bubblelink code" onclick="return showCourse(this, 'BIOS 120');">BIOS 120</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 237.  The Human Skeleton.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of the human skeleton, emphasizing bone identification and functional anatomy. Course Information: Same as <a href="/search/?P=ANTH%20237" title="ANTH 237" class="bubblelink code" onclick="return showCourse(this, 'ANTH 237');">ANTH 237</a>. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 272.  Comparative Vertebrate Anatomy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Comparative vertebrate anatomy through the analysis of varying morphological features of hard and soft tissues. Course Information: Animals used in instruction. Prerequisite(s): BIOS 100 or <a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a>; and BIOS 101 or <a href="/search/?P=BIOS%20120" title="BIOS 120" class="bubblelink code" onclick="return showCourse(this, 'BIOS 120');">BIOS 120</a>. Class Schedule Information: To be properly registered, students must enroll in one Laboratory and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 286.  The Biology of the Brain.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of basic neurobiology. Brain structure, chemistry, development and control of behavior (sensation, movement, emotions, memory, cognition, sex). Course Information: Prerequisite(s): BIOS 100 or <a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 294.  Special Topics in Biological Sciences.  1-5 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in the Biological Sciences. Course Information: May be repeated. Students may register for more than one section per term.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 296.  Directed Instruction.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Leadership opportunity for upper-division students who wish to assist with the biology colloquium.Course Information: May be repeated to a maximum of 4 hours. Field trips required at a nominal fee. Students will be required to submit a final report describing their leadership activities and experiences. Prerequisite(s): <a href="/search/?P=BIOS%20196" title="BIOS 196" class="bubblelink code" onclick="return showCourse(this, 'BIOS 196');">BIOS 196</a> and approval of the department. To be properly registered, students must enroll in one Lecture-Discusssion and one Practice.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 299.  Honors Biology.  1 hour.</strong></p>
+<p class="courseblockdesc">
+An additional hour of related work for students registered in another course in Biological Sciences. Course Information: May be repeated. Prerequisite(s):  Membership in Honors College, or, for superior students, approval of the department; and registration in a Biological Sciences course (except <a href="/search/?P=BIOS%20391" title="BIOS 391" class="bubblelink code" onclick="return showCourse(this, 'BIOS 391');">BIOS 391</a> or <a href="/search/?P=BIOS%20399" title="BIOS 399" class="bubblelink code" onclick="return showCourse(this, 'BIOS 399');">BIOS 399</a>) and consent of the instructor. Open only to freshmen, sophomores, and juniors.<i>  Honors course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 305.  Plant Evolutionary Ecology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Fundamental aspects of plant structure and function, plant-environment interactions, and how they shape biodiversity, with an emphasis on their evolutionary context. Prerequisite(s): <a href="/search/?P=BIOS%20230" title="BIOS 230" class="bubblelink code" onclick="return showCourse(this, 'BIOS 230');">BIOS 230</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 310.  Genetics Laboratory.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced laboratory techniques in gene inheritance, expression and regulation using genetic engineering, molecular biology and bioinformatic and statistical analysis to study Mendelian, microbial, molecular, human and population genetics. Course Information: Previously listed as BIOS 221. Animals used in  instruction. Credit is not given for <a href="/search/?P=BIOS%20310" title="BIOS 310" class="bubblelink code" onclick="return showCourse(this, 'BIOS 310');">BIOS 310</a> if student has credit in BIOS 221. Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=BIOS%20220" title="BIOS 220" class="bubblelink code" onclick="return showCourse(this, 'BIOS 220');">BIOS 220</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 312.  Cell Biology Laboratory.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Laboratory training in advanced cell biology methods used in research and clinical settings. Microscopy, protein extraction and quantification, immunoassays, cell culture, experimental design, data analysis and scientific writing are emphasized. Course Information: Previously listed as BIOS 223. Credit is not given for <a href="/search/?P=BIOS%20312" title="BIOS 312" class="bubblelink code" onclick="return showCourse(this, 'BIOS 312');">BIOS 312</a> if the student has credit in BIOS 223. Prerequisite(s): Credit or concurrent credit in <a href="/search/?P=BIOS%20222" title="BIOS 222" class="bubblelink code" onclick="return showCourse(this, 'BIOS 222');">BIOS 222</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 320.  Developmental Biology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Principles governing growth and differentiation from the molecular to the organismic level. Course Information: Prerequisite(s): <a href="/search/?P=BIOS%20220" title="BIOS 220" class="bubblelink code" onclick="return showCourse(this, 'BIOS 220');">BIOS 220</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 321.  Developmental Biology Laboratory.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Laboratory problems in developmental biology. Course Information: Animals used in instruction. Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=BIOS%20320" title="BIOS 320" class="bubblelink code" onclick="return showCourse(this, 'BIOS 320');">BIOS 320</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 323.  Molecular Biology Laboratory.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Modern molecular biology techniques used in the isolation and functional analysis of genes. Bioinformatics, gene cloning, gene fusions and expression assays will be used in the analysis of the gene isolation and analysis. Course Information: Prerequisite(s): <a href="/search/?P=BIOS%20220" title="BIOS 220" class="bubblelink code" onclick="return showCourse(this, 'BIOS 220');">BIOS 220</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 325.  Human Embryology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Major events in human development between fertilization and birth. The developmental origins of adult body structure and function, normal anatomical variations, and congenital malformations. Course Information: Prerequisite(s): BIOS 100 or <a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 326.  Embryology Laboratory.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Examination of histological sections of mammalian embryos. Identification of cells and tissues from their microscopic appearance, reading serial sections. Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=BIOS%20325" title="BIOS 325" class="bubblelink code" onclick="return showCourse(this, 'BIOS 325');">BIOS 325</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 331.  General Ecology Laboratory.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Field and laboratory data collection for hypothesis testing; required field trips to representative plant communities.  Course Information:  Animals used in instruction.  Required field trips on Saturdays.  Prerequisite(s):  BIOS 101 or <a href="/search/?P=BIOS%20120" title="BIOS 120" class="bubblelink code" onclick="return showCourse(this, 'BIOS 120');">BIOS 120</a>.  Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Practice.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 336.  Animal Behavior Laboratory.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Field and laboratory data collection for hypothesis testing in animal behavior. Course Information: Animals used in instruction. Field trip required at a nominal fee. Field work required. Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=BIOS%20236" title="BIOS 236" class="bubblelink code" onclick="return showCourse(this, 'BIOS 236');">BIOS 236</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 340.  Environmental Physiology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The performance of an organism or group of organisms in the context of their natural environment and their evolutionary background. The organism as an integrated system rather than a collection of cellular or organ processes. Course Information: Prerequisite(s): BIOS 100 or <a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a>; and BIOS 101 or <a href="/search/?P=BIOS%20120" title="BIOS 120" class="bubblelink code" onclick="return showCourse(this, 'BIOS 120');">BIOS 120</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 343.  Animal Physiological Systems.  3 hours.</strong></p>
+<p class="courseblockdesc">
+How the human body works including digestive, neuromuscular, sensory, respiratory, excretory, endocrine and cardiovascular systems using examples across animal species and human case studies. Course Information: Previously listed as BIOS 240. Credit is not given for <a href="/search/?P=BIOS%20343" title="BIOS 343" class="bubblelink code" onclick="return showCourse(this, 'BIOS 343');">BIOS 343</a> if student has credit in BIOS 240. Prerequisite(s): BIOS 100 or <a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a>; and BIOS 101 or <a href="/search/?P=BIOS%20120" title="BIOS 120" class="bubblelink code" onclick="return showCourse(this, 'BIOS 120');">BIOS 120</a>; and Credit or concurrent registration in <a href="/search/?P=BIOS%20222" title="BIOS 222" class="bubblelink code" onclick="return showCourse(this, 'BIOS 222');">BIOS 222</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 350.  General Microbiology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to the morphology, staining, genetics, physiology and biochemistry of microbial life. Medical significance of bacteria, archaea, fungi, protozoa, algae and helminthes. The significance of viruses, prions, and viroids.  Prerequisite(s): BIOS 100 or <a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a>; and Credit or concurrent registration in <a href="/search/?P=CHEM%20130" title="CHEM 130" class="bubblelink code" onclick="return showCourse(this, 'CHEM 130');">CHEM 130</a> or <a href="/search/?P=CHEM%20230" title="CHEM 230" class="bubblelink code" onclick="return showCourse(this, 'CHEM 230');">CHEM 230</a> or <a href="/search/?P=CHEM%20232" title="CHEM 232" class="bubblelink code" onclick="return showCourse(this, 'CHEM 232');">CHEM 232</a>. Recommended background: BIOS 101 or <a href="/search/?P=BIOS%20120" title="BIOS 120" class="bubblelink code" onclick="return showCourse(this, 'BIOS 120');">BIOS 120</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 351.  Microbiology Laboratory.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Laboratory experience with aseptic and pure culture techniques; staining and microscopy of microorganisms; identification of unknown bacteria; control of microbial growth; antibiotics; medical microbiology. Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=BIOS%20350" title="BIOS 350" class="bubblelink code" onclick="return showCourse(this, 'BIOS 350');">BIOS 350</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 352.  Introductory Biochemistry.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Structure and function of cellular constituents; enzymology; metabolism of carbohydrates, lipids, amino acids, nucleotides; molecular biology of biosynthesis of proteins and nucleic acids. Course Information: Same as <a href="/search/?P=CHEM%20352" title="CHEM 352" class="bubblelink code" onclick="return showCourse(this, 'CHEM 352');">CHEM 352</a>. No credit given for <a href="/search/?P=BIOS%20352" title="BIOS 352" class="bubblelink code" onclick="return showCourse(this, 'BIOS 352');">BIOS 352</a> if student has credit in <a href="/search/?P=BIOS%20452" title="BIOS 452" class="bubblelink code" onclick="return showCourse(this, 'BIOS 452');">BIOS 452</a> or <a href="/search/?P=BIOS%20454" title="BIOS 454" class="bubblelink code" onclick="return showCourse(this, 'BIOS 454');">BIOS 454</a> or <a href="/search/?P=CHEM%20452" title="CHEM 452" class="bubblelink code" onclick="return showCourse(this, 'CHEM 452');">CHEM 452</a> or <a href="/search/?P=CHEM%20454" title="CHEM 454" class="bubblelink code" onclick="return showCourse(this, 'CHEM 454');">CHEM 454</a>. No credit toward the degree in biochemistry. Prerequisite(s): BIOS 100 or <a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a>; and BIOS 101 or <a href="/search/?P=BIOS%20120" title="BIOS 120" class="bubblelink code" onclick="return showCourse(this, 'BIOS 120');">BIOS 120</a>; and <a href="/search/?P=CHEM%20230" title="CHEM 230" class="bubblelink code" onclick="return showCourse(this, 'CHEM 230');">CHEM 230</a> or <a href="/search/?P=CHEM%20232" title="CHEM 232" class="bubblelink code" onclick="return showCourse(this, 'CHEM 232');">CHEM 232</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 360.  Introduction to Paleontology.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The morphology, ecology, and relationships of fossil organisms. Basic principles of paleontology, including evolution, paleoecology and functional morphology. Course Information: Same as <a href="/search/?P=EAES%20360" title="EAES 360" class="bubblelink code" onclick="return showCourse(this, 'EAES 360');">EAES 360</a>. Field trip required at a nominal fee. One day field trip to collect fossils. Prerequisite(s): <a href="/search/?P=EAES%20101" title="EAES 101" class="bubblelink code" onclick="return showCourse(this, 'EAES 101');">EAES 101</a> or <a href="/search/?P=EAES%20111" title="EAES 111" class="bubblelink code" onclick="return showCourse(this, 'EAES 111');">EAES 111</a>; or BIOS 100 or <a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a>; and BIOS 101 or <a href="/search/?P=BIOS%20120" title="BIOS 120" class="bubblelink code" onclick="return showCourse(this, 'BIOS 120');">BIOS 120</a>. Class Schedule Information: To be properly registered, students must enroll in one Laboratory and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 365.  Human Ecological Systems.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Human-environmental interactions and feedbacks (positive and negative) and the ecological basis for health and sustainability of human-dominated landscapes. Case studies of real-world environmental issues. Course Information: Prerequisite(s): BIOS 101 or <a href="/search/?P=BIOS%20120" title="BIOS 120" class="bubblelink code" onclick="return showCourse(this, 'BIOS 120');">BIOS 120</a> or <a href="/search/?P=EAES%20101" title="EAES 101" class="bubblelink code" onclick="return showCourse(this, 'EAES 101');">EAES 101</a> or <a href="/search/?P=PSCH%20100" title="PSCH 100" class="bubblelink code" onclick="return showCourse(this, 'PSCH 100');">PSCH 100</a> or <a href="/search/?P=SOC%20100" title="SOC 100" class="bubblelink code" onclick="return showCourse(this, 'SOC 100');">SOC 100</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 386.  Seminar on Neurobiology.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Reading and discussion of both classic and recent research papers that are important in neurobiology. Course Information: Prerequisite(s): <a href="/search/?P=BIOS%20286" title="BIOS 286" class="bubblelink code" onclick="return showCourse(this, 'BIOS 286');">BIOS 286</a> or <a href="/search/?P=PSCH%20262" title="PSCH 262" class="bubblelink code" onclick="return showCourse(this, 'PSCH 262');">PSCH 262</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 391.  Independent Study.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Individual study not covered in standard courses under close supervision of a faculty member. Credit is contingent on approval by research supervisor of a written report that is submitted to the department. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Students may register in more than one section per term. A maximum of 5 hours of <a href="/search/?P=BIOS%20391" title="BIOS 391" class="bubblelink code" onclick="return showCourse(this, 'BIOS 391');">BIOS 391</a> and/or <a href="/search/?P=BIOS%20399" title="BIOS 399" class="bubblelink code" onclick="return showCourse(this, 'BIOS 399');">BIOS 399</a> may be credited toward the department undergraduate major requirements. Prerequisite(s): Minimum of 2.00 grade point average in biological sciences courses and consent of the instructor. Class Schedule Information: This course counts toward the limited number of independent study hours accepted toward the degree and the major.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 399.  Independent Research.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Individual research. Credit is contingent on approval by the research supervisor of a written report that is submitted to the department. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Students may register in more than one section per term. A maximum of 5 hours of <a href="/search/?P=BIOS%20391" title="BIOS 391" class="bubblelink code" onclick="return showCourse(this, 'BIOS 391');">BIOS 391</a> and/or <a href="/search/?P=BIOS%20399" title="BIOS 399" class="bubblelink code" onclick="return showCourse(this, 'BIOS 399');">BIOS 399</a> may be credited toward the department undergraduate major requirements. Prerequisite(s): Minimum of 2.00 grade point average in biological sciences courses, approval of the department, and consent of the instructor. Recommended background: Junior standing. Class Schedule Information: This course counts toward the limited number of independent study hours accepted toward the degree and the major.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 416.  Natural Products.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Biogenetic approach to secondary metabolites. General principles and selected studies of phenolic compounds, terpenes, alkaloids, and other interesting natural products. Course Information: Same as <a href="/search/?P=CHEM%20456" title="CHEM 456" class="bubblelink code" onclick="return showCourse(this, 'CHEM 456');">CHEM 456</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): One year of organic chemistry.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 420.  Genomics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Theoretical background in genomics with practical experience in best practices for designing and performing large scale Next Generation Sequencing (NGS)-based experiments, with computational analysis of data in big data context. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=BIOS%20220" title="BIOS 220" class="bubblelink code" onclick="return showCourse(this, 'BIOS 220');">BIOS 220</a> and <a href="/search/?P=BIOS%20230" title="BIOS 230" class="bubblelink code" onclick="return showCourse(this, 'BIOS 230');">BIOS 230</a>; and <a href="/search/?P=STAT%20101" title="STAT 101" class="bubblelink code" onclick="return showCourse(this, 'STAT 101');">STAT 101</a> or <a href="/search/?P=STAT%20130" title="STAT 130" class="bubblelink code" onclick="return showCourse(this, 'STAT 130');">STAT 130</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 427.  Ecosystem Ecology.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Flow of energy and matter between the environment and biological organisms including bioological interactions that govern the cycling of water, carbon and nutrients at various spatial and temporal scales. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=BIOS%20230" title="BIOS 230" class="bubblelink code" onclick="return showCourse(this, 'BIOS 230');">BIOS 230</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 430.  Evolution.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Theories of evolution and heredity, major patterns and trends in evolution, speciation, biodiversity, and evolutionary medicine, with an introduction to data science, modeling, and simulations. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=BIOS%20220" title="BIOS 220" class="bubblelink code" onclick="return showCourse(this, 'BIOS 220');">BIOS 220</a> or <a href="/search/?P=BIOS%20230" title="BIOS 230" class="bubblelink code" onclick="return showCourse(this, 'BIOS 230');">BIOS 230</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 431.  Plant and Animal Interactions.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Ecology of plant and animal interactions. In-depth reading and discussion of primary literature on herbivory and plant defense and pollination, seed dispersal and protection mutualisms. Course Information: Prerequisite(s): <a href="/search/?P=BIOS%20230" title="BIOS 230" class="bubblelink code" onclick="return showCourse(this, 'BIOS 230');">BIOS 230</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 435.  Plant Evolution.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines the history of plant life in a rigorous survey of plant genetics, factors that influence diversity of form and function, the astonishing diversity of plant sexual systems, and conservation. Course Information: Prerequisite(s): <a href="/search/?P=BIOS%20230" title="BIOS 230" class="bubblelink code" onclick="return showCourse(this, 'BIOS 230');">BIOS 230</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 437.  Topics in Tropical Ecology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the character of tropical ecosystems. In-depth reading and discussion of one or more current topics. Course Information: Prerequisite(s): <a href="/search/?P=BIOS%20230" title="BIOS 230" class="bubblelink code" onclick="return showCourse(this, 'BIOS 230');">BIOS 230</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 443.  Animal Physiological Systems Laboratory.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Discussion and laboratory exploration of mammalian physiological systems, including immune, endocrine, cardiac, vascular, nervous, pulmonary, renal, and digestive systems. Course Information: Animals used in instruction. Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=BIOS%20343" title="BIOS 343" class="bubblelink code" onclick="return showCourse(this, 'BIOS 343');">BIOS 343</a>; or Credit or concurrent registration in <a href="/search/?P=BIOS%20340" title="BIOS 340" class="bubblelink code" onclick="return showCourse(this, 'BIOS 340');">BIOS 340</a>; or consent of the instructor. Class Schedule Information: To be properly registered, students must enroll in one Lecture, one Laboratory, and one Lecture-Discussion.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 450.  Advanced Microbiology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Comprehensive analysis of metabolic, ecological, genomic, and functional diversity among the major groups of microorganisms. Relationship between microbial diversity and biogeochemistry in the environment, human/animal hosts, and engineered systems. Course Information: Prerequisite(s): <a href="/search/?P=BIOS%20350" title="BIOS 350" class="bubblelink code" onclick="return showCourse(this, 'BIOS 350');">BIOS 350</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 452.  Biochemistry I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Chemistry of proteins, nucleic acids, carbohydrates and lipids. Course Information: Same as <a href="/search/?P=CHEM%20452" title="CHEM 452" class="bubblelink code" onclick="return showCourse(this, 'CHEM 452');">CHEM 452</a>. Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=CHEM%20234" title="CHEM 234" class="bubblelink code" onclick="return showCourse(this, 'CHEM 234');">CHEM 234</a>. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 454.  Biochemistry II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Continues Biological Sciences 452. Carbohydrate and lipid metabolism, electron transport. Metabolism of amino acids, nucleic acids, proteins. Biosynthesis of macromolecules and regulation of macromolecular synthesis. Course Information: Same as <a href="/search/?P=CHEM%20454" title="CHEM 454" class="bubblelink code" onclick="return showCourse(this, 'CHEM 454');">CHEM 454</a>. Prerequisite(s): <a href="/search/?P=BIOS%20452" title="BIOS 452" class="bubblelink code" onclick="return showCourse(this, 'BIOS 452');">BIOS 452</a> or <a href="/search/?P=CHEM%20452" title="CHEM 452" class="bubblelink code" onclick="return showCourse(this, 'CHEM 452');">CHEM 452</a>. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 458.  Biotechnology and Drug Discovery.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Molecular and gene therapy, using small molecules including antisense, aptamers, and proteins.  Structure-based drug design. Structural bioinformatics and drug discovery program. High-throughput screening. Combinatorial chemistry technology. Course Information: Same as <a href="/search/?P=CHEM%20458" title="CHEM 458" class="bubblelink code" onclick="return showCourse(this, 'CHEM 458');">CHEM 458</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=BIOS%20352" title="BIOS 352" class="bubblelink code" onclick="return showCourse(this, 'BIOS 352');">BIOS 352</a> or <a href="/search/?P=CHEM%20352" title="CHEM 352" class="bubblelink code" onclick="return showCourse(this, 'CHEM 352');">CHEM 352</a>; or Credit or concurrent registration in <a href="/search/?P=BIOS%20452" title="BIOS 452" class="bubblelink code" onclick="return showCourse(this, 'BIOS 452');">BIOS 452</a> or Credit or concurrent registration in <a href="/search/?P=CHEM%20452" title="CHEM 452" class="bubblelink code" onclick="return showCourse(this, 'CHEM 452');">CHEM 452</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 466.  Principles of Paleontology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Theory and methods of evolutionary paleobiology; includes paleoecology, functional morphology, and major features of organic evolution. Course Information: Same as <a href="/search/?P=EAES%20466" title="EAES 466" class="bubblelink code" onclick="return showCourse(this, 'EAES 466');">EAES 466</a>. Prerequisite(s): <a href="/search/?P=EAES%20360" title="EAES 360" class="bubblelink code" onclick="return showCourse(this, 'EAES 360');">EAES 360</a> or consent of the instructor. Class Schedule Information: To be properly registered, students must enroll in one Laboratory-Discussion and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 473.  Soils and the Environment.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Soil science, emphasizing local soils and parent materials, soil classification and mapping, soil physics, soil gases and greenhouse gas emissions, soil chemistry and biogeochemistry, soil-plant interactions, and soil invertebrates. Course Information: Same as <a href="/search/?P=EAES%20473" title="EAES 473" class="bubblelink code" onclick="return showCourse(this, 'EAES 473');">EAES 473</a>. Field work required. Recommended background: Introductory courses in Chemistry and Biology are recommended. Coursework in EAES (such as <a href="/search/?P=EAES%20101" title="EAES 101" class="bubblelink code" onclick="return showCourse(this, 'EAES 101');">EAES 101</a> and/or 111) is preferred.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 475.  Neural Engineering I: Introduction to Hybrid Neural Systems.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Modeling and design of functional neural interfaces for in vivo and in vitro applications, electrodes and molecular coatings, neural prostheses and biopotential control of robotics. Course Information: Same as <a href="/search/?P=BIOE%20475" title="BIOE 475" class="bubblelink code" onclick="return showCourse(this, 'BIOE 475');">BIOE 475</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=BIOE%20472" title="BIOE 472" class="bubblelink code" onclick="return showCourse(this, 'BIOE 472');">BIOE 472</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 480.  Introduction to Modern Biostatistics with R.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An in-depth intro to research design, data visualization, and modern univariate statistics, from basic linear model to generalized linear models and linear mixed-effects models. Course Information: Extensive computer use required. All work done in the open-source R statistical computing language. Prerequisite(s): <a href="/search/?P=BIOS%20230" title="BIOS 230" class="bubblelink code" onclick="return showCourse(this, 'BIOS 230');">BIOS 230</a>; and <a href="/search/?P=MATH%20170" title="MATH 170" class="bubblelink code" onclick="return showCourse(this, 'MATH 170');">MATH 170</a> or <a href="/search/?P=MATH%20180" title="MATH 180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH 180</a> or <a href="/search/?P=STAT%20130" title="STAT 130" class="bubblelink code" onclick="return showCourse(this, 'STAT 130');">STAT 130</a>.  Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Laboratory.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 482.  Molecular and Developmental Neurobiology Laboratory.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A hands-on laboratory course designed to explore the most recent neurotechniques and how they are being used to advance knowledge of the brain. Model organism use will be restricted to small invertebrates (C. elegans). Course Information: Prerequisite(s): <a href="/search/?P=BIOS%20286" title="BIOS 286" class="bubblelink code" onclick="return showCourse(this, 'BIOS 286');">BIOS 286</a>; or <a href="/search/?P=PSCH%20262" title="PSCH 262" class="bubblelink code" onclick="return showCourse(this, 'PSCH 262');">PSCH 262</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 483.  Neuroanatomy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Organization of the nervous system, with an emphasis on mammals. Course Information: Same as <a href="/search/?P=PSCH%20483" title="PSCH 483" class="bubblelink code" onclick="return showCourse(this, 'PSCH 483');">PSCH 483</a> and <a href="/search/?P=NEUS%20483" title="NEUS 483" class="bubblelink code" onclick="return showCourse(this, 'NEUS 483');">NEUS 483</a>. Animals used in instruction. Prerequisite(s): <a href="/search/?P=BIOS%20272" title="BIOS 272" class="bubblelink code" onclick="return showCourse(this, 'BIOS 272');">BIOS 272</a> or <a href="/search/?P=BIOS%20286" title="BIOS 286" class="bubblelink code" onclick="return showCourse(this, 'BIOS 286');">BIOS 286</a> or <a href="/search/?P=BIOS%20325" title="BIOS 325" class="bubblelink code" onclick="return showCourse(this, 'BIOS 325');">BIOS 325</a> or <a href="/search/?P=PSCH%20262" title="PSCH 262" class="bubblelink code" onclick="return showCourse(this, 'PSCH 262');">PSCH 262</a>; or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 484.  Neuroscience I.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Neuroscience as an integrative discipline. Neuroanatomy of vertebrates, neural development, cellular neurobiology, action potential mechanisms, synaptic transmission and neuropharmacology.  Course Information:  Same as <a href="/search/?P=PHIL%20484" title="PHIL 484" class="bubblelink code" onclick="return showCourse(this, 'PHIL 484');">PHIL 484</a> and <a href="/search/?P=PSCH%20484" title="PSCH 484" class="bubblelink code" onclick="return showCourse(this, 'PSCH 484');">PSCH 484</a>.  Prerequisite(s):  <a href="/search/?P=BIOS%20286" title="BIOS 286" class="bubblelink code" onclick="return showCourse(this, 'BIOS 286');">BIOS 286</a> or <a href="/search/?P=PSCH%20262" title="PSCH 262" class="bubblelink code" onclick="return showCourse(this, 'PSCH 262');">PSCH 262</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 485.  Neuroscience II.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Integrative neuroscience, including sensory and motor systems; learning, memory, and language; pathology of nervous systems; philosophical perspectives, and modeling. Course Information:  Same as <a href="/search/?P=PHIL%20485" title="PHIL 485" class="bubblelink code" onclick="return showCourse(this, 'PHIL 485');">PHIL 485</a> and <a href="/search/?P=PSCH%20485" title="PSCH 485" class="bubblelink code" onclick="return showCourse(this, 'PSCH 485');">PSCH 485</a>. Prerequisite(s): <a href="/search/?P=BIOS%20286" title="BIOS 286" class="bubblelink code" onclick="return showCourse(this, 'BIOS 286');">BIOS 286</a> or <a href="/search/?P=PSCH%20262" title="PSCH 262" class="bubblelink code" onclick="return showCourse(this, 'PSCH 262');">PSCH 262</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 486.  Animal Behavior and Neuroethology.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Neural and behavioral mechanisms of environmental information processing and interaction throughout the animal kingdom; emphasis on invertebrate and lower vertebrates. Laboratory emphasizing individual research projects with a final report, and occasional field trips required. Course Information: Animals used in instruction. Prerequisite(s): One advanced course in zoology and animal physiology. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 489.  Cellular Neurobiology Laboratory.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Recording from and analyzing the activity of nerve cells, neuronal networks, and other electrically excitable tissues. Course Information: Prerequisite(s): <a href="/search/?P=BIOS%20286" title="BIOS 286" class="bubblelink code" onclick="return showCourse(this, 'BIOS 286');">BIOS 286</a> or the equivalent.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BIOS 490.  Topics in Ecology and Evolution.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+In-depth analysis of advanced topics in ecology and evolution, involving reading primary literature, term paper, student presentations and critical discussion. Credit varies according to topic offered. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated. Students may register in more than one section per term. Prerequisite(s): <a href="/search/?P=BIOS%20230" title="BIOS 230" class="bubblelink code" onclick="return showCourse(this, 'BIOS 230');">BIOS 230</a>; or Graduate standing or consent of the instructor.<br/>
+</p>
+</div></div>
+			</div>
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="bios.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

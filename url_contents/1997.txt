@@ -1,0 +1,463 @@
+https://catalog.uic.edu/ucat/course-descriptions/jst/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Jewish Studies (JST) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a></li>
+		<li class="active isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a>
+		<ul class="nav leveltwo" id="/ucat/course-descriptions/">
+			<li><a href="/ucat/course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+			<li><a href="/ucat/course-descriptions/actg/">Accounting (ACTG)</a></li>
+			<li><a href="/ucat/course-descriptions/aast/">African American Studies (AAST)</a></li>
+			<li><a href="/ucat/course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+			<li><a href="/ucat/course-descriptions/anth/">Anthropology (ANTH)</a></li>
+			<li><a href="/ucat/course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+			<li><a href="/ucat/course-descriptions/arab/">Arabic (ARAB)</a></li>
+			<li><a href="/ucat/course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+			<li><a href="/ucat/course-descriptions/arch/">Architecture (ARCH)</a></li>
+			<li><a href="/ucat/course-descriptions/art/">Art (ART)</a></li>
+			<li><a href="/ucat/course-descriptions/ah/">Art History (AH)</a></li>
+			<li><a href="/ucat/course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+			<li><a href="/ucat/course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+			<li><a href="/ucat/course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+			<li><a href="/ucat/course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+			<li><a href="/ucat/course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+			<li><a href="/ucat/course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+			<li><a href="/ucat/course-descriptions/blst/">Black Studies (BLST)</a></li>
+			<li><a href="/ucat/course-descriptions/ba/">Business Administration (BA)</a></li>
+			<li><a href="/ucat/course-descriptions/cc/">Campus Courses (CC)</a></li>
+			<li><a href="/ucat/course-descriptions/cst/">Catholic Studies (CST)</a></li>
+			<li><a href="/ucat/course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+			<li><a href="/ucat/course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+			<li><a href="/ucat/course-descriptions/chem/">Chemistry (CHEM)</a></li>
+			<li><a href="/ucat/course-descriptions/chin/">Chinese (CHIN)</a></li>
+			<li><a href="/ucat/course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+			<li><a href="/ucat/course-descriptions/cl/">Classics (CL)</a></li>
+			<li><a href="/ucat/course-descriptions/comm/">Communication (COMM)</a></li>
+			<li><a href="/ucat/course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+			<li><a href="/ucat/course-descriptions/cs/">Computer Science (CS)</a></li>
+			<li><a href="/ucat/course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+			<li><a href="/ucat/course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+			<li><a href="/ucat/course-descriptions/des/">Design (DES)</a></li>
+			<li><a href="/ucat/course-descriptions/dlg/">Dialogue (DLG)</a></li>
+			<li><a href="/ucat/course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+			<li><a href="/ucat/course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+			<li><a href="/ucat/course-descriptions/econ/">Economics (ECON)</a></li>
+			<li><a href="/ucat/course-descriptions/ed/">Education (ED)</a></li>
+			<li><a href="/ucat/course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+			<li><a href="/ucat/course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+			<li><a href="/ucat/course-descriptions/ece/">Electrical and Computer Engr (ECE)</a></li>
+			<li><a href="/ucat/course-descriptions/engr/">Engineering (ENGR)</a></li>
+			<li><a href="/ucat/course-descriptions/engl/">English (ENGL)</a></li>
+			<li><a href="/ucat/course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+			<li><a href="/ucat/course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+			<li><a href="/ucat/course-descriptions/fin/">Finance (FIN)</a></li>
+			<li><a href="/ucat/course-descriptions/fr/">French (FR)</a></li>
+			<li><a href="/ucat/course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+			<li><a href="/ucat/course-descriptions/geog/">Geography (GEOG)</a></li>
+			<li><a href="/ucat/course-descriptions/ger/">Germanic Studies (GER)</a></li>
+			<li><a href="/ucat/course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+			<li><a href="/ucat/course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+			<li><a href="/ucat/course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+			<li><a href="/ucat/course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+			<li><a href="/ucat/course-descriptions/him/">Health Information Management (HIM)</a></li>
+			<li><a href="/ucat/course-descriptions/heb/">Hebrew (HEB)</a></li>
+			<li><a href="/ucat/course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+			<li><a href="/ucat/course-descriptions/hist/">History (HIST)</a></li>
+			<li><a href="/ucat/course-descriptions/hon/">Honors College Courses (HON)</a></li>
+			<li><a href="/ucat/course-descriptions/hn/">Human Nutrition (HN)</a></li>
+			<li><a href="/ucat/course-descriptions/hum/">Humanities (HUM)</a></li>
+			<li><a href="/ucat/course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+			<li><a href="/ucat/course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+			<li><a href="/ucat/course-descriptions/it/">Information Technology (IT)</a></li>
+			<li><a href="/ucat/course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+			<li><a href="/ucat/course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+			<li><a href="/ucat/course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+			<li><a href="/ucat/course-descriptions/inst/">International Studies (INST)</a></li>
+			<li><a href="/ucat/course-descriptions/ital/">Italian (ITAL)</a></li>
+			<li><a href="/ucat/course-descriptions/jpn/">Japanese (JPN)</a></li>
+			<li class="active self"><a href="#" onclick="return false;">Jewish Studies (JST)</a></li>
+			<li><a href="/ucat/course-descriptions/kn/">Kinesiology (KN)</a></li>
+			<li><a href="/ucat/course-descriptions/kor/">Korean (KOR)</a></li>
+			<li><a href="/ucat/course-descriptions/lat/">Latin (LAT)</a></li>
+			<li><a href="/ucat/course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+			<li><a href="/ucat/course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+			<li><a href="/ucat/course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+			<li><a href="/ucat/course-descriptions/ling/">Linguistics (LING)</a></li>
+			<li><a href="/ucat/course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+			<li><a href="/ucat/course-descriptions/lith/">Lithuanian (LITH)</a></li>
+			<li><a href="/ucat/course-descriptions/mgmt/">Management (MGMT)</a></li>
+			<li><a href="/ucat/course-descriptions/mktg/">Marketing (MKTG)</a></li>
+			<li><a href="/ucat/course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+			<li><a href="/ucat/course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+			<li><a href="/ucat/course-descriptions/math/">Mathematics (MATH)</a></li>
+			<li><a href="/ucat/course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+			<li><a href="/ucat/course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+			<li><a href="/ucat/course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+			<li><a href="/ucat/course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+			<li><a href="/ucat/course-descriptions/mils/">Military Science (MILS)</a></li>
+			<li><a href="/ucat/course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+			<li><a href="/ucat/course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+			<li><a href="/ucat/course-descriptions/mus/">Music (MUS)</a></li>
+			<li><a href="/ucat/course-descriptions/nast/">Native American Studies (NAST)</a></li>
+			<li><a href="/ucat/course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+			<li><a href="/ucat/course-descriptions/ns/">Naval Science (NS)</a></li>
+			<li><a href="/ucat/course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+			<li><a href="/ucat/course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+			<li><a href="/ucat/course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+			<li><a href="/ucat/course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+			<li><a href="/ucat/course-descriptions/path/">Pathology (PATH)</a></li>
+			<li><a href="/ucat/course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+			<li><a href="/ucat/course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+			<li><a href="/ucat/course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+			<li><a href="/ucat/course-descriptions/psop/">Pharmacy Systems, Outcomes &amp;&#8203; Policy (PSOP)</a></li>
+			<li><a href="/ucat/course-descriptions/phil/">Philosophy (PHIL)</a></li>
+			<li><a href="/ucat/course-descriptions/pt/">Physical Therapy (PT)</a></li>
+			<li><a href="/ucat/course-descriptions/phys/">Physics (PHYS)</a></li>
+			<li><a href="/ucat/course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+			<li><a href="/ucat/course-descriptions/pol/">Polish (POL)</a></li>
+			<li><a href="/ucat/course-descriptions/pols/">Political Science (POLS)</a></li>
+			<li><a href="/ucat/course-descriptions/port/">Portuguese (PORT)</a></li>
+			<li><a href="/ucat/course-descriptions/psch/">Psychology (PSCH)</a></li>
+			<li><a href="/ucat/course-descriptions/pa/">Public Administration (PA)</a></li>
+			<li><a href="/ucat/course-descriptions/pubh/">Public Health (PUBH)</a></li>
+			<li><a href="/ucat/course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+			<li><a href="/ucat/course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+			<li><a href="/ucat/course-descriptions/rels/">Religious Studies (RELS)</a></li>
+			<li><a href="/ucat/course-descriptions/russ/">Russian (RUSS)</a></li>
+			<li><a href="/ucat/course-descriptions/slav/">Slavic &amp;&#8203; Baltic Languages &amp;&#8203;Lit (SLAV)</a></li>
+			<li><a href="/ucat/course-descriptions/sj/">Social Justice (SJ)</a></li>
+			<li><a href="/ucat/course-descriptions/soc/">Sociology (SOC)</a></li>
+			<li><a href="/ucat/course-descriptions/span/">Spanish (SPAN)</a></li>
+			<li><a href="/ucat/course-descriptions/sped/">Special Education (SPED)</a></li>
+			<li><a href="/ucat/course-descriptions/stat/">Statistics (STAT)</a></li>
+			<li><a href="/ucat/course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+			<li><a href="/ucat/course-descriptions/thtr/">Theatre (THTR)</a></li>
+			<li><a href="/ucat/course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+			<li><a href="/ucat/course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+			<li><a href="/ucat/course-descriptions/us/">Urban Studies (US)</a></li>
+		</ul>
+		</li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/course-descriptions/">Undergraduate&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Jewish Studies (JST)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Jewish Studies (JST)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="jstcourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>JST&#160;101.  Introduction to Judaism.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the Jewish religion as it has developed from its roots in the Hebrew Bible until today, emphasizing its central texts and concepts. Same as <a href="/search/?P=RELS%20121" title="RELS&#160;121" class="bubblelink code" onclick="return showCourse(this, 'RELS 121');">RELS&#160;121</a>.<i>  Individual and Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>JST&#160;102.  Introduction to Jewish History.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Overview of Jewish history from Biblical times until the present. Topics will range from second Temple Judea and the beginning of the diaspora through 21st-century Jewish life in America and Israel. Course Information: Same as <a href="/search/?P=RELS%20126" title="RELS&#160;126" class="bubblelink code" onclick="return showCourse(this, 'RELS 126');">RELS&#160;126</a>.<i>  Individual and Society course, and  Past course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>JST&#160;103.  Introduction to Israel Studies.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to major themes, issues, writers and contexts of the founding, establishment, and conflicts of the modern state of Israel.<i>  Past course, and  World Cultures course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>JST&#160;116.  Jewish American Literature of the 20th Century.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to ways of analyzing literature within the specific thematic and cultural lens of Judaism, focusing on major works of literature in a variety of genres throughout the twentieth century.  Course Information:  Same as <a href="/search/?P=ENGL%20116" title="ENGL&#160;116" class="bubblelink code" onclick="return showCourse(this, 'ENGL 116');">ENGL&#160;116</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>JST&#160;117.  Understanding the Holocaust.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines the Holocaust of European Jewry as the result of antisemitic ideology and the development of modern German political forces; implementation of the Final Solution. Course Information: Same as <a href="/search/?P=HIST%20117" title="HIST&#160;117" class="bubblelink code" onclick="return showCourse(this, 'HIST 117');">HIST&#160;117</a> and <a href="/search/?P=RELS%20117" title="RELS&#160;117" class="bubblelink code" onclick="return showCourse(this, 'RELS 117');">RELS&#160;117</a>.<i>  Individual and Society course, and  Past course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>JST&#160;122.  Minority Perspectives in the Germanic Context.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Investigation of the challenges and/or opportunities of multicultural societies by examining in a socio-historical context texts created by members of Europe's ethnic, religious, and national minorities. Course Information: Same as <a href="/search/?P=GER%20122" title="GER&#160;122" class="bubblelink code" onclick="return showCourse(this, 'GER 122');">GER&#160;122</a> and <a href="/search/?P=RELS%20122" title="RELS&#160;122" class="bubblelink code" onclick="return showCourse(this, 'RELS 122');">RELS&#160;122</a>. No credit toward a major or minor program offered by the Department of Germanic Studies. Lectures, discussion, and readings in English.<i>  Creative Arts course, and  World Cultures course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>JST&#160;123.  Introduction to Yiddish Culture and Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Yiddish culture in Europe and the U.S. in socio-historical context. Focus on the role of Yiddish in conceptions of secular, cultural, religious, national Jewish identities. Course Information: Same as <a href="/search/?P=GER%20123" title="GER&#160;123" class="bubblelink code" onclick="return showCourse(this, 'GER 123');">GER&#160;123</a> and <a href="/search/?P=RELS%20123" title="RELS&#160;123" class="bubblelink code" onclick="return showCourse(this, 'RELS 123');">RELS&#160;123</a>. No credit toward a major or minor program offered by the Department of Germanic Studies. Lectures, discussion, and readings in English.<i>  Creative Arts course, and  World Cultures course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>JST&#160;124.  Introduction to the Hebrew Bible.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A study of the Five Books of Moses (a.k.a Torah or Pentateuch) within the contexts of the ancient Near East and biblical literature.  Course Information:  Same as <a href="/search/?P=CL%20124" title="CL&#160;124" class="bubblelink code" onclick="return showCourse(this, 'CL 124');">CL&#160;124</a> and <a href="/search/?P=RELS%20124" title="RELS&#160;124" class="bubblelink code" onclick="return showCourse(this, 'RELS 124');">RELS&#160;124</a>.  Taught in English.<i>  Past course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>JST&#160;125.  Diaspora, Exile, Genocide: Aspects of the European Jewish Experience in Literature and Film. 3 hours.</strong></p>
+<p class="courseblockdesc">
+Literature and films on European Jewish responses to anti-Semitism and persecution in a historical context to reveal the condition of post-Enlightenment German-speaking Jewish and Yiddish-speaking societies. Course Information: Same as <a href="/search/?P=GER%20125" title="GER&#160;125" class="bubblelink code" onclick="return showCourse(this, 'GER 125');">GER&#160;125</a> and <a href="/search/?P=RELS%20127" title="RELS&#160;127" class="bubblelink code" onclick="return showCourse(this, 'RELS 127');">RELS&#160;127</a>. No credit toward a major or minor program offered by the Department of Germanic Studies. Taught in English.<i>  Past course, and  World Cultures course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>JST&#160;203.  Israel Film: Aspects of History, Life, and Culture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Exploration of major themes related to life in Israel via its national cinema. Historical, social, and cultural aspects of Israeli society are examined through film.<i>  World Cultures course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>JST&#160;220.  Modern Polish-Jewish Culture and Literatures.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Polish-Jewish literature and non-fiction works in English translation from Polish, Yiddish and Hebrew are studied as expressions of a distinct Ashkenazi or East European Jewish culture that developed on historically Polish lands. Course Information: Same as <a href="/search/?P=POL%20220" title="POL&#160;220" class="bubblelink code" onclick="return showCourse(this, 'POL 220');">POL&#160;220</a> and <a href="/search/?P=CEES%20220" title="CEES&#160;220" class="bubblelink code" onclick="return showCourse(this, 'CEES 220');">CEES&#160;220</a>. Prerequisite(s): <a href="/search/?P=ENGL%20160" title="ENGL&#160;160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL&#160;160</a> or <a href="/search/?P=ENGL%20161" title="ENGL&#160;161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL&#160;161</a>.<i>  Creative Arts course, and  World Cultures course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>JST&#160;225.  Topics in Muslim-Jewish Relations.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Muslim-Jewish interactions from the rise of Islam until contemporary times, the relationship between Biblical and Quranic materials, the Jewish and Islamic interpretive tradition and the legal systems of the two religious traditions.  Course Information:  Same as <a href="/search/?P=CL%20225" title="CL&#160;225" class="bubblelink code" onclick="return showCourse(this, 'CL 225');">CL&#160;225</a> and <a href="/search/?P=RELS%20225" title="RELS&#160;225" class="bubblelink code" onclick="return showCourse(this, 'RELS 225');">RELS&#160;225</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>JST&#160;230.  Topics in Jewish Thought.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of major topics in Jewish theology, philosophy, ethics and political thought. Course Information: Same as <a href="/search/?P=RELS%20231" title="RELS&#160;231" class="bubblelink code" onclick="return showCourse(this, 'RELS 231');">RELS&#160;231</a>. May be repeated if topics vary. Recommended Background: <a href="/search/?P=JST%20101" title="JST&#160;101" class="bubblelink code" onclick="return showCourse(this, 'JST 101');">JST&#160;101</a> or the equivalent.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>JST&#160;240.  Philosophy and Revelation: Jewish and Christian Perspectives.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to philosophical ways of addressing the claim that a book (the Bible, the Quran) comes from God.  Texts by Immanuel Kant, Moses Mendelssohn, and Soren Kierkegaard, among others.  Course Information:  Previously listed as JST 141. Same as <a href="/search/?P=RELS%20240" title="RELS&#160;240" class="bubblelink code" onclick="return showCourse(this, 'RELS 240');">RELS&#160;240</a> and <a href="/search/?P=PHIL%20240" title="PHIL&#160;240" class="bubblelink code" onclick="return showCourse(this, 'PHIL 240');">PHIL&#160;240</a>.  Prerequisite(s): Two courses in philosophy or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<i>  Individual and Society course, and  World Cultures course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>JST&#160;242.  The History of Jewish Biblical Interpretation.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Jewish interpretation of the Hebrew bible. A survey of the span of Jewish history and the wide range of cultural contexts that have impacted the understanding of the Torah.  Course Information:  Same as <a href="/search/?P=CL%20242" title="CL&#160;242" class="bubblelink code" onclick="return showCourse(this, 'CL 242');">CL&#160;242</a> and <a href="/search/?P=RELS%20242" title="RELS&#160;242" class="bubblelink code" onclick="return showCourse(this, 'RELS 242');">RELS&#160;242</a>.<i>  Past course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>JST&#160;243.  Politics and Government of the Middle East.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Contemporary Middle East political institutions, culture, processes, and conflicts. Emphasis on interaction of traditional and modern forces, such as Islam, nationalism, political elites, ideologies, states. Course Information: Same as <a href="/search/?P=POLS%20243" title="POLS&#160;243" class="bubblelink code" onclick="return showCourse(this, 'POLS 243');">POLS&#160;243</a>. Prerequisite(s): <a href="/search/?P=POLS%20130" title="POLS&#160;130" class="bubblelink code" onclick="return showCourse(this, 'POLS 130');">POLS&#160;130</a> or <a href="/search/?P=POLS%20190" title="POLS&#160;190" class="bubblelink code" onclick="return showCourse(this, 'POLS 190');">POLS&#160;190</a>; or consent of the instructor.<i>  World Cultures course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>JST&#160;296.  Topics in Jewish Studies.  3 hours.</strong></p>
+<p class="courseblockdesc">
+How Jews became a modern ethnic group, how their experiences compare with other ethnic groups, and how their experiences in modern times vary from nation to nation. Course Information: Same as <a href="/search/?P=RELS%20296" title="RELS&#160;296" class="bubblelink code" onclick="return showCourse(this, 'RELS 296');">RELS&#160;296</a>. May be repeated to a maximum of 6 hours. Previously listed as JST 294.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>JST&#160;311.  Gender and Sexuality in Early Christianity and Judaism.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of the root of contemporary perspectives on gender and sexuality in the early traditions of Judaism and Christianity including the Bible, the Epic of Gilgamesh, the Church Fathers, the Talmud, and legends of the saints.  Course Information:  Same as <a href="/search/?P=GWS%20311" title="GWS&#160;311" class="bubblelink code" onclick="return showCourse(this, 'GWS 311');">GWS&#160;311</a> and <a href="/search/?P=RELS%20311" title="RELS&#160;311" class="bubblelink code" onclick="return showCourse(this, 'RELS 311');">RELS&#160;311</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>JST&#160;394.  Topics in Jewish Studies.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in Jewish culture and history. Course Information: Same as <a href="/search/?P=RELS%20395" title="RELS&#160;395" class="bubblelink code" onclick="return showCourse(this, 'RELS 395');">RELS&#160;395</a>. May be repeated to a maximum of 9 hours. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>JST&#160;410.  Advanced Studies in Jewish Literature, Art and Culture.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in Jewish literature and/or arts, in one or more places and time periods. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s) if topics vary. Prerequisite(s): One course in Jewish Studies. Recommended background: <a href="/search/?P=JST%20102" title="JST&#160;102" class="bubblelink code" onclick="return showCourse(this, 'JST 102');">JST&#160;102</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>JST&#160;420.  Advanced Studies in Jewish Religion.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+In-depth study of a period or mode of Jewish religious development or textual production, or an examination of a religious tenet or practice across various historical periods. Topics will vary.Course Information: Same as <a href="/search/?P=RELS%20420" title="RELS&#160;420" class="bubblelink code" onclick="return showCourse(this, 'RELS 420');">RELS&#160;420</a>. 3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s) if topics vary. Prerequisite(s): <a href="/search/?P=JST%20101" title="JST&#160;101" class="bubblelink code" onclick="return showCourse(this, 'JST 101');">JST&#160;101</a>; and <a href="/search/?P=JST%20230" title="JST&#160;230" class="bubblelink code" onclick="return showCourse(this, 'JST 230');">JST&#160;230</a> or <a href="/search/?P=JST%20242" title="JST&#160;242" class="bubblelink code" onclick="return showCourse(this, 'JST 242');">JST&#160;242</a> or JST 254.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>JST&#160;430.  Advanced Studies in Jewish Thought.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced topics in Jewish theology, philosophy, ethics or political thought. Course Information: Same as <a href="/search/?P=RELS%20430" title="RELS&#160;430" class="bubblelink code" onclick="return showCourse(this, 'RELS 430');">RELS&#160;430</a>. 3 undergraduate hours. 4 graduate hours. May be repeated if topics vary. Prerequisite(s): One 100-level and one 200-level course in Jewish Studies.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>JST&#160;478.  The Bible as Literature: Hebrew Bible.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Literary analysis of genres and themes of the Hebrew Bible and close reading of the biblical texts. Sources of the Bible and their historical context. Course Information: Same as <a href="/search/?P=ENGL%20478" title="ENGL&#160;478" class="bubblelink code" onclick="return showCourse(this, 'ENGL 478');">ENGL&#160;478</a>, and <a href="/search/?P=RELS%20478" title="RELS&#160;478" class="bubblelink code" onclick="return showCourse(this, 'RELS 478');">RELS&#160;478</a>. 3 undergraduate hours. 4 graduate hours. Taught in English. Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL&#160;240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL&#160;240</a>; and Grade of C or better in ENGL 241or Grade of C or better in <a href="/search/?P=ENGL%20242" title="ENGL&#160;242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL&#160;242</a> or Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL&#160;243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL&#160;243</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>JST&#160;494.  Topics in Jewish Studies.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in Jewish studies. Course Information: Same as <a href="/search/?P=RELS%20494" title="RELS&#160;494" class="bubblelink code" onclick="return showCourse(this, 'RELS 494');">RELS&#160;494</a>. 3 undergraduate hours. 4 graduate hours. May be repeated to a maximum of 6 hours if topics vary.  Prerequisite(s): <a href="/search/?P=JST%20101" title="JST&#160;101" class="bubblelink code" onclick="return showCourse(this, 'JST 101');">JST&#160;101</a> or <a href="/search/?P=JST%20102" title="JST&#160;102" class="bubblelink code" onclick="return showCourse(this, 'JST 102');">JST&#160;102</a> or consent of the instructor.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="jst.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,1094 @@
+https://catalog.uic.edu/ucat/colleges-depts/liberal-arts-sciences/engl/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Department of English &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/liberal-arts-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/">Anthropology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/">Biochemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/">Biological Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/">Black Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/">Chemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/">Classics and Mediterranean Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/">Communication</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/">Criminology, Law, and Justice</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/">Earth and Environmental Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/">Economics</a></li>
+				<li class="active isparent self"><a href="#" onclick="return false;">English</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/liberal-arts-sciences/engl/">
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/ba-engl/">BA with a Major in English</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/ba-teachengl/">BA in the Teaching of English</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/minor-engl/">Minor in English</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/minor-prof-writing/">Minor in Professional Writing</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/minor-teach-engl/">Minor in the Teaching of English</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French and Francophone Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/">Gender and Women's Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/">Germanic Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/">Global Asian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/">Hispanic and Italian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/">History</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/">Integrated Health Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/">International Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/">Liberal Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/">Linguistics</a></li>
+				<li><a href="/ucat/colleges-depts/liberal-arts-sciences/lcsl/">Literatures, Cultural Studies, and Linguistics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/">Mathematics, Statistics, and Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/">Moving Image Arts</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/">Neuroscience</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/">Philosophy</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/">Physics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/">Polish, Russian, and Lithuanian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/">Political Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/">Psychology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/">Religious Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/">Sociology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional Studies</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/">College&nbsp;of&nbsp;Liberal&nbsp;Arts&nbsp;and&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><span class="active">English</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Department of English</h1>
+
+
+<script type="text/javascript">
+//<![CDATA[
+	var defshow = "text";
+	var bodycontainer = "#body";
+	var validhashes = ",text,undergraduateprogramstext,coursestext,";
+
+if(window.location.hash.length) {
+	var hash = cleanHash(window.location.hash);
+	if(validhashes.indexOf("," + hash + ",") != -1)
+		defshow = hash;	
+}
+var ss = document.styleSheets;
+var workss = null;
+for(var i=0; i < ss.length; i++) {
+	var currmedia = "";
+	if (typeof ss[i].media == "string") 
+		currmedia = ss[i].media
+	else if (typeof ss[i].media == "object" && ss[i].media.mediaText) 
+		currmedia = ss[i].media.mediaText;
+	
+	if((currmedia == "screen" || currmedia == "all") && (ss[i].href.indexOf("/") == 0 || ss[i].href.indexOf(document.location.host) >= 0)) {
+		workss = ss[i];
+		break;	
+	}
+}
+if(workss && workss.insertRule) {
+	workss.insertRule(".tab_content { display: none; }", workss.cssRules.length)
+	workss.insertRule(".sectionheader { display: none; }", workss.cssRules.length)
+	workss.insertRule("#" + defshow + "container { display: block; }", workss.cssRules.length)
+} else if(workss && workss.addRule) {
+	workss.addRule(".tab_content", "display: none");
+	workss.addRule(".sectionheader", "display: none");
+	workss.addRule("#" + defshow + "container", "display: block");
+}
+else {
+	if (window.console)
+		window.console.log('screen.css <link> needs attribute media="screen"');
+}
+//]]>
+</script>
+	<div id="tabs">
+		<ul class="clearfix" role="tablist">
+			<li id="texttab" role="presentation">
+<a href="#textcontainer" role="tab" aria-controls="textcontainer" onclick="return showSection('text');">Overview</a></li>
+			<li id="undergraduateprogramstexttab" role="presentation">
+<a href="#undergraduateprogramstextcontainer" role="tab" aria-controls="undergraduateprogramstextcontainer" onclick="return showSection('undergraduateprogramstext');" >Programs and Requirements</a></li>
+			<li id="coursestexttab" role="presentation">
+<a href="#coursestextcontainer" role="tab" aria-controls="coursestextcontainer" onclick="return showSection('coursestext');" >Courses</a></li>
+		</ul>
+	</div>
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p class="campus_location"><span class="label"><strong>Contact Information: </strong></span><br/>
+<span class="campus_location">Campus Location: 2027 University Hall (UH) <br/>
+<span class="phone">(312) 413–2200</span> <br/>
+<span class="website"><a href="http://engl.uic.edu/">engl.uic.edu</a></span></span></p>
+<p class="administration"><span class="label"><strong>Administration: </strong></span><br/>
+Head, Lisa A. Freeman<br/>
+Director of Undergraduate Studies, Natasha B. Barnes, <a href="mailto:nbbarnes@uic.edu">nbbarnes@uic.edu</a></p>
+<p>The Department of English offers a Major in English and Minor in English, Minor in Professional Writing, and a Major in Teacher Education and Minor in Teacher Education.</p>
+<p>The field of English focuses on the study and practice of various forms of writing in English. It includes:</p>
+<ol>
+	<li>the study of written works in English—whether by writers from the United States, Britain, former colonies, the Commonwealth nations, or elsewhere—whose aesthetic achievement and cultural significance qualifies them as literature;</li>
+	<li>the study of literary criticism and theory, of the relationship between literature and popular culture, and of allied narrative forms such as film, performance, electronic communications, and other new media;</li>
+	<li>the study of the English language, its historical development, and its rhetorical dimensions;</li>
+	<li>the theory and practice of writing, whether of poetry, fiction, nonfiction prose, or other expository forms;</li>
+	<li>the theory and practice of teaching English language and literature, particularly at the secondary level.</li>
+</ol>
+<p>Students who major in English develop broad reading and writing skills that make possible both an analytical engagement with, and a critical understanding of, diverse fields of cultural and aesthetic production. The English major offers excellent preparation for careers in writing, editing, publishing, teaching, government, law, and advertising.</p>
+<h2>Writing Internship Program</h2>
+<p>The English department offers writing internships in fields such as journalism, public relations, advertising, publishing, corporate communications, technical writing, information technology, and broadcasting. Students benefit by acquiring hands-on experience and professional writing samples for use in job applications.</p>
+<p>To qualify, students must be enrolled full time at UIC, have taken <span class="sc_courseinline"><a href="/search/?P=ENGL%20202" title="ENGL 202" class="bubblelink code" onclick="return showCourse(this, 'ENGL 202');">ENGL 202</a></span> and <span class="sc_courseinline"><a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a></span>, and be in good academic standing. Students who wish to receive credit for their writing internship must be admitted to and enroll in <span class="sc_courseinline"><a href="/search/?P=ENGL%20493" title="ENGL 493" class="bubblelink code" onclick="return showCourse(this, 'ENGL 493');">ENGL 493</a></span>.</p>
+
+<h2>Distinction</h2>
+<ul>
+	<li><strong>Departmental Distinction.</strong> To be eligible for Departmental Distinction, a candidate must have:</li>
+</ul>
+<ol style="margin-left:80px">
+	<li>attended UIC for three semesters,</li>
+	<li>a cumulative GPA of 3.00/4.00,</li>
+	<li>completed a minimum of 21 hours at UIC in courses required for the major, and</li>
+	<li>a GPA of 3.50/4.00 in courses required for the major.</li>
+</ol>
+<ul>
+	<li><strong>High Distinction.</strong> To be eligible for High Distinction, a candidate must complete all requirements for Departmental Distinction with a GPA of 3.75/4.00 in courses required for the major.</li>
+	<li><strong>Highest Distinction.</strong> To be eligible for Highest Distinction, a candidate must meet all requirements for High Distinction and complete <span class="sc_courseinline"><a href="/search/?P=ENGL%20398" title="ENGL 398" class="bubblelink code" onclick="return showCourse(this, 'ENGL 398');">ENGL 398</a></span> with a grade of A.</li>
+
+</ul>
+</div><!--end #textcontainer -->
+
+			<div id="undergraduateprogramstextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="undergraduateprogramstexttab" aria-hidden="true">
+				<a name="undergraduateprogramstext"></a><h2>Degree Programs</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/ba-engl/">BA with a Major in English</a></li>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/ba-teachengl/">BA in the Teaching of English</a></li>
+</ul>
+<h2>Minors</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/minor-engl/">Minor in English</a></li>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/minor-prof-writing/">Minor in Professional Writing</a></li>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/minor-teach-engl/">Minor in the Teaching of English</a></li>
+</ul>
+			</div>
+			<div id="coursestextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="coursestexttab" aria-hidden="true">
+				<a name="coursestext"></a><div class="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 060.  English as a Second Language Composition II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Basic writing for ESL students. Focus on multi-paragraph essays. Course Information: Satisfactory/Unsatisfactory grading only. No graduation credit. Previously listed as ESL 060. Prerequisite(s): Open only to freshmen and sophomores. Placement by English Placement Exam administered by the University Testing Service.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 070.  Introduction to Academic Writing for the Nonnative Speakers of English.  3 hours.</strong></p>
+<p class="courseblockdesc">
+This preparatory class for nonnative speakers for English emphasizes the second-language challenges for writing presented by syntax (structure), semantics (meaning), and pragmatics (use). Course Information: Satisfactory/Unsatisfactory grading only. May be repeated up to 1 time(s). No graduation credit. Previously listed as ENGL 150. Based on final course assessment, the English Department may recommend a waiver of <a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a>. Students who receive this waiver earn three hours of proficiency credit for <a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a> and placement into <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>. Prerequisite(s): <a href="/search/?P=ENGL%20060" title="ENGL 060" class="bubblelink code" onclick="return showCourse(this, 'ENGL 060');">ENGL 060</a> or eligibility as determined by performance on the Department placement test.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 071.  Introduction to Academic Writing.  3 hours.</strong></p>
+<p class="courseblockdesc">
+This preparatory course emphasizes academic reading and writing with a focus on argument, sentence-level grammar and rhetorical effectiveness. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated up to 1 time(s). No graduation credit. Previously listed as ENGL 152. Based on final course assessment, the English Department may recommend a waiver of <a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a>. Students who receive this waiver earn three hours of proficiency credit for <a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a> and placement into <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>. Prerequisite(s): Eligibility determined by performance on the Department placement test.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 101.  Understanding Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Reading and analysis of texts from a variety of literary forms and periods. Special attention to methods for determining literary meaning.  Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture-Discussion.<i>  Creative Arts course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 102.  Introduction to Film.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Representative selections from a variety of periods and forms. Development of analytical skills in the reading of film.  Course Information:  Same as <a href="/search/?P=MOVI%20102" title="MOVI 102" class="bubblelink code" onclick="return showCourse(this, 'MOVI 102');">MOVI 102</a>.<i>  Creative Arts course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 103.  English and American Poetry.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Reading and analysis of a representative selection from a variety of periods and forms in poetry.  Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture-Discussion.<i>  Creative Arts course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 104.  English and American Drama.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Reading and analysis of representative selections from a variety of periods and forms in drama.<i>  Creative Arts course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 105.  English and American Fiction.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Reading and analysis of representative selections from a variety of periods and forms in fiction.  Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture-Discussion.<i>  Creative Arts course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 107.  Introduction to Shakespeare.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introductory survey of Shakespeare's major plays and poems. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<i>  Creative Arts course, and  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 108.  British Literature and British Culture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of novels, plays and poems from 1800 to the present that reflect key developments and events in British history and culture.<i>  Creative Arts course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 109.  American Literature and American Culture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of American novels, plays and poems from the colonial period to the present that reflect key developments and events in American history and culture. Course Information: May not be repeated for credit.  Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<i>  Creative Arts course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 110.  English and American Popular Genres.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the textual analysis of pulp literature, film, television, and other popular discourses.<i>  Creative Arts course, and  Individual and Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 111.  Women and Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to reading English and American literature with a focus on gender, genre and women's roles. Course Information: Same as <a href="/search/?P=GWS%20111" title="GWS 111" class="bubblelink code" onclick="return showCourse(this, 'GWS 111');">GWS 111</a>.<i>  Creative Arts course, and  Individual and Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 112.  Introduction to Native American Literatures.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to the oral and written literatures of American Indians. Course Information: Same as <a href="/search/?P=NAST%20112" title="NAST 112" class="bubblelink code" onclick="return showCourse(this, 'NAST 112');">NAST 112</a>.<i>  Creative Arts course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 113.  Introduction to Multiethnic Literatures in the United States.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to the literature of racial and ethnic groups in the United States, including ways in which this literature reflects conflicts between these groups and the dominant American culture.<i>  Creative Arts course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 114.  Introduction to Colonial and Postcolonial Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to the literature in English most directly representative of the historical processes of colonialism and decolonization that have shaped the modern world.<i>  Creative Arts course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 115.  Understanding the Bible as Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A broad overview of various literary genres in the Bible such as origin narrative, historical narrative, poetry, wisdom literature, prophetic/apocalyptic literature, parable, and epistle. Course Information: Same as <a href="/search/?P=RELS%20115" title="RELS 115" class="bubblelink code" onclick="return showCourse(this, 'RELS 115');">RELS 115</a>.  Class Schedule Information:  To be properly registered, students must enroll in one Lecture and one Discussion/Recitation.<i>  Creative Arts course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 116.  Jewish American Literature of the 20th Century.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to ways of analyzing literature within the specific thematic and cultural lens of Judaism, focusing on major works of literature in a variety of genres throughout the twentieth century.  Course Information:  Same as <a href="/search/?P=JST%20116" title="JST 116" class="bubblelink code" onclick="return showCourse(this, 'JST 116');">JST 116</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 117.  Introduction to Gender, Sexuality and Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to literary texts in Western and other traditions that explore issues of gender and sexuality. Course Information: Same as <a href="/search/?P=GWS%20117" title="GWS 117" class="bubblelink code" onclick="return showCourse(this, 'GWS 117');">GWS 117</a>.<i>  Creative Arts course, and  Individual and Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 118.  Introduction to African American Literature, 1760-1910.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Comprehensive survey, 1760-1910, from earliest folk roots to formal literary tradition. Course Information: Same as <a href="/search/?P=BLST%20110" title="BLST 110" class="bubblelink code" onclick="return showCourse(this, 'BLST 110');">BLST 110</a>.<i>  Creative Arts course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 119.  Introduction to African American Literature Since 1910.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Comprehensive survey of African American literature from 1910 to the present. Course Information: Same as AAST 111.<i>  Creative Arts course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 120.  Film and Culture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of representative works that reflect the relationship between cinema and its cultural context.<i>  Creative Arts course, and  Individual and Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 121.  Introduction to Moving Image Arts.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination and interpretation of moving image texts such as film, television, and new digital media. Course Information: Same as <a href="/search/?P=MOVI%20121" title="MOVI 121" class="bubblelink code" onclick="return showCourse(this, 'MOVI 121');">MOVI 121</a>.<i>  Creative Arts course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 122.  Understanding Rhetoric.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An introductory examination of rhetoric as an intellectual force shaping discourse in both academic and public domains.<i>  Creative Arts course, and  Individual and Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 123.  Introduction to Asian American Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introductory survey of a wide range of Asian American literature in various socio-historical contexts. Course Information: Same as <a href="/search/?P=GLAS%20123" title="GLAS 123" class="bubblelink code" onclick="return showCourse(this, 'GLAS 123');">GLAS 123</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<i>  Creative Arts course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 125.  Introduction to U.S. Latinx Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introductory survey of a wide range of U.S. Latinx literature in various genres and various ethnic, geographical and historical contexts. Course Information: Same as <a href="/search/?P=LALS%20125" title="LALS 125" class="bubblelink code" onclick="return showCourse(this, 'LALS 125');">LALS 125</a>. Class Schedule Information: To be properly registered, students must enroll in one Discussion and one Lecture.<i>  Creative Arts course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 159.  Academic Writing Workshop.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Critical reading and writing practices and exploration of the conventions of academic writing in support of coursework in <a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a>. Course Information: Prerequisite(s): Placement into <a href="/search/?P=ENGL%20071" title="ENGL 071" class="bubblelink code" onclick="return showCourse(this, 'ENGL 071');">ENGL 071</a> and consent of the Director of the First-Year Writing Program. Students must enroll concurrently in <a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a> in their first semester and continue in <a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a> throughout the semester. Restricted to Fall semester freshmen.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 160.  Academic Writing I: Writing in Academic and Public Contexts.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Students write in a variety of genres with an emphasis on argument and sentence-level grammar. Topics vary by section. Course Information: The deadline for adding this course or switching sections of this course is the end of Week 1 of the semester. After Week 1, adding or switching sections of the course is not permitted. This class may be taught in a blended format. When that is the case, internet access will be required. A high-speed connection is strongly suggested. Please check the online class schedule for blended-online sections. Prerequisite(s): Eligibility as determined by performance on the Department placement test. Class Schedule Information: Course descriptions for composition courses are available at the First-Year Writing Program website:  http://www.uic.edu/depts/engl/programs/1styearwriting/.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 161.  Academic Writing II: Writing for Inquiry and Research.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Students learn about academic inquiry and complete several writing projects including a documented research paper. Topics vary by section. Course Information: The deadline for adding this course or switching sections of this course is the end of Week 1 of the semester. After Week 1, adding or switching sections of the course is not permitted. Prerequisite(s): <a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a> or the equivalent. All students take the Writing Placement test. If students place into <a href="/search/?P=ENGL%20060" title="ENGL 060" class="bubblelink code" onclick="return showCourse(this, 'ENGL 060');">ENGL 060</a>, <a href="/search/?P=ENGL%20070" title="ENGL 070" class="bubblelink code" onclick="return showCourse(this, 'ENGL 070');">ENGL 070</a>, <a href="/search/?P=ENGL%20071" title="ENGL 071" class="bubblelink code" onclick="return showCourse(this, 'ENGL 071');">ENGL 071</a>, and <a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a>, the student must take the course (or courses) prior to enrolling in <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>. Students with an ACT English subscore of 27 or higher, SAT Evidence-Based Critical Reading score of 630 or higher, AP English Language &amp; Composition score of 3 or higher, or IB English Language A: Language &amp; Literature score of 6 or higher, receive credit for <a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a> and permission to enroll in <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>.  Class Schedule Information: Students may register for any section. Course descriptions for composition courses are available at the First-Year Writing Program website: http://www.uic.du/depts/engl/programs/1styearwriting/.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 194.  Topics in Literature and Culture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Reading and analysis of literature and other cultural works from a variety of periods and genres. Course Information: May be repeated.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 198.  Field Research in Writing and Rhetoric.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Students apply the academic features of reading and writing texts to contexts outside the classroom through the design and execution of field-based research projects. Course Information: Satisfactory/Unsatisfactory grading only. Field work required. May be repeated to a maximum of 8 hours. Prerequisite(s): Consent of the instructor and admission to the Chicago Civic Leadership Certificate Program (CCLCP). Corequisite(s): Students  must enroll concurrently in one of four required CCLCP courses, taken during the freshman and sophomore years. Contact program advisor for additional details.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 200.  English Grammar and Style.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Students will be introduced to the basic grammatical structures and semantics of English and the general strategies for effective written communication. The course will focus on the interrelationship how stylistic choices shape meaning.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 201.  Introduction to the Writing of Creative Nonfiction.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introductory practice in writing personal essays, literary journalism, travel-writing, cultural criticism, or other forms of creative nonfiction prose. Content varies. Course Information: Recommended background: <a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a> and <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 202.  Media and Professional Writing.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Media analysis and writing, including interviews, news, features, and public relations communications. Course Information: Recommended background: <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>. Restricted to students in the following majors: English and Teaching of English; and students in the following minors: English and Professional Writing.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 210.  Introduction to the Writing of Poetry.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Practice in writing poetry, beginning with exercises and published models, with increasing emphasis on the students' poetry in class. Workshop format. Course Information: Recommended background: <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a> or <a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a> or <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a> or <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 212.  Introduction to the Writing of Fiction.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Practice in the writing of fiction; emphasis on analysis of student work and published examples. Course Information: Recommended background: <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a> or <a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a> or <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a> or <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 222.  Tutoring in the Writing Center.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Students study and analyze tutoring, while developing tutoring skills with the support of faculty. Course Information: 3 hours. May be repeated to a maximum of 9 hours. Students meet once per week and schedule two hours per week to tutor. Recommended background: <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Conference.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 229.  Introduction to Asian Film.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A theoretical analysis of films by recognized masters of Asian cinema. Course Information: Same as <a href="/search/?P=GLAS%20229" title="GLAS 229" class="bubblelink code" onclick="return showCourse(this, 'GLAS 229');">GLAS 229</a> and <a href="/search/?P=MOVI%20229" title="MOVI 229" class="bubblelink code" onclick="return showCourse(this, 'MOVI 229');">MOVI 229</a>. Taught in English. Films contain English subtitles. One film per week will be screened outside of class. Students may choose to attend the official screenings or watch the films on their own. Prerequisite(s): <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>.<i>  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 232.  History of Film I: 1890 to World War II.  3 hours.</strong></p>
+<p class="courseblockdesc">
+History of film from its beginnings in the 1890s up to World War II. Course Information: Same as <a href="/search/?P=AH%20232" title="AH 232" class="bubblelink code" onclick="return showCourse(this, 'AH 232');">AH 232</a> and <a href="/search/?P=MOVI%20232" title="MOVI 232" class="bubblelink code" onclick="return showCourse(this, 'MOVI 232');">MOVI 232</a>.  Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture-Discussion. Recommended background:  <a href="/search/?P=ENGL%20102" title="ENGL 102" class="bubblelink code" onclick="return showCourse(this, 'ENGL 102');">ENGL 102</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 233.  History of Film II: World War II to the Present.  3 hours.</strong></p>
+<p class="courseblockdesc">
+History of film from World War II to contemporary movements in world cinema. Course Information: Same as <a href="/search/?P=AH%20233" title="AH 233" class="bubblelink code" onclick="return showCourse(this, 'AH 233');">AH 233</a> and <a href="/search/?P=MOVI%20233" title="MOVI 233" class="bubblelink code" onclick="return showCourse(this, 'MOVI 233');">MOVI 233</a>.  Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture-Discussion.  Recommended backround:  <a href="/search/?P=ENGL%20102" title="ENGL 102" class="bubblelink code" onclick="return showCourse(this, 'ENGL 102');">ENGL 102</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 234.  History of Television.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A critical history of television. Course Information: Same as <a href="/search/?P=COMM%20234" title="COMM 234" class="bubblelink code" onclick="return showCourse(this, 'COMM 234');">COMM 234</a> and <a href="/search/?P=MOVI%20234" title="MOVI 234" class="bubblelink code" onclick="return showCourse(this, 'MOVI 234');">MOVI 234</a>. Prerequisite(s): <a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a> and <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 240.  Introduction to Literary Study and Critical Methods.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction on how to read and write critically about literature and other cultural productions, includes methods of literary and cultural theory and criticism, issues of form and interpretation, rhetorical analysis. Course Information: Recommended background: Completion of <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a> and 3 hours from <a href="/search/?P=ENGL%20101" title="ENGL 101" class="bubblelink code" onclick="return showCourse(this, 'ENGL 101');">ENGL 101</a>-125.  Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture-Discussion.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 241.  English Literature I: Beginnings to 1660.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A survey of significant works of English literature, beginnings to 1660, their historical, cultural, and aesthetic dimensions, from a number of critical perpectives. Course Information: Prerequisite(s): Completion of the University Writing requirement or concurrent registration in <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a> or ENGL 171. Recommended background:  3 hours of English from <a href="/search/?P=ENGL%20101" title="ENGL 101" class="bubblelink code" onclick="return showCourse(this, 'ENGL 101');">ENGL 101</a>-123.  Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture-Discussion.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 242.  English Literature II: 1660 to 1900.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A survey of significant works of English Literature, 1660 - 1900, their historical, cultural, and aesthetic dimensions, from a number of critical perspectives.  Course Information: Prerequisite(s): Completion of the University Writing requirement or concurrent registration in <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a> or ENGL 171.  Recommended background:  3 hours of English from <a href="/search/?P=ENGL%20101" title="ENGL 101" class="bubblelink code" onclick="return showCourse(this, 'ENGL 101');">ENGL 101</a>-123.  Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture-Discussion.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 243.  American Literature: Beginnings to 1900.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A survey of significant works of American literature, beginnings to 1900, their cultural, historical, and aesthetic dimensions, from a number of critical perspectives.  Course Information: Prerequisite(s):  Completion of the University Writing requirement or concurrent registration in <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a> or ENGL 171.  Recommended background:  3 hours of English from English 101-123.  Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture-Discussion.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 260.  Comparative Black Literatures.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected works of literature and criticism in the context of the U.S. and the Black diaspora. Comparative study of race, culture, and politics in literature.  Course Information: Same as <a href="/search/?P=BLST%20250" title="BLST 250" class="bubblelink code" onclick="return showCourse(this, 'BLST 250');">BLST 250</a>. Prerequisite(s): <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>; or completion of the English composition requirement.<i>  Creative Arts course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 261.  Reading Black Women Writing.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines inscriptions of race, gender, class, and sexuality as they shape the literary and critical practices of black women writers. Course Information: Same as <a href="/search/?P=BLST%20261" title="BLST 261" class="bubblelink code" onclick="return showCourse(this, 'BLST 261');">BLST 261</a> and <a href="/search/?P=GWS%20261" title="GWS 261" class="bubblelink code" onclick="return showCourse(this, 'GWS 261');">GWS 261</a>. Prerequisite(s): Grade of C or better in a 100-level Black Studies or African American literature course; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 262.  Black Cultural Studies.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Study of approaches, methods, and key debates in the study of black culture in a transnational and diasporic context. Course Information: Same as <a href="/search/?P=BLST%20262" title="BLST 262" class="bubblelink code" onclick="return showCourse(this, 'BLST 262');">BLST 262</a>. Prerequisite(s): <a href="/search/?P=BLST%20100" title="BLST 100" class="bubblelink code" onclick="return showCourse(this, 'BLST 100');">BLST 100</a>.<i>  Creative Arts course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 265.  The Harlem Renaissance.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The intellectual, cultural, and artistic expressions among African Americans from 1912 to 1933, with an emphasis on the literary texts and social history. Course Information: Same as <a href="/search/?P=BLST%20265" title="BLST 265" class="bubblelink code" onclick="return showCourse(this, 'BLST 265');">BLST 265</a>. Prerequisite(s): Grade of C or better in <a href="/search/?P=BLST%20100" title="BLST 100" class="bubblelink code" onclick="return showCourse(this, 'BLST 100');">BLST 100</a>; and Grade of C or better in <a href="/search/?P=BLST%20110" title="BLST 110" class="bubblelink code" onclick="return showCourse(this, 'BLST 110');">BLST 110</a> or Grade of C or better in <a href="/search/?P=BLST%20111" title="BLST 111" class="bubblelink code" onclick="return showCourse(this, 'BLST 111');">BLST 111</a>; or consent of the instructor.<i>  Past course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 266.  Topics in African Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination and analysis of selected works of African literature, history, and criticism. Topics will vary. Course Information: Same as <a href="/search/?P=BLST%20266" title="BLST 266" class="bubblelink code" onclick="return showCourse(this, 'BLST 266');">BLST 266</a>. May be repeated.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 270.  Migration and Diaspora in the Italian and Italian American Experience.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Immigrants' identities as seen through literature, film, television, poetry. Focus will be on Italian and Italian American narratives. Course Information: Same as <a href="/search/?P=ITAL%20270" title="ITAL 270" class="bubblelink code" onclick="return showCourse(this, 'ITAL 270');">ITAL 270</a>. Taught in English. No knowledge of Italian required. Prerequisite(s): <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>; or consent of the instructor.<i>  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 295.  Latino Literary Studies.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Major trends, genres, works, themes, and writers related to Latino history and culture, mainstream and minority U.S., Latin American and third world literatures. Course Information: Same as <a href="/search/?P=LALS%20295" title="LALS 295" class="bubblelink code" onclick="return showCourse(this, 'LALS 295');">LALS 295</a> and <a href="/search/?P=SPAN%20295" title="SPAN 295" class="bubblelink code" onclick="return showCourse(this, 'SPAN 295');">SPAN 295</a>.<i>  Creative Arts course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 297.  Studies in the Classical Tradition.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of selected texts of ancient Greek and Roman literature, such as the novel, drama, and epic, and how they inform English and American literature and culture.  Course Information:  Same as <a href="/search/?P=CL%20297" title="CL 297" class="bubblelink code" onclick="return showCourse(this, 'CL 297');">CL 297</a>.  Prerequisite(s):  <a href="/search/?P=CL%20102" title="CL 102" class="bubblelink code" onclick="return showCourse(this, 'CL 102');">CL 102</a>; or consent of the instructor.<i>  Creative Arts course, and  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 302.  Studies in the Moving Image.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Study of a topic or movement in film and/or other media forms. Course Information: Same as <a href="/search/?P=MOVI%20302" title="MOVI 302" class="bubblelink code" onclick="return showCourse(this, 'MOVI 302');">MOVI 302</a>.  May be repeated to a maximum of 6 hours. Prerequisite(s): <a href="/search/?P=ENGL%20102" title="ENGL 102" class="bubblelink code" onclick="return showCourse(this, 'ENGL 102');">ENGL 102</a> or consent of instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 303.  Studies in Poetry.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of the traditions of English and American poetry. Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and Grade of C or better in <a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a> or Grade of C or better in <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a> or Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>.  Recommended background:  <a href="/search/?P=ENGL%20103" title="ENGL 103" class="bubblelink code" onclick="return showCourse(this, 'ENGL 103');">ENGL 103</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 304.  Studies in Drama.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of an author, topic, or movement in drama. Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and Grade of C or better in <a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a> or Grade of C or better in <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a> or Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>.  Recommended background:  <a href="/search/?P=ENGL%20104" title="ENGL 104" class="bubblelink code" onclick="return showCourse(this, 'ENGL 104');">ENGL 104</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 305.  Studies in Fiction.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of a topic or a movement in fiction. Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and Grade of C or better in <a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a> or Grade of C or better in <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a> or Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>.  Recommended background:  <a href="/search/?P=ENGL%20105" title="ENGL 105" class="bubblelink code" onclick="return showCourse(this, 'ENGL 105');">ENGL 105</a> or 106.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 311.  Medieval English Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of major works from the period 450-1500.  Readings may include Beowulf, Chaucer, Langland, the Gawain-poet.  Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a> and Grade of C or better in <a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 312.  Sixteenth and Seventeenth Century Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Study of important works written in English between 1500 and 1700.  Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a> and Grade of C or better in <a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 313.  Major Plays of Shakespeare.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Major comedies, histories, tragedies and romances; the development of Shakespeare's career in relation to his theater and his society. Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a> and Grade of C or better in <a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a>. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 314.  Milton.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to Milton's life and works, this course focuses primarily on the major poetry (Paradise Lost, Paradise Regained, Samson Agonistes) and selected prose.  Couse Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a> and Grade of C or better in <a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 315.  Restoration and Eighteenth Century Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of representative texts in the major genres of Restoration and eighteenth-century literature.  Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and Grade of C or better in <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 316.  British Romantic Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Surveys the work of important British Romantic writers such as Wordsworth, Coleridge, Byron, Austen, and Scott, with particular emphasis on analyzing a variety of typical genres. Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and Grade of C or better in <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 317.  Victorian Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the literature of the Victorian period in England, with representative fiction, poetry, and non-fictional prose. Some attention to other aspects of Victorian culture (visual arts, architecture, music) as appropriate. Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a> and Grade of C or better in <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 318.  Modern British Literature: 1900-1945.  3 hours.</strong></p>
+<p class="courseblockdesc">
+This course surveys major themes in British literature written between 1900 and 1945. Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a> and Grade of C or better in <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 319.  Post-War British Literature: 1945-1980.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Focus on the new international literatures in English and the forces that produced them. Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a> and Grade of C or better in <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 320.  British Literature: 1980-Present.  3 hours.</strong></p>
+<p class="courseblockdesc">
+British literature in the contemporary context. Course Information:  Prerequisites:  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and Grade of C or better in <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 321.  Early American Literature: 1630 to 1790.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of representative works in early American literature fron the early Colonial through the Revolutionary and Federal periods. Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a> and Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 323.  American Literature: 1790 to 1865.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The course analyzes selected works of American literature written between 1790 and the end of the Civil War in 1865. Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a> and Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 324.  American Literature: 1865-1900.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of representative American literary works of the period 1865-1900. Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 325.  Modern American Literature:  1900-1945.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Representative selections with emphasis on the poetry and fiction of the period. Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 326.  Post-War American Literature: 1945-1980.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Representative selections with emphasis on poetry and fiction of the period.  Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 327.  Contemporary American Literature: 1980-Present.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Study of contemporary American authors, including those who are currently publishing in electronic media forms as well as in commercial, academic or independent presses.  Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a> and Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 328.  Asian American Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Historical development of Asian American literature. It will identify specific cultural and political issues that have shaped the broad range and diverse ethnic interests of that writing.  Course Information:  Same as <a href="/search/?P=GLAS%20328" title="GLAS 328" class="bubblelink code" onclick="return showCourse(this, 'GLAS 328');">GLAS 328</a>. Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>.  Recommended background: <a href="/search/?P=ENGL%20123" title="ENGL 123" class="bubblelink code" onclick="return showCourse(this, 'ENGL 123');">ENGL 123</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 333.  Literatures in English Other than English and American.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Comparative study of literature in English from the colonial territories, the independent former colonies, and/or the Commonwealth nations.  Course Information:  Prerequisites:  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and a Grade of C or better in <a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a> or Grade of C or better in <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a> or Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>.  Recommended background:  <a href="/search/?P=ENGL%20114" title="ENGL 114" class="bubblelink code" onclick="return showCourse(this, 'ENGL 114');">ENGL 114</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 341.  Literature and Popular Culture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Study of what constitutes popular culture, how it identifies itself, how it works, and how it can be analyzed. Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and Grade of C or better in <a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a> or Grade of C or better in <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a> or Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>.  Recommended background:  <a href="/search/?P=ENGL%20110" title="ENGL 110" class="bubblelink code" onclick="return showCourse(this, 'ENGL 110');">ENGL 110</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 342.  Cultural and Media Studies.  3 hours.</strong></p>
+<p class="courseblockdesc">
+General introduction to Cultural Studies, with special attention to film and television and other new media.  Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and Grade of C or better in <a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a> or Grade of C or better in <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a> or Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 343.  Literature and Religion.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Studies in the relation of literature to doctrines, imagery, practices, experiences, or history of one or more religious traditions.  Course Information:  Same as <a href="/search/?P=RELS%20343" title="RELS 343" class="bubblelink code" onclick="return showCourse(this, 'RELS 343');">RELS 343</a>.  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and Grade of C or better in <a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a> or Grade of C or better in <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a> or Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 351.  Topics in Black Art and Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Study of literature and the other arts in the context of the African diaspora. Topics Vary. Course Information: Same as <a href="/search/?P=BLST%20351" title="BLST 351" class="bubblelink code" onclick="return showCourse(this, 'BLST 351');">BLST 351</a>. May be repeated to a maximum of 6 hours if topics vary. Prerequisite(s): Introductory course in Black Studies or English; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 353.  Latinx Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Development of Latinx literature from different historical periods and diasporic communities. Analysis of political and social concerns relevant to Latinx literature and culture. Course Information: Same as <a href="/search/?P=LALS%20353" title="LALS 353" class="bubblelink code" onclick="return showCourse(this, 'LALS 353');">LALS 353</a>. Prerequisite(s): Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a> or Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a> or Grade of C or better in <a href="/search/?P=LALS%20101" title="LALS 101" class="bubblelink code" onclick="return showCourse(this, 'LALS 101');">LALS 101</a> or Grade of C or better in <a href="/search/?P=LALS%20102" title="LALS 102" class="bubblelink code" onclick="return showCourse(this, 'LALS 102');">LALS 102</a> or consent of the instructor. Recommended background: <a href="/search/?P=ENGL%20125" title="ENGL 125" class="bubblelink code" onclick="return showCourse(this, 'ENGL 125');">ENGL 125</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 358.  Colonial and Postcolonial Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Studies a range of works produced in the context of nineteenth- and twentieth-century colonialism, as well as from the postcolonial period. Course Information: Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and Grade of C or better in <a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a> or Grade of C or better in <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a> or Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>.  Recommended background:  <a href="/search/?P=ENGL%20114" title="ENGL 114" class="bubblelink code" onclick="return showCourse(this, 'ENGL 114');">ENGL 114</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 359.  Ethnic American Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Representative selections from a number of ethnic and minority literatures.  Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a> and Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>.  Recommended background:  <a href="/search/?P=ENGL%20113" title="ENGL 113" class="bubblelink code" onclick="return showCourse(this, 'ENGL 113');">ENGL 113</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 361.  Gender Theory.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of theories of gender in culture.  Course Information:  Same  as <a href="/search/?P=GWS%20361" title="GWS 361" class="bubblelink code" onclick="return showCourse(this, 'GWS 361');">GWS 361</a>.  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and Grade of C or better in <a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a> or Grade of C or better in <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a> or Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>; or GWS 101or <a href="/search/?P=GWS%20102" title="GWS 102" class="bubblelink code" onclick="return showCourse(this, 'GWS 102');">GWS 102</a>; or consent of the instructor.  Recommended background:  <a href="/search/?P=ENGL%20117" title="ENGL 117" class="bubblelink code" onclick="return showCourse(this, 'ENGL 117');">ENGL 117</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 362.  Queer Theory.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of theoretical concerns and historical issues that inform and shape the field of &quot;Queer Studies&quot;.  Course Information:  Same as <a href="/search/?P=GWS%20362" title="GWS 362" class="bubblelink code" onclick="return showCourse(this, 'GWS 362');">GWS 362</a>.  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and Grade of C or better in <a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a> or Grade of C or better in  <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a> or Grade of C or better <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>; or <a href="/search/?P=GWS%20203" title="GWS 203" class="bubblelink code" onclick="return showCourse(this, 'GWS 203');">GWS 203</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 363.  Gender and Sexuality in Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A survey of works that take the status of gender and sexuality as one of their central thematic or aesthetic concerns.  Course Information:  Same as <a href="/search/?P=GWS%20363" title="GWS 363" class="bubblelink code" onclick="return showCourse(this, 'GWS 363');">GWS 363</a>.  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and Grade of C or better in <a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a> or Grade of C or better in <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a> or Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>; or <a href="/search/?P=GWS%20101" title="GWS 101" class="bubblelink code" onclick="return showCourse(this, 'GWS 101');">GWS 101</a> or <a href="/search/?P=GWS%20102" title="GWS 102" class="bubblelink code" onclick="return showCourse(this, 'GWS 102');">GWS 102</a>; or consent of the instructor.  Recommended background:  <a href="/search/?P=ENGL%20117" title="ENGL 117" class="bubblelink code" onclick="return showCourse(this, 'ENGL 117');">ENGL 117</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 364.  Disability Studies.  3 hours.</strong></p>
+<p class="courseblockdesc">
+This course surveys the representation of physical and cognitive disability in U.S. culture, 1622-present, in order to examine the ways in which impairment impacts definitions of American-ness.  Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and Grade of C or better in <a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a> or Grade of C or better in <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a> or Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 370.  Literary Theory.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to and survey of literary theory.  Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and Grade of C or better in <a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a> or Grade of C or better in <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a> or Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 372.  History of Literary Criticism.  3 hours.</strong></p>
+<p class="courseblockdesc">
+This course provides an overview of the foundations of literary criticism in English from the ancient Greeks to the present time.  Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and Grade of C or better in <a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a> or Grade of C or better in <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a> or Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 374.  Rhetorical Studies.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Theoretical and practical studies of the social contexts, uses, and effects of various kinds of discourse and communication, whether oral, written, or electronic.  Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and Grade of C or better in <a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a> or Grade of C or better in <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a> or Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>.  Recommended background:  <a href="/search/?P=ENGL%20122" title="ENGL 122" class="bubblelink code" onclick="return showCourse(this, 'ENGL 122');">ENGL 122</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 375.  Rhetoric and Public LIfe.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The study of how language and other media intersect with material conditions to make political belief and political change.  Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and Grade of C or better in <a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a> or Grade of C or better in <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a> or Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>.  Recommended background:  <a href="/search/?P=ENGL%20122" title="ENGL 122" class="bubblelink code" onclick="return showCourse(this, 'ENGL 122');">ENGL 122</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 381.  Advanced Professional Writing.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Study of genres and forms across the professional spectrum, including but not limited to individual profiles, corporate publications, healthcare newsletters, grant writing. Course Information: Extensive computer use required. Prerequisite(s): Grade of C or better in <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>; and sophomore standing or above; or consent of the instructor. Recommended background: <a href="/search/?P=ENGL%20202" title="ENGL 202" class="bubblelink code" onclick="return showCourse(this, 'ENGL 202');">ENGL 202</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 382.  Editing and Publishing.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Study of editorial oversight, copyediting technique, style requirements, use of grammar as a stylistic tool, publishing industry standards.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 383.  Writing Digital and New Media.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Rhetorical, practical and ethical aspects of digital writing;  digital literacy, and the use of digital platforms in professional environments. Course Information: Extensive computer use required. Prerequisite(s): Grade of C or better in <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>; and sophomore standing or above; or consent of the instructor. Recommended Background: <a href="/search/?P=ENGL%20202" title="ENGL 202" class="bubblelink code" onclick="return showCourse(this, 'ENGL 202');">ENGL 202</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 384.  Technical Writing.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Students will study the conventions and strategies common to the field of technical writing and its forms, including technical reports in science and engineering, technical memos, literature reviews, instructional and procedural materials. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>; and sophomore standing or above; or consent of the instructor. Recommended background: <a href="/search/?P=ENGL%20200" title="ENGL 200" class="bubblelink code" onclick="return showCourse(this, 'ENGL 200');">ENGL 200</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 394.  Special Topics in English Studies.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in English Studies. Course Information: May be repeated up to 2 time(s).<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 398.  English Honors Seminar.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Supervised research and writing of a senior honors thesis on a topic agreed upon by student and faculty sponsor. Students who complete this course and fulfill all of the other honors prerequisites will be awarded highest distinction in the major.  Course Information:  Prerequisite(s):  A GPA of 3.75 or higher in courses required for the major, completion or simultaneous enrollment in a 400-level seminar, faculty sponsor, and the approval of the department.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 399.  Independent Study in English.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Independent study. Topics for <a href="/search/?P=ENGL%20399" title="ENGL 399" class="bubblelink code" onclick="return showCourse(this, 'ENGL 399');">ENGL 399</a> should not duplicate work done in other English courses. Course Information: May be repeated to a maximum of 3 hours. Prerequisite(s): Senior standing and consent of the instructor. The student must first consult with the instructor of the independent study and the instructor and director of undergraduate studies must approve the student's written prospectus specifying the topic, required work, and number of credit hours the student will receive for the course. Class Schedule Information: This course counts toward the limted number of independent study hours accepted toward the degree and the major.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 400.  History of the English Language.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Development of English from its Proto-Indo-European origin to the present; detailed examination of the external and internal history of Old, Middle, and Modern English. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Senior standing or above; or consent of the instructor.  Recommended background:  <a href="/search/?P=ENGL%20200" title="ENGL 200" class="bubblelink code" onclick="return showCourse(this, 'ENGL 200');">ENGL 200</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 402.  Rhetoric.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Intensive study of central topics in rhetorical theory in their historical depth. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=ENGL%20342" title="ENGL 342" class="bubblelink code" onclick="return showCourse(this, 'ENGL 342');">ENGL 342</a> or <a href="/search/?P=ENGL%20361" title="ENGL 361" class="bubblelink code" onclick="return showCourse(this, 'ENGL 361');">ENGL 361</a> or <a href="/search/?P=ENGL%20370" title="ENGL 370" class="bubblelink code" onclick="return showCourse(this, 'ENGL 370');">ENGL 370</a> or <a href="/search/?P=ENGL%20372" title="ENGL 372" class="bubblelink code" onclick="return showCourse(this, 'ENGL 372');">ENGL 372</a> or <a href="/search/?P=ENGL%20374" title="ENGL 374" class="bubblelink code" onclick="return showCourse(this, 'ENGL 374');">ENGL 374</a> or <a href="/search/?P=ENGL%20375" title="ENGL 375" class="bubblelink code" onclick="return showCourse(this, 'ENGL 375');">ENGL 375</a>; and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 405.  Topics in Old English Literature.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Studies in the language and literature of pre-Conquest England.  Content varies.  Course Information:  3 undergraduate hours.  4 graduate hours.  May be repeated up to 1 time(s).  Prerequisite(s):  ENGL 403; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 408.  Topics in Medieval Literature.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Topics in English literature from the period 450-1500. Content varies.  Course Information:  3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s).  Prerequisite(s):  <a href="/search/?P=ENGL%20311" title="ENGL 311" class="bubblelink code" onclick="return showCourse(this, 'ENGL 311');">ENGL 311</a> or <a href="/search/?P=ENGL%20312" title="ENGL 312" class="bubblelink code" onclick="return showCourse(this, 'ENGL 312');">ENGL 312</a> or <a href="/search/?P=ENGL%20313" title="ENGL 313" class="bubblelink code" onclick="return showCourse(this, 'ENGL 313');">ENGL 313</a> or <a href="/search/?P=ENGL%20314" title="ENGL 314" class="bubblelink code" onclick="return showCourse(this, 'ENGL 314');">ENGL 314</a>; and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 413.  Topics in Shakespeare.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of a genre, topic or period in Shakespeare's work. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s). Prerequisite(s): <a href="/search/?P=ENGL%20312" title="ENGL 312" class="bubblelink code" onclick="return showCourse(this, 'ENGL 312');">ENGL 312</a> or <a href="/search/?P=ENGL%20313" title="ENGL 313" class="bubblelink code" onclick="return showCourse(this, 'ENGL 313');">ENGL 313</a> or <a href="/search/?P=ENGL%20314" title="ENGL 314" class="bubblelink code" onclick="return showCourse(this, 'ENGL 314');">ENGL 314</a>; and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 416.  Topics in Renaissance Literature and Culture.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of a topic in English literature written between 1500 and 1700. Content varies. Course Information:  3 undergraduate hours. 4 graduate hours.  May be repeated up to 1 time(s).  Prerequisites:  <a href="/search/?P=ENGL%20311" title="ENGL 311" class="bubblelink code" onclick="return showCourse(this, 'ENGL 311');">ENGL 311</a> or <a href="/search/?P=ENGL%20312" title="ENGL 312" class="bubblelink code" onclick="return showCourse(this, 'ENGL 312');">ENGL 312</a> or <a href="/search/?P=ENGL%20313" title="ENGL 313" class="bubblelink code" onclick="return showCourse(this, 'ENGL 313');">ENGL 313</a> or <a href="/search/?P=ENGL%20314" title="ENGL 314" class="bubblelink code" onclick="return showCourse(this, 'ENGL 314');">ENGL 314</a>; and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 417.  Topics in Restoration and Eighteenth-century Literature and Culture.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Focus on a particular topic or theme in British literature 1660-1780. Content varies.  Course Information:  3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s). Prerequisite(s):  <a href="/search/?P=ENGL%20313" title="ENGL 313" class="bubblelink code" onclick="return showCourse(this, 'ENGL 313');">ENGL 313</a> or <a href="/search/?P=ENGL%20314" title="ENGL 314" class="bubblelink code" onclick="return showCourse(this, 'ENGL 314');">ENGL 314</a> or <a href="/search/?P=ENGL%20315" title="ENGL 315" class="bubblelink code" onclick="return showCourse(this, 'ENGL 315');">ENGL 315</a> or <a href="/search/?P=ENGL%20316" title="ENGL 316" class="bubblelink code" onclick="return showCourse(this, 'ENGL 316');">ENGL 316</a>; and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 419.  Topics in Romantic Literature and Culture.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Concentrates on a particular aspect of British Romantic writing in order to provide a greater depth of study in the period. Content varies.  Course Information:  3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s).  Prerequisite(s):  <a href="/search/?P=ENGL%20313" title="ENGL 313" class="bubblelink code" onclick="return showCourse(this, 'ENGL 313');">ENGL 313</a> or <a href="/search/?P=ENGL%20314" title="ENGL 314" class="bubblelink code" onclick="return showCourse(this, 'ENGL 314');">ENGL 314</a> or <a href="/search/?P=ENGL%20315" title="ENGL 315" class="bubblelink code" onclick="return showCourse(this, 'ENGL 315');">ENGL 315</a> or <a href="/search/?P=ENGL%20316" title="ENGL 316" class="bubblelink code" onclick="return showCourse(this, 'ENGL 316');">ENGL 316</a> or <a href="/search/?P=ENGL%20317" title="ENGL 317" class="bubblelink code" onclick="return showCourse(this, 'ENGL 317');">ENGL 317</a>; and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 421.  Topics in Victorian Literature.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of a major author, genre, or theme in the Victorian period. Content varies.  Course Information:  3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s).  Prerequisite(s):  <a href="/search/?P=ENGL%20315" title="ENGL 315" class="bubblelink code" onclick="return showCourse(this, 'ENGL 315');">ENGL 315</a> or <a href="/search/?P=ENGL%20316" title="ENGL 316" class="bubblelink code" onclick="return showCourse(this, 'ENGL 316');">ENGL 316</a> or <a href="/search/?P=ENGL%20317" title="ENGL 317" class="bubblelink code" onclick="return showCourse(this, 'ENGL 317');">ENGL 317</a> or <a href="/search/?P=ENGL%20318" title="ENGL 318" class="bubblelink code" onclick="return showCourse(this, 'ENGL 318');">ENGL 318</a>; and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 422.  Topics in Postcolonial and World Literature in English.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of a major author, topic, movement, or genre within postcolonial and world literatures in English. Content varies.  Course Information:  3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s).  Prerequisite(s):  <a href="/search/?P=ENGL%20318" title="ENGL 318" class="bubblelink code" onclick="return showCourse(this, 'ENGL 318');">ENGL 318</a> or <a href="/search/?P=ENGL%20319" title="ENGL 319" class="bubblelink code" onclick="return showCourse(this, 'ENGL 319');">ENGL 319</a> or <a href="/search/?P=ENGL%20320" title="ENGL 320" class="bubblelink code" onclick="return showCourse(this, 'ENGL 320');">ENGL 320</a> or <a href="/search/?P=ENGL%20333" title="ENGL 333" class="bubblelink code" onclick="return showCourse(this, 'ENGL 333');">ENGL 333</a>; and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 426.  Topics in American Literature and Culture to 1900.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+This course analyzes selected topics in American literature and culture to 1900. Course Information:  3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s).  Prerequisite(s):  <a href="/search/?P=ENGL%20323" title="ENGL 323" class="bubblelink code" onclick="return showCourse(this, 'ENGL 323');">ENGL 323</a> or <a href="/search/?P=ENGL%20324" title="ENGL 324" class="bubblelink code" onclick="return showCourse(this, 'ENGL 324');">ENGL 324</a> or <a href="/search/?P=ENGL%20325" title="ENGL 325" class="bubblelink code" onclick="return showCourse(this, 'ENGL 325');">ENGL 325</a>; and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 427.  Topics in American Literature and Culture, 1900-Present.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of a specific topic relating American literature to society, culture, history, race, gender, ethnicity. Content varies.  Course Information:  3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s).  Prerequisites:  <a href="/search/?P=ENGL%20324" title="ENGL 324" class="bubblelink code" onclick="return showCourse(this, 'ENGL 324');">ENGL 324</a> or <a href="/search/?P=ENGL%20325" title="ENGL 325" class="bubblelink code" onclick="return showCourse(this, 'ENGL 325');">ENGL 325</a> or <a href="/search/?P=ENGL%20326" title="ENGL 326" class="bubblelink code" onclick="return showCourse(this, 'ENGL 326');">ENGL 326</a> or <a href="/search/?P=ENGL%20327" title="ENGL 327" class="bubblelink code" onclick="return showCourse(this, 'ENGL 327');">ENGL 327</a>; and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 428.  Topics in Literature and Culture, 1900-Present.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of a specific topic relating twentieth century literature to society, culture, history, race, gender, ethnicity. Content varies.  Course Information:  3 undergradute hours. 4 graduate hours. May be repeated up to 1 time(s).  Prerequisite(s):  <a href="/search/?P=ENGL%20318" title="ENGL 318" class="bubblelink code" onclick="return showCourse(this, 'ENGL 318');">ENGL 318</a> or <a href="/search/?P=ENGL%20319" title="ENGL 319" class="bubblelink code" onclick="return showCourse(this, 'ENGL 319');">ENGL 319</a> or <a href="/search/?P=ENGL%20320" title="ENGL 320" class="bubblelink code" onclick="return showCourse(this, 'ENGL 320');">ENGL 320</a> or <a href="/search/?P=ENGL%20325" title="ENGL 325" class="bubblelink code" onclick="return showCourse(this, 'ENGL 325');">ENGL 325</a> or <a href="/search/?P=ENGL%20326" title="ENGL 326" class="bubblelink code" onclick="return showCourse(this, 'ENGL 326');">ENGL 326</a> or <a href="/search/?P=ENGL%20327" title="ENGL 327" class="bubblelink code" onclick="return showCourse(this, 'ENGL 327');">ENGL 327</a>; and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 429.  Topics in Literature and Culture.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of a specific topic relating literature to society, culture, history, race, gender, ethnicity. Content varies.  Course Information:  3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s).  Prerequisite(s):  Six hours of English at the 300 level and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 437.  Topics in Poetry and Poetic Theory.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Investigations into the nature of poetry. Discussions of issues such as technical, theoretical, formal and historical developments. Topics and readings vary. Course Information:  3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s).  Prerequisite(s):  <a href="/search/?P=ENGL%20303" title="ENGL 303" class="bubblelink code" onclick="return showCourse(this, 'ENGL 303');">ENGL 303</a> or <a href="/search/?P=ENGL%20316" title="ENGL 316" class="bubblelink code" onclick="return showCourse(this, 'ENGL 316');">ENGL 316</a>; and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 438.  Topics in Performance Studies.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+In-depth study of a topic, movement, artist or author in the field of drama and performance studies, broadly defined. Content varies.  Course Information:  3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s).  Prerequiste(s):  <a href="/search/?P=ENGL%20304" title="ENGL 304" class="bubblelink code" onclick="return showCourse(this, 'ENGL 304');">ENGL 304</a> or <a href="/search/?P=ENGL%20313" title="ENGL 313" class="bubblelink code" onclick="return showCourse(this, 'ENGL 313');">ENGL 313</a> or <a href="/search/?P=ENGL%20341" title="ENGL 341" class="bubblelink code" onclick="return showCourse(this, 'ENGL 341');">ENGL 341</a> or <a href="/search/?P=ENGL%20342" title="ENGL 342" class="bubblelink code" onclick="return showCourse(this, 'ENGL 342');">ENGL 342</a> or <a href="/search/?P=ENGL%20370" title="ENGL 370" class="bubblelink code" onclick="return showCourse(this, 'ENGL 370');">ENGL 370</a> or <a href="/search/?P=ENGL%20375" title="ENGL 375" class="bubblelink code" onclick="return showCourse(this, 'ENGL 375');">ENGL 375</a>; and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 439.  Topics in Fiction and Theories of Fiction.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of fiction related to a particular theory of fiction (Realism, Romance, Literary Naturalism, Narrative Theory, Fictional Poetics). Content varies.  Course Information:  3 undergraduate hours. 4 graduate hours.  May be repeated up to 1 time(s).  Prerequisite(s):  <a href="/search/?P=ENGL%20305" title="ENGL 305" class="bubblelink code" onclick="return showCourse(this, 'ENGL 305');">ENGL 305</a>; and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 440.  Topics in Cultural and Media Studies.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of a medium, genre, theme, period, influence, or problem in Culture and Cultural Theory. Topics Vary.  Course Information:  3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s).  Prerequisite(s):  <a href="/search/?P=ENGL%20302" title="ENGL 302" class="bubblelink code" onclick="return showCourse(this, 'ENGL 302');">ENGL 302</a> or <a href="/search/?P=ENGL%20341" title="ENGL 341" class="bubblelink code" onclick="return showCourse(this, 'ENGL 341');">ENGL 341</a> or <a href="/search/?P=ENGL%20342" title="ENGL 342" class="bubblelink code" onclick="return showCourse(this, 'ENGL 342');">ENGL 342</a>; and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 441.  Topics in Asian American Literature and Culture.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+An advanced seminar that examines various forms of cultural production by Asian American artists of diverse ethnic backgrounds. Topics vary.  Course Information: Same as <a href="/search/?P=GLAS%20441" title="GLAS 441" class="bubblelink code" onclick="return showCourse(this, 'GLAS 441');">GLAS 441</a>. 3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s).  Prerequisite(s):  <a href="/search/?P=ENGL%20327" title="ENGL 327" class="bubblelink code" onclick="return showCourse(this, 'ENGL 327');">ENGL 327</a> or <a href="/search/?P=ENGL%20328" title="ENGL 328" class="bubblelink code" onclick="return showCourse(this, 'ENGL 328');">ENGL 328</a> or <a href="/search/?P=ENGL%20359" title="ENGL 359" class="bubblelink code" onclick="return showCourse(this, 'ENGL 359');">ENGL 359</a>; and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 442.  Topics in Latinx Literature.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of a specific topic in Latinx literature and literary studies, which may examine a single or select group of authors, a particular genre, or a particular regional or aesthetic focus. Topics vary. Course Information: Same as <a href="/search/?P=LALS%20442" title="LALS 442" class="bubblelink code" onclick="return showCourse(this, 'LALS 442');">LALS 442</a>. # undergraduate hours. 4 graduate hours. May be repeated for a maximum of 6 hours of credit for undergraduates, or 8 hours of credit for graduate students. Recommended background: <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>, <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>, <a href="/search/?P=LALS%20101" title="LALS 101" class="bubblelink code" onclick="return showCourse(this, 'LALS 101');">LALS 101</a>, or <a href="/search/?P=LALS%20102" title="LALS 102" class="bubblelink code" onclick="return showCourse(this, 'LALS 102');">LALS 102</a>; junior standing or above.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 443.  Topics in Gender, Sexuality and Literature.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Specific study of topics in gender and literature. Content varies.  Course Information:  Same as <a href="/search/?P=GWS%20443" title="GWS 443" class="bubblelink code" onclick="return showCourse(this, 'GWS 443');">GWS 443</a>. 3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s).  Prerequiste(s):  <a href="/search/?P=ENGL%20361" title="ENGL 361" class="bubblelink code" onclick="return showCourse(this, 'ENGL 361');">ENGL 361</a> or <a href="/search/?P=ENGL%20362" title="ENGL 362" class="bubblelink code" onclick="return showCourse(this, 'ENGL 362');">ENGL 362</a> or <a href="/search/?P=ENGL%20363" title="ENGL 363" class="bubblelink code" onclick="return showCourse(this, 'ENGL 363');">ENGL 363</a> or <a href="/search/?P=GWS%20101" title="GWS 101" class="bubblelink code" onclick="return showCourse(this, 'GWS 101');">GWS 101</a> or <a href="/search/?P=GWS%20102" title="GWS 102" class="bubblelink code" onclick="return showCourse(this, 'GWS 102');">GWS 102</a>; and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 444.  Topics in Theories of Gender and Sexuality.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced study of topics related to theories of gender and sexuality.  Course Information:  Same as <a href="/search/?P=GWS%20444" title="GWS 444" class="bubblelink code" onclick="return showCourse(this, 'GWS 444');">GWS 444</a>.  3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s).  Prerequiste(s):  <a href="/search/?P=ENGL%20361" title="ENGL 361" class="bubblelink code" onclick="return showCourse(this, 'ENGL 361');">ENGL 361</a> or <a href="/search/?P=ENGL%20362" title="ENGL 362" class="bubblelink code" onclick="return showCourse(this, 'ENGL 362');">ENGL 362</a> or <a href="/search/?P=ENGL%20363" title="ENGL 363" class="bubblelink code" onclick="return showCourse(this, 'ENGL 363');">ENGL 363</a> or <a href="/search/?P=GWS%20101" title="GWS 101" class="bubblelink code" onclick="return showCourse(this, 'GWS 101');">GWS 101</a> or <a href="/search/?P=GWS%20102" title="GWS 102" class="bubblelink code" onclick="return showCourse(this, 'GWS 102');">GWS 102</a>; and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 445.  Topics in Disability Studies.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+This course will focus on topics structured around particular aspects of Disability Studies and its practical, cultural, and theoretical implications.  Course Information:  Same as <a href="/search/?P=DHD%20445" title="DHD 445" class="bubblelink code" onclick="return showCourse(this, 'DHD 445');">DHD 445</a>.  3 undergraduate hours.  4 graduate hours.  May be repeated up to 1 time(s).  Prerequisite(s):  <a href="/search/?P=ENGL%20361" title="ENGL 361" class="bubblelink code" onclick="return showCourse(this, 'ENGL 361');">ENGL 361</a> or <a href="/search/?P=ENGL%20362" title="ENGL 362" class="bubblelink code" onclick="return showCourse(this, 'ENGL 362');">ENGL 362</a> or <a href="/search/?P=ENGL%20363" title="ENGL 363" class="bubblelink code" onclick="return showCourse(this, 'ENGL 363');">ENGL 363</a> or <a href="/search/?P=ENGL%20364" title="ENGL 364" class="bubblelink code" onclick="return showCourse(this, 'ENGL 364');">ENGL 364</a>; and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 446.  Topics in Criticism and Theory.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Focus on a particular critical or theoretical topic, movement, tradition or figure. Content varies.  Course Information:  3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s).  Prerequisite(s):  <a href="/search/?P=ENGL%20361" title="ENGL 361" class="bubblelink code" onclick="return showCourse(this, 'ENGL 361');">ENGL 361</a> or <a href="/search/?P=ENGL%20362" title="ENGL 362" class="bubblelink code" onclick="return showCourse(this, 'ENGL 362');">ENGL 362</a> or <a href="/search/?P=ENGL%20370" title="ENGL 370" class="bubblelink code" onclick="return showCourse(this, 'ENGL 370');">ENGL 370</a> or <a href="/search/?P=ENGL%20372" title="ENGL 372" class="bubblelink code" onclick="return showCourse(this, 'ENGL 372');">ENGL 372</a>; and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 448.  Topics in Rhetorical Studies.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of theoretical intersections between Rhetoric and Cultural Studies to describe and explain the ways in which discourse constructs identity, knowledge, and values. Content varies.  Course Information:  3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s).  Prerequiste(s):  <a href="/search/?P=ENGL%20374" title="ENGL 374" class="bubblelink code" onclick="return showCourse(this, 'ENGL 374');">ENGL 374</a> or <a href="/search/?P=ENGL%20375" title="ENGL 375" class="bubblelink code" onclick="return showCourse(this, 'ENGL 375');">ENGL 375</a> or <a href="/search/?P=ENGL%20342" title="ENGL 342" class="bubblelink code" onclick="return showCourse(this, 'ENGL 342');">ENGL 342</a> or <a href="/search/?P=ENGL%20402" title="ENGL 402" class="bubblelink code" onclick="return showCourse(this, 'ENGL 402');">ENGL 402</a>; and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 459.  Introduction to the Teaching of English in Middle and Secondary Schools.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Intended as a general initiation to the field of secondary English teaching, the course focuses on many of the crucial issues facing teachers in contemporary language arts classrooms. Course Information: 3 undergraduate hours. 4 graduate hours. Field work required. Prerequisite(s): Completion of the University Writing requirement; and sophomore standing or above.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 462.  Topics in American Literary Nonfiction Prose.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of a specific topic in the literary nonfiction of the United States, which may include its history, development and classification. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s). Prerequisite(s): Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a> and Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>, and junior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 469.  Women's Literary Traditions.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+An exploration of issues such as the female aesthetic; women's popular literature; factors that enable creativity; differences of race and class. Course Information: Same as <a href="/search/?P=GWS%20469" title="GWS 469" class="bubblelink code" onclick="return showCourse(this, 'GWS 469');">GWS 469</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=ENGL%20361" title="ENGL 361" class="bubblelink code" onclick="return showCourse(this, 'ENGL 361');">ENGL 361</a> or <a href="/search/?P=ENGL%20362" title="ENGL 362" class="bubblelink code" onclick="return showCourse(this, 'ENGL 362');">ENGL 362</a> or <a href="/search/?P=ENGL%20363" title="ENGL 363" class="bubblelink code" onclick="return showCourse(this, 'ENGL 363');">ENGL 363</a>; and senior standing or above; or consent of instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 470.  Topics in Multiethnic Literatures in the United States.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Topics in the literatures of American racial and ethnic groups. Content varies. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s). Prerequisite(s):  <a href="/search/?P=ENGL%20328" title="ENGL 328" class="bubblelink code" onclick="return showCourse(this, 'ENGL 328');">ENGL 328</a> or <a href="/search/?P=ENGL%20333" title="ENGL 333" class="bubblelink code" onclick="return showCourse(this, 'ENGL 333');">ENGL 333</a> or ENGL 350 or <a href="/search/?P=ENGL%20351" title="ENGL 351" class="bubblelink code" onclick="return showCourse(this, 'ENGL 351');">ENGL 351</a> or ENGL 355 or 357; or <a href="/search/?P=ENGL%20359" title="ENGL 359" class="bubblelink code" onclick="return showCourse(this, 'ENGL 359');">ENGL 359</a>; and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 472.  Women and Film.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Roles and representations of women in classical Hollywood, European art and independent feminist cinemas. Course Information: Same as <a href="/search/?P=AH%20434" title="AH 434" class="bubblelink code" onclick="return showCourse(this, 'AH 434');">AH 434</a>, and <a href="/search/?P=GWS%20472" title="GWS 472" class="bubblelink code" onclick="return showCourse(this, 'GWS 472');">GWS 472</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s):  <a href="/search/?P=ENGL%20302" title="ENGL 302" class="bubblelink code" onclick="return showCourse(this, 'ENGL 302');">ENGL 302</a> or <a href="/search/?P=ENGL%20342" title="ENGL 342" class="bubblelink code" onclick="return showCourse(this, 'ENGL 342');">ENGL 342</a> or <a href="/search/?P=ENGL%20361" title="ENGL 361" class="bubblelink code" onclick="return showCourse(this, 'ENGL 361');">ENGL 361</a> or <a href="/search/?P=ENGL%20362" title="ENGL 362" class="bubblelink code" onclick="return showCourse(this, 'ENGL 362');">ENGL 362</a> or <a href="/search/?P=ENGL%20363" title="ENGL 363" class="bubblelink code" onclick="return showCourse(this, 'ENGL 363');">ENGL 363</a>; and senior standing or above; or consent of instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 473.  Topics in Black Literature.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+The study and analysis of selected works of Black literature and culture for students with significant background in the field. Topics vary by semester. Course Information: Same as <a href="/search/?P=BLST%20490" title="BLST 490" class="bubblelink code" onclick="return showCourse(this, 'BLST 490');">BLST 490</a>. 3 undergraduate hours. 4 graduate hours. May be repeated. Students may register in more than one section per term. Prerequisite(s): <a href="/search/?P=BLST%20100" title="BLST 100" class="bubblelink code" onclick="return showCourse(this, 'BLST 100');">BLST 100</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 474.  Topics in Popular Culture and Literature.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of a specific topic relating literature to popular culture, such as sport, television, and best sellers. Critical analysis of the cultural mythology encasing these subjects. Content varies.  Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s). Prerequisite(s): <a href="/search/?P=ENGL%20302" title="ENGL 302" class="bubblelink code" onclick="return showCourse(this, 'ENGL 302');">ENGL 302</a> or <a href="/search/?P=ENGL%20341" title="ENGL 341" class="bubblelink code" onclick="return showCourse(this, 'ENGL 341');">ENGL 341</a> or <a href="/search/?P=ENGL%20342" title="ENGL 342" class="bubblelink code" onclick="return showCourse(this, 'ENGL 342');">ENGL 342</a>; and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 478.  The Bible as Literature: Hebrew Bible.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Literary analysis of genres and themes of the Hebrew Bible and close reading of the biblical texts. Sources of the Bible and their historical context. Course Information: Same as <a href="/search/?P=JST%20478" title="JST 478" class="bubblelink code" onclick="return showCourse(this, 'JST 478');">JST 478</a>, and <a href="/search/?P=RELS%20478" title="RELS 478" class="bubblelink code" onclick="return showCourse(this, 'RELS 478');">RELS 478</a>. 3 undergraduate hours. 4 graduate hours. Taught in English. Prerequisite(s):  Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and Grade of C or better in <a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a> or Grade of C or better in <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a> or Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 479.  The Bible as Literature: New Testament.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Literary analysis of the New Testament and its historical and religious contexts, focusing on the gospels and Pauline letters. Course Information: Same as <a href="/search/?P=RELS%20479" title="RELS 479" class="bubblelink code" onclick="return showCourse(this, 'RELS 479');">RELS 479</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Grade of C or better in <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and Grade of C or better in <a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a> or Grade of C or better in <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a> or Grade of C or better in <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 481.  Methods of Teaching English in Middle and Secondary Schools.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Theory and practice; emphasis on current approaches to language and literature in multicultural settings. Course Information: 3 undergraduate hours. 4 graduate hours. All students in the teacher education program must take this course in the term preceding their student teaching. Prerequisite(s): Senior standing or 9 hours of English or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 482.  Campus Writing Consultants.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Tutoring in the Writing Center. Students are required to consult with others on their writing. Emphasis on practice and theories of writing. Appropriate for prospective teachers. Course Information: Prerequisite(s): Senior standing or 9 hours of English and consent of the instructor. Students must obtain override from the Writing Center. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Practice.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 483.  Studies in Language and Rhetoric.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of a particular topic or movement in language or rhetoric. Content varies. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s). Prerequisite(s): Senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 485.  Studies in the English Language and Linguistics.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of a topic such as language diversity and literacy, theories of grammar, literacy in society, ethnicity and language. Content varies. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s).  Prerequisite(s): Senior standing or 9 hours of English or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 486.  The Teaching of Writing in Middle and Secondary Schools.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Rhetoric and composition pedagogy. Study of a topic. Content varies. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Senior standing or 9 hours of English or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 489.  The Teaching of Reading and Literature in Middle and Secondary Schools.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Intended as a part of the English education methods sequence, with particular emphasis on helping prospective teachers assist struggling readers in the study of literature. Course Information: 3 undergraduate hours. 4 graduate hours. Field work required. Prerequisite(s): <a href="/search/?P=ENGL%20459" title="ENGL 459" class="bubblelink code" onclick="return showCourse(this, 'ENGL 459');">ENGL 459</a> and completion of the University Writing requirement; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 490.  Advanced Writing of Poetry.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced work on poetic techniques and practices; emphasis on analysis of student work, using published examples; particular attention to individual student development. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s) by undergraduates. Prerequisite(s): Undergraduates:  Grade of B or better in <a href="/search/?P=ENGL%20210" title="ENGL 210" class="bubblelink code" onclick="return showCourse(this, 'ENGL 210');">ENGL 210</a>.  Registration restrictions:  Graduate students must obtain approval of the Department of English.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 491.  Advanced Writing of Fiction.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced practice; emphasis on analysis of student work and published examples. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s) by undergraduates. Prerequisite(s):  Undergraduates:  Grade of B or better in <a href="/search/?P=ENGL%20212" title="ENGL 212" class="bubblelink code" onclick="return showCourse(this, 'ENGL 212');">ENGL 212</a>.  Registration restrictions:  Graduate students must obtain approval of the Department of English.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 492.  Advanced Writing of Creative Nonfiction.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced practice in writing personal essays, literary journalism, travel-writing, cultural criticism, or other forms of creative nonfiction prose. Content varies. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s) by undergraduates. Prerequisite(s):  Undergraduates:  Grade of B or better in <a href="/search/?P=ENGL%20201" title="ENGL 201" class="bubblelink code" onclick="return showCourse(this, 'ENGL 201');">ENGL 201</a>.  Registration restrictions:  Graduate students must obtain approval of the Department of English.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 493.  Internship in Nonfiction Writing.  0-6 hours.</strong></p>
+<p class="courseblockdesc">
+Approved internship where students learn professional writing and organizational communication with an emphasis on initiative, planning, and meeting deadlines. Both the instructor and a supervisor mentor students during the course. Course Information: May be repeated to a maximum of 6 hours. A maximum of 6 hours may be applied toward either the undergraduate major in English or a graduate degree in English. Credit is not given for <a href="/search/?P=ENGL%20493" title="ENGL 493" class="bubblelink code" onclick="return showCourse(this, 'ENGL 493');">ENGL 493</a> if the student has credit in <a href="/search/?P=ENGL%20593" title="ENGL 593" class="bubblelink code" onclick="return showCourse(this, 'ENGL 593');">ENGL 593</a>. Prerequisite(s): <a href="/search/?P=ENGL%20202" title="ENGL 202" class="bubblelink code" onclick="return showCourse(this, 'ENGL 202');">ENGL 202</a> and <a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a>; and <a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a> or <a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a> or <a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a>; and consent of the instructor; or Grade of C or better in two of the following courses: <a href="/search/?P=ENGL%20381" title="ENGL 381" class="bubblelink code" onclick="return showCourse(this, 'ENGL 381');">ENGL 381</a>, <a href="/search/?P=ENGL%20382" title="ENGL 382" class="bubblelink code" onclick="return showCourse(this, 'ENGL 382');">382</a>, <a href="/search/?P=ENGL%20383" title="ENGL 383" class="bubblelink code" onclick="return showCourse(this, 'ENGL 383');">383</a>, <a href="/search/?P=ENGL%20384" title="ENGL 384" class="bubblelink code" onclick="return showCourse(this, 'ENGL 384');">384</a>. An interview with the coordinator of the internship program prior to registration. Class Schedule Information: To be properly registered, students must enroll in one Conference and one Practice.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 494.  Topics in the Teaching of English.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of a topic in literature, composition, and/or pedagogy. The content varies with each offering. Course Information: May be repeated to a maximum of 8 hours. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 495.  Playwriting.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The development of scripts for stage performance. Course Information: Same as <a href="/search/?P=THTR%20431" title="THTR 431" class="bubblelink code" onclick="return showCourse(this, 'THTR 431');">THTR 431</a>. Prerequisite(s): Consent of the instructor. Recommended background: For BA Theatre majors: <a href="/search/?P=THTR%20101" title="THTR 101" class="bubblelink code" onclick="return showCourse(this, 'THTR 101');">THTR 101</a>, <a href="/search/?P=THTR%20201" title="THTR 201" class="bubblelink code" onclick="return showCourse(this, 'THTR 201');">201</a>, and 230.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 496.  Portfolio Practicum.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Students will reflect upon, organize and present a working portfolio of professional writing samples. Course Information: Credit is not given for <a href="/search/?P=ENGL%20496" title="ENGL 496" class="bubblelink code" onclick="return showCourse(this, 'ENGL 496');">ENGL 496</a> if the student has credit for <a href="/search/?P=ENGL%20493" title="ENGL 493" class="bubblelink code" onclick="return showCourse(this, 'ENGL 493');">ENGL 493</a>. Prerequisite(s): Grade of C or better in two of the following courses: <a href="/search/?P=ENGL%20381" title="ENGL 381" class="bubblelink code" onclick="return showCourse(this, 'ENGL 381');">ENGL 381</a>, <a href="/search/?P=ENGL%20382" title="ENGL 382" class="bubblelink code" onclick="return showCourse(this, 'ENGL 382');">382</a>, <a href="/search/?P=ENGL%20383" title="ENGL 383" class="bubblelink code" onclick="return showCourse(this, 'ENGL 383');">383</a>, <a href="/search/?P=ENGL%20384" title="ENGL 384" class="bubblelink code" onclick="return showCourse(this, 'ENGL 384');">384</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 498.  Educational Practice with Seminar I.  6 hours.</strong></p>
+<p class="courseblockdesc">
+The first half of a two-segment sequence of practice teaching, including seminar, to meet certification requirements for teaching in grades six through twelve. Course Information: Graduate credit only with approval of the department. Prerequisite(s): Good academic standing in a teacher education program, completion of 100 clock hours of pre-student-teaching field experiences, and approval of the department. Class Schedule Information:  To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENGL 499.  Educational Practice with Seminar II.  6 hours.</strong></p>
+<p class="courseblockdesc">
+The second half of a two-segment sequence of practice teaching, including seminar, to meet certification requirements for teaching in grades six through twelve. Course Information: Graduate credit only with approval of the department. Prerequisite(s): Good academic standing in a teacher education program, completion of 100 clock hours of pre-student-teaching field experiences, credit or concurrent registration in <a href="/search/?P=ENGL%20498" title="ENGL 498" class="bubblelink code" onclick="return showCourse(this, 'ENGL 498');">ENGL 498</a>, and approval of the department. Class Schedule Information:  To be properly registered, students must enroll in one Conference and one Practice.<br/>
+</p>
+</div></div>
+			</div>
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="engl.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,569 @@
+https://catalog.uic.edu/ucat/colleges-depts/liberal-arts-sciences/cl/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Department of Classics and Mediterranean Studies &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/liberal-arts-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/">Anthropology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/">Biochemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/">Biological Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/">Black Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/">Chemistry</a></li>
+				<li class="active isparent self"><a href="#" onclick="return false;">Classics and Mediterranean Studies</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/liberal-arts-sciences/cl/">
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/ba/">BA with a Major in Classical Studies</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/minor-arab/">Minor in Arabic</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/minor/">Minor in Classical Studies</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/">Communication</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/">Criminology, Law, and Justice</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/">Earth and Environmental Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/">Economics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/">English</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French and Francophone Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/">Gender and Women's Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/">Germanic Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/">Global Asian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/">Hispanic and Italian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/">History</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/">Integrated Health Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/">International Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/">Liberal Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/">Linguistics</a></li>
+				<li><a href="/ucat/colleges-depts/liberal-arts-sciences/lcsl/">Literatures, Cultural Studies, and Linguistics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/">Mathematics, Statistics, and Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/">Moving Image Arts</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/">Neuroscience</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/">Philosophy</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/">Physics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/">Polish, Russian, and Lithuanian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/">Political Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/">Psychology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/">Religious Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/">Sociology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional Studies</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/">College&nbsp;of&nbsp;Liberal&nbsp;Arts&nbsp;and&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><span class="active">Classics and Mediterranean Studies</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Department of Classics and Mediterranean Studies</h1>
+
+
+<script type="text/javascript">
+//<![CDATA[
+	var defshow = "text";
+	var bodycontainer = "#body";
+	var validhashes = ",text,undergraduateprogramstext,coursestext,";
+
+if(window.location.hash.length) {
+	var hash = cleanHash(window.location.hash);
+	if(validhashes.indexOf("," + hash + ",") != -1)
+		defshow = hash;	
+}
+var ss = document.styleSheets;
+var workss = null;
+for(var i=0; i < ss.length; i++) {
+	var currmedia = "";
+	if (typeof ss[i].media == "string") 
+		currmedia = ss[i].media
+	else if (typeof ss[i].media == "object" && ss[i].media.mediaText) 
+		currmedia = ss[i].media.mediaText;
+	
+	if((currmedia == "screen" || currmedia == "all") && (ss[i].href.indexOf("/") == 0 || ss[i].href.indexOf(document.location.host) >= 0)) {
+		workss = ss[i];
+		break;	
+	}
+}
+if(workss && workss.insertRule) {
+	workss.insertRule(".tab_content { display: none; }", workss.cssRules.length)
+	workss.insertRule(".sectionheader { display: none; }", workss.cssRules.length)
+	workss.insertRule("#" + defshow + "container { display: block; }", workss.cssRules.length)
+} else if(workss && workss.addRule) {
+	workss.addRule(".tab_content", "display: none");
+	workss.addRule(".sectionheader", "display: none");
+	workss.addRule("#" + defshow + "container", "display: block");
+}
+else {
+	if (window.console)
+		window.console.log('screen.css <link> needs attribute media="screen"');
+}
+//]]>
+</script>
+	<div id="tabs">
+		<ul class="clearfix" role="tablist">
+			<li id="texttab" role="presentation">
+<a href="#textcontainer" role="tab" aria-controls="textcontainer" onclick="return showSection('text');">Overview</a></li>
+			<li id="undergraduateprogramstexttab" role="presentation">
+<a href="#undergraduateprogramstextcontainer" role="tab" aria-controls="undergraduateprogramstextcontainer" onclick="return showSection('undergraduateprogramstext');" >Programs and Requirements</a></li>
+			<li id="coursestexttab" role="presentation">
+<a href="#coursestextcontainer" role="tab" aria-controls="coursestextcontainer" onclick="return showSection('coursestext');" >Courses</a></li>
+		</ul>
+	</div>
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p class="campus_location"><span class="label"><strong>Contact Information: </strong></span><br/>
+<span class="campus_location">Campus Location: 1722 University Hall (UH) <br/>
+<span class="phone">(312) 996–5218</span> <br/>
+<span class="website"><a href="https://clasmed.uic.edu/" target="_blank">clasmed.uic.edu</a></span></span></p>
+<p class="administration"><span class="label"><strong>Administration: </strong></span><br/>
+Director of Undergraduate Studies: Zinon Papakonstantinou, <a href="mailto:zpapak@uic.edu">zpapak@uic.edu</a><br/>
+Head, Young Kim,<span class="acronym"> <a href="mailto:ymrkim@uic.edu" target="_blank">ymrkim@uic.edu</a></span></p>
+<p>Classics is the study of the civilizations of ancient Greece, Rome, and the Ancient Mediterranean. The Department of Classics and Mediterranean Studies provides introductory and advanced treatments of the religion, literature, and art of the Greco-Roman world. It also offers courses on the art and archaeology of Ancient Egypt and the Near East. Arabic is taught from the introductory through the advanced levels, while courses in Latin and Modern Greek are taught from the introductory through the intermediate levels (101–104). Students who major in classics may go on to pursue careers in law and professional scholarship and teach at college or high school level. Recent classics majors have entered law, medical, and divinity schools, while others have taken positions in business. The training in precise expression and critical thinking that a classics major receives is widely respected by employers.</p>
+<p>The Department of Classics and Mediterranean Studies offers a program leading to the Bachelor of Arts with a Major in Classical Studies. Minors in Classical Studies and Arabic are also offered.</p>
+<h2>Language Study and Major/Minor</h2>
+<p>The major requires 31 hours, including <span class="sc_courseinline"><a href="/search/?P=ARAB%20104" title="ARAB 104" class="bubblelink code" onclick="return showCourse(this, 'ARAB 104');">ARAB 104</a></span>, <span class="sc_courseinline"><a href="/search/?P=GKM%20104" title="GKM 104" class="bubblelink code" onclick="return showCourse(this, 'GKM 104');">GKM 104</a></span>, or <span class="sc_courseinline"><a href="/search/?P=LAT%20104" title="LAT 104" class="bubblelink code" onclick="return showCourse(this, 'LAT 104');">LAT 104</a></span> (or the equivalent to be determined by examination). The electives are chosen from the fields of archaeology, history, classical literature, art, and Greek or Arabic studies.</p>
+
+<p>The Minor requires 18 hours but no foreign language. As electives, students are required to take a combination of courses in ancient or modern Mediterranean history or literature, archaeology, and art.</p>
+<h2>Distinction</h2>
+<ul>
+	<li><strong>Departmental Distinction</strong>. The candidate for departmental distinction must earn a 3.50/4.00 GPA in courses required for the major and a 3.00/4.00 overall GPA (UIC and transfer credit).</li>
+	<li><strong>High Departmental Distinction</strong>. The candidate for high departmental distinction must earn a 3.75/4.00 GPA in courses required for the major and a 3.00/4.00 overall GPA (UIC and transfer credit).</li>
+	<li><strong>Highest Departmental Distinction</strong>. Students who qualify for High Distinction and complete <span class="sc_courseinline"><a href="/search/?P=CL%20399" title="CL 399" class="bubblelink code" onclick="return showCourse(this, 'CL 399');">CL 399</a></span> with a grade of A will qualify for Highest Distinction.</li>
+
+</ul>
+</div><!--end #textcontainer -->
+
+			<div id="undergraduateprogramstextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="undergraduateprogramstexttab" aria-hidden="true">
+				<a name="undergraduateprogramstext"></a><h2>Degree Program</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/ba/">BA with a Major in Classical Studies</a></li>
+</ul>
+<h2>Minor</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/minor-arab/">Minor in Arabic</a></li>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/minor/">Minor in Classical Studies</a></li>
+</ul>
+			</div>
+			<div id="coursestextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="coursestexttab" aria-hidden="true">
+				<a name="coursestext"></a><div class="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle"><strong>CL 100.  Greek Civilization.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to the life, society and culture of the ancient Greeks. Course Information: All readings are in English.<i>  Creative Arts course, and  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 101.  Roman Civilization.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to the life, society and culture of the ancient Romans. Course Information: All readings are in English.<i>  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 102.  Introduction to Classical Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The main literary forms of Classical Antiquity: epic, tragedy, comedy, the philosophical dialogue, history. Course Information: All readings are in English.<i>  Creative Arts course, and  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 103.  Introduction to Classical and Mediterranean Archaeology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Contributions of archaeological excavations to the study of ancient Greece, Rome, Egypt and the Near East; architecture, painting, and sculpture in their social and historical contexts. Course Information: All readings are in English.<i>  Creative Arts course, and  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 104.  Mediterranean Traditions: Family, Society and the Divine.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Designed as an introduction to the varieties of cultural, social and religious traditions that collectively constitute Western civilization's foundations.<i>  Past course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 120.  Introduction to Ancient Philosophy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to issues and methods of philosophy through engagement with classic Greek and Roman texts (read in translation). Course Information: Same as <a href="/search/?P=PHIL%20120" title="PHIL 120" class="bubblelink code" onclick="return showCourse(this, 'PHIL 120');">PHIL 120</a>.  Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<i>  Individual and Society course, and  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 124.  Introduction to the Hebrew Bible.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A study of the Five Books of Moses (a.k.a Torah or Pentateuch) within the contexts of the ancient Near East and biblical literature.  Course Information:  Same as <a href="/search/?P=JST%20124" title="JST 124" class="bubblelink code" onclick="return showCourse(this, 'JST 124');">JST 124</a> and <a href="/search/?P=RELS%20124" title="RELS 124" class="bubblelink code" onclick="return showCourse(this, 'RELS 124');">RELS 124</a>.  Taught in English.<i>  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 201.  Classical Etymology in the Life Sciences.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The structure and formation of technical terms used in the health sciences, based on roots and elements from Greek and Latin. Course Information: Same as <a href="/search/?P=LING%20201" title="LING 201" class="bubblelink code" onclick="return showCourse(this, 'LING 201');">LING 201</a>. Prerequisite(s): Any 100-level biological sciences sequence.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 202.  The Ancient World: Greece.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Greece from the Mycenaean through the Hellenistic periods; political, social, economic, and religious life of the Greek city-state and the Hellenistic kingdoms. Course Information: Same as <a href="/search/?P=HIST%20202" title="HIST 202" class="bubblelink code" onclick="return showCourse(this, 'HIST 202');">HIST 202</a>.<i>  Past course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 203.  Ancient Rome.  3 hours.</strong></p>
+<p class="courseblockdesc">
+History of Rome from its origins to the end of the Roman Empire; emphasis on transformation of Rome from city-state to world empire, with attention to social, cultural, and economic background.Course Information: Same as <a href="/search/?P=HIST%20203" title="HIST 203" class="bubblelink code" onclick="return showCourse(this, 'HIST 203');">HIST 203</a>.<i>  Past course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 204.  Greek Art and Archaeology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Contributions of archaeological excavations to the study of ancient Greece, 600 BC to 31 BC. Architecture, sculpture and painting in their social and historical contexts. Course Information: Same as <a href="/search/?P=AH%20204" title="AH 204" class="bubblelink code" onclick="return showCourse(this, 'AH 204');">AH 204</a>, and <a href="/search/?P=HIST%20204" title="HIST 204" class="bubblelink code" onclick="return showCourse(this, 'HIST 204');">HIST 204</a>.  Credit is not given for <a href="/search/?P=CL%20204" title="CL 204" class="bubblelink code" onclick="return showCourse(this, 'CL 204');">CL 204</a> if the student has credit in CL 215. Taught in English.<i>  Creative Arts course, and  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 205.  Roman Art and Archaeology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Contributions of archaeological excavations to the study of ancient Rome and her empire 1000 BC-400 AD. Architecture, sculpture and painting in their social and historical contexts. Course Information: Same as <a href="/search/?P=AH%20205" title="AH 205" class="bubblelink code" onclick="return showCourse(this, 'AH 205');">AH 205</a>, and <a href="/search/?P=HIST%20205" title="HIST 205" class="bubblelink code" onclick="return showCourse(this, 'HIST 205');">HIST 205</a>.<i>  Creative Arts course, and  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 208.  Greek Mythology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Intensive study of the gods and heroic sagas of the Greeks, through original sources in translation. Course Information: Same as <a href="/search/?P=RELS%20208" title="RELS 208" class="bubblelink code" onclick="return showCourse(this, 'RELS 208');">RELS 208</a>. All readings are in English. Prerequisite(s): <a href="/search/?P=CL%20100" title="CL 100" class="bubblelink code" onclick="return showCourse(this, 'CL 100');">CL 100</a> or <a href="/search/?P=CL%20102" title="CL 102" class="bubblelink code" onclick="return showCourse(this, 'CL 102');">CL 102</a> or <a href="/search/?P=CL%20103" title="CL 103" class="bubblelink code" onclick="return showCourse(this, 'CL 103');">CL 103</a> or the equivalent.<i>  Individual and Society course, and  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 209.  Near Eastern Art and Archaeology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the art, archaeology, and material culture of ancient societies in western Asia (Mesopotamia, Syria, the Levant, Anatolia, and Iran) from the first settled villages of the Neolithic to Alexander the Great (ca 9600-330 BCE). Course Information: Same as <a href="/search/?P=AH%20209" title="AH 209" class="bubblelink code" onclick="return showCourse(this, 'AH 209');">AH 209</a>. Credit is not given for <a href="/search/?P=CL%20209" title="CL 209" class="bubblelink code" onclick="return showCourse(this, 'CL 209');">CL 209</a> if the student has credit in <a href="/search/?P=AH%20209" title="AH 209" class="bubblelink code" onclick="return showCourse(this, 'AH 209');">AH 209</a> or  ARST 209. Prerequisite(s): Sophomore standing or above. Recommended background: <a href="/search/?P=AH%20110" title="AH 110" class="bubblelink code" onclick="return showCourse(this, 'AH 110');">AH 110</a>. Class Schedule Information: To be properly, registered students should enroll in one Lecture and one Lecture-Discussion.<i>  Creative Arts course, and  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 210.  Ancient Egyptian Art and Archaeology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Ancient Egypt from 6000-1000 BCE. Architecture, sculpture and painting in their social and historical contexts. Course Information: Same as <a href="/search/?P=AH%20210" title="AH 210" class="bubblelink code" onclick="return showCourse(this, 'AH 210');">AH 210</a> and <a href="/search/?P=BLST%20210" title="BLST 210" class="bubblelink code" onclick="return showCourse(this, 'BLST 210');">BLST 210</a>. Credit is not given for <a href="/search/?P=CL%20210" title="CL 210" class="bubblelink code" onclick="return showCourse(this, 'CL 210');">CL 210</a> if the student has credit in <a href="/search/?P=ARST%20210" title="ARST 210" class="bubblelink code" onclick="return showCourse(this, 'ARST 210');">ARST 210</a> or <a href="/search/?P=AH%20210" title="AH 210" class="bubblelink code" onclick="return showCourse(this, 'AH 210');">AH 210</a> or <a href="/search/?P=BLST%20210" title="BLST 210" class="bubblelink code" onclick="return showCourse(this, 'BLST 210');">BLST 210</a>. Prerequisite(s): Completion of the English Composition requirement; and sophomore standing or above. Recommended background: Credit in <a href="/search/?P=AH%20100" title="AH 100" class="bubblelink code" onclick="return showCourse(this, 'AH 100');">AH 100</a> or <a href="/search/?P=AH%20110" title="AH 110" class="bubblelink code" onclick="return showCourse(this, 'AH 110');">AH 110</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Lecture-Discussion.<i>  Creative Arts course, and  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 211.  Gender and Sexual Orientation in Greek and Roman Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Ancient perceptions of gender roles and sexual orientation as they appear in the major authors of Greece and Rome. Course Information: Same as <a href="/search/?P=GWS%20211" title="GWS 211" class="bubblelink code" onclick="return showCourse(this, 'GWS 211');">GWS 211</a>. Prerequisite(s): Sophomore standing or above. Recommended background: <a href="/search/?P=CL%20102" title="CL 102" class="bubblelink code" onclick="return showCourse(this, 'CL 102');">CL 102</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 218.  Pompeii: Everyday Life in a Roman Town.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of the Roman town of Pompeii, including its history, society, politics, economy, religion, art, architecture, and entertainments. Course Information: Same as <a href="/search/?P=AH%20218" title="AH 218" class="bubblelink code" onclick="return showCourse(this, 'AH 218');">AH 218</a> and <a href="/search/?P=HIST%20218" title="HIST 218" class="bubblelink code" onclick="return showCourse(this, 'HIST 218');">HIST 218</a>. Prerequisite(s): <a href="/search/?P=CL%20101" title="CL 101" class="bubblelink code" onclick="return showCourse(this, 'CL 101');">CL 101</a> or <a href="/search/?P=CL%20103" title="CL 103" class="bubblelink code" onclick="return showCourse(this, 'CL 103');">CL 103</a> or <a href="/search/?P=CL%20205" title="CL 205" class="bubblelink code" onclick="return showCourse(this, 'CL 205');">CL 205</a> or <a href="/search/?P=AH%20110" title="AH 110" class="bubblelink code" onclick="return showCourse(this, 'AH 110');">AH 110</a> or; or consent of the instructor.<i>  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 219.  Sport in the Ancient World.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of Greek and Roman sport from the Bronze Age to the demise of pagan athletic festivals in late antiquity (c. fifth century CE). Course Information: Same as <a href="/search/?P=HIST%20219" title="HIST 219" class="bubblelink code" onclick="return showCourse(this, 'HIST 219');">HIST 219</a>. Prerequisite(s): Any course in Classics or History. Recommended background: <a href="/search/?P=CL%20100" title="CL 100" class="bubblelink code" onclick="return showCourse(this, 'CL 100');">CL 100</a>; <a href="/search/?P=CL%20101" title="CL 101" class="bubblelink code" onclick="return showCourse(this, 'CL 101');">CL 101</a>; <a href="/search/?P=CL%20103" title="CL 103" class="bubblelink code" onclick="return showCourse(this, 'CL 103');">CL 103</a>; <a href="/search/?P=CL%20202" title="CL 202" class="bubblelink code" onclick="return showCourse(this, 'CL 202');">CL 202</a> or <a href="/search/?P=HIST%20202" title="HIST 202" class="bubblelink code" onclick="return showCourse(this, 'HIST 202');">HIST 202</a>; <a href="/search/?P=CL%20203" title="CL 203" class="bubblelink code" onclick="return showCourse(this, 'CL 203');">CL 203</a> or <a href="/search/?P=HIST%20203" title="HIST 203" class="bubblelink code" onclick="return showCourse(this, 'HIST 203');">HIST 203</a>; <a href="/search/?P=CL%20204" title="CL 204" class="bubblelink code" onclick="return showCourse(this, 'CL 204');">CL 204</a> or HIST or <a href="/search/?P=AH%20204" title="AH 204" class="bubblelink code" onclick="return showCourse(this, 'AH 204');">AH 204</a>; or <a href="/search/?P=CL%20205" title="CL 205" class="bubblelink code" onclick="return showCourse(this, 'CL 205');">CL 205</a> or <a href="/search/?P=HIST%20205" title="HIST 205" class="bubblelink code" onclick="return showCourse(this, 'HIST 205');">HIST 205</a> or <a href="/search/?P=AH%20205" title="AH 205" class="bubblelink code" onclick="return showCourse(this, 'AH 205');">AH 205</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 220.  Ancient Philosophy I: Plato and His Predecessors.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to Plato and his predecessors in the ancient period. Course Information: Same as <a href="/search/?P=PHIL%20220" title="PHIL 220" class="bubblelink code" onclick="return showCourse(this, 'PHIL 220');">PHIL 220</a>. It is recommended that <a href="/search/?P=PHIL%20220" title="PHIL 220" class="bubblelink code" onclick="return showCourse(this, 'PHIL 220');">PHIL 220</a>/<a href="/search/?P=CL%20220" title="CL 220" class="bubblelink code" onclick="return showCourse(this, 'CL 220');">CL 220</a> and <a href="/search/?P=PHIL%20221" title="PHIL 221" class="bubblelink code" onclick="return showCourse(this, 'PHIL 221');">PHIL 221</a>/<a href="/search/?P=CL%20221" title="CL 221" class="bubblelink code" onclick="return showCourse(this, 'CL 221');">CL 221</a> be taken as a sequence in successive terms. Prerequisite(s): One course in philosophy or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 221.  Ancient Philosophy II: Aristotle and His Successors.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to Aristotle and his successors in the ancient period. Course Information: Same as <a href="/search/?P=PHIL%20221" title="PHIL 221" class="bubblelink code" onclick="return showCourse(this, 'PHIL 221');">PHIL 221</a>. It is recommended that <a href="/search/?P=PHIL%20220" title="PHIL 220" class="bubblelink code" onclick="return showCourse(this, 'PHIL 220');">PHIL 220</a>/<a href="/search/?P=CL%20220" title="CL 220" class="bubblelink code" onclick="return showCourse(this, 'CL 220');">CL 220</a> and <a href="/search/?P=PHIL%20221" title="PHIL 221" class="bubblelink code" onclick="return showCourse(this, 'PHIL 221');">PHIL 221</a>/<a href="/search/?P=CL%20221" title="CL 221" class="bubblelink code" onclick="return showCourse(this, 'CL 221');">CL 221</a> be taken as a sequence in successive terms. Prerequisite(s): One course in philosophy or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 225.  Topics in Muslim-Jewish Relations.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Muslim-Jewish interactions from the rise of Islam until contemporary times, the relationship between Biblical and Quranic materials, the Jewish and Islamic interpretive tradition and the legal systems of the two religious traditions.  Course Information:  Same as <a href="/search/?P=JST%20225" title="JST 225" class="bubblelink code" onclick="return showCourse(this, 'JST 225');">JST 225</a> and <a href="/search/?P=RELS%20225" title="RELS 225" class="bubblelink code" onclick="return showCourse(this, 'RELS 225');">RELS 225</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 230.  Italian and Italian American Culture and Civilization.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Italian and Italian American culture and civilization will explore key moments in Italian social history and its connection to the Italian diaspora. Course Information: Same as <a href="/search/?P=ITAL%20230" title="ITAL 230" class="bubblelink code" onclick="return showCourse(this, 'ITAL 230');">ITAL 230</a>. Taught in English. No knowledge of Italian required.<i>  Past course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 235.  Introduction to Jewish Thought I.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces students to the fundamental Jewish texts, theology, and thought of the Rabbinic period (100CE - 900 CE). Topics include: ethics, authority, sexuality, exegesis, and law. Course Information: Same as JST 235 and <a href="/search/?P=RELS%20235" title="RELS 235" class="bubblelink code" onclick="return showCourse(this, 'RELS 235');">RELS 235</a>. Prerequisite(s): Sophomore standing or above.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 242.  The History of Jewish Biblical Interpretation.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Jewish interpretation of the Hebrew bible. A survey of the span of Jewish history and the wide range of cultural contexts that have impacted the understanding of the Torah.  Same as <a href="/search/?P=JST%20242" title="JST 242" class="bubblelink code" onclick="return showCourse(this, 'JST 242');">JST 242</a> and <a href="/search/?P=RELS%20242" title="RELS 242" class="bubblelink code" onclick="return showCourse(this, 'RELS 242');">RELS 242</a>.<i>  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 250.  Greek and Roman Epic Poetry.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The epic poems of Homer, Apollonius of Rhodes, Vergil, and others in the Greco-Roman tradition. Course Information: All readings are in English. Prerequisite(s): <a href="/search/?P=CL%20100" title="CL 100" class="bubblelink code" onclick="return showCourse(this, 'CL 100');">CL 100</a> or <a href="/search/?P=CL%20101" title="CL 101" class="bubblelink code" onclick="return showCourse(this, 'CL 101');">CL 101</a> or <a href="/search/?P=CL%20102" title="CL 102" class="bubblelink code" onclick="return showCourse(this, 'CL 102');">CL 102</a> or <a href="/search/?P=CL%20103" title="CL 103" class="bubblelink code" onclick="return showCourse(this, 'CL 103');">CL 103</a> or the equivalent.<i>  Creative Arts course, and  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 251.  Greek Tragedy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The plays of Aeschylus, Sophocles, and Euripides. Course Information: All readings are in English. Prerequisite(s): <a href="/search/?P=CL%20100" title="CL 100" class="bubblelink code" onclick="return showCourse(this, 'CL 100');">CL 100</a> or <a href="/search/?P=CL%20102" title="CL 102" class="bubblelink code" onclick="return showCourse(this, 'CL 102');">CL 102</a> or <a href="/search/?P=CL%20103" title="CL 103" class="bubblelink code" onclick="return showCourse(this, 'CL 103');">CL 103</a> or CL 106 or the equivalent.<i>  Creative Arts course, and  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 252.  Greek and Roman Comedy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The plays of Aristophanes, Menander, Plautus, and Terence. Course Information: All readings are in English. Prerequisite(s): <a href="/search/?P=CL%20100" title="CL 100" class="bubblelink code" onclick="return showCourse(this, 'CL 100');">CL 100</a> or <a href="/search/?P=CL%20101" title="CL 101" class="bubblelink code" onclick="return showCourse(this, 'CL 101');">CL 101</a> or <a href="/search/?P=CL%20102" title="CL 102" class="bubblelink code" onclick="return showCourse(this, 'CL 102');">CL 102</a> or <a href="/search/?P=CL%20103" title="CL 103" class="bubblelink code" onclick="return showCourse(this, 'CL 103');">CL 103</a> or CL 106 or the equivalent.<i>  Creative Arts course, and  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 253.  Roman Satire and Rhetoric.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A survey of Roman literature with special emphasis on satire and rhetoric. Course Information: All readings are in English. Prerequisite(s): <a href="/search/?P=CL%20100" title="CL 100" class="bubblelink code" onclick="return showCourse(this, 'CL 100');">CL 100</a> or <a href="/search/?P=CL%20101" title="CL 101" class="bubblelink code" onclick="return showCourse(this, 'CL 101');">CL 101</a> or <a href="/search/?P=CL%20102" title="CL 102" class="bubblelink code" onclick="return showCourse(this, 'CL 102');">CL 102</a> or <a href="/search/?P=CL%20103" title="CL 103" class="bubblelink code" onclick="return showCourse(this, 'CL 103');">CL 103</a> or CL 106 or the equivalent.<i>  Creative Arts course, and  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 254.  Prophets in Judaism and Islam.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A cross-cultural survey of prophets. Texts include the Hebrew Bible, the Quran and Islamic and Jewish exegetical material.  Course Information:  Same as JST 254 and <a href="/search/?P=RELS%20254" title="RELS 254" class="bubblelink code" onclick="return showCourse(this, 'RELS 254');">RELS 254</a>.<i>  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 260.  Near Eastern Myths &amp; Epic.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Literature and religious traditions from the ancient Near East and Egypt in the first and second millennia BCE. Course Information: All texts read in translation. Prerequisite(s): Completion of the English Composition requirement; or consent of the instructor. Recommended Background: ARST 209 or <a href="/search/?P=ARST%20210" title="ARST 210" class="bubblelink code" onclick="return showCourse(this, 'ARST 210');">ARST 210</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 291.  Topics in Latin Prose Authors.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Readings in Latin prose chosen from a single author, period, or single genre. Course Information: Same as <a href="/search/?P=LAT%20291" title="LAT 291" class="bubblelink code" onclick="return showCourse(this, 'LAT 291');">LAT 291</a>. May be repeated to a maximum of 9 hours if topics vary. Taught in English. Students who register in <a href="/search/?P=CL%20291" title="CL 291" class="bubblelink code" onclick="return showCourse(this, 'CL 291');">CL 291</a> will complete assignments in English translation. Students who register in <a href="/search/?P=LAT%20291" title="LAT 291" class="bubblelink code" onclick="return showCourse(this, 'LAT 291');">LAT 291</a> will complete more than half of the readings in Latin. Prerequisite(s): <a href="/search/?P=LAT%20104" title="LAT 104" class="bubblelink code" onclick="return showCourse(this, 'LAT 104');">LAT 104</a> or equivalent for students who register in <a href="/search/?P=LAT%20291" title="LAT 291" class="bubblelink code" onclick="return showCourse(this, 'LAT 291');">LAT 291</a> only. Recommended background: <a href="/search/?P=CL%20102" title="CL 102" class="bubblelink code" onclick="return showCourse(this, 'CL 102');">CL 102</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Discussion.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 297.  Studies in the Classical Tradition.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of selected texts of ancient Greek and Roman literature, such as the novel, drama, and epic, and how they inform English and American literature and culture.  Course Information:  Same as <a href="/search/?P=ENGL%20297" title="ENGL 297" class="bubblelink code" onclick="return showCourse(this, 'ENGL 297');">ENGL 297</a>.  Prerequisite(s):  <a href="/search/?P=CL%20102" title="CL 102" class="bubblelink code" onclick="return showCourse(this, 'CL 102');">CL 102</a>; or consent of the instructor.<i>  Creative Arts course, and  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 298.  Topics in Classical Civilization.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics at an intermediate level in Greek and Roman civilization. Course Information: May be repeated. Students may register in more than one section per term. All readings are in English. Prerequisite(s): Any 100-level classics course or the equivalent.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 299.  Independent Reading: Special Topics in Classics in Translation.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Individual study under faculty direction. Reading and papers on chosen topics for qualified students based on preparation and interest; students must confer with faculty. Course Information: May be repeated. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor and department. Class Schedule Information: This course counts toward the limited number of independent study hours accepted toward the degree and the major.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 304.  Alexander the Great and the Hellenistic World.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines the career of Alexander the Great of Macedon and his legacy in Greece, Egypt and the Near East, up until the arrival of the Romans. Course Information: Same as <a href="/search/?P=AH%20304" title="AH 304" class="bubblelink code" onclick="return showCourse(this, 'AH 304');">AH 304</a>. Prerequisite(s): Sophomore standing or above.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 340.  The Iliad of Homer.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines the Iliad of Homer. It involves analysis of the structure of the narrative, close examination of characters and a historical commentary of the Archaic period of Greece.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 390.  Seminar in Mediterranean Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Comparative readings in selected texts from the literatures of Ancient Greece, Judaism, Christianity and Islam with an emphasis on writing and research skills.  Course Information:  May be repeated to a maximum of 6 hours.  Recommended background:  Grade of B or better in <a href="/search/?P=CL%20104" title="CL 104" class="bubblelink code" onclick="return showCourse(this, 'CL 104');">CL 104</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 391.  Topics in Latin Poetry.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced readings in Latin poetry chosen from a single author, period, or single genre in different periods. Course Information: Same as <a href="/search/?P=LAT%20391" title="LAT 391" class="bubblelink code" onclick="return showCourse(this, 'LAT 391');">LAT 391</a>. May be repeated to a maximum of 9 hours if topics vary. Taught in English. Students who register in <a href="/search/?P=CL%20391" title="CL 391" class="bubblelink code" onclick="return showCourse(this, 'CL 391');">CL 391</a> will complete assignments in English translation. Students who register in <a href="/search/?P=LAT%20391" title="LAT 391" class="bubblelink code" onclick="return showCourse(this, 'LAT 391');">LAT 391</a> will complete more than half of the readings in Latin. Prerequisite(s): <a href="/search/?P=CL%20250" title="CL 250" class="bubblelink code" onclick="return showCourse(this, 'CL 250');">CL 250</a> or <a href="/search/?P=CL%20252" title="CL 252" class="bubblelink code" onclick="return showCourse(this, 'CL 252');">CL 252</a> or <a href="/search/?P=CL%20253" title="CL 253" class="bubblelink code" onclick="return showCourse(this, 'CL 253');">CL 253</a>; or consent of the instructor; and <a href="/search/?P=LAT%20291" title="LAT 291" class="bubblelink code" onclick="return showCourse(this, 'LAT 291');">LAT 291</a> or the equivalent for students who register for <a href="/search/?P=LAT%20391" title="LAT 391" class="bubblelink code" onclick="return showCourse(this, 'LAT 391');">LAT 391</a> only. Recommended background: <a href="/search/?P=CL%20102" title="CL 102" class="bubblelink code" onclick="return showCourse(this, 'CL 102');">CL 102</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Discussion.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 398.  Advanced Topics in Classical Civilization.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced study of topics in Greek and Roman civilization. Emphasis on writing and research skills. Sample topic: Latin historiography. Course Information: May be repeated. Students may register in more than one section per term. Prerequisite(s): At least two classics courses at the 100- or 200-level.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 399.  Independent Study: Honors Project.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics for individual study. Course Information: Restricted to students seeking Highest Distinction in Classics. Prerequisite(s): A minimum 3.75/4.00 GPA in major courses and the completion of and/or concurrent registration in four advanced 200- and/or 300-level courses in the major, in consultation with the academic advisor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 401.  Topics in Greek History.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Specific topics are announced each term. Course Information: Same as <a href="/search/?P=HIST%20401" title="HIST 401" class="bubblelink code" onclick="return showCourse(this, 'HIST 401');">HIST 401</a>. 3 undergraduate hours. 4 graduate hours. May be repeated. Prerequisite(s): 3 hours of history or classics.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 405.  Herodotus and His World.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines the Histories of Herodotus - both the text and the culture of Classical Greece compared to the Near East and Egypt. Course Information: Same as <a href="/search/?P=HIST%20405" title="HIST 405" class="bubblelink code" onclick="return showCourse(this, 'HIST 405');">HIST 405</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Sophomore standing or above.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 408.  Athenian Democracy and Society in the Age of Aristophanes.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+A careful examination of the comedies of Aristophanes, his acute criticism of Athenian politics, and his account of the war between Athens and Sparta. Course Information: Same as <a href="/search/?P=HIST%20408" title="HIST 408" class="bubblelink code" onclick="return showCourse(this, 'HIST 408');">HIST 408</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=CL%20202" title="CL 202" class="bubblelink code" onclick="return showCourse(this, 'CL 202');">CL 202</a>. Recommended background: one of the following courses: <a href="/search/?P=CL%20251" title="CL 251" class="bubblelink code" onclick="return showCourse(this, 'CL 251');">CL 251</a>, <a href="/search/?P=CL%20252" title="CL 252" class="bubblelink code" onclick="return showCourse(this, 'CL 252');">CL 252</a>, <a href="/search/?P=CL%20405" title="CL 405" class="bubblelink code" onclick="return showCourse(this, 'CL 405');">CL 405</a> or <a href="/search/?P=HIST%20405" title="HIST 405" class="bubblelink code" onclick="return showCourse(this, 'HIST 405');">HIST 405</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 466.  Material Worlds: Topics in Material Culture Studies.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines current theories of material culture, drawn from art history, archaeology and anthropology to reflect on technologies of production and social life of things. Case studies  will be drawn from ancient, medieval and modern historical context. Course Information: Same as <a href="/search/?P=AH%20466" title="AH 466" class="bubblelink code" onclick="return showCourse(this, 'AH 466');">AH 466</a> and <a href="/search/?P=ANTH%20466" title="ANTH 466" class="bubblelink code" onclick="return showCourse(this, 'ANTH 466');">ANTH 466</a>. 3 undergraduate hours. 4 graduate hours.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CL 499.  Advanced Independent Study.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced independent study under faculty direction. Reading and papers on chosen topics for qualified students based on preparation and interest. Students must consult with faculty. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated. Students may register in more than one section per term. Prerequisite(s): Consent of the faculty member and department. Class Schedule Information: This course counts toward the limited number of independent study hours accepted toward the undergraduate degree and the major.<br/>
+</p>
+</div></div>
+			</div>
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="cl.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

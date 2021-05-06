@@ -1,0 +1,315 @@
+https://catalog.uic.edu/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-nurs/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Pre-Nursing &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/liberal-arts-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/">Anthropology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/">Biochemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/">Biological Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/">Black Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/">Chemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/">Classics and Mediterranean Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/">Communication</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/">Criminology, Law, and Justice</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/">Earth and Environmental Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/">Economics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/">English</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French and Francophone Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/">Gender and Women's Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/">Germanic Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/">Global Asian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/">Hispanic and Italian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/">History</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/">Integrated Health Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/">International Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/">Liberal Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/">Linguistics</a></li>
+				<li><a href="/ucat/colleges-depts/liberal-arts-sciences/lcsl/">Literatures, Cultural Studies, and Linguistics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/">Mathematics, Statistics, and Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/">Moving Image Arts</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/">Neuroscience</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/">Philosophy</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/">Physics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/">Polish, Russian, and Lithuanian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/">Political Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/">Psychology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/">Religious Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/">Sociology</a></li>
+				<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional Studies</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-dent/">Pre-&#8203;Dentistry</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-med/">Pre-&#8203;Medicine</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-ot/">Pre-&#8203;Occupational Therapy</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-pt/">Pre-&#8203;Physical Therapy</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-vet-med/">Pre-&#8203;Veterinary Medicine</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-him/">Pre-&#8203;Health Information Management</a></li>
+					<li class="active self"><a href="#" onclick="return false;">Pre-&#8203;Nursing</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-nut/">Pre-&#8203;Nutrition</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-pharm/">Pre-&#8203;Pharmacy</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-pubh/">Pre-&#8203;Public Health</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/pre-law/">Pre-&#8203;Law</a></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/">College&nbsp;of&nbsp;Liberal&nbsp;Arts&nbsp;and&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional&nbsp;Studies</a><span class="crumbsep">/</span></li><li><span class="active">Pre-Nursing</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Pre-Nursing</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p>The goal of the baccalaureate nursing program is to prepare nurses to function in a variety of settings: hospitals, clinics, rehabilitation centers, convalescent centers, military installations, and public health institutions, such as health departments and home healthcare agencies. Graduates assess the degree of health or illness of individuals, plan, implement, evaluate, and supervise nursing care. Graduates of this program have collegial and independent relationships with other members of the healthcare team.</p>
+<p>The prerequisite course work listed below prepares the student to apply to the Bachelor of Science in Nursing (BSN) program in the UIC College of Nursing. Completion of the pre-nursing curriculum does not guarantee admission to the College of Nursing. All prerequisite course work must be completed with a grade of C or higher.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td><td>Academic Writing I: Writing in Academic and Public Contexts</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td><td>Academic Writing II: Writing for Inquiry and Research</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=BIOS%20350" title="BIOS 350" class="bubblelink code" onclick="return showCourse(this, 'BIOS 350');">BIOS 350</a></td><td>General Microbiology <sup>a</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=CHEM%20122" title="CHEM 122" class="bubblelink code" onclick="return showCourse(this, 'CHEM 122');">CHEM 122</a></td><td>General Chemistry I Lecture <sup>b,c</sup></td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=CHEM%20123" title="CHEM 123" class="bubblelink code" onclick="return showCourse(this, 'CHEM 123');">CHEM 123</a></td><td>General Chemistry Laboratory I <sup>b,c</sup></td><td class="hourscol">1</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=CHEM%20130" title="CHEM 130" class="bubblelink code" onclick="return showCourse(this, 'CHEM 130');">CHEM 130</a></td><td>Survey of Organic and Biochemistry <sup>c</sup></td><td class="hourscol">5</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=KN%20251" title="KN 251" class="bubblelink code" onclick="return showCourse(this, 'KN 251');">KN 251</a></td><td>Human Physiological Anatomy I <sup>a,d</sup></td><td class="hourscol">5</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=KN%20252" title="KN 252" class="bubblelink code" onclick="return showCourse(this, 'KN 252');">KN 252</a></td><td>Human Physiological Anatomy II <sup>d</sup></td><td class="hourscol">5</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=NUEL%20250" title="NUEL 250" class="bubblelink code" onclick="return showCourse(this, 'NUEL 250');">NUEL 250</a></td><td>Human Development Across the Life Span</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=HN%20196" title="HN 196" class="bubblelink code" onclick="return showCourse(this, 'HN 196');">HN 196</a></td><td>Nutrition</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=STAT%20101" title="STAT 101" class="bubblelink code" onclick="return showCourse(this, 'STAT 101');">STAT 101</a></td><td>Introduction to Statistics <sup>e</sup></td><td class="hourscol">4</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <a href="/search/?P=STAT%20130" title="STAT 130" class="bubblelink code" onclick="return showCourse(this, 'STAT 130');">STAT 130</a></td><td colspan="2"> Introduction to Statistics for the Life Sciences</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Exploring World Cultures course</span> <sup>f</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Understanding the Creative Arts course</span> <sup>f</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Understanding the Individual and Society course</span> <sup>f,g</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Understanding the Past course</span> <sup>f</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Understanding U.S. Society course</span> <sup>f,g</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">One 3-semester-hour, 200-level, upper-division course in the arts and sciences</span> <sup>h</sup></td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">LAS Electives (hours may vary)</span></td><td class="hourscol"></td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">57</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a></span> is a prerequisite for this course.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em> General Education credit is given for successful completion of both <span class="sc_courseinline"><a href="/search/?P=CHEM%20122" title="CHEM 122" class="bubblelink code" onclick="return showCourse(this, 'CHEM 122');">CHEM 122</a></span>/<span class="sc_courseinline"><a href="/search/?P=CHEM%20123" title="CHEM 123" class="bubblelink code" onclick="return showCourse(this, 'CHEM 123');">CHEM 123</a></span>. </em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p> <em>This course is approved for the Analyzing the Natural World General Education category.</em></p></td></tr><tr><td valign="top" class="symcol">d</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=KN%20251" title="KN 251" class="bubblelink code" onclick="return showCourse(this, 'KN 251');">KN 251</a></span>/<span class="sc_courseinline"><a href="/search/?P=KN%20252" title="KN 252" class="bubblelink code" onclick="return showCourse(this, 'KN 252');">KN 252</a></span> sequence begins in the fall term only. </em></p></td></tr><tr><td valign="top" class="symcol">e</td><td class="notecol"><p><em> <span class="sc_courseinline"><a href="/search/?P=STAT%20101" title="STAT 101" class="bubblelink code" onclick="return showCourse(this, 'STAT 101');">STAT 101</a></span> or <span class="sc_courseinline"><a href="/search/?P=STAT%20130" title="STAT 130" class="bubblelink code" onclick="return showCourse(this, 'STAT 130');">STAT 130</a></span> satisfies the Quantitative Reasoning requirement.</em></p></td></tr><tr><td valign="top" class="symcol">f</td><td class="notecol"><p><em>Students should consult the <a href="/ucat/degree-programs/general-education/">General Education</a> section of the cata­log for a list of approved courses in this category. </em></p></td></tr><tr><td valign="top" class="symcol">g</td><td class="notecol"><p><em>For the Understanding the Individual and Society requirement, <span class="sc_courseinline"><a href="/search/?P=PSCH%20100" title="PSCH 100" class="bubblelink code" onclick="return showCourse(this, 'PSCH 100');">PSCH 100</a></span> is recommended; for the Understanding U.S. Society requirement, <span class="sc_courseinline"><a href="/search/?P=SOC%20100" title="SOC 100" class="bubblelink code" onclick="return showCourse(this, 'SOC 100');">SOC 100</a></span> </em><em> is recommended.</em> </p></td></tr><tr><td valign="top" class="symcol">h</td><td class="notecol"><p><em>Students may choose a course from one of these categories: physical sciences, life sciences, mathematical sciences, social sciences, fine arts, performing arts, or humanities. This requirement may be completed after admission to the BSN program.</em></p></td></tr></table>
+<p>Applications to the BSN program are accepted for fall admission only. Students applying to the BSN program must meet the following minimum requirements at the time of application:</p>
+<ol>
+	<li>2.75/4.00 cumulative grade point average</li>
+	<li>2.50/4.00 natural science grade point average</li>
+	<li>Completion of all pre-nursing course work with a grade of C or higher prior to enrollment. The five natural science courses (human anatomy and physiology I and II, microbiology, general chemistry, survey of organic and biochemistry) must have been completed within seven years of enrollment. Three of the five natural science courses must be completed prior to the application deadline.</li>
+</ol>
+<p>In addition, all students will be required to have a background check and drug test upon admission. If the results of either requirement indicate that a student would not be eligible for placement at the college’s practicum agencies, the student’s admission will be rescinded.</p>
+<p>Applications are available in September. The final application deadline is January 15. Students should see the program website for information regarding current application requirements <a href="http://nursing.uic.edu" target="_blank">nursing.uic.edu</a>.</p></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="pre-nurs.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

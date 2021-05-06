@@ -1,0 +1,497 @@
+https://catalog.uic.edu/ucat/colleges-depts/applied-health-sciences/dhd/bs/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>BS in Disability and Human Development &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="active isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/applied-health-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/bhis/">Biomedical and Health Information Sciences</a></li>
+				<li class="active isparent"><a href="/ucat/colleges-depts/applied-health-sciences/dhd/">Disability and Human Development</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/applied-health-sciences/dhd/">
+					<li class="active self"><a href="#" onclick="return false;">BS in Disability and Human Development</a></li>
+					<li><a href="/ucat/colleges-depts/applied-health-sciences/dhd/minor/">Minor in Disability and Human Development</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/kn/">Kinesiology and Nutrition</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/rs/">Rehabilitation Sciences</a></li>
+				<li><a href="/ucat/colleges-depts/applied-health-sciences/preprofessional-studies/">Preprofessional Studies</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/applied-health-sciences/">College&nbsp;of&nbsp;Applied&nbsp;Health&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/applied-health-sciences/dhd/">Disability&nbsp;and&nbsp;Human&nbsp;Development</a><span class="crumbsep">/</span></li><li><span class="active">BS in Disability and Human Development</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">BS in Disability and Human Development</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+<p class="program_codes"><span class="label"><strong>Program Codes:</strong> </span><br />20GF1165BS<br /></p>	</div>
+</div>
+
+<h2>Degree Requirements</h2>
+<p>To earn a Bachelor of Science in Disability and Human Development degree from UIC, students need to complete university, college, and department degree requirements. The Department of Disability and Human Development degree requirements are outlined below. Students should consult the <a href="/ucat/colleges-depts/applied-health-sciences/"><em>College of Applied Health Sciences</em></a> section for additional degree requirements and college academic policies.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Summary of Requirements</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">University Writing Requirement</span></td><td class="hourscol">6</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">General Education Requirements</span></td><td class="hourscol">18</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Major Requirements (Core, Selective and DHD Elective)</span></td><td class="hourscol">34-35</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">Electives to reach Minimum Total Hours</span></td><td class="hourscol">61-62</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">120</td></tr></tbody>
+</table>
+
+<h3>University Writing Requirement </h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td><td>Academic Writing I: Writing in Academic and Public Contexts</td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td><td>Academic Writing II: Writing for Inquiry and Research</td><td class="hourscol">3</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">6</td></tr></tbody>
+</table>
+
+<h3>General Education Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span> <sup>a</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Analyzing the Natural World course</span></td><td class="hourscol">3-5</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Understanding the Individual and Society course</span></td><td class="hourscol">3-4</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Understanding the Past course</span></td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Exploring World Cultures course</span></td><td class="hourscol">3</td></tr>
+<tr class="odd lastrow"><td colspan="2"><span class="courselistcomment">Additional General Education courses from any category</span> <sup>b</sup></td><td class="hourscol">3-6</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">18</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>The University General Education requirement is 24 hours distributed across six categories. The Understanding U.S. Society and Understanding the Creative Arts requirements are met by required courses within the major (<span class="sc_courseinline"><a href="/search/?P=DHD%20101" title="DHD 101" class="bubblelink code" onclick="return showCourse(this, 'DHD 101');">DHD 101</a></span> and <span class="sc_courseinline"><a href="/search/?P=DHD%20102" title="DHD 102" class="bubblelink code" onclick="return showCourse(this, 'DHD 102');">DHD 102</a></span>).</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>Students take additional General Education courses from any of the six General Education categories to reach the required 24 hours of General Education course work.</em></p></td></tr></table>
+<h3>Major Requirements (Core, Selective, and DHD Elective)</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Core Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=AHS%20100" title="AHS 100" class="bubblelink code" onclick="return showCourse(this, 'AHS 100');">AHS 100</a></td><td>Applied Health Sciences Seminar I <sup>a</sup></td><td class="hourscol">1</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=DHD%20101" title="DHD 101" class="bubblelink code" onclick="return showCourse(this, 'DHD 101');">DHD 101</a></td><td>Disability in U.S. Society <sup>b</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=DHD%20102" title="DHD 102" class="bubblelink code" onclick="return showCourse(this, 'DHD 102');">DHD 102</a></td><td>Disability in American Film <sup>c</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=DHD%20201" title="DHD 201" class="bubblelink code" onclick="return showCourse(this, 'DHD 201');">DHD 201</a></td><td>Disability, Rights, and Culture</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=DHD%20202" title="DHD 202" class="bubblelink code" onclick="return showCourse(this, 'DHD 202');">DHD 202</a></td><td>Disability, Health, and Society</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=DHD%20301" title="DHD 301" class="bubblelink code" onclick="return showCourse(this, 'DHD 301');">DHD 301</a></td><td>Disability, Research, and Interdisciplinary Methods</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=DHD%20302" title="DHD 302" class="bubblelink code" onclick="return showCourse(this, 'DHD 302');">DHD 302</a></td><td>Disability, Policy, and Law</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=DHD%20400" title="DHD 400" class="bubblelink code" onclick="return showCourse(this, 'DHD 400');">DHD 400</a></td><td>Disability and Human Development Capstone</td><td class="hourscol">1</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=DHD%20401" title="DHD 401" class="bubblelink code" onclick="return showCourse(this, 'DHD 401');">DHD 401</a></td><td>Foundations of Disability and Human Development</td><td class="hourscol">3</td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Selective Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select two of the following:</span></td><td class="hourscol">6</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DHD%20205" title="DHD 205" class="bubblelink code" onclick="return showCourse(this, 'DHD 205');">DHD 205</a></div></td><td>Disability, Race, Class and Gender</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DHD%20303" title="DHD 303" class="bubblelink code" onclick="return showCourse(this, 'DHD 303');">DHD 303</a></div></td><td>Disability Activism: From the Local to the Global</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DHD%20407" title="DHD 407" class="bubblelink code" onclick="return showCourse(this, 'DHD 407');">DHD 407</a></div></td><td>Cultural Politics of Disability and Health</td><td class="hourscol"></td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">DHD Elective Courses</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Select two of the following (students may replace one course with the remaining selective from the list above):</span></td><td class="hourscol">6</td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DHD%20203" title="DHD 203" class="bubblelink code" onclick="return showCourse(this, 'DHD 203');">DHD 203</a></div></td><td>Disability in World Cultures</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DHD%20204" title="DHD 204" class="bubblelink code" onclick="return showCourse(this, 'DHD 204');">DHD 204</a></div></td><td>Disability in the Humanities</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DHD%20402" title="DHD 402" class="bubblelink code" onclick="return showCourse(this, 'DHD 402');">DHD 402</a></div></td><td>Historical Issues in Disability and Disease</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DHD%20404" title="DHD 404" class="bubblelink code" onclick="return showCourse(this, 'DHD 404');">DHD 404</a></div></td><td>Disability, Sexuality, and Health</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DHD%20405" title="DHD 405" class="bubblelink code" onclick="return showCourse(this, 'DHD 405');">DHD 405</a></div></td><td>Analysis of the Americans with Disabilities Act</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DHD%20406" title="DHD 406" class="bubblelink code" onclick="return showCourse(this, 'DHD 406');">DHD 406</a></div></td><td>Disability and Work</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DHD%20408" title="DHD 408" class="bubblelink code" onclick="return showCourse(this, 'DHD 408');">DHD 408</a></div></td><td>Disability Through the Lifecourse</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DHD%20420" title="DHD 420" class="bubblelink code" onclick="return showCourse(this, 'DHD 420');">DHD 420</a></div></td><td>Mental Health, Asian Americans, and Community Engagement</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DHD%20440" title="DHD 440" class="bubblelink code" onclick="return showCourse(this, 'DHD 440');">DHD 440</a></div></td><td>Introduction to Assistive Technology: Principles and Practice</td><td class="hourscol"></td></tr>
+<tr class="even lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DHD%20445" title="DHD 445" class="bubblelink code" onclick="return showCourse(this, 'DHD 445');">DHD 445</a></div></td><td>Topics in Disability Studies</td><td class="hourscol"></td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">34-35</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Transfer students are not required to complete <span class="sc_courseinline"><a href="/search/?P=AHS%20100" title="AHS 100" class="bubblelink code" onclick="return showCourse(this, 'AHS 100');">AHS 100</a></span> as part of the DHD core courses and will earn a total of 34 hours in core courses. The additional hour will be made up in elective hours.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>Satisfies the Understanding U.S. Society General Education requirement.</em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>Satisfies the Understanding the Creative Arts General Education requirement.</em></p></td></tr></table>
+<h3>Electives to reach Minimum Total Hours</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td colspan="2"><span class="courselistcomment">Electives to reach minimum total hours</span></td><td class="hourscol">61-62</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">61-62</td></tr></tbody>
+</table>
+
+<h2>Sample Plan of Study</h2>
+<table pdfnorepeatheader="true" class="sc_plangrid">
+<caption>Plan of Study Grid</caption><colgroup>
+	<col class="codecol"/>
+	<col class="titlecol"/>
+	<col class="hourscol"/>
+</colgroup>
+<tr class="plangridyear"><th id="plangrid1_0" class="year" colspan="3">First Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_0_0" colspan="2">Fall Semester</th><th id="hoursheader" scope="col" class="hourscol">Hours</th></tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=AHS%20100" title="AHS 100" class="bubblelink code" onclick="return showCourse(this, 'AHS 100');">AHS 100</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Applied Health Sciences Seminar I</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=DHD%20101" title="DHD 101" class="bubblelink code" onclick="return showCourse(this, 'DHD 101');">DHD 101</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Disability in U.S. Society <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=DHD%20102" title="DHD 102" class="bubblelink code" onclick="return showCourse(this, 'DHD 102');">DHD 102</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Disability in American Film <sup>b</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Academic Writing I: Writing in Academic and Public Contexts</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">General Education course (Analyzing the Natural World)</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_0_0" class="titlecol">Hours</td><td headers=" plangrid1_0_0 hoursheader" class="hourscol">16</td></tr>
+<tr class="plangridterm"><th id="plangrid1_0_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Academic Writing II: Writing for Inquiry and Research</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">General Education course (Understanding the Individual and Society)</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">General Education course (Understanding the Past)</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">Additional General Education course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_0_1" class="titlecol">Hours</td><td headers=" plangrid1_0_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridyear"><th id="plangrid1_1" class="year" colspan="3">Second Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_1_0" colspan="3">Fall Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">General Education course (Exploring World Cultures)</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">Additional General Education course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">9</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_1_0" class="titlecol">Hours</td><td headers=" plangrid1_1_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid1_1_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_1_1" class="codecol"><a href="/search/?P=DHD%20201" title="DHD 201" class="bubblelink code" onclick="return showCourse(this, 'DHD 201');">DHD 201</a></td>
+<td headers=" plangrid1_1_1" class="titlecol">Disability, Rights, and Culture</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" class="codecol"><a href="/search/?P=DHD%20202" title="DHD 202" class="bubblelink code" onclick="return showCourse(this, 'DHD 202');">DHD 202</a></td>
+<td headers=" plangrid1_1_1" class="titlecol">Disability, Health, and Society</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">9</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_1_1" class="titlecol">Hours</td><td headers=" plangrid1_1_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridyear"><th id="plangrid1_2" class="year" colspan="3">Third Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_2_0" colspan="3">Fall Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=DHD%20301" title="DHD 301" class="bubblelink code" onclick="return showCourse(this, 'DHD 301');">DHD 301</a></td>
+<td headers=" plangrid1_2_0" class="titlecol">Disability, Research, and Interdisciplinary Methods</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=DHD%20302" title="DHD 302" class="bubblelink code" onclick="return showCourse(this, 'DHD 302');">DHD 302</a></td>
+<td headers=" plangrid1_2_0" class="titlecol">Disability, Policy, and Law</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">9</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_2_0" class="titlecol">Hours</td><td headers=" plangrid1_2_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid1_2_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">DHD Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">DHD Selective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">9</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_2_1" class="titlecol">Hours</td><td headers=" plangrid1_2_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridyear"><th id="plangrid1_3" class="year" colspan="3">Fourth Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_3_0" colspan="3">Fall Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_3_0" class="codecol"><a href="/search/?P=DHD%20401" title="DHD 401" class="bubblelink code" onclick="return showCourse(this, 'DHD 401');">DHD 401</a></td>
+<td headers=" plangrid1_3_0" class="titlecol">Foundations of Disability and Human Development</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">DHD Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">9</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_3_0" class="titlecol">Hours</td><td headers=" plangrid1_3_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid1_3_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_3_1" class="codecol"><a href="/search/?P=DHD%20400" title="DHD 400" class="bubblelink code" onclick="return showCourse(this, 'DHD 400');">DHD 400</a></td>
+<td headers=" plangrid1_3_1" class="titlecol">Disability and Human Development Capstone</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">DHD Selective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">10</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_3_1" class="titlecol">Hours</td><td headers=" plangrid1_3_1 hoursheader" class="hourscol">14</td></tr>
+<tr class="plangridtotal lastrow odd"><td> </td><td>Total Hours</td><td headers="hoursheader" class="hourscol">120</td></tr>
+</table>
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Satisfies the Understanding U.S. Society General Education requirement.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>Satisfies the Understanding the Creative Arts General Education requirement.</em></p></td></tr></table></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="bs.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

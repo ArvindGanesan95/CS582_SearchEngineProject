@@ -1,0 +1,948 @@
+https://catalog.uic.edu/all-course-descriptions/psch/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Psychology (PSCH) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="isparent"><a href="/ucat/">Undergraduate Catalog</a></li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="active isparent"><a href="/all-course-descriptions/">All Course Descriptions</a>
+	<ul class="nav levelone" id="/all-course-descriptions/">
+		<li><a href="/all-course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+		<li><a href="/all-course-descriptions/actg/">Accounting (ACTG)</a></li>
+		<li><a href="/all-course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+		<li><a href="/all-course-descriptions/anth/">Anthropology (ANTH)</a></li>
+		<li><a href="/all-course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+		<li><a href="/all-course-descriptions/arab/">Arabic (ARAB)</a></li>
+		<li><a href="/all-course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+		<li><a href="/all-course-descriptions/arch/">Architecture (ARCH)</a></li>
+		<li><a href="/all-course-descriptions/art/">Art (ART)</a></li>
+		<li><a href="/all-course-descriptions/ah/">Art History (AH)</a></li>
+		<li><a href="/all-course-descriptions/bms/">Basic Medical Sciences (BMS)</a></li>
+		<li><a href="/all-course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+		<li><a href="/all-course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+		<li><a href="/all-course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+		<li><a href="/all-course-descriptions/bvis/">Biomedical Visualization (BVIS)</a></li>
+		<li><a href="/all-course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+		<li><a href="/all-course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+		<li><a href="/all-course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+		<li><a href="/all-course-descriptions/blst/">Black Studies (BLST)</a></li>
+		<li><a href="/all-course-descriptions/ba/">Business Administration (BA)</a></li>
+		<li><a href="/all-course-descriptions/cc/">Campus Courses (CC)</a></li>
+		<li><a href="/all-course-descriptions/cst/">Catholic Studies (CST)</a></li>
+		<li><a href="/all-course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+		<li><a href="/all-course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+		<li><a href="/all-course-descriptions/chem/">Chemistry (CHEM)</a></li>
+		<li><a href="/all-course-descriptions/chin/">Chinese (CHIN)</a></li>
+		<li><a href="/all-course-descriptions/cd/">City Design (CD)</a></li>
+		<li><a href="/all-course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+		<li><a href="/all-course-descriptions/cl/">Classics (CL)</a></li>
+		<li><a href="/all-course-descriptions/cler/">Clerkship -&#8203; Medicine (CLER)</a></li>
+		<li><a href="/all-course-descriptions/cele/">Clerkship Electives -&#8203; Chicago (CELE)</a></li>
+		<li><a href="/all-course-descriptions/pele/">Clerkship Electives -&#8203; Peoria (PELE)</a></li>
+		<li><a href="/all-course-descriptions/rele/">Clerkship Electives -&#8203; Rockford (RELE)</a></li>
+		<li><a href="/all-course-descriptions/uele/">Clerkship Electives -&#8203; Urbana (UELE)</a></li>
+		<li><a href="/all-course-descriptions/comm/">Communication (COMM)</a></li>
+		<li><a href="/all-course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+		<li><a href="/all-course-descriptions/cs/">Computer Science (CS)</a></li>
+		<li><a href="/all-course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+		<li><a href="/all-course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+		<li><a href="/all-course-descriptions/dadm/">Dental Administration (DADM)</a></li>
+		<li><a href="/all-course-descriptions/daob/">Dentistry -&#8203; Applied Oral and Behavioral Sciences (DAOB)</a></li>
+		<li><a href="/all-course-descriptions/dbcs/">Dentistry -&#8203; Biomedical and Clinical Sciences (DBCS)</a></li>
+		<li><a href="/all-course-descriptions/dcle/">Dentistry -&#8203; Community Learning Experience (DCLE)</a></li>
+		<li><a href="/all-course-descriptions/dosi/">Dentistry -&#8203; Oral/&#8203;Systemic Issues (DOSI)</a></li>
+		<li><a href="/all-course-descriptions/dost/">Dentistry -&#8203; Oral/&#8203;Systemic Topics (DOST)</a></li>
+		<li><a href="/all-course-descriptions/des/">Design (DES)</a></li>
+		<li><a href="/all-course-descriptions/dlg/">Dialogue (DLG)</a></li>
+		<li><a href="/all-course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+		<li><a href="/all-course-descriptions/mdc/">Doctor of Medicine—Chicago (MDC)</a></li>
+		<li><a href="/all-course-descriptions/mdp/">Doctor of Medicine—Peoria (MDP)</a></li>
+		<li><a href="/all-course-descriptions/mdr/">Doctor of Medicine—Rockford (MDR)</a></li>
+		<li><a href="/all-course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+		<li><a href="/all-course-descriptions/econ/">Economics (ECON)</a></li>
+		<li><a href="/all-course-descriptions/ed/">Education (ED)</a></li>
+		<li><a href="/all-course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+		<li><a href="/all-course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+		<li><a href="/all-course-descriptions/ece/">Electrical and Computer Engineering (ECE)</a></li>
+		<li><a href="/all-course-descriptions/eb/">Employee Benefits (EB)</a></li>
+		<li><a href="/all-course-descriptions/endo/">Endodontics (ENDO)</a></li>
+		<li><a href="/all-course-descriptions/ener/">Energy Engineering (ENER)</a></li>
+		<li><a href="/all-course-descriptions/engr/">Engineering (ENGR)</a></li>
+		<li><a href="/all-course-descriptions/engl/">English (ENGL)</a></li>
+		<li><a href="/all-course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+		<li><a href="/all-course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+		<li><a href="/all-course-descriptions/eohs/">Environmental and Occupational Health Sciences (EOHS)</a></li>
+		<li><a href="/all-course-descriptions/epid/">Epidemiology (EPID)</a></li>
+		<li><a href="/all-course-descriptions/epl/">Estate Planning (EPL)</a></li>
+		<li><a href="/all-course-descriptions/fin/">Finance (FIN)</a></li>
+		<li><a href="/all-course-descriptions/fr/">French (FR)</a></li>
+		<li><a href="/all-course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+		<li><a href="/all-course-descriptions/geog/">Geography (GEOG)</a></li>
+		<li><a href="/all-course-descriptions/ger/">Germanic Studies (GER)</a></li>
+		<li><a href="/all-course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+		<li><a href="/all-course-descriptions/gc/">Graduate College (GC)</a></li>
+		<li><a href="/all-course-descriptions/gems/">Graduate Education in Medical Sciences (GEMS)</a></li>
+		<li><a href="/all-course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+		<li><a href="/all-course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+		<li><a href="/all-course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+		<li><a href="/all-course-descriptions/him/">Health Information Management (HIM)</a></li>
+		<li><a href="/all-course-descriptions/hpa/">Health Policy and Administration (HPA)</a></li>
+		<li><a href="/all-course-descriptions/hlp/">Healthy Living Practitioner™ (HLP)</a></li>
+		<li><a href="/all-course-descriptions/heb/">Hebrew (HEB)</a></li>
+		<li><a href="/all-course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+		<li><a href="/all-course-descriptions/hstl/">Histology (HSTL)</a></li>
+		<li><a href="/all-course-descriptions/hist/">History (HIST)</a></li>
+		<li><a href="/all-course-descriptions/hon/">Honors College (HON)</a></li>
+		<li><a href="/all-course-descriptions/hn/">Human Nutrition (HN)</a></li>
+		<li><a href="/all-course-descriptions/hum/">Humanities (HUM)</a></li>
+		<li><a href="/all-course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+		<li><a href="/all-course-descriptions/it/">Information Technology (IT)</a></li>
+		<li><a href="/all-course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+		<li><a href="/all-course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+		<li><a href="/all-course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+		<li><a href="/all-course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+		<li><a href="/all-course-descriptions/ip/">Intellectual Property (IP)</a></li>
+		<li><a href="/all-course-descriptions/ibt/">International Business and Trade (IBT)</a></li>
+		<li><a href="/all-course-descriptions/inst/">International Studies (INST)</a></li>
+		<li><a href="/all-course-descriptions/ital/">Italian (ITAL)</a></li>
+		<li><a href="/all-course-descriptions/jpn/">Japanese (JPN)</a></li>
+		<li><a href="/all-course-descriptions/jst/">Jewish Studies (JST)</a></li>
+		<li><a href="/all-course-descriptions/jd/">Juris Doctor (JD)</a></li>
+		<li><a href="/all-course-descriptions/kn/">Kinesiology (KN)</a></li>
+		<li><a href="/all-course-descriptions/kor/">Korean (KOR)</a></li>
+		<li><a href="/all-course-descriptions/lat/">Latin (LAT)</a></li>
+		<li><a href="/all-course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+		<li><a href="/all-course-descriptions/law/">Law (LAW)</a></li>
+		<li><a href="/all-course-descriptions/lrsc/">Learning Sciences (LRSC)</a></li>
+		<li><a href="/all-course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+		<li><a href="/all-course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+		<li><a href="/all-course-descriptions/ling/">Linguistics (LING)</a></li>
+		<li><a href="/all-course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+		<li><a href="/all-course-descriptions/lith/">Lithuanian (LITH)</a></li>
+		<li><a href="/all-course-descriptions/mgmt/">Management (MGMT)</a></li>
+		<li><a href="/all-course-descriptions/mktg/">Marketing (MKTG)</a></li>
+		<li><a href="/all-course-descriptions/mba/">Master of Business Administration (MBA)</a></li>
+		<li><a href="/all-course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+		<li><a href="/all-course-descriptions/mj/">Master of Jurisprudence (MJ)</a></li>
+		<li><a href="/all-course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+		<li><a href="/all-course-descriptions/math/">Mathematics (MATH)</a></li>
+		<li><a href="/all-course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+		<li><a href="/all-course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+		<li><a href="/all-course-descriptions/mbt/">Medical Biotechnology (MBT)</a></li>
+		<li><a href="/all-course-descriptions/mhpe/">Medical Education (MHPE)</a></li>
+		<li><a href="/all-course-descriptions/mhum/">Medical Humanities (MHUM)</a></li>
+		<li><a href="/all-course-descriptions/mdch/">Medicinal Chemistry (MDCH)</a></li>
+		<li><a href="/all-course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+		<li><a href="/all-course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+		<li><a href="/all-course-descriptions/mils/">Military Science (MILS)</a></li>
+		<li><a href="/all-course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+		<li><a href="/all-course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+		<li><a href="/all-course-descriptions/mus/">Music (MUS)</a></li>
+		<li><a href="/all-course-descriptions/nast/">Native American Studies (NAST)</a></li>
+		<li><a href="/all-course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+		<li><a href="/all-course-descriptions/ns/">Naval Science (NS)</a></li>
+		<li><a href="/all-course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+		<li><a href="/all-course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+		<li><a href="/all-course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+		<li><a href="/all-course-descriptions/nupr/">Nursing Practicum (NUPR)</a></li>
+		<li><a href="/all-course-descriptions/nusp/">Nursing Specialty (NUSP)</a></li>
+		<li><a href="/all-course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+		<li><a href="/all-course-descriptions/omds/">Oral Medicine and Diagnostic Sciences (OMDS)</a></li>
+		<li><a href="/all-course-descriptions/osci/">Oral Sciences (OSCI)</a></li>
+		<li><a href="/all-course-descriptions/osur/">Oral and Maxillofacial Surgery (OSUR)</a></li>
+		<li><a href="/all-course-descriptions/ortd/">Orthodontics (ORTD)</a></li>
+		<li><a href="/all-course-descriptions/path/">Pathology (PATH)</a></li>
+		<li><a href="/all-course-descriptions/psl/">Patient Safety Leadership (PSL)</a></li>
+		<li><a href="/all-course-descriptions/pedd/">Pediatric Dentistry (PEDD)</a></li>
+		<li><a href="/all-course-descriptions/peri/">Periodontics (PERI)</a></li>
+		<li><a href="/all-course-descriptions/psci/">Pharmaceutical Sciences (PSCI)</a></li>
+		<li><a href="/all-course-descriptions/pmpg/">Pharmacognosy (PMPG)</a></li>
+		<li><a href="/all-course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+		<li><a href="/all-course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+		<li><a href="/all-course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+		<li><a href="/all-course-descriptions/psop/">Pharmacy Systems, Outcomes, and Policy (PSOP)</a></li>
+		<li><a href="/all-course-descriptions/phil/">Philosophy (PHIL)</a></li>
+		<li><a href="/all-course-descriptions/pt/">Physical Therapy (PT)</a></li>
+		<li><a href="/all-course-descriptions/phys/">Physics (PHYS)</a></li>
+		<li><a href="/all-course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+		<li><a href="/all-course-descriptions/pol/">Polish (POL)</a></li>
+		<li><a href="/all-course-descriptions/pols/">Political Science (POLS)</a></li>
+		<li><a href="/all-course-descriptions/port/">Portuguese (PORT)</a></li>
+		<li><a href="/all-course-descriptions/prcl/">Preclinical Medicine (PRCL)</a></li>
+		<li><a href="/all-course-descriptions/ptl/">Privacy and Technology Law (PTL)</a></li>
+		<li><a href="/all-course-descriptions/pros/">Prosthodontics (PROS)</a></li>
+		<li class="active self"><a href="#" onclick="return false;">Psychology (PSCH)</a></li>
+		<li><a href="/all-course-descriptions/pa/">Public Administration (PA)</a></li>
+		<li><a href="/all-course-descriptions/pubh/">Public Health (PUBH)</a></li>
+		<li><a href="/all-course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+		<li><a href="/all-course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+		<li><a href="/all-course-descriptions/re/">Real Estate (RE)</a></li>
+		<li><a href="/all-course-descriptions/rels/">Religious Studies (RELS)</a></li>
+		<li><a href="/all-course-descriptions/rest/">Restorative Dentistry (REST)</a></li>
+		<li><a href="/all-course-descriptions/russ/">Russian (RUSS)</a></li>
+		<li><a href="/all-course-descriptions/slav/">Slavic and Baltic Languages and Literatures (SLAV)</a></li>
+		<li><a href="/all-course-descriptions/sj/">Social Justice (SJ)</a></li>
+		<li><a href="/all-course-descriptions/socw/">Social Work (SOCW)</a></li>
+		<li><a href="/all-course-descriptions/soc/">Sociology (SOC)</a></li>
+		<li><a href="/all-course-descriptions/span/">Spanish (SPAN)</a></li>
+		<li><a href="/all-course-descriptions/sped/">Special Education (SPED)</a></li>
+		<li><a href="/all-course-descriptions/spec/">Specialty Medicine (SPEC)</a></li>
+		<li><a href="/all-course-descriptions/stat/">Statistics (STAT)</a></li>
+		<li><a href="/all-course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+		<li><a href="/all-course-descriptions/surg/">Surgery (SURG)</a></li>
+		<li><a href="/all-course-descriptions/tx/">Taxation (TX)</a></li>
+		<li><a href="/all-course-descriptions/thtr/">Theatre (THTR)</a></li>
+		<li><a href="/all-course-descriptions/tadr/">Trial Advocacy and Dispute Resolution (TADR)</a></li>
+		<li><a href="/all-course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+		<li><a href="/all-course-descriptions/us/">Urban Studies (US)</a></li>
+		<li><a href="/all-course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+		<li><a href="/all-course-descriptions/usl/">US Legal Studies (USL)</a></li>
+	</ul>
+	</li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/all-course-descriptions/">All&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Psychology (PSCH)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Psychology (PSCH)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="pschcourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;100.  Introduction to Psychology.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of basic concepts of contemporary psychology. Introduction to the nervous system, perception, motivation, learning and memory, social behavior, personality, developmental and clinical psychology. Course Information: Students under 18 years of age need parental consent to participate in research experiments that are part of the course. Instructions for obtaining parental consent will be provided during class early in the semester. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<i>  Individual and Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;184.  The Basics of Neuroscience.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Introduction to the scientific study of the brain and behavior. Overview of neuroscience as an integrative discipline. Course Information: Same as <a href="/search/?P=PHIL%20184" title="PHIL&#160;184" class="bubblelink code" onclick="return showCourse(this, 'PHIL 184');">PHIL&#160;184</a> and <a href="/search/?P=BIOS%20184" title="BIOS&#160;184" class="bubblelink code" onclick="return showCourse(this, 'BIOS 184');">BIOS&#160;184</a>. Satisfactory/Unsatisfactory grading only.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;210.  Theories of Personality.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of major theoretical approaches to the study of personality and the evidential basis underlying each approach. Course Information: Prerequisite(s): <a href="/search/?P=PSCH%20100" title="PSCH&#160;100" class="bubblelink code" onclick="return showCourse(this, 'PSCH 100');">PSCH&#160;100</a>.<i>  Individual and Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;231.  Community Psychology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Psychological principles, research and interventions concerning community settings; community human services, primary prevention, consultation, advocacy, social ecology, organizational change, and citizen participation. Course Information: Prerequisite(s): <a href="/search/?P=PSCH%20100" title="PSCH&#160;100" class="bubblelink code" onclick="return showCourse(this, 'PSCH 100');">PSCH&#160;100</a>.<i>  Individual and Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;242.  Introduction to Research in Psychology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Techniques and problems associated with the study of behavior. Emphasis on measurement, descriptive statistics, and the principles of experimental design. Exercises involving data collection. Participation in research. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=PSCH%20100" title="PSCH&#160;100" class="bubblelink code" onclick="return showCourse(this, 'PSCH 100');">PSCH&#160;100</a>. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;262.  Behavioral Neuroscience.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Research and theories concerning the physiological bases of behavior. Understanding of basic brain organization with emphasis on neural substrates of learning, motivation and perception. Course Information: Prerequisite(s): <a href="/search/?P=PSCH%20100" title="PSCH&#160;100" class="bubblelink code" onclick="return showCourse(this, 'PSCH 100');">PSCH&#160;100</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;270.  Abnormal Psychology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A survey course covering the assessment, description, causes, and treatments of many psychological disorders, including depression, anxiety disorders, psychosis, sexual dysfunction, and personality disorders. Course Information: Prerequisite(s): <a href="/search/?P=PSCH%20100" title="PSCH&#160;100" class="bubblelink code" onclick="return showCourse(this, 'PSCH 100');">PSCH&#160;100</a>.<i>  Individual and Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;271.  Resilience: The Psychology of Positive Adaptation.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An overview of resilience research, definitions, correlates, and causes of successful adaptation in response to stress and adversity. Application on scientifically-validated strategies for improving coping skills and mental health. Course Information: Prerequisite(s): <a href="/search/?P=PSCH%20100" title="PSCH&#160;100" class="bubblelink code" onclick="return showCourse(this, 'PSCH 100');">PSCH&#160;100</a>.<i>  Individual and Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;303.  Writing in Psychology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Teaches students the fundamentals of scientific writing including literature reviews, research reports and book reviews. Students will write a minimum of three papers dealing with psychological topics. Course Information: Prerequisite(s): <a href="/search/?P=PSCH%20242" title="PSCH&#160;242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH&#160;242</a> and <a href="/search/?P=ENGL%20161" title="ENGL&#160;161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL&#160;161</a> with a minimum grade of C; <a href="/search/?P=MATH%20118" title="MATH&#160;118" class="bubblelink code" onclick="return showCourse(this, 'MATH 118');">MATH&#160;118</a> (or the equivalent) with a minimum grade of C or <a href="/search/?P=MATH%20090" title="MATH&#160;090" class="bubblelink code" onclick="return showCourse(this, 'MATH 090');">MATH&#160;090</a>; or consent of the instructor. For psychology majors only.  Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;312.  Social Psychology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of theory and research in social psychology, emphasizing experimental investigations of attitudes and social cognition, and interpersonal relations and group processes. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=PSCH%20242" title="PSCH&#160;242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH&#160;242</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;313.  Laboratory in Social Psychology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Conduct laboratory and field experiments in social psychology on problems in attitudes and social cognition, and interpersonal relations and group processes. Course Information: Prerequisite(s): <a href="/search/?P=PSCH%20343" title="PSCH&#160;343" class="bubblelink code" onclick="return showCourse(this, 'PSCH 343');">PSCH&#160;343</a> and credit or concurrent registration in <a href="/search/?P=PSCH%20312" title="PSCH&#160;312" class="bubblelink code" onclick="return showCourse(this, 'PSCH 312');">PSCH&#160;312</a>. For Psychology majors only. Class Schedule Information: To be properly registered, students must be enrolled in one Lecture/Discussion and one Laboratory.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;315.  Psychology of Women and Gender.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Critical examination of research on women and gender across the life span, including psychological aspects of reproduction, and the way that gender shapes cognition, sexuality, family, friendship, and work experiences. Course Information: Same as <a href="/search/?P=GWS%20315" title="GWS&#160;315" class="bubblelink code" onclick="return showCourse(this, 'GWS 315');">GWS&#160;315</a>. Prerequisite(s): Grade of C or better in <a href="/search/?P=PSCH%20242" title="PSCH&#160;242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH&#160;242</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;320.  Developmental Psychology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of research and theory concerning social, cognitive, and biopsychological aspects of human development. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=PSCH%20242" title="PSCH&#160;242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH&#160;242</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;321.  Laboratory in Developmental Psychology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of dominant research strategies in contemporary developmental psychology. Laboratory experience in developmental research. Course Information: Prerequisite(s): <a href="/search/?P=PSCH%20343" title="PSCH&#160;343" class="bubblelink code" onclick="return showCourse(this, 'PSCH 343');">PSCH&#160;343</a> and credit or concurrent registration in <a href="/search/?P=PSCH%20320" title="PSCH&#160;320" class="bubblelink code" onclick="return showCourse(this, 'PSCH 320');">PSCH&#160;320</a>. For Psychology majors only. Class Schedule Information: To be properly registered, students must enroll in one Lecture/Discussion and one Laboratory.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;324.  Cultural Psychology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A survey of theory, methods, and research in culture and psychology. Examination of  how culture is defined and studied and how it affects development, socialization, personality, interpersonal relations, and mental health. Course Information: Prerequisite(s): <a href="/search/?P=PSCH%20100" title="PSCH&#160;100" class="bubblelink code" onclick="return showCourse(this, 'PSCH 100');">PSCH&#160;100</a> and Grade of C or better in <a href="/search/?P=PSCH%20242" title="PSCH&#160;242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH&#160;242</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;331.  Laboratory in Community and Prevention Research.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines how researchers conceptualize, design, implement, and evaluate school and community programs to enhance competence, promote empowerment, and prevent behavioral problems. Course Information: Prerequisite(s): <a href="/search/?P=PSCH%20231" title="PSCH&#160;231" class="bubblelink code" onclick="return showCourse(this, 'PSCH 231');">PSCH&#160;231</a> and <a href="/search/?P=PSCH%20343" title="PSCH&#160;343" class="bubblelink code" onclick="return showCourse(this, 'PSCH 343');">PSCH&#160;343</a>.  For Psychology majors only. Class Schedule Information: To be properly registered, students must enroll in one Lecture/Discussion and one Laboratory.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;333.  Laboratory in Clinical Psychology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Laboratory practicum in self-change processes, empirically validated treatments, experimental psychopathology, and clinical assessment development. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=PSCH%20100" title="PSCH&#160;100" class="bubblelink code" onclick="return showCourse(this, 'PSCH 100');">PSCH&#160;100</a> and <a href="/search/?P=PSCH%20242" title="PSCH&#160;242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH&#160;242</a> and <a href="/search/?P=PSCH%20343" title="PSCH&#160;343" class="bubblelink code" onclick="return showCourse(this, 'PSCH 343');">PSCH&#160;343</a>; and <a href="/search/?P=PSCH%20270" title="PSCH&#160;270" class="bubblelink code" onclick="return showCourse(this, 'PSCH 270');">PSCH&#160;270</a> or <a href="/search/?P=PSCH%20210" title="PSCH&#160;210" class="bubblelink code" onclick="return showCourse(this, 'PSCH 210');">PSCH&#160;210</a>. For Psychology majors only. Class Schedule: To be properly registered, students must enroll in one Lecture-Discussion and one Laboratory.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;340.  Psychological Testing.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to principles of psychological assessment, with an overview of representative techniques. Particular emphasis is placed on objective tests. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=PSCH%20242" title="PSCH&#160;242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH&#160;242</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;343.  Statistical Methods in Behavioral Science.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to statistical inference, probability distributions, sampling, hypothesis testing, correlation and analysis of variance. Course Information: Credit is not given for <a href="/search/?P=PSCH%20343" title="PSCH&#160;343" class="bubblelink code" onclick="return showCourse(this, 'PSCH 343');">PSCH&#160;343</a> if the student has credit for <a href="/search/?P=IDS%20371" title="IDS&#160;371" class="bubblelink code" onclick="return showCourse(this, 'IDS 371');">IDS&#160;371</a>. Prerequisite(s):  <a href="/search/?P=PSCH%20242" title="PSCH&#160;242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH&#160;242</a> and <a href="/search/?P=ENGL%20161" title="ENGL&#160;161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL&#160;161</a> with a minimum grade of C; <a href="/search/?P=MATH%20118" title="MATH&#160;118" class="bubblelink code" onclick="return showCourse(this, 'MATH 118');">MATH&#160;118</a> (or the equivalent) with a minimum grade of C or satisfactory completion of <a href="/search/?P=MATH%20090" title="MATH&#160;090" class="bubblelink code" onclick="return showCourse(this, 'MATH 090');">MATH&#160;090</a>. For psychology majors or students in the Neuroscience degree program only. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;350.  Sensation and Perception.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of theories and empirical findings in the study of sensation and perception. Emphasis on human vision and audition as information processing systems. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=PSCH%20242" title="PSCH&#160;242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH&#160;242</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;351.  Laboratory in Perception.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Laboratory practicum in sensation and perception. Course Information: Prerequisite(s): <a href="/search/?P=PSCH%20343" title="PSCH&#160;343" class="bubblelink code" onclick="return showCourse(this, 'PSCH 343');">PSCH&#160;343</a> and credit or concurrent registation in <a href="/search/?P=PSCH%20350" title="PSCH&#160;350" class="bubblelink code" onclick="return showCourse(this, 'PSCH 350');">PSCH&#160;350</a>. For psychology majors or students in the neuroscience degree program only. Class Schedule Information: To be properly registered, students must enroll in one Lecture/Discussion and one Laboratory.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;352.  Cognition and Memory.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of experimental findings in human learning, memory, attention, knowledge representation, problem solving, conceptual behavior, and psycholinguistics. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=PSCH%20242" title="PSCH&#160;242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH&#160;242</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;353.  Laboratory in Cognition and Memory.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Laboratory practicum in memory, psycholinguistics, problem solving, and reasoning. Course Information: Prerequisite(s): <a href="/search/?P=PSCH%20343" title="PSCH&#160;343" class="bubblelink code" onclick="return showCourse(this, 'PSCH 343');">PSCH&#160;343</a> and credit or concurrent registration in <a href="/search/?P=PSCH%20352" title="PSCH&#160;352" class="bubblelink code" onclick="return showCourse(this, 'PSCH 352');">PSCH&#160;352</a>. For psychology majors or students in the neuroscience degree program only. Class Schedule Information: To be properly registered, students must enroll in one Lecture/Discussion and one Laboratory.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;354.  Knowledge Acquisition.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to belief formation, conceptual change, cognitive development, discovery and invention, schema abstraction, skill acquisition and other cognitive change processes. Research and practical applications. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=PSCH%20242" title="PSCH&#160;242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH&#160;242</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;360.  Learning and Conditioning.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Principles of learning; emphasis on parameters of acquisition, extinction and retention of classical and instrumental conditioning and stimulus control of reflexive and voluntary behavior. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=PSCH%20242" title="PSCH&#160;242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH&#160;242</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;361.  Laboratory in Learning and Conditioning.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Laboratory practicum in conditioning and simple learning using animal subjects. Emphasis on operant conditioning. Course Information: Animals used in instruction. Prerequisite(s): <a href="/search/?P=PSCH%20343" title="PSCH&#160;343" class="bubblelink code" onclick="return showCourse(this, 'PSCH 343');">PSCH&#160;343</a> and credit or concurrent registration in <a href="/search/?P=PSCH%20360" title="PSCH&#160;360" class="bubblelink code" onclick="return showCourse(this, 'PSCH 360');">PSCH&#160;360</a>. For psychology majors or students in the neuroscience degree program only. Class Schedule Information: To be properly registered, students must enroll in one Lecture/Discussion and one Laboratory.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;363.  Laboratory in Behavioral Neuroscience.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Laboratory practicum and demonstrations of research techniques used to study the physiological bases of behavior. Course Information: Animals used in instruction. Prerequisite(s): <a href="/search/?P=PSCH%20343" title="PSCH&#160;343" class="bubblelink code" onclick="return showCourse(this, 'PSCH 343');">PSCH&#160;343</a> and credit or concurrent registration in <a href="/search/?P=PSCH%20262" title="PSCH&#160;262" class="bubblelink code" onclick="return showCourse(this, 'PSCH 262');">PSCH&#160;262</a> or <a href="/search/?P=BIOS%20286" title="BIOS&#160;286" class="bubblelink code" onclick="return showCourse(this, 'BIOS 286');">BIOS&#160;286</a>. For psychology majors or students in the neuroscience degree program only. Class Schedule Information: To be properly registered, students must enroll in one Lacture/Discussion and one Laboratory.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;366.  Cognitive Neuroscience.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of neural basis of cognitive processes; perceptual and motor systems, attention, memory, symbolic representation, executive control of behavior. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=PSCH%20242" title="PSCH&#160;242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH&#160;242</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;367.  Laboratory in Cognitive Neuroscience.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Laboratory practicum in attention, memory, decision-making and symbolic cognitive processes. Course Information: Prerequisite(s): <a href="/search/?P=PSCH%20343" title="PSCH&#160;343" class="bubblelink code" onclick="return showCourse(this, 'PSCH 343');">PSCH&#160;343</a> and credit or concurrent registration in <a href="/search/?P=PSCH%20350" title="PSCH&#160;350" class="bubblelink code" onclick="return showCourse(this, 'PSCH 350');">PSCH&#160;350</a> or <a href="/search/?P=PSCH%20366" title="PSCH&#160;366" class="bubblelink code" onclick="return showCourse(this, 'PSCH 366');">PSCH&#160;366</a>. For psychology majors or students in the neuroscience degree program only. Class Schedule: To be properly registered, students must enroll in one Lecture and one Laboratory.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;381.  Psychology of Interviewing.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Theory, research, and practice of interviewing. Emphasis on developing skills for interviewing individuals. Course Information: Prerequisite(s): <a href="/search/?P=PSCH%20210" title="PSCH&#160;210" class="bubblelink code" onclick="return showCourse(this, 'PSCH 210');">PSCH&#160;210</a> or <a href="/search/?P=PSCH%20231" title="PSCH&#160;231" class="bubblelink code" onclick="return showCourse(this, 'PSCH 231');">PSCH&#160;231</a> or <a href="/search/?P=PSCH%20270" title="PSCH&#160;270" class="bubblelink code" onclick="return showCourse(this, 'PSCH 270');">PSCH&#160;270</a> or <a href="/search/?P=PSCH%20312" title="PSCH&#160;312" class="bubblelink code" onclick="return showCourse(this, 'PSCH 312');">PSCH&#160;312</a>; and Grade of C or better in <a href="/search/?P=PSCH%20242" title="PSCH&#160;242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH&#160;242</a>. For psychology majors only.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;382.  Psychological Interventions.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Application of psychological theories and principles used in psychotherapy and behavior change. Emphasis will be on models for assessment of change, the evaluation of psychotherapy, and selecting appropriate interventions. Course Information: Prerequisite(s): <a href="/search/?P=PSCH%20210" title="PSCH&#160;210" class="bubblelink code" onclick="return showCourse(this, 'PSCH 210');">PSCH&#160;210</a> or <a href="/search/?P=PSCH%20231" title="PSCH&#160;231" class="bubblelink code" onclick="return showCourse(this, 'PSCH 231');">PSCH&#160;231</a> or <a href="/search/?P=PSCH%20312" title="PSCH&#160;312" class="bubblelink code" onclick="return showCourse(this, 'PSCH 312');">PSCH&#160;312</a>; and <a href="/search/?P=PSCH%20270" title="PSCH&#160;270" class="bubblelink code" onclick="return showCourse(this, 'PSCH 270');">PSCH&#160;270</a> and a grade of C or better in <a href="/search/?P=PSCH%20242" title="PSCH&#160;242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH&#160;242</a>. For Psychology majors only.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;385.  Field Work in Applied Psychology.  6 hours.</strong></p>
+<p class="courseblockdesc">
+Supervised practicum as a paraprofessional worker for a minimum equivalent of one day (8 hours) per week in a mental health, developmental disabilities, or industrial organizational setting. Course Information:  6 hours. Prerequisite(s): <a href="/search/?P=PSCH%20340" title="PSCH&#160;340" class="bubblelink code" onclick="return showCourse(this, 'PSCH 340');">PSCH&#160;340</a> and <a href="/search/?P=PSCH%20343" title="PSCH&#160;343" class="bubblelink code" onclick="return showCourse(this, 'PSCH 343');">PSCH&#160;343</a>; and <a href="/search/?P=PSCH%20381" title="PSCH&#160;381" class="bubblelink code" onclick="return showCourse(this, 'PSCH 381');">PSCH&#160;381</a> or <a href="/search/?P=PSCH%20382" title="PSCH&#160;382" class="bubblelink code" onclick="return showCourse(this, 'PSCH 382');">PSCH&#160;382</a> or <a href="/search/?P=PSCH%20386" title="PSCH&#160;386" class="bubblelink code" onclick="return showCourse(this, 'PSCH 386');">PSCH&#160;386</a>. For applied psychology majors only.  Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;386.  Crisis Counseling Techniques I.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Application of psychological theories and principles used for telephone crisis counseling, crisis intervention, and referral.  Emphasis will be on models for interviewing and assessment and appropriate intervention in crisis situations. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=PSCH%20242" title="PSCH&#160;242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH&#160;242</a>; and <a href="/search/?P=PSCH%20210" title="PSCH&#160;210" class="bubblelink code" onclick="return showCourse(this, 'PSCH 210');">PSCH&#160;210</a> or <a href="/search/?P=PSCH%20231" title="PSCH&#160;231" class="bubblelink code" onclick="return showCourse(this, 'PSCH 231');">PSCH&#160;231</a> or <a href="/search/?P=PSCH%20270" title="PSCH&#160;270" class="bubblelink code" onclick="return showCourse(this, 'PSCH 270');">PSCH&#160;270</a>; and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;387.  Crisis Counseling Techniques II.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Students will apply skills learned in <a href="/search/?P=PSCH%20386" title="PSCH&#160;386" class="bubblelink code" onclick="return showCourse(this, 'PSCH 386');">PSCH&#160;386</a> as they run weekly support groups providing both peer-to-peer counseling per week in a group format as well as individual peer-to-peer crisis counseling with group members. Course Information: Satisfactory/Unsatisfactory grading only. Field work required. Prerequisite(s): <a href="/search/?P=PSCH%20386" title="PSCH&#160;386" class="bubblelink code" onclick="return showCourse(this, 'PSCH 386');">PSCH&#160;386</a>; and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;394.  Special Topics in Psychology.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Lectures devoted to an announced topic. Course Information: May be repeated to a maximum of 6 hours. Students may register in more than one section per term. Prerequisite(s): Grade of C or better in <a href="/search/?P=PSCH%20242" title="PSCH&#160;242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH&#160;242</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;396.  Directed Research.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Participation in ongoing research in psychology under the direction of a faculty member. A final report describing the research and its theory is required. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Students may register in more than one section per term. A combined maximum of 8 hours of credit in <a href="/search/?P=PSCH%20387" title="PSCH&#160;387" class="bubblelink code" onclick="return showCourse(this, 'PSCH 387');">PSCH&#160;387</a>, <a href="/search/?P=PSCH%20396" title="PSCH&#160;396" class="bubblelink code" onclick="return showCourse(this, 'PSCH 396');">PSCH&#160;396</a>, <a href="/search/?P=PSCH%20397" title="PSCH&#160;397" class="bubblelink code" onclick="return showCourse(this, 'PSCH 397');">PSCH&#160;397</a>, and <a href="/search/?P=PSCH%20399" title="PSCH&#160;399" class="bubblelink code" onclick="return showCourse(this, 'PSCH 399');">PSCH&#160;399</a> may be applied toward the degree. Either <a href="/search/?P=PSCH%20396" title="PSCH&#160;396" class="bubblelink code" onclick="return showCourse(this, 'PSCH 396');">PSCH&#160;396</a> or an additional laboratory course is required for High Distinction in Psychology. Prerequisite(s): <a href="/search/?P=PSCH%20242" title="PSCH&#160;242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH&#160;242</a> and consent of the instructor. Must consult intructor for permission to enroll.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;397.  Readings in Psychology.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Bibliographic research on a special topic under the direction of a faculty member. Paper is required for course credit. Course Information: May be repeated. Students may register in more than one section per term. A combined maximum of 8 hours of credit in <a href="/search/?P=PSCH%20387" title="PSCH&#160;387" class="bubblelink code" onclick="return showCourse(this, 'PSCH 387');">PSCH&#160;387</a>, <a href="/search/?P=PSCH%20396" title="PSCH&#160;396" class="bubblelink code" onclick="return showCourse(this, 'PSCH 396');">PSCH&#160;396</a>, <a href="/search/?P=PSCH%20397" title="PSCH&#160;397" class="bubblelink code" onclick="return showCourse(this, 'PSCH 397');">PSCH&#160;397</a>, and <a href="/search/?P=PSCH%20399" title="PSCH&#160;399" class="bubblelink code" onclick="return showCourse(this, 'PSCH 399');">PSCH&#160;399</a> may be applied toward the degree. Prerequisite(s): <a href="/search/?P=PSCH%20343" title="PSCH&#160;343" class="bubblelink code" onclick="return showCourse(this, 'PSCH 343');">PSCH&#160;343</a> and consent of the instructor. Must consult instructor for permission to enroll.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;399.  Independent Research.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Individual research on a special topic under the direction of a faculty member. A paper is required for course credit. Course Information: May be repeated. Students may register in more than one section per term. A combined maximum of 8 hours of credit in <a href="/search/?P=PSCH%20387" title="PSCH&#160;387" class="bubblelink code" onclick="return showCourse(this, 'PSCH 387');">PSCH&#160;387</a>, <a href="/search/?P=PSCH%20396" title="PSCH&#160;396" class="bubblelink code" onclick="return showCourse(this, 'PSCH 396');">PSCH&#160;396</a>, <a href="/search/?P=PSCH%20397" title="PSCH&#160;397" class="bubblelink code" onclick="return showCourse(this, 'PSCH 397');">PSCH&#160;397</a>, and <a href="/search/?P=PSCH%20399" title="PSCH&#160;399" class="bubblelink code" onclick="return showCourse(this, 'PSCH 399');">PSCH&#160;399</a> may be applied toward the degree.  Required for earning Highest Distinction in Psychology. Prerequisite(s): <a href="/search/?P=PSCH%20343" title="PSCH&#160;343" class="bubblelink code" onclick="return showCourse(this, 'PSCH 343');">PSCH&#160;343</a>; and consent of the instructor and the director of undergraduate studies.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;411.  Stereotyping, Prejudice, and Racism.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Psychological research and theory concerning stereotyping, prejudice, and racism. Historical conceptualization, development, causes, expression, and psychological consequences of prejudice, as well as theories of prejudice reduction. Course Information: Prerequisite(s): Graduate standing in psychology or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;415.  Social Bases of Health Behavior.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Psychological theory and research concerning the coronary-prone personality, pain management, controlling adherence to medical regimens, biofeedback, smoking, and weight control. Course Information: Prerequisite(s): <a href="/search/?P=PSCH%20270" title="PSCH&#160;270" class="bubblelink code" onclick="return showCourse(this, 'PSCH 270');">PSCH&#160;270</a> and consent of the instructor, or graduate standing.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;417.  Psychology and Law.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Application of psychological theories to the development, operation and effects of law; evaluation of different and similar approaches of law and psychology. Course Information: Prerequisite(s): <a href="/search/?P=PSCH%20312" title="PSCH&#160;312" class="bubblelink code" onclick="return showCourse(this, 'PSCH 312');">PSCH&#160;312</a> or consent of instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;420.  Social Development of Urban Children.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+General principles of social development and how these principles need to be modified for this population of children. Course Information: Same as <a href="/search/?P=EPSY%20420" title="EPSY&#160;420" class="bubblelink code" onclick="return showCourse(this, 'EPSY 420');">EPSY&#160;420</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Admission to a graduate program in education or psychology; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;422.  Advanced Developmental Psychology and Educational Processes.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on cognitive and social development from birth to early adolescence. Examines relations between development, learning, and educational processes. Course Information: Same as <a href="/search/?P=ED%20422" title="ED&#160;422" class="bubblelink code" onclick="return showCourse(this, 'ED 422');">ED&#160;422</a>. Prerequisite(s):<a href="/search/?P=PSCH%20100" title="PSCH&#160;100" class="bubblelink code" onclick="return showCourse(this, 'PSCH 100');">PSCH&#160;100</a> and any one from <a href="/search/?P=EPSY%20210" title="EPSY&#160;210" class="bubblelink code" onclick="return showCourse(this, 'EPSY 210');">EPSY&#160;210</a>, PSCH 259, <a href="/search/?P=PSCH%20320" title="PSCH&#160;320" class="bubblelink code" onclick="return showCourse(this, 'PSCH 320');">PSCH&#160;320</a> and consent of the instructor; or graduate standing.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;423.  Characteristics of Early Adolescence.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Physiological, social, emotional and cognitive development of early adolescence. The relationship between these developmental characteristics and success in the middle grades. Course Information: Same as <a href="/search/?P=EPSY%20446" title="EPSY&#160;446" class="bubblelink code" onclick="return showCourse(this, 'EPSY 446');">EPSY&#160;446</a>. Prerequisite(s): Admission to a program in psychology or education; or approval of the College of Education or consent of the instructor, <a href="/search/?P=EPSY%20210" title="EPSY&#160;210" class="bubblelink code" onclick="return showCourse(this, 'EPSY 210');">EPSY&#160;210</a> or <a href="/search/?P=EPSY%20255" title="EPSY&#160;255" class="bubblelink code" onclick="return showCourse(this, 'EPSY 255');">EPSY&#160;255</a> or <a href="/search/?P=ED%20421" title="ED&#160;421" class="bubblelink code" onclick="return showCourse(this, 'ED 421');">ED&#160;421</a> or <a href="/search/?P=ED%20422" title="ED&#160;422" class="bubblelink code" onclick="return showCourse(this, 'ED 422');">ED&#160;422</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;424.  Social and Emotional Learning: Research, Practice, and Policy.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Research, theory, educational practices, and federal/state policies that promote the social, emotional, and academic competence of students who are in preschool, middle school, or high school. Course Information: Same as <a href="/search/?P=ED%20424" title="ED&#160;424" class="bubblelink code" onclick="return showCourse(this, 'ED 424');">ED&#160;424</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=PSCH%20343" title="PSCH&#160;343" class="bubblelink code" onclick="return showCourse(this, 'PSCH 343');">PSCH&#160;343</a> or equivalent; or consent of the instructor. Recommended background: Experience working with children or adolescents.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;429.  Constructivist Approaches to Development: Piaget and Vygotsky.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Piaget's and Vygotsky's theories of development of knowledge. Empirical and logico-mathematical forms of knowledge. Thought and action. Thought and language. Course Information: Same as <a href="/search/?P=EPSY%20429" title="EPSY&#160;429" class="bubblelink code" onclick="return showCourse(this, 'EPSY 429');">EPSY&#160;429</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=EPSY%20255" title="EPSY&#160;255" class="bubblelink code" onclick="return showCourse(this, 'EPSY 255');">EPSY&#160;255</a>; or <a href="/search/?P=ED%20422" title="ED&#160;422" class="bubblelink code" onclick="return showCourse(this, 'ED 422');">ED&#160;422</a>; or <a href="/search/?P=EPSY%20426" title="EPSY&#160;426" class="bubblelink code" onclick="return showCourse(this, 'EPSY 426');">EPSY&#160;426</a>; or consent of the instructor or equivalent.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;443.  Advanced Statistics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Design and analysis of experiments: between, within factorial and mixed factorial designs and introduction to multiple regression. For students planning research careers or advanced degrees. Course Information: 3 hours. Prerequisite(s): <a href="/search/?P=PSCH%20343" title="PSCH&#160;343" class="bubblelink code" onclick="return showCourse(this, 'PSCH 343');">PSCH&#160;343</a>. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;459.  Cognitive Methods.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Hands-on training in the methods of cognitive psychology, especially computational modeling and the analysis of verbal protocols and other types of trace data. Course Information: Prerequisite(s): Graduate standing or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture-Discussion.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;483.  Neuroanatomy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Organization of the nervous system, with an emphasis on mammals. Course Information: Same as <a href="/search/?P=BIOS%20483" title="BIOS&#160;483" class="bubblelink code" onclick="return showCourse(this, 'BIOS 483');">BIOS&#160;483</a> and <a href="/search/?P=NEUS%20483" title="NEUS&#160;483" class="bubblelink code" onclick="return showCourse(this, 'NEUS 483');">NEUS&#160;483</a>. Animals used in instruction. Prerequisite(s): <a href="/search/?P=BIOS%20272" title="BIOS&#160;272" class="bubblelink code" onclick="return showCourse(this, 'BIOS 272');">BIOS&#160;272</a> or <a href="/search/?P=BIOS%20286" title="BIOS&#160;286" class="bubblelink code" onclick="return showCourse(this, 'BIOS 286');">BIOS&#160;286</a> or <a href="/search/?P=BIOS%20325" title="BIOS&#160;325" class="bubblelink code" onclick="return showCourse(this, 'BIOS 325');">BIOS&#160;325</a> or <a href="/search/?P=PSCH%20262" title="PSCH&#160;262" class="bubblelink code" onclick="return showCourse(this, 'PSCH 262');">PSCH&#160;262</a>; or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;484.  Neuroscience I.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Neuroscience as an integrative discipline. Neuroanatomy of vertebrates, neural development, cellular neurobiology, action potential mechanisms, synaptic transmission and neuropharmacology.  Course Information:  Same as <a href="/search/?P=BIOS%20484" title="BIOS&#160;484" class="bubblelink code" onclick="return showCourse(this, 'BIOS 484');">BIOS&#160;484</a> and <a href="/search/?P=PHIL%20484" title="PHIL&#160;484" class="bubblelink code" onclick="return showCourse(this, 'PHIL 484');">PHIL&#160;484</a>.  Prerequisite(s):  <a href="/search/?P=BIOS%20286" title="BIOS&#160;286" class="bubblelink code" onclick="return showCourse(this, 'BIOS 286');">BIOS&#160;286</a> or <a href="/search/?P=PSCH%20262" title="PSCH&#160;262" class="bubblelink code" onclick="return showCourse(this, 'PSCH 262');">PSCH&#160;262</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;485.  Neuroscience II.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Integrative neuroscience, including sensory and motor systems; learning, memory, and language; pathology of nervous systems; philosophical perspectives, and modeling. Course Information:  Same as <a href="/search/?P=BIOS%20485" title="BIOS&#160;485" class="bubblelink code" onclick="return showCourse(this, 'BIOS 485');">BIOS&#160;485</a> and <a href="/search/?P=PHIL%20485" title="PHIL&#160;485" class="bubblelink code" onclick="return showCourse(this, 'PHIL 485');">PHIL&#160;485</a>. Prerequisite(s): <a href="/search/?P=BIOS%20286" title="BIOS&#160;286" class="bubblelink code" onclick="return showCourse(this, 'BIOS 286');">BIOS&#160;286</a> or <a href="/search/?P=PSCH%20262" title="PSCH&#160;262" class="bubblelink code" onclick="return showCourse(this, 'PSCH 262');">PSCH&#160;262</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;494.  Special Topics in Psychology.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced treatment of an announced topic. Course Information: May be repeated. Students may register in more than one section per term. Prerequisite(s): Graduate standing or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;503.  Writing for Social Scientists.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Training to write for the social sciences, including how to edit effectively, formulate a thesis statement, construct an argument, and begin and conclude a paper. Course Information: Previously listed as PSCH 403. Prerequisite(s): Graduate standing or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;505.  Advanced History of Psychology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The history of scientific psychology, with an emphasis on the forerunners of major contemporary research problems. Course Information: Prerequisite(s): Graduate standing.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;507.  Emerging Research Issues.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Weekly seminar that introduces Ph.D. students in psychology to the current research of each faculty member in the department of psychology. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated to a maximum of 2 hours. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;508.  Colloquium on the Teaching of Psychology.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Required training to prepare graduate students for contact teaching in the Department of Psychology. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;510.  Introduction to Cognitive Science.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The computer modeling of intelligent agents and systems. Course Information: Same as <a href="/search/?P=CS%20510" title="CS&#160;510" class="bubblelink code" onclick="return showCourse(this, 'CS 510');">CS&#160;510</a>. Extensive computer use required. Prior experience with computers is expected to vary widely among the students, and the instruction, readings, and course project are designed to take this into account. Prerequisite(s): Consent of the instructor. Recommended background: Prior training and/or prior coursework in human cognition and/or computer programming.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;512.  Attitudes and Social Cognition.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of theory and research in social psychology, including attitudes and social cognition. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;513.  Interpersonal Relations and Group Processes.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of theory and research in social psychology, including interpersonal relations and group processes. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;516.  Research Methods in Social Psychology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Critical analysis of current theories in social psychology. Course Information: Prerequisite(s): <a href="/search/?P=PSCH%20512" title="PSCH&#160;512" class="bubblelink code" onclick="return showCourse(this, 'PSCH 512');">PSCH&#160;512</a> and <a href="/search/?P=PSCH%20513" title="PSCH&#160;513" class="bubblelink code" onclick="return showCourse(this, 'PSCH 513');">PSCH&#160;513</a> and PSCH 514; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;517.  Social Psychology of Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Social psychological factors influencing academic and social outcomes in schools. Achievement motivation, peer relations, social values in relation to student characteristics and school practice. Course Information: Same as <a href="/search/?P=EPSY%20502" title="EPSY&#160;502" class="bubblelink code" onclick="return showCourse(this, 'EPSY 502');">EPSY&#160;502</a>. Prerequisite(s): Admission to the Ph.D. in Education program or the Ph.D. in Psychology program; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;518.  Seminar in Social and Personality Psychology.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Critical discussion of selected topics, such as helping and altruism, social judgment, group processes, attitude formation and change. Content varies. Course Information: May be repeated. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;519.  Current Topics in Social Psychology.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Discussion of recently published research and ongoing research by department faculty and graduate students. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;522.  Human-Computer Interaction.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The computer-user interface: media, languages, interaction techniques, user modeling. Human factors in software development. Theory, experimental methods, evaluation, tools. Project required. Course Information: Same as <a href="/search/?P=CS%20522" title="CS&#160;522" class="bubblelink code" onclick="return showCourse(this, 'CS 522');">CS&#160;522</a> and <a href="/search/?P=COMM%20522" title="COMM&#160;522" class="bubblelink code" onclick="return showCourse(this, 'COMM 522');">COMM&#160;522</a>. Prerequisite(s): <a href="/search/?P=CS%20422" title="CS&#160;422" class="bubblelink code" onclick="return showCourse(this, 'CS 422');">CS&#160;422</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;525.  Achievement Motivation.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The psychology of achievement motivation will be explored from the perspectives of personality, social, and educational psychology. Course Information: Same as <a href="/search/?P=EPSY%20530" title="EPSY&#160;530" class="bubblelink code" onclick="return showCourse(this, 'EPSY 530');">EPSY&#160;530</a>. Prerequisite(s): Graduate standing in education or psychology or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;526.  Lifespan Development.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Review of factors influencing continuity and change at genetic, physiological, psychological and social levels across the lifespan. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;531.  Community Research.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Intro to research design for community and action research; data collection techniques; perspectives on the relationship between researchers and communities; ethical issues; and philosophies of science informing community-based research.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;533.  Advanced Community and Prevention Research.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Overview of community psychology theory and intervention research in areas like prevention, empowerment, diversity, ecology, competence enhancement, and social change from historical and contemporary perspectives. Course Information: Prerequisite(s): Graduate standing in psychology or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;537.  Seminar in Action Research.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Supervised action research in community settings including entry, data collection, ethics, feedback and report preparation. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Prerequisite(s): Graduate standing in the Community and Prevention Research Specialization of the Ph.D. in Psychology program or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;538.  Seminar in Community and Prevention Research.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of a selected topic in community and prevention research. Course Information: May be repeated. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;539.  Current Topics in Community and Prevention Research.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Ongoing seminar with faculty and graduate students to discuss contemporary issues in community and prevention research. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;540.  Research with Diverse Groups.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Highlights some of the issues relevant to doing research with diverse groups, such as race/ethnicity, gender, social class, age, disability.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;541.  Introduction to Computing in Psychology.  1 hour.</strong></p>
+<p class="courseblockdesc">
+An introduction to applications of computing in psychological research. Several projects are required. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;543.  Research Design and Analysis.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Experimental design, advanced analysis of variance (ANOVA) and statistical analyses for experimental and quasi-experimental designs, interpretation and writing results in APA style, SPSS. Course Information: Prerequisite(s): Graduate standing in psychology or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;544.  Latent Variable Models.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Statistical methods and practical issues relevant to latent variable models with special emphasis on factor analysis and structural equation modeling. Course Information: Prerequisite(s): <a href="/search/?P=PSCH%20545" title="PSCH&#160;545" class="bubblelink code" onclick="return showCourse(this, 'PSCH 545');">PSCH&#160;545</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;545.  Multivariate Analysis.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The statistical analysis of functional relationships among two or more variables; multivariate regression, canonical correlation, discriminant analysis, multivariate analysis of variance, principal components, factor analysis, logistic regression, cluster analysis. Course Information: Prerequisite(s): <a href="/search/?P=PSCH%20543" title="PSCH&#160;543" class="bubblelink code" onclick="return showCourse(this, 'PSCH 543');">PSCH&#160;543</a>, and graduate standing in psychology; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;548.  Seminar in Methods and Measurement.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Seminar on a preannounced topic in methodology, measurement or mathematical psychology. Course Information: May be repeated. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;550.  Proseminar in Educational Psychology I: Socialization into The Field.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Socializes students into Educational Psychology, and covers professional development (e.g., importance of CV, presenting at a conference, IRB, grant proposals), and areas of emphasis (e.g., learning, assessment, statistics, measurement). Course Information: Same as <a href="/search/?P=EPSY%20500" title="EPSY&#160;500" class="bubblelink code" onclick="return showCourse(this, 'EPSY 500');">EPSY&#160;500</a>. Satisfactory/Unsatisfactory grading only. Prerequisite(s): Admission to the Ph.D. in Educational Psychology or Education programs; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;551.  Theories of Educational Psychology.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Covers critical theories that drive the research and practice of educational psychology, including theories and research that pertain to student achievement, motivation, beliefs, assessments, teaching, and learning across the life span. Course Information: Same as <a href="/search/?P=EPSY%20501" title="EPSY&#160;501" class="bubblelink code" onclick="return showCourse(this, 'EPSY 501');">EPSY&#160;501</a>. Prerequisite(s): <a href="/search/?P=EPSY%20500" title="EPSY&#160;500" class="bubblelink code" onclick="return showCourse(this, 'EPSY 500');">EPSY&#160;500</a> and admission to the Ph.D. in Education program or the Ph.D. in Psychology program; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;553.  Cognitive Psychology of Memory and Attention.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A survey of empirical research and theories concerning the human memory system and the encoding, retention, retrieval of information in that system and research and theories of attention.  Course Information: Prerequisite(s):  Graduate standing; or <a href="/search/?P=PSCH%20352" title="PSCH&#160;352" class="bubblelink code" onclick="return showCourse(this, 'PSCH 352');">PSCH&#160;352</a> and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;554.  Cognitive Psychology of Language.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Provides students with a survey of methods, theory and research in language and discourse processing.  Course Information: Same as <a href="/search/?P=COMM%20554" title="COMM&#160;554" class="bubblelink code" onclick="return showCourse(this, 'COMM 554');">COMM&#160;554</a> and <a href="/search/?P=LING%20554" title="LING&#160;554" class="bubblelink code" onclick="return showCourse(this, 'LING 554');">LING&#160;554</a>. Previously listed as PSCH 454. Prerequisite(s): Graduate standing or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;555.  Cognitive Psychology of Thinking.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A survey of methods, theory and research focusing on problem solving and reasoning. Course Information: Previously listed as 455. Prerequisite(s): Graduate standing; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;557.  Cognitive Psychology of Skill and Knowledge Acquisition.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A survey of methods, theory and research focusing on skill and knowledge acquisition. Course Information:Previously listed as PSCH 447. Prerequisite(s): Consent of instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;558.  Seminar in Cognitive Psychology.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Detailed critical review of selected topics in cognitive psychology: emphasis on current research and theoretical developments. Course Information: May be repeated. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;559.  Current Topics in Cognitive Psychology.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Discussion of current research and theoretical issues in broad areas of cognitive psychology. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;560.  Advanced Learning.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Methods, results, and interpretation of experimental studies of basic learning processes in animal and human subjects. Course Information: Previously listed as PSCH 460.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;562.  Neural Basis of Learning and Memory.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Theory and research on the anatomical, electrophysiological and chemical bases of learning and memory in humans and other animals. Course Information: Previously listed as PSCH 462.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;564.  Behavioral Psychopharmacology: Pharmacological Bases of Behavior.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Behavioral psychopharmacology.  This includes the relationship of pharmacokinetics, pharmacodynamics, major neurotransmitter systems, and non-neurotransmitter mechanisms to behavior, behavioral pharmacology models of normal functioning and psychiatric illness, and pharmacology in clinical contexts, in addiction, and in special populations (e.g. children, aging, pregnancy). Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;565.  Advanced Cognitive Neuroscience.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Empirical data and theories of the neural basis of cognitive processes;  attention, memory, language, executive control of behavior. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;566.  Neural Basis of Motivation.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Review of empirical data and theories concerning the physiological basis of motivational processes in animals and humans. Course Information: Previously listed as PSCH 466.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;568.  Seminar in Behavioral Neuroscience.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Current research issues and studies in Behavioral Neuroscience are discussed in terms of methodology and theory. Topic to be announced each semester. Course Information: May be repeated. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;569.  Current Topics in Behavioral Neuroscience.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Presentation of current research projects by staff and students. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;570.  Personality Psychology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Contemporary research in personality psychology and a review of theoretical approaches to the study of personality structure and processes. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;571.  Psychopathology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Detailed consideration of disorders of behavior including description, etiology, prognosis and experimental and clinical research; consideration of development and functions of classification systems of abnormal behavior and their relation to clinical decision making. Course Information: Prerequisite(s): <a href="/search/?P=PSCH%20570" title="PSCH&#160;570" class="bubblelink code" onclick="return showCourse(this, 'PSCH 570');">PSCH&#160;570</a> and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;574.  Techniques of Psychological Intervention.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Intervention skills, modalities, concepts and techniques for different patient populations and presenting problems. Topics will vary each semester and include: cognitive-behavior therapy, psychodynamic therapy, group therapy and family therapy. Course Information: May be repeated. Students may register in more than one section per term. Prerequisite(s): <a href="/search/?P=PSCH%20571" title="PSCH&#160;571" class="bubblelink code" onclick="return showCourse(this, 'PSCH 571');">PSCH&#160;571</a> and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;575.  Psychotherapy Theory and Research.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Research methods and theory related to psychotherapy and behavior change, with an emphasis on design, evaluation, and results of empirically-based psychotherapy studies. Course Information: Prerequisite(s): <a href="/search/?P=PSCH%20571" title="PSCH&#160;571" class="bubblelink code" onclick="return showCourse(this, 'PSCH 571');">PSCH&#160;571</a> and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;577.  Ethics and Professional Development.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Ethical dimensions of psychology including clinical practice, research and teaching; ethical codes, confidentiality, client rights, dual relationships, legal issues, competency, social responsibility, moral reasoning, values. Course Information: Prerequisite(s): Graduate standing in psychology or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;578.  Seminar in Clinical Psychology.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+In-depth coverage of selected current topics in clinical psychology. Emphasis is on current research. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;579.  Current Topics in Clinical Psychology.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Research and case presentations in clinical psychology. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;581.  Practicum in Interviewing.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Interviewing practicum through the Office of Applied Psychological Services. Students observe and conduct clinical interviews under supervision. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Clinical Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;582.  Practicum in Psychological Assessment.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Supervised practice in psychodiagnostic testing in various facilities associated with the graduate training program in clinical psychology. Course Information: Satisfactory/Unsatisfactory grading only. Students are expected to register for this course for at least 2 semesters. Students may register for more than one section per term. Prerequisite(s): Consent of the instructor. Open only to clinical psychology graduate students. Class Schedule Information:  To be properly registered, students must enroll in one Lecture-Discussion and one Clinical Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;583.  Practicum in Clinical Intervention.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Instruction and supervision in the practice of psychological intervention, application of basic psychological principles to varied parent populations. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Students may register in more than one section per term. Prerequisite(s): <a href="/search/?P=PSCH%20574" title="PSCH&#160;574" class="bubblelink code" onclick="return showCourse(this, 'PSCH 574');">PSCH&#160;574</a> and consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;584.  Practicum for Clinical Trainees on Assessment, Intervention and Research.  0-3 hours.</strong></p>
+<p class="courseblockdesc">
+Presentation and discussion of trainee assessment, intervention, and research projects. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Prerequisite(s): Acceptance into either an NIMH- or OAPS- sponsored training program. Class Schedule Information:  To be properly registered, students must enroll in one Conference and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;586.  The Science of Teaching Psychology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Seminar on theories, research, and evidence-based techniques for teaching undergraduate Psychology courses. Prepares students for <a href="/search/?P=PSCH%20587" title="PSCH&#160;587" class="bubblelink code" onclick="return showCourse(this, 'PSCH 587');">PSCH&#160;587</a>. Course Information: Extensive computer use required. Prerequisite(s): Consent of the instructor. Recommended background: Completion of Masterâ€™s degree in Psychology or related discipline.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;587.  Practicum in Teaching Psychology.  6 hours.</strong></p>
+<p class="courseblockdesc">
+Provides students who have completed <a href="/search/?P=PSCH%20586" title="PSCH&#160;586" class="bubblelink code" onclick="return showCourse(this, 'PSCH 586');">PSCH&#160;586</a> the opportunity to teach their own undergraduate Psychology course under the supervision of a Psychology Department faculty member. Course Information: Satisfactory/Unsatisfactory grading only. Extensive computer use required. Prerequisite(s): <a href="/search/?P=PSCH%20586" title="PSCH&#160;586" class="bubblelink code" onclick="return showCourse(this, 'PSCH 586');">PSCH&#160;586</a>; and consent of the instructor. Recommended background: Completion of Masterâ€™s degree in Psychology or related discipline.Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;591.  Research Apprenticeship.  2-3 hours.</strong></p>
+<p class="courseblockdesc">
+Directed training in conducting research in specific areas of Psychology, and in developing skills related to the research. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated to a maximum of 5 hours. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;594.  Advanced Special Topics in Psychology.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced treatment of an announced topic. Course Information: May be repeated. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;595.  Methods and Measurement in Clinical Psychology.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Provides students with an overview of research methods, process concerns, ethics, and issues that are relevant to the field of clinical psychology. Course Information: May be repeated. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;596.  Independent Study.  1-12 hours.</strong></p>
+<p class="courseblockdesc">
+Research on or study of topics not included in regular classes or thesis and dissertation research. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;598.  Thesis Research.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Research on the topic of the master's thesis. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated to a maximum of 12 hours. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PSCH&#160;599.  Dissertation Research.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Research on the topic of the doctoral dissertation. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="psch.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

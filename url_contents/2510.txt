@@ -1,0 +1,573 @@
+https://catalog.uic.edu/ucat/colleges-depts/applied-health-sciences/rs/bs/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>BS in Rehabilitation Sciences &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="active isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/applied-health-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/bhis/">Biomedical and Health Information Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/dhd/">Disability and Human Development</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/kn/">Kinesiology and Nutrition</a></li>
+				<li class="active isparent"><a href="/ucat/colleges-depts/applied-health-sciences/rs/">Rehabilitation Sciences</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/applied-health-sciences/rs/">
+					<li class="active self"><a href="#" onclick="return false;">BS in Rehabilitation Sciences</a></li>
+				</ul>
+				</li>
+				<li><a href="/ucat/colleges-depts/applied-health-sciences/preprofessional-studies/">Preprofessional Studies</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/applied-health-sciences/">College&nbsp;of&nbsp;Applied&nbsp;Health&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/applied-health-sciences/rs/">Rehabilitation&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><span class="active">BS in Rehabilitation Sciences</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">BS in Rehabilitation Sciences</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+<p class="program_codes"><span class="label"><strong>Program Codes:</strong> </span><br />20GF5207BS<br /></p>	</div>
+</div>
+
+<h2>Degree Requirements</h2>
+<p>To earn a Bachelor of Science in Rehabilitation Sciences degree from UIC, students need to complete university, college, and program degree requirements. Students should consult the <em><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Science</a></em> section for additional degree requirements and college academic policies. Students must complete all required General Education, core course, and selective course requirements and a total number of 120 degree hours to successfully complete the degree program. All candidates must have at least a 2.00/4.00 grade point average in all work taken at the University of Illinois at Chicago, in all work taken in the major field, and in all work accepted by the university (transfer work plus work taken at UIC). </p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Summary of Requirements</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">University Writing Requirement</span></td><td class="hourscol">6</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">General Education Core Requirements</span></td><td class="hourscol">20</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Common Core </span></td><td class="hourscol">49-54</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Selectives</span></td><td class="hourscol">12</td></tr>
+<tr class="odd lastrow"><td colspan="2"><span class="courselistcomment">Electives</span></td><td class="hourscol">28-33</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">120</td></tr></tbody>
+</table>
+
+<h3>University Writing Requirement</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td><td>Academic Writing I: Writing in Academic and Public Contexts</td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td><td>Academic Writing II: Writing for Inquiry and Research</td><td class="hourscol">3</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">6</td></tr></tbody>
+</table>
+
+<h3>General Education Core Requirements<sup>a</sup></h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a></td><td>Biology of Cells and Organisms <sup>b</sup></td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=PSCH%20100" title="PSCH 100" class="bubblelink code" onclick="return showCourse(this, 'PSCH 100');">PSCH 100</a></td><td>Introduction to Psychology <sup>c</sup></td><td class="hourscol">4</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Understanding the Past course</span> <sup>d</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Understanding the Creative Arts course</span> <sup>d</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Exploring World Cultures course</span> <sup>d</sup></td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">Understanding U.S. Society course</span> <sup>d</sup></td><td class="hourscol">3</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">20</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>The University General Education requirement is 24 hours distributed across the six categories. A required course in the major is approved for General Education and fulfills the student’s 24 hours and sixth category.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>This course is approved for the Analyzing the Natural World General Education category.</em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>This course is approved for the Understanding the Individual and Society General Education category. </em></p></td></tr><tr><td valign="top" class="symcol">d</td><td class="notecol"><p><em>Students should consult the <a href="/ucat/degree-programs/general-education/">General Education</a> section of the catalog for a list approved courses in this category.</em></p></td></tr></table>
+<h3>Common Core</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=AHS%20101" title="AHS 101" class="bubblelink code" onclick="return showCourse(this, 'AHS 101');">AHS 101</a></td><td>Rehabilitation Sciences Student Success Seminar</td><td class="hourscol">1</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=AHS%20102" title="AHS 102" class="bubblelink code" onclick="return showCourse(this, 'AHS 102');">AHS 102</a></td><td>Introduction to Clinical Research in Rehabilitation Sciences</td><td class="hourscol">1</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=AHS%20210" title="AHS 210" class="bubblelink code" onclick="return showCourse(this, 'AHS 210');">AHS 210</a></td><td>Introduction to Rehabilitation Sciences</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=AHS%20325" title="AHS 325" class="bubblelink code" onclick="return showCourse(this, 'AHS 325');">AHS 325</a></td><td>Approaches to Rehabilitation Case Management</td><td class="hourscol">2</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=AHS%20330" title="AHS 330" class="bubblelink code" onclick="return showCourse(this, 'AHS 330');">AHS 330</a></td><td>Physical and Mental Health Issues in Rehabilitation</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=AHS%20365" title="AHS 365" class="bubblelink code" onclick="return showCourse(this, 'AHS 365');">AHS 365</a></td><td>Measurement and Assessment in Rehabilitation</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=AHS%20375" title="AHS 375" class="bubblelink code" onclick="return showCourse(this, 'AHS 375');">AHS 375</a></td><td>Ethics, Law and Professionalism in Health Sciences</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=AHS%20393" title="AHS 393" class="bubblelink code" onclick="return showCourse(this, 'AHS 393');">AHS 393</a></td><td>Synthesis in Health/Rehabilitation Sciences</td><td class="hourscol">1-4</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=AHS%20402" title="AHS 402" class="bubblelink code" onclick="return showCourse(this, 'AHS 402');">AHS 402</a></td><td>Health Inter-professional Seminar</td><td class="hourscol">2</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=BHIS%20406" title="BHIS 406" class="bubblelink code" onclick="return showCourse(this, 'BHIS 406');">BHIS 406</a></td><td>Medical Terminology for Health Information Management</td><td class="hourscol">2</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=BHIS%20460" title="BHIS 460" class="bubblelink code" onclick="return showCourse(this, 'BHIS 460');">BHIS 460</a></td><td>Introduction to Health Informatics</td><td class="hourscol">1</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=DHD%20101" title="DHD 101" class="bubblelink code" onclick="return showCourse(this, 'DHD 101');">DHD 101</a></td><td>Disability in U.S. Society <sup>a</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=DHD%20440" title="DHD 440" class="bubblelink code" onclick="return showCourse(this, 'DHD 440');">DHD 440</a></td><td>Introduction to Assistive Technology: Principles and Practice</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=HIM%20410" title="HIM 410" class="bubblelink code" onclick="return showCourse(this, 'HIM 410');">HIM 410</a></td><td>Introduction to the Health Care System</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select one of the following Anatomy and Physiology sequences: </span></td><td class="hourscol">8-10</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=KN%20253" title="KN 253" class="bubblelink code" onclick="return showCourse(this, 'KN 253');">KN 253</a></div></td><td>Human Anatomy and Physiology I</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=KN%20254" title="KN 254" class="bubblelink code" onclick="return showCourse(this, 'KN 254');">KN 254</a></div></td><td>Human Anatomy and Physiology II</td><td class="hourscol"></td></tr>
+<tr class="even areaheader "><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment areaheader  commentindent">OR</span></div></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=KN%20251" title="KN 251" class="bubblelink code" onclick="return showCourse(this, 'KN 251');">KN 251</a></div></td><td>Human Physiological Anatomy I <sup>b</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=KN%20252" title="KN 252" class="bubblelink code" onclick="return showCourse(this, 'KN 252');">KN 252</a></div></td><td>Human Physiological Anatomy II <sup>b</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=PSCH%20242" title="PSCH 242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH 242</a></td><td>Introduction to Research in Psychology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=PSCH%20320" title="PSCH 320" class="bubblelink code" onclick="return showCourse(this, 'PSCH 320');">PSCH 320</a></td><td>Developmental Psychology</td><td class="hourscol">3</td></tr>
+<tr class="odd lastrow"><td class="codecol"><a href="/search/?P=STAT%20101" title="STAT 101" class="bubblelink code" onclick="return showCourse(this, 'STAT 101');">STAT 101</a></td><td>Introduction to Statistics</td><td class="hourscol">4</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">49-54</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>This course fulfills the Understanding U.S. Society requirement in this program.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>This course sequence may be taken instead of <span class="sc_courseinline"><a href="/search/?P=KN%20253" title="KN 253" class="bubblelink code" onclick="return showCourse(this, 'KN 253');">KN 253</a></span>/<span class="sc_courseinline"><a href="/search/?P=KN%20254" title="KN 254" class="bubblelink code" onclick="return showCourse(this, 'KN 254');">KN 254</a></span> with advisor permission.</em></p></td></tr></table>
+<h3>Selectives</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select four of the following (12 hours minimum):</span></td><td class="hourscol">12</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DHD%20102" title="DHD 102" class="bubblelink code" onclick="return showCourse(this, 'DHD 102');">DHD 102</a></div></td><td>Disability in American Film</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DHD%20201" title="DHD 201" class="bubblelink code" onclick="return showCourse(this, 'DHD 201');">DHD 201</a></div></td><td>Disability, Rights, and Culture</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DHD%20202" title="DHD 202" class="bubblelink code" onclick="return showCourse(this, 'DHD 202');">DHD 202</a></div></td><td>Disability, Health, and Society</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DHD%20401" title="DHD 401" class="bubblelink code" onclick="return showCourse(this, 'DHD 401');">DHD 401</a></div></td><td>Foundations of Disability and Human Development</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DHD%20403" title="DHD 403" class="bubblelink code" onclick="return showCourse(this, 'DHD 403');">DHD 403</a></div></td><td>Disability in Latino Communities</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DHD%20441" title="DHD 441" class="bubblelink code" onclick="return showCourse(this, 'DHD 441');">DHD 441</a></div></td><td>Adaptive Equipment Design and Fabrication</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20366" title="PSCH 366" class="bubblelink code" onclick="return showCourse(this, 'PSCH 366');">PSCH 366</a></div></td><td>Cognitive Neuroscience</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PT%20350" title="PT 350" class="bubblelink code" onclick="return showCourse(this, 'PT 350');">PT 350</a></div></td><td>Introduction to Physical Therapy</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=OT%20350" title="OT 350" class="bubblelink code" onclick="return showCourse(this, 'OT 350');">OT 350</a></div></td><td>Introduction to Occupational Therapy: Occupation and Participation across the Lifespan</td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Up to 2 courses  totaling up to 6 hours of any 300- or 400-level course may be selected with advisor approval</span></div></td><td class="hourscol"></td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">12</td></tr></tbody>
+</table>
+
+<h3>Electives</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Electives</span></td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td colspan="2"><span class="courselistcomment">Select electives to meet final degree hour requirement.</span></td><td class="hourscol">28-33</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">28-33</td></tr></tbody>
+</table>
+
+<h2>Sample Course Schedule</h2>
+<table pdfnorepeatheader="true" class="sc_plangrid">
+<caption>Plan of Study Grid</caption><colgroup>
+	<col class="codecol"/>
+	<col class="titlecol"/>
+	<col class="hourscol"/>
+</colgroup>
+<tr class="plangridyear"><th id="plangrid1_0" class="year" colspan="3">First Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_0_0" colspan="2">Fall Semester</th><th id="hoursheader" scope="col" class="hourscol">Hours</th></tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Academic Writing I: Writing in Academic and Public Contexts</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=DHD%20101" title="DHD 101" class="bubblelink code" onclick="return showCourse(this, 'DHD 101');">DHD 101</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Disability in U.S. Society</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">Exploring World Cultures course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">Understanding the Past course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=AHS%20101" title="AHS 101" class="bubblelink code" onclick="return showCourse(this, 'AHS 101');">AHS 101</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Rehabilitation Sciences Student Success Seminar</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_0_0" class="titlecol">Hours</td><td headers=" plangrid1_0_0 hoursheader" class="hourscol">13</td></tr>
+<tr class="plangridterm"><th id="plangrid1_0_1" colspan="3">Spring Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Academic Writing II: Writing for Inquiry and Research</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=AHS%20210" title="AHS 210" class="bubblelink code" onclick="return showCourse(this, 'AHS 210');">AHS 210</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Introduction to Rehabilitation Sciences</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Biology of Cells and Organisms</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=PSCH%20100" title="PSCH 100" class="bubblelink code" onclick="return showCourse(this, 'PSCH 100');">PSCH 100</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Introduction to Psychology</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=AHS%20102" title="AHS 102" class="bubblelink code" onclick="return showCourse(this, 'AHS 102');">AHS 102</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Introduction to Clinical Research in Rehabilitation Sciences</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_0_1" class="titlecol">Hours</td><td headers=" plangrid1_0_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridyear"><th id="plangrid1_1" class="year" colspan="3">Second Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_1_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" class="codecol"><a href="/search/?P=KN%20251" title="KN 251" class="bubblelink code" onclick="return showCourse(this, 'KN 251');">KN 251</a></td>
+<td headers=" plangrid1_1_0" class="titlecol">Human Physiological Anatomy I</td>
+<td headers="hoursheader" class="hourscol">5</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">Selective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">Understanding U.S. Society course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_1_0" class="titlecol">Hours</td><td headers=" plangrid1_1_0 hoursheader" class="hourscol">14</td></tr>
+<tr class="plangridterm"><th id="plangrid1_1_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" class="codecol"><a href="/search/?P=KN%20252" title="KN 252" class="bubblelink code" onclick="return showCourse(this, 'KN 252');">KN 252</a></td>
+<td headers=" plangrid1_1_1" class="titlecol">Human Physiological Anatomy II</td>
+<td headers="hoursheader" class="hourscol">5</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_1" class="codecol"><a href="/search/?P=STAT%20101" title="STAT 101" class="bubblelink code" onclick="return showCourse(this, 'STAT 101');">STAT 101</a></td>
+<td headers=" plangrid1_1_1" class="titlecol">Introduction to Statistics</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">Selective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_1_1" class="titlecol">Hours</td><td headers=" plangrid1_1_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridyear"><th id="plangrid1_2" class="year" colspan="3">Third Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_2_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=DHD%20440" title="DHD 440" class="bubblelink code" onclick="return showCourse(this, 'DHD 440');">DHD 440</a></td>
+<td headers=" plangrid1_2_0" class="titlecol">Introduction to Assistive Technology: Principles and Practice</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=AHS%20330" title="AHS 330" class="bubblelink code" onclick="return showCourse(this, 'AHS 330');">AHS 330</a></td>
+<td headers=" plangrid1_2_0" class="titlecol">Physical and Mental Health Issues in Rehabilitation</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=AHS%20325" title="AHS 325" class="bubblelink code" onclick="return showCourse(this, 'AHS 325');">AHS 325</a></td>
+<td headers=" plangrid1_2_0" class="titlecol">Approaches to Rehabilitation Case Management</td>
+<td headers="hoursheader" class="hourscol">2</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=PSCH%20242" title="PSCH 242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH 242</a></td>
+<td headers=" plangrid1_2_0" class="titlecol">Introduction to Research in Psychology</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=AHS%20393" title="AHS 393" class="bubblelink code" onclick="return showCourse(this, 'AHS 393');">AHS 393</a></td>
+<td headers=" plangrid1_2_0" class="titlecol">Synthesis in Health/Rehabilitation Sciences</td>
+<td headers="hoursheader" class="hourscol">1-4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">Selective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_2_0" class="titlecol">Hours</td><td headers=" plangrid1_2_0 hoursheader" class="hourscol">15-18</td></tr>
+<tr class="plangridterm"><th id="plangrid1_2_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_2_1" class="codecol"><a href="/search/?P=BHIS%20406" title="BHIS 406" class="bubblelink code" onclick="return showCourse(this, 'BHIS 406');">BHIS 406</a></td>
+<td headers=" plangrid1_2_1" class="titlecol">Medical Terminology for Health Information Management</td>
+<td headers="hoursheader" class="hourscol">2</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">Selective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" class="codecol"><a href="/search/?P=PSCH%20320" title="PSCH 320" class="bubblelink code" onclick="return showCourse(this, 'PSCH 320');">PSCH 320</a></td>
+<td headers=" plangrid1_2_1" class="titlecol">Developmental Psychology</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_2_1" class="titlecol">Hours</td><td headers=" plangrid1_2_1 hoursheader" class="hourscol">17</td></tr>
+<tr class="plangridyear"><th id="plangrid1_3" class="year" colspan="3">Fourth Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_3_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_3_0" class="codecol"><a href="/search/?P=AHS%20375" title="AHS 375" class="bubblelink code" onclick="return showCourse(this, 'AHS 375');">AHS 375</a></td>
+<td headers=" plangrid1_3_0" class="titlecol">Ethics, Law and Professionalism in Health Sciences</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_0" class="codecol"><a href="/search/?P=HIM%20410" title="HIM 410" class="bubblelink code" onclick="return showCourse(this, 'HIM 410');">HIM 410</a></td>
+<td headers=" plangrid1_3_0" class="titlecol">Introduction to the Health Care System</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_0" class="codecol"><a href="/search/?P=AHS%20402" title="AHS 402" class="bubblelink code" onclick="return showCourse(this, 'AHS 402');">AHS 402</a></td>
+<td headers=" plangrid1_3_0" class="titlecol">Health Inter-professional Seminar</td>
+<td headers="hoursheader" class="hourscol">2</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">Undertanding the Creative Arts course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_3_0" class="titlecol">Hours</td><td headers=" plangrid1_3_0 hoursheader" class="hourscol">14</td></tr>
+<tr class="plangridterm"><th id="plangrid1_3_1" colspan="3">Spring Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_3_1" class="codecol"><a href="/search/?P=AHS%20365" title="AHS 365" class="bubblelink code" onclick="return showCourse(this, 'AHS 365');">AHS 365</a></td>
+<td headers=" plangrid1_3_1" class="titlecol">Measurement and Assessment in Rehabilitation</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_1" class="codecol"><a href="/search/?P=BHIS%20460" title="BHIS 460" class="bubblelink code" onclick="return showCourse(this, 'BHIS 460');">BHIS 460</a></td>
+<td headers=" plangrid1_3_1" class="titlecol">Introduction to Health Informatics</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">Elective </span></td>
+<td headers="hoursheader" class="hourscol">1-3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_3_1" class="titlecol">Hours</td><td headers=" plangrid1_3_1 hoursheader" class="hourscol">14-16</td></tr>
+<tr class="plangridtotal lastrow odd"><td> </td><td>Total Hours</td><td headers="hoursheader" class="hourscol">120</td></tr>
+</table></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="bs.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

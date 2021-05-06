@@ -1,0 +1,461 @@
+https://catalog.uic.edu/ucat/colleges-depts/business-administration/fin/bs/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>BS in Finance &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/business-administration/">
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/actg/">Accounting</a></li>
+				<li class="active isparent"><a href="/ucat/colleges-depts/business-administration/fin/">Finance</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/business-administration/fin/">
+					<li class="active self"><a href="#" onclick="return false;">BS in Finance</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/ids/">Information and Decision Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/mgmt/">Managerial Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/marketing/">Marketing</a></li>
+				<li><a href="/ucat/colleges-depts/business-administration/bba/">Bachelor of Business Administration</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/minors/">Minors</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/business-administration/">College&nbsp;of&nbsp;Business&nbsp;Administration</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/business-administration/fin/">Finance</a><span class="crumbsep">/</span></li><li><span class="active">BS in Finance</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">BS in Finance</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+<p class="program_codes"><span class="label"><strong>Program Codes:</strong> </span><br />20FL0075BS<br /></p>	</div>
+</div>
+
+<h2><strong>Degree Requirements</strong></h2>
+<p>To earn a Bachelor of Science in Finance degree from UIC, students need to complete university, college, and department degree requirements. The Department of Finance degree requirements are outlined below. Students should consult the <a href="/ucat/colleges-depts/business-administration/"><em>College of Business Administration</em></a> section for additional degree requirements and college academic policies.</p>
+<p>In order to complete the department courses required for the major and to take advantage of the available career path groups listed below, the following requirements must be met by the second semester of the sophomore year: average grade B or better in <span class="sc_courseinline"><a href="/search/?P=FIN%20301" title="FIN 301" class="bubblelink code" onclick="return showCourse(this, 'FIN 301');">FIN 301</a></span> and <span class="sc_courseinline"><a href="/search/?P=FIN%20302" title="FIN 302" class="bubblelink code" onclick="return showCourse(this, 'FIN 302');">FIN 302</a></span> with both taken at UIC; or a grade of C or better in both <span class="sc_courseinline"><a href="/search/?P=FIN%20301" title="FIN 301" class="bubblelink code" onclick="return showCourse(this, 'FIN 301');">FIN 301</a></span> and <span class="sc_courseinline"><a href="/search/?P=FIN%20302" title="FIN 302" class="bubblelink code" onclick="return showCourse(this, 'FIN 302');">FIN 302</a></span> with both taken at UIC and a passing grade in the Finance Placement Exam (FPE). Information on FPE is available on the Department of Finance website. </p>
+
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Summary of Requirements</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">General and Basic Course Requirements </span></td><td class="hourscol">48</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Business Core</span></td><td class="hourscol">45</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Major Requirements </span></td><td class="hourscol">18</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">Business Electives</span></td><td class="hourscol">9</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">120</td></tr></tbody>
+</table>
+
+<h3>General and Basic Course Requirements</h3>
+<p>See <em><a href="/ucat/colleges-depts/business-administration/#c2">General and Basic Course Requirements</a></em> in the <em>College of Business Administration</em> section for the list of courses needed to meet this requirement.</p>
+<h3>Business Core</h3>
+<p>See <em><a href="/ucat/colleges-depts/business-administration/#c3">Business Course Requirements</a></em> in the <em>College of Business Administration</em> section for the list of courses needed to meet this requirement.</p>
+<h3>Major Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=FIN%20310" title="FIN 310" class="bubblelink code" onclick="return showCourse(this, 'FIN 310');">FIN 310</a></td><td>Investments</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=FIN%20320" title="FIN 320" class="bubblelink code" onclick="return showCourse(this, 'FIN 320');">FIN 320</a></td><td>Managerial Finance</td><td class="hourscol">3</td></tr>
+<tr class="odd lastrow"><td colspan="2"><span class="courselistcomment">Twelve additional hours of 300- or 400-level courses in the Department of Finance. See lists below for career path suggestions. </span></td><td class="hourscol">12</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">18</td></tr></tbody>
+</table>
+
+<h3>Business Electives</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td colspan="2"><span class="courselistcomment">Nine hours at the 200-, 300-, or 400-level chosen from courses in the College of Business Administration with a maximum of three hours at the 200-level. See lists below for career path suggestions. Students may elect any combination of business courses to fulfill the elective requirement.</span></td><td class="hourscol">9</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">9</td></tr></tbody>
+</table>
+
+<h3>Course Suggestions for Finance Careers</h3>
+<p>Students should select courses based upon their interests and career goals. The finance courses listed below suggest which courses are most appropriate for alternative career paths.</p>
+<h4>Corporate Financial Analysis</h4>
+<p>This area provides an introduction to the work of the financial officer of a company focusing on financial statements, financial characteristics, and financial strategies of different types of firms.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ACTG%20315" title="ACTG 315" class="bubblelink code" onclick="return showCourse(this, 'ACTG 315');">ACTG 315</a></td><td>Intermediate Financial Accounting I</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ACTG%20316" title="ACTG 316" class="bubblelink code" onclick="return showCourse(this, 'ACTG 316');">ACTG 316</a></td><td>Intermediate Financial Accounting II</td><td class="hourscol">3</td></tr>
+<tr class="odd lastrow"><td class="codecol"><a href="/search/?P=ENTR%20444" title="ENTR 444" class="bubblelink code" onclick="return showCourse(this, 'ENTR 444');">ENTR 444</a></td><td>Entrepreneurial Finance</td><td class="hourscol">3</td></tr>
+</tbody>
+</table>
+
+<h4>Investment Management</h4>
+<p>This area provides an introduction to the theory and practice of managing investments. The professional investment manager must be aware of the vast range of investments available in the modern economy, the factors that determine returns and risks, and methods used to hedge risks.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=FIN%20412" title="FIN 412" class="bubblelink code" onclick="return showCourse(this, 'FIN 412');">FIN 412</a></td><td>Portfolio Management</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=FIN%20415" title="FIN 415" class="bubblelink code" onclick="return showCourse(this, 'FIN 415');">FIN 415</a></td><td>Fixed Income Securities</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=FIN%20416" title="FIN 416" class="bubblelink code" onclick="return showCourse(this, 'FIN 416');">FIN 416</a></td><td>Options and Futures Markets</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=FIN%20449" title="FIN 449" class="bubblelink code" onclick="return showCourse(this, 'FIN 449');">FIN 449</a></td><td>Applied Equity Investment Management</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=FIN%20455" title="FIN 455" class="bubblelink code" onclick="return showCourse(this, 'FIN 455');">FIN 455</a></td><td>Asset Management</td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td class="codecol"><a href="/search/?P=FIN%20494" title="FIN 494" class="bubblelink code" onclick="return showCourse(this, 'FIN 494');">FIN 494</a></td><td>Special Topics in Finance <sup>a</sup></td><td class="hourscol">1-4</td></tr>
+</tbody>
+</table>
+
+<h4>Banking</h4>
+<p>The banking system is crucial to the proper functioning of modern industrialized economies. This area provides an introduction to the structure and functions of the modern financial system, the roles played by commercial and central banks, the impact of regulatory and monetary policies, and the management of commercial banks.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=FIN%20415" title="FIN 415" class="bubblelink code" onclick="return showCourse(this, 'FIN 415');">FIN 415</a></td><td>Fixed Income Securities</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=FIN%20430" title="FIN 430" class="bubblelink code" onclick="return showCourse(this, 'FIN 430');">FIN 430</a></td><td>Introduction to Money and Banking</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=FIN%20431" title="FIN 431" class="bubblelink code" onclick="return showCourse(this, 'FIN 431');">FIN 431</a></td><td>Management in the Financial Services Industry</td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td class="codecol"><a href="/search/?P=FIN%20494" title="FIN 494" class="bubblelink code" onclick="return showCourse(this, 'FIN 494');">FIN 494</a></td><td>Special Topics in Finance (when topic is Islamic Finance) <sup>a</sup></td><td class="hourscol">3</td></tr>
+</tbody>
+</table>
+
+<h4>Global Finance</h4>
+<p>This area provides an introduction to international financial markets and the firm’s financial management in a global context.  <span class="sc_courseinline"><a href="/search/?P=FIN%20340" title="FIN 340" class="bubblelink code" onclick="return showCourse(this, 'FIN 340');">FIN 340</a></span> and <span class="sc_courseinline"><a href="/search/?P=FIN%20442" title="FIN 442" class="bubblelink code" onclick="return showCourse(this, 'FIN 442');">FIN 442</a></span> are the central courses. Among other topics covered are the international monetary system, markets for foreign exchange, management of foreign investments, and exchange rate risks.</p>
+
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=FIN%20340" title="FIN 340" class="bubblelink code" onclick="return showCourse(this, 'FIN 340');">FIN 340</a></td><td>International Financial Markets</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=FIN%20415" title="FIN 415" class="bubblelink code" onclick="return showCourse(this, 'FIN 415');">FIN 415</a></td><td>Fixed Income Securities</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=FIN%20416" title="FIN 416" class="bubblelink code" onclick="return showCourse(this, 'FIN 416');">FIN 416</a></td><td>Options and Futures Markets</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=FIN%20442" title="FIN 442" class="bubblelink code" onclick="return showCourse(this, 'FIN 442');">FIN 442</a></td><td>International Corporate Financial Management</td><td class="hourscol">3</td></tr>
+<tr class="odd lastrow"><td class="codecol"><a href="/search/?P=FIN%20494" title="FIN 494" class="bubblelink code" onclick="return showCourse(this, 'FIN 494');">FIN 494</a></td><td>Special Topics in Finance <sup>a</sup></td><td class="hourscol">3</td></tr>
+</tbody>
+</table>
+
+<h4>Risk Management</h4>
+<p>This area prepares students for careers in areas of the financial industry that involve financial risk management.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=FIN%20415" title="FIN 415" class="bubblelink code" onclick="return showCourse(this, 'FIN 415');">FIN 415</a></td><td>Fixed Income Securities</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=FIN%20416" title="FIN 416" class="bubblelink code" onclick="return showCourse(this, 'FIN 416');">FIN 416</a></td><td>Options and Futures Markets</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=FIN%20473" title="FIN 473" class="bubblelink code" onclick="return showCourse(this, 'FIN 473');">FIN 473</a></td><td>Introduction to Risk Management</td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td class="codecol"><a href="/search/?P=FIN%20479" title="FIN 479" class="bubblelink code" onclick="return showCourse(this, 'FIN 479');">FIN 479</a></td><td>Enterprise Risk Management</td><td class="hourscol">3</td></tr>
+</tbody>
+</table>
+
+<h4>Wealth Management</h4>
+<p>Professionals in this field are responsible for managing the financial assets of their clients. </p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=FIN%20412" title="FIN 412" class="bubblelink code" onclick="return showCourse(this, 'FIN 412');">FIN 412</a></td><td>Portfolio Management</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=FIN%20455" title="FIN 455" class="bubblelink code" onclick="return showCourse(this, 'FIN 455');">FIN 455</a></td><td>Asset Management</td><td class="hourscol">1-4</td></tr>
+<tr class="odd lastrow"><td class="codecol"><a href="/search/?P=FIN%20494" title="FIN 494" class="bubblelink code" onclick="return showCourse(this, 'FIN 494');">FIN 494</a></td><td>Special Topics in Finance <sup>a</sup></td><td class="hourscol">1-4</td></tr>
+</tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><a href="https://businessconnect.uic.edu/undergrad/undergrad-programs/bs-in-finance/" target="_blank">FIN 494 topics available</a> can be found on the department website.</p></td></tr></table>
+<h2>Sample Business Major Curriculum</h2>
+<p>See <em><a href="/ucat/colleges-depts/business-administration/#l">Sample Business Major Curriculum</a></em> in the<em> College of Business Administration</em> section. See your academic advisor for an individualized major map in your field of study.</p></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="bs.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

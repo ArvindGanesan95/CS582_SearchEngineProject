@@ -1,0 +1,1279 @@
+https://catalog.uic.edu/ucat/colleges-depts/architecture-design-arts/thtr-mus/ba-act/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>BA in Theatre and Performance &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/architecture-design-arts/">
+				<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/arch/">School of Architecture</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/">School of Art &amp;&#8203; Art History</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/des/">School of Design</a></li>
+				<li class="active isparent"><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/">School of Theatre &amp;&#8203; Music</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/architecture-design-arts/thtr-mus/">
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/ba-mus/">BA in Music</a></li>
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/b-mus-bus/">BA in Music Business</a></li>
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/bmus-perf/">BMus in Performance</a></li>
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/bmus-jazz/">BMus in Jazz Studies</a></li>
+					<li class="active self"><a href="#" onclick="return false;">BA in Theatre and Performance</a></li>
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/ba-thtr-des/">BA in Theatre Design, Production, and Technology</a></li>
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/bfa-act/">BFA in Acting</a></li>
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/minor-mus/">Minor in Music</a></li>
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/minor-thtr/">Minor in Theatre</a></li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/architecture-design-arts/">College&nbsp;of&nbsp;Architecture,&nbsp;Design,&nbsp;and&nbsp;the&nbsp;Arts</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/">School&nbsp;of&nbsp;Theatre&nbsp;&amp;&nbsp;Music</a><span class="crumbsep">/</span></li><li><span class="active">BA in Theatre and Performance</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">BA in Theatre and Performance</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+<p class="program_codes"><span class="label"><strong>Program Codes:</strong> </span><br />20FR5427BA<br /></p>	</div>
+</div>
+
+<h2>Degree Requirements—BA in Theatre and Performance</h2>
+<p>To earn a Bachelor of Arts in Theatre and Performance from UIC, students need to complete university, college, and school degree requirements. The School of Theatre &amp; Music degree requirements are outlined below. Students should consult the <a href="/ucat/colleges-depts/architecture-design-arts/"><em>College of Architecture, Design, and the Arts</em></a> section for additional degree requirements and college academic policies. Admission to the BA in Theatre and Performance is by audition, interview, or presentation of student work.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Summary of Requirements</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">General Education Requirements</span></td><td class="hourscol">24</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Degree and Track Course Requirements (vary by track)</span></td><td class="hourscol">35-44</td></tr>
+<tr class="odd"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">General Track (35 hours)</span></div></td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Performance Track (44 hours)</span></div></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Authorship Track (41 hours)</span></div></td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Electives (vary by track)</span></td><td class="hourscol">51-61</td></tr>
+<tr class="odd"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">General Track (60-61 hours)</span></div></td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Performance Track (51-52 hours)</span></div></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Authorship Track (54-55 hours)</span></div></td><td class="hourscol"></td></tr>
+<tr class="even lastrow"><td class="codecol"><a href="/search/?P=DLG%20120" title="DLG 120" class="bubblelink code" onclick="return showCourse(this, 'DLG 120');">DLG 120</a></td><td>UIC First-Year Dialogue Seminar (Required of new freshmen only) <sup>a</sup></td><td class="hourscol">1</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">120</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Hours of electives required are based upon the track selected by students within the BA in Theatre and Performance, and whether they are required to complete <span class="sc_courseinline"><a href="/search/?P=DLG%20120" title="DLG 120" class="bubblelink code" onclick="return showCourse(this, 'DLG 120');">DLG 120</a></span> for 1 hour (required of new freshmen only). </em></p></td></tr></table>
+<h3>General Education Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span> <sup>a</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td><td>Academic Writing I: Writing in Academic and Public Contexts</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td><td>Academic Writing II: Writing for Inquiry and Research</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Exploring World Cultures course</span> <sup>b</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Analyzing the Natural World course</span> <sup>b</sup></td><td class="hourscol">3-5</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Understanding the Individual and Society course</span> <sup>b</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Understanding U.S. Society course</span> <sup>b</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd lastrow"><td colspan="2"><span class="courselistcomment">Additional General Education Core courses from any category</span> <sup>b</sup></td><td class="hourscol">4-6</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">24</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>The Understanding the Past and Understanding the Creative Arts General Education requirements are met by courses within the degree.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>Students should consult the <a href="/ucat/degree-programs/general-education/">General Education</a> section of the catalog for a list of approved courses in this category.</em></p></td></tr></table>
+<h3>Theatre and Performance Degree and Track Course Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Students in all tracks complete 20 hours of degree core course work:</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=THTR%20101" title="THTR 101" class="bubblelink code" onclick="return showCourse(this, 'THTR 101');">THTR 101</a></td><td>Theatre History I: Premodern Drama <sup>a</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=THTR%20141" title="THTR 141" class="bubblelink code" onclick="return showCourse(this, 'THTR 141');">THTR 141</a></td><td>Acting I: Fundamentals</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=THTR%20182" title="THTR 182" class="bubblelink code" onclick="return showCourse(this, 'THTR 182');">THTR 182</a></td><td>Practicum in Theater: Run Crew</td><td class="hourscol">1</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=THTR%20183" title="THTR 183" class="bubblelink code" onclick="return showCourse(this, 'THTR 183');">THTR 183</a></td><td>Practicum in Theater: Build Crew</td><td class="hourscol">1</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=THTR%20201" title="THTR 201" class="bubblelink code" onclick="return showCourse(this, 'THTR 201');">THTR 201</a></td><td>Theatre History II: Modern Theatre <sup>b</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=THTR%20217" title="THTR 217" class="bubblelink code" onclick="return showCourse(this, 'THTR 217');">THTR 217</a></td><td>Movement &amp; Voice I</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=THTR%20230" title="THTR 230" class="bubblelink code" onclick="return showCourse(this, 'THTR 230');">THTR 230</a></td><td>Script Analysis for Theatrical Production</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=THTR%20448" title="THTR 448" class="bubblelink code" onclick="return showCourse(this, 'THTR 448');">THTR 448</a></td><td>The Business of Theatre: A Career in the Arts</td><td class="hourscol">3</td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Required Courses by Track (hours vary by track)</span></td><td class="hourscol">3-12</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">General Track—Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20241" title="THTR 241" class="bubblelink code" onclick="return showCourse(this, 'THTR 241');">THTR 241</a></div></td><td>Acting II: Scene Study</td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Performance Track—Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20241" title="THTR 241" class="bubblelink code" onclick="return showCourse(this, 'THTR 241');">THTR 241</a></div></td><td>Acting II: Scene Study</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20317" title="THTR 317" class="bubblelink code" onclick="return showCourse(this, 'THTR 317');">THTR 317</a></div></td><td>Movement &amp; Voice II</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20341" title="THTR 341" class="bubblelink code" onclick="return showCourse(this, 'THTR 341');">THTR 341</a></div></td><td>Acting III: Classics</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20449" title="THTR 449" class="bubblelink code" onclick="return showCourse(this, 'THTR 449');">THTR 449</a></div></td><td>Capstone: Senior Project</td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Authorship Track—Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20449" title="THTR 449" class="bubblelink code" onclick="return showCourse(this, 'THTR 449');">THTR 449</a></div></td><td>Capstone: Senior Project</td><td class="hourscol"></td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Selectives (hours vary by track)</span></td><td class="hourscol">12-18</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">All tracks select one of the following three Design, Production, and Technology sequences:</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20150" title="THTR 150" class="bubblelink code" onclick="return showCourse(this, 'THTR 150');">THTR 150</a></div></td><td>Fundamental of Theatre Technology</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20151" title="THTR 151" class="bubblelink code" onclick="return showCourse(this, 'THTR 151');">THTR 151</a></div></td><td>Costume Technology I: Introduction to Costume Technology</td><td class="hourscol"></td></tr>
+<tr class="orclass odd"><td class="codecol orclass"><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=THTR%20152" title="THTR 152" class="bubblelink code" onclick="return showCourse(this, 'THTR 152');">THTR 152</a></div></td><td colspan="2"> Lighting Technology I: An Introduction to Lighting Tech</td></tr>
+<tr class="orclass odd"><td class="codecol orclass"><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=THTR%20153" title="THTR 153" class="bubblelink code" onclick="return showCourse(this, 'THTR 153');">THTR 153</a></div></td><td colspan="2"> Scenic Technology I: An Introduction to Stagecraft for the Theatre</td></tr>
+<tr class="even areaheader "><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment areaheader  commentindent">OR</span></div></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20155" title="THTR 155" class="bubblelink code" onclick="return showCourse(this, 'THTR 155');">THTR 155</a></div></td><td>Fundamentals of Theatre Design <sup>b</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20156" title="THTR 156" class="bubblelink code" onclick="return showCourse(this, 'THTR 156');">THTR 156</a></div></td><td>Lighting Design I: An Introduction to Lighting Design</td><td class="hourscol"></td></tr>
+<tr class="orclass even"><td class="codecol orclass"><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=THTR%20158" title="THTR 158" class="bubblelink code" onclick="return showCourse(this, 'THTR 158');">THTR 158</a></div></td><td colspan="2"> Costume Design I</td></tr>
+<tr class="orclass even"><td class="codecol orclass"><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=THTR%20170" title="THTR 170" class="bubblelink code" onclick="return showCourse(this, 'THTR 170');">THTR 170</a></div></td><td colspan="2"> Sound Design: An Introduction to Sound Design for Theatre</td></tr>
+<tr class="orclass even"><td class="codecol orclass"><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=THTR%20250" title="THTR 250" class="bubblelink code" onclick="return showCourse(this, 'THTR 250');">THTR 250</a></div></td><td colspan="2"> Scenic Design I</td></tr>
+<tr class="orclass even"><td class="codecol orclass"><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=THTR%20259" title="THTR 259" class="bubblelink code" onclick="return showCourse(this, 'THTR 259');">THTR 259</a></div></td><td colspan="2"> Makeup Design</td></tr>
+<tr class="odd areaheader "><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment areaheader  commentindent">OR</span></div></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20150" title="THTR 150" class="bubblelink code" onclick="return showCourse(this, 'THTR 150');">THTR 150</a></div></td><td>Fundamental of Theatre Technology</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20155" title="THTR 155" class="bubblelink code" onclick="return showCourse(this, 'THTR 155');">THTR 155</a></div></td><td>Fundamentals of Theatre Design</td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Authorship Selectives: </span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">General and Performance Tracks—Select two courses from the following list.</span></div></td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Authorship Track—Select four courses from the following list. </span></div></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20240" title="THTR 240" class="bubblelink code" onclick="return showCourse(this, 'THTR 240');">THTR 240</a></div></td><td>Improvisation for the Actor</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20331" title="THTR 331" class="bubblelink code" onclick="return showCourse(this, 'THTR 331');">THTR 331</a></div></td><td>Page to Stage: Adaptation of Text for Theatrical Performance</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20332" title="THTR 332" class="bubblelink code" onclick="return showCourse(this, 'THTR 332');">THTR 332</a></div></td><td>Performance Ethnography</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20333" title="THTR 333" class="bubblelink code" onclick="return showCourse(this, 'THTR 333');">THTR 333</a></div></td><td>Stage Direction</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20431" title="THTR 431" class="bubblelink code" onclick="return showCourse(this, 'THTR 431');">THTR 431</a></div></td><td>Playwriting</td><td class="hourscol"></td></tr>
+<tr class="even lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20435" title="THTR 435" class="bubblelink code" onclick="return showCourse(this, 'THTR 435');">THTR 435</a></div></td><td>Contemporary Performance Techniques</td><td class="hourscol"></td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">35-44</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>This course is approved for the Understanding the Past General Education category or the Understanding the Creative Arts General Education category.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>This course is approved for the Understanding the Creative Arts General Education category.</em></p></td></tr></table>
+<h3>Electives</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Electives</span></td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td colspan="2"><span class="courselistcomment">Electives to reach total hours</span> <sup>a</sup></td><td class="hourscol">51-61</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">51-61</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Hours of electives are based on the track selected by the students within the BA in Theatre and Performance, and whether they are required to complete <span class="sc_courseinline"><a href="/search/?P=DLG%20120" title="DLG 120" class="bubblelink code" onclick="return showCourse(this, 'DLG 120');">DLG 120</a></span> for 1 hour (required of new freshmen only).</em></p></td></tr></table>
+<h3>UIC First-Year Dialogue Seminar</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Course</span></td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td class="codecol"><a href="/search/?P=DLG%20120" title="DLG 120" class="bubblelink code" onclick="return showCourse(this, 'DLG 120');">DLG 120</a></td><td>UIC First-Year Dialogue Seminar (Required of new freshmen only)</td><td class="hourscol">1</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">1</td></tr></tbody>
+</table>
+
+<h2>Sample Course Schedule—General Track</h2>
+<p>Semesters in which required courses are offered may vary from those listed below.</p>
+<table pdfnorepeatheader="true" class="sc_plangrid">
+<caption>Plan of Study Grid</caption><colgroup>
+	<col class="codecol"/>
+	<col class="titlecol"/>
+	<col class="hourscol"/>
+</colgroup>
+<tr class="plangridyear"><th id="plangrid6_0" class="year" colspan="3">First Year</th></tr>
+<tr class="plangridterm"><th id="plangrid6_0_0" colspan="2">Fall Semester</th><th id="hoursheader" scope="col" class="hourscol">Hours</th></tr>
+<tr class="even"><td headers=" plangrid6_0_0" class="codecol"><a href="/search/?P=THTR%20101" title="THTR 101" class="bubblelink code" onclick="return showCourse(this, 'THTR 101');">THTR 101</a></td>
+<td headers=" plangrid6_0_0" class="titlecol">Theatre History I: Premodern Drama</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_0_0" class="codecol"><a href="/search/?P=THTR%20141" title="THTR 141" class="bubblelink code" onclick="return showCourse(this, 'THTR 141');">THTR 141</a></td>
+<td headers=" plangrid6_0_0" class="titlecol">Acting I: Fundamentals</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid6_0_0" class="codecol"><a href="/search/?P=THTR%20182" title="THTR 182" class="bubblelink code" onclick="return showCourse(this, 'THTR 182');">THTR 182</a></td>
+<td headers=" plangrid6_0_0" class="titlecol">Practicum in Theater: Run Crew</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_0_0" class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td>
+<td headers=" plangrid6_0_0" class="titlecol">Academic Writing I: Writing in Academic and Public Contexts</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid6_0_0" class="codecol"><a href="/search/?P=ISA%20100" title="ISA 100" class="bubblelink code" onclick="return showCourse(this, 'ISA 100');">ISA 100</a></td>
+<td headers=" plangrid6_0_0" class="titlecol">Freshman Seminar: Introduction to Interdisciplinary Practice in the Arts (<span class="comment">recommended elective</span>)</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_0_0" colspan="2" class="codecol"><span class="comment">General Education Core course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid6_0_0" class="titlecol">Hours</td><td headers=" plangrid6_0_0 hoursheader" class="hourscol">14</td></tr>
+<tr class="plangridterm"><th id="plangrid6_0_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid6_0_1" class="codecol"><a href="/search/?P=THTR%20150" title="THTR 150" class="bubblelink code" onclick="return showCourse(this, 'THTR 150');">THTR 150</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=THTR%20151" title="THTR 151" class="bubblelink code" onclick="return showCourse(this, 'THTR 151');">THTR 151</a></div></td>
+<td headers=" plangrid6_0_1" class="titlecol">Fundamental of Theatre Technology<br/><div style="margin-left:20px;" class="blockindent">or Costume Technology I: Introduction to Costume Technology</div></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid6_0_1" colspan="2" class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="comment commentindent">or Elective</span></div></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_0_1" class="codecol"><a href="/search/?P=THTR%20217" title="THTR 217" class="bubblelink code" onclick="return showCourse(this, 'THTR 217');">THTR 217</a></td>
+<td headers=" plangrid6_0_1" class="titlecol">Movement &amp; Voice I</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid6_0_1" class="codecol"><a href="/search/?P=DLG%20120" title="DLG 120" class="bubblelink code" onclick="return showCourse(this, 'DLG 120');">DLG 120</a></td>
+<td headers=" plangrid6_0_1" class="titlecol">UIC First-Year Dialogue Seminar</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_0_1" class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td>
+<td headers=" plangrid6_0_1" class="titlecol">Academic Writing II: Writing for Inquiry and Research</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid6_0_1" colspan="2" class="codecol"><span class="comment">General Education Core course (<a href="/search/?P=THTR%20105" title="THTR 105" class="bubblelink code" onclick="return showCourse(this, 'THTR 105');">THTR 105</a> is recommended)</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_0_1" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid6_0_1" class="titlecol">Hours</td><td headers=" plangrid6_0_1 hoursheader" class="hourscol">16</td></tr>
+<tr class="plangridyear"><th id="plangrid6_1" class="year" colspan="3">Second Year</th></tr>
+<tr class="plangridterm"><th id="plangrid6_1_0" colspan="3">Fall Semester</th></tr>
+<tr class="odd"><td headers=" plangrid6_1_0" class="codecol"><a href="/search/?P=THTR%20150" title="THTR 150" class="bubblelink code" onclick="return showCourse(this, 'THTR 150');">THTR 150</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=THTR%20151" title="THTR 151" class="bubblelink code" onclick="return showCourse(this, 'THTR 151');">THTR 151</a></div></td>
+<td headers=" plangrid6_1_0" class="titlecol">Fundamental of Theatre Technology<br/><div style="margin-left:20px;" class="blockindent">or Costume Technology I: Introduction to Costume Technology</div></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid6_1_0" colspan="2" class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="comment commentindent">or Elective</span></div></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_1_0" class="codecol"><a href="/search/?P=THTR%20183" title="THTR 183" class="bubblelink code" onclick="return showCourse(this, 'THTR 183');">THTR 183</a></td>
+<td headers=" plangrid6_1_0" class="titlecol">Practicum in Theater: Build Crew</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="even"><td headers=" plangrid6_1_0" colspan="2" class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="comment commentindent">or Elective</span></div></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_1_0" class="codecol"><a href="/search/?P=THTR%20201" title="THTR 201" class="bubblelink code" onclick="return showCourse(this, 'THTR 201');">THTR 201</a></td>
+<td headers=" plangrid6_1_0" class="titlecol">Theatre History II: Modern Theatre</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid6_1_0" class="codecol"><a href="/search/?P=THTR%20230" title="THTR 230" class="bubblelink code" onclick="return showCourse(this, 'THTR 230');">THTR 230</a></td>
+<td headers=" plangrid6_1_0" class="titlecol">Script Analysis for Theatrical Production</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_1_0" colspan="2" class="codecol"><span class="comment">Elective, or one of the following Performance/Authorship Selectives:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid6_1_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20331" title="THTR 331" class="bubblelink code" onclick="return showCourse(this, 'THTR 331');">THTR 331</a></div></td>
+<td headers=" plangrid6_1_0" class="titlecol">Page to Stage: Adaptation of Text for Theatrical Performance</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_1_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20240" title="THTR 240" class="bubblelink code" onclick="return showCourse(this, 'THTR 240');">THTR 240</a></div></td>
+<td headers=" plangrid6_1_0" class="titlecol">Improvisation for the Actor</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid6_1_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20332" title="THTR 332" class="bubblelink code" onclick="return showCourse(this, 'THTR 332');">THTR 332</a></div></td>
+<td headers=" plangrid6_1_0" class="titlecol">Performance Ethnography</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_1_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20333" title="THTR 333" class="bubblelink code" onclick="return showCourse(this, 'THTR 333');">THTR 333</a></div></td>
+<td headers=" plangrid6_1_0" class="titlecol">Stage Direction <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid6_1_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20431" title="THTR 431" class="bubblelink code" onclick="return showCourse(this, 'THTR 431');">THTR 431</a></div></td>
+<td headers=" plangrid6_1_0" class="titlecol">Playwriting <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_1_0" colspan="2" class="codecol"><span class="comment">General Education Core course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid6_1_0" class="titlecol">Hours</td><td headers=" plangrid6_1_0 hoursheader" class="hourscol">16</td></tr>
+<tr class="plangridterm"><th id="plangrid6_1_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid6_1_1" class="codecol"><a href="/search/?P=IDEA%20120" title="IDEA 120" class="bubblelink code" onclick="return showCourse(this, 'IDEA 120');">IDEA 120</a></td>
+<td headers=" plangrid6_1_1" class="titlecol">Digital Practices in Design and Arts</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid6_1_1" class="codecol"><a href="/search/?P=THTR%20183" title="THTR 183" class="bubblelink code" onclick="return showCourse(this, 'THTR 183');">THTR 183</a></td>
+<td headers=" plangrid6_1_1" class="titlecol">Practicum in Theater: Build Crew</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_1_1" colspan="2" class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="comment commentindent">or Elective</span></div></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid6_1_1" class="codecol"><a href="/search/?P=THTR%20241" title="THTR 241" class="bubblelink code" onclick="return showCourse(this, 'THTR 241');">THTR 241</a></td>
+<td headers=" plangrid6_1_1" class="titlecol">Acting II: Scene Study</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_1_1" colspan="2" class="codecol"><span class="comment">Elective, or one of the following Design Selectives:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid6_1_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20155" title="THTR 155" class="bubblelink code" onclick="return showCourse(this, 'THTR 155');">THTR 155</a></div></td>
+<td headers=" plangrid6_1_1" class="titlecol">Fundamentals of Theatre Design <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_1_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20250" title="THTR 250" class="bubblelink code" onclick="return showCourse(this, 'THTR 250');">THTR 250</a></div></td>
+<td headers=" plangrid6_1_1" class="titlecol">Scenic Design I <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid6_1_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20256" title="THTR 256" class="bubblelink code" onclick="return showCourse(this, 'THTR 256');">THTR 256</a></div></td>
+<td headers=" plangrid6_1_1" class="titlecol">Lighting Design II: Intermediate Topics in Lighting Design for the Stage</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_1_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20259" title="THTR 259" class="bubblelink code" onclick="return showCourse(this, 'THTR 259');">THTR 259</a></div></td>
+<td headers=" plangrid6_1_1" class="titlecol">Makeup Design</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid6_1_1" colspan="2" class="codecol"><span class="comment">General Education Core course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_1_1" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">1-2</td>
+</tr>
+<tr class="even"><td headers=" plangrid6_1_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20219" title="THTR 219" class="bubblelink code" onclick="return showCourse(this, 'THTR 219');">THTR 219</a></div></td>
+<td headers=" plangrid6_1_1" class="titlecol">Dance at Hubbard Street (<span class="comment commentindent">recommended</span>)</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid6_1_1" class="titlecol">Hours</td><td headers=" plangrid6_1_1 hoursheader" class="hourscol">15-16</td></tr>
+<tr class="plangridyear"><th id="plangrid6_2" class="year" colspan="3">Third Year</th></tr>
+<tr class="plangridterm"><th id="plangrid6_2_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid6_2_0" colspan="2" class="codecol"><span class="comment">Elective, or one of the following Design Selectives:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20155" title="THTR 155" class="bubblelink code" onclick="return showCourse(this, 'THTR 155');">THTR 155</a></div></td>
+<td headers=" plangrid6_2_0" class="titlecol">Fundamentals of Theatre Design <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid6_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20250" title="THTR 250" class="bubblelink code" onclick="return showCourse(this, 'THTR 250');">THTR 250</a></div></td>
+<td headers=" plangrid6_2_0" class="titlecol">Scenic Design I <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20256" title="THTR 256" class="bubblelink code" onclick="return showCourse(this, 'THTR 256');">THTR 256</a></div></td>
+<td headers=" plangrid6_2_0" class="titlecol">Lighting Design II: Intermediate Topics in Lighting Design for the Stage</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid6_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20259" title="THTR 259" class="bubblelink code" onclick="return showCourse(this, 'THTR 259');">THTR 259</a></div></td>
+<td headers=" plangrid6_2_0" class="titlecol">Makeup Design</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_2_0" colspan="2" class="codecol"><span class="comment">General Education Core course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid6_2_0" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">9</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid6_2_0" class="titlecol">Hours</td><td headers=" plangrid6_2_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid6_2_1" colspan="3">Spring Semester</th></tr>
+<tr class="even"><td headers=" plangrid6_2_1" colspan="2" class="codecol"><span class="comment">Elective, or one of the following Performance/Authorship Selectives:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20331" title="THTR 331" class="bubblelink code" onclick="return showCourse(this, 'THTR 331');">THTR 331</a></div></td>
+<td headers=" plangrid6_2_1" class="titlecol">Page to Stage: Adaptation of Text for Theatrical Performance</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid6_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20240" title="THTR 240" class="bubblelink code" onclick="return showCourse(this, 'THTR 240');">THTR 240</a></div></td>
+<td headers=" plangrid6_2_1" class="titlecol">Improvisation for the Actor</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20332" title="THTR 332" class="bubblelink code" onclick="return showCourse(this, 'THTR 332');">THTR 332</a></div></td>
+<td headers=" plangrid6_2_1" class="titlecol">Performance Ethnography</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid6_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20333" title="THTR 333" class="bubblelink code" onclick="return showCourse(this, 'THTR 333');">THTR 333</a></div></td>
+<td headers=" plangrid6_2_1" class="titlecol">Stage Direction <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20431" title="THTR 431" class="bubblelink code" onclick="return showCourse(this, 'THTR 431');">THTR 431</a></div></td>
+<td headers=" plangrid6_2_1" class="titlecol">Playwriting <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid6_2_1" colspan="2" class="codecol"><span class="comment">Elective—recommended courses include:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20280" title="THTR 280" class="bubblelink code" onclick="return showCourse(this, 'THTR 280');">THTR 280</a></div></td>
+<td headers=" plangrid6_2_1" class="titlecol">Practicum in Performance</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid6_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20281" title="THTR 281" class="bubblelink code" onclick="return showCourse(this, 'THTR 281');">THTR 281</a></div></td>
+<td headers=" plangrid6_2_1" class="titlecol">Practicum in Theatre Administration</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20282" title="THTR 282" class="bubblelink code" onclick="return showCourse(this, 'THTR 282');">THTR 282</a></div></td>
+<td headers=" plangrid6_2_1" class="titlecol">Practicum in Costuming</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid6_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20283" title="THTR 283" class="bubblelink code" onclick="return showCourse(this, 'THTR 283');">THTR 283</a></div></td>
+<td headers=" plangrid6_2_1" class="titlecol">Practicum in Technical Theatre</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_2_1" colspan="2" class="codecol"><span class="comment">General Education Core course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid6_2_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">6</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid6_2_1" class="titlecol">Hours</td><td headers=" plangrid6_2_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridyear"><th id="plangrid6_3" class="year" colspan="3">Fourth Year</th></tr>
+<tr class="plangridterm"><th id="plangrid6_3_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid6_3_0" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_3_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20491" title="THTR 491" class="bubblelink code" onclick="return showCourse(this, 'THTR 491');">THTR 491</a></div></td>
+<td headers=" plangrid6_3_0" class="titlecol">Study Abroad in Theatre (<span class="comment commentindent">recommended</span>)</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid6_3_0" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">12</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid6_3_0" class="titlecol">Hours</td><td headers=" plangrid6_3_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid6_3_1" colspan="3">Spring Semester</th></tr>
+<tr class="even"><td headers=" plangrid6_3_1" colspan="2" class="codecol"><span class="comment">Elective, or one of the following Performance/Authorship Selectives:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20331" title="THTR 331" class="bubblelink code" onclick="return showCourse(this, 'THTR 331');">THTR 331</a></div></td>
+<td headers=" plangrid6_3_1" class="titlecol">Page to Stage: Adaptation of Text for Theatrical Performance</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid6_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20240" title="THTR 240" class="bubblelink code" onclick="return showCourse(this, 'THTR 240');">THTR 240</a></div></td>
+<td headers=" plangrid6_3_1" class="titlecol">Improvisation for the Actor</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20332" title="THTR 332" class="bubblelink code" onclick="return showCourse(this, 'THTR 332');">THTR 332</a></div></td>
+<td headers=" plangrid6_3_1" class="titlecol">Performance Ethnography</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid6_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20333" title="THTR 333" class="bubblelink code" onclick="return showCourse(this, 'THTR 333');">THTR 333</a></div></td>
+<td headers=" plangrid6_3_1" class="titlecol">Stage Direction <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20431" title="THTR 431" class="bubblelink code" onclick="return showCourse(this, 'THTR 431');">THTR 431</a></div></td>
+<td headers=" plangrid6_3_1" class="titlecol">Playwriting <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid6_3_1" colspan="2" class="codecol"><span class="comment">Elective—recommended courses include:</span></td>
+<td headers="hoursheader" class="hourscol">1-3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20494" title="THTR 494" class="bubblelink code" onclick="return showCourse(this, 'THTR 494');">THTR 494</a></div></td>
+<td headers=" plangrid6_3_1" class="titlecol">Internship</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid6_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20498" title="THTR 498" class="bubblelink code" onclick="return showCourse(this, 'THTR 498');">THTR 498</a></div></td>
+<td headers=" plangrid6_3_1" class="titlecol">Independent Study</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid6_3_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">9</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid6_3_1" class="titlecol">Hours</td><td headers=" plangrid6_3_1 hoursheader" class="hourscol">13-15</td></tr>
+<tr class="plangridtotal lastrow odd"><td> </td><td>Total Hours</td><td headers="hoursheader" class="hourscol">120</td></tr>
+</table>
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>This course is only offered in the spring semester.</em></p></td></tr></table>
+<h2>Sample Course Schedule—Performance Track</h2>
+<p>Semesters in which required courses are offered may vary from those listed below.</p>
+<table pdfnorepeatheader="true" class="sc_plangrid">
+<caption>Plan of Study Grid</caption><colgroup>
+	<col class="codecol"/>
+	<col class="titlecol"/>
+	<col class="hourscol"/>
+</colgroup>
+<tr class="plangridyear"><th id="plangrid7_0" class="year" colspan="3">First Year</th></tr>
+<tr class="plangridterm"><th id="plangrid7_0_0" colspan="2">Fall Semester</th><th id="hoursheader" scope="col" class="hourscol">Hours</th></tr>
+<tr class="even"><td headers=" plangrid7_0_0" class="codecol"><a href="/search/?P=THTR%20101" title="THTR 101" class="bubblelink code" onclick="return showCourse(this, 'THTR 101');">THTR 101</a></td>
+<td headers=" plangrid7_0_0" class="titlecol">Theatre History I: Premodern Drama</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_0_0" class="codecol"><a href="/search/?P=THTR%20141" title="THTR 141" class="bubblelink code" onclick="return showCourse(this, 'THTR 141');">THTR 141</a></td>
+<td headers=" plangrid7_0_0" class="titlecol">Acting I: Fundamentals</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid7_0_0" class="codecol"><a href="/search/?P=THTR%20182" title="THTR 182" class="bubblelink code" onclick="return showCourse(this, 'THTR 182');">THTR 182</a></td>
+<td headers=" plangrid7_0_0" class="titlecol">Practicum in Theater: Run Crew</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_0_0" class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td>
+<td headers=" plangrid7_0_0" class="titlecol">Academic Writing I: Writing in Academic and Public Contexts</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid7_0_0" class="codecol"><a href="/search/?P=ISA%20100" title="ISA 100" class="bubblelink code" onclick="return showCourse(this, 'ISA 100');">ISA 100</a></td>
+<td headers=" plangrid7_0_0" class="titlecol">Freshman Seminar: Introduction to Interdisciplinary Practice in the Arts (<span class="comment">recommended elective</span>)</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_0_0" colspan="2" class="codecol"><span class="comment">General Education Core course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid7_0_0" class="titlecol">Hours</td><td headers=" plangrid7_0_0 hoursheader" class="hourscol">14</td></tr>
+<tr class="plangridterm"><th id="plangrid7_0_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid7_0_1" class="codecol"><a href="/search/?P=THTR%20150" title="THTR 150" class="bubblelink code" onclick="return showCourse(this, 'THTR 150');">THTR 150</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=THTR%20151" title="THTR 151" class="bubblelink code" onclick="return showCourse(this, 'THTR 151');">THTR 151</a></div></td>
+<td headers=" plangrid7_0_1" class="titlecol">Fundamental of Theatre Technology<br/><div style="margin-left:20px;" class="blockindent">or Costume Technology I: Introduction to Costume Technology</div></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid7_0_1" colspan="2" class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="comment commentindent">or Elective</span></div></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_0_1" class="codecol"><a href="/search/?P=THTR%20217" title="THTR 217" class="bubblelink code" onclick="return showCourse(this, 'THTR 217');">THTR 217</a></td>
+<td headers=" plangrid7_0_1" class="titlecol">Movement &amp; Voice I</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid7_0_1" class="codecol"><a href="/search/?P=DLG%20120" title="DLG 120" class="bubblelink code" onclick="return showCourse(this, 'DLG 120');">DLG 120</a></td>
+<td headers=" plangrid7_0_1" class="titlecol">UIC First-Year Dialogue Seminar</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_0_1" class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td>
+<td headers=" plangrid7_0_1" class="titlecol">Academic Writing II: Writing for Inquiry and Research</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid7_0_1" colspan="2" class="codecol"><span class="comment">General Education Core course (<a href="/search/?P=THTR%20105" title="THTR 105" class="bubblelink code" onclick="return showCourse(this, 'THTR 105');">THTR 105</a> is recommended)</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_0_1" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid7_0_1" class="titlecol">Hours</td><td headers=" plangrid7_0_1 hoursheader" class="hourscol">16</td></tr>
+<tr class="plangridyear"><th id="plangrid7_1" class="year" colspan="3">Second Year</th></tr>
+<tr class="plangridterm"><th id="plangrid7_1_0" colspan="3">Fall Semester</th></tr>
+<tr class="odd"><td headers=" plangrid7_1_0" class="codecol"><a href="/search/?P=THTR%20150" title="THTR 150" class="bubblelink code" onclick="return showCourse(this, 'THTR 150');">THTR 150</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=THTR%20151" title="THTR 151" class="bubblelink code" onclick="return showCourse(this, 'THTR 151');">THTR 151</a></div></td>
+<td headers=" plangrid7_1_0" class="titlecol">Fundamental of Theatre Technology<br/><div style="margin-left:20px;" class="blockindent">or Costume Technology I: Introduction to Costume Technology</div></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid7_1_0" colspan="2" class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="comment commentindent">or Elective</span></div></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_1_0" class="codecol"><a href="/search/?P=THTR%20183" title="THTR 183" class="bubblelink code" onclick="return showCourse(this, 'THTR 183');">THTR 183</a></td>
+<td headers=" plangrid7_1_0" class="titlecol">Practicum in Theater: Build Crew</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="even"><td headers=" plangrid7_1_0" colspan="2" class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="comment commentindent">or Elective</span></div></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_1_0" class="codecol"><a href="/search/?P=THTR%20201" title="THTR 201" class="bubblelink code" onclick="return showCourse(this, 'THTR 201');">THTR 201</a></td>
+<td headers=" plangrid7_1_0" class="titlecol">Theatre History II: Modern Theatre</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid7_1_0" class="codecol"><a href="/search/?P=THTR%20230" title="THTR 230" class="bubblelink code" onclick="return showCourse(this, 'THTR 230');">THTR 230</a></td>
+<td headers=" plangrid7_1_0" class="titlecol">Script Analysis for Theatrical Production</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_1_0" colspan="2" class="codecol"><span class="comment">Elective, or one of the following Performance/Authorship Selectives:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid7_1_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20331" title="THTR 331" class="bubblelink code" onclick="return showCourse(this, 'THTR 331');">THTR 331</a></div></td>
+<td headers=" plangrid7_1_0" class="titlecol">Page to Stage: Adaptation of Text for Theatrical Performance</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_1_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20240" title="THTR 240" class="bubblelink code" onclick="return showCourse(this, 'THTR 240');">THTR 240</a></div></td>
+<td headers=" plangrid7_1_0" class="titlecol">Improvisation for the Actor</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid7_1_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20332" title="THTR 332" class="bubblelink code" onclick="return showCourse(this, 'THTR 332');">THTR 332</a></div></td>
+<td headers=" plangrid7_1_0" class="titlecol">Performance Ethnography</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_1_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20333" title="THTR 333" class="bubblelink code" onclick="return showCourse(this, 'THTR 333');">THTR 333</a></div></td>
+<td headers=" plangrid7_1_0" class="titlecol">Stage Direction <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid7_1_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20431" title="THTR 431" class="bubblelink code" onclick="return showCourse(this, 'THTR 431');">THTR 431</a></div></td>
+<td headers=" plangrid7_1_0" class="titlecol">Playwriting <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_1_0" colspan="2" class="codecol"><span class="comment">General Education Core course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid7_1_0" class="titlecol">Hours</td><td headers=" plangrid7_1_0 hoursheader" class="hourscol">16</td></tr>
+<tr class="plangridterm"><th id="plangrid7_1_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid7_1_1" class="codecol"><a href="/search/?P=IDEA%20120" title="IDEA 120" class="bubblelink code" onclick="return showCourse(this, 'IDEA 120');">IDEA 120</a></td>
+<td headers=" plangrid7_1_1" class="titlecol">Digital Practices in Design and Arts</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid7_1_1" class="codecol"><a href="/search/?P=THTR%20183" title="THTR 183" class="bubblelink code" onclick="return showCourse(this, 'THTR 183');">THTR 183</a></td>
+<td headers=" plangrid7_1_1" class="titlecol">Practicum in Theater: Build Crew</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_1_1" colspan="2" class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="comment commentindent">or Elective</span></div></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid7_1_1" class="codecol"><a href="/search/?P=THTR%20241" title="THTR 241" class="bubblelink code" onclick="return showCourse(this, 'THTR 241');">THTR 241</a></td>
+<td headers=" plangrid7_1_1" class="titlecol">Acting II: Scene Study</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_1_1" class="codecol"><a href="/search/?P=THTR%20317" title="THTR 317" class="bubblelink code" onclick="return showCourse(this, 'THTR 317');">THTR 317</a></td>
+<td headers=" plangrid7_1_1" class="titlecol">Movement &amp; Voice II</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid7_1_1" colspan="2" class="codecol"><span class="comment">Elective, or one of the following Design Selectives:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_1_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20155" title="THTR 155" class="bubblelink code" onclick="return showCourse(this, 'THTR 155');">THTR 155</a></div></td>
+<td headers=" plangrid7_1_1" class="titlecol">Fundamentals of Theatre Design <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid7_1_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20250" title="THTR 250" class="bubblelink code" onclick="return showCourse(this, 'THTR 250');">THTR 250</a></div></td>
+<td headers=" plangrid7_1_1" class="titlecol">Scenic Design I <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_1_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20256" title="THTR 256" class="bubblelink code" onclick="return showCourse(this, 'THTR 256');">THTR 256</a></div></td>
+<td headers=" plangrid7_1_1" class="titlecol">Lighting Design II: Intermediate Topics in Lighting Design for the Stage</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid7_1_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20259" title="THTR 259" class="bubblelink code" onclick="return showCourse(this, 'THTR 259');">THTR 259</a></div></td>
+<td headers=" plangrid7_1_1" class="titlecol">Makeup Design</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_1_1" colspan="2" class="codecol"><span class="comment">General Education Core course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid7_1_1" class="titlecol">Hours</td><td headers=" plangrid7_1_1 hoursheader" class="hourscol">17</td></tr>
+<tr class="plangridyear"><th id="plangrid7_2" class="year" colspan="3">Third Year</th></tr>
+<tr class="plangridterm"><th id="plangrid7_2_0" colspan="3">Fall Semester</th></tr>
+<tr class="odd"><td headers=" plangrid7_2_0" class="codecol"><a href="/search/?P=THTR%20341" title="THTR 341" class="bubblelink code" onclick="return showCourse(this, 'THTR 341');">THTR 341</a></td>
+<td headers=" plangrid7_2_0" class="titlecol">Acting III: Classics</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid7_2_0" colspan="2" class="codecol"><span class="comment">Elective, or one of the following Design Selectives:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20155" title="THTR 155" class="bubblelink code" onclick="return showCourse(this, 'THTR 155');">THTR 155</a></div></td>
+<td headers=" plangrid7_2_0" class="titlecol">Fundamentals of Theatre Design <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid7_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20250" title="THTR 250" class="bubblelink code" onclick="return showCourse(this, 'THTR 250');">THTR 250</a></div></td>
+<td headers=" plangrid7_2_0" class="titlecol">Scenic Design I <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20256" title="THTR 256" class="bubblelink code" onclick="return showCourse(this, 'THTR 256');">THTR 256</a></div></td>
+<td headers=" plangrid7_2_0" class="titlecol">Lighting Design II: Intermediate Topics in Lighting Design for the Stage</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid7_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20259" title="THTR 259" class="bubblelink code" onclick="return showCourse(this, 'THTR 259');">THTR 259</a></div></td>
+<td headers=" plangrid7_2_0" class="titlecol">Makeup Design</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_2_0" colspan="2" class="codecol"><span class="comment">General Education Core course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid7_2_0" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">6</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid7_2_0" class="titlecol">Hours</td><td headers=" plangrid7_2_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid7_2_1" colspan="3">Spring Semester</th></tr>
+<tr class="even"><td headers=" plangrid7_2_1" colspan="2" class="codecol"><span class="comment">Elective, or one of the following Performance/Authorship Selectives:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20331" title="THTR 331" class="bubblelink code" onclick="return showCourse(this, 'THTR 331');">THTR 331</a></div></td>
+<td headers=" plangrid7_2_1" class="titlecol">Page to Stage: Adaptation of Text for Theatrical Performance</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid7_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20240" title="THTR 240" class="bubblelink code" onclick="return showCourse(this, 'THTR 240');">THTR 240</a></div></td>
+<td headers=" plangrid7_2_1" class="titlecol">Improvisation for the Actor</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20332" title="THTR 332" class="bubblelink code" onclick="return showCourse(this, 'THTR 332');">THTR 332</a></div></td>
+<td headers=" plangrid7_2_1" class="titlecol">Performance Ethnography</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid7_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20333" title="THTR 333" class="bubblelink code" onclick="return showCourse(this, 'THTR 333');">THTR 333</a></div></td>
+<td headers=" plangrid7_2_1" class="titlecol">Stage Direction <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20431" title="THTR 431" class="bubblelink code" onclick="return showCourse(this, 'THTR 431');">THTR 431</a></div></td>
+<td headers=" plangrid7_2_1" class="titlecol">Playwriting <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid7_2_1" colspan="2" class="codecol"><span class="comment">Elective—recommended courses include:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20280" title="THTR 280" class="bubblelink code" onclick="return showCourse(this, 'THTR 280');">THTR 280</a></div></td>
+<td headers=" plangrid7_2_1" class="titlecol">Practicum in Performance</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid7_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20281" title="THTR 281" class="bubblelink code" onclick="return showCourse(this, 'THTR 281');">THTR 281</a></div></td>
+<td headers=" plangrid7_2_1" class="titlecol">Practicum in Theatre Administration</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20282" title="THTR 282" class="bubblelink code" onclick="return showCourse(this, 'THTR 282');">THTR 282</a></div></td>
+<td headers=" plangrid7_2_1" class="titlecol">Practicum in Costuming</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid7_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20283" title="THTR 283" class="bubblelink code" onclick="return showCourse(this, 'THTR 283');">THTR 283</a></div></td>
+<td headers=" plangrid7_2_1" class="titlecol">Practicum in Technical Theatre</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_2_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">9</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid7_2_1" class="titlecol">Hours</td><td headers=" plangrid7_2_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridyear"><th id="plangrid7_3" class="year" colspan="3">Fourth Year</th></tr>
+<tr class="plangridterm"><th id="plangrid7_3_0" colspan="3">Fall Semester</th></tr>
+<tr class="odd"><td headers=" plangrid7_3_0" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid7_3_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20384" title="THTR 384" class="bubblelink code" onclick="return showCourse(this, 'THTR 384');">THTR 384</a></div></td>
+<td headers=" plangrid7_3_0" class="titlecol">Teaching Artist Seminar (<span class="comment commentindent">recommended</span>)</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_3_0" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid7_3_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20435" title="THTR 435" class="bubblelink code" onclick="return showCourse(this, 'THTR 435');">THTR 435</a></div></td>
+<td headers=" plangrid7_3_0" class="titlecol">Contemporary Performance Techniques (<span class="comment commentindent">recommended</span>)</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_3_0" colspan="2" class="codecol"><span class="comment">Elective—recommended courses include:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid7_3_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20494" title="THTR 494" class="bubblelink code" onclick="return showCourse(this, 'THTR 494');">THTR 494</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=THTR%20498" title="THTR 498" class="bubblelink code" onclick="return showCourse(this, 'THTR 498');">THTR 498</a></div></div></td>
+<td headers=" plangrid7_3_0" class="titlecol">Internship<br/><div style="margin-left:20px;" class="blockindent">or Independent Study</div></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_3_0" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">6</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid7_3_0" class="titlecol">Hours</td><td headers=" plangrid7_3_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid7_3_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid7_3_1" class="codecol"><a href="/search/?P=THTR%20449" title="THTR 449" class="bubblelink code" onclick="return showCourse(this, 'THTR 449');">THTR 449</a></td>
+<td headers=" plangrid7_3_1" class="titlecol">Capstone: Senior Project</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid7_3_1" colspan="2" class="codecol"><span class="comment">Elective, or one of the following Performance/Authorship Selectives:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20331" title="THTR 331" class="bubblelink code" onclick="return showCourse(this, 'THTR 331');">THTR 331</a></div></td>
+<td headers=" plangrid7_3_1" class="titlecol">Page to Stage: Adaptation of Text for Theatrical Performance</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid7_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20240" title="THTR 240" class="bubblelink code" onclick="return showCourse(this, 'THTR 240');">THTR 240</a></div></td>
+<td headers=" plangrid7_3_1" class="titlecol">Improvisation for the Actor</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20332" title="THTR 332" class="bubblelink code" onclick="return showCourse(this, 'THTR 332');">THTR 332</a></div></td>
+<td headers=" plangrid7_3_1" class="titlecol">Performance Ethnography</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid7_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20333" title="THTR 333" class="bubblelink code" onclick="return showCourse(this, 'THTR 333');">THTR 333</a></div></td>
+<td headers=" plangrid7_3_1" class="titlecol">Stage Direction <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20431" title="THTR 431" class="bubblelink code" onclick="return showCourse(this, 'THTR 431');">THTR 431</a></div></td>
+<td headers=" plangrid7_3_1" class="titlecol">Playwriting <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid7_3_1" colspan="2" class="codecol"><span class="comment">Elective—recommended courses include:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid7_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20494" title="THTR 494" class="bubblelink code" onclick="return showCourse(this, 'THTR 494');">THTR 494</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=THTR%20498" title="THTR 498" class="bubblelink code" onclick="return showCourse(this, 'THTR 498');">THTR 498</a></div></div></td>
+<td headers=" plangrid7_3_1" class="titlecol">Internship<br/><div style="margin-left:20px;" class="blockindent">or Independent Study</div></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid7_3_1" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid7_3_1" class="titlecol">Hours</td><td headers=" plangrid7_3_1 hoursheader" class="hourscol">12</td></tr>
+<tr class="plangridtotal lastrow even"><td> </td><td>Total Hours</td><td headers="hoursheader" class="hourscol">120</td></tr>
+</table>
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>This course is only offered in the spring semester.</em></p></td></tr></table>
+<h2>Sample Course Schedule—Authorship Track</h2>
+<p>Semesters in which required courses are offered may vary from those listed below.</p>
+<table pdfnorepeatheader="true" class="sc_plangrid">
+<caption>Plan of Study Grid</caption><colgroup>
+	<col class="codecol"/>
+	<col class="titlecol"/>
+	<col class="hourscol"/>
+</colgroup>
+<tr class="plangridyear"><th id="plangrid8_0" class="year" colspan="3">First Year</th></tr>
+<tr class="plangridterm"><th id="plangrid8_0_0" colspan="2">Fall Semester</th><th id="hoursheader" scope="col" class="hourscol">Hours</th></tr>
+<tr class="even"><td headers=" plangrid8_0_0" class="codecol"><a href="/search/?P=THTR%20101" title="THTR 101" class="bubblelink code" onclick="return showCourse(this, 'THTR 101');">THTR 101</a></td>
+<td headers=" plangrid8_0_0" class="titlecol">Theatre History I: Premodern Drama</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_0_0" class="codecol"><a href="/search/?P=THTR%20141" title="THTR 141" class="bubblelink code" onclick="return showCourse(this, 'THTR 141');">THTR 141</a></td>
+<td headers=" plangrid8_0_0" class="titlecol">Acting I: Fundamentals</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid8_0_0" class="codecol"><a href="/search/?P=THTR%20182" title="THTR 182" class="bubblelink code" onclick="return showCourse(this, 'THTR 182');">THTR 182</a></td>
+<td headers=" plangrid8_0_0" class="titlecol">Practicum in Theater: Run Crew</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_0_0" class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td>
+<td headers=" plangrid8_0_0" class="titlecol">Academic Writing I: Writing in Academic and Public Contexts</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid8_0_0" class="codecol"><a href="/search/?P=ISA%20100" title="ISA 100" class="bubblelink code" onclick="return showCourse(this, 'ISA 100');">ISA 100</a></td>
+<td headers=" plangrid8_0_0" class="titlecol">Freshman Seminar: Introduction to Interdisciplinary Practice in the Arts (<span class="comment">recommended elective</span>)</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_0_0" colspan="2" class="codecol"><span class="comment">General Education Core course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid8_0_0" class="titlecol">Hours</td><td headers=" plangrid8_0_0 hoursheader" class="hourscol">14</td></tr>
+<tr class="plangridterm"><th id="plangrid8_0_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid8_0_1" class="codecol"><a href="/search/?P=THTR%20150" title="THTR 150" class="bubblelink code" onclick="return showCourse(this, 'THTR 150');">THTR 150</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=THTR%20151" title="THTR 151" class="bubblelink code" onclick="return showCourse(this, 'THTR 151');">THTR 151</a></div></td>
+<td headers=" plangrid8_0_1" class="titlecol">Fundamental of Theatre Technology<br/><div style="margin-left:20px;" class="blockindent">or Costume Technology I: Introduction to Costume Technology</div></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid8_0_1" colspan="2" class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="comment commentindent">or Elective</span></div></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_0_1" class="codecol"><a href="/search/?P=THTR%20155" title="THTR 155" class="bubblelink code" onclick="return showCourse(this, 'THTR 155');">THTR 155</a></td>
+<td headers=" plangrid8_0_1" class="titlecol">Fundamentals of Theatre Design</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid8_0_1" class="codecol"><a href="/search/?P=THTR%20217" title="THTR 217" class="bubblelink code" onclick="return showCourse(this, 'THTR 217');">THTR 217</a></td>
+<td headers=" plangrid8_0_1" class="titlecol">Movement &amp; Voice I</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_0_1" class="codecol"><a href="/search/?P=DLG%20120" title="DLG 120" class="bubblelink code" onclick="return showCourse(this, 'DLG 120');">DLG 120</a></td>
+<td headers=" plangrid8_0_1" class="titlecol">UIC First-Year Dialogue Seminar</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="even"><td headers=" plangrid8_0_1" class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td>
+<td headers=" plangrid8_0_1" class="titlecol">Academic Writing II: Writing for Inquiry and Research</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_0_1" colspan="2" class="codecol"><span class="comment">General Education Core course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid8_0_1" class="titlecol">Hours</td><td headers=" plangrid8_0_1 hoursheader" class="hourscol">16</td></tr>
+<tr class="plangridyear"><th id="plangrid8_1" class="year" colspan="3">Second Year</th></tr>
+<tr class="plangridterm"><th id="plangrid8_1_0" colspan="3">Fall Semester</th></tr>
+<tr class="odd"><td headers=" plangrid8_1_0" class="codecol"><a href="/search/?P=THTR%20150" title="THTR 150" class="bubblelink code" onclick="return showCourse(this, 'THTR 150');">THTR 150</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=THTR%20151" title="THTR 151" class="bubblelink code" onclick="return showCourse(this, 'THTR 151');">THTR 151</a></div></td>
+<td headers=" plangrid8_1_0" class="titlecol">Fundamental of Theatre Technology<br/><div style="margin-left:20px;" class="blockindent">or Costume Technology I: Introduction to Costume Technology</div></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid8_1_0" colspan="2" class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="comment commentindent">or Elective</span></div></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_1_0" class="codecol"><a href="/search/?P=THTR%20183" title="THTR 183" class="bubblelink code" onclick="return showCourse(this, 'THTR 183');">THTR 183</a></td>
+<td headers=" plangrid8_1_0" class="titlecol">Practicum in Theater: Build Crew</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="even"><td headers=" plangrid8_1_0" colspan="2" class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="comment commentindent">or Elective</span></div></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_1_0" class="codecol"><a href="/search/?P=THTR%20201" title="THTR 201" class="bubblelink code" onclick="return showCourse(this, 'THTR 201');">THTR 201</a></td>
+<td headers=" plangrid8_1_0" class="titlecol">Theatre History II: Modern Theatre</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid8_1_0" class="codecol"><a href="/search/?P=THTR%20230" title="THTR 230" class="bubblelink code" onclick="return showCourse(this, 'THTR 230');">THTR 230</a></td>
+<td headers=" plangrid8_1_0" class="titlecol">Script Analysis for Theatrical Production</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_1_0" colspan="2" class="codecol"><span class="comment">General Education Core course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid8_1_0" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid8_1_0" class="titlecol">Hours</td><td headers=" plangrid8_1_0 hoursheader" class="hourscol">16</td></tr>
+<tr class="plangridterm"><th id="plangrid8_1_1" colspan="3">Spring Semester</th></tr>
+<tr class="even"><td headers=" plangrid8_1_1" class="codecol"><a href="/search/?P=IDEA%20120" title="IDEA 120" class="bubblelink code" onclick="return showCourse(this, 'IDEA 120');">IDEA 120</a></td>
+<td headers=" plangrid8_1_1" class="titlecol">Digital Practices in Design and Arts</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_1_1" class="codecol"><a href="/search/?P=THTR%20183" title="THTR 183" class="bubblelink code" onclick="return showCourse(this, 'THTR 183');">THTR 183</a></td>
+<td headers=" plangrid8_1_1" class="titlecol">Practicum in Theater: Build Crew</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="even"><td headers=" plangrid8_1_1" colspan="2" class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="comment commentindent">or Elective</span></div></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_1_1" colspan="2" class="codecol"><span class="comment">Elective, or one of the following Design Selectives:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid8_1_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20250" title="THTR 250" class="bubblelink code" onclick="return showCourse(this, 'THTR 250');">THTR 250</a></div></td>
+<td headers=" plangrid8_1_1" class="titlecol">Scenic Design I <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_1_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20256" title="THTR 256" class="bubblelink code" onclick="return showCourse(this, 'THTR 256');">THTR 256</a></div></td>
+<td headers=" plangrid8_1_1" class="titlecol">Lighting Design II: Intermediate Topics in Lighting Design for the Stage</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid8_1_1" colspan="2" class="codecol"><span class="comment">General Education Core course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_1_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20105" title="THTR 105" class="bubblelink code" onclick="return showCourse(this, 'THTR 105');">THTR 105</a></div></td>
+<td headers=" plangrid8_1_1" class="titlecol">Introduction to American Musical Theatre (<span class="comment commentindent">recommended</span>)</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid8_1_1" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">1-2</td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_1_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20219" title="THTR 219" class="bubblelink code" onclick="return showCourse(this, 'THTR 219');">THTR 219</a></div></td>
+<td headers=" plangrid8_1_1" class="titlecol">Dance at Hubbard Street (<span class="comment commentindent">recommended</span>)</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid8_1_1" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid8_1_1" class="titlecol">Hours</td><td headers=" plangrid8_1_1 hoursheader" class="hourscol">15-16</td></tr>
+<tr class="plangridyear"><th id="plangrid8_2" class="year" colspan="3">Third Year</th></tr>
+<tr class="plangridterm"><th id="plangrid8_2_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid8_2_0" colspan="2" class="codecol"><span class="comment">Elective, or one of the following Design Selectives:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20250" title="THTR 250" class="bubblelink code" onclick="return showCourse(this, 'THTR 250');">THTR 250</a></div></td>
+<td headers=" plangrid8_2_0" class="titlecol">Scenic Design I <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid8_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20256" title="THTR 256" class="bubblelink code" onclick="return showCourse(this, 'THTR 256');">THTR 256</a></div></td>
+<td headers=" plangrid8_2_0" class="titlecol">Lighting Design II: Intermediate Topics in Lighting Design for the Stage</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_2_0" colspan="2" class="codecol"><span class="comment">General Education Core course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid8_2_0" colspan="2" class="codecol"><span class="comment">General Education Core course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_2_0" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid8_2_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20254" title="THTR 254" class="bubblelink code" onclick="return showCourse(this, 'THTR 254');">THTR 254</a></div></td>
+<td headers=" plangrid8_2_0" class="titlecol">Stage Management (<span class="comment commentindent">recommended</span>)</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_2_0" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid8_2_0" class="titlecol">Hours</td><td headers=" plangrid8_2_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid8_2_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid8_2_1" colspan="2" class="codecol"><span class="comment">Selectives—select two of the following Performance/Authorship Selectives:</span></td>
+<td headers="hoursheader" class="hourscol">6</td>
+</tr>
+<tr class="even"><td headers=" plangrid8_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20331" title="THTR 331" class="bubblelink code" onclick="return showCourse(this, 'THTR 331');">THTR 331</a></div></td>
+<td headers=" plangrid8_2_1" class="titlecol">Page to Stage: Adaptation of Text for Theatrical Performance</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20333" title="THTR 333" class="bubblelink code" onclick="return showCourse(this, 'THTR 333');">THTR 333</a></div></td>
+<td headers=" plangrid8_2_1" class="titlecol">Stage Direction <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid8_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20431" title="THTR 431" class="bubblelink code" onclick="return showCourse(this, 'THTR 431');">THTR 431</a></div></td>
+<td headers=" plangrid8_2_1" class="titlecol">Playwriting <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20435" title="THTR 435" class="bubblelink code" onclick="return showCourse(this, 'THTR 435');">THTR 435</a></div></td>
+<td headers=" plangrid8_2_1" class="titlecol">Contemporary Performance Techniques</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid8_2_1" colspan="2" class="codecol"><span class="comment">Elective—recommend courses include:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20280" title="THTR 280" class="bubblelink code" onclick="return showCourse(this, 'THTR 280');">THTR 280</a></div></td>
+<td headers=" plangrid8_2_1" class="titlecol">Practicum in Performance</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid8_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20281" title="THTR 281" class="bubblelink code" onclick="return showCourse(this, 'THTR 281');">THTR 281</a></div></td>
+<td headers=" plangrid8_2_1" class="titlecol">Practicum in Theatre Administration</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20282" title="THTR 282" class="bubblelink code" onclick="return showCourse(this, 'THTR 282');">THTR 282</a></div></td>
+<td headers=" plangrid8_2_1" class="titlecol">Practicum in Costuming</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid8_2_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20283" title="THTR 283" class="bubblelink code" onclick="return showCourse(this, 'THTR 283');">THTR 283</a></div></td>
+<td headers=" plangrid8_2_1" class="titlecol">Practicum in Technical Theatre</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_2_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">6</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid8_2_1" class="titlecol">Hours</td><td headers=" plangrid8_2_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridyear"><th id="plangrid8_3" class="year" colspan="3">Fourth Year</th></tr>
+<tr class="plangridterm"><th id="plangrid8_3_0" colspan="3">Fall Semester</th></tr>
+<tr class="odd"><td headers=" plangrid8_3_0" colspan="2" class="codecol"><span class="comment">Elective </span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid8_3_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20384" title="THTR 384" class="bubblelink code" onclick="return showCourse(this, 'THTR 384');">THTR 384</a></div></td>
+<td headers=" plangrid8_3_0" class="titlecol">Teaching Artist Seminar (<span class="comment commentindent">recommended</span>)</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_3_0" colspan="2" class="codecol"><span class="comment">Elective, or Performance/Authorship Selective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid8_3_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20435" title="THTR 435" class="bubblelink code" onclick="return showCourse(this, 'THTR 435');">THTR 435</a></div></td>
+<td headers=" plangrid8_3_0" class="titlecol">Contemporary Performance Techniques (<span class="comment commentindent">or choose selectives in the spring semester</span>)</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_3_0" colspan="2" class="codecol"><span class="comment">Elective—recommended courses include:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid8_3_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20494" title="THTR 494" class="bubblelink code" onclick="return showCourse(this, 'THTR 494');">THTR 494</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=THTR%20498" title="THTR 498" class="bubblelink code" onclick="return showCourse(this, 'THTR 498');">THTR 498</a></div></div></td>
+<td headers=" plangrid8_3_0" class="titlecol">Internship<br/><div style="margin-left:20px;" class="blockindent">or Independent Study</div></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_3_0" colspan="2" class="codecol"><span class="comment">Elective—recommended courses include:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid8_3_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20383" title="THTR 383" class="bubblelink code" onclick="return showCourse(this, 'THTR 383');">THTR 383</a></div></td>
+<td headers=" plangrid8_3_0" class="titlecol">Special Projects in Theatrical Design</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_3_0" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid8_3_0" class="titlecol">Hours</td><td headers=" plangrid8_3_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid8_3_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid8_3_1" class="codecol"><a href="/search/?P=THTR%20449" title="THTR 449" class="bubblelink code" onclick="return showCourse(this, 'THTR 449');">THTR 449</a></td>
+<td headers=" plangrid8_3_1" class="titlecol">Capstone: Senior Project</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid8_3_1" colspan="2" class="codecol"><span class="comment">Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20385" title="THTR 385" class="bubblelink code" onclick="return showCourse(this, 'THTR 385');">THTR 385</a></div></td>
+<td headers=" plangrid8_3_1" class="titlecol">Teaching Artist Practicum (<span class="comment commentindent">recommended</span>)</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid8_3_1" colspan="2" class="codecol"><span class="comment">Elective, or one or two of the following Performance/Authorship Selectives:</span></td>
+<td headers="hoursheader" class="hourscol">3-6</td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20331" title="THTR 331" class="bubblelink code" onclick="return showCourse(this, 'THTR 331');">THTR 331</a></div></td>
+<td headers=" plangrid8_3_1" class="titlecol">Page to Stage: Adaptation of Text for Theatrical Performance</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid8_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20333" title="THTR 333" class="bubblelink code" onclick="return showCourse(this, 'THTR 333');">THTR 333</a></div></td>
+<td headers=" plangrid8_3_1" class="titlecol">Stage Direction <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20431" title="THTR 431" class="bubblelink code" onclick="return showCourse(this, 'THTR 431');">THTR 431</a></div></td>
+<td headers=" plangrid8_3_1" class="titlecol">Playwriting <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid8_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20435" title="THTR 435" class="bubblelink code" onclick="return showCourse(this, 'THTR 435');">THTR 435</a></div></td>
+<td headers=" plangrid8_3_1" class="titlecol">Contemporary Performance Techniques</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid8_3_1" colspan="2" class="codecol"><span class="comment">Elective—recommended courses include:</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid8_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20494" title="THTR 494" class="bubblelink code" onclick="return showCourse(this, 'THTR 494');">THTR 494</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=THTR%20498" title="THTR 498" class="bubblelink code" onclick="return showCourse(this, 'THTR 498');">THTR 498</a></div></div></td>
+<td headers=" plangrid8_3_1" class="titlecol">Internship<br/><div style="margin-left:20px;" class="blockindent">or Independent Study</div></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid8_3_1" class="titlecol">Hours</td><td headers=" plangrid8_3_1 hoursheader" class="hourscol">12-15</td></tr>
+<tr class="plangridtotal lastrow even"><td> </td><td>Total Hours</td><td headers="hoursheader" class="hourscol">120</td></tr>
+</table>
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>This course is only offered in the spring semester.</em></p></td></tr></table></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="ba-act.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

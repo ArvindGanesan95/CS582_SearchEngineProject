@@ -1,0 +1,860 @@
+https://catalog.uic.edu/all-course-descriptions/ids/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Information and Decision Sciences (IDS) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="isparent"><a href="/ucat/">Undergraduate Catalog</a></li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="active isparent"><a href="/all-course-descriptions/">All Course Descriptions</a>
+	<ul class="nav levelone" id="/all-course-descriptions/">
+		<li><a href="/all-course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+		<li><a href="/all-course-descriptions/actg/">Accounting (ACTG)</a></li>
+		<li><a href="/all-course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+		<li><a href="/all-course-descriptions/anth/">Anthropology (ANTH)</a></li>
+		<li><a href="/all-course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+		<li><a href="/all-course-descriptions/arab/">Arabic (ARAB)</a></li>
+		<li><a href="/all-course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+		<li><a href="/all-course-descriptions/arch/">Architecture (ARCH)</a></li>
+		<li><a href="/all-course-descriptions/art/">Art (ART)</a></li>
+		<li><a href="/all-course-descriptions/ah/">Art History (AH)</a></li>
+		<li><a href="/all-course-descriptions/bms/">Basic Medical Sciences (BMS)</a></li>
+		<li><a href="/all-course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+		<li><a href="/all-course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+		<li><a href="/all-course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+		<li><a href="/all-course-descriptions/bvis/">Biomedical Visualization (BVIS)</a></li>
+		<li><a href="/all-course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+		<li><a href="/all-course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+		<li><a href="/all-course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+		<li><a href="/all-course-descriptions/blst/">Black Studies (BLST)</a></li>
+		<li><a href="/all-course-descriptions/ba/">Business Administration (BA)</a></li>
+		<li><a href="/all-course-descriptions/cc/">Campus Courses (CC)</a></li>
+		<li><a href="/all-course-descriptions/cst/">Catholic Studies (CST)</a></li>
+		<li><a href="/all-course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+		<li><a href="/all-course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+		<li><a href="/all-course-descriptions/chem/">Chemistry (CHEM)</a></li>
+		<li><a href="/all-course-descriptions/chin/">Chinese (CHIN)</a></li>
+		<li><a href="/all-course-descriptions/cd/">City Design (CD)</a></li>
+		<li><a href="/all-course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+		<li><a href="/all-course-descriptions/cl/">Classics (CL)</a></li>
+		<li><a href="/all-course-descriptions/cler/">Clerkship -&#8203; Medicine (CLER)</a></li>
+		<li><a href="/all-course-descriptions/cele/">Clerkship Electives -&#8203; Chicago (CELE)</a></li>
+		<li><a href="/all-course-descriptions/pele/">Clerkship Electives -&#8203; Peoria (PELE)</a></li>
+		<li><a href="/all-course-descriptions/rele/">Clerkship Electives -&#8203; Rockford (RELE)</a></li>
+		<li><a href="/all-course-descriptions/uele/">Clerkship Electives -&#8203; Urbana (UELE)</a></li>
+		<li><a href="/all-course-descriptions/comm/">Communication (COMM)</a></li>
+		<li><a href="/all-course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+		<li><a href="/all-course-descriptions/cs/">Computer Science (CS)</a></li>
+		<li><a href="/all-course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+		<li><a href="/all-course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+		<li><a href="/all-course-descriptions/dadm/">Dental Administration (DADM)</a></li>
+		<li><a href="/all-course-descriptions/daob/">Dentistry -&#8203; Applied Oral and Behavioral Sciences (DAOB)</a></li>
+		<li><a href="/all-course-descriptions/dbcs/">Dentistry -&#8203; Biomedical and Clinical Sciences (DBCS)</a></li>
+		<li><a href="/all-course-descriptions/dcle/">Dentistry -&#8203; Community Learning Experience (DCLE)</a></li>
+		<li><a href="/all-course-descriptions/dosi/">Dentistry -&#8203; Oral/&#8203;Systemic Issues (DOSI)</a></li>
+		<li><a href="/all-course-descriptions/dost/">Dentistry -&#8203; Oral/&#8203;Systemic Topics (DOST)</a></li>
+		<li><a href="/all-course-descriptions/des/">Design (DES)</a></li>
+		<li><a href="/all-course-descriptions/dlg/">Dialogue (DLG)</a></li>
+		<li><a href="/all-course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+		<li><a href="/all-course-descriptions/mdc/">Doctor of Medicine—Chicago (MDC)</a></li>
+		<li><a href="/all-course-descriptions/mdp/">Doctor of Medicine—Peoria (MDP)</a></li>
+		<li><a href="/all-course-descriptions/mdr/">Doctor of Medicine—Rockford (MDR)</a></li>
+		<li><a href="/all-course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+		<li><a href="/all-course-descriptions/econ/">Economics (ECON)</a></li>
+		<li><a href="/all-course-descriptions/ed/">Education (ED)</a></li>
+		<li><a href="/all-course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+		<li><a href="/all-course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+		<li><a href="/all-course-descriptions/ece/">Electrical and Computer Engineering (ECE)</a></li>
+		<li><a href="/all-course-descriptions/eb/">Employee Benefits (EB)</a></li>
+		<li><a href="/all-course-descriptions/endo/">Endodontics (ENDO)</a></li>
+		<li><a href="/all-course-descriptions/ener/">Energy Engineering (ENER)</a></li>
+		<li><a href="/all-course-descriptions/engr/">Engineering (ENGR)</a></li>
+		<li><a href="/all-course-descriptions/engl/">English (ENGL)</a></li>
+		<li><a href="/all-course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+		<li><a href="/all-course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+		<li><a href="/all-course-descriptions/eohs/">Environmental and Occupational Health Sciences (EOHS)</a></li>
+		<li><a href="/all-course-descriptions/epid/">Epidemiology (EPID)</a></li>
+		<li><a href="/all-course-descriptions/epl/">Estate Planning (EPL)</a></li>
+		<li><a href="/all-course-descriptions/fin/">Finance (FIN)</a></li>
+		<li><a href="/all-course-descriptions/fr/">French (FR)</a></li>
+		<li><a href="/all-course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+		<li><a href="/all-course-descriptions/geog/">Geography (GEOG)</a></li>
+		<li><a href="/all-course-descriptions/ger/">Germanic Studies (GER)</a></li>
+		<li><a href="/all-course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+		<li><a href="/all-course-descriptions/gc/">Graduate College (GC)</a></li>
+		<li><a href="/all-course-descriptions/gems/">Graduate Education in Medical Sciences (GEMS)</a></li>
+		<li><a href="/all-course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+		<li><a href="/all-course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+		<li><a href="/all-course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+		<li><a href="/all-course-descriptions/him/">Health Information Management (HIM)</a></li>
+		<li><a href="/all-course-descriptions/hpa/">Health Policy and Administration (HPA)</a></li>
+		<li><a href="/all-course-descriptions/hlp/">Healthy Living Practitioner™ (HLP)</a></li>
+		<li><a href="/all-course-descriptions/heb/">Hebrew (HEB)</a></li>
+		<li><a href="/all-course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+		<li><a href="/all-course-descriptions/hstl/">Histology (HSTL)</a></li>
+		<li><a href="/all-course-descriptions/hist/">History (HIST)</a></li>
+		<li><a href="/all-course-descriptions/hon/">Honors College (HON)</a></li>
+		<li><a href="/all-course-descriptions/hn/">Human Nutrition (HN)</a></li>
+		<li><a href="/all-course-descriptions/hum/">Humanities (HUM)</a></li>
+		<li><a href="/all-course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+		<li><a href="/all-course-descriptions/it/">Information Technology (IT)</a></li>
+		<li class="active self"><a href="#" onclick="return false;">Information and Decision Sciences (IDS)</a></li>
+		<li><a href="/all-course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+		<li><a href="/all-course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+		<li><a href="/all-course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+		<li><a href="/all-course-descriptions/ip/">Intellectual Property (IP)</a></li>
+		<li><a href="/all-course-descriptions/ibt/">International Business and Trade (IBT)</a></li>
+		<li><a href="/all-course-descriptions/inst/">International Studies (INST)</a></li>
+		<li><a href="/all-course-descriptions/ital/">Italian (ITAL)</a></li>
+		<li><a href="/all-course-descriptions/jpn/">Japanese (JPN)</a></li>
+		<li><a href="/all-course-descriptions/jst/">Jewish Studies (JST)</a></li>
+		<li><a href="/all-course-descriptions/jd/">Juris Doctor (JD)</a></li>
+		<li><a href="/all-course-descriptions/kn/">Kinesiology (KN)</a></li>
+		<li><a href="/all-course-descriptions/kor/">Korean (KOR)</a></li>
+		<li><a href="/all-course-descriptions/lat/">Latin (LAT)</a></li>
+		<li><a href="/all-course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+		<li><a href="/all-course-descriptions/law/">Law (LAW)</a></li>
+		<li><a href="/all-course-descriptions/lrsc/">Learning Sciences (LRSC)</a></li>
+		<li><a href="/all-course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+		<li><a href="/all-course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+		<li><a href="/all-course-descriptions/ling/">Linguistics (LING)</a></li>
+		<li><a href="/all-course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+		<li><a href="/all-course-descriptions/lith/">Lithuanian (LITH)</a></li>
+		<li><a href="/all-course-descriptions/mgmt/">Management (MGMT)</a></li>
+		<li><a href="/all-course-descriptions/mktg/">Marketing (MKTG)</a></li>
+		<li><a href="/all-course-descriptions/mba/">Master of Business Administration (MBA)</a></li>
+		<li><a href="/all-course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+		<li><a href="/all-course-descriptions/mj/">Master of Jurisprudence (MJ)</a></li>
+		<li><a href="/all-course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+		<li><a href="/all-course-descriptions/math/">Mathematics (MATH)</a></li>
+		<li><a href="/all-course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+		<li><a href="/all-course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+		<li><a href="/all-course-descriptions/mbt/">Medical Biotechnology (MBT)</a></li>
+		<li><a href="/all-course-descriptions/mhpe/">Medical Education (MHPE)</a></li>
+		<li><a href="/all-course-descriptions/mhum/">Medical Humanities (MHUM)</a></li>
+		<li><a href="/all-course-descriptions/mdch/">Medicinal Chemistry (MDCH)</a></li>
+		<li><a href="/all-course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+		<li><a href="/all-course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+		<li><a href="/all-course-descriptions/mils/">Military Science (MILS)</a></li>
+		<li><a href="/all-course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+		<li><a href="/all-course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+		<li><a href="/all-course-descriptions/mus/">Music (MUS)</a></li>
+		<li><a href="/all-course-descriptions/nast/">Native American Studies (NAST)</a></li>
+		<li><a href="/all-course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+		<li><a href="/all-course-descriptions/ns/">Naval Science (NS)</a></li>
+		<li><a href="/all-course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+		<li><a href="/all-course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+		<li><a href="/all-course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+		<li><a href="/all-course-descriptions/nupr/">Nursing Practicum (NUPR)</a></li>
+		<li><a href="/all-course-descriptions/nusp/">Nursing Specialty (NUSP)</a></li>
+		<li><a href="/all-course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+		<li><a href="/all-course-descriptions/omds/">Oral Medicine and Diagnostic Sciences (OMDS)</a></li>
+		<li><a href="/all-course-descriptions/osci/">Oral Sciences (OSCI)</a></li>
+		<li><a href="/all-course-descriptions/osur/">Oral and Maxillofacial Surgery (OSUR)</a></li>
+		<li><a href="/all-course-descriptions/ortd/">Orthodontics (ORTD)</a></li>
+		<li><a href="/all-course-descriptions/path/">Pathology (PATH)</a></li>
+		<li><a href="/all-course-descriptions/psl/">Patient Safety Leadership (PSL)</a></li>
+		<li><a href="/all-course-descriptions/pedd/">Pediatric Dentistry (PEDD)</a></li>
+		<li><a href="/all-course-descriptions/peri/">Periodontics (PERI)</a></li>
+		<li><a href="/all-course-descriptions/psci/">Pharmaceutical Sciences (PSCI)</a></li>
+		<li><a href="/all-course-descriptions/pmpg/">Pharmacognosy (PMPG)</a></li>
+		<li><a href="/all-course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+		<li><a href="/all-course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+		<li><a href="/all-course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+		<li><a href="/all-course-descriptions/psop/">Pharmacy Systems, Outcomes, and Policy (PSOP)</a></li>
+		<li><a href="/all-course-descriptions/phil/">Philosophy (PHIL)</a></li>
+		<li><a href="/all-course-descriptions/pt/">Physical Therapy (PT)</a></li>
+		<li><a href="/all-course-descriptions/phys/">Physics (PHYS)</a></li>
+		<li><a href="/all-course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+		<li><a href="/all-course-descriptions/pol/">Polish (POL)</a></li>
+		<li><a href="/all-course-descriptions/pols/">Political Science (POLS)</a></li>
+		<li><a href="/all-course-descriptions/port/">Portuguese (PORT)</a></li>
+		<li><a href="/all-course-descriptions/prcl/">Preclinical Medicine (PRCL)</a></li>
+		<li><a href="/all-course-descriptions/ptl/">Privacy and Technology Law (PTL)</a></li>
+		<li><a href="/all-course-descriptions/pros/">Prosthodontics (PROS)</a></li>
+		<li><a href="/all-course-descriptions/psch/">Psychology (PSCH)</a></li>
+		<li><a href="/all-course-descriptions/pa/">Public Administration (PA)</a></li>
+		<li><a href="/all-course-descriptions/pubh/">Public Health (PUBH)</a></li>
+		<li><a href="/all-course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+		<li><a href="/all-course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+		<li><a href="/all-course-descriptions/re/">Real Estate (RE)</a></li>
+		<li><a href="/all-course-descriptions/rels/">Religious Studies (RELS)</a></li>
+		<li><a href="/all-course-descriptions/rest/">Restorative Dentistry (REST)</a></li>
+		<li><a href="/all-course-descriptions/russ/">Russian (RUSS)</a></li>
+		<li><a href="/all-course-descriptions/slav/">Slavic and Baltic Languages and Literatures (SLAV)</a></li>
+		<li><a href="/all-course-descriptions/sj/">Social Justice (SJ)</a></li>
+		<li><a href="/all-course-descriptions/socw/">Social Work (SOCW)</a></li>
+		<li><a href="/all-course-descriptions/soc/">Sociology (SOC)</a></li>
+		<li><a href="/all-course-descriptions/span/">Spanish (SPAN)</a></li>
+		<li><a href="/all-course-descriptions/sped/">Special Education (SPED)</a></li>
+		<li><a href="/all-course-descriptions/spec/">Specialty Medicine (SPEC)</a></li>
+		<li><a href="/all-course-descriptions/stat/">Statistics (STAT)</a></li>
+		<li><a href="/all-course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+		<li><a href="/all-course-descriptions/surg/">Surgery (SURG)</a></li>
+		<li><a href="/all-course-descriptions/tx/">Taxation (TX)</a></li>
+		<li><a href="/all-course-descriptions/thtr/">Theatre (THTR)</a></li>
+		<li><a href="/all-course-descriptions/tadr/">Trial Advocacy and Dispute Resolution (TADR)</a></li>
+		<li><a href="/all-course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+		<li><a href="/all-course-descriptions/us/">Urban Studies (US)</a></li>
+		<li><a href="/all-course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+		<li><a href="/all-course-descriptions/usl/">US Legal Studies (USL)</a></li>
+	</ul>
+	</li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/all-course-descriptions/">All&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Information and Decision Sciences (IDS)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Information and Decision Sciences (IDS)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="idscourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;200.  Intro to Management Information Systems.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to concepts and application of information technology for solving business problems and supporting organizational functions. Includes hands-on instruction on use of computer-based productivity tools. Course Information: Previously listed as IDS 100. Class Schedule Information:  During the fall and spring terms, combined section final exam will be held on Thursday of finals week from 3:30 to 5:30 p.m. To be properly registered, students must enroll in one Laboratory-Discussion and one Lecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;201.  Introduction to Business Programming.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Disciplined computer-assisted problem solving. Structured programming, data types and data structures, modularization. Program design for business information- and decision-support. Course Information: Credit is not given for <a href="/search/?P=IDS%20201" title="IDS&#160;201" class="bubblelink code" onclick="return showCourse(this, 'IDS 201');">IDS&#160;201</a> if the student has credit for <a href="/search/?P=MCS%20260" title="MCS&#160;260" class="bubblelink code" onclick="return showCourse(this, 'MCS 260');">MCS&#160;260</a>. Prerequisite(s): <a href="/search/?P=IDS%20200" title="IDS&#160;200" class="bubblelink code" onclick="return showCourse(this, 'IDS 200');">IDS&#160;200</a> and <a href="/search/?P=MATH%20160" title="MATH&#160;160" class="bubblelink code" onclick="return showCourse(this, 'MATH 160');">MATH&#160;160</a> or the equivalent courses. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture-Discussion.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;270.  Business Statistics I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Working with business data. Data summarization, visualization, business insights. Probability, sampling distributions, confidence intervals, hypothesis testing and introduction to linear regression. Use of software for data visualization and analysis. Course Information: Prerequisite(s): <a href="/search/?P=MATH%20165" title="MATH&#160;165" class="bubblelink code" onclick="return showCourse(this, 'MATH 165');">MATH&#160;165</a> or <a href="/search/?P=MATH%20180" title="MATH&#160;180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH&#160;180</a> or <a href="/search/?P=MATH%20181" title="MATH&#160;181" class="bubblelink code" onclick="return showCourse(this, 'MATH 181');">MATH&#160;181</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;312.  Business Project Management.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An integrative approach to learning how projects contribute to the strategic goals of the organization.  Major issues:  selecting projects,  project management techniques and tools, budgeting, monitoring, risk mitigation, and interpersonal skills.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;313.  Internet Applications in Business.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Internet business applications in entrepreneurship, finance, accounting, and marketing. Assessing business problems, planning Internet-based solutions, and understanding web tools. Students interested in further studies can continue with <a href="/search/?P=IDS%20413" title="IDS&#160;413" class="bubblelink code" onclick="return showCourse(this, 'IDS 413');">IDS&#160;413</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;331.  Business Analysis Using Spreadsheets.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analyzing business cases using spreadsheet software. Effective and efficient use of Excel. Spreadsheet automation using Visual Basic for Applications.  Course Information:  Extensive computer use required.  Prerequisite(s):  <a href="/search/?P=IDS%20200" title="IDS&#160;200" class="bubblelink code" onclick="return showCourse(this, 'IDS 200');">IDS&#160;200</a>.  Recommended background:  ACTG 110.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;355.  Operations Management.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Application of management sciences to the planning and design of production, distribution, and service systems. Course Information: Prerequisite(s): <a href="/search/?P=ENGL%20161" title="ENGL&#160;161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL&#160;161</a>. Class Schedule Information: During the fall and spring terms, combined section final exam will be held on Thursday of finals week from 3:30 to 5:30 p.m. To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;371.  Business Statistics II.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Continuation of statistical concepts, techniques for managerial decisions. Analysis of variance, multivariate regression, time series, statistical process control, non-parametric methods. Use of statistical software for data visualization, analysis. Course Information: Prerequisite(s): <a href="/search/?P=IDS%20270" title="IDS&#160;270" class="bubblelink code" onclick="return showCourse(this, 'IDS 270');">IDS&#160;270</a> and <a href="/search/?P=MATH%20165" title="MATH&#160;165" class="bubblelink code" onclick="return showCourse(this, 'MATH 165');">MATH&#160;165</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;400.  Programming for Data Science in Business.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Aims to provide students the knowledge and skills for designing and developing data science applications in various business areas, using a language such as Python. Focuses on programming constructs and use of functions and packages. Course Information: 3 undergraduate hours. 4 graduate hours. Extensive computer use required. Prerequisite(s): IDS 201and basic knowledge of programming at the level of <a href="/search/?P=IDS%20201" title="IDS&#160;201" class="bubblelink code" onclick="return showCourse(this, 'IDS 201');">IDS&#160;201</a> or equivalent. Recommended background: <a href="/search/?P=IDS%20270" title="IDS&#160;270" class="bubblelink code" onclick="return showCourse(this, 'IDS 270');">IDS&#160;270</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;401.  Business Object Programming using Java.  0-4 hours.</strong></p>
+<p class="courseblockdesc">
+Basic concepts in object-oriented programming such as objects, classes, class inheritance and interfaces, data abstraction and encapsulation, polymorphism, and dynamic binding.  Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=IDS%20201" title="IDS&#160;201" class="bubblelink code" onclick="return showCourse(this, 'IDS 201');">IDS&#160;201</a> or the equivalent. Class Schedule Information: To be properly registered, students must enroll in one Laboratory and one Lecture-Discussion.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;403.  Information Security.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Examine the field of information security to prepare students for their future roles as business decision-makers.  Presents a balance of the managerial and technical aspects of information security.  Course Information:  3 undergraduate hours.  4 graduate hours.  Prerequisite(s):  <a href="/search/?P=IDS%20200" title="IDS&#160;200" class="bubblelink code" onclick="return showCourse(this, 'IDS 200');">IDS&#160;200</a> or the equivalent.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;405.  Business Systems Analysis and Design.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Theory of analysis, design and development of information systems; information management and database management systems; data management and analysis; case studies in systems implementation and evaluation. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=IDS%20201" title="IDS&#160;201" class="bubblelink code" onclick="return showCourse(this, 'IDS 201');">IDS&#160;201</a> or <a href="/search/?P=IDS%20331" title="IDS&#160;331" class="bubblelink code" onclick="return showCourse(this, 'IDS 331');">IDS&#160;331</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;406.  Business Systems Project.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Project experience in a business setting. Analysis, design, development and evaluation of computer-based business information systems. Project planning, scheduling and management. Project work at an outside company or University office. Course Information: 3 undergraduate hours. 4 graduate hours. Extensive computer use required. Prerequisite(s): Knowledge of programming and databases; or consent of the instructor. Recommended background: Familiarity with systems analysis and design (<a href="/search/?P=IDS%20405" title="IDS&#160;405" class="bubblelink code" onclick="return showCourse(this, 'IDS 405');">IDS&#160;405</a>).<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;410.  Business Database Technology.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Computer software techniques used in business with emphasis on information management and database management systems. Data management and analysis. Major types of database management systems, query languages. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=IDS%20201" title="IDS&#160;201" class="bubblelink code" onclick="return showCourse(this, 'IDS 201');">IDS&#160;201</a> or <a href="/search/?P=IDS%20331" title="IDS&#160;331" class="bubblelink code" onclick="return showCourse(this, 'IDS 331');">IDS&#160;331</a>. For BS in Data Science prerequisite is an equivalent course like <a href="/search/?P=CS%20141" title="CS&#160;141" class="bubblelink code" onclick="return showCourse(this, 'CS 141');">CS&#160;141</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;412.  Distributed Business Systems.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Organizational aspects and underlying concepts of distributed business systems, decentralization versus centralization issues, costs of distributed computing, and performance evaluation measures. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=IDS%20201" title="IDS&#160;201" class="bubblelink code" onclick="return showCourse(this, 'IDS 201');">IDS&#160;201</a> or IDS 330; and credit or concurrent registration in <a href="/search/?P=IDS%20410" title="IDS&#160;410" class="bubblelink code" onclick="return showCourse(this, 'IDS 410');">IDS&#160;410</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;413.  Internet Technology and Management.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The technologies of World Wide Web development. Topics include: TCP/IP, HTTP, HTML, HTML authoring, XML,  ASP programming, client-side programming, and Web 2.0, web servers, database servers, business application servers and Internet. Course Information: Credit is not given for <a href="/search/?P=IDS%20413" title="IDS&#160;413" class="bubblelink code" onclick="return showCourse(this, 'IDS 413');">IDS&#160;413</a> if the student has credit for IDS 424. Extensive computer use required. Prerequisite(s):  <a href="/search/?P=IDS%20201" title="IDS&#160;201" class="bubblelink code" onclick="return showCourse(this, 'IDS 201');">IDS&#160;201</a> or <a href="/search/?P=IDS%20331" title="IDS&#160;331" class="bubblelink code" onclick="return showCourse(this, 'IDS 331');">IDS&#160;331</a>; and <a href="/search/?P=IDS%20410" title="IDS&#160;410" class="bubblelink code" onclick="return showCourse(this, 'IDS 410');">IDS&#160;410</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;420.  Business Model Simulation.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Simulation analysis of strategic business decision models for investment, marketing, product introduction, and operational policies concerning inventory, production planning, quality assurance and supply chain management. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=IDS%20355" title="IDS&#160;355" class="bubblelink code" onclick="return showCourse(this, 'IDS 355');">IDS&#160;355</a>; or credit or concurrent registration in <a href="/search/?P=IDS%20331" title="IDS&#160;331" class="bubblelink code" onclick="return showCourse(this, 'IDS 331');">IDS&#160;331</a> or the equivalent.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;422.  Text Mining for Business Applications.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Text mining for business applications. It will cover document representation, text categorization and clustering, basic natural language processing techniques, sentiment analysis, probabilistic topic models and text visualization. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=IDS%20371" title="IDS&#160;371" class="bubblelink code" onclick="return showCourse(this, 'IDS 371');">IDS&#160;371</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;435.  Optimization for Analytics.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Optimization methods for machine learning and data science applications in business, engineering, sciences. Core formulations and algorithms for continuous, discrete, dynamic optimization problems. Why algorithms work, and implementation of methods. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=IDS%20371" title="IDS&#160;371" class="bubblelink code" onclick="return showCourse(this, 'IDS 371');">IDS&#160;371</a> or the equivalent; and knowledge of programming at the level of <a href="/search/?P=IDS%20201" title="IDS&#160;201" class="bubblelink code" onclick="return showCourse(this, 'IDS 201');">IDS&#160;201</a> or equivalent.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;437.  Stochastic Methods.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Stochastic processes and other applications of probability theory.  Use of spreadsheet and other software tools for analysis, simulation and decision theory.  Models for business operations and planning, computer systems, transportation, finance. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s):  <a href="/search/?P=IDS%20355" title="IDS&#160;355" class="bubblelink code" onclick="return showCourse(this, 'IDS 355');">IDS&#160;355</a> and <a href="/search/?P=IDS%20371" title="IDS&#160;371" class="bubblelink code" onclick="return showCourse(this, 'IDS 371');">IDS&#160;371</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;446.  Decision Analysis.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Prior and posterior distributions; conjugate priors; value of information; applications to decision making in business. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=IDS%20371" title="IDS&#160;371" class="bubblelink code" onclick="return showCourse(this, 'IDS 371');">IDS&#160;371</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;450.  Supply Chain Planning and Logistics.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Covers concepts in designing, analyzing, improving, measuring and controlling logistics operations in modern supply chains. Students are presented with logistics concepts, techniques, planning tools, and case studies to facilitate learning. Course Information: 3 undergraduate hours. 4 graduate hours. Extensive computer use required. Prerequisite(s): <a href="/search/?P=IDS%20355" title="IDS&#160;355" class="bubblelink code" onclick="return showCourse(this, 'IDS 355');">IDS&#160;355</a>; and <a href="/search/?P=IDS%20454" title="IDS&#160;454" class="bubblelink code" onclick="return showCourse(this, 'IDS 454');">IDS&#160;454</a>. <a href="/search/?P=IDS%20454" title="IDS&#160;454" class="bubblelink code" onclick="return showCourse(this, 'IDS 454');">IDS&#160;454</a> can be taken as a corequisite; or consent of the instructor. Recommended background: Prior coursework/experience in operations management.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;451.  Enterprise Operations and Supply Chain Systems.  0-4 hours.</strong></p>
+<p class="courseblockdesc">
+Provides an overview of how enterprise business systems operate and are used to manage operations and supply chains in order to make effective business decisions. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated. Extensive computer use required. Shows students how business processes integrate within an enterprise and across the supply chain. Prerequisite(s): <a href="/search/?P=IDS%20200" title="IDS&#160;200" class="bubblelink code" onclick="return showCourse(this, 'IDS 200');">IDS&#160;200</a> and credit or concurrent registration in <a href="/search/?P=IDS%20355" title="IDS&#160;355" class="bubblelink code" onclick="return showCourse(this, 'IDS 355');">IDS&#160;355</a>; or credit or concurrent registration in <a href="/search/?P=IDS%20532" title="IDS&#160;532" class="bubblelink code" onclick="return showCourse(this, 'IDS 532');">IDS&#160;532</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Laboratory.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;453.  Supply Chain Management: Sourcing and Procurement.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+The course materials will focus on the fundamental tools, processes and techniques in sourcing and procurement strategies, contract negotiation and management, managing supplier relationships, evaluating supplier performance, and global sourcing.  Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=IDS%20355" title="IDS&#160;355" class="bubblelink code" onclick="return showCourse(this, 'IDS 355');">IDS&#160;355</a>.  Recommended background: Prior coursework/experience in supply chain management.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;454.  Introduction to Supply Chain Management.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Supply Chain Management is studied as an information-intensive, integrated system for managing material flows, logistics and inter-organizational partnership to deliver products and services. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=IDS%20355" title="IDS&#160;355" class="bubblelink code" onclick="return showCourse(this, 'IDS 355');">IDS&#160;355</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;460.  Survey Sampling: Theory and Methods.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Planning and analyzing surveys. Topics include simple random sampling, stratified sampling, systematic sampling, ratio estimation, and cluster sampling. Case studies with applications to real situations. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=IDS%20371" title="IDS&#160;371" class="bubblelink code" onclick="return showCourse(this, 'IDS 371');">IDS&#160;371</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;462.  Statistical Software for Business Applications.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Hands-on experience with statistical software commonly used in industry. Data preparation, advanced statistical methods for business problems - marketing, finance, operations, etc. Interpretation and communication of results to guide decision making. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=IDS%20371" title="IDS&#160;371" class="bubblelink code" onclick="return showCourse(this, 'IDS 371');">IDS&#160;371</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;470.  Multivariate Analysis.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the structure and analysis of multivariate data. Emphasis on the multivariate normal model. Regression; tests concerning multivariate means, classification; discriminant analysis, principal components. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=IDS%20371" title="IDS&#160;371" class="bubblelink code" onclick="return showCourse(this, 'IDS 371');">IDS&#160;371</a>; or <a href="/search/?P=MATH%20310" title="MATH&#160;310" class="bubblelink code" onclick="return showCourse(this, 'MATH 310');">MATH&#160;310</a>; or <a href="/search/?P=MATH%20320" title="MATH&#160;320" class="bubblelink code" onclick="return showCourse(this, 'MATH 320');">MATH&#160;320</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;472.  Business Data Mining.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Data mining for business insights and decisions. Classification, trees, random forests, naÃ¯ve Bayes, clustering, association rules, neural nets, recommender systems, text mining. Hands-on application to problems in finance, marketing, and operations. Course Information: 3 undergraduate hours. 4 graduate hours. Credit is not given for <a href="/search/?P=IDS%20472" title="IDS&#160;472" class="bubblelink code" onclick="return showCourse(this, 'IDS 472');">IDS&#160;472</a> if the student has credit for <a href="/search/?P=IDS%20572" title="IDS&#160;572" class="bubblelink code" onclick="return showCourse(this, 'IDS 572');">IDS&#160;572</a>. Prerequisite(s): <a href="/search/?P=IDS%20371" title="IDS&#160;371" class="bubblelink code" onclick="return showCourse(this, 'IDS 371');">IDS&#160;371</a> or the equivalent.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;473.  Introduction to Risk Management.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to risk management. Loan and credit management; credit scoring. Risk measurements and reserves; banking and insurance capital requirements, the BASEL accord, tail events and catastrophic event insurance. Financial contracts and hedging.  Course Information:  Same as <a href="/search/?P=FIN%20473" title="FIN&#160;473" class="bubblelink code" onclick="return showCourse(this, 'FIN 473');">FIN&#160;473</a>.  Prerequisite(s):  <a href="/search/?P=FIN%20300" title="FIN&#160;300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN&#160;300</a> and <a href="/search/?P=IDS%20371" title="IDS&#160;371" class="bubblelink code" onclick="return showCourse(this, 'IDS 371');">IDS&#160;371</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;474.  Quality and Productivity Improvement Using Statistical Methods.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Directed experimentation for quality and productivity improvement, quality surveillance, design and analysis of two-level factorial experiments and multi-level experiments, data transformation. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=IDS%20371" title="IDS&#160;371" class="bubblelink code" onclick="return showCourse(this, 'IDS 371');">IDS&#160;371</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;475.  Database Accounting Systems.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Concepts and principles of designing database systems to perform accounting functions, applications of microcomputer accounting software packages systems design tools, and computerized transaction cycles. Course Information: Same as <a href="/search/?P=ACTG%20475" title="ACTG&#160;475" class="bubblelink code" onclick="return showCourse(this, 'ACTG 475');">ACTG&#160;475</a>. 3 undergraduate hours. 4 graduate hours. Extensive computer use required. Prerequisite(s): A passing grade in both <a href="/search/?P=ACTG%20211" title="ACTG&#160;211" class="bubblelink code" onclick="return showCourse(this, 'ACTG 211');">ACTG&#160;211</a> and <a href="/search/?P=IDS%20200" title="IDS&#160;200" class="bubblelink code" onclick="return showCourse(this, 'IDS 200');">IDS&#160;200</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;476.  Business Forecasting Using Time Series Methods.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Autoregressive, moving average, and seasonal models for time series analysis and business forecasting. Forecasting using multi-variable transfer function models is also included. Course Information: Same as <a href="/search/?P=ECON%20450" title="ECON&#160;450" class="bubblelink code" onclick="return showCourse(this, 'ECON 450');">ECON&#160;450</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=IDS%20371" title="IDS&#160;371" class="bubblelink code" onclick="return showCourse(this, 'IDS 371');">IDS&#160;371</a> or <a href="/search/?P=ECON%20300" title="ECON&#160;300" class="bubblelink code" onclick="return showCourse(this, 'ECON 300');">ECON&#160;300</a> or <a href="/search/?P=ECON%20400" title="ECON&#160;400" class="bubblelink code" onclick="return showCourse(this, 'ECON 400');">ECON&#160;400</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;478.  Regression Analysis.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Data collection and exploration; model building; variable least squares; residual analysis; variable selection; multicollinearity; ridge regression; nonlinear regression; nonparametric regression. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=IDS%20371" title="IDS&#160;371" class="bubblelink code" onclick="return showCourse(this, 'IDS 371');">IDS&#160;371</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;479.  Enterprise Risk Management.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Overview of enterprise-wide risk management strategies and techniques: strategies that firms employ to enhance value and minimize exposure; techniques used to identify, measure, reduce, and transfer risk. Course Information: Same as <a href="/search/?P=FIN%20479" title="FIN&#160;479" class="bubblelink code" onclick="return showCourse(this, 'FIN 479');">FIN&#160;479</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=FIN%20300" title="FIN&#160;300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN&#160;300</a>; or consent of the instructor. Recommended background: <a href="/search/?P=IDS%20473" title="IDS&#160;473" class="bubblelink code" onclick="return showCourse(this, 'IDS 473');">IDS&#160;473</a> or <a href="/search/?P=FIN%20473" title="FIN&#160;473" class="bubblelink code" onclick="return showCourse(this, 'FIN 473');">FIN&#160;473</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;494.  Topics in Information and Decision Sciences.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Topics vary; selected readings; case analysis. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s) if topics vary. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;495.  Competitive Strategy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Multidisciplinary analysis of organizational strategy and policy using case method and/or business simulation. Assignments involve extensive library research and oral and written reports. Course Information: Prerequisite(s): Senior standing or above Senior standing in the College of Business Administration and completion of all other CBA core courses.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;499.  Research Experience.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Research experience under the supervision of a faculty member.  The faculty member and student will determinne the research project. Each student must submit a written report and each student must participate at a research event on campus. Course Information: May be repeated to a maximum of 9 hours. Students may register in more than one section per term. Prerequisite(s): Consent of the department and the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;500.  Information Systems in Organizations.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Use of information technology in business; planning, management, and strategic use of information technology including the role of enterprise-wide systems, the Internet, and electronic commerce.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;504.  Introduction to Electronic Commerce.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Addresses issues on electronic commerce for businesses and consumers, considering topics such as competition, distribuiton, infrastructure on the Internet, shopping, and product characteristics.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;505.  Business Information Systems Analysis and Design.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis, design and development of information systems. Management concerns in systems design, development, and evaluation. Course Information: A student who has taken <a href="/search/?P=IDS%20405" title="IDS&#160;405" class="bubblelink code" onclick="return showCourse(this, 'IDS 405');">IDS&#160;405</a> must see an adviser to determine whether another graduate course from IDS, MATH, or CS must be substituted for <a href="/search/?P=IDS%20505" title="IDS&#160;505" class="bubblelink code" onclick="return showCourse(this, 'IDS 505');">IDS&#160;505</a>. Prerequisite(s): <a href="/search/?P=IDS%20500" title="IDS&#160;500" class="bubblelink code" onclick="return showCourse(this, 'IDS 500');">IDS&#160;500</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;506.  Health Information Management and Analytics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Technologies, applications and use of information systems in healthcare. Electronic health records and how healthcare data is organized by providers and payers. Applications of data analytics and machine learning in healthcare. Course Information: Prerequisite(s): <a href="/search/?P=IDS%20570" title="IDS&#160;570" class="bubblelink code" onclick="return showCourse(this, 'IDS 570');">IDS&#160;570</a> or equivalent. Knowledge of statistical software R, SAS, SPSS etc. Recommended background: A course in data mining: <a href="/search/?P=IDS%20472" title="IDS&#160;472" class="bubblelink code" onclick="return showCourse(this, 'IDS 472');">IDS&#160;472</a> or <a href="/search/?P=IDS%20572" title="IDS&#160;572" class="bubblelink code" onclick="return showCourse(this, 'IDS 572');">IDS&#160;572</a> or equivalent. Consent of instructor required for non-CBA students.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;507.  Advanced Systems Analysis and Design Project.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Principles and concepts of analysis, design and development of information systems including project management. Includes a project at an outside company or University office. Course Information: Prerequisite(s): Completion of three MS in MIS core courses or completion of two core MS in MIS and concurrent enrollment in third core course.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;508.  E-Commerce Project.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Electronic commerce project initiated by local small and medium enterprises, teaming students with technical or entrepreneurial skills/ interests, supervised by faculty on board of directors. Course Information: Prerequisite(s): <a href="/search/?P=IDS%20504" title="IDS&#160;504" class="bubblelink code" onclick="return showCourse(this, 'IDS 504');">IDS&#160;504</a> or MGMT 558 or MKTG 558; and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;509.  Data and Prescriptive Analytics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Covers core concepts in data modeling, analytics and analytical modeling methods used for prescriptive analytics. This course provides foundation knowledge applicable to other courses. Course Information: Prerequisite(s): <a href="/search/?P=IDS%20371" title="IDS&#160;371" class="bubblelink code" onclick="return showCourse(this, 'IDS 371');">IDS&#160;371</a> or <a href="/search/?P=IDS%20570" title="IDS&#160;570" class="bubblelink code" onclick="return showCourse(this, 'IDS 570');">IDS&#160;570</a>; or consent of the instructor. Recommended Background: Previous exposure to spreadsheet tools and methods a plus.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;510.  Organizational Data Resources.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Data as a competitive resource. Understanding, organizing and utilizing data in enterprises. Data resource development and management. Leveraging data assets. Exploiting the power of data. Understanding regulatory requirements. Course Information: A student who has taken <a href="/search/?P=IDS%20410" title="IDS&#160;410" class="bubblelink code" onclick="return showCourse(this, 'IDS 410');">IDS&#160;410</a> must see an advisor to determine whether another graduate course from IDS, MATH, or CS must be substituted for <a href="/search/?P=IDS%20510" title="IDS&#160;510" class="bubblelink code" onclick="return showCourse(this, 'IDS 510');">IDS&#160;510</a>. Prerequisite(s): <a href="/search/?P=IDS%20500" title="IDS&#160;500" class="bubblelink code" onclick="return showCourse(this, 'IDS 500');">IDS&#160;500</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;511.  Query Processing in Database Systems.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Query processing in deductive databases and in distributed/parallel databases systems. Course Information: Same as <a href="/search/?P=CS%20580" title="CS&#160;580" class="bubblelink code" onclick="return showCourse(this, 'CS 580');">CS&#160;580</a>. Prerequisite(s): <a href="/search/?P=CS%20480" title="CS&#160;480" class="bubblelink code" onclick="return showCourse(this, 'CS 480');">CS&#160;480</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;512.  Information Systems Project &amp; Program Management.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Theory and practice of managing IS projects based on a life-cycle management model. Technology, organizational behavior, team dynamics and economic analysis in the context of larger organizational strategies. Project plans, budgets, and schedules.  Course Information:  Extensive computer use required.  Prerequisite(s):  Introductory information systems course.  Recommended background:  Advanced information system courses such as databases and system analysis.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;513.  Enterprise Components and Web Services.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Exposes students to advances in the technical aspects of electronic business. Topics include WSDL, UDDI, SOAP, Service Quality, Security, and Queuing Models. Course Information: Extensive computer use required.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;514.  Management of Information Systems.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Administration, control, and management of computer-based information systems, projects, and relationships with the organization. Scheduling of operations; management of computer professionals; planning and control of the systems activity. Course Information: Prerequisite(s): <a href="/search/?P=IDS%20505" title="IDS&#160;505" class="bubblelink code" onclick="return showCourse(this, 'IDS 505');">IDS&#160;505</a> or <a href="/search/?P=IDS%20510" title="IDS&#160;510" class="bubblelink code" onclick="return showCourse(this, 'IDS 510');">IDS&#160;510</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;515.  Information Systems Strategy and Policy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines how businesses can leverage IT and digital technologies to maximize business performance.  Covers IS strategy formulation, strategy implementation, e-business transformation, Inter-organizational and multi-organizational IS strategies.  Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;516.  Data Warehousing and Decision Support.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis, design and development of data warehousing.  Related methods and tools in the provision of decision support and business analytics/intelligence.  Course Information:  Prerequisite(s): <a href="/search/?P=IDS%20505" title="IDS&#160;505" class="bubblelink code" onclick="return showCourse(this, 'IDS 505');">IDS&#160;505</a> or <a href="/search/?P=IDS%20510" title="IDS&#160;510" class="bubblelink code" onclick="return showCourse(this, 'IDS 510');">IDS&#160;510</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;517.  Enterprise Application Development.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The course explores the choices available for building an enterprise application. Topics such as advanced applications design and development tools, methodologies and technologies are covered. Course Information: Extensive computer use required.  Prerequisite(s):  <a href="/search/?P=IDS%20201" title="IDS&#160;201" class="bubblelink code" onclick="return showCourse(this, 'IDS 201');">IDS&#160;201</a> or <a href="/search/?P=IDS%20400" title="IDS&#160;400" class="bubblelink code" onclick="return showCourse(this, 'IDS 400');">IDS&#160;400</a> and <a href="/search/?P=IDS%20401" title="IDS&#160;401" class="bubblelink code" onclick="return showCourse(this, 'IDS 401');">IDS&#160;401</a> and <a href="/search/?P=IDS%20410" title="IDS&#160;410" class="bubblelink code" onclick="return showCourse(this, 'IDS 410');">IDS&#160;410</a> or the equivalent.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;518.  Electronic Marketing.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Overview of the electronic marketing value chain. Internet and web technologies, system design, payment systems, business requirements for e-marketing, design and ethical issues. Course Information: Same as <a href="/search/?P=MKTG%20518" title="MKTG&#160;518" class="bubblelink code" onclick="return showCourse(this, 'MKTG 518');">MKTG&#160;518</a>. Prerequisite(s): <a href="/search/?P=MKTG%20500" title="MKTG&#160;500" class="bubblelink code" onclick="return showCourse(this, 'MKTG 500');">MKTG&#160;500</a> or MBA 506 or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;519.  Topics in Information Systems.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in information systems, information management and information technology. Content varies. Topics will be announced. Course Information: May be repeated if topics vary. Prerequisite(s): <a href="/search/?P=IDS%20505" title="IDS&#160;505" class="bubblelink code" onclick="return showCourse(this, 'IDS 505');">IDS&#160;505</a> or <a href="/search/?P=IDS%20510" title="IDS&#160;510" class="bubblelink code" onclick="return showCourse(this, 'IDS 510');">IDS&#160;510</a>; and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;520.  Enterprise Information Infrastructure Planning &amp; Security.  4 hours.</strong></p>
+<p class="courseblockdesc">
+This course introduces students with methods and practices involved in the planning, design and security of information infrastructure commonly found in large and medium enterprises. Course Information: Recommended background: <a href="/search/?P=IDS%20401" title="IDS&#160;401" class="bubblelink code" onclick="return showCourse(this, 'IDS 401');">IDS&#160;401</a>, <a href="/search/?P=IDS%20410" title="IDS&#160;410" class="bubblelink code" onclick="return showCourse(this, 'IDS 410');">IDS&#160;410</a> and <a href="/search/?P=IDS%20405" title="IDS&#160;405" class="bubblelink code" onclick="return showCourse(this, 'IDS 405');">IDS&#160;405</a> or equivalent.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;521.  Advanced Database Management.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Data analysis for database design; logical data modeling, transaction modeling; implementation models; physical database design; database tuning and performance evaluation; database decomposition; distributed database; database security. Course Information: Prerequisite(s): <a href="/search/?P=IDS%20410" title="IDS&#160;410" class="bubblelink code" onclick="return showCourse(this, 'IDS 410');">IDS&#160;410</a> or equivalent.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;523.  Audit and Control of Information Systems.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Modeling and analysis of information systems application in organizations; measurement of effectiveness; strategies for implementation and updating; interface with other management control systems.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;524.  Strategic Emergency Management and Continuity Planning.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to frameworks and methods for designing, developing, implementing, and evaluating for emergency management and business continuity strategies in the public and private sectors. Course Information: No graduation credit given to students enrolled in the Master of Business Administration program. Students who are not in the EMCP program should contact External Education at emcp@uic.edu for approval to register for this course.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;526.  Computer Performance Evaluation and Modeling.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Probabilistic, simulation and statistical techniques for modeling computer systems with a view to evaluating their performance. Models of multi-programming systems, multi-access systems input/output systems, priority queues, and paging systems. Course Information: A student who has taken IDS 426 must see an adviser to determine whether another graduate course from IDS, MATH, or CS must be substituted for <a href="/search/?P=IDS%20526" title="IDS&#160;526" class="bubblelink code" onclick="return showCourse(this, 'IDS 526');">IDS&#160;526</a>. Prerequisite(s): <a href="/search/?P=IDS%20532" title="IDS&#160;532" class="bubblelink code" onclick="return showCourse(this, 'IDS 532');">IDS&#160;532</a>; and <a href="/search/?P=IDS%20505" title="IDS&#160;505" class="bubblelink code" onclick="return showCourse(this, 'IDS 505');">IDS&#160;505</a> or <a href="/search/?P=IDS%20510" title="IDS&#160;510" class="bubblelink code" onclick="return showCourse(this, 'IDS 510');">IDS&#160;510</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;529.  Seminar on Management Information Systems.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Special research topics in management information systems. Topics vary from term to term depending on the interests of the instructor and students. Course Information: May be repeated if topics vary.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;532.  Introduction to Operations Management.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The management of operations for the production and delivery of goods and services. Topics include the management of business processes, projects, production, supply chain, inventory, quality, lay out and job design. Course Information: Credit is not given for <a href="/search/?P=IDS%20532" title="IDS&#160;532" class="bubblelink code" onclick="return showCourse(this, 'IDS 532');">IDS&#160;532</a> if the student has credit in MBA 507 and MBA 509. Prerequisite(s): Admission to the MBA Program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;534.  Project Management.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Teaches the fundamental principles of project management (including an introduction to Agile Techniques) for business related projects in the areas of general business, supply chain and operations management, and information systems. Course Information: Credit is not given for <a href="/search/?P=IDS%20534" title="IDS&#160;534" class="bubblelink code" onclick="return showCourse(this, 'IDS 534');">IDS&#160;534</a> if the student has credit in <a href="/search/?P=IDS%20512" title="IDS&#160;512" class="bubblelink code" onclick="return showCourse(this, 'IDS 512');">IDS&#160;512</a> or <a href="/search/?P=MBA%20590" title="MBA&#160;590" class="bubblelink code" onclick="return showCourse(this, 'MBA 590');">MBA&#160;590</a>. Meets eight weeks of the semester. Recommended background: Coursework or experience related to project management.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;535.  Vendor Management.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Covers fundamentals of vendor management, including procurement process, vendor selection, contracts, relationship management, and governance. Course Information: Meets eight weeks of the semester. Recommended Background: Coursework like <a href="/search/?P=IDS%20534" title="IDS&#160;534" class="bubblelink code" onclick="return showCourse(this, 'IDS 534');">IDS&#160;534</a> (Project Management) or experience related to project management. Credit is not given in <a href="/search/?P=IDS%20535" title="IDS&#160;535" class="bubblelink code" onclick="return showCourse(this, 'IDS 535');">IDS&#160;535</a> if the student already has credit in <a href="/search/?P=MBA%20590" title="MBA&#160;590" class="bubblelink code" onclick="return showCourse(this, 'MBA 590');">MBA&#160;590</a>. Graduation credit is not given to students enrolled in Business Administration.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;540.  Marketing Analytics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces concepts, data analysis techniques and software tools for making key marketing decisions including segmentation, targeting, positioning, forecasting, new product design and resource allocation. Course Information: Same as <a href="/search/?P=MKTG%20562" title="MKTG&#160;562" class="bubblelink code" onclick="return showCourse(this, 'MKTG 562');">MKTG&#160;562</a>. Extensive computer use required. Prerequisite(s): <a href="/search/?P=MKTG%20500" title="MKTG&#160;500" class="bubblelink code" onclick="return showCourse(this, 'MKTG 500');">MKTG&#160;500</a> or <a href="/search/?P=MKTG%20360" title="MKTG&#160;360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG&#160;360</a>; or consent of the instructor. Recommended background: <a href="/search/?P=MKTG%20563" title="MKTG&#160;563" class="bubblelink code" onclick="return showCourse(this, 'MKTG 563');">MKTG&#160;563</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;541.  Disaster Response and Recovery Operations.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Designed to provide the student with the requisite skils to create effective operations, preparedness, and response plans to manage and coordinate private, institutional, and public health emergencies and complex disasters. Course Information: Extensive computer use required. No graduation credit given to students enrolled in the Master of Business Administration program. Students who are not in the EMCP program should contact External Education at emcp@uic.edu for approval to register for this course.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;542.  Global Innovation Management.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Provides the student with a survey and case studies of successful innovations, their components, strategies and financial structure. Course Information: Same as <a href="/search/?P=MGMT%20582" title="MGMT&#160;582" class="bubblelink code" onclick="return showCourse(this, 'MGMT 582');">MGMT&#160;582</a>. Prerequisite(s): Graduate or professional standing; and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;544.  Global Sourcing and Logistics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Covers international logistics, with an emphasis on import/export.  Covers international trade theory, international transportation, distribution, business infrastructure and operations. Course Information:  Prerequisite(s): <a href="/search/?P=IDS%20532" title="IDS&#160;532" class="bubblelink code" onclick="return showCourse(this, 'IDS 532');">IDS&#160;532</a> or an equivalent course. Recommended Background: Coursework or experience in operations management.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;551.  Operations Management in the Service Sector.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Service strategy and design, managing capacity, waiting lines, quality, and revenue in service oriented businesses and online service platforms. Course Information: Extensive computer use required. Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=IDS%20532" title="IDS&#160;532" class="bubblelink code" onclick="return showCourse(this, 'IDS 532');">IDS&#160;532</a> or the consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;552.  Supply Chain Management.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The management of supply chains ranging from their design to operating strategies. Topics include forecasting; sourcing, inventory, and network design models; and logistics and transportation systems. Forecasting and planning tools will be covered. Course Information: Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=IDS%20532" title="IDS&#160;532" class="bubblelink code" onclick="return showCourse(this, 'IDS 532');">IDS&#160;532</a> or the consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;553.  Supply Chain Analytics and Decision Models.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Covers analytics and modeling concepts in logistics and supply chain operations, warehousing and distribution, and  transportation. Students are presented with terminology, methods, tools, and case studies to facilitate learning and hands-on training. Course Information: Prerequisite(s): Prerequisite(s):
+<a href="/search/?P=IDS%20532" title="IDS&#160;532" class="bubblelink code" onclick="return showCourse(this, 'IDS 532');">IDS&#160;532</a> and <a href="/search/?P=IDS%20509" title="IDS&#160;509" class="bubblelink code" onclick="return showCourse(this, 'IDS 509');">IDS&#160;509</a> or consent of instructor. Corequisites: <a href="/search/?P=IDS%20509" title="IDS&#160;509" class="bubblelink code" onclick="return showCourse(this, 'IDS 509');">IDS&#160;509</a> can be taken concurrently with consent instructor. Students can take elective courses in the MS in Supply Chain and Operations Management program concurrently with consent of program advisor. Recommended background:
+Prior coursework/experience in operations management. Familiarity with MS Excel.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;555.  Applied Supply Chain Strategy and Practice.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Utilizes projects and case studies to synthesize knowledge acquired across the program and learn how to apply learned concepts and skills to practical problems. Addresses operations and supply chain related issues. Course Information: No graduation credit given for <a href="/search/?P=IDS%20555" title="IDS&#160;555" class="bubblelink code" onclick="return showCourse(this, 'IDS 555');">IDS&#160;555</a> to students enrolled in Business Administration. Prerequisite(s): <a href="/search/?P=IDS%20532" title="IDS&#160;532" class="bubblelink code" onclick="return showCourse(this, 'IDS 532');">IDS&#160;532</a> and <a href="/search/?P=IDS%20552" title="IDS&#160;552" class="bubblelink code" onclick="return showCourse(this, 'IDS 552');">IDS&#160;552</a>; completion of at least 3 Master of Science in Supply Chain and Operations Management electives courses or consent of program adviser. Recommended Background: Coursework or experience related to operations and supply chain management.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;558.  Revenue Management.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Uses mathematical models and analytics to solve for profit-maximizing business strategies for companies. Topics covered include price optimization, price differentiation, market segmentation, capacity allocation, and network management. Course Information: Recommended Background: Coursework in probability. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;560.  Analytics Strategy and Practice.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Projects and case studies on how to apply analytic skills developed in the MS Business Analytics curriculum to practical problems. Analytics related issues in the context of organizational strategy. Course Information: Prerequisite(s): Completion of all three MS in Business Analytics core courses. Or completion of at least two of the MS in Business Analytics core courses and concurrent registration in the third core course.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;561.  Analytics for Big Data.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Fundamental concepts of distributed algorithms to analyze large-scale data in various domains; data mining on large data (Mahout, Hadoop) and applications; data storage, query and business intelligence with distributed databases (Hive). Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=IDS%20572" title="IDS&#160;572" class="bubblelink code" onclick="return showCourse(this, 'IDS 572');">IDS&#160;572</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;564.  Social Media and Network Analysis.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Analytic approaches to help organizations utilize massive social media data for making informed business decisions; sentiment identification; social network analysis; customer behavior analysis, social advertising using machine learning methods. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=IDS%20572" title="IDS&#160;572" class="bubblelink code" onclick="return showCourse(this, 'IDS 572');">IDS&#160;572</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;566.  Advanced Text Analytics for Business.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Techniques for mining and analyses of textual information. Natural language processing and machine learning approaches for sentiment and opinion analyses, topics extraction, document clustering, and their application for business decisions. Course Information: Extensive computer use required. Meets eight weeks of the semester. Prerequisite(s): <a href="/search/?P=IDS%20572" title="IDS&#160;572" class="bubblelink code" onclick="return showCourse(this, 'IDS 572');">IDS&#160;572</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;567.  Business Data Visualization.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to principles of data visualization for business and the optimal presentation of analytics results. Course Information: Extensive computer use required. Meets eight weeks of the semester.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;570.  Statistics for Management.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of statistical methods with applications for business and management. Course Information: Prerequisite(s): Admission to any business graduate program or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;571.  Statistical Quality Control and Assurance.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The importance of quality in products and services, quality surveillance, Deming's management method, Ishikawa's seven tools, control charts, acceptance sampling, quality improvement using directed experiments. Course Information: Same as <a href="/search/?P=IE%20571" title="IE&#160;571" class="bubblelink code" onclick="return showCourse(this, 'IE 571');">IE&#160;571</a>. Prerequisite(s): At least one term of statistics.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;572.  Data Mining for Business.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Machine learning, statistics in data mining for business insights. Prediction, classification, trees, random forests, boosting, clustering, regularization, SVM, recommender systems, neural nets, text mining. Application to varied business contexts. Course Information: Credit is not given for <a href="/search/?P=IDS%20572" title="IDS&#160;572" class="bubblelink code" onclick="return showCourse(this, 'IDS 572');">IDS&#160;572</a> if the student has credit for <a href="/search/?P=IDS%20472" title="IDS&#160;472" class="bubblelink code" onclick="return showCourse(this, 'IDS 472');">IDS&#160;472</a>. Recommended background: Backgound knowledge in statistics and databases.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;573.  Risk Management.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to risk management. Risk measurements and reserves; banking and insurance capital requirements, the BASEL accord, tail events, catastrophic event insurance, reinsurance. Financial contracts and hedging.  Course Information:  Same as <a href="/search/?P=FIN%20573" title="FIN&#160;573" class="bubblelink code" onclick="return showCourse(this, 'FIN 573');">FIN&#160;573</a>.  Prerequisite(s):  Credit or concurrent registration in <a href="/search/?P=IDS%20570" title="IDS&#160;570" class="bubblelink code" onclick="return showCourse(this, 'IDS 570');">IDS&#160;570</a> and <a href="/search/?P=FIN%20500" title="FIN&#160;500" class="bubblelink code" onclick="return showCourse(this, 'FIN 500');">FIN&#160;500</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;575.  Machine Learning and Statistical Methods for Business Analytics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Generalized Linear Models; Maximum Likelihood and Expectation Maximization; Sampling; Factor Analysis; Support Vector Machines; Random Forests; Boosting; Time Series Analysis; Sampling and Optimization. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=IDS%20570" title="IDS&#160;570" class="bubblelink code" onclick="return showCourse(this, 'IDS 570');">IDS&#160;570</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;576.  Deep Learning and Modern Applications.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced machine learning techniques and business applications; backprop; convolutional and recurrent neural networks; embedding and representation learning. variational autoencoders; generative adversarial network; deep reinforcement learning. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=IDS%20572" title="IDS&#160;572" class="bubblelink code" onclick="return showCourse(this, 'IDS 572');">IDS&#160;572</a> and familiarity with programming in Python.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;577.  Research Methodology I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Use of statistics and computers in research. Data collection and organization, survey sampling, questionnaire design, experimental design. Course Information: Prerequisite(s): <a href="/search/?P=IDS%20532" title="IDS&#160;532" class="bubblelink code" onclick="return showCourse(this, 'IDS 532');">IDS&#160;532</a> or the equivalent and admission to the Ph.D. program in Business Administration.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;578.  Research Methodology II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Data analysis, including estimation, hypotheses testing, non-parametric methods, analysis of variance, regression analysis, economic forecasting, and time series. Course Information: Prerequisite(s): <a href="/search/?P=IDS%20577" title="IDS&#160;577" class="bubblelink code" onclick="return showCourse(this, 'IDS 577');">IDS&#160;577</a> or the equivalent.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;582.  Time Series Econometrics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The role of research in business; forecasting methods and techniques, including models and their applications. Course Information: Same as <a href="/search/?P=ECON%20537" title="ECON&#160;537" class="bubblelink code" onclick="return showCourse(this, 'ECON 537');">ECON&#160;537</a>. Prerequisite(s): <a href="/search/?P=ECON%20534" title="ECON&#160;534" class="bubblelink code" onclick="return showCourse(this, 'ECON 534');">ECON&#160;534</a> and at least one statistics course with regression analysis at the 300-level or above.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;583.  Business Research and Forecasting II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The role of research in business; forecasting methods and techniques, including multivariate time series models and their applications. Course Information: Same as <a href="/search/?P=ECON%20538" title="ECON&#160;538" class="bubblelink code" onclick="return showCourse(this, 'ECON 538');">ECON&#160;538</a>. Prerequisite(s): <a href="/search/?P=ECON%20537" title="ECON&#160;537" class="bubblelink code" onclick="return showCourse(this, 'ECON 537');">ECON&#160;537</a> or <a href="/search/?P=IDS%20582" title="IDS&#160;582" class="bubblelink code" onclick="return showCourse(this, 'IDS 582');">IDS&#160;582</a>; and graduate standing.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;589.  MIS Co-operative Experience.  0-4 hours.</strong></p>
+<p class="courseblockdesc">
+Provides an opportunity for students to apply their learning in a practical real-world setting. Students can work on a MIS project in a business or a non-profit organizational setting. Involves interaction with the industry and professionals. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): Graduate or professional standing and approval of the department; at least two core courses in the MIS program and simultaneous registration in the third core course.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;594.  Special Topics in Information and Decision Sciences.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Intensive study of a selected topic. Content varies. Topics are announced. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;595.  Seminar in Information and Decision Sciences.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Topics vary from term to term depending on the interests of the instructor. May be taken for up to four credit hours depending on the outline of the seminar as determined by the instructor.  Course Information:  Satisfactory/Unsatisfactory grading only.  May be repeated to a maximum of 8 hours.  Students may register for more than one section per term.  Prerequisite(s):  Admission to the PhD program in Business Administration or the PhD program in Management Information Systems.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;596.  Independent Study in Information and Decision Sciences.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Independent study under the direction of a faculty member. Course Information: May be repeated. Students may register in more than one section per term. Prerequisite(s): Graduate standing and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IDS&#160;599.  Ph.D. Thesis Research.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Research on topic of the doctoral dissertation. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="ids.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

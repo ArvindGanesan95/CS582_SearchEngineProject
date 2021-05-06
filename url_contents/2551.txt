@@ -1,0 +1,912 @@
+https://catalog.uic.edu/ucat/colleges-depts/liberal-arts-sciences/engl/ba-engl/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>BA with a Major in English &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/liberal-arts-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/">Anthropology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/">Biochemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/">Biological Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/">Black Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/">Chemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/">Classics and Mediterranean Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/">Communication</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/">Criminology, Law, and Justice</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/">Earth and Environmental Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/">Economics</a></li>
+				<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/">English</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/liberal-arts-sciences/engl/">
+					<li class="active self"><a href="#" onclick="return false;">BA with a Major in English</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/ba-teachengl/">BA in the Teaching of English</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/minor-engl/">Minor in English</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/minor-prof-writing/">Minor in Professional Writing</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/minor-teach-engl/">Minor in the Teaching of English</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French and Francophone Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/">Gender and Women's Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/">Germanic Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/">Global Asian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/">Hispanic and Italian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/">History</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/">Integrated Health Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/">International Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/">Liberal Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/">Linguistics</a></li>
+				<li><a href="/ucat/colleges-depts/liberal-arts-sciences/lcsl/">Literatures, Cultural Studies, and Linguistics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/">Mathematics, Statistics, and Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/">Moving Image Arts</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/">Neuroscience</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/">Philosophy</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/">Physics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/">Polish, Russian, and Lithuanian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/">Political Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/">Psychology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/">Religious Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/">Sociology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional Studies</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/">College&nbsp;of&nbsp;Liberal&nbsp;Arts&nbsp;and&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/">English</a><span class="crumbsep">/</span></li><li><span class="active">BA with a Major in English</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">BA with a Major in English</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+<p class="program_codes"><span class="label"><strong>Program Codes:</strong> </span><br />20FT0311BA<br /></p>	</div>
+</div>
+
+<h2>Degree Requirements</h2>
+<p>To earn a Bachelor of Arts in Liberal Arts and Sciences degree from UIC, students must complete university, college, and department degree requirements. The Department of English degree requirements are outlined below. Students should consult the <a href="/ucat/colleges-depts/liberal-arts-sciences/"><em>College of Liberal Arts and Sciences</em></a> section for additional degree requirements and college academic policies. Students are encouraged to seek advising each semester from the English major advisor in LAS.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Summary of Requirements</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Core Requirements</span></td><td class="hourscol">12</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Selected Concentration Requirements</span></td><td class="hourscol">9-15</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">English Electives</span></td><td class="hourscol">15</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">General Education and Electives to reach minimum Total Hours</span></td><td class="hourscol">78-84</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">120</td></tr></tbody>
+</table>
+
+<h3>General Education</h3>
+<p>See <em>General Education and Writing-in-the-Discipline</em> in the <a href="/ucat/colleges-depts/liberal-arts-sciences/"><em>College of Liberal Arts and Sciences</em></a> section for information on meeting these requirements.</p>
+<h3>Core Requirements</h3>
+<p>All English majors must complete the following courses with a grade of C or better.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a></td><td>Introduction to Literary Study and Critical Methods <sup>a</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a></td><td>English Literature I: Beginnings to 1660</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a></td><td>English Literature II: 1660 to 1900</td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td class="codecol"><a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a></td><td>American Literature: Beginnings to 1900</td><td class="hourscol">3</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">12</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><span class="sc_courseinline"><a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a></span><em> fulfills the Writing-in-the-Discipline requirement.</em></p></td></tr></table>
+<h3>Upper-Level Courses</h3>
+<p>Students must take at least two courses at the 300-level or above.</p>
+<h3>Courses from Other Departments</h3>
+<p>Students may count one course from another department toward the English major. Upper-level courses in other departments may require prerequisites. For approved courses, see those listed in the concentrations.</p>
+<h3>Selected Concentration Requirements</h3>
+<p>Within the English major, students must select and complete one of the following concentrations:</p>
+<ol>
+	<li>British, American, and World Anglophone Literature</li>
+	<li>Media, Rhetorical, and Cultural Studies</li>
+	<li>Creative Writing (Fiction, Poetry, or Nonfiction)</li>
+	<li>Professional Writing</li>
+</ol>
+<p>A concentration consists of three or more courses, no more than one of which may be taken at the 100-level and one of which must be taken at the 400-level. For the creative writing concentration, two of the courses must be at the 400-level.</p>
+<p>Below are the courses that qualify for each concentration. Note that for the Creative Writing and Professional Writing concentrations, the required course sequence has been specified. Any course not listed under a concentration may only count as an elective. In certain cases, students may petition the Office of Undergraduate Studies to have courses counted toward a concentration or toward one other than those indicated below. For more information, see the catalog <a href="/ucat/course-descriptions/"><em>Course Descriptions</em></a> or the <a href="http://engl.uic.edu" target="_blank">Department of English website</a>.</p>
+<p>Select three courses from one of the following concentrations for a total of 9 hours.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">British, American, and World Anglophone Literature</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select three of the following:</span> <sup>a</sup></td><td class="hourscol">9</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20103" title="ENGL 103" class="bubblelink code" onclick="return showCourse(this, 'ENGL 103');">ENGL 103</a></div></td><td>English and American Poetry</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20104" title="ENGL 104" class="bubblelink code" onclick="return showCourse(this, 'ENGL 104');">ENGL 104</a></div></td><td>English and American Drama</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20105" title="ENGL 105" class="bubblelink code" onclick="return showCourse(this, 'ENGL 105');">ENGL 105</a></div></td><td>English and American Fiction</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20107" title="ENGL 107" class="bubblelink code" onclick="return showCourse(this, 'ENGL 107');">ENGL 107</a></div></td><td>Introduction to Shakespeare</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20108" title="ENGL 108" class="bubblelink code" onclick="return showCourse(this, 'ENGL 108');">ENGL 108</a></div></td><td>British Literature and British Culture</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20109" title="ENGL 109" class="bubblelink code" onclick="return showCourse(this, 'ENGL 109');">ENGL 109</a></div></td><td>American Literature and American Culture</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20112" title="ENGL 112" class="bubblelink code" onclick="return showCourse(this, 'ENGL 112');">ENGL 112</a></div></td><td>Introduction to Native American Literatures</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20113" title="ENGL 113" class="bubblelink code" onclick="return showCourse(this, 'ENGL 113');">ENGL 113</a></div></td><td>Introduction to Multiethnic Literatures in the United States</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20114" title="ENGL 114" class="bubblelink code" onclick="return showCourse(this, 'ENGL 114');">ENGL 114</a></div></td><td>Introduction to Colonial and Postcolonial Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20118" title="ENGL 118" class="bubblelink code" onclick="return showCourse(this, 'ENGL 118');">ENGL 118</a></div></td><td>Introduction to African American Literature, 1760-1910</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20119" title="ENGL 119" class="bubblelink code" onclick="return showCourse(this, 'ENGL 119');">ENGL 119</a></div></td><td>Introduction to African American Literature Since 1910</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20123" title="ENGL 123" class="bubblelink code" onclick="return showCourse(this, 'ENGL 123');">ENGL 123</a></div></td><td>Introduction to Asian American Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20125" title="ENGL 125" class="bubblelink code" onclick="return showCourse(this, 'ENGL 125');">ENGL 125</a></div></td><td>Introduction to U.S. Latinx Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20260" title="ENGL 260" class="bubblelink code" onclick="return showCourse(this, 'ENGL 260');">ENGL 260</a></div></td><td>Comparative Black Literatures</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20261" title="ENGL 261" class="bubblelink code" onclick="return showCourse(this, 'ENGL 261');">ENGL 261</a></div></td><td>Reading Black Women Writing</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20262" title="ENGL 262" class="bubblelink code" onclick="return showCourse(this, 'ENGL 262');">ENGL 262</a></div></td><td>Black Cultural Studies</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20265" title="ENGL 265" class="bubblelink code" onclick="return showCourse(this, 'ENGL 265');">ENGL 265</a></div></td><td>The Harlem Renaissance</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20303" title="ENGL 303" class="bubblelink code" onclick="return showCourse(this, 'ENGL 303');">ENGL 303</a></div></td><td>Studies in Poetry</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20304" title="ENGL 304" class="bubblelink code" onclick="return showCourse(this, 'ENGL 304');">ENGL 304</a></div></td><td>Studies in Drama</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20305" title="ENGL 305" class="bubblelink code" onclick="return showCourse(this, 'ENGL 305');">ENGL 305</a></div></td><td>Studies in Fiction</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20311" title="ENGL 311" class="bubblelink code" onclick="return showCourse(this, 'ENGL 311');">ENGL 311</a></div></td><td>Medieval English Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20312" title="ENGL 312" class="bubblelink code" onclick="return showCourse(this, 'ENGL 312');">ENGL 312</a></div></td><td>Sixteenth and Seventeenth Century Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20313" title="ENGL 313" class="bubblelink code" onclick="return showCourse(this, 'ENGL 313');">ENGL 313</a></div></td><td>Major Plays of Shakespeare</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20314" title="ENGL 314" class="bubblelink code" onclick="return showCourse(this, 'ENGL 314');">ENGL 314</a></div></td><td>Milton</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20315" title="ENGL 315" class="bubblelink code" onclick="return showCourse(this, 'ENGL 315');">ENGL 315</a></div></td><td>Restoration and Eighteenth Century Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20316" title="ENGL 316" class="bubblelink code" onclick="return showCourse(this, 'ENGL 316');">ENGL 316</a></div></td><td>British Romantic Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20317" title="ENGL 317" class="bubblelink code" onclick="return showCourse(this, 'ENGL 317');">ENGL 317</a></div></td><td>Victorian Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20318" title="ENGL 318" class="bubblelink code" onclick="return showCourse(this, 'ENGL 318');">ENGL 318</a></div></td><td>Modern British Literature: 1900-1945</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20319" title="ENGL 319" class="bubblelink code" onclick="return showCourse(this, 'ENGL 319');">ENGL 319</a></div></td><td>Post-War British Literature: 1945-1980</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20320" title="ENGL 320" class="bubblelink code" onclick="return showCourse(this, 'ENGL 320');">ENGL 320</a></div></td><td>British Literature: 1980-Present</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20321" title="ENGL 321" class="bubblelink code" onclick="return showCourse(this, 'ENGL 321');">ENGL 321</a></div></td><td>Early American Literature: 1630 to 1790</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20323" title="ENGL 323" class="bubblelink code" onclick="return showCourse(this, 'ENGL 323');">ENGL 323</a></div></td><td>American Literature: 1790 to 1865</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20324" title="ENGL 324" class="bubblelink code" onclick="return showCourse(this, 'ENGL 324');">ENGL 324</a></div></td><td>American Literature: 1865-1900</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20325" title="ENGL 325" class="bubblelink code" onclick="return showCourse(this, 'ENGL 325');">ENGL 325</a></div></td><td>Modern American Literature:  1900-1945</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20326" title="ENGL 326" class="bubblelink code" onclick="return showCourse(this, 'ENGL 326');">ENGL 326</a></div></td><td>Post-War American Literature: 1945-1980</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20327" title="ENGL 327" class="bubblelink code" onclick="return showCourse(this, 'ENGL 327');">ENGL 327</a></div></td><td>Contemporary American Literature: 1980-Present</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20328" title="ENGL 328" class="bubblelink code" onclick="return showCourse(this, 'ENGL 328');">ENGL 328</a></div></td><td>Asian American Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20333" title="ENGL 333" class="bubblelink code" onclick="return showCourse(this, 'ENGL 333');">ENGL 333</a></div></td><td>Literatures in English Other than English and American</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20351" title="ENGL 351" class="bubblelink code" onclick="return showCourse(this, 'ENGL 351');">ENGL 351</a></div></td><td>Topics in Black Art and Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20353" title="ENGL 353" class="bubblelink code" onclick="return showCourse(this, 'ENGL 353');">ENGL 353</a></div></td><td>Latinx Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20358" title="ENGL 358" class="bubblelink code" onclick="return showCourse(this, 'ENGL 358');">ENGL 358</a></div></td><td>Colonial and Postcolonial Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20359" title="ENGL 359" class="bubblelink code" onclick="return showCourse(this, 'ENGL 359');">ENGL 359</a></div></td><td>Ethnic American Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20405" title="ENGL 405" class="bubblelink code" onclick="return showCourse(this, 'ENGL 405');">ENGL 405</a></div></td><td>Topics in Old English Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20408" title="ENGL 408" class="bubblelink code" onclick="return showCourse(this, 'ENGL 408');">ENGL 408</a></div></td><td>Topics in Medieval Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20413" title="ENGL 413" class="bubblelink code" onclick="return showCourse(this, 'ENGL 413');">ENGL 413</a></div></td><td>Topics in Shakespeare</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20416" title="ENGL 416" class="bubblelink code" onclick="return showCourse(this, 'ENGL 416');">ENGL 416</a></div></td><td>Topics in Renaissance Literature and Culture</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20417" title="ENGL 417" class="bubblelink code" onclick="return showCourse(this, 'ENGL 417');">ENGL 417</a></div></td><td>Topics in Restoration and Eighteenth-century Literature and Culture</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20419" title="ENGL 419" class="bubblelink code" onclick="return showCourse(this, 'ENGL 419');">ENGL 419</a></div></td><td>Topics in Romantic Literature and Culture</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20421" title="ENGL 421" class="bubblelink code" onclick="return showCourse(this, 'ENGL 421');">ENGL 421</a></div></td><td>Topics in Victorian Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20422" title="ENGL 422" class="bubblelink code" onclick="return showCourse(this, 'ENGL 422');">ENGL 422</a></div></td><td>Topics in Postcolonial and World Literature in English</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20426" title="ENGL 426" class="bubblelink code" onclick="return showCourse(this, 'ENGL 426');">ENGL 426</a></div></td><td>Topics in American Literature and Culture to 1900</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20427" title="ENGL 427" class="bubblelink code" onclick="return showCourse(this, 'ENGL 427');">ENGL 427</a></div></td><td>Topics in American Literature and Culture, 1900-Present</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20441" title="ENGL 441" class="bubblelink code" onclick="return showCourse(this, 'ENGL 441');">ENGL 441</a></div></td><td>Topics in Asian American Literature and Culture</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20442" title="ENGL 442" class="bubblelink code" onclick="return showCourse(this, 'ENGL 442');">ENGL 442</a></div></td><td>Topics in Latinx Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20462" title="ENGL 462" class="bubblelink code" onclick="return showCourse(this, 'ENGL 462');">ENGL 462</a></div></td><td>Topics in American Literary Nonfiction Prose</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20470" title="ENGL 470" class="bubblelink code" onclick="return showCourse(this, 'ENGL 470');">ENGL 470</a></div></td><td>Topics in Multiethnic Literatures in the United States</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20473" title="ENGL 473" class="bubblelink code" onclick="return showCourse(this, 'ENGL 473');">ENGL 473</a></div></td><td>Topics in Black Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Courses from other departments that count toward this concentration:</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CL%20208" title="CL 208" class="bubblelink code" onclick="return showCourse(this, 'CL 208');">CL 208</a></div></td><td>Greek Mythology</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CL%20250" title="CL 250" class="bubblelink code" onclick="return showCourse(this, 'CL 250');">CL 250</a></div></td><td>Greek and Roman Epic Poetry</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CL%20251" title="CL 251" class="bubblelink code" onclick="return showCourse(this, 'CL 251');">CL 251</a></div></td><td>Greek Tragedy</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CL%20252" title="CL 252" class="bubblelink code" onclick="return showCourse(this, 'CL 252');">CL 252</a></div></td><td>Greek and Roman Comedy</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CL%20253" title="CL 253" class="bubblelink code" onclick="return showCourse(this, 'CL 253');">CL 253</a></div></td><td>Roman Satire and Rhetoric</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20191" title="FR 191" class="bubblelink code" onclick="return showCourse(this, 'FR 191');">FR 191</a></div></td><td>African and Caribbean Francophone Literature in Translation</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GER%20122" title="GER 122" class="bubblelink code" onclick="return showCourse(this, 'GER 122');">GER 122</a></div></td><td>Minority Perspectives in the Germanic Context</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GER%20123" title="GER 123" class="bubblelink code" onclick="return showCourse(this, 'GER 123');">GER 123</a></div></td><td>Introduction to Yiddish Culture and Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GER%20316" title="GER 316" class="bubblelink code" onclick="return showCourse(this, 'GER 316');">GER 316</a></div></td><td>Periods of Germanic Literature and Culture</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GER%20422" title="GER 422" class="bubblelink code" onclick="return showCourse(this, 'GER 422');">GER 422</a></div></td><td>Germanic Cultural Studies III: Themes</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GER%20438" title="GER 438" class="bubblelink code" onclick="return showCourse(this, 'GER 438');">GER 438</a></div></td><td>The Faust Legend</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=JST%20116" title="JST 116" class="bubblelink code" onclick="return showCourse(this, 'JST 116');">JST 116</a></div></td><td>Jewish American Literature of the 20th Century</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LALS%20192" title="LALS 192" class="bubblelink code" onclick="return showCourse(this, 'LALS 192');">LALS 192</a></div></td><td>Latin American Women Writers in Translation</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LALS%20295" title="LALS 295" class="bubblelink code" onclick="return showCourse(this, 'LALS 295');">LALS 295</a></div></td><td>Latino Literary Studies</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LALS%20427" title="LALS 427" class="bubblelink code" onclick="return showCourse(this, 'LALS 427');">LALS 427</a></div></td><td>Studies in Language Policy and Cultural Identity</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=POL%20321" title="POL 321" class="bubblelink code" onclick="return showCourse(this, 'POL 321');">POL 321</a></div></td><td>Introduction to Polish Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=RUSS%20241" title="RUSS 241" class="bubblelink code" onclick="return showCourse(this, 'RUSS 241');">RUSS 241</a></div></td><td>Dostoyevsky</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=RUSS%20242" title="RUSS 242" class="bubblelink code" onclick="return showCourse(this, 'RUSS 242');">RUSS 242</a></div></td><td>Tolstoy</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=RUSS%20321" title="RUSS 321" class="bubblelink code" onclick="return showCourse(this, 'RUSS 321');">RUSS 321</a></div></td><td>Great Russian 19th-Century Novels and the European Tradition</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=SPAN%20224" title="SPAN 224" class="bubblelink code" onclick="return showCourse(this, 'SPAN 224');">SPAN 224</a></div></td><td>Bilingual/Bicultural Hispanic American Writers</td><td class="hourscol"></td></tr>
+<tr class="even lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=SPAN%20226" title="SPAN 226" class="bubblelink code" onclick="return showCourse(this, 'SPAN 226');">SPAN 226</a></div></td><td>Early Modern Spanish and Colonial Latin American Literature and Culture in Translation</td><td class="hourscol"></td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">9</td></tr></tbody>
+</table>
+
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Media, Rhetorical, and Cultural Studies</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select three of the following:</span> <sup>a</sup></td><td class="hourscol">9</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20102" title="ENGL 102" class="bubblelink code" onclick="return showCourse(this, 'ENGL 102');">ENGL 102</a></div></td><td>Introduction to Film</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20110" title="ENGL 110" class="bubblelink code" onclick="return showCourse(this, 'ENGL 110');">ENGL 110</a></div></td><td>English and American Popular Genres</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20111" title="ENGL 111" class="bubblelink code" onclick="return showCourse(this, 'ENGL 111');">ENGL 111</a></div></td><td>Women and Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20113" title="ENGL 113" class="bubblelink code" onclick="return showCourse(this, 'ENGL 113');">ENGL 113</a></div></td><td>Introduction to Multiethnic Literatures in the United States</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20115" title="ENGL 115" class="bubblelink code" onclick="return showCourse(this, 'ENGL 115');">ENGL 115</a></div></td><td>Understanding the Bible as Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20117" title="ENGL 117" class="bubblelink code" onclick="return showCourse(this, 'ENGL 117');">ENGL 117</a></div></td><td>Introduction to Gender, Sexuality and Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20120" title="ENGL 120" class="bubblelink code" onclick="return showCourse(this, 'ENGL 120');">ENGL 120</a></div></td><td>Film and Culture</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20121" title="ENGL 121" class="bubblelink code" onclick="return showCourse(this, 'ENGL 121');">ENGL 121</a></div></td><td>Introduction to Moving Image Arts</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20122" title="ENGL 122" class="bubblelink code" onclick="return showCourse(this, 'ENGL 122');">ENGL 122</a></div></td><td>Understanding Rhetoric</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20200" title="ENGL 200" class="bubblelink code" onclick="return showCourse(this, 'ENGL 200');">ENGL 200</a></div></td><td>English Grammar and Style</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20232" title="ENGL 232" class="bubblelink code" onclick="return showCourse(this, 'ENGL 232');">ENGL 232</a></div></td><td>History of Film I: 1890 to World War II</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20233" title="ENGL 233" class="bubblelink code" onclick="return showCourse(this, 'ENGL 233');">ENGL 233</a></div></td><td>History of Film II: World War II to the Present</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20234" title="ENGL 234" class="bubblelink code" onclick="return showCourse(this, 'ENGL 234');">ENGL 234</a></div></td><td>History of Television</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20262" title="ENGL 262" class="bubblelink code" onclick="return showCourse(this, 'ENGL 262');">ENGL 262</a></div></td><td>Black Cultural Studies</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20265" title="ENGL 265" class="bubblelink code" onclick="return showCourse(this, 'ENGL 265');">ENGL 265</a></div></td><td>The Harlem Renaissance</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20302" title="ENGL 302" class="bubblelink code" onclick="return showCourse(this, 'ENGL 302');">ENGL 302</a></div></td><td>Studies in the Moving Image</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20341" title="ENGL 341" class="bubblelink code" onclick="return showCourse(this, 'ENGL 341');">ENGL 341</a></div></td><td>Literature and Popular Culture</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20342" title="ENGL 342" class="bubblelink code" onclick="return showCourse(this, 'ENGL 342');">ENGL 342</a></div></td><td>Cultural and Media Studies</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20343" title="ENGL 343" class="bubblelink code" onclick="return showCourse(this, 'ENGL 343');">ENGL 343</a></div></td><td>Literature and Religion</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20351" title="ENGL 351" class="bubblelink code" onclick="return showCourse(this, 'ENGL 351');">ENGL 351</a></div></td><td>Topics in Black Art and Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20361" title="ENGL 361" class="bubblelink code" onclick="return showCourse(this, 'ENGL 361');">ENGL 361</a></div></td><td>Gender Theory</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20362" title="ENGL 362" class="bubblelink code" onclick="return showCourse(this, 'ENGL 362');">ENGL 362</a></div></td><td>Queer Theory</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20363" title="ENGL 363" class="bubblelink code" onclick="return showCourse(this, 'ENGL 363');">ENGL 363</a></div></td><td>Gender and Sexuality in Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20364" title="ENGL 364" class="bubblelink code" onclick="return showCourse(this, 'ENGL 364');">ENGL 364</a></div></td><td>Disability Studies</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20370" title="ENGL 370" class="bubblelink code" onclick="return showCourse(this, 'ENGL 370');">ENGL 370</a></div></td><td>Literary Theory</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20372" title="ENGL 372" class="bubblelink code" onclick="return showCourse(this, 'ENGL 372');">ENGL 372</a></div></td><td>History of Literary Criticism</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20374" title="ENGL 374" class="bubblelink code" onclick="return showCourse(this, 'ENGL 374');">ENGL 374</a></div></td><td>Rhetorical Studies</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20375" title="ENGL 375" class="bubblelink code" onclick="return showCourse(this, 'ENGL 375');">ENGL 375</a></div></td><td>Rhetoric and Public LIfe</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20400" title="ENGL 400" class="bubblelink code" onclick="return showCourse(this, 'ENGL 400');">ENGL 400</a></div></td><td>History of the English Language</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20402" title="ENGL 402" class="bubblelink code" onclick="return showCourse(this, 'ENGL 402');">ENGL 402</a></div></td><td>Rhetoric</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20428" title="ENGL 428" class="bubblelink code" onclick="return showCourse(this, 'ENGL 428');">ENGL 428</a></div></td><td>Topics in Literature and Culture, 1900-Present</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20429" title="ENGL 429" class="bubblelink code" onclick="return showCourse(this, 'ENGL 429');">ENGL 429</a></div></td><td>Topics in Literature and Culture</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20438" title="ENGL 438" class="bubblelink code" onclick="return showCourse(this, 'ENGL 438');">ENGL 438</a></div></td><td>Topics in Performance Studies</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20440" title="ENGL 440" class="bubblelink code" onclick="return showCourse(this, 'ENGL 440');">ENGL 440</a></div></td><td>Topics in Cultural and Media Studies</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20443" title="ENGL 443" class="bubblelink code" onclick="return showCourse(this, 'ENGL 443');">ENGL 443</a></div></td><td>Topics in Gender, Sexuality and Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20444" title="ENGL 444" class="bubblelink code" onclick="return showCourse(this, 'ENGL 444');">ENGL 444</a></div></td><td>Topics in Theories of Gender and Sexuality</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20445" title="ENGL 445" class="bubblelink code" onclick="return showCourse(this, 'ENGL 445');">ENGL 445</a></div></td><td>Topics in Disability Studies</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20446" title="ENGL 446" class="bubblelink code" onclick="return showCourse(this, 'ENGL 446');">ENGL 446</a></div></td><td>Topics in Criticism and Theory</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20448" title="ENGL 448" class="bubblelink code" onclick="return showCourse(this, 'ENGL 448');">ENGL 448</a></div></td><td>Topics in Rhetorical Studies</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20469" title="ENGL 469" class="bubblelink code" onclick="return showCourse(this, 'ENGL 469');">ENGL 469</a></div></td><td>Women's Literary Traditions</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20472" title="ENGL 472" class="bubblelink code" onclick="return showCourse(this, 'ENGL 472');">ENGL 472</a></div></td><td>Women and Film</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20474" title="ENGL 474" class="bubblelink code" onclick="return showCourse(this, 'ENGL 474');">ENGL 474</a></div></td><td>Topics in Popular Culture and Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20478" title="ENGL 478" class="bubblelink code" onclick="return showCourse(this, 'ENGL 478');">ENGL 478</a></div></td><td>The Bible as Literature: Hebrew Bible</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20479" title="ENGL 479" class="bubblelink code" onclick="return showCourse(this, 'ENGL 479');">ENGL 479</a></div></td><td>The Bible as Literature: New Testament</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20483" title="ENGL 483" class="bubblelink code" onclick="return showCourse(this, 'ENGL 483');">ENGL 483</a></div></td><td>Studies in Language and Rhetoric</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20485" title="ENGL 485" class="bubblelink code" onclick="return showCourse(this, 'ENGL 485');">ENGL 485</a></div></td><td>Studies in the English Language and Linguistics</td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Courses from other departments that count toward this concentration:</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20196" title="FR 196" class="bubblelink code" onclick="return showCourse(this, 'FR 196');">FR 196</a></div></td><td>Totalitarianism, Writing and Cinema</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20298" title="FR 298" class="bubblelink code" onclick="return showCourse(this, 'FR 298');">FR 298</a></div></td><td>French Literature, Drama and/or Film in Translation</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20440" title="FR 440" class="bubblelink code" onclick="return showCourse(this, 'FR 440');">FR 440</a></div></td><td>Topics in French and Francophone Cinema</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GER%20125" title="GER 125" class="bubblelink code" onclick="return showCourse(this, 'GER 125');">GER 125</a></div></td><td>Diaspora, Exile, Genocide: Aspects of the European Jewish Experience in Literature and Film.</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GER%20217" title="GER 217" class="bubblelink code" onclick="return showCourse(this, 'GER 217');">GER 217</a></div></td><td>Introduction to German Cinema</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GER%20240" title="GER 240" class="bubblelink code" onclick="return showCourse(this, 'GER 240');">GER 240</a></div></td><td>Classical German Thought from Kant to Nietzsche</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GER%20316" title="GER 316" class="bubblelink code" onclick="return showCourse(this, 'GER 316');">GER 316</a></div></td><td>Periods of Germanic Literature and Culture</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GER%20318" title="GER 318" class="bubblelink code" onclick="return showCourse(this, 'GER 318');">GER 318</a></div></td><td>Topics in Germanic Literatures and Cultures</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GER%20437" title="GER 437" class="bubblelink code" onclick="return showCourse(this, 'GER 437');">GER 437</a></div></td><td>Contemporary Germanic Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GLAS%20120" title="GLAS 120" class="bubblelink code" onclick="return showCourse(this, 'GLAS 120');">GLAS 120</a></div></td><td>Introduction to Asian American Studies</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHIL%20220" title="PHIL 220" class="bubblelink code" onclick="return showCourse(this, 'PHIL 220');">PHIL 220</a></div></td><td>Ancient Philosophy I: Plato and His Predecessors</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHIL%20221" title="PHIL 221" class="bubblelink code" onclick="return showCourse(this, 'PHIL 221');">PHIL 221</a></div></td><td>Ancient Philosophy II: Aristotle and His Successors</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHIL%20223" title="PHIL 223" class="bubblelink code" onclick="return showCourse(this, 'PHIL 223');">PHIL 223</a></div></td><td>History of Modern Philosophy I: Descartes and His Successors</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHIL%20224" title="PHIL 224" class="bubblelink code" onclick="return showCourse(this, 'PHIL 224');">PHIL 224</a></div></td><td>History of Modern Philosophy II: Kant and His Predecessors</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHIL%20225" title="PHIL 225" class="bubblelink code" onclick="return showCourse(this, 'PHIL 225');">PHIL 225</a></div></td><td>Nineteenth Century Philosophy</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHIL%20232" title="PHIL 232" class="bubblelink code" onclick="return showCourse(this, 'PHIL 232');">PHIL 232</a></div></td><td>Sex Roles: Moral and Political Issues</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHIL%20241" title="PHIL 241" class="bubblelink code" onclick="return showCourse(this, 'PHIL 241');">PHIL 241</a></div></td><td>Philosophy of Religion</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHIL%20423" title="PHIL 423" class="bubblelink code" onclick="return showCourse(this, 'PHIL 423');">PHIL 423</a></div></td><td>Studies in Early Modern Philosophy</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHIL%20424" title="PHIL 424" class="bubblelink code" onclick="return showCourse(this, 'PHIL 424');">PHIL 424</a></div></td><td>Kant</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHIL%20425" title="PHIL 425" class="bubblelink code" onclick="return showCourse(this, 'PHIL 425');">PHIL 425</a></div></td><td>Studies in Nineteenth-Century Philosophy</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LALS%20275" title="LALS 275" class="bubblelink code" onclick="return showCourse(this, 'LALS 275');">LALS 275</a></div></td><td>Gender in Latin America</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LALS%20278" title="LALS 278" class="bubblelink code" onclick="return showCourse(this, 'LALS 278');">LALS 278</a></div></td><td>Latin American/Latino Film Studies</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LALS%20295" title="LALS 295" class="bubblelink code" onclick="return showCourse(this, 'LALS 295');">LALS 295</a></div></td><td>Latino Literary Studies</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LALS%20350" title="LALS 350" class="bubblelink code" onclick="return showCourse(this, 'LALS 350');">LALS 350</a></div></td><td>Latinos and Latin Americans in U.S. Public Discourse</td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=SPAN%20225" title="SPAN 225" class="bubblelink code" onclick="return showCourse(this, 'SPAN 225');">SPAN 225</a></div></td><td>Spanish and Latin American Culture through Literature and Film</td><td class="hourscol"></td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">9</td></tr></tbody>
+</table>
+
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Creative Writing (Fiction, Poetry, or Nonfiction)</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select three of the following:</span></td><td class="hourscol">9</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Two of the courses must be at the 400-level.</span></td><td class="hourscol"></td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Fiction</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20212" title="ENGL 212" class="bubblelink code" onclick="return showCourse(this, 'ENGL 212');">ENGL 212</a></div></td><td>Introduction to the Writing of Fiction</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20491" title="ENGL 491" class="bubblelink code" onclick="return showCourse(this, 'ENGL 491');">ENGL 491</a></div></td><td>Advanced Writing of Fiction</td><td class="hourscol"></td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Poetry</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20210" title="ENGL 210" class="bubblelink code" onclick="return showCourse(this, 'ENGL 210');">ENGL 210</a></div></td><td>Introduction to the Writing of Poetry</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20490" title="ENGL 490" class="bubblelink code" onclick="return showCourse(this, 'ENGL 490');">ENGL 490</a></div></td><td>Advanced Writing of Poetry</td><td class="hourscol"></td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Nonfiction</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20201" title="ENGL 201" class="bubblelink code" onclick="return showCourse(this, 'ENGL 201');">ENGL 201</a></div></td><td>Introduction to the Writing of Creative Nonfiction</td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20492" title="ENGL 492" class="bubblelink code" onclick="return showCourse(this, 'ENGL 492');">ENGL 492</a></div></td><td>Advanced Writing of Creative Nonfiction</td><td class="hourscol"></td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">9</td></tr></tbody>
+</table>
+
+<p> <strong>Note:</strong> Students may repeat <span class="sc_courseinline"><a href="/search/?P=ENGL%20490" title="ENGL 490" class="bubblelink code" onclick="return showCourse(this, 'ENGL 490');">ENGL 490</a></span>, <span class="sc_courseinline"><a href="/search/?P=ENGL%20491" title="ENGL 491" class="bubblelink code" onclick="return showCourse(this, 'ENGL 491');">ENGL 491</a></span>, or <span class="sc_courseinline"><a href="/search/?P=ENGL%20492" title="ENGL 492" class="bubblelink code" onclick="return showCourse(this, 'ENGL 492');">ENGL 492</a></span> in order to satisfy the nine-credit-hour requirement.</p>
+
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Professional Writing</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ENGL%20202" title="ENGL 202" class="bubblelink code" onclick="return showCourse(this, 'ENGL 202');">ENGL 202</a></td><td>Media and Professional Writing</td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Select two of the following:</span></td><td class="hourscol">6</td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20381" title="ENGL 381" class="bubblelink code" onclick="return showCourse(this, 'ENGL 381');">ENGL 381</a></div></td><td>Advanced Professional Writing</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20382" title="ENGL 382" class="bubblelink code" onclick="return showCourse(this, 'ENGL 382');">ENGL 382</a></div></td><td>Editing and Publishing</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20383" title="ENGL 383" class="bubblelink code" onclick="return showCourse(this, 'ENGL 383');">ENGL 383</a></div></td><td>Writing Digital and New Media</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20384" title="ENGL 384" class="bubblelink code" onclick="return showCourse(this, 'ENGL 384');">ENGL 384</a></div></td><td>Technical Writing</td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select one of the following:</span></td><td class="hourscol">1-6</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20493" title="ENGL 493" class="bubblelink code" onclick="return showCourse(this, 'ENGL 493');">ENGL 493</a></div></td><td>Internship in Nonfiction Writing</td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20496" title="ENGL 496" class="bubblelink code" onclick="return showCourse(this, 'ENGL 496');">ENGL 496</a></div></td><td>Portfolio Practicum</td><td class="hourscol"></td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">10-15</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Students should consult the <a href="/ucat/degree-programs/general-education/">General Education </a>section of the catalog to determine if any of the courses on these lists are approved for General Education.</em></p></td></tr></table>
+<h3>English Electives</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td colspan="2"><span class="courselistcomment">Five additional courses, no more than one of which may be at the 100-level </span></td><td class="hourscol">15</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">15</td></tr></tbody>
+</table>
+
+<h3>Distribution Requirements</h3>
+<p>In addition to the Core requirements, all English majors must take the following, distributed across their concentration and electives:</p>
+<ul>
+	<li>One course in materials before 1900</li>
+	<li>One course in materials after 1900</li>
+	<li>One course in U.S. Social and Cultural Diversity</li>
+</ul>
+<h4>Courses within Each Distribution</h4>
+<p><span class="ftnote">Students should consult the <a href="/ucat/degree-programs/general-education/"><em>General Education</em></a> section of the catalog to determine if any of the courses on these lists are approved for General Education</span>. Courses may be used to satisfy more than one distribution requirement.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Materials before 1900</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20107" title="ENGL 107" class="bubblelink code" onclick="return showCourse(this, 'ENGL 107');">ENGL 107</a></div></td><td>Introduction to Shakespeare</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20115" title="ENGL 115" class="bubblelink code" onclick="return showCourse(this, 'ENGL 115');">ENGL 115</a></div></td><td>Understanding the Bible as Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20118" title="ENGL 118" class="bubblelink code" onclick="return showCourse(this, 'ENGL 118');">ENGL 118</a></div></td><td>Introduction to African American Literature, 1760-1910</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20297" title="ENGL 297" class="bubblelink code" onclick="return showCourse(this, 'ENGL 297');">ENGL 297</a></div></td><td>Studies in the Classical Tradition</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20311" title="ENGL 311" class="bubblelink code" onclick="return showCourse(this, 'ENGL 311');">ENGL 311</a></div></td><td>Medieval English Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20312" title="ENGL 312" class="bubblelink code" onclick="return showCourse(this, 'ENGL 312');">ENGL 312</a></div></td><td>Sixteenth and Seventeenth Century Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20313" title="ENGL 313" class="bubblelink code" onclick="return showCourse(this, 'ENGL 313');">ENGL 313</a></div></td><td>Major Plays of Shakespeare</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20314" title="ENGL 314" class="bubblelink code" onclick="return showCourse(this, 'ENGL 314');">ENGL 314</a></div></td><td>Milton</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20315" title="ENGL 315" class="bubblelink code" onclick="return showCourse(this, 'ENGL 315');">ENGL 315</a></div></td><td>Restoration and Eighteenth Century Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20316" title="ENGL 316" class="bubblelink code" onclick="return showCourse(this, 'ENGL 316');">ENGL 316</a></div></td><td>British Romantic Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20317" title="ENGL 317" class="bubblelink code" onclick="return showCourse(this, 'ENGL 317');">ENGL 317</a></div></td><td>Victorian Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20321" title="ENGL 321" class="bubblelink code" onclick="return showCourse(this, 'ENGL 321');">ENGL 321</a></div></td><td>Early American Literature: 1630 to 1790</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20323" title="ENGL 323" class="bubblelink code" onclick="return showCourse(this, 'ENGL 323');">ENGL 323</a></div></td><td>American Literature: 1790 to 1865</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20324" title="ENGL 324" class="bubblelink code" onclick="return showCourse(this, 'ENGL 324');">ENGL 324</a></div></td><td>American Literature: 1865-1900</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20405" title="ENGL 405" class="bubblelink code" onclick="return showCourse(this, 'ENGL 405');">ENGL 405</a></div></td><td>Topics in Old English Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20408" title="ENGL 408" class="bubblelink code" onclick="return showCourse(this, 'ENGL 408');">ENGL 408</a></div></td><td>Topics in Medieval Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20413" title="ENGL 413" class="bubblelink code" onclick="return showCourse(this, 'ENGL 413');">ENGL 413</a></div></td><td>Topics in Shakespeare</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20416" title="ENGL 416" class="bubblelink code" onclick="return showCourse(this, 'ENGL 416');">ENGL 416</a></div></td><td>Topics in Renaissance Literature and Culture</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20417" title="ENGL 417" class="bubblelink code" onclick="return showCourse(this, 'ENGL 417');">ENGL 417</a></div></td><td>Topics in Restoration and Eighteenth-century Literature and Culture</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20419" title="ENGL 419" class="bubblelink code" onclick="return showCourse(this, 'ENGL 419');">ENGL 419</a></div></td><td>Topics in Romantic Literature and Culture</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20421" title="ENGL 421" class="bubblelink code" onclick="return showCourse(this, 'ENGL 421');">ENGL 421</a></div></td><td>Topics in Victorian Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20426" title="ENGL 426" class="bubblelink code" onclick="return showCourse(this, 'ENGL 426');">ENGL 426</a></div></td><td>Topics in American Literature and Culture to 1900</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20478" title="ENGL 478" class="bubblelink code" onclick="return showCourse(this, 'ENGL 478');">ENGL 478</a></div></td><td>The Bible as Literature: Hebrew Bible</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20479" title="ENGL 479" class="bubblelink code" onclick="return showCourse(this, 'ENGL 479');">ENGL 479</a></div></td><td>The Bible as Literature: New Testament</td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Courses from other departments that fulfill this requirement:</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CL%20208" title="CL 208" class="bubblelink code" onclick="return showCourse(this, 'CL 208');">CL 208</a></div></td><td>Greek Mythology</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CL%20250" title="CL 250" class="bubblelink code" onclick="return showCourse(this, 'CL 250');">CL 250</a></div></td><td>Greek and Roman Epic Poetry</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CL%20251" title="CL 251" class="bubblelink code" onclick="return showCourse(this, 'CL 251');">CL 251</a></div></td><td>Greek Tragedy</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CL%20252" title="CL 252" class="bubblelink code" onclick="return showCourse(this, 'CL 252');">CL 252</a></div></td><td>Greek and Roman Comedy</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CL%20253" title="CL 253" class="bubblelink code" onclick="return showCourse(this, 'CL 253');">CL 253</a></div></td><td>Roman Satire and Rhetoric</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GER%20240" title="GER 240" class="bubblelink code" onclick="return showCourse(this, 'GER 240');">GER 240</a></div></td><td>Classical German Thought from Kant to Nietzsche</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GER%20316" title="GER 316" class="bubblelink code" onclick="return showCourse(this, 'GER 316');">GER 316</a></div></td><td>Periods of Germanic Literature and Culture</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GER%20422" title="GER 422" class="bubblelink code" onclick="return showCourse(this, 'GER 422');">GER 422</a></div></td><td>Germanic Cultural Studies III: Themes</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GER%20437" title="GER 437" class="bubblelink code" onclick="return showCourse(this, 'GER 437');">GER 437</a></div></td><td>Contemporary Germanic Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GER%20438" title="GER 438" class="bubblelink code" onclick="return showCourse(this, 'GER 438');">GER 438</a></div></td><td>The Faust Legend</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHIL%20220" title="PHIL 220" class="bubblelink code" onclick="return showCourse(this, 'PHIL 220');">PHIL 220</a></div></td><td>Ancient Philosophy I: Plato and His Predecessors</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHIL%20221" title="PHIL 221" class="bubblelink code" onclick="return showCourse(this, 'PHIL 221');">PHIL 221</a></div></td><td>Ancient Philosophy II: Aristotle and His Successors</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHIL%20223" title="PHIL 223" class="bubblelink code" onclick="return showCourse(this, 'PHIL 223');">PHIL 223</a></div></td><td>History of Modern Philosophy I: Descartes and His Successors</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHIL%20224" title="PHIL 224" class="bubblelink code" onclick="return showCourse(this, 'PHIL 224');">PHIL 224</a></div></td><td>History of Modern Philosophy II: Kant and His Predecessors</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHIL%20232" title="PHIL 232" class="bubblelink code" onclick="return showCourse(this, 'PHIL 232');">PHIL 232</a></div></td><td>Sex Roles: Moral and Political Issues</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHIL%20241" title="PHIL 241" class="bubblelink code" onclick="return showCourse(this, 'PHIL 241');">PHIL 241</a></div></td><td>Philosophy of Religion</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=POL%20321" title="POL 321" class="bubblelink code" onclick="return showCourse(this, 'POL 321');">POL 321</a></div></td><td>Introduction to Polish Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=RUSS%20241" title="RUSS 241" class="bubblelink code" onclick="return showCourse(this, 'RUSS 241');">RUSS 241</a></div></td><td>Dostoyevsky</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=RUSS%20242" title="RUSS 242" class="bubblelink code" onclick="return showCourse(this, 'RUSS 242');">RUSS 242</a></div></td><td>Tolstoy</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=RUSS%20321" title="RUSS 321" class="bubblelink code" onclick="return showCourse(this, 'RUSS 321');">RUSS 321</a></div></td><td>Great Russian 19th-Century Novels and the European Tradition</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=SPAN%20226" title="SPAN 226" class="bubblelink code" onclick="return showCourse(this, 'SPAN 226');">SPAN 226</a></div></td><td>Early Modern Spanish and Colonial Latin American Literature and Culture in Translation</td><td class="hourscol"></td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Materials after 1900</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20102" title="ENGL 102" class="bubblelink code" onclick="return showCourse(this, 'ENGL 102');">ENGL 102</a></div></td><td>Introduction to Film</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20113" title="ENGL 113" class="bubblelink code" onclick="return showCourse(this, 'ENGL 113');">ENGL 113</a></div></td><td>Introduction to Multiethnic Literatures in the United States</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20114" title="ENGL 114" class="bubblelink code" onclick="return showCourse(this, 'ENGL 114');">ENGL 114</a></div></td><td>Introduction to Colonial and Postcolonial Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20119" title="ENGL 119" class="bubblelink code" onclick="return showCourse(this, 'ENGL 119');">ENGL 119</a></div></td><td>Introduction to African American Literature Since 1910</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20120" title="ENGL 120" class="bubblelink code" onclick="return showCourse(this, 'ENGL 120');">ENGL 120</a></div></td><td>Film and Culture</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20121" title="ENGL 121" class="bubblelink code" onclick="return showCourse(this, 'ENGL 121');">ENGL 121</a></div></td><td>Introduction to Moving Image Arts</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20123" title="ENGL 123" class="bubblelink code" onclick="return showCourse(this, 'ENGL 123');">ENGL 123</a></div></td><td>Introduction to Asian American Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20202" title="ENGL 202" class="bubblelink code" onclick="return showCourse(this, 'ENGL 202');">ENGL 202</a></div></td><td>Media and Professional Writing</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20232" title="ENGL 232" class="bubblelink code" onclick="return showCourse(this, 'ENGL 232');">ENGL 232</a></div></td><td>History of Film I: 1890 to World War II</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20233" title="ENGL 233" class="bubblelink code" onclick="return showCourse(this, 'ENGL 233');">ENGL 233</a></div></td><td>History of Film II: World War II to the Present</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20234" title="ENGL 234" class="bubblelink code" onclick="return showCourse(this, 'ENGL 234');">ENGL 234</a></div></td><td>History of Television</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20260" title="ENGL 260" class="bubblelink code" onclick="return showCourse(this, 'ENGL 260');">ENGL 260</a></div></td><td>Comparative Black Literatures</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20265" title="ENGL 265" class="bubblelink code" onclick="return showCourse(this, 'ENGL 265');">ENGL 265</a></div></td><td>The Harlem Renaissance</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20302" title="ENGL 302" class="bubblelink code" onclick="return showCourse(this, 'ENGL 302');">ENGL 302</a></div></td><td>Studies in the Moving Image</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20318" title="ENGL 318" class="bubblelink code" onclick="return showCourse(this, 'ENGL 318');">ENGL 318</a></div></td><td>Modern British Literature: 1900-1945</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20319" title="ENGL 319" class="bubblelink code" onclick="return showCourse(this, 'ENGL 319');">ENGL 319</a></div></td><td>Post-War British Literature: 1945-1980</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20320" title="ENGL 320" class="bubblelink code" onclick="return showCourse(this, 'ENGL 320');">ENGL 320</a></div></td><td>British Literature: 1980-Present</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20325" title="ENGL 325" class="bubblelink code" onclick="return showCourse(this, 'ENGL 325');">ENGL 325</a></div></td><td>Modern American Literature:  1900-1945</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20326" title="ENGL 326" class="bubblelink code" onclick="return showCourse(this, 'ENGL 326');">ENGL 326</a></div></td><td>Post-War American Literature: 1945-1980</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20327" title="ENGL 327" class="bubblelink code" onclick="return showCourse(this, 'ENGL 327');">ENGL 327</a></div></td><td>Contemporary American Literature: 1980-Present</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20333" title="ENGL 333" class="bubblelink code" onclick="return showCourse(this, 'ENGL 333');">ENGL 333</a></div></td><td>Literatures in English Other than English and American</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20351" title="ENGL 351" class="bubblelink code" onclick="return showCourse(this, 'ENGL 351');">ENGL 351</a></div></td><td>Topics in Black Art and Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20358" title="ENGL 358" class="bubblelink code" onclick="return showCourse(this, 'ENGL 358');">ENGL 358</a></div></td><td>Colonial and Postcolonial Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20422" title="ENGL 422" class="bubblelink code" onclick="return showCourse(this, 'ENGL 422');">ENGL 422</a></div></td><td>Topics in Postcolonial and World Literature in English</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20427" title="ENGL 427" class="bubblelink code" onclick="return showCourse(this, 'ENGL 427');">ENGL 427</a></div></td><td>Topics in American Literature and Culture, 1900-Present</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20428" title="ENGL 428" class="bubblelink code" onclick="return showCourse(this, 'ENGL 428');">ENGL 428</a></div></td><td>Topics in Literature and Culture, 1900-Present</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20472" title="ENGL 472" class="bubblelink code" onclick="return showCourse(this, 'ENGL 472');">ENGL 472</a></div></td><td>Women and Film</td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Courses from other departments that fulfill this requirement:</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20191" title="FR 191" class="bubblelink code" onclick="return showCourse(this, 'FR 191');">FR 191</a></div></td><td>African and Caribbean Francophone Literature in Translation</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20196" title="FR 196" class="bubblelink code" onclick="return showCourse(this, 'FR 196');">FR 196</a></div></td><td>Totalitarianism, Writing and Cinema</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20298" title="FR 298" class="bubblelink code" onclick="return showCourse(this, 'FR 298');">FR 298</a></div></td><td>French Literature, Drama and/or Film in Translation</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=FR%20440" title="FR 440" class="bubblelink code" onclick="return showCourse(this, 'FR 440');">FR 440</a></div></td><td>Topics in French and Francophone Cinema</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GER%20122" title="GER 122" class="bubblelink code" onclick="return showCourse(this, 'GER 122');">GER 122</a></div></td><td>Minority Perspectives in the Germanic Context</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GER%20123" title="GER 123" class="bubblelink code" onclick="return showCourse(this, 'GER 123');">GER 123</a></div></td><td>Introduction to Yiddish Culture and Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GER%20125" title="GER 125" class="bubblelink code" onclick="return showCourse(this, 'GER 125');">GER 125</a></div></td><td>Diaspora, Exile, Genocide: Aspects of the European Jewish Experience in Literature and Film.</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GER%20217" title="GER 217" class="bubblelink code" onclick="return showCourse(this, 'GER 217');">GER 217</a></div></td><td>Introduction to German Cinema</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GER%20318" title="GER 318" class="bubblelink code" onclick="return showCourse(this, 'GER 318');">GER 318</a></div></td><td>Topics in Germanic Literatures and Cultures</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GLAS%20120" title="GLAS 120" class="bubblelink code" onclick="return showCourse(this, 'GLAS 120');">GLAS 120</a></div></td><td>Introduction to Asian American Studies</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=JST%20116" title="JST 116" class="bubblelink code" onclick="return showCourse(this, 'JST 116');">JST 116</a></div></td><td>Jewish American Literature of the 20th Century</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LALS%20192" title="LALS 192" class="bubblelink code" onclick="return showCourse(this, 'LALS 192');">LALS 192</a></div></td><td>Latin American Women Writers in Translation</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LALS%20270" title="LALS 270" class="bubblelink code" onclick="return showCourse(this, 'LALS 270');">LALS 270</a></div></td><td>Ethnography of Meso-America</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LALS%20275" title="LALS 275" class="bubblelink code" onclick="return showCourse(this, 'LALS 275');">LALS 275</a></div></td><td>Gender in Latin America</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LALS%20278" title="LALS 278" class="bubblelink code" onclick="return showCourse(this, 'LALS 278');">LALS 278</a></div></td><td>Latin American/Latino Film Studies</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LALS%20295" title="LALS 295" class="bubblelink code" onclick="return showCourse(this, 'LALS 295');">LALS 295</a></div></td><td>Latino Literary Studies</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LALS%20350" title="LALS 350" class="bubblelink code" onclick="return showCourse(this, 'LALS 350');">LALS 350</a></div></td><td>Latinos and Latin Americans in U.S. Public Discourse</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LALS%20427" title="LALS 427" class="bubblelink code" onclick="return showCourse(this, 'LALS 427');">LALS 427</a></div></td><td>Studies in Language Policy and Cultural Identity</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHIL%20232" title="PHIL 232" class="bubblelink code" onclick="return showCourse(this, 'PHIL 232');">PHIL 232</a></div></td><td>Sex Roles: Moral and Political Issues</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=SPAN%20224" title="SPAN 224" class="bubblelink code" onclick="return showCourse(this, 'SPAN 224');">SPAN 224</a></div></td><td>Bilingual/Bicultural Hispanic American Writers</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=SPAN%20225" title="SPAN 225" class="bubblelink code" onclick="return showCourse(this, 'SPAN 225');">SPAN 225</a></div></td><td>Spanish and Latin American Culture through Literature and Film</td><td class="hourscol"></td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">U.S. Social and Cultural Diversity</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20110" title="ENGL 110" class="bubblelink code" onclick="return showCourse(this, 'ENGL 110');">ENGL 110</a></div></td><td>English and American Popular Genres</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20111" title="ENGL 111" class="bubblelink code" onclick="return showCourse(this, 'ENGL 111');">ENGL 111</a></div></td><td>Women and Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20112" title="ENGL 112" class="bubblelink code" onclick="return showCourse(this, 'ENGL 112');">ENGL 112</a></div></td><td>Introduction to Native American Literatures</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20113" title="ENGL 113" class="bubblelink code" onclick="return showCourse(this, 'ENGL 113');">ENGL 113</a></div></td><td>Introduction to Multiethnic Literatures in the United States</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20114" title="ENGL 114" class="bubblelink code" onclick="return showCourse(this, 'ENGL 114');">ENGL 114</a></div></td><td>Introduction to Colonial and Postcolonial Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20117" title="ENGL 117" class="bubblelink code" onclick="return showCourse(this, 'ENGL 117');">ENGL 117</a></div></td><td>Introduction to Gender, Sexuality and Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20118" title="ENGL 118" class="bubblelink code" onclick="return showCourse(this, 'ENGL 118');">ENGL 118</a></div></td><td>Introduction to African American Literature, 1760-1910</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20119" title="ENGL 119" class="bubblelink code" onclick="return showCourse(this, 'ENGL 119');">ENGL 119</a></div></td><td>Introduction to African American Literature Since 1910</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20123" title="ENGL 123" class="bubblelink code" onclick="return showCourse(this, 'ENGL 123');">ENGL 123</a></div></td><td>Introduction to Asian American Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20125" title="ENGL 125" class="bubblelink code" onclick="return showCourse(this, 'ENGL 125');">ENGL 125</a></div></td><td>Introduction to U.S. Latinx Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20260" title="ENGL 260" class="bubblelink code" onclick="return showCourse(this, 'ENGL 260');">ENGL 260</a></div></td><td>Comparative Black Literatures</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20261" title="ENGL 261" class="bubblelink code" onclick="return showCourse(this, 'ENGL 261');">ENGL 261</a></div></td><td>Reading Black Women Writing</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20262" title="ENGL 262" class="bubblelink code" onclick="return showCourse(this, 'ENGL 262');">ENGL 262</a></div></td><td>Black Cultural Studies</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20265" title="ENGL 265" class="bubblelink code" onclick="return showCourse(this, 'ENGL 265');">ENGL 265</a></div></td><td>The Harlem Renaissance</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20328" title="ENGL 328" class="bubblelink code" onclick="return showCourse(this, 'ENGL 328');">ENGL 328</a></div></td><td>Asian American Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20333" title="ENGL 333" class="bubblelink code" onclick="return showCourse(this, 'ENGL 333');">ENGL 333</a></div></td><td>Literatures in English Other than English and American</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20341" title="ENGL 341" class="bubblelink code" onclick="return showCourse(this, 'ENGL 341');">ENGL 341</a></div></td><td>Literature and Popular Culture</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20342" title="ENGL 342" class="bubblelink code" onclick="return showCourse(this, 'ENGL 342');">ENGL 342</a></div></td><td>Cultural and Media Studies</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20343" title="ENGL 343" class="bubblelink code" onclick="return showCourse(this, 'ENGL 343');">ENGL 343</a></div></td><td>Literature and Religion</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20351" title="ENGL 351" class="bubblelink code" onclick="return showCourse(this, 'ENGL 351');">ENGL 351</a></div></td><td>Topics in Black Art and Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20353" title="ENGL 353" class="bubblelink code" onclick="return showCourse(this, 'ENGL 353');">ENGL 353</a></div></td><td>Latinx Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20358" title="ENGL 358" class="bubblelink code" onclick="return showCourse(this, 'ENGL 358');">ENGL 358</a></div></td><td>Colonial and Postcolonial Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20359" title="ENGL 359" class="bubblelink code" onclick="return showCourse(this, 'ENGL 359');">ENGL 359</a></div></td><td>Ethnic American Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20361" title="ENGL 361" class="bubblelink code" onclick="return showCourse(this, 'ENGL 361');">ENGL 361</a></div></td><td>Gender Theory</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20362" title="ENGL 362" class="bubblelink code" onclick="return showCourse(this, 'ENGL 362');">ENGL 362</a></div></td><td>Queer Theory</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20363" title="ENGL 363" class="bubblelink code" onclick="return showCourse(this, 'ENGL 363');">ENGL 363</a></div></td><td>Gender and Sexuality in Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20364" title="ENGL 364" class="bubblelink code" onclick="return showCourse(this, 'ENGL 364');">ENGL 364</a></div></td><td>Disability Studies</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20422" title="ENGL 422" class="bubblelink code" onclick="return showCourse(this, 'ENGL 422');">ENGL 422</a></div></td><td>Topics in Postcolonial and World Literature in English</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20428" title="ENGL 428" class="bubblelink code" onclick="return showCourse(this, 'ENGL 428');">ENGL 428</a></div></td><td>Topics in Literature and Culture, 1900-Present</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20429" title="ENGL 429" class="bubblelink code" onclick="return showCourse(this, 'ENGL 429');">ENGL 429</a></div></td><td>Topics in Literature and Culture</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20440" title="ENGL 440" class="bubblelink code" onclick="return showCourse(this, 'ENGL 440');">ENGL 440</a></div></td><td>Topics in Cultural and Media Studies</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20441" title="ENGL 441" class="bubblelink code" onclick="return showCourse(this, 'ENGL 441');">ENGL 441</a></div></td><td>Topics in Asian American Literature and Culture</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20442" title="ENGL 442" class="bubblelink code" onclick="return showCourse(this, 'ENGL 442');">ENGL 442</a></div></td><td>Topics in Latinx Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20443" title="ENGL 443" class="bubblelink code" onclick="return showCourse(this, 'ENGL 443');">ENGL 443</a></div></td><td>Topics in Gender, Sexuality and Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20444" title="ENGL 444" class="bubblelink code" onclick="return showCourse(this, 'ENGL 444');">ENGL 444</a></div></td><td>Topics in Theories of Gender and Sexuality</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20445" title="ENGL 445" class="bubblelink code" onclick="return showCourse(this, 'ENGL 445');">ENGL 445</a></div></td><td>Topics in Disability Studies</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20469" title="ENGL 469" class="bubblelink code" onclick="return showCourse(this, 'ENGL 469');">ENGL 469</a></div></td><td>Women's Literary Traditions</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20470" title="ENGL 470" class="bubblelink code" onclick="return showCourse(this, 'ENGL 470');">ENGL 470</a></div></td><td>Topics in Multiethnic Literatures in the United States</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20472" title="ENGL 472" class="bubblelink code" onclick="return showCourse(this, 'ENGL 472');">ENGL 472</a></div></td><td>Women and Film</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20473" title="ENGL 473" class="bubblelink code" onclick="return showCourse(this, 'ENGL 473');">ENGL 473</a></div></td><td>Topics in Black Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ENGL%20474" title="ENGL 474" class="bubblelink code" onclick="return showCourse(this, 'ENGL 474');">ENGL 474</a></div></td><td>Topics in Popular Culture and Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Courses from other departments that fulfill this requirement:</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GER%20123" title="GER 123" class="bubblelink code" onclick="return showCourse(this, 'GER 123');">GER 123</a></div></td><td>Introduction to Yiddish Culture and Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GLAS%20120" title="GLAS 120" class="bubblelink code" onclick="return showCourse(this, 'GLAS 120');">GLAS 120</a></div></td><td>Introduction to Asian American Studies</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=JST%20116" title="JST 116" class="bubblelink code" onclick="return showCourse(this, 'JST 116');">JST 116</a></div></td><td>Jewish American Literature of the 20th Century</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LALS%20192" title="LALS 192" class="bubblelink code" onclick="return showCourse(this, 'LALS 192');">LALS 192</a></div></td><td>Latin American Women Writers in Translation</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LALS%20278" title="LALS 278" class="bubblelink code" onclick="return showCourse(this, 'LALS 278');">LALS 278</a></div></td><td>Latin American/Latino Film Studies</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LALS%20295" title="LALS 295" class="bubblelink code" onclick="return showCourse(this, 'LALS 295');">LALS 295</a></div></td><td>Latino Literary Studies</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LALS%20350" title="LALS 350" class="bubblelink code" onclick="return showCourse(this, 'LALS 350');">LALS 350</a></div></td><td>Latinos and Latin Americans in U.S. Public Discourse</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=LALS%20427" title="LALS 427" class="bubblelink code" onclick="return showCourse(this, 'LALS 427');">LALS 427</a></div></td><td>Studies in Language Policy and Cultural Identity</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PHIL%20232" title="PHIL 232" class="bubblelink code" onclick="return showCourse(this, 'PHIL 232');">PHIL 232</a></div></td><td>Sex Roles: Moral and Political Issues</td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=SPAN%20224" title="SPAN 224" class="bubblelink code" onclick="return showCourse(this, 'SPAN 224');">SPAN 224</a></div></td><td>Bilingual/Bicultural Hispanic American Writers</td><td class="hourscol"></td></tr>
+</tbody>
+</table>
+
+<h2>Recommended Plan of Study</h2>
+<p>Courses which satisfy concentrations, distributions, and/or English electives should be chosen in consultation with an English Department advisor.</p>
+<table pdfnorepeatheader="true" class="sc_plangrid">
+<caption>Plan of Study Grid</caption><colgroup>
+	<col class="codecol"/>
+	<col class="titlecol"/>
+	<col class="hourscol"/>
+</colgroup>
+<tr class="plangridyear"><th id="plangrid1_0" class="year" colspan="3">First Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_0_0" colspan="2">Fall Semester</th><th id="hoursheader" scope="col" class="hourscol">Hours</th></tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Academic Writing I: Writing in Academic and Public Contexts</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">Quantitative Reasoning</span></td>
+<td headers="hoursheader" class="hourscol">3-5</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3-5</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_0_0" class="titlecol">Hours</td><td headers=" plangrid1_0_0 hoursheader" class="hourscol">13-17</td></tr>
+<tr class="plangridterm"><th id="plangrid1_0_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Academic Writing II: Writing for Inquiry and Research</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">ENGL 1xx</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=ENGL%20240" title="ENGL 240" class="bubblelink code" onclick="return showCourse(this, 'ENGL 240');">ENGL 240</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Introduction to Literary Study and Critical Methods</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3-5</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_0_1" class="titlecol">Hours</td><td headers=" plangrid1_0_1 hoursheader" class="hourscol">16-18</td></tr>
+<tr class="plangridyear"><th id="plangrid1_1" class="year" colspan="3">Second Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_1_0" colspan="3">Fall Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_1_0" class="codecol"><a href="/search/?P=ENGL%20241" title="ENGL 241" class="bubblelink code" onclick="return showCourse(this, 'ENGL 241');">ENGL 241</a></td>
+<td headers=" plangrid1_1_0" class="titlecol">English Literature I: Beginnings to 1660</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" class="codecol"><a href="/search/?P=ENGL%20243" title="ENGL 243" class="bubblelink code" onclick="return showCourse(this, 'ENGL 243');">ENGL 243</a></td>
+<td headers=" plangrid1_1_0" class="titlecol">American Literature: Beginnings to 1900</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3-5</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_1_0" class="titlecol">Hours</td><td headers=" plangrid1_1_0 hoursheader" class="hourscol">16-18</td></tr>
+<tr class="plangridterm"><th id="plangrid1_1_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_1_1" class="codecol"><a href="/search/?P=ENGL%20242" title="ENGL 242" class="bubblelink code" onclick="return showCourse(this, 'ENGL 242');">ENGL 242</a></td>
+<td headers=" plangrid1_1_1" class="titlecol">English Literature II: 1660 to 1900</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">ENGL 1xx, 2xx, 3xx</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_1_1" class="titlecol">Hours</td><td headers=" plangrid1_1_1 hoursheader" class="hourscol">16</td></tr>
+<tr class="plangridyear"><th id="plangrid1_2" class="year" colspan="3">Third Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_2_0" colspan="3">Fall Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">ENGL 2xx, 3xx</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">ENGL 2xx, 3xx</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course/Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_2_0" class="titlecol">Hours</td><td headers=" plangrid1_2_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid1_2_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">ENGL 2xx, 3xx, 4xx</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">ENGL 2xx, 3xx, 4xx</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">General Education Requirement course/Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">6</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_2_1" class="titlecol">Hours</td><td headers=" plangrid1_2_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridyear"><th id="plangrid1_3" class="year" colspan="3">Fourth Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_3_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">ENGL 3xx, 4xx</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">12</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_3_0" class="titlecol">Hours</td><td headers=" plangrid1_3_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid1_3_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">ENGL 3xx, 4xx</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">11-12</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_3_1" class="titlecol">Hours</td><td headers=" plangrid1_3_1 hoursheader" class="hourscol">14-15</td></tr>
+<tr class="plangridtotal lastrow even"><td> </td><td>Total Hours</td><td headers="hoursheader" class="hourscol">120</td></tr>
+</table>
+<p><strong>Note: </strong>One course from another department other than English may count toward the major. See the course catalog for a list of approved courses. </p>
+<p><strong>Note:</strong> Courses that satisfy concentrations, distributions, and/or English electives should be chosen in consultation with an English Department advisor.</p></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="ba-engl.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

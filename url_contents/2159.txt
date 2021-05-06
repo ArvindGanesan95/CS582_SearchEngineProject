@@ -1,0 +1,643 @@
+https://catalog.uic.edu/all-course-descriptions/ot/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Occupational Therapy (OT) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="isparent"><a href="/ucat/">Undergraduate Catalog</a></li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="active isparent"><a href="/all-course-descriptions/">All Course Descriptions</a>
+	<ul class="nav levelone" id="/all-course-descriptions/">
+		<li><a href="/all-course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+		<li><a href="/all-course-descriptions/actg/">Accounting (ACTG)</a></li>
+		<li><a href="/all-course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+		<li><a href="/all-course-descriptions/anth/">Anthropology (ANTH)</a></li>
+		<li><a href="/all-course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+		<li><a href="/all-course-descriptions/arab/">Arabic (ARAB)</a></li>
+		<li><a href="/all-course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+		<li><a href="/all-course-descriptions/arch/">Architecture (ARCH)</a></li>
+		<li><a href="/all-course-descriptions/art/">Art (ART)</a></li>
+		<li><a href="/all-course-descriptions/ah/">Art History (AH)</a></li>
+		<li><a href="/all-course-descriptions/bms/">Basic Medical Sciences (BMS)</a></li>
+		<li><a href="/all-course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+		<li><a href="/all-course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+		<li><a href="/all-course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+		<li><a href="/all-course-descriptions/bvis/">Biomedical Visualization (BVIS)</a></li>
+		<li><a href="/all-course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+		<li><a href="/all-course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+		<li><a href="/all-course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+		<li><a href="/all-course-descriptions/blst/">Black Studies (BLST)</a></li>
+		<li><a href="/all-course-descriptions/ba/">Business Administration (BA)</a></li>
+		<li><a href="/all-course-descriptions/cc/">Campus Courses (CC)</a></li>
+		<li><a href="/all-course-descriptions/cst/">Catholic Studies (CST)</a></li>
+		<li><a href="/all-course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+		<li><a href="/all-course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+		<li><a href="/all-course-descriptions/chem/">Chemistry (CHEM)</a></li>
+		<li><a href="/all-course-descriptions/chin/">Chinese (CHIN)</a></li>
+		<li><a href="/all-course-descriptions/cd/">City Design (CD)</a></li>
+		<li><a href="/all-course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+		<li><a href="/all-course-descriptions/cl/">Classics (CL)</a></li>
+		<li><a href="/all-course-descriptions/cler/">Clerkship -&#8203; Medicine (CLER)</a></li>
+		<li><a href="/all-course-descriptions/cele/">Clerkship Electives -&#8203; Chicago (CELE)</a></li>
+		<li><a href="/all-course-descriptions/pele/">Clerkship Electives -&#8203; Peoria (PELE)</a></li>
+		<li><a href="/all-course-descriptions/rele/">Clerkship Electives -&#8203; Rockford (RELE)</a></li>
+		<li><a href="/all-course-descriptions/uele/">Clerkship Electives -&#8203; Urbana (UELE)</a></li>
+		<li><a href="/all-course-descriptions/comm/">Communication (COMM)</a></li>
+		<li><a href="/all-course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+		<li><a href="/all-course-descriptions/cs/">Computer Science (CS)</a></li>
+		<li><a href="/all-course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+		<li><a href="/all-course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+		<li><a href="/all-course-descriptions/dadm/">Dental Administration (DADM)</a></li>
+		<li><a href="/all-course-descriptions/daob/">Dentistry -&#8203; Applied Oral and Behavioral Sciences (DAOB)</a></li>
+		<li><a href="/all-course-descriptions/dbcs/">Dentistry -&#8203; Biomedical and Clinical Sciences (DBCS)</a></li>
+		<li><a href="/all-course-descriptions/dcle/">Dentistry -&#8203; Community Learning Experience (DCLE)</a></li>
+		<li><a href="/all-course-descriptions/dosi/">Dentistry -&#8203; Oral/&#8203;Systemic Issues (DOSI)</a></li>
+		<li><a href="/all-course-descriptions/dost/">Dentistry -&#8203; Oral/&#8203;Systemic Topics (DOST)</a></li>
+		<li><a href="/all-course-descriptions/des/">Design (DES)</a></li>
+		<li><a href="/all-course-descriptions/dlg/">Dialogue (DLG)</a></li>
+		<li><a href="/all-course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+		<li><a href="/all-course-descriptions/mdc/">Doctor of Medicine—Chicago (MDC)</a></li>
+		<li><a href="/all-course-descriptions/mdp/">Doctor of Medicine—Peoria (MDP)</a></li>
+		<li><a href="/all-course-descriptions/mdr/">Doctor of Medicine—Rockford (MDR)</a></li>
+		<li><a href="/all-course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+		<li><a href="/all-course-descriptions/econ/">Economics (ECON)</a></li>
+		<li><a href="/all-course-descriptions/ed/">Education (ED)</a></li>
+		<li><a href="/all-course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+		<li><a href="/all-course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+		<li><a href="/all-course-descriptions/ece/">Electrical and Computer Engineering (ECE)</a></li>
+		<li><a href="/all-course-descriptions/eb/">Employee Benefits (EB)</a></li>
+		<li><a href="/all-course-descriptions/endo/">Endodontics (ENDO)</a></li>
+		<li><a href="/all-course-descriptions/ener/">Energy Engineering (ENER)</a></li>
+		<li><a href="/all-course-descriptions/engr/">Engineering (ENGR)</a></li>
+		<li><a href="/all-course-descriptions/engl/">English (ENGL)</a></li>
+		<li><a href="/all-course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+		<li><a href="/all-course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+		<li><a href="/all-course-descriptions/eohs/">Environmental and Occupational Health Sciences (EOHS)</a></li>
+		<li><a href="/all-course-descriptions/epid/">Epidemiology (EPID)</a></li>
+		<li><a href="/all-course-descriptions/epl/">Estate Planning (EPL)</a></li>
+		<li><a href="/all-course-descriptions/fin/">Finance (FIN)</a></li>
+		<li><a href="/all-course-descriptions/fr/">French (FR)</a></li>
+		<li><a href="/all-course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+		<li><a href="/all-course-descriptions/geog/">Geography (GEOG)</a></li>
+		<li><a href="/all-course-descriptions/ger/">Germanic Studies (GER)</a></li>
+		<li><a href="/all-course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+		<li><a href="/all-course-descriptions/gc/">Graduate College (GC)</a></li>
+		<li><a href="/all-course-descriptions/gems/">Graduate Education in Medical Sciences (GEMS)</a></li>
+		<li><a href="/all-course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+		<li><a href="/all-course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+		<li><a href="/all-course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+		<li><a href="/all-course-descriptions/him/">Health Information Management (HIM)</a></li>
+		<li><a href="/all-course-descriptions/hpa/">Health Policy and Administration (HPA)</a></li>
+		<li><a href="/all-course-descriptions/hlp/">Healthy Living Practitioner™ (HLP)</a></li>
+		<li><a href="/all-course-descriptions/heb/">Hebrew (HEB)</a></li>
+		<li><a href="/all-course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+		<li><a href="/all-course-descriptions/hstl/">Histology (HSTL)</a></li>
+		<li><a href="/all-course-descriptions/hist/">History (HIST)</a></li>
+		<li><a href="/all-course-descriptions/hon/">Honors College (HON)</a></li>
+		<li><a href="/all-course-descriptions/hn/">Human Nutrition (HN)</a></li>
+		<li><a href="/all-course-descriptions/hum/">Humanities (HUM)</a></li>
+		<li><a href="/all-course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+		<li><a href="/all-course-descriptions/it/">Information Technology (IT)</a></li>
+		<li><a href="/all-course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+		<li><a href="/all-course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+		<li><a href="/all-course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+		<li><a href="/all-course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+		<li><a href="/all-course-descriptions/ip/">Intellectual Property (IP)</a></li>
+		<li><a href="/all-course-descriptions/ibt/">International Business and Trade (IBT)</a></li>
+		<li><a href="/all-course-descriptions/inst/">International Studies (INST)</a></li>
+		<li><a href="/all-course-descriptions/ital/">Italian (ITAL)</a></li>
+		<li><a href="/all-course-descriptions/jpn/">Japanese (JPN)</a></li>
+		<li><a href="/all-course-descriptions/jst/">Jewish Studies (JST)</a></li>
+		<li><a href="/all-course-descriptions/jd/">Juris Doctor (JD)</a></li>
+		<li><a href="/all-course-descriptions/kn/">Kinesiology (KN)</a></li>
+		<li><a href="/all-course-descriptions/kor/">Korean (KOR)</a></li>
+		<li><a href="/all-course-descriptions/lat/">Latin (LAT)</a></li>
+		<li><a href="/all-course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+		<li><a href="/all-course-descriptions/law/">Law (LAW)</a></li>
+		<li><a href="/all-course-descriptions/lrsc/">Learning Sciences (LRSC)</a></li>
+		<li><a href="/all-course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+		<li><a href="/all-course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+		<li><a href="/all-course-descriptions/ling/">Linguistics (LING)</a></li>
+		<li><a href="/all-course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+		<li><a href="/all-course-descriptions/lith/">Lithuanian (LITH)</a></li>
+		<li><a href="/all-course-descriptions/mgmt/">Management (MGMT)</a></li>
+		<li><a href="/all-course-descriptions/mktg/">Marketing (MKTG)</a></li>
+		<li><a href="/all-course-descriptions/mba/">Master of Business Administration (MBA)</a></li>
+		<li><a href="/all-course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+		<li><a href="/all-course-descriptions/mj/">Master of Jurisprudence (MJ)</a></li>
+		<li><a href="/all-course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+		<li><a href="/all-course-descriptions/math/">Mathematics (MATH)</a></li>
+		<li><a href="/all-course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+		<li><a href="/all-course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+		<li><a href="/all-course-descriptions/mbt/">Medical Biotechnology (MBT)</a></li>
+		<li><a href="/all-course-descriptions/mhpe/">Medical Education (MHPE)</a></li>
+		<li><a href="/all-course-descriptions/mhum/">Medical Humanities (MHUM)</a></li>
+		<li><a href="/all-course-descriptions/mdch/">Medicinal Chemistry (MDCH)</a></li>
+		<li><a href="/all-course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+		<li><a href="/all-course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+		<li><a href="/all-course-descriptions/mils/">Military Science (MILS)</a></li>
+		<li><a href="/all-course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+		<li><a href="/all-course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+		<li><a href="/all-course-descriptions/mus/">Music (MUS)</a></li>
+		<li><a href="/all-course-descriptions/nast/">Native American Studies (NAST)</a></li>
+		<li><a href="/all-course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+		<li><a href="/all-course-descriptions/ns/">Naval Science (NS)</a></li>
+		<li><a href="/all-course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+		<li><a href="/all-course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+		<li><a href="/all-course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+		<li><a href="/all-course-descriptions/nupr/">Nursing Practicum (NUPR)</a></li>
+		<li><a href="/all-course-descriptions/nusp/">Nursing Specialty (NUSP)</a></li>
+		<li class="active self"><a href="#" onclick="return false;">Occupational Therapy (OT)</a></li>
+		<li><a href="/all-course-descriptions/omds/">Oral Medicine and Diagnostic Sciences (OMDS)</a></li>
+		<li><a href="/all-course-descriptions/osci/">Oral Sciences (OSCI)</a></li>
+		<li><a href="/all-course-descriptions/osur/">Oral and Maxillofacial Surgery (OSUR)</a></li>
+		<li><a href="/all-course-descriptions/ortd/">Orthodontics (ORTD)</a></li>
+		<li><a href="/all-course-descriptions/path/">Pathology (PATH)</a></li>
+		<li><a href="/all-course-descriptions/psl/">Patient Safety Leadership (PSL)</a></li>
+		<li><a href="/all-course-descriptions/pedd/">Pediatric Dentistry (PEDD)</a></li>
+		<li><a href="/all-course-descriptions/peri/">Periodontics (PERI)</a></li>
+		<li><a href="/all-course-descriptions/psci/">Pharmaceutical Sciences (PSCI)</a></li>
+		<li><a href="/all-course-descriptions/pmpg/">Pharmacognosy (PMPG)</a></li>
+		<li><a href="/all-course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+		<li><a href="/all-course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+		<li><a href="/all-course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+		<li><a href="/all-course-descriptions/psop/">Pharmacy Systems, Outcomes, and Policy (PSOP)</a></li>
+		<li><a href="/all-course-descriptions/phil/">Philosophy (PHIL)</a></li>
+		<li><a href="/all-course-descriptions/pt/">Physical Therapy (PT)</a></li>
+		<li><a href="/all-course-descriptions/phys/">Physics (PHYS)</a></li>
+		<li><a href="/all-course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+		<li><a href="/all-course-descriptions/pol/">Polish (POL)</a></li>
+		<li><a href="/all-course-descriptions/pols/">Political Science (POLS)</a></li>
+		<li><a href="/all-course-descriptions/port/">Portuguese (PORT)</a></li>
+		<li><a href="/all-course-descriptions/prcl/">Preclinical Medicine (PRCL)</a></li>
+		<li><a href="/all-course-descriptions/ptl/">Privacy and Technology Law (PTL)</a></li>
+		<li><a href="/all-course-descriptions/pros/">Prosthodontics (PROS)</a></li>
+		<li><a href="/all-course-descriptions/psch/">Psychology (PSCH)</a></li>
+		<li><a href="/all-course-descriptions/pa/">Public Administration (PA)</a></li>
+		<li><a href="/all-course-descriptions/pubh/">Public Health (PUBH)</a></li>
+		<li><a href="/all-course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+		<li><a href="/all-course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+		<li><a href="/all-course-descriptions/re/">Real Estate (RE)</a></li>
+		<li><a href="/all-course-descriptions/rels/">Religious Studies (RELS)</a></li>
+		<li><a href="/all-course-descriptions/rest/">Restorative Dentistry (REST)</a></li>
+		<li><a href="/all-course-descriptions/russ/">Russian (RUSS)</a></li>
+		<li><a href="/all-course-descriptions/slav/">Slavic and Baltic Languages and Literatures (SLAV)</a></li>
+		<li><a href="/all-course-descriptions/sj/">Social Justice (SJ)</a></li>
+		<li><a href="/all-course-descriptions/socw/">Social Work (SOCW)</a></li>
+		<li><a href="/all-course-descriptions/soc/">Sociology (SOC)</a></li>
+		<li><a href="/all-course-descriptions/span/">Spanish (SPAN)</a></li>
+		<li><a href="/all-course-descriptions/sped/">Special Education (SPED)</a></li>
+		<li><a href="/all-course-descriptions/spec/">Specialty Medicine (SPEC)</a></li>
+		<li><a href="/all-course-descriptions/stat/">Statistics (STAT)</a></li>
+		<li><a href="/all-course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+		<li><a href="/all-course-descriptions/surg/">Surgery (SURG)</a></li>
+		<li><a href="/all-course-descriptions/tx/">Taxation (TX)</a></li>
+		<li><a href="/all-course-descriptions/thtr/">Theatre (THTR)</a></li>
+		<li><a href="/all-course-descriptions/tadr/">Trial Advocacy and Dispute Resolution (TADR)</a></li>
+		<li><a href="/all-course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+		<li><a href="/all-course-descriptions/us/">Urban Studies (US)</a></li>
+		<li><a href="/all-course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+		<li><a href="/all-course-descriptions/usl/">US Legal Studies (USL)</a></li>
+	</ul>
+	</li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/all-course-descriptions/">All&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Occupational Therapy (OT)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Occupational Therapy (OT)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="otcourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;350.  Introduction to Occupational Therapy: Occupation and Participation across the Lifespan.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Designed to introduce students to the history, philosophy, and practice of occupational therapy and provide students with a foundational understanding of the role of occupational therapists across settings and populations. Course Information: Prerequisite(s): Sophomore standing or above.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;360.  Promoting Wellbeing.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Provides opportunities for students to gain knowledge and skills from an occupational therapy perspective to promote self-management and wellbeing for themselves and others, applying the concepts to academic, social, work and professional roles. Course Information: Prerequisite(s): Undergraduate standing at the University of Illinois at Chicago.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;494.  Special Topics in Occupational Therapy.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Selected occupational therapy-related seminar topics of interest or pilot version of new occupational therapy course. Designed for  undergraduate and non-occupational therapy major graduate students. Course Information: May be repeated. Students may register in more than one section per term. Prerequisite(s): Junior standing or above or graduate standing. Recommended background: Undergraduate students: Completion or concurrent registration in <a href="/search/?P=OT%20350" title="OT&#160;350" class="bubblelink code" onclick="return showCourse(this, 'OT 350');">OT&#160;350</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;496.  Independent Study.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+For undergraduate students who wish to pursue an independent study experience for credit. Course Information: May be repeated for credit. Prerequisite(s): Sophomore standing or above; and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;500.  Theories of Occupational Therapy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Explores theoretical basis of occupational therapy and the impact of theory on clinical practice. Covers the history of knowledge and practice development in occupational therapy. Focuses on specific practice models developed as guides to clinical reasoning. Course Information: Prerequisite(s): Graduate standing; or consent of the instructor and admission to the M.S. or OTD Occupational Therapy program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;501.  Occupational Performance in Adults and Adolescents.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Reviews the primary developmental aspects and roles of adolescence and adulthood. Personal and environmental factors that influence occupational performance and prevention and wellness models to facilitate occupational functioning. Course Information: Previously listed as OT 401. Prerequisite(s): Admission to the M.S. in Occupational Therapy program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;502.  Medical Conditions.  1 hour.</strong></p>
+<p class="courseblockdesc">
+This self-paced course reviews etiology, clinical manifestation, clinical course, and general medical and rehabilitative management of common medical conditions; emphasis on musculoskeletal, neurologic, cardiopulmonary, and psychiatric disorders. Course Information: Satisfactory/Unsatisfactory grading only. Previously listed as OT 422. Prerequisite(s): Admission to the Master of Science in Occupational Therapy program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;506.  Development of a Therapeutic Self.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Emphasizes understanding and developing foundational skills in therapeutic use of self and forms of therapeutic reasoning. Group theory and process is introduced and group leadership skills developed. Course Information: 3 hours. Previously listed as OT 406. Prerequisite(s): Admission to the M.S. in Occupational Therapy Program. Course Schedule Information: To be properly registered, students must enroll in one Lecture and one Laboratory-Discussion.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;507.  Introduction to Occupational Therapy Practice.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Overview of the role of the therapist and aspects of occupational therapy practice in multiple settings. The basics of assessment, treatment planning, intervention, and documentation; as well as service delivery systems and current issues. Course Information: Previously listed as OT 407. Prerequisite(s): Admission to the M.S. in Occupational Therapy program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;510.  Research in Occupational Therapy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to basic elements of research design relevant to occupational therapy practice. Prepares student to become critical consumer of research in occupational therapy and related fields. Quantitative and qualitative approaches to research. Course Information: Prerequisite(s): Graduate standing; or consent of the instructor and admission to the M.S. or OTD Occupational Therapy program. Recommended background: Statistics and research methods.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;511.  Occupational Performance in Children.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Covers developmental theories concerning factors influencing the development of occupational performance in infancy, childhood, and early adolescence. Includes developmental assessment methods and tools. Course Information: Previously listed as OT 411. Prerequisite(s): Grade of C or better in <a href="/search/?P=OT%20500" title="OT&#160;500" class="bubblelink code" onclick="return showCourse(this, 'OT 500');">OT&#160;500</a> and grade of C or better in <a href="/search/?P=OT%20501" title="OT&#160;501" class="bubblelink code" onclick="return showCourse(this, 'OT 501');">OT&#160;501</a> and grade of C or better in <a href="/search/?P=OT%20507" title="OT&#160;507" class="bubblelink code" onclick="return showCourse(this, 'OT 507');">OT&#160;507</a> and grade of C or better in <a href="/search/?P=OT%20510" title="OT&#160;510" class="bubblelink code" onclick="return showCourse(this, 'OT 510');">OT&#160;510</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;512.  Human Structure and Function.  5 hours.</strong></p>
+<p class="courseblockdesc">
+Examines anatomical and physiological basis for occupational performance. Features structure and function of musculoskeletal, cardiovascular and nervous systems and application of biomechanical principles. Course Information: 5 hours. Previously listed as OT 412. Prerequisite(s): Grade of C or better in <a href="/search/?P=OT%20500" title="OT&#160;500" class="bubblelink code" onclick="return showCourse(this, 'OT 500');">OT&#160;500</a> and grade of C or better in <a href="/search/?P=OT%20510" title="OT&#160;510" class="bubblelink code" onclick="return showCourse(this, 'OT 510');">OT&#160;510</a> and admission to the M.S. in Occupational Therapy program. Course Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Laboratory.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;515.  Synthesis I.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Provides a problem based learning context for the development of clinical reasoning skills in occupational therapy. Students analyze and synthesize five individual client cases which emphasize the occupational therapy assessment process. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): Grade of C or better in <a href="/search/?P=OT%20500" title="OT&#160;500" class="bubblelink code" onclick="return showCourse(this, 'OT 500');">OT&#160;500</a> and Grade of C or better in <a href="/search/?P=OT%20501" title="OT&#160;501" class="bubblelink code" onclick="return showCourse(this, 'OT 501');">OT&#160;501</a> and Grade of C or better in <a href="/search/?P=OT%20506" title="OT&#160;506" class="bubblelink code" onclick="return showCourse(this, 'OT 506');">OT&#160;506</a> and Grade of C or better in <a href="/search/?P=OT%20507" title="OT&#160;507" class="bubblelink code" onclick="return showCourse(this, 'OT 507');">OT&#160;507</a> and Grade of C or better in <a href="/search/?P=OT%20510" title="OT&#160;510" class="bubblelink code" onclick="return showCourse(this, 'OT 510');">OT&#160;510</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;516.  Occupational Therapy Practice: Psychosocial Aspects of Occupational Performance.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines occupational therapy practices relevant to psychosocial intervention, related bodies of knowledge influencing practice, psychological process affecting occupational functioning and assessment and treatment related to psychosocial problems. Course Information: Previously listed as OT 416. Prerequisite(s): Grade of C or better in <a href="/search/?P=OT%20500" title="OT&#160;500" class="bubblelink code" onclick="return showCourse(this, 'OT 500');">OT&#160;500</a> and grade of C or better in <a href="/search/?P=OT%20501" title="OT&#160;501" class="bubblelink code" onclick="return showCourse(this, 'OT 501');">OT&#160;501</a> and grade of C or better in <a href="/search/?P=OT%20506" title="OT&#160;506" class="bubblelink code" onclick="return showCourse(this, 'OT 506');">OT&#160;506</a> and grade of C or better in <a href="/search/?P=OT%20507" title="OT&#160;507" class="bubblelink code" onclick="return showCourse(this, 'OT 507');">OT&#160;507</a> and grade of C or better in <a href="/search/?P=OT%20510" title="OT&#160;510" class="bubblelink code" onclick="return showCourse(this, 'OT 510');">OT&#160;510</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;519.  Fieldwork Level IA.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Emphasizes application of occupational therapy skills pertinent to use of psychosocial groups in communities. Students gain an enhanced appreciation of psychological and social factors that influence engagement in occupation. Course Information: Satisfactory/Unsatisfactory grading only. Perequisite(s): Grade of C or better in <a href="/search/?P=OT%20500" title="OT&#160;500" class="bubblelink code" onclick="return showCourse(this, 'OT 500');">OT&#160;500</a> and grade of C or better in <a href="/search/?P=OT%20501" title="OT&#160;501" class="bubblelink code" onclick="return showCourse(this, 'OT 501');">OT&#160;501</a> and grade of C or better in <a href="/search/?P=OT%20506" title="OT&#160;506" class="bubblelink code" onclick="return showCourse(this, 'OT 506');">OT&#160;506</a> and grade of C or better in <a href="/search/?P=OT%20507" title="OT&#160;507" class="bubblelink code" onclick="return showCourse(this, 'OT 507');">OT&#160;507</a> and grade of C or better in <a href="/search/?P=OT%20510" title="OT&#160;510" class="bubblelink code" onclick="return showCourse(this, 'OT 510');">OT&#160;510</a>. Course Schedule Information: To be properly registered, students must enroll in one Clinical Practice, one Lecture-Discussion and one Laboratory-Discussion.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;520.  Community Practicum.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Field experience in a community agency serving an urban population. Emphasis is on service learning in context and the development of professional behaviors. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated to a maximum of 6 hours. Previously listed as OT 420. Field work required. Prerequisite(s): Graduate standing and admission to the Master of Science in Occupational Therapy program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;522.  Occupational Therapy Practice: Functional Movement and Mobility.  5 hours.</strong></p>
+<p class="courseblockdesc">
+Application of occupational therapy evaluation and intervention skills to children and adults with occupational performance deficits resulting from mobility and movement dysfunction. Course Information: 5 hours. Previously listed as OT 436. Prerequisite(s): Satisfactory completion of <a href="/search/?P=OT%20502" title="OT&#160;502" class="bubblelink code" onclick="return showCourse(this, 'OT 502');">OT&#160;502</a> and Grade of C or better in <a href="/search/?P=OT%20511" title="OT&#160;511" class="bubblelink code" onclick="return showCourse(this, 'OT 511');">OT&#160;511</a> and grade of C or better in <a href="/search/?P=OT%20512" title="OT&#160;512" class="bubblelink code" onclick="return showCourse(this, 'OT 512');">OT&#160;512</a> and grade of C or better in <a href="/search/?P=OT%20516" title="OT&#160;516" class="bubblelink code" onclick="return showCourse(this, 'OT 516');">OT&#160;516</a> and grade of C or better in <a href="/search/?P=OT%20526" title="OT&#160;526" class="bubblelink code" onclick="return showCourse(this, 'OT 526');">OT&#160;526</a>. Course Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Laboratory.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;523.  Occupational Therapy Practice: Cognition and Perception in Action.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The impact of impaired cognitive and perceptual processes on occupational performance of children and adults with neurological conditions, cognitive and intellectual disabilities and psychiatric disabilities. Course Information: 4 hours. Previously listed as OT 437. Prerequisite(s): Satisfactory completion of <a href="/search/?P=OT%20502" title="OT&#160;502" class="bubblelink code" onclick="return showCourse(this, 'OT 502');">OT&#160;502</a>. Grade of C or better in <a href="/search/?P=OT%20511" title="OT&#160;511" class="bubblelink code" onclick="return showCourse(this, 'OT 511');">OT&#160;511</a> and grade of C or better in <a href="/search/?P=OT%20512" title="OT&#160;512" class="bubblelink code" onclick="return showCourse(this, 'OT 512');">OT&#160;512</a> and grade of C or better in <a href="/search/?P=OT%20516" title="OT&#160;516" class="bubblelink code" onclick="return showCourse(this, 'OT 516');">OT&#160;516</a> and grade of C or better in <a href="/search/?P=OT%20526" title="OT&#160;526" class="bubblelink code" onclick="return showCourse(this, 'OT 526');">OT&#160;526</a>. Course Schedule Information: To be properly registered, students must enroll in one Lecture and one Laboratory.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;524.  Contexts of Occupational Therapy Practice.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Trends in health care, reimbursement, legislation, and disability policy and how they affect occupational therapy. The policy process and development of an advocacy role are explored. Exposure to community-based practice and consultation roles. Course Information: Previously listed as OT 424. Prerequisite(s): Grade of C or better in <a href="/search/?P=OT%20507" title="OT&#160;507" class="bubblelink code" onclick="return showCourse(this, 'OT 507');">OT&#160;507</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;526.  Assistive Technology and the Environment.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Assessing the need for, delivering, and evaluating the outcomes of occupationally-based technology and environmental interventions with people with disabilities within the home, school, workplace and community. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=OT%20500" title="OT&#160;500" class="bubblelink code" onclick="return showCourse(this, 'OT 500');">OT&#160;500</a> and grade of C or better in <a href="/search/?P=OT%20510" title="OT&#160;510" class="bubblelink code" onclick="return showCourse(this, 'OT 510');">OT&#160;510</a> and grade of C or better in <a href="/search/?P=OT%20511" title="OT&#160;511" class="bubblelink code" onclick="return showCourse(this, 'OT 511');">OT&#160;511</a> and grade of C or better in <a href="/search/?P=OT%20512" title="OT&#160;512" class="bubblelink code" onclick="return showCourse(this, 'OT 512');">OT&#160;512</a>. Class Schedule Information: To be properly registered, students must enroll in one Laboratory and one Lecture-Discussion.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;528.  Race, Culture, and Health Disparities.  2-3 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on developing studentsâ€™ critical thinking skills as they relate to race, health disparities and engaging in culturally responsive care. Course Information: Same as <a href="/search/?P=DHD%20528" title="DHD&#160;528" class="bubblelink code" onclick="return showCourse(this, 'DHD 528');">DHD&#160;528</a> and <a href="/search/?P=KN%20538" title="KN&#160;538" class="bubblelink code" onclick="return showCourse(this, 'KN 538');">KN&#160;538</a>. Students registering for 3 hours of credit complete an immersion activity and a research paper. Prerequisite(s): Graduate standing and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;529.  Fieldwork Level IB.  1 hour.</strong></p>
+<p class="courseblockdesc">
+A supervised, full time, 2-wk course. The second of third, Level 1 FW course of the program. The emphasis is on the development of: commitment to learning, interpersonal skills, communication, effective time/resource use and beginning evaluation skills. Course Information: Satisfactory/Unsatisfactory grading only. Field work required. Prerequisite(s): Satisfactory completion of <a href="/search/?P=OT%20502" title="OT&#160;502" class="bubblelink code" onclick="return showCourse(this, 'OT 502');">OT&#160;502</a>, <a href="/search/?P=OT%20515" title="OT&#160;515" class="bubblelink code" onclick="return showCourse(this, 'OT 515');">OT&#160;515</a>, and <a href="/search/?P=OT%20519" title="OT&#160;519" class="bubblelink code" onclick="return showCourse(this, 'OT 519');">OT&#160;519</a> and Grade of C or better in <a href="/search/?P=OT%20511" title="OT&#160;511" class="bubblelink code" onclick="return showCourse(this, 'OT 511');">OT&#160;511</a> and grade of C or better in <a href="/search/?P=OT%20512" title="OT&#160;512" class="bubblelink code" onclick="return showCourse(this, 'OT 512');">OT&#160;512</a> and grade of C or better in <a href="/search/?P=OT%20516" title="OT&#160;516" class="bubblelink code" onclick="return showCourse(this, 'OT 516');">OT&#160;516</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;530.  Advanced Field Experience: Clinical Specialization in Occupational Therapy.  1-12 hours.</strong></p>
+<p class="courseblockdesc">
+Provides opportunity for the student interested in advanced occupational therapy practice to observe a master clinician and participate in treatment and/or clinical research in a specialty area. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Students may register for more than one section per term. Prerequisite(s): Approval of the Department.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;531.  Advanced Field Experience in Occupational Therapy Leadership.  1-12 hours.</strong></p>
+<p class="courseblockdesc">
+Practicum experience working with an experienced professional to develop projects or programs in student's area of interest such as administration, middle management, consultation, program evaluation, grantsmanship or others. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Students may register for more than one section per term. Prerequisite(s): Approval of the Department.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;532.  Advanced Field Experience: Occupational Therapy Education.  1-12 hours.</strong></p>
+<p class="courseblockdesc">
+Provides opportunity to observe, prepare, and present lectures/labs to occupational therapy students in technical or professional curricula or to develop skills as a clinical educator. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Students may register for more than one section per term. Prerequisite(s): Approval of the Department.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;533.  Advanced Field Experience: Occupational Therapy Scholarship.  1-12 hours.</strong></p>
+<p class="courseblockdesc">
+Practicum experience working with an experienced scholar to observe and participate in activities that generated evidence about practice, disseminate such evidence, and/or develop practice materials based on evidence. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Students may register for more than one section per term. Field work required. Prerequisite(s): Approval of the Department.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;535.  Synthesis II.  2 hours.</strong></p>
+<p class="courseblockdesc">
+In this problem based learning course, students engage in small and large group learning to analyze cases. Emphasis is placed on occupation-based intervention planning with particular consideration of contextual factors. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): Satisfactory completion of <a href="/search/?P=OT%20502" title="OT&#160;502" class="bubblelink code" onclick="return showCourse(this, 'OT 502');">OT&#160;502</a>; and grade of C or better in <a href="/search/?P=OT%20524" title="OT&#160;524" class="bubblelink code" onclick="return showCourse(this, 'OT 524');">OT&#160;524</a> and grade of C or better in <a href="/search/?P=OT%20526" title="OT&#160;526" class="bubblelink code" onclick="return showCourse(this, 'OT 526');">OT&#160;526</a> and grade of C or better in <a href="/search/?P=OT%20529" title="OT&#160;529" class="bubblelink code" onclick="return showCourse(this, 'OT 529');">OT&#160;529</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;538.  Introduction to Advanced Practice in Occupational Therapy.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Provides exposure to practice in 3 areas of practice requiring advanced clinical reasoning and skills. Includes introductory cases, observation in clinical settings and lab experiences to develop related skills. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): Satisfactory completion of <a href="/search/?P=OT%20519" title="OT&#160;519" class="bubblelink code" onclick="return showCourse(this, 'OT 519');">OT&#160;519</a>; grade of C or better in <a href="/search/?P=OT%20516" title="OT&#160;516" class="bubblelink code" onclick="return showCourse(this, 'OT 516');">OT&#160;516</a> and grade of C or better in <a href="/search/?P=OT%20526" title="OT&#160;526" class="bubblelink code" onclick="return showCourse(this, 'OT 526');">OT&#160;526</a> and grade of C or better in <a href="/search/?P=OT%20529" title="OT&#160;529" class="bubblelink code" onclick="return showCourse(this, 'OT 529');">OT&#160;529</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;539.  Fieldwork Level IC.  1 hour.</strong></p>
+<p class="courseblockdesc">
+A supervised, full-time, 2-week practicum. The third course of 3 Level I fieldwork experiences in the program. The emphasis is on the development of: critical thinking, stress management, beginning evaluation skills, and beginning intervention skills. Course Information: Field work required.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;540.  Advanced Topics in Occupational Therapy Research and Evaluation.  4 hours.</strong></p>
+<p class="courseblockdesc">
+In-depth presentation of selected research/measurement stategies. Specific topics vary and include single system design, survey research, ethnography, evaluation of clinical effectiveness. Course Information: May be repeated. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;542.  Client-Centered and Occupation-Focused Practice and Research.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Provides an advanced understanding and practical skill set for conducting research and engaging in advanced practice using concepts, assessments, and treatment approaches based on the Model of Human Occupation and the Intentional Relationship Model. Course Information: Recommended background: Exposure to coursework in psychopathology or in psychosocial aspects of occupational therapy.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;548.  Fieldwork Level IIA.  8 hours.</strong></p>
+<p class="courseblockdesc">
+First of two supervised full-time 12-week practica with emphasis on application of OT theory, development of psychomotor skills, reasoning client-related problems, and professional socialization as an entry-level occupational therapist. Course Information: Satisfactory/Unsatisfactory grading only. Previously listed as OT 448. Field work required. Prerequisite(s): Grade of C or better in <a href="/search/?P=OT%20529" title="OT&#160;529" class="bubblelink code" onclick="return showCourse(this, 'OT 529');">OT&#160;529</a> and Grade of C or better in <a href="/search/?P=OT%20522" title="OT&#160;522" class="bubblelink code" onclick="return showCourse(this, 'OT 522');">OT&#160;522</a> and Grade of C or better in <a href="/search/?P=OT%20523" title="OT&#160;523" class="bubblelink code" onclick="return showCourse(this, 'OT 523');">OT&#160;523</a> and Grade of C or better in <a href="/search/?P=OT%20564" title="OT&#160;564" class="bubblelink code" onclick="return showCourse(this, 'OT 564');">OT&#160;564</a>; and graduate standing and satisfactory completion of <a href="/search/?P=OT%20519" title="OT&#160;519" class="bubblelink code" onclick="return showCourse(this, 'OT 519');">OT&#160;519</a>, <a href="/search/?P=OT%20535" title="OT&#160;535" class="bubblelink code" onclick="return showCourse(this, 'OT 535');">OT&#160;535</a> and <a href="/search/?P=OT%20538" title="OT&#160;538" class="bubblelink code" onclick="return showCourse(this, 'OT 538');">OT&#160;538</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;549.  Fieldwork Level IIB.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Second of two supervised, full-time, 12-week pradtica with emphasis on application of OT theory, development of psychomotor skills, reasoning client-related problems, and professional socialization as an entry-level occupational therapist. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated to a maximum of 8 hours. Students may register in more than one section per term. Previously listed as OT 449. Field work required. Prerequisite(s): Grade of C or better in <a href="/search/?P=OT%20522" title="OT&#160;522" class="bubblelink code" onclick="return showCourse(this, 'OT 522');">OT&#160;522</a> and grade of C or better in <a href="/search/?P=OT%20523" title="OT&#160;523" class="bubblelink code" onclick="return showCourse(this, 'OT 523');">OT&#160;523</a> and grade of C or better in <a href="/search/?P=OT%20529" title="OT&#160;529" class="bubblelink code" onclick="return showCourse(this, 'OT 529');">OT&#160;529</a> and grade of C or better in <a href="/search/?P=OT%20564" title="OT&#160;564" class="bubblelink code" onclick="return showCourse(this, 'OT 564');">OT&#160;564</a>; and satisfactory coompletion of <a href="/search/?P=OT%20519" title="OT&#160;519" class="bubblelink code" onclick="return showCourse(this, 'OT 519');">OT&#160;519</a>, <a href="/search/?P=OT%20535" title="OT&#160;535" class="bubblelink code" onclick="return showCourse(this, 'OT 535');">OT&#160;535</a> and <a href="/search/?P=OT%20538" title="OT&#160;538" class="bubblelink code" onclick="return showCourse(this, 'OT 538');">OT&#160;538</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;551.  Computers, Communication and Controls in Rehabilitation Technology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Provides information on operation and use of alternative controls for computers, augmentative communication devices and  powered mobility. Emphasis on matching  consumer's need and assistive technology.  Course Information:  Same as <a href="/search/?P=DHD%20551" title="DHD&#160;551" class="bubblelink code" onclick="return showCourse(this, 'DHD 551');">DHD&#160;551</a>. Prerequisite(s): <a href="/search/?P=DHD%20440" title="DHD&#160;440" class="bubblelink code" onclick="return showCourse(this, 'DHD 440');">DHD&#160;440</a>. Recommended background:  Speech-Language Pathology, Occupational Therapy, Special Education.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;553.  Program Evaluation: Documenting the Impact of Human Services.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines methods in program evaluation with emphasis on empowerment and participatory evaluation. Students will study quantitative and qualitative strategies, how to communicate information to stakeholders, and how to design evaluations. Course Information: Same as <a href="/search/?P=DHD%20543" title="DHD&#160;543" class="bubblelink code" onclick="return showCourse(this, 'DHD 543');">DHD&#160;543</a>. Recommended background: Interest in research, health or behavioral sciences, and implementation and evaluation of community initiatives and community-based organizations.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;555.  Synthesis III.  2 hours.</strong></p>
+<p class="courseblockdesc">
+A problem based learning course in which students engage in self-directed analysis of cases.  Emphasizes identification and mitigation of situations creating ethical tension or moral distress, legal concerns and/or complex practice problems. Course Information: Satisfactory/Unsatisfactory grading only. Field work required. Prerequisite(s): Satisfactory completion of <a href="/search/?P=OT%20535" title="OT&#160;535" class="bubblelink code" onclick="return showCourse(this, 'OT 535');">OT&#160;535</a> and <a href="/search/?P=OT%20548" title="OT&#160;548" class="bubblelink code" onclick="return showCourse(this, 'OT 548');">OT&#160;548</a> and <a href="/search/?P=OT%20549" title="OT&#160;549" class="bubblelink code" onclick="return showCourse(this, 'OT 549');">OT&#160;549</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;558.  Writing for Professional Publications in Occupational Therapy.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Addresses processes and issues related to writing for publication in occupational therapy and related journals and magazines, including preparation and submission processes, IRB, receiving critiques, and communicating with reviewers and editors. Course Information: May be repeated to a maximum of 3 hours. Prerequisite(s): Grade of C or better in <a href="/search/?P=OT%20500" title="OT&#160;500" class="bubblelink code" onclick="return showCourse(this, 'OT 500');">OT&#160;500</a> and grade of C or better in <a href="/search/?P=OT%20510" title="OT&#160;510" class="bubblelink code" onclick="return showCourse(this, 'OT 510');">OT&#160;510</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;561.  Disability and Community Participation: Policy, Systems Change, and Action Research.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on the critical examination of disability policy, activism, and research. Emphasis on conducting participatory action research in collaboration with constituents with disabilities, community organizations, and policy makers. Course Information: Same as <a href="/search/?P=DHD%20561" title="DHD&#160;561" class="bubblelink code" onclick="return showCourse(this, 'DHD 561');">DHD&#160;561</a>. Prerequisite(s): Consent of the instructor. Recommended background: Previous coursework in disability policy, disability empowerment research and qualitative research.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;563.  Disability and Global Health.  2 or 3 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on disability and health equity in a global context. The course addresses disability-related health disparities and their determinants in the context of global poverty, development aid and humanitarian crises. Course Information: Same as <a href="/search/?P=DHD%20573" title="DHD&#160;573" class="bubblelink code" onclick="return showCourse(this, 'DHD 573');">DHD&#160;573</a>. Recommended background: <a href="/search/?P=DHD%20202" title="DHD&#160;202" class="bubblelink code" onclick="return showCourse(this, 'DHD 202');">DHD&#160;202</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;564.  Leadership and Management in Occupational Therapy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Overview of issues related to management and leadership in varied settings in which occupational therapists practice. Topics include, but are not limited to, management functions, service planning, quality improvement, and financial management. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=OT%20524" title="OT&#160;524" class="bubblelink code" onclick="return showCourse(this, 'OT 524');">OT&#160;524</a> and Grade of C or better in <a href="/search/?P=OT%20529" title="OT&#160;529" class="bubblelink code" onclick="return showCourse(this, 'OT 529');">OT&#160;529</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;565.  Research Methodology and Outcomes Measures in Rehabilitation Technology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analyzes the research process in rehabilitation technology and assistive technology and how such analyisis leads to the development of a research proposal. Outcome measures related to assistive technology will be evaluated for their applicability.  Course Information: Same as <a href="/search/?P=DHD%20565" title="DHD&#160;565" class="bubblelink code" onclick="return showCourse(this, 'DHD 565');">DHD&#160;565</a>.  Recommended background:  Engineering, Occupational Therapy, Physical Therapy, Special Education, and Speech and Language Pathology.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;568.  Learning, Teaching, Curriculum Design, Delivery and Evaluation.  0-4 hours.</strong></p>
+<p class="courseblockdesc">
+Using didactic material and experiential learning, students learn about teaching philosophy and strategies, learning theories, and curriculum design. Students design, deliver and evaluate effective teaching and learning in a variety of contexts. Course Information: Same as <a href="/search/?P=DHD%20578" title="DHD&#160;578" class="bubblelink code" onclick="return showCourse(this, 'DHD 578');">DHD&#160;578</a>. May be repeated to a maximum of 4 hours. Prerequisite(s): Consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;569.  Developing and Evaluating Self-Management Programs.  2-4 hours.</strong></p>
+<p class="courseblockdesc">
+This blended, elective course will examine the theories and processes supporting the development and evaluation of self-management programs for people living with chronic illness, disability or other long-term life challenge. Course Information: Prerequisite: Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;570.  Health Outcomes Assessments.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Applies current concepts and models used to critically evaluate outcomes assessments used in health care and research. Focus is on how reliability and validity evidence relate to fairness and consequences of assessment in varied populations and settings. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=OT%20510" title="OT&#160;510" class="bubblelink code" onclick="return showCourse(this, 'OT 510');">OT&#160;510</a> or equivalent and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;571.  Knowledge Translation for Disability and Rehabilitation.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Using an equity focused model, students will form knowledge translation collaboratives to both learn and apply knowledge translation principles for advocacy, education, and clinical practice. Course Information: Same as <a href="/search/?P=DHD%20574" title="DHD&#160;574" class="bubblelink code" onclick="return showCourse(this, 'DHD 574');">DHD&#160;574</a>. Prerequisite(s): <a href="/search/?P=OT%20510" title="OT&#160;510" class="bubblelink code" onclick="return showCourse(this, 'OT 510');">OT&#160;510</a>; or <a href="/search/?P=DHD%20510" title="DHD&#160;510" class="bubblelink code" onclick="return showCourse(this, 'DHD 510');">DHD&#160;510</a>; and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;590.  Proseminar in Occupational Therapy.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Topics related to leadership/management, education and advanced practice in occupational therapy. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated to a maximum of 4 hours.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;592.  Doctoral Project Research.  0-20 hours.</strong></p>
+<p class="courseblockdesc">
+Applied scholarship involving planning and implementation of one or more action projects based on theory and evidence, evaluation, writing a comprehensive report, dissemination, and oral presentation. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated to a maximum of 20 hours. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;594.  Special Topics in Occupational Therapy.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+New course under development and selected seminar topics of current interests to faculty and students. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;595.  Seminar in Occupational Therapy.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Students participate in faculty-student discussion and activities related to individual areas of research/thesis. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): Graduate standing or consent of the instructor and admission to the M.S. or OTD Occupational Therapy program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>OT&#160;596.  Independent Study.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+This course is for graduate students who wish to pursue independent study not related to their project/thesis research. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="ot.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

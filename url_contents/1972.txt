@@ -1,0 +1,453 @@
+https://catalog.uic.edu/ucat/course-descriptions/sped/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Special Education (SPED) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a></li>
+		<li class="active isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a>
+		<ul class="nav leveltwo" id="/ucat/course-descriptions/">
+			<li><a href="/ucat/course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+			<li><a href="/ucat/course-descriptions/actg/">Accounting (ACTG)</a></li>
+			<li><a href="/ucat/course-descriptions/aast/">African American Studies (AAST)</a></li>
+			<li><a href="/ucat/course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+			<li><a href="/ucat/course-descriptions/anth/">Anthropology (ANTH)</a></li>
+			<li><a href="/ucat/course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+			<li><a href="/ucat/course-descriptions/arab/">Arabic (ARAB)</a></li>
+			<li><a href="/ucat/course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+			<li><a href="/ucat/course-descriptions/arch/">Architecture (ARCH)</a></li>
+			<li><a href="/ucat/course-descriptions/art/">Art (ART)</a></li>
+			<li><a href="/ucat/course-descriptions/ah/">Art History (AH)</a></li>
+			<li><a href="/ucat/course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+			<li><a href="/ucat/course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+			<li><a href="/ucat/course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+			<li><a href="/ucat/course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+			<li><a href="/ucat/course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+			<li><a href="/ucat/course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+			<li><a href="/ucat/course-descriptions/blst/">Black Studies (BLST)</a></li>
+			<li><a href="/ucat/course-descriptions/ba/">Business Administration (BA)</a></li>
+			<li><a href="/ucat/course-descriptions/cc/">Campus Courses (CC)</a></li>
+			<li><a href="/ucat/course-descriptions/cst/">Catholic Studies (CST)</a></li>
+			<li><a href="/ucat/course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+			<li><a href="/ucat/course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+			<li><a href="/ucat/course-descriptions/chem/">Chemistry (CHEM)</a></li>
+			<li><a href="/ucat/course-descriptions/chin/">Chinese (CHIN)</a></li>
+			<li><a href="/ucat/course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+			<li><a href="/ucat/course-descriptions/cl/">Classics (CL)</a></li>
+			<li><a href="/ucat/course-descriptions/comm/">Communication (COMM)</a></li>
+			<li><a href="/ucat/course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+			<li><a href="/ucat/course-descriptions/cs/">Computer Science (CS)</a></li>
+			<li><a href="/ucat/course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+			<li><a href="/ucat/course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+			<li><a href="/ucat/course-descriptions/des/">Design (DES)</a></li>
+			<li><a href="/ucat/course-descriptions/dlg/">Dialogue (DLG)</a></li>
+			<li><a href="/ucat/course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+			<li><a href="/ucat/course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+			<li><a href="/ucat/course-descriptions/econ/">Economics (ECON)</a></li>
+			<li><a href="/ucat/course-descriptions/ed/">Education (ED)</a></li>
+			<li><a href="/ucat/course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+			<li><a href="/ucat/course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+			<li><a href="/ucat/course-descriptions/ece/">Electrical and Computer Engr (ECE)</a></li>
+			<li><a href="/ucat/course-descriptions/engr/">Engineering (ENGR)</a></li>
+			<li><a href="/ucat/course-descriptions/engl/">English (ENGL)</a></li>
+			<li><a href="/ucat/course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+			<li><a href="/ucat/course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+			<li><a href="/ucat/course-descriptions/fin/">Finance (FIN)</a></li>
+			<li><a href="/ucat/course-descriptions/fr/">French (FR)</a></li>
+			<li><a href="/ucat/course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+			<li><a href="/ucat/course-descriptions/geog/">Geography (GEOG)</a></li>
+			<li><a href="/ucat/course-descriptions/ger/">Germanic Studies (GER)</a></li>
+			<li><a href="/ucat/course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+			<li><a href="/ucat/course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+			<li><a href="/ucat/course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+			<li><a href="/ucat/course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+			<li><a href="/ucat/course-descriptions/him/">Health Information Management (HIM)</a></li>
+			<li><a href="/ucat/course-descriptions/heb/">Hebrew (HEB)</a></li>
+			<li><a href="/ucat/course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+			<li><a href="/ucat/course-descriptions/hist/">History (HIST)</a></li>
+			<li><a href="/ucat/course-descriptions/hon/">Honors College Courses (HON)</a></li>
+			<li><a href="/ucat/course-descriptions/hn/">Human Nutrition (HN)</a></li>
+			<li><a href="/ucat/course-descriptions/hum/">Humanities (HUM)</a></li>
+			<li><a href="/ucat/course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+			<li><a href="/ucat/course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+			<li><a href="/ucat/course-descriptions/it/">Information Technology (IT)</a></li>
+			<li><a href="/ucat/course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+			<li><a href="/ucat/course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+			<li><a href="/ucat/course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+			<li><a href="/ucat/course-descriptions/inst/">International Studies (INST)</a></li>
+			<li><a href="/ucat/course-descriptions/ital/">Italian (ITAL)</a></li>
+			<li><a href="/ucat/course-descriptions/jpn/">Japanese (JPN)</a></li>
+			<li><a href="/ucat/course-descriptions/jst/">Jewish Studies (JST)</a></li>
+			<li><a href="/ucat/course-descriptions/kn/">Kinesiology (KN)</a></li>
+			<li><a href="/ucat/course-descriptions/kor/">Korean (KOR)</a></li>
+			<li><a href="/ucat/course-descriptions/lat/">Latin (LAT)</a></li>
+			<li><a href="/ucat/course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+			<li><a href="/ucat/course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+			<li><a href="/ucat/course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+			<li><a href="/ucat/course-descriptions/ling/">Linguistics (LING)</a></li>
+			<li><a href="/ucat/course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+			<li><a href="/ucat/course-descriptions/lith/">Lithuanian (LITH)</a></li>
+			<li><a href="/ucat/course-descriptions/mgmt/">Management (MGMT)</a></li>
+			<li><a href="/ucat/course-descriptions/mktg/">Marketing (MKTG)</a></li>
+			<li><a href="/ucat/course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+			<li><a href="/ucat/course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+			<li><a href="/ucat/course-descriptions/math/">Mathematics (MATH)</a></li>
+			<li><a href="/ucat/course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+			<li><a href="/ucat/course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+			<li><a href="/ucat/course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+			<li><a href="/ucat/course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+			<li><a href="/ucat/course-descriptions/mils/">Military Science (MILS)</a></li>
+			<li><a href="/ucat/course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+			<li><a href="/ucat/course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+			<li><a href="/ucat/course-descriptions/mus/">Music (MUS)</a></li>
+			<li><a href="/ucat/course-descriptions/nast/">Native American Studies (NAST)</a></li>
+			<li><a href="/ucat/course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+			<li><a href="/ucat/course-descriptions/ns/">Naval Science (NS)</a></li>
+			<li><a href="/ucat/course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+			<li><a href="/ucat/course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+			<li><a href="/ucat/course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+			<li><a href="/ucat/course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+			<li><a href="/ucat/course-descriptions/path/">Pathology (PATH)</a></li>
+			<li><a href="/ucat/course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+			<li><a href="/ucat/course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+			<li><a href="/ucat/course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+			<li><a href="/ucat/course-descriptions/psop/">Pharmacy Systems, Outcomes &amp;&#8203; Policy (PSOP)</a></li>
+			<li><a href="/ucat/course-descriptions/phil/">Philosophy (PHIL)</a></li>
+			<li><a href="/ucat/course-descriptions/pt/">Physical Therapy (PT)</a></li>
+			<li><a href="/ucat/course-descriptions/phys/">Physics (PHYS)</a></li>
+			<li><a href="/ucat/course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+			<li><a href="/ucat/course-descriptions/pol/">Polish (POL)</a></li>
+			<li><a href="/ucat/course-descriptions/pols/">Political Science (POLS)</a></li>
+			<li><a href="/ucat/course-descriptions/port/">Portuguese (PORT)</a></li>
+			<li><a href="/ucat/course-descriptions/psch/">Psychology (PSCH)</a></li>
+			<li><a href="/ucat/course-descriptions/pa/">Public Administration (PA)</a></li>
+			<li><a href="/ucat/course-descriptions/pubh/">Public Health (PUBH)</a></li>
+			<li><a href="/ucat/course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+			<li><a href="/ucat/course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+			<li><a href="/ucat/course-descriptions/rels/">Religious Studies (RELS)</a></li>
+			<li><a href="/ucat/course-descriptions/russ/">Russian (RUSS)</a></li>
+			<li><a href="/ucat/course-descriptions/slav/">Slavic &amp;&#8203; Baltic Languages &amp;&#8203;Lit (SLAV)</a></li>
+			<li><a href="/ucat/course-descriptions/sj/">Social Justice (SJ)</a></li>
+			<li><a href="/ucat/course-descriptions/soc/">Sociology (SOC)</a></li>
+			<li><a href="/ucat/course-descriptions/span/">Spanish (SPAN)</a></li>
+			<li class="active self"><a href="#" onclick="return false;">Special Education (SPED)</a></li>
+			<li><a href="/ucat/course-descriptions/stat/">Statistics (STAT)</a></li>
+			<li><a href="/ucat/course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+			<li><a href="/ucat/course-descriptions/thtr/">Theatre (THTR)</a></li>
+			<li><a href="/ucat/course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+			<li><a href="/ucat/course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+			<li><a href="/ucat/course-descriptions/us/">Urban Studies (US)</a></li>
+		</ul>
+		</li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/course-descriptions/">Undergraduate&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Special Education (SPED)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Special Education (SPED)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="spedcourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>SPED&#160;201.  Childrenâ€™s Literature and Disabilities.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of childrenâ€™s and young adult literature focused on how disabilities are portrayed and how literature encapsulates societal attitudes, beliefs, and stereotypes contributing to access and equity of children with disabilities in schools. Course Information: Same as <a href="/search/?P=ED%20201" title="ED&#160;201" class="bubblelink code" onclick="return showCourse(this, 'ED 201');">ED&#160;201</a>. This is a blended course.<i>  Creative Arts course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SPED&#160;410.  Exceptional Learners.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Addresses the psychology of, identification of, and methods of instruction for exceptional learners served under all categories recognized by federal law. Course Information: Field work required. 20 hours of field work is required.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SPED&#160;416.  Methods of Instruction for Exceptional Learners.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The purpose of this course is to address issues of instruction for individuals with special needs.  Topics include effective instructional and accommodative practices and strategies in multiple areas (math, literacy, science, social studies, art).  Course Information: Prerequisite(s): Junior standing or above and admission to the Bachelor of Arts in Elementary Education program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SPED&#160;423.  Assessment of Monolingual and LEP Children with Disabilities.  3 hours.</strong></p>
+<p class="courseblockdesc">
+To prepare students in use of formal and informal assessments to inform placement, instructional planning, and evaluation of English Language Learners with disabilities. Course Information: Prerequisite(s): Restricted to students seeking LBSII or admission as a doctoral student or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SPED&#160;424.  Assessment of Students with Special Needs.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Theoretical basis and practical application of standardized and alternative testing of children with learning and behavior difficulties. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=SPED%20410" title="SPED&#160;410" class="bubblelink code" onclick="return showCourse(this, 'SPED 410');">SPED&#160;410</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SPED&#160;426.  Curricular/Behavioral Considerations for Learners with Special Needs.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Instructional practices related to academics, classroom management, individualized and group instruction for students with special needs. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=SPED%20424" title="SPED&#160;424" class="bubblelink code" onclick="return showCourse(this, 'SPED 424');">SPED&#160;424</a> or the equivalent or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SPED&#160;427.  Instructional and Behavioral Methods for English Language Learners with Disabilities.  3 hours.</strong></p>
+<p class="courseblockdesc">
+To prepare students in the use of  best practice instruction and the promotion of prosocial behavior within the context of teaching English Language Learners with disabilities. Course Information: Prerequisite(s): Open only to Master's degree students; and consent of the instructor and successful completion of <a href="/search/?P=SPED%20423" title="SPED&#160;423" class="bubblelink code" onclick="return showCourse(this, 'SPED 423');">SPED&#160;423</a> or equivalent. Assumes previous instructional planning for students with disabilities and practicum that is part of the certification requirements for the Learning Behavior Specialist I certification; and minimum one year teaching experience or providing direct services to students with disabilities. Recommended background: Illinois State Board of Education certification: Learning Behavior Specialist I; minimum one year teaching experience.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SPED&#160;442.  Language Development and Disorders.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Theory and research on the acquisition of phonology, syntax, semantics and pragmatics in children with and without disabilities. Models for language assessment and intervention. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=SPED%20410" title="SPED&#160;410" class="bubblelink code" onclick="return showCourse(this, 'SPED 410');">SPED&#160;410</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SPED&#160;444.  Assistive Technology for Literacy, Learning and Participation in Pre-K through High School.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Use of communication systems, computers, adapted equipment and strategies to foster participation and inclusion of students in grades preschool through high school. Course Information: Same as DHD 444.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SPED&#160;448.  Topics in Special Education.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Course or workshop on preannounced topic on the education of handicapped children, adolescents, or adults. Course Information: May be repeated. Students may register in more than one section per term. Prerequisite(s): <a href="/search/?P=SPED%20410" title="SPED&#160;410" class="bubblelink code" onclick="return showCourse(this, 'SPED 410');">SPED&#160;410</a> and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SPED&#160;449.  Early Childhood/Early Childhood Special Education: Perspectives, Policies and History.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Perspectives, policies, history, and foundations of Early Childhood Education and Early Childhood Special Education. Emphasis on the effects of changing economic, political, legal, social, and views of human development. Course Information: Same as <a href="/search/?P=EPSY%20449" title="EPSY&#160;449" class="bubblelink code" onclick="return showCourse(this, 'EPSY 449');">EPSY&#160;449</a> and <a href="/search/?P=EDPS%20449" title="EDPS&#160;449" class="bubblelink code" onclick="return showCourse(this, 'EDPS 449');">EDPS&#160;449</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SPED&#160;461.  Political and Socio-Cultural Perspectives on Special Education.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Students will examine issues of access and equity through legislation, litigation, and socio-cultural perspectives and be introduced to major theoretical frameworks that influence special education programs. Course Information: Same as <a href="/search/?P=ED%20461" title="ED&#160;461" class="bubblelink code" onclick="return showCourse(this, 'ED 461');">ED&#160;461</a>. Field work required. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SPED&#160;462.  Assessment of Individuals with Disabilities.  3 hours.</strong></p>
+<p class="courseblockdesc">
+To prepare students in the use of standardized and formative assessment to understand student learning, inform decisions regarding placement, instructional planning, and evaluation of students with disabilities.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SPED&#160;463.  Literacy Instruction for Diverse Learners in School.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Emphasizes the components of designing, implementing, and assessing reading and writing instruction for diverse students at the early childhood/elementary level. Course Information: Field work required. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SPED&#160;465.  Understanding Students with High Incidence Disabilities.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Uses major theoretical frameworks of human development to examine the characteristics and development of students with high incidence disabilities, ages 3-21. Course Information: Same as <a href="/search/?P=EPSY%20465" title="EPSY&#160;465" class="bubblelink code" onclick="return showCourse(this, 'EPSY 465');">EPSY&#160;465</a>. Field work required. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SPED&#160;466.  Language Development, Diversity, and Disabilities.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Theory and research on language development in children with disabilities, in the context of typical development. Models for language assessment and intervention. Course Information: Same as <a href="/search/?P=EPSY%20466" title="EPSY&#160;466" class="bubblelink code" onclick="return showCourse(this, 'EPSY 466');">EPSY&#160;466</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SPED&#160;467.  Understanding Students With Low Incidence Disabilities.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Explores characteristics and development of children and youth with low incidence disabilities, ages 3-21, as well as how schools address their instructional needs. Course Information: Same as <a href="/search/?P=EPSY%20467" title="EPSY&#160;467" class="bubblelink code" onclick="return showCourse(this, 'EPSY 467');">EPSY&#160;467</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SPED&#160;471.  Curricular Adaptations for Learners with Significant Disabilities.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Provides information on the nature and needs of individuals with severe/profound disabilities and the roles of federal, state, and local education agencies play in providing services to this population. Course Information: Field work required. Prerequisite(s): <a href="/search/?P=SPED%20461" title="SPED&#160;461" class="bubblelink code" onclick="return showCourse(this, 'SPED 461');">SPED&#160;461</a> and <a href="/search/?P=SPED%20465" title="SPED&#160;465" class="bubblelink code" onclick="return showCourse(this, 'SPED 465');">SPED&#160;465</a> and <a href="/search/?P=SPED%20467" title="SPED&#160;467" class="bubblelink code" onclick="return showCourse(this, 'SPED 467');">SPED&#160;467</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SPED&#160;472.  Academic and Prosocial Interventions.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces students to the principles and concepts of data-based decision making and individualization with an emphasis on addressing the social, emotional, and behavioral needs of students with disabilities. Course Information: Same as <a href="/search/?P=ED%20472" title="ED&#160;472" class="bubblelink code" onclick="return showCourse(this, 'ED 472');">ED&#160;472</a>. Field work required.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SPED&#160;473.  Teaching Math and Science with Adaptations.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Provides prospective teachers with assessment strategies and a range of adaptations, modifications, and interventions in math and science for students with disabilities. Course Information: Same as <a href="/search/?P=ED%20473" title="ED&#160;473" class="bubblelink code" onclick="return showCourse(this, 'ED 473');">ED&#160;473</a>. Field work required. Prerequisite(s): <a href="/search/?P=SPED%20461" title="SPED&#160;461" class="bubblelink code" onclick="return showCourse(this, 'SPED 461');">SPED&#160;461</a>. Course Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SPED&#160;481.  Theoretical Foundations and Issues of Bilingual Special Education.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Theoretical, pedagogical foundations of Bilingual Special Education to provide experienced special educators with research-based knowledge and practices to serve English Language Learners with disabilities. Course Information: Prerequisite(s): Restricted to students seeking LBSII or admission as a doctoral student or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SPED&#160;482.  Collaborating with Families, Community, and Professionals.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Explores the dynamics of professional collaboration with families, addressing characteristics, structures, and processes of collaboration for children and youth with and without disabilities. Course Information: Same as <a href="/search/?P=EPSY%20482" title="EPSY&#160;482" class="bubblelink code" onclick="return showCourse(this, 'EPSY 482');">EPSY&#160;482</a>. Previously listed as SPED 582. Field work required. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="sped.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,565 @@
+https://catalog.uic.edu/all-course-descriptions/re/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Real Estate (RE) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="isparent"><a href="/ucat/">Undergraduate Catalog</a></li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="active isparent"><a href="/all-course-descriptions/">All Course Descriptions</a>
+	<ul class="nav levelone" id="/all-course-descriptions/">
+		<li><a href="/all-course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+		<li><a href="/all-course-descriptions/actg/">Accounting (ACTG)</a></li>
+		<li><a href="/all-course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+		<li><a href="/all-course-descriptions/anth/">Anthropology (ANTH)</a></li>
+		<li><a href="/all-course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+		<li><a href="/all-course-descriptions/arab/">Arabic (ARAB)</a></li>
+		<li><a href="/all-course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+		<li><a href="/all-course-descriptions/arch/">Architecture (ARCH)</a></li>
+		<li><a href="/all-course-descriptions/art/">Art (ART)</a></li>
+		<li><a href="/all-course-descriptions/ah/">Art History (AH)</a></li>
+		<li><a href="/all-course-descriptions/bms/">Basic Medical Sciences (BMS)</a></li>
+		<li><a href="/all-course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+		<li><a href="/all-course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+		<li><a href="/all-course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+		<li><a href="/all-course-descriptions/bvis/">Biomedical Visualization (BVIS)</a></li>
+		<li><a href="/all-course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+		<li><a href="/all-course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+		<li><a href="/all-course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+		<li><a href="/all-course-descriptions/blst/">Black Studies (BLST)</a></li>
+		<li><a href="/all-course-descriptions/ba/">Business Administration (BA)</a></li>
+		<li><a href="/all-course-descriptions/cc/">Campus Courses (CC)</a></li>
+		<li><a href="/all-course-descriptions/cst/">Catholic Studies (CST)</a></li>
+		<li><a href="/all-course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+		<li><a href="/all-course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+		<li><a href="/all-course-descriptions/chem/">Chemistry (CHEM)</a></li>
+		<li><a href="/all-course-descriptions/chin/">Chinese (CHIN)</a></li>
+		<li><a href="/all-course-descriptions/cd/">City Design (CD)</a></li>
+		<li><a href="/all-course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+		<li><a href="/all-course-descriptions/cl/">Classics (CL)</a></li>
+		<li><a href="/all-course-descriptions/cler/">Clerkship -&#8203; Medicine (CLER)</a></li>
+		<li><a href="/all-course-descriptions/cele/">Clerkship Electives -&#8203; Chicago (CELE)</a></li>
+		<li><a href="/all-course-descriptions/pele/">Clerkship Electives -&#8203; Peoria (PELE)</a></li>
+		<li><a href="/all-course-descriptions/rele/">Clerkship Electives -&#8203; Rockford (RELE)</a></li>
+		<li><a href="/all-course-descriptions/uele/">Clerkship Electives -&#8203; Urbana (UELE)</a></li>
+		<li><a href="/all-course-descriptions/comm/">Communication (COMM)</a></li>
+		<li><a href="/all-course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+		<li><a href="/all-course-descriptions/cs/">Computer Science (CS)</a></li>
+		<li><a href="/all-course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+		<li><a href="/all-course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+		<li><a href="/all-course-descriptions/dadm/">Dental Administration (DADM)</a></li>
+		<li><a href="/all-course-descriptions/daob/">Dentistry -&#8203; Applied Oral and Behavioral Sciences (DAOB)</a></li>
+		<li><a href="/all-course-descriptions/dbcs/">Dentistry -&#8203; Biomedical and Clinical Sciences (DBCS)</a></li>
+		<li><a href="/all-course-descriptions/dcle/">Dentistry -&#8203; Community Learning Experience (DCLE)</a></li>
+		<li><a href="/all-course-descriptions/dosi/">Dentistry -&#8203; Oral/&#8203;Systemic Issues (DOSI)</a></li>
+		<li><a href="/all-course-descriptions/dost/">Dentistry -&#8203; Oral/&#8203;Systemic Topics (DOST)</a></li>
+		<li><a href="/all-course-descriptions/des/">Design (DES)</a></li>
+		<li><a href="/all-course-descriptions/dlg/">Dialogue (DLG)</a></li>
+		<li><a href="/all-course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+		<li><a href="/all-course-descriptions/mdc/">Doctor of Medicine—Chicago (MDC)</a></li>
+		<li><a href="/all-course-descriptions/mdp/">Doctor of Medicine—Peoria (MDP)</a></li>
+		<li><a href="/all-course-descriptions/mdr/">Doctor of Medicine—Rockford (MDR)</a></li>
+		<li><a href="/all-course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+		<li><a href="/all-course-descriptions/econ/">Economics (ECON)</a></li>
+		<li><a href="/all-course-descriptions/ed/">Education (ED)</a></li>
+		<li><a href="/all-course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+		<li><a href="/all-course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+		<li><a href="/all-course-descriptions/ece/">Electrical and Computer Engineering (ECE)</a></li>
+		<li><a href="/all-course-descriptions/eb/">Employee Benefits (EB)</a></li>
+		<li><a href="/all-course-descriptions/endo/">Endodontics (ENDO)</a></li>
+		<li><a href="/all-course-descriptions/ener/">Energy Engineering (ENER)</a></li>
+		<li><a href="/all-course-descriptions/engr/">Engineering (ENGR)</a></li>
+		<li><a href="/all-course-descriptions/engl/">English (ENGL)</a></li>
+		<li><a href="/all-course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+		<li><a href="/all-course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+		<li><a href="/all-course-descriptions/eohs/">Environmental and Occupational Health Sciences (EOHS)</a></li>
+		<li><a href="/all-course-descriptions/epid/">Epidemiology (EPID)</a></li>
+		<li><a href="/all-course-descriptions/epl/">Estate Planning (EPL)</a></li>
+		<li><a href="/all-course-descriptions/fin/">Finance (FIN)</a></li>
+		<li><a href="/all-course-descriptions/fr/">French (FR)</a></li>
+		<li><a href="/all-course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+		<li><a href="/all-course-descriptions/geog/">Geography (GEOG)</a></li>
+		<li><a href="/all-course-descriptions/ger/">Germanic Studies (GER)</a></li>
+		<li><a href="/all-course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+		<li><a href="/all-course-descriptions/gc/">Graduate College (GC)</a></li>
+		<li><a href="/all-course-descriptions/gems/">Graduate Education in Medical Sciences (GEMS)</a></li>
+		<li><a href="/all-course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+		<li><a href="/all-course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+		<li><a href="/all-course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+		<li><a href="/all-course-descriptions/him/">Health Information Management (HIM)</a></li>
+		<li><a href="/all-course-descriptions/hpa/">Health Policy and Administration (HPA)</a></li>
+		<li><a href="/all-course-descriptions/hlp/">Healthy Living Practitioner™ (HLP)</a></li>
+		<li><a href="/all-course-descriptions/heb/">Hebrew (HEB)</a></li>
+		<li><a href="/all-course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+		<li><a href="/all-course-descriptions/hstl/">Histology (HSTL)</a></li>
+		<li><a href="/all-course-descriptions/hist/">History (HIST)</a></li>
+		<li><a href="/all-course-descriptions/hon/">Honors College (HON)</a></li>
+		<li><a href="/all-course-descriptions/hn/">Human Nutrition (HN)</a></li>
+		<li><a href="/all-course-descriptions/hum/">Humanities (HUM)</a></li>
+		<li><a href="/all-course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+		<li><a href="/all-course-descriptions/it/">Information Technology (IT)</a></li>
+		<li><a href="/all-course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+		<li><a href="/all-course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+		<li><a href="/all-course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+		<li><a href="/all-course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+		<li><a href="/all-course-descriptions/ip/">Intellectual Property (IP)</a></li>
+		<li><a href="/all-course-descriptions/ibt/">International Business and Trade (IBT)</a></li>
+		<li><a href="/all-course-descriptions/inst/">International Studies (INST)</a></li>
+		<li><a href="/all-course-descriptions/ital/">Italian (ITAL)</a></li>
+		<li><a href="/all-course-descriptions/jpn/">Japanese (JPN)</a></li>
+		<li><a href="/all-course-descriptions/jst/">Jewish Studies (JST)</a></li>
+		<li><a href="/all-course-descriptions/jd/">Juris Doctor (JD)</a></li>
+		<li><a href="/all-course-descriptions/kn/">Kinesiology (KN)</a></li>
+		<li><a href="/all-course-descriptions/kor/">Korean (KOR)</a></li>
+		<li><a href="/all-course-descriptions/lat/">Latin (LAT)</a></li>
+		<li><a href="/all-course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+		<li><a href="/all-course-descriptions/law/">Law (LAW)</a></li>
+		<li><a href="/all-course-descriptions/lrsc/">Learning Sciences (LRSC)</a></li>
+		<li><a href="/all-course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+		<li><a href="/all-course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+		<li><a href="/all-course-descriptions/ling/">Linguistics (LING)</a></li>
+		<li><a href="/all-course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+		<li><a href="/all-course-descriptions/lith/">Lithuanian (LITH)</a></li>
+		<li><a href="/all-course-descriptions/mgmt/">Management (MGMT)</a></li>
+		<li><a href="/all-course-descriptions/mktg/">Marketing (MKTG)</a></li>
+		<li><a href="/all-course-descriptions/mba/">Master of Business Administration (MBA)</a></li>
+		<li><a href="/all-course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+		<li><a href="/all-course-descriptions/mj/">Master of Jurisprudence (MJ)</a></li>
+		<li><a href="/all-course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+		<li><a href="/all-course-descriptions/math/">Mathematics (MATH)</a></li>
+		<li><a href="/all-course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+		<li><a href="/all-course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+		<li><a href="/all-course-descriptions/mbt/">Medical Biotechnology (MBT)</a></li>
+		<li><a href="/all-course-descriptions/mhpe/">Medical Education (MHPE)</a></li>
+		<li><a href="/all-course-descriptions/mhum/">Medical Humanities (MHUM)</a></li>
+		<li><a href="/all-course-descriptions/mdch/">Medicinal Chemistry (MDCH)</a></li>
+		<li><a href="/all-course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+		<li><a href="/all-course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+		<li><a href="/all-course-descriptions/mils/">Military Science (MILS)</a></li>
+		<li><a href="/all-course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+		<li><a href="/all-course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+		<li><a href="/all-course-descriptions/mus/">Music (MUS)</a></li>
+		<li><a href="/all-course-descriptions/nast/">Native American Studies (NAST)</a></li>
+		<li><a href="/all-course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+		<li><a href="/all-course-descriptions/ns/">Naval Science (NS)</a></li>
+		<li><a href="/all-course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+		<li><a href="/all-course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+		<li><a href="/all-course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+		<li><a href="/all-course-descriptions/nupr/">Nursing Practicum (NUPR)</a></li>
+		<li><a href="/all-course-descriptions/nusp/">Nursing Specialty (NUSP)</a></li>
+		<li><a href="/all-course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+		<li><a href="/all-course-descriptions/omds/">Oral Medicine and Diagnostic Sciences (OMDS)</a></li>
+		<li><a href="/all-course-descriptions/osci/">Oral Sciences (OSCI)</a></li>
+		<li><a href="/all-course-descriptions/osur/">Oral and Maxillofacial Surgery (OSUR)</a></li>
+		<li><a href="/all-course-descriptions/ortd/">Orthodontics (ORTD)</a></li>
+		<li><a href="/all-course-descriptions/path/">Pathology (PATH)</a></li>
+		<li><a href="/all-course-descriptions/psl/">Patient Safety Leadership (PSL)</a></li>
+		<li><a href="/all-course-descriptions/pedd/">Pediatric Dentistry (PEDD)</a></li>
+		<li><a href="/all-course-descriptions/peri/">Periodontics (PERI)</a></li>
+		<li><a href="/all-course-descriptions/psci/">Pharmaceutical Sciences (PSCI)</a></li>
+		<li><a href="/all-course-descriptions/pmpg/">Pharmacognosy (PMPG)</a></li>
+		<li><a href="/all-course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+		<li><a href="/all-course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+		<li><a href="/all-course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+		<li><a href="/all-course-descriptions/psop/">Pharmacy Systems, Outcomes, and Policy (PSOP)</a></li>
+		<li><a href="/all-course-descriptions/phil/">Philosophy (PHIL)</a></li>
+		<li><a href="/all-course-descriptions/pt/">Physical Therapy (PT)</a></li>
+		<li><a href="/all-course-descriptions/phys/">Physics (PHYS)</a></li>
+		<li><a href="/all-course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+		<li><a href="/all-course-descriptions/pol/">Polish (POL)</a></li>
+		<li><a href="/all-course-descriptions/pols/">Political Science (POLS)</a></li>
+		<li><a href="/all-course-descriptions/port/">Portuguese (PORT)</a></li>
+		<li><a href="/all-course-descriptions/prcl/">Preclinical Medicine (PRCL)</a></li>
+		<li><a href="/all-course-descriptions/ptl/">Privacy and Technology Law (PTL)</a></li>
+		<li><a href="/all-course-descriptions/pros/">Prosthodontics (PROS)</a></li>
+		<li><a href="/all-course-descriptions/psch/">Psychology (PSCH)</a></li>
+		<li><a href="/all-course-descriptions/pa/">Public Administration (PA)</a></li>
+		<li><a href="/all-course-descriptions/pubh/">Public Health (PUBH)</a></li>
+		<li><a href="/all-course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+		<li><a href="/all-course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+		<li class="active self"><a href="#" onclick="return false;">Real Estate (RE)</a></li>
+		<li><a href="/all-course-descriptions/rels/">Religious Studies (RELS)</a></li>
+		<li><a href="/all-course-descriptions/rest/">Restorative Dentistry (REST)</a></li>
+		<li><a href="/all-course-descriptions/russ/">Russian (RUSS)</a></li>
+		<li><a href="/all-course-descriptions/slav/">Slavic and Baltic Languages and Literatures (SLAV)</a></li>
+		<li><a href="/all-course-descriptions/sj/">Social Justice (SJ)</a></li>
+		<li><a href="/all-course-descriptions/socw/">Social Work (SOCW)</a></li>
+		<li><a href="/all-course-descriptions/soc/">Sociology (SOC)</a></li>
+		<li><a href="/all-course-descriptions/span/">Spanish (SPAN)</a></li>
+		<li><a href="/all-course-descriptions/sped/">Special Education (SPED)</a></li>
+		<li><a href="/all-course-descriptions/spec/">Specialty Medicine (SPEC)</a></li>
+		<li><a href="/all-course-descriptions/stat/">Statistics (STAT)</a></li>
+		<li><a href="/all-course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+		<li><a href="/all-course-descriptions/surg/">Surgery (SURG)</a></li>
+		<li><a href="/all-course-descriptions/tx/">Taxation (TX)</a></li>
+		<li><a href="/all-course-descriptions/thtr/">Theatre (THTR)</a></li>
+		<li><a href="/all-course-descriptions/tadr/">Trial Advocacy and Dispute Resolution (TADR)</a></li>
+		<li><a href="/all-course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+		<li><a href="/all-course-descriptions/us/">Urban Studies (US)</a></li>
+		<li><a href="/all-course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+		<li><a href="/all-course-descriptions/usl/">US Legal Studies (USL)</a></li>
+	</ul>
+	</li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/all-course-descriptions/">All&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Real Estate (RE)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Real Estate (RE)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<div class="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle"><strong>RE 420.  Real Estate: Natural Resources Law.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Examines natural resources law as it relates to real estate, including ownership of natural resources, land use and development, conservation efforts, and development. Course Information: Same as <a href="/search/?P=JD%20420" title="JD 420" class="bubblelink code" onclick="return showCourse(this, 'JD 420');">JD 420</a>. Previously listed as JD 111/RE 621. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and JD  407, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>, and JD  416; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20439" title="JD 439" class="bubblelink code" onclick="return showCourse(this, 'JD 439');">JD 439</a> or <a href="/search/?P=RE%20439" title="RE 439" class="bubblelink code" onclick="return showCourse(this, 'RE 439');">RE 439</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 426.  Real Estate: Environmental Controls and Concerns.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Survey course of federal and state laws related to air, water, solid waste and noise pollution abatement and the impact on land ownership and development. Course Information: Same as <a href="/search/?P=JD%20426" title="JD 426" class="bubblelink code" onclick="return showCourse(this, 'JD 426');">JD 426</a>. Previously listed as JD 609/RE 609. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a> and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a> and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a> and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a> and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a> and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a> and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a> and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20439" title="JD 439" class="bubblelink code" onclick="return showCourse(this, 'JD 439');">JD 439</a> or <a href="/search/?P=RE%20439" title="RE 439" class="bubblelink code" onclick="return showCourse(this, 'RE 439');">RE 439</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 439.  Real Estate Transactions.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces real estate law in the context of residential transactions, including broker agreements, sales contracts, financing documents, marketable title, insurance, recordation, and warranties/disclosures. Course Information: Same as <a href="/search/?P=JD%20439" title="JD 439" class="bubblelink code" onclick="return showCourse(this, 'JD 439');">JD 439</a>. Previously listed as JD 243/RE 643. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a> and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a> and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a> and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a> and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a> and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a> and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a> and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 440.  Real Estate: Commercial Transactions.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Covers legal, accounting, and business issues relating to acquisition and ownership of commercial real estate. Course Information: Same as <a href="/search/?P=JD%20440" title="JD 440" class="bubblelink code" onclick="return showCourse(this, 'JD 440');">JD 440</a>. Previously listed as JD 602/RE 602. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a> and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a> and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a> and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a> and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a> and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a> and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a> and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20439" title="JD 439" class="bubblelink code" onclick="return showCourse(this, 'JD 439');">JD 439</a> or <a href="/search/?P=RE%20439" title="RE 439" class="bubblelink code" onclick="return showCourse(this, 'RE 439');">RE 439</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 452.  Real Estate: Land Use Control and Zoning.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Covers state and local zoning, government controls, planning, and aspects of plat approval for commercial real estate. Course Information: Same as <a href="/search/?P=JD%20452" title="JD 452" class="bubblelink code" onclick="return showCourse(this, 'JD 452');">JD 452</a>. Previously listed as JD 604/RE 604. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a> and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a> and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a> and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a> and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a> and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a> and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a> and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20439" title="JD 439" class="bubblelink code" onclick="return showCourse(this, 'JD 439');">JD 439</a> or <a href="/search/?P=RE%20439" title="RE 439" class="bubblelink code" onclick="return showCourse(this, 'RE 439');">RE 439</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 456.  Real Estate: Construction Law.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Addresses construction contracting, litigation and rights and duties of developers, contractors, subcontractors, design professionals, bonding companies and lenders. Course Information: Same as <a href="/search/?P=JD%20456" title="JD 456" class="bubblelink code" onclick="return showCourse(this, 'JD 456');">JD 456</a>. Previously listed as JD 612/RE 612. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a> and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a> and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a> and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a> and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a> and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a> and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a> and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20439" title="JD 439" class="bubblelink code" onclick="return showCourse(this, 'JD 439');">JD 439</a> or <a href="/search/?P=RE%20439" title="RE 439" class="bubblelink code" onclick="return showCourse(this, 'RE 439');">RE 439</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 458.  Real Estate: Public Finance Law.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Covers real estate based revenue sources such as transfer taxes and special assessments and public entitlements such as TIF and bond financing. Course Information: Same as <a href="/search/?P=JD%20458" title="JD 458" class="bubblelink code" onclick="return showCourse(this, 'JD 458');">JD 458</a>. Previously listed as JD 614/RE 614. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and JD  407, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>, and JD  416; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20439" title="JD 439" class="bubblelink code" onclick="return showCourse(this, 'JD 439');">JD 439</a> or <a href="/search/?P=RE%20439" title="RE 439" class="bubblelink code" onclick="return showCourse(this, 'RE 439');">RE 439</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 459.  Real Estate: Drafting and Negotiations Skills Workshop.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Develops skills in negotiations and drafting through role play exercises for documents used in commercial real estate including engagement letters and purchase contracts. Course Information: Same as <a href="/search/?P=JD%20459" title="JD 459" class="bubblelink code" onclick="return showCourse(this, 'JD 459');">JD 459</a>. Previously listed as JD 608/RE 608. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a> and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a> and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a> and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a> and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a> and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a> and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a> and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a> ; and <a href="/search/?P=JD%20439" title="JD 439" class="bubblelink code" onclick="return showCourse(this, 'JD 439');">JD 439</a> or <a href="/search/?P=RE%20439" title="RE 439" class="bubblelink code" onclick="return showCourse(this, 'RE 439');">RE 439</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 489.  Real Estate: International Law.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Covers legal issues arising when a foreign person develops/finances real estate in the US or when US person develops/finances foreign real estate. Course Information: Same as <a href="/search/?P=IBT%20489" title="IBT 489" class="bubblelink code" onclick="return showCourse(this, 'IBT 489');">IBT 489</a> and <a href="/search/?P=JD%20489" title="JD 489" class="bubblelink code" onclick="return showCourse(this, 'JD 489');">JD 489</a>. Previously listed as JD 615/RE 615/IBT 711. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and JD  407, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>, and JD  416; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20439" title="JD 439" class="bubblelink code" onclick="return showCourse(this, 'JD 439');">JD 439</a> or <a href="/search/?P=RE%20439" title="RE 439" class="bubblelink code" onclick="return showCourse(this, 'RE 439');">RE 439</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 495.  RE Visit.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Real Estate Transactions LLM and MJ elective or required courses satisfactorily completed at other law schools with advance approval from UIC. Course Information:  Satisfactory/Unsatisfactory grading only. May be repeated with approval. Previously lusted as RE 925. Applies to all Real Estate Transactions Law elective or required courses LLM and MJ students have received advance approval from UIC to complete at other law schools.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 497.  Real Estate: Litigation.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Covers real estate-related litigation including quiet title, ejectment, eminent domain, partition, foreclosure, mechanic's liens, and brokerage commissions and how transactional attorneys draft remedies. Course Information: Same as <a href="/search/?P=JD%20497" title="JD 497" class="bubblelink code" onclick="return showCourse(this, 'JD 497');">JD 497</a>. Previously listed as JD 613/RE 613. Prerequisite(s):  <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and JD  407, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>, and JD  416; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and JD or <a href="/search/?P=RE%20439" title="RE 439" class="bubblelink code" onclick="return showCourse(this, 'RE 439');">RE 439</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 498.  Administrative Law.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Topics include administrative procedure, the scope of judicial review of administrative action, and the relationship of administrative agencies to the political branches of government. Course Information: Same as <a href="/search/?P=IBT%20498" title="IBT 498" class="bubblelink code" onclick="return showCourse(this, 'IBT 498');">IBT 498</a> and <a href="/search/?P=JD%20498" title="JD 498" class="bubblelink code" onclick="return showCourse(this, 'JD 498');">JD 498</a>. Previously listed as IBT 703/JD 250/RE 650. Prerequisites: <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a> and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a> and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a> and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a> and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a> and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a> and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a> and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 499.  Real Estate: Fair Housing and Fair Lending Law.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Surveys federal, state, and local housing and lending discrimination laws, emphasizing the practical aspects of a fair housing case. Course Information: Same as <a href="/search/?P=JD%20499" title="JD 499" class="bubblelink code" onclick="return showCourse(this, 'JD 499');">JD 499</a>. Previously listed as JD 088/RE 688. Prerequisite(s):  <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a>, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>,  and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or LAW  404; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20439" title="JD 439" class="bubblelink code" onclick="return showCourse(this, 'JD 439');">JD 439</a> or <a href="/search/?P=RE%20439" title="RE 439" class="bubblelink code" onclick="return showCourse(this, 'RE 439');">RE 439</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 503.  Real Estate: Affordable Housing Law.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Provides in-depth review of laws applicable to providing affordable housing and the skills of structuring, negotiating, drafting and closing an affordable housing development. Course Information: Same as <a href="/search/?P=JD%20503" title="JD 503" class="bubblelink code" onclick="return showCourse(this, 'JD 503');">JD 503</a>. Previously listed as JD 610/RE 610. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and JD  407, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>, and JD  416; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20439" title="JD 439" class="bubblelink code" onclick="return showCourse(this, 'JD 439');">JD 439</a> or <a href="/search/?P=RE%20439" title="RE 439" class="bubblelink code" onclick="return showCourse(this, 'RE 439');">RE 439</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 506.  Real Estate: Sustainability in Modern Transactions.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Covers issues in green building and sustainability in modern real estate transactions, including advice to clients about risks and risk allocation. Course Information: Same as <a href="/search/?P=JD%20506" title="JD 506" class="bubblelink code" onclick="return showCourse(this, 'JD 506');">JD 506</a>. Previously listed as JD 625/RE 625. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and JD  407, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>, and JD  416; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and JD or <a href="/search/?P=RE%20439" title="RE 439" class="bubblelink code" onclick="return showCourse(this, 'RE 439');">RE 439</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 509.  Real Estate: Energy Law.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Addresses energy law issues, including site selection, transmission and market issues energy efficiency and conservation and renewable energy policy. Course Information: Same as <a href="/search/?P=JD%20509" title="JD 509" class="bubblelink code" onclick="return showCourse(this, 'JD 509');">JD 509</a>. Previously listed as JD 624/RE 624. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and JD  407, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>, and JD  416; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20439" title="JD 439" class="bubblelink code" onclick="return showCourse(this, 'JD 439');">JD 439</a> or <a href="/search/?P=RE%20439" title="RE 439" class="bubblelink code" onclick="return showCourse(this, 'RE 439');">RE 439</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 511.  Real Estate: Climate Change Law.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Examines science underlying climate change, the impact and disruptions of climate change and the legal and policy responses. Course Information: Same as <a href="/search/?P=JD%20511" title="JD 511" class="bubblelink code" onclick="return showCourse(this, 'JD 511');">JD 511</a>. Previously listed as JD 626CC/RE 626CC. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and JD  407, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>, and JD  416; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20439" title="JD 439" class="bubblelink code" onclick="return showCourse(this, 'JD 439');">JD 439</a> or <a href="/search/?P=RE%20439" title="RE 439" class="bubblelink code" onclick="return showCourse(this, 'RE 439');">RE 439</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 513.  Real Estate: Agricultural Law.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Covers the substantive law and transactional skills needed for selling, buying, leasing and operating land in rural and urban areas used for agriculture. Course Information: Same as <a href="/search/?P=JD%20513" title="JD 513" class="bubblelink code" onclick="return showCourse(this, 'JD 513');">JD 513</a>. Previously listed as JD 628/RE 628. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and JD  407, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>, and JD  416; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20439" title="JD 439" class="bubblelink code" onclick="return showCourse(this, 'JD 439');">JD 439</a> or <a href="/search/?P=RE%20439" title="RE 439" class="bubblelink code" onclick="return showCourse(this, 'RE 439');">RE 439</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 517.  Real Estate: The Commercial Real Estate Industry.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Examines how real estate markets function and it introduces financial analysis of real estate for investment purposes. Course Information: Same as <a href="/search/?P=JD%20517" title="JD 517" class="bubblelink code" onclick="return showCourse(this, 'JD 517');">JD 517</a>. Previously listed as JD 619/RE 619. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a>, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>, and JD  416; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20439" title="JD 439" class="bubblelink code" onclick="return showCourse(this, 'JD 439');">JD 439</a> or <a href="/search/?P=RE%20439" title="RE 439" class="bubblelink code" onclick="return showCourse(this, 'RE 439');">RE 439</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 521.  Real Estate: Commercial Leasing.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Course provides an in-depth study of legal and business issues involved in the leasing, ownership and management of various types of commercial real estate properties. Course Information: Same as <a href="/search/?P=JD%20521" title="JD 521" class="bubblelink code" onclick="return showCourse(this, 'JD 521');">JD 521</a>. Previously listed as JD 605/RE 605. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and JD  407, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>, and JD  416; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20439" title="JD 439" class="bubblelink code" onclick="return showCourse(this, 'JD 439');">JD 439</a> or <a href="/search/?P=RE%20439" title="RE 439" class="bubblelink code" onclick="return showCourse(this, 'RE 439');">RE 439</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 524.  Real Estate: Alternative Dispute Resolution: Arbitration and Mediation.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Provides a transaction attorney's role in negotiating, drafting, and reviewing ADR provisions in real estate documents. Course Information: Same as <a href="/search/?P=JD%20524" title="JD 524" class="bubblelink code" onclick="return showCourse(this, 'JD 524');">JD 524</a>. Previously listed as JD 611/RE 611. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and JD  407, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>, and JD  416; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20439" title="JD 439" class="bubblelink code" onclick="return showCourse(this, 'JD 439');">JD 439</a> or <a href="/search/?P=RE%20439" title="RE 439" class="bubblelink code" onclick="return showCourse(this, 'RE 439');">RE 439</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 526.  Real Estate: Finance.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Covers financing devices used to acquire, construct and permanently finance commercial real estate. Students will consider rights, remedies and duties. Course Information: Same as <a href="/search/?P=JD%20526" title="JD 526" class="bubblelink code" onclick="return showCourse(this, 'JD 526');">JD 526</a>. Previously listed as JD 607/RE 607. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and JD  407, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>, and JD  416; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20439" title="JD 439" class="bubblelink code" onclick="return showCourse(this, 'JD 439');">JD 439</a> or <a href="/search/?P=RE%20439" title="RE 439" class="bubblelink code" onclick="return showCourse(this, 'RE 439');">RE 439</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 528.  Real Estate: Insurance Issues and Law.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Identifies insurance issues relating to acquisition, financing, construction and ownership of commercial real estate. Course Information: Same as <a href="/search/?P=JD%20528" title="JD 528" class="bubblelink code" onclick="return showCourse(this, 'JD 528');">JD 528</a>. Previously listed as JD 616/RE 616. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and JD  407, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>, and JD  416; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20439" title="JD 439" class="bubblelink code" onclick="return showCourse(this, 'JD 439');">JD 439</a> or <a href="/search/?P=RE%20439" title="RE 439" class="bubblelink code" onclick="return showCourse(this, 'RE 439');">RE 439</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 530.  Real Estate: Bankruptcy and Insolvency Laws.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Provides in-depth coverage of the impact bankruptcy and insolvency laws have upon real estate development, finance and workouts, rights and remedies. Course Information: Same as <a href="/search/?P=JD%20530" title="JD 530" class="bubblelink code" onclick="return showCourse(this, 'JD 530');">JD 530</a>. Previously listed as JD 601/RE 601. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a>, amd <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>, and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20439" title="JD 439" class="bubblelink code" onclick="return showCourse(this, 'JD 439');">JD 439</a> or <a href="/search/?P=RE%20439" title="RE 439" class="bubblelink code" onclick="return showCourse(this, 'RE 439');">RE 439</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 531.  Real Estate: Historic Preservative Law.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Examines federal, state and local preservation laws, 5th Amendment Takings Clause, financing of rehabilitation and public/private land use issues. Course Information: Same as <a href="/search/?P=JD%20531" title="JD 531" class="bubblelink code" onclick="return showCourse(this, 'JD 531');">JD 531</a>. Previously listed as JD 132/RE 632. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and JD  407, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>, and JD  416; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20439" title="JD 439" class="bubblelink code" onclick="return showCourse(this, 'JD 439');">JD 439</a> or <a href="/search/?P=RE%20439" title="RE 439" class="bubblelink code" onclick="return showCourse(this, 'RE 439');">RE 439</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 533.  Real Estate: Common Interest Communities Including Condominiums.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Examines laws relating to common ownership interest communities, including condominiums, cooperatives and home owners' associations. Course Information: Same as <a href="/search/?P=JD%20533" title="JD 533" class="bubblelink code" onclick="return showCourse(this, 'JD 533');">JD 533</a>. Previously listed as JD 617/RE 617. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and JD  407, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>, and JD  416; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20439" title="JD 439" class="bubblelink code" onclick="return showCourse(this, 'JD 439');">JD 439</a> or <a href="/search/?P=RE%20439" title="RE 439" class="bubblelink code" onclick="return showCourse(this, 'RE 439');">RE 439</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 535.  Real Estate: Federal Income Taxes.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Provides in-depth analysis of federal income tax aspects of acquiring, owning, operating and disposing of real estate, including corporate and partnership taxation issues. Course Information: Same as <a href="/search/?P=JD%20535" title="JD 535" class="bubblelink code" onclick="return showCourse(this, 'JD 535');">JD 535</a>. Previously listed as JD 603/RE 603. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and JD  407, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>, and JD  416; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20439" title="JD 439" class="bubblelink code" onclick="return showCourse(this, 'JD 439');">JD 439</a> or <a href="/search/?P=RE%20439" title="RE 439" class="bubblelink code" onclick="return showCourse(this, 'RE 439');">RE 439</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 539.  Clinic: Fair Housing Class.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Students work with plaintiffs in housing civil rights matters, including evictions, foreclosures, covenant enforcement actions and other matters raising discrimination issues. Course Information: Same as <a href="/search/?P=JD%20539" title="JD 539" class="bubblelink code" onclick="return showCourse(this, 'JD 539');">JD 539</a>. Previously listed as JD 133C/RE 633C. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a> and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a> and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a> and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a> and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a> and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a> and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a> and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>. Corequisite(s): <a href="/search/?P=JD%20541" title="JD 541" class="bubblelink code" onclick="return showCourse(this, 'JD 541');">JD 541</a> or <a href="/search/?P=RE%20541" title="RE 541" class="bubblelink code" onclick="return showCourse(this, 'RE 541');">RE 541</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 541.  Clinic: Fair Housing Clinic.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Students work with plaintiffs in housing civil rights matters, including evictions, foreclosures, covenant enforcement actions and other matters raising discrimination issues. Course Information: Same as <a href="/search/?P=JD%20541" title="JD 541" class="bubblelink code" onclick="return showCourse(this, 'JD 541');">JD 541</a>. Previously listed as JD 133CLN/RE 633CLN. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a> and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a> and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a> and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a> and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a> and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a> and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a> and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>. Corequisite(s): <a href="/search/?P=JD%20539" title="JD 539" class="bubblelink code" onclick="return showCourse(this, 'JD 539');">JD 539</a> or <a href="/search/?P=RE%20539" title="RE 539" class="bubblelink code" onclick="return showCourse(this, 'RE 539');">RE 539</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 543.  Externship: Real Estates Transactions.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Firsthand experience in a transactional practice under the supervision of an experienced attorney. Course Information: Same as <a href="/search/?P=JD%20543" title="JD 543" class="bubblelink code" onclick="return showCourse(this, 'JD 543');">JD 543</a>. May be repeated to a maximum of 3 hours. Previously listed as JD 620/RE 620. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a> and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a> and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a> and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a> and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a> and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a> and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a> and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20540" title="JD 540" class="bubblelink code" onclick="return showCourse(this, 'JD 540');">JD 540</a> or <a href="/search/?P=IP%20540" title="IP 540" class="bubblelink code" onclick="return showCourse(this, 'IP 540');">IP 540</a>; and <a href="/search/?P=JD%20544" title="JD 544" class="bubblelink code" onclick="return showCourse(this, 'JD 544');">JD 544</a> or <a href="/search/?P=IP%20544" title="IP 544" class="bubblelink code" onclick="return showCourse(this, 'IP 544');">IP 544</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 545.  Externship: Sustainability.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Students will work with an experienced attorney in a setting where issues of sustainability or climate change arise. Course Information: Same as <a href="/search/?P=JD%20545" title="JD 545" class="bubblelink code" onclick="return showCourse(this, 'JD 545');">JD 545</a>. May be repeated to a maximum of 3 hours. Previously listed as JD 623/RE 623. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a> and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a> and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a> and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a> and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a> and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a> and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a> and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20439" title="JD 439" class="bubblelink code" onclick="return showCourse(this, 'JD 439');">JD 439</a> or <a href="/search/?P=RE%20439" title="RE 439" class="bubblelink code" onclick="return showCourse(this, 'RE 439');">RE 439</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 547.  Clinic: Fair Housing Advanced.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Students work with plaintiffs in housing civil rights matters, including evictions, foreclosures, covenant enforcement actions and other matters raising discrimination issues. Course Information: Same as <a href="/search/?P=TADR%20547" title="TADR 547" class="bubblelink code" onclick="return showCourse(this, 'TADR 547');">TADR 547</a>. May be repeated to a maximum of 3 hours. Previously listed as JD 133ADV/RE 633ADV. JD students may not complete more than 15 combined clinic and extern hours  (including no more than 6 externship credit hours). Prerequisite(s): <a href="/search/?P=JD%20539" title="JD 539" class="bubblelink code" onclick="return showCourse(this, 'JD 539');">JD 539</a> or <a href="/search/?P=RE%20539" title="RE 539" class="bubblelink code" onclick="return showCourse(this, 'RE 539');">RE 539</a> and <a href="/search/?P=JD%20541" title="JD 541" class="bubblelink code" onclick="return showCourse(this, 'JD 541');">JD 541</a> or <a href="/search/?P=RE%20541" title="RE 541" class="bubblelink code" onclick="return showCourse(this, 'RE 541');">RE 541</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 593.  RE Consortium: Kent.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Law school courses satisfactorily completed at Chicago-Kent College of Law. Course Information: May be repeated with approval. Applies to law school courses law students have received advance approval to complete at Chicago-Kent College of Law through our agreement with Chicago-Kent College of Law. Students will register through UIC and will pay tuition to UIC for these courses.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 594.  Special Topics: Real Estate and Sustainability Law.  1 or 2 hour.</strong></p>
+<p class="courseblockdesc">
+The topics will change from time to time to allow the professor and students to explore advanced topics in estate planning law. Course Information: May be repeated if topics vary. Previously listed as RE 626.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 595.  RE Consortium: DePaul.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Law school courses satisfactorily completed at DePaul University College of Law. Course Information: May be repeated with approval. Applies to law school courses law students have received advance approval  to complete at DePaul University College of Law through our agreement with DePaul University College of Law. Students will register through UIC and will pay tuition to UIC for these courses.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RE 596.  Independent Study in Real Estate Law.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+An independent study project must be approved by the director and requires scholarly study which will result in a significant contribution to real estate law. Course Information: May be repeated if topics vary to a maximum of 3 hours. Previously listed as RE 698.<br/>
+</p>
+</div></div></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="re.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

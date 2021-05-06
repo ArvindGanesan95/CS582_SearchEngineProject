@@ -1,0 +1,640 @@
+https://catalog.uic.edu/ucat/colleges-depts/architecture-design-arts/art-ah/ba-ida/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>BA in Interdisciplinary Education in the Arts &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/architecture-design-arts/">
+				<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/arch/">School of Architecture</a></li>
+				<li class="active isparent"><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/">School of Art &amp;&#8203; Art History</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/architecture-design-arts/art-ah/">
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/bfa-art/">BFA in Art</a></li>
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/bfa-art-ed/">BFA in Art Education</a></li>
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/ba-ah/">BA in Art History</a></li>
+					<li class="active self"><a href="#" onclick="return false;">BA in Interdisciplinary Education in the Arts</a></li>
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/minor-art/">Minor in Art</a></li>
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/minor-ah/">Minor in Art History</a></li>
+					<li><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/minor-mes/">Minor in Museum and Exhibition Studies</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/des/">School of Design</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/thtr-mus/">School of Theatre &amp;&#8203; Music</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/architecture-design-arts/">College&nbsp;of&nbsp;Architecture,&nbsp;Design,&nbsp;and&nbsp;the&nbsp;Arts</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/architecture-design-arts/art-ah/">School&nbsp;of&nbsp;Art&nbsp;&amp;&nbsp;Art&nbsp;History</a><span class="crumbsep">/</span></li><li><span class="active">BA in Interdisciplinary Education in the Arts</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">BA in Interdisciplinary Education in the Arts</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+<p class="program_codes"><span class="label"><strong>Program Codes:</strong> </span><br />20FR5669BA<br /></p>	</div>
+</div>
+
+<h2>Degree Requirements</h2>
+<p>To earn a Bachelor of Arts in Interdisciplinary Education in the Arts degree from UIC, students need to complete university, college, and department degree requirements. The degree requirements are outlined below. Students should consult the <a href="/ucat/colleges-depts/architecture-design-arts"><em>College of Architecture, Design, and the Arts</em></a> section for additional degree requirements and college academic policies.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Summary of Requirements</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">General Education and Foundation courses</span></td><td class="hourscol">26-28</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">General Electives</span></td><td class="hourscol">30-34</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Major Core courses</span></td><td class="hourscol">24-28</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Major Selectives</span></td><td class="hourscol">12-15</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Major Electives</span></td><td class="hourscol">21-24</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=DLG%20120" title="DLG 120" class="bubblelink code" onclick="return showCourse(this, 'DLG 120');">DLG 120</a></td><td>UIC First-Year Dialogue Seminar <sup>a</sup></td><td class="hourscol">1</td></tr>
+<tr class="odd lastrow"><td class="codecol"><a href="/search/?P=ISA%20100" title="ISA 100" class="bubblelink code" onclick="return showCourse(this, 'ISA 100');">ISA 100</a></td><td>Freshman Seminar: Introduction to Interdisciplinary Practice in the Arts <sup>a</sup></td><td class="hourscol">1</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">120</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em> Required of new freshman only. New First Year students are required to complete <span class="sc_courseinline"><a href="/search/?P=DLG%20120" title="DLG 120" class="bubblelink code" onclick="return showCourse(this, 'DLG 120');">DLG 120</a></span> for 1 hour and <span class="sc_courseinline"><a href="/search/?P=ISA%20100" title="ISA 100" class="bubblelink code" onclick="return showCourse(this, 'ISA 100');">ISA 100</a></span> for 1 hour. These students will complete 28 hours of General Education and Foundation courses. All other students complete 26 hours of General Education and Foundation courses.</em></p></td></tr></table>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">General Education and Foundation Courses</span> <sup>a,b</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td><td>Academic Writing I: Writing in Academic and Public Contexts</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td><td>Academic Writing II: Writing for Inquiry and Research</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Understanding the Individual and Society course</span></td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Analyzing the Natural World course</span></td><td class="hourscol">3-5</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Understanding U.S. Society</span></td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Understanding the Past course</span></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Exploring World Cultures course</span></td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">Additional General Education courses</span></td><td class="hourscol">3-5</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">26-28</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=IDEA%20110" title="IDEA 110" class="bubblelink code" onclick="return showCourse(this, 'IDEA 110');">IDEA 110</a></span> is used to fulfill the General Education requirement in the Understanding the Creative Arts category.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=IDEA%20120" title="IDEA 120" class="bubblelink code" onclick="return showCourse(this, 'IDEA 120');">IDEA 120</a></span></em><em style="font-size:1em"> will NOT be used to fulfill the General Education requirement in the Understanding the Individual and Society course category.</em></p></td></tr></table>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">General Electives</span></td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td colspan="2"><span class="courselistcomment">New First Year students who are required to complete <a href="/search/?P=DLG%20120" title="DLG 120" class="bubblelink code" onclick="return showCourse(this, 'DLG 120');">DLG 120</a> and <a href="/search/?P=ISA%20100" title="ISA 100" class="bubblelink code" onclick="return showCourse(this, 'ISA 100');">ISA 100</a> will complete 32 hours of general electives. All other students will complete 34 hours of general electives.</span></td><td class="hourscol">30-34</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">30-34</td></tr></tbody>
+</table>
+
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Major Core Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=IDEA%20110" title="IDEA 110" class="bubblelink code" onclick="return showCourse(this, 'IDEA 110');">IDEA 110</a></td><td>Creativity and Innovation in Design and Arts <sup>a</sup></td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=IDEA%20120" title="IDEA 120" class="bubblelink code" onclick="return showCourse(this, 'IDEA 120');">IDEA 120</a></td><td>Digital Practices in Design and Arts</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=DES%20222" title="DES 222" class="bubblelink code" onclick="return showCourse(this, 'DES 222');">DES 222</a></td><td>Human Experience in Design</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=DES%20322" title="DES 322" class="bubblelink code" onclick="return showCourse(this, 'DES 322');">DES 322</a></td><td>Design Research Methods</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select one of the following senior capstone sequences:</span></td><td class="hourscol">8-12</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=IDEA%20410" title="IDEA 410" class="bubblelink code" onclick="return showCourse(this, 'IDEA 410');">IDEA 410</a><br/><span style="margin-left:20px;" class="blockindent">&amp; <a href="/search/?P=IDEA%20410" title="IDEA 410" class="bubblelink code" onclick="return showCourse(this, 'IDEA 410');">410</a></span></div></td><td>Interdisciplinary Capstone for IDEA Majors<br/><span style="margin-left:20px;" class="blockindent">and Interdisciplinary Capstone for IDEA Majors</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ART%20401" title="ART 401" class="bubblelink code" onclick="return showCourse(this, 'ART 401');">ART 401</a><br/><span style="margin-left:20px;" class="blockindent">&amp; <a href="/search/?P=ART%20402" title="ART 402" class="bubblelink code" onclick="return showCourse(this, 'ART 402');">ART 402</a></span></div></td><td>Senior Projects: Critique<br/><span style="margin-left:20px;" class="blockindent">and Senior Projects: Thesis</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DES%20420" title="DES 420" class="bubblelink code" onclick="return showCourse(this, 'DES 420');">DES 420</a><br/><span style="margin-left:20px;" class="blockindent">&amp; <a href="/search/?P=DES%20421" title="DES 421" class="bubblelink code" onclick="return showCourse(this, 'DES 421');">DES 421</a></span></div></td><td>Professional Practice Project I<br/><span style="margin-left:20px;" class="blockindent">and Professional Practice Project II</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DES%20430" title="DES 430" class="bubblelink code" onclick="return showCourse(this, 'DES 430');">DES 430</a><br/><span style="margin-left:20px;" class="blockindent">&amp; <a href="/search/?P=DES%20431" title="DES 431" class="bubblelink code" onclick="return showCourse(this, 'DES 431');">DES 431</a></span></div></td><td>Interdisciplinary Product Development I<br/><span style="margin-left:20px;" class="blockindent">and Interdisciplinary Product Development II</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DES%20440" title="DES 440" class="bubblelink code" onclick="return showCourse(this, 'DES 440');">DES 440</a><br/><span style="margin-left:20px;" class="blockindent">&amp; <a href="/search/?P=DES%20441" title="DES 441" class="bubblelink code" onclick="return showCourse(this, 'DES 441');">DES 441</a></span></div></td><td>Design and Identity I<br/><span style="margin-left:20px;" class="blockindent">and Design and Identity II</span></td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DES%20452" title="DES 452" class="bubblelink code" onclick="return showCourse(this, 'DES 452');">DES 452</a><br/><span style="margin-left:20px;" class="blockindent">&amp; <a href="/search/?P=DES%20453" title="DES 453" class="bubblelink code" onclick="return showCourse(this, 'DES 453');">DES 453</a></span></div></td><td>Information Aesthetics I<br/><span style="margin-left:20px;" class="blockindent">and Information Aesthetics II</span></td><td class="hourscol"></td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">24-28</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=IDEA%20110" title="IDEA 110" class="bubblelink code" onclick="return showCourse(this, 'IDEA 110');">IDEA 110</a></span> fulfills the General Education requirement in the Understanding the Creative Arts category.</em></p></td></tr></table>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Major Selectives</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select four of the following:</span></td><td class="hourscol">12-15</td></tr>
+<tr class="even"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Any 100-level Art History course</span></div></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=AH%20235" title="AH/DES 235" class="bubblelink code" onclick="return showCourse(this, 'AH 235');">AH/DES 235</a></div></td><td>History of Design I: 1760-1925</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=AH%20236" title="AH/DES 236" class="bubblelink code" onclick="return showCourse(this, 'AH 236');">AH/DES 236</a></div></td><td>History of Design II: 1925 to the Present</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ARCH%20200" title="ARCH 200" class="bubblelink code" onclick="return showCourse(this, 'ARCH 200');">ARCH 200</a></div></td><td>Architecture and Society</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ART%20101" title="ART 101" class="bubblelink code" onclick="return showCourse(this, 'ART 101');">ART 101</a></div></td><td>Signifying Practices: Art and Visual Culture</td><td class="hourscol"></td></tr>
+<tr class="orclass even"><td class="codecol orclass"><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=ART%20190" title="ART 190" class="bubblelink code" onclick="return showCourse(this, 'ART 190');">ART 190</a></div></td><td colspan="2"> Introduction to Socially Engaged Art</td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20100" title="MUS 100" class="bubblelink code" onclick="return showCourse(this, 'MUS 100');">MUS 100</a></div></td><td>Introduction to Music I</td><td class="hourscol"></td></tr>
+<tr class="orclass odd"><td class="codecol orclass"><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=MUS%20107" title="MUS 107" class="bubblelink code" onclick="return showCourse(this, 'MUS 107');">MUS 107</a></div></td><td colspan="2"> Fundamentals of Music Theory</td></tr>
+<tr class="even lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20101" title="THTR 101" class="bubblelink code" onclick="return showCourse(this, 'THTR 101');">THTR 101</a></div></td><td>Theatre History I: Premodern Drama</td><td class="hourscol"></td></tr>
+<tr class="orclass even lastrow"><td class="codecol orclass"><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=THTR%20155" title="THTR 155" class="bubblelink code" onclick="return showCourse(this, 'THTR 155');">THTR 155</a></div></td><td colspan="2"> Fundamentals of Theatre Design</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">12-15</td></tr></tbody>
+</table>
+
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Major Electives</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select 21-24 hours from the following:</span></td><td class="hourscol">21-24</td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Architecture</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ARCH%20105" title="ARCH 105" class="bubblelink code" onclick="return showCourse(this, 'ARCH 105');">ARCH 105</a></div></td><td>Architectural Studio 1</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ARCH%20106" title="ARCH 106" class="bubblelink code" onclick="return showCourse(this, 'ARCH 106');">ARCH 106</a></div></td><td>Architectural Studio 2</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ARCH%20251" title="ARCH 251" class="bubblelink code" onclick="return showCourse(this, 'ARCH 251');">ARCH 251</a></div></td><td>Architectural Analysis</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ARCH%20252" title="ARCH 252" class="bubblelink code" onclick="return showCourse(this, 'ARCH 252');">ARCH 252</a></div></td><td>Modern Architecture</td><td class="hourscol"></td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Art and Art History</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Any 200-level Art History course</span></div></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Any 300-level Art History course</span></div></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=AH%20236" title="AH/DES 236" class="bubblelink code" onclick="return showCourse(this, 'AH 236');">AH/DES 236</a></div></td><td>History of Design II: 1925 to the Present</td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Any of the following 100-level art courses:</span></div></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ART%20112" title="ART 112" class="bubblelink code" onclick="return showCourse(this, 'ART 112');">ART 112</a></div></td><td>Introduction to Drawing</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ART%20130" title="ART 130" class="bubblelink code" onclick="return showCourse(this, 'ART 130');">ART 130</a></div></td><td>Introduction to Painting + Color</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ART%20140" title="ART 140" class="bubblelink code" onclick="return showCourse(this, 'ART 140');">ART 140</a></div></td><td>Introduction to Sculpture</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ART%20150" title="ART 150" class="bubblelink code" onclick="return showCourse(this, 'ART 150');">ART 150</a></div></td><td>Introduction to New Media Arts</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ART%20160" title="ART 160" class="bubblelink code" onclick="return showCourse(this, 'ART 160');">ART 160</a></div></td><td>Introduction to Digital Photography</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ART%20170" title="ART 170" class="bubblelink code" onclick="return showCourse(this, 'ART 170');">ART 170</a></div></td><td>Introduction to Filmmaking</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=IDEA%20210" title="IDEA 210" class="bubblelink code" onclick="return showCourse(this, 'IDEA 210');">IDEA 210</a></div></td><td>Topics in IDEAS: Intermedia and Interdisciplinary Artforms</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=IDEA%20310" title="IDEA 310" class="bubblelink code" onclick="return showCourse(this, 'IDEA 310');">IDEA 310</a></div></td><td>Independent Study Course for IDEA Majors</td><td class="hourscol"></td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Design</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">No more than two design courses from the following:</span></div></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DES%20120" title="DES 120" class="bubblelink code" onclick="return showCourse(this, 'DES 120');">DES 120</a></div></td><td>2D Form Studio</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DES%20130" title="DES 130" class="bubblelink code" onclick="return showCourse(this, 'DES 130');">DES 130</a></div></td><td>3D Form Studio</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DES%20140" title="DES 140" class="bubblelink code" onclick="return showCourse(this, 'DES 140');">DES 140</a></div></td><td>Design Drawing</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DES%20150" title="DES 150" class="bubblelink code" onclick="return showCourse(this, 'DES 150');">DES 150</a></div></td><td>Digital Media Design I</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DES%20160" title="DES 160" class="bubblelink code" onclick="return showCourse(this, 'DES 160');">DES 160</a></div></td><td>Design Photography</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DES%20170" title="DES 170" class="bubblelink code" onclick="return showCourse(this, 'DES 170');">DES 170</a></div></td><td>Color Theory</td><td class="hourscol"></td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Music</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">No more than two music courses from the following:</span></div></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20113" title="MUS 113" class="bubblelink code" onclick="return showCourse(this, 'MUS 113');">MUS 113</a></div></td><td>Art Song</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20114" title="MUS 114" class="bubblelink code" onclick="return showCourse(this, 'MUS 114');">MUS 114</a></div></td><td>Jazz History</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20115" title="MUS 115" class="bubblelink code" onclick="return showCourse(this, 'MUS 115');">MUS 115</a></div></td><td>Opera</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20117" title="MUS 117" class="bubblelink code" onclick="return showCourse(this, 'MUS 117');">MUS 117</a></div></td><td>Music for Symphony Orchestra</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20118" title="MUS 118" class="bubblelink code" onclick="return showCourse(this, 'MUS 118');">MUS 118</a></div></td><td>American Popular Music since 1850</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20119" title="MUS 119" class="bubblelink code" onclick="return showCourse(this, 'MUS 119');">MUS 119</a></div></td><td>Music for the Piano</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20127" title="MUS 127" class="bubblelink code" onclick="return showCourse(this, 'MUS 127');">MUS 127</a></div></td><td>Latin American Music</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=MUS%20240" title="MUS 240" class="bubblelink code" onclick="return showCourse(this, 'MUS 240');">MUS 240</a></div></td><td>Music, Gender and Culture</td><td class="hourscol"></td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Theatre</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20150" title="THTR 150" class="bubblelink code" onclick="return showCourse(this, 'THTR 150');">THTR 150</a></div></td><td>Fundamental of Theatre Technology</td><td class="hourscol"></td></tr>
+<tr class="even lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=THTR%20151" title="THTR 151" class="bubblelink code" onclick="return showCourse(this, 'THTR 151');">THTR 151</a></div></td><td>Costume Technology I: Introduction to Costume Technology</td><td class="hourscol"></td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">21-24</td></tr></tbody>
+</table>
+
+<h2>UIC First Year Dialogue Seminar (new freshman only)</h2>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Course</span></td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td class="codecol"><a href="/search/?P=DLG%20120" title="DLG 120" class="bubblelink code" onclick="return showCourse(this, 'DLG 120');">DLG 120</a></td><td>UIC First-Year Dialogue Seminar</td><td class="hourscol">1</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">1</td></tr></tbody>
+</table>
+
+<h2>Freshman Seminar (new freshman only)</h2>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Course</span></td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td class="codecol"><a href="/search/?P=ISA%20100" title="ISA 100" class="bubblelink code" onclick="return showCourse(this, 'ISA 100');">ISA 100</a></td><td>Freshman Seminar: Introduction to Interdisciplinary Practice in the Arts</td><td class="hourscol">1</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">1</td></tr></tbody>
+</table>
+
+<h2>Sample Course Schedule </h2>
+<table pdfnorepeatheader="true" class="sc_plangrid">
+<caption>Plan of Study Grid</caption><colgroup>
+	<col class="codecol"/>
+	<col class="titlecol"/>
+	<col class="hourscol"/>
+</colgroup>
+<tr class="plangridyear"><th id="plangrid1_0" class="year" colspan="3">Freshman Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_0_0" colspan="2">Fall Semester</th><th id="hoursheader" scope="col" class="hourscol">Hours</th></tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Academic Writing I: Writing in Academic and Public Contexts</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">Analyzing the Natural World course</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">General Elective</span></td>
+<td headers="hoursheader" class="hourscol">6</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=DLG%20120" title="DLG 120" class="bubblelink code" onclick="return showCourse(this, 'DLG 120');">DLG 120</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">UIC First-Year Dialogue Seminar</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=ISA%20100" title="ISA 100" class="bubblelink code" onclick="return showCourse(this, 'ISA 100');">ISA 100</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Freshman Seminar: Introduction to Interdisciplinary Practice in the Arts</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_0_0" class="titlecol">Hours</td><td headers=" plangrid1_0_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid1_0_1" colspan="3">Spring Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Academic Writing II: Writing for Inquiry and Research</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">Exploring World Cultures</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">Understanding the Past</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">General Electives</span></td>
+<td headers="hoursheader" class="hourscol">6</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_0_1" class="titlecol">Hours</td><td headers=" plangrid1_0_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridyear"><th id="plangrid1_1" class="year" colspan="3">Sophomore Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_1_0" colspan="3">Fall Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">Understanding U.S. Society course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">General Education course</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">General Electives</span></td>
+<td headers="hoursheader" class="hourscol">8</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_1_0" class="titlecol">Hours</td><td headers=" plangrid1_1_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid1_1_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">Understanding the Individual and Society course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">General Electives</span></td>
+<td headers="hoursheader" class="hourscol">12</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_1_1" class="titlecol">Hours</td><td headers=" plangrid1_1_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridyear"><th id="plangrid1_2" class="year" colspan="3">Junior Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_2_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=IDEA%20110" title="IDEA 110" class="bubblelink code" onclick="return showCourse(this, 'IDEA 110');">IDEA 110</a></td>
+<td headers=" plangrid1_2_0" class="titlecol">Creativity and Innovation in Design and Arts</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=DES%20222" title="DES 222" class="bubblelink code" onclick="return showCourse(this, 'DES 222');">DES 222</a></td>
+<td headers=" plangrid1_2_0" class="titlecol">Human Experience in Design</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">Major Selective</span></td>
+<td headers="hoursheader" class="hourscol">3-4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">Major Electives</span></td>
+<td headers="hoursheader" class="hourscol">4-5</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_2_0" class="titlecol">Hours</td><td headers=" plangrid1_2_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid1_2_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_2_1" class="codecol"><a href="/search/?P=IDEA%20120" title="IDEA 120" class="bubblelink code" onclick="return showCourse(this, 'IDEA 120');">IDEA 120</a></td>
+<td headers=" plangrid1_2_1" class="titlecol">Digital Practices in Design and Arts</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" class="codecol"><a href="/search/?P=DES%20322" title="DES 322" class="bubblelink code" onclick="return showCourse(this, 'DES 322');">DES 322</a></td>
+<td headers=" plangrid1_2_1" class="titlecol">Design Research Methods</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">Major Selective</span></td>
+<td headers="hoursheader" class="hourscol">3-4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">Major Electives</span></td>
+<td headers="hoursheader" class="hourscol">4-5</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_2_1" class="titlecol">Hours</td><td headers=" plangrid1_2_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridyear"><th id="plangrid1_3" class="year" colspan="3">Senior Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_3_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">First capstone sequence course selected from the following:</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ART%20401" title="ART 401" class="bubblelink code" onclick="return showCourse(this, 'ART 401');">ART 401</a></div></td>
+<td headers=" plangrid1_3_0" class="titlecol">Senior Projects: Critique</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DES%20420" title="DES 420" class="bubblelink code" onclick="return showCourse(this, 'DES 420');">DES 420</a></div></td>
+<td headers=" plangrid1_3_0" class="titlecol">Professional Practice Project I</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DES%20430" title="DES 430" class="bubblelink code" onclick="return showCourse(this, 'DES 430');">DES 430</a></div></td>
+<td headers=" plangrid1_3_0" class="titlecol">Interdisciplinary Product Development I</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DES%20440" title="DES 440" class="bubblelink code" onclick="return showCourse(this, 'DES 440');">DES 440</a></div></td>
+<td headers=" plangrid1_3_0" class="titlecol">Design and Identity I</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DES%20452" title="DES 452" class="bubblelink code" onclick="return showCourse(this, 'DES 452');">DES 452</a></div></td>
+<td headers=" plangrid1_3_0" class="titlecol">Information Aesthetics I</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=IDEA%20410" title="IDEA 410" class="bubblelink code" onclick="return showCourse(this, 'IDEA 410');">IDEA 410</a></div></td>
+<td headers=" plangrid1_3_0" class="titlecol">Interdisciplinary Capstone for IDEA Majors</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">Major Selective</span></td>
+<td headers="hoursheader" class="hourscol">3-4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">Major Electives</span></td>
+<td headers="hoursheader" class="hourscol">8-9</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_3_0" class="titlecol">Hours</td><td headers=" plangrid1_3_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid1_3_1" colspan="3">Spring Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">Second capstone sequence course selected from the following:</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ART%20402" title="ART 402" class="bubblelink code" onclick="return showCourse(this, 'ART 402');">ART 402</a></div></td>
+<td headers=" plangrid1_3_1" class="titlecol">Senior Projects: Thesis</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DES%20421" title="DES 421" class="bubblelink code" onclick="return showCourse(this, 'DES 421');">DES 421</a></div></td>
+<td headers=" plangrid1_3_1" class="titlecol">Professional Practice Project II</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DES%20431" title="DES 431" class="bubblelink code" onclick="return showCourse(this, 'DES 431');">DES 431</a></div></td>
+<td headers=" plangrid1_3_1" class="titlecol">Interdisciplinary Product Development II</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DES%20441" title="DES 441" class="bubblelink code" onclick="return showCourse(this, 'DES 441');">DES 441</a></div></td>
+<td headers=" plangrid1_3_1" class="titlecol">Design and Identity II</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=DES%20453" title="DES 453" class="bubblelink code" onclick="return showCourse(this, 'DES 453');">DES 453</a></div></td>
+<td headers=" plangrid1_3_1" class="titlecol">Information Aesthetics II</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=IDEA%20410" title="IDEA 410" class="bubblelink code" onclick="return showCourse(this, 'IDEA 410');">IDEA 410</a></div></td>
+<td headers=" plangrid1_3_1" class="titlecol">Interdisciplinary Capstone for IDEA Majors</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">Major Selective</span></td>
+<td headers="hoursheader" class="hourscol">3-4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">Major Electives</span></td>
+<td headers="hoursheader" class="hourscol">8-9</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_3_1" class="titlecol">Hours</td><td headers=" plangrid1_3_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridtotal lastrow even"><td> </td><td>Total Hours</td><td headers="hoursheader" class="hourscol">120</td></tr>
+</table></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="ba-ida.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

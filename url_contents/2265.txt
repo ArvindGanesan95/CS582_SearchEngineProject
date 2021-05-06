@@ -1,0 +1,633 @@
+https://catalog.uic.edu/all-course-descriptions/fin/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Finance (FIN) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="isparent"><a href="/ucat/">Undergraduate Catalog</a></li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="active isparent"><a href="/all-course-descriptions/">All Course Descriptions</a>
+	<ul class="nav levelone" id="/all-course-descriptions/">
+		<li><a href="/all-course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+		<li><a href="/all-course-descriptions/actg/">Accounting (ACTG)</a></li>
+		<li><a href="/all-course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+		<li><a href="/all-course-descriptions/anth/">Anthropology (ANTH)</a></li>
+		<li><a href="/all-course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+		<li><a href="/all-course-descriptions/arab/">Arabic (ARAB)</a></li>
+		<li><a href="/all-course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+		<li><a href="/all-course-descriptions/arch/">Architecture (ARCH)</a></li>
+		<li><a href="/all-course-descriptions/art/">Art (ART)</a></li>
+		<li><a href="/all-course-descriptions/ah/">Art History (AH)</a></li>
+		<li><a href="/all-course-descriptions/bms/">Basic Medical Sciences (BMS)</a></li>
+		<li><a href="/all-course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+		<li><a href="/all-course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+		<li><a href="/all-course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+		<li><a href="/all-course-descriptions/bvis/">Biomedical Visualization (BVIS)</a></li>
+		<li><a href="/all-course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+		<li><a href="/all-course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+		<li><a href="/all-course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+		<li><a href="/all-course-descriptions/blst/">Black Studies (BLST)</a></li>
+		<li><a href="/all-course-descriptions/ba/">Business Administration (BA)</a></li>
+		<li><a href="/all-course-descriptions/cc/">Campus Courses (CC)</a></li>
+		<li><a href="/all-course-descriptions/cst/">Catholic Studies (CST)</a></li>
+		<li><a href="/all-course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+		<li><a href="/all-course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+		<li><a href="/all-course-descriptions/chem/">Chemistry (CHEM)</a></li>
+		<li><a href="/all-course-descriptions/chin/">Chinese (CHIN)</a></li>
+		<li><a href="/all-course-descriptions/cd/">City Design (CD)</a></li>
+		<li><a href="/all-course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+		<li><a href="/all-course-descriptions/cl/">Classics (CL)</a></li>
+		<li><a href="/all-course-descriptions/cler/">Clerkship -&#8203; Medicine (CLER)</a></li>
+		<li><a href="/all-course-descriptions/cele/">Clerkship Electives -&#8203; Chicago (CELE)</a></li>
+		<li><a href="/all-course-descriptions/pele/">Clerkship Electives -&#8203; Peoria (PELE)</a></li>
+		<li><a href="/all-course-descriptions/rele/">Clerkship Electives -&#8203; Rockford (RELE)</a></li>
+		<li><a href="/all-course-descriptions/uele/">Clerkship Electives -&#8203; Urbana (UELE)</a></li>
+		<li><a href="/all-course-descriptions/comm/">Communication (COMM)</a></li>
+		<li><a href="/all-course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+		<li><a href="/all-course-descriptions/cs/">Computer Science (CS)</a></li>
+		<li><a href="/all-course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+		<li><a href="/all-course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+		<li><a href="/all-course-descriptions/dadm/">Dental Administration (DADM)</a></li>
+		<li><a href="/all-course-descriptions/daob/">Dentistry -&#8203; Applied Oral and Behavioral Sciences (DAOB)</a></li>
+		<li><a href="/all-course-descriptions/dbcs/">Dentistry -&#8203; Biomedical and Clinical Sciences (DBCS)</a></li>
+		<li><a href="/all-course-descriptions/dcle/">Dentistry -&#8203; Community Learning Experience (DCLE)</a></li>
+		<li><a href="/all-course-descriptions/dosi/">Dentistry -&#8203; Oral/&#8203;Systemic Issues (DOSI)</a></li>
+		<li><a href="/all-course-descriptions/dost/">Dentistry -&#8203; Oral/&#8203;Systemic Topics (DOST)</a></li>
+		<li><a href="/all-course-descriptions/des/">Design (DES)</a></li>
+		<li><a href="/all-course-descriptions/dlg/">Dialogue (DLG)</a></li>
+		<li><a href="/all-course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+		<li><a href="/all-course-descriptions/mdc/">Doctor of Medicine—Chicago (MDC)</a></li>
+		<li><a href="/all-course-descriptions/mdp/">Doctor of Medicine—Peoria (MDP)</a></li>
+		<li><a href="/all-course-descriptions/mdr/">Doctor of Medicine—Rockford (MDR)</a></li>
+		<li><a href="/all-course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+		<li><a href="/all-course-descriptions/econ/">Economics (ECON)</a></li>
+		<li><a href="/all-course-descriptions/ed/">Education (ED)</a></li>
+		<li><a href="/all-course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+		<li><a href="/all-course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+		<li><a href="/all-course-descriptions/ece/">Electrical and Computer Engineering (ECE)</a></li>
+		<li><a href="/all-course-descriptions/eb/">Employee Benefits (EB)</a></li>
+		<li><a href="/all-course-descriptions/endo/">Endodontics (ENDO)</a></li>
+		<li><a href="/all-course-descriptions/ener/">Energy Engineering (ENER)</a></li>
+		<li><a href="/all-course-descriptions/engr/">Engineering (ENGR)</a></li>
+		<li><a href="/all-course-descriptions/engl/">English (ENGL)</a></li>
+		<li><a href="/all-course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+		<li><a href="/all-course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+		<li><a href="/all-course-descriptions/eohs/">Environmental and Occupational Health Sciences (EOHS)</a></li>
+		<li><a href="/all-course-descriptions/epid/">Epidemiology (EPID)</a></li>
+		<li><a href="/all-course-descriptions/epl/">Estate Planning (EPL)</a></li>
+		<li class="active self"><a href="#" onclick="return false;">Finance (FIN)</a></li>
+		<li><a href="/all-course-descriptions/fr/">French (FR)</a></li>
+		<li><a href="/all-course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+		<li><a href="/all-course-descriptions/geog/">Geography (GEOG)</a></li>
+		<li><a href="/all-course-descriptions/ger/">Germanic Studies (GER)</a></li>
+		<li><a href="/all-course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+		<li><a href="/all-course-descriptions/gc/">Graduate College (GC)</a></li>
+		<li><a href="/all-course-descriptions/gems/">Graduate Education in Medical Sciences (GEMS)</a></li>
+		<li><a href="/all-course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+		<li><a href="/all-course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+		<li><a href="/all-course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+		<li><a href="/all-course-descriptions/him/">Health Information Management (HIM)</a></li>
+		<li><a href="/all-course-descriptions/hpa/">Health Policy and Administration (HPA)</a></li>
+		<li><a href="/all-course-descriptions/hlp/">Healthy Living Practitioner™ (HLP)</a></li>
+		<li><a href="/all-course-descriptions/heb/">Hebrew (HEB)</a></li>
+		<li><a href="/all-course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+		<li><a href="/all-course-descriptions/hstl/">Histology (HSTL)</a></li>
+		<li><a href="/all-course-descriptions/hist/">History (HIST)</a></li>
+		<li><a href="/all-course-descriptions/hon/">Honors College (HON)</a></li>
+		<li><a href="/all-course-descriptions/hn/">Human Nutrition (HN)</a></li>
+		<li><a href="/all-course-descriptions/hum/">Humanities (HUM)</a></li>
+		<li><a href="/all-course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+		<li><a href="/all-course-descriptions/it/">Information Technology (IT)</a></li>
+		<li><a href="/all-course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+		<li><a href="/all-course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+		<li><a href="/all-course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+		<li><a href="/all-course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+		<li><a href="/all-course-descriptions/ip/">Intellectual Property (IP)</a></li>
+		<li><a href="/all-course-descriptions/ibt/">International Business and Trade (IBT)</a></li>
+		<li><a href="/all-course-descriptions/inst/">International Studies (INST)</a></li>
+		<li><a href="/all-course-descriptions/ital/">Italian (ITAL)</a></li>
+		<li><a href="/all-course-descriptions/jpn/">Japanese (JPN)</a></li>
+		<li><a href="/all-course-descriptions/jst/">Jewish Studies (JST)</a></li>
+		<li><a href="/all-course-descriptions/jd/">Juris Doctor (JD)</a></li>
+		<li><a href="/all-course-descriptions/kn/">Kinesiology (KN)</a></li>
+		<li><a href="/all-course-descriptions/kor/">Korean (KOR)</a></li>
+		<li><a href="/all-course-descriptions/lat/">Latin (LAT)</a></li>
+		<li><a href="/all-course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+		<li><a href="/all-course-descriptions/law/">Law (LAW)</a></li>
+		<li><a href="/all-course-descriptions/lrsc/">Learning Sciences (LRSC)</a></li>
+		<li><a href="/all-course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+		<li><a href="/all-course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+		<li><a href="/all-course-descriptions/ling/">Linguistics (LING)</a></li>
+		<li><a href="/all-course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+		<li><a href="/all-course-descriptions/lith/">Lithuanian (LITH)</a></li>
+		<li><a href="/all-course-descriptions/mgmt/">Management (MGMT)</a></li>
+		<li><a href="/all-course-descriptions/mktg/">Marketing (MKTG)</a></li>
+		<li><a href="/all-course-descriptions/mba/">Master of Business Administration (MBA)</a></li>
+		<li><a href="/all-course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+		<li><a href="/all-course-descriptions/mj/">Master of Jurisprudence (MJ)</a></li>
+		<li><a href="/all-course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+		<li><a href="/all-course-descriptions/math/">Mathematics (MATH)</a></li>
+		<li><a href="/all-course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+		<li><a href="/all-course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+		<li><a href="/all-course-descriptions/mbt/">Medical Biotechnology (MBT)</a></li>
+		<li><a href="/all-course-descriptions/mhpe/">Medical Education (MHPE)</a></li>
+		<li><a href="/all-course-descriptions/mhum/">Medical Humanities (MHUM)</a></li>
+		<li><a href="/all-course-descriptions/mdch/">Medicinal Chemistry (MDCH)</a></li>
+		<li><a href="/all-course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+		<li><a href="/all-course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+		<li><a href="/all-course-descriptions/mils/">Military Science (MILS)</a></li>
+		<li><a href="/all-course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+		<li><a href="/all-course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+		<li><a href="/all-course-descriptions/mus/">Music (MUS)</a></li>
+		<li><a href="/all-course-descriptions/nast/">Native American Studies (NAST)</a></li>
+		<li><a href="/all-course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+		<li><a href="/all-course-descriptions/ns/">Naval Science (NS)</a></li>
+		<li><a href="/all-course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+		<li><a href="/all-course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+		<li><a href="/all-course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+		<li><a href="/all-course-descriptions/nupr/">Nursing Practicum (NUPR)</a></li>
+		<li><a href="/all-course-descriptions/nusp/">Nursing Specialty (NUSP)</a></li>
+		<li><a href="/all-course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+		<li><a href="/all-course-descriptions/omds/">Oral Medicine and Diagnostic Sciences (OMDS)</a></li>
+		<li><a href="/all-course-descriptions/osci/">Oral Sciences (OSCI)</a></li>
+		<li><a href="/all-course-descriptions/osur/">Oral and Maxillofacial Surgery (OSUR)</a></li>
+		<li><a href="/all-course-descriptions/ortd/">Orthodontics (ORTD)</a></li>
+		<li><a href="/all-course-descriptions/path/">Pathology (PATH)</a></li>
+		<li><a href="/all-course-descriptions/psl/">Patient Safety Leadership (PSL)</a></li>
+		<li><a href="/all-course-descriptions/pedd/">Pediatric Dentistry (PEDD)</a></li>
+		<li><a href="/all-course-descriptions/peri/">Periodontics (PERI)</a></li>
+		<li><a href="/all-course-descriptions/psci/">Pharmaceutical Sciences (PSCI)</a></li>
+		<li><a href="/all-course-descriptions/pmpg/">Pharmacognosy (PMPG)</a></li>
+		<li><a href="/all-course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+		<li><a href="/all-course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+		<li><a href="/all-course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+		<li><a href="/all-course-descriptions/psop/">Pharmacy Systems, Outcomes, and Policy (PSOP)</a></li>
+		<li><a href="/all-course-descriptions/phil/">Philosophy (PHIL)</a></li>
+		<li><a href="/all-course-descriptions/pt/">Physical Therapy (PT)</a></li>
+		<li><a href="/all-course-descriptions/phys/">Physics (PHYS)</a></li>
+		<li><a href="/all-course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+		<li><a href="/all-course-descriptions/pol/">Polish (POL)</a></li>
+		<li><a href="/all-course-descriptions/pols/">Political Science (POLS)</a></li>
+		<li><a href="/all-course-descriptions/port/">Portuguese (PORT)</a></li>
+		<li><a href="/all-course-descriptions/prcl/">Preclinical Medicine (PRCL)</a></li>
+		<li><a href="/all-course-descriptions/ptl/">Privacy and Technology Law (PTL)</a></li>
+		<li><a href="/all-course-descriptions/pros/">Prosthodontics (PROS)</a></li>
+		<li><a href="/all-course-descriptions/psch/">Psychology (PSCH)</a></li>
+		<li><a href="/all-course-descriptions/pa/">Public Administration (PA)</a></li>
+		<li><a href="/all-course-descriptions/pubh/">Public Health (PUBH)</a></li>
+		<li><a href="/all-course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+		<li><a href="/all-course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+		<li><a href="/all-course-descriptions/re/">Real Estate (RE)</a></li>
+		<li><a href="/all-course-descriptions/rels/">Religious Studies (RELS)</a></li>
+		<li><a href="/all-course-descriptions/rest/">Restorative Dentistry (REST)</a></li>
+		<li><a href="/all-course-descriptions/russ/">Russian (RUSS)</a></li>
+		<li><a href="/all-course-descriptions/slav/">Slavic and Baltic Languages and Literatures (SLAV)</a></li>
+		<li><a href="/all-course-descriptions/sj/">Social Justice (SJ)</a></li>
+		<li><a href="/all-course-descriptions/socw/">Social Work (SOCW)</a></li>
+		<li><a href="/all-course-descriptions/soc/">Sociology (SOC)</a></li>
+		<li><a href="/all-course-descriptions/span/">Spanish (SPAN)</a></li>
+		<li><a href="/all-course-descriptions/sped/">Special Education (SPED)</a></li>
+		<li><a href="/all-course-descriptions/spec/">Specialty Medicine (SPEC)</a></li>
+		<li><a href="/all-course-descriptions/stat/">Statistics (STAT)</a></li>
+		<li><a href="/all-course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+		<li><a href="/all-course-descriptions/surg/">Surgery (SURG)</a></li>
+		<li><a href="/all-course-descriptions/tx/">Taxation (TX)</a></li>
+		<li><a href="/all-course-descriptions/thtr/">Theatre (THTR)</a></li>
+		<li><a href="/all-course-descriptions/tadr/">Trial Advocacy and Dispute Resolution (TADR)</a></li>
+		<li><a href="/all-course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+		<li><a href="/all-course-descriptions/us/">Urban Studies (US)</a></li>
+		<li><a href="/all-course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+		<li><a href="/all-course-descriptions/usl/">US Legal Studies (USL)</a></li>
+	</ul>
+	</li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/all-course-descriptions/">All&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Finance (FIN)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Finance (FIN)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="fincourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;250.  Personal Finance.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines the interaction between individual and society in the framework of financial decision-making and in the context of the U.S. financial markets. Analyzes the impact of financial choices on the lives of individuals, families, and communities. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=MATH%20110" title="MATH&#160;110" class="bubblelink code" onclick="return showCourse(this, 'MATH 110');">MATH&#160;110</a>. Recommended background: Any 100-level MATH, ACTG, or FIN course.<i>  Individual and Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;300.  Introduction to Finance.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Description of financial markets. Time value of money. Risk and return. Market valuation of securities. Capital budgeting, capital structure and dividend policy of firms. Course Information: Recommended background: <a href="/search/?P=ACTG%20210" title="ACTG&#160;210" class="bubblelink code" onclick="return showCourse(this, 'ACTG 210');">ACTG&#160;210</a> and <a href="/search/?P=ECON%20120" title="ECON&#160;120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON&#160;120</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;301.  Introduction to Managerial Finance.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces students to managerial finance: the valuation of future cash flows, capital budgeting, capital structure, and banking. Current events and policy issues are discussed.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;302.  Introduction to Investments.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces students to investments: risk/return, models of risk, efficient markets, derivative securities, fixed income securities, international aspects. Current events and policy issues are discussed.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;310.  Investments.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Organization of security markets. Legal and institutional environment, mechanics of trade, financial intermediation, security classification. General principles of asset valuation with application to specific securities. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20300" title="FIN&#160;300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN&#160;300</a>; or <a href="/search/?P=FIN%20301" title="FIN&#160;301" class="bubblelink code" onclick="return showCourse(this, 'FIN 301');">FIN&#160;301</a> and <a href="/search/?P=FIN%20302" title="FIN&#160;302" class="bubblelink code" onclick="return showCourse(this, 'FIN 302');">FIN&#160;302</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;311.  Introduction to Urban Real Estate.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introductory survey of urban real estate; business, legal, economic and financial perspectives. Course Information: Same as <a href="/search/?P=ECON%20311" title="ECON&#160;311" class="bubblelink code" onclick="return showCourse(this, 'ECON 311');">ECON&#160;311</a>. Previously listed as FIN 371. Prerequisite(s): <a href="/search/?P=ECON%20120" title="ECON&#160;120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON&#160;120</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;320.  Managerial Finance.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Short-term asset management, capital budgeting under certainty and uncertainty, capital structure and dividend policy, valuation and risk, capital asset prices, financial policy for firms. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20300" title="FIN&#160;300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN&#160;300</a>; or <a href="/search/?P=FIN%20301" title="FIN&#160;301" class="bubblelink code" onclick="return showCourse(this, 'FIN 301');">FIN&#160;301</a> and <a href="/search/?P=FIN%20302" title="FIN&#160;302" class="bubblelink code" onclick="return showCourse(this, 'FIN 302');">FIN&#160;302</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;330.  Quantitative Methods.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces students to the quantitative methods needed for advanced finance coursework:  point/interval estimation, hypothesis testing, regression, cross-section analysis, time series analysis, portfolio modeling, advanced topics. Course Information: Prerequisite(s): <a href="/search/?P=IDS%20270" title="IDS&#160;270" class="bubblelink code" onclick="return showCourse(this, 'IDS 270');">IDS&#160;270</a>. Recommended background: <a href="/search/?P=FIN%20300" title="FIN&#160;300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN&#160;300</a>; or <a href="/search/?P=FIN%20301" title="FIN&#160;301" class="bubblelink code" onclick="return showCourse(this, 'FIN 301');">FIN&#160;301</a> &amp; <a href="/search/?P=FIN%20302" title="FIN&#160;302" class="bubblelink code" onclick="return showCourse(this, 'FIN 302');">FIN&#160;302</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;340.  International Financial Markets.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Evaluation of exchange rate regiments and international financial institutions; develop critical understanding of the asset approach to exchange rates and international financial markets. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20300" title="FIN&#160;300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN&#160;300</a>; or <a href="/search/?P=FIN%20301" title="FIN&#160;301" class="bubblelink code" onclick="return showCourse(this, 'FIN 301');">FIN&#160;301</a> and <a href="/search/?P=FIN%20302" title="FIN&#160;302" class="bubblelink code" onclick="return showCourse(this, 'FIN 302');">FIN&#160;302</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;396.  Independent Study.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Independent study, under the direction of a faculty member, must be arranged before the start of the semester. Course Information: May be repeated. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor, and the Department Head.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;412.  Portfolio Management.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Development of portfolio theory; establishment of portfolio objectives for individuals, corporations, banks, pension and mutual funds; evaluation of portfolio performance. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20310" title="FIN&#160;310" class="bubblelink code" onclick="return showCourse(this, 'FIN 310');">FIN&#160;310</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;415.  Fixed Income Securities.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Valuation of fixed income securities, term structure estimation and arbitrage trading with practical application using real data. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20310" title="FIN&#160;310" class="bubblelink code" onclick="return showCourse(this, 'FIN 310');">FIN&#160;310</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;416.  Options and Futures Markets.  3 hours.</strong></p>
+<p class="courseblockdesc">
+History and institutional structure of options and futures markets. Uses of futures and options for arbitrage, speculation and hedging by managers of domestic and multinational organizations. Analysis of factors which determine futures and options prices. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20310" title="FIN&#160;310" class="bubblelink code" onclick="return showCourse(this, 'FIN 310');">FIN&#160;310</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;418.  Commodities, Energy, and Related Markets.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Covers markets; physicality; laws and regulations; market participants; fundamentals (ags, metals, petroleum, electricity, emissions, and shipping); spreads; options; and, risk management. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=FIN%20310" title="FIN&#160;310" class="bubblelink code" onclick="return showCourse(this, 'FIN 310');">FIN&#160;310</a>; and <a href="/search/?P=FIN%20330" title="FIN&#160;330" class="bubblelink code" onclick="return showCourse(this, 'FIN 330');">FIN&#160;330</a> or <a href="/search/?P=IDS%20270" title="IDS&#160;270" class="bubblelink code" onclick="return showCourse(this, 'IDS 270');">IDS&#160;270</a> (undergraduate students); <a href="/search/?P=FIN%20510" title="FIN&#160;510" class="bubblelink code" onclick="return showCourse(this, 'FIN 510');">FIN&#160;510</a> (graduate students). Recommended background: <a href="/search/?P=IDS%20371" title="IDS&#160;371" class="bubblelink code" onclick="return showCourse(this, 'IDS 371');">IDS&#160;371</a> (undergraduate students); <a href="/search/?P=IDS%20570" title="IDS&#160;570" class="bubblelink code" onclick="return showCourse(this, 'IDS 570');">IDS&#160;570</a> (graduate students).<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;419.  Behavioral Finance.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Provides an understanding of the individuals' behavioral biases and their effects on financial markets. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=FIN%20300" title="FIN&#160;300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN&#160;300</a>; or <a href="/search/?P=FIN%20301" title="FIN&#160;301" class="bubblelink code" onclick="return showCourse(this, 'FIN 301');">FIN&#160;301</a> and <a href="/search/?P=FIN%20302" title="FIN&#160;302" class="bubblelink code" onclick="return showCourse(this, 'FIN 302');">FIN&#160;302</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;421.  Advanced Corporate Finance.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Uses the case method to provide an in-depth treatment of corporate financial decisions pertaining to investment and financing choices, corporate policies, and valuation of businesses. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20320" title="FIN&#160;320" class="bubblelink code" onclick="return showCourse(this, 'FIN 320');">FIN&#160;320</a>. Recommended background: Understanding financial statements, time value of money, rates of return, market efficiency, and basic concepts of risk, and discount rates. This class cannot serve as an introductory level course for unprepared students. For students who lack confidence in their mastery of the prerequisite material, self-study review of chapters 1â€“12 of Essentials of Corporate Finance by Ross, Westerfield, and Jordan, the required text for <a href="/search/?P=FIN%20320" title="FIN&#160;320" class="bubblelink code" onclick="return showCourse(this, 'FIN 320');">FIN&#160;320</a>, is strongly recommended.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;422.  Alternative Investments: Venture Capital, Private Equity, and Hedge Funds.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Aims to help students understand the investment opportunities available in venture capital, private equity, and hedge funds, both from a quantitative and a qualitative perspective, using a combination of lectures and case discussions.  Course Information: Credit is not given for <a href="/search/?P=FIN%20422" title="FIN&#160;422" class="bubblelink code" onclick="return showCourse(this, 'FIN 422');">FIN&#160;422</a> if the student has credit in FIN 444. Prerequisite(s): <a href="/search/?P=FIN%20300" title="FIN&#160;300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN&#160;300</a>; or <a href="/search/?P=FIN%20301" title="FIN&#160;301" class="bubblelink code" onclick="return showCourse(this, 'FIN 301');">FIN&#160;301</a> and <a href="/search/?P=FIN%20302" title="FIN&#160;302" class="bubblelink code" onclick="return showCourse(this, 'FIN 302');">FIN&#160;302</a>. Recommended background: <a href="/search/?P=FIN%20310" title="FIN&#160;310" class="bubblelink code" onclick="return showCourse(this, 'FIN 310');">FIN&#160;310</a> and <a href="/search/?P=FIN%20320" title="FIN&#160;320" class="bubblelink code" onclick="return showCourse(this, 'FIN 320');">FIN&#160;320</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;423.  Financial Modeling, Analysis, and Decision Making.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Teaches financial modeling and firm valuation skills using a set of case studies. Using financial data from real firms, students compute and forecast cash flows to evaluation day-to-day business decisions. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=FIN%20300" title="FIN&#160;300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN&#160;300</a>; or <a href="/search/?P=FIN%20301" title="FIN&#160;301" class="bubblelink code" onclick="return showCourse(this, 'FIN 301');">FIN&#160;301</a> and <a href="/search/?P=FIN%20302" title="FIN&#160;302" class="bubblelink code" onclick="return showCourse(this, 'FIN 302');">FIN&#160;302</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;430.  Introduction to Money and Banking.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Payment and banking systems; credit and market risk management; The Federal Reserve System; globalization of monetary, banking, and regulatory systems. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20300" title="FIN&#160;300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN&#160;300</a>; or <a href="/search/?P=FIN%20301" title="FIN&#160;301" class="bubblelink code" onclick="return showCourse(this, 'FIN 301');">FIN&#160;301</a> and <a href="/search/?P=FIN%20302" title="FIN&#160;302" class="bubblelink code" onclick="return showCourse(this, 'FIN 302');">FIN&#160;302</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;431.  Management in the Financial Services Industry.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The principles of management of corporations in the financial services industry, emphasizing commercial bank management and risk. Methodology includes computerized bank management simulation or case studies. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20300" title="FIN&#160;300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN&#160;300</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;442.  International Corporate Financial Management.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Financial management within an international context. International monetary system and financial markets, management of foreign investments, working capital management, exchange risks, taxation and earnings reports. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20300" title="FIN&#160;300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN&#160;300</a>; or <a href="/search/?P=FIN%20301" title="FIN&#160;301" class="bubblelink code" onclick="return showCourse(this, 'FIN 301');">FIN&#160;301</a> and <a href="/search/?P=FIN%20302" title="FIN&#160;302" class="bubblelink code" onclick="return showCourse(this, 'FIN 302');">FIN&#160;302</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;449.  Applied Equity Investment Management.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Puts financial theory to practice by giving students real life, hands-on experience in managing an equity investment process, from stock selection to portfolio management. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=FIN%20310" title="FIN&#160;310" class="bubblelink code" onclick="return showCourse(this, 'FIN 310');">FIN&#160;310</a> (undergraduate students); <a href="/search/?P=FIN%20510" title="FIN&#160;510" class="bubblelink code" onclick="return showCourse(this, 'FIN 510');">FIN&#160;510</a> (graduate students). Recommended background: A keen interest/ passion for the markets in general and the equity markets in particular.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;455.  Asset Management.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Applied course in Investments. The emphasis is on modern quantitative techniques for asset management. Course Information: Students will use real data, and learn to create their own spreadsheet optimization programs in MS excel. Prerequisite(s): <a href="/search/?P=FIN%20310" title="FIN&#160;310" class="bubblelink code" onclick="return showCourse(this, 'FIN 310');">FIN&#160;310</a> (undergraduate students); <a href="/search/?P=FIN%20510" title="FIN&#160;510" class="bubblelink code" onclick="return showCourse(this, 'FIN 510');">FIN&#160;510</a> (graduate students). Recommended Background: Students must be comfortable with linear regressions matrix algebra, basic calculus. Spreadsheet proficiency is essential.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;460.  Corporate Valuation.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines corporate valuation with tools and techniques such as valuation multiples, discounted cash flows, cost of capital, and the adjusted present value method. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=FIN%20320" title="FIN&#160;320" class="bubblelink code" onclick="return showCourse(this, 'FIN 320');">FIN&#160;320</a> or <a href="/search/?P=FIN%20520" title="FIN&#160;520" class="bubblelink code" onclick="return showCourse(this, 'FIN 520');">FIN&#160;520</a>. Recommended background: Basic understanding of accounting and statistics.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;472.  Real Estate Finance.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Finance principles applied to real estate; financing of residential and income-producing real estate; real estate development finance; secondary mortgage market; taxation and real estate finance. Course Information: Same as <a href="/search/?P=ECON%20472" title="ECON&#160;472" class="bubblelink code" onclick="return showCourse(this, 'ECON 472');">ECON&#160;472</a>. 3 undergraduate hours. 4 graduate hours.  May not be used to satisfy the economics credit requirement for the MA in Economics and Ph.D. in Economics.  Elective credit only will be applied toward these degrees. Prerequisite(s): <a href="/search/?P=ECON%20220" title="ECON&#160;220" class="bubblelink code" onclick="return showCourse(this, 'ECON 220');">ECON&#160;220</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;473.  Introduction to Risk Management.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to risk management. Loan and credit management; credit scoring. Risk measurements and reserves; banking and insurance capital requirements, the BASEL accord, tail events and catastrophic event insurance. Financial contracts and hedging.  Course Information:  Same as <a href="/search/?P=IDS%20473" title="IDS&#160;473" class="bubblelink code" onclick="return showCourse(this, 'IDS 473');">IDS&#160;473</a>.  Prerequisite(s):  <a href="/search/?P=FIN%20300" title="FIN&#160;300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN&#160;300</a> and <a href="/search/?P=IDS%20371" title="IDS&#160;371" class="bubblelink code" onclick="return showCourse(this, 'IDS 371');">IDS&#160;371</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;479.  Enterprise Risk Management.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Overview of enterprise-wide risk management strategies and techniques: strategies that firms employ to enhance value and minimize exposure; techniques used to identify, measure, reduce, and transfer risk. Course Information: Same as <a href="/search/?P=IDS%20479" title="IDS&#160;479" class="bubblelink code" onclick="return showCourse(this, 'IDS 479');">IDS&#160;479</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=FIN%20300" title="FIN&#160;300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN&#160;300</a>; or consent of the instructor. Recommended background: <a href="/search/?P=IDS%20473" title="IDS&#160;473" class="bubblelink code" onclick="return showCourse(this, 'IDS 473');">IDS&#160;473</a> or <a href="/search/?P=FIN%20473" title="FIN&#160;473" class="bubblelink code" onclick="return showCourse(this, 'FIN 473');">FIN&#160;473</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;480.  Market Microstructure and Electronic Trading.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Details of how financial markets work. Market structures; models of price discovery; limit order models; liquidity and price impact; time effects; and, how electronic traders use these ideas to improve trading and research. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=FIN%20310" title="FIN&#160;310" class="bubblelink code" onclick="return showCourse(this, 'FIN 310');">FIN&#160;310</a>; <a href="/search/?P=FIN%20330" title="FIN&#160;330" class="bubblelink code" onclick="return showCourse(this, 'FIN 330');">FIN&#160;330</a> or <a href="/search/?P=IDS%20270" title="IDS&#160;270" class="bubblelink code" onclick="return showCourse(this, 'IDS 270');">IDS&#160;270</a> (undergraduate students); <a href="/search/?P=FIN%20510" title="FIN&#160;510" class="bubblelink code" onclick="return showCourse(this, 'FIN 510');">FIN&#160;510</a> (graduate students). Recommended Background:  <a href="/search/?P=IDS%20371" title="IDS&#160;371" class="bubblelink code" onclick="return showCourse(this, 'IDS 371');">IDS&#160;371</a> (undergraduate students); <a href="/search/?P=IDS%20570" title="IDS&#160;570" class="bubblelink code" onclick="return showCourse(this, 'IDS 570');">IDS&#160;570</a> (graduate students).<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;494.  Special Topics in Finance.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+An intensive study of a selected topic in finance. Topics vary by sections and by term. Course Information: 1 to 3 undergraduate hours. 2 to 4 graduate hours. May be repeated if topics vary. Students may register for more than one section per term. May be repeated to a maximum of 6 hours for undergraduates; may be repeated to a maximum of 8 hourse for graduate students. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;495.  Competitive Strategy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Multidisciplinary analysis of organization strategy and policy using case method and/or business simulation. Assignments involve extensive library research as well as oral and written reports. Course Information: Prerequisite(s): Senior standing in the College of Business Administration and completion of all other CBA core courses, or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;499.  Research Experience.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Research experience under the supervision of a faculty member. The faculty member and student will determine the research project. Each student must submit a written report and each student must participate at a research event on campus. Course Information: May be repeated to a maximum of 12 hours. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor and department head.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;500.  Introduction to Corporate Finance.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Theory of corporate finance: goal of the firm, time value of money, investment decisions (under certainty and uncertainty), net present value, capital markets, and corporate financing decisions. Course Information: Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=ACTG%20500" title="ACTG&#160;500" class="bubblelink code" onclick="return showCourse(this, 'ACTG 500');">ACTG&#160;500</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;510.  Investments.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Theory and practice of investment analysis. Topics included are the institutional organization of security markets, and fundamental principles of asset valuation with application to specific securities. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20500" title="FIN&#160;500" class="bubblelink code" onclick="return showCourse(this, 'FIN 500');">FIN&#160;500</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;512.  Portfolio Analysis.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Development of portfolio theory; establishment of portfolio objectives; evaluation of portfolio performance; investment objectives for individuals, corporations banks, pension and mutual funds, and their interrelation with economic environment. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20510" title="FIN&#160;510" class="bubblelink code" onclick="return showCourse(this, 'FIN 510');">FIN&#160;510</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;515.  Fixed Income Securities.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Valuation of fixed income securities, term structure estimation, financial engineering of fixed income securities, securities lending and valuation of bonds with embedded options. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20510" title="FIN&#160;510" class="bubblelink code" onclick="return showCourse(this, 'FIN 510');">FIN&#160;510</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;516.  Theory and Structure of Options and Futures Markets.  4 hours.</strong></p>
+<p class="courseblockdesc">
+History and institutional structure of options and futures markets. Uses of futures and options for arbitrage, speculation and hedging by financial and portfolio managers of domestic and multinational organizations. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20510" title="FIN&#160;510" class="bubblelink code" onclick="return showCourse(this, 'FIN 510');">FIN&#160;510</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;520.  Corporate Finance.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced topics in corporate finance including capital structure, dividend policy, financial restructuring, bankruptcy, and leasing. Emphasis on recent developments in corporate finance and financial economics. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20500" title="FIN&#160;500" class="bubblelink code" onclick="return showCourse(this, 'FIN 500');">FIN&#160;500</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;530.  Money and Banking.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The functions of money; monetary standards; development and operation of commercial banking and the Federal Reserve System. Theories of the supply and demand for money; effects of monetary changes on economic activity, interest rates, and income. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20500" title="FIN&#160;500" class="bubblelink code" onclick="return showCourse(this, 'FIN 500');">FIN&#160;500</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;531.  Capital Markets.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Capital markets in the private economy. Flow of funds in financial markets and financial intermediaries. Pricing of securities. Short-term money markets and the Federal Reserve System. Market for long-term securities. Financial markets and the stability and progress of the economy. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20500" title="FIN&#160;500" class="bubblelink code" onclick="return showCourse(this, 'FIN 500');">FIN&#160;500</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;542.  International Finance.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Financial management within an international context. International monetary system, exchange rates, foreign investments, working capital management, financing trade, taxation and earnings reports. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20500" title="FIN&#160;500" class="bubblelink code" onclick="return showCourse(this, 'FIN 500');">FIN&#160;500</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;544.  Entrepreneurial and New Venture Financing.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The financing of new business. Estimating cash needs and then determining sources to finance them. This course is designed for those wanting to start their own business. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20500" title="FIN&#160;500" class="bubblelink code" onclick="return showCourse(this, 'FIN 500');">FIN&#160;500</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;551.  Financial Decision Making I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+First foundation course for the study of modern financial economics. Two-period individual consumption and portfolio decisions under uncertainty and their implications for the valuation of securities. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;570.  Quantitative Methods in Finance.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Statistical and optimization techniques for portfolio management, risk management, proprietary trading, securities regulation and market making. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;571.  Empirical Issues in Finance.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The methodology used in analyses of market efficiency, asset pricing and capital allocation. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20500" title="FIN&#160;500" class="bubblelink code" onclick="return showCourse(this, 'FIN 500');">FIN&#160;500</a> and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;573.  Risk Management.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to risk management. Risk measurements and reserves; banking and insurance capital requirements, the BASEL accord, tail events, catastrophic event insurance, reinsurance. Financial contracts and hedging.  Course Information:  Same as <a href="/search/?P=IDS%20573" title="IDS&#160;573" class="bubblelink code" onclick="return showCourse(this, 'IDS 573');">IDS&#160;573</a>.  Prerequisite(s):  Credit or concurrent registration in <a href="/search/?P=IDS%20570" title="IDS&#160;570" class="bubblelink code" onclick="return showCourse(this, 'IDS 570');">IDS&#160;570</a> and <a href="/search/?P=FIN%20500" title="FIN&#160;500" class="bubblelink code" onclick="return showCourse(this, 'FIN 500');">FIN&#160;500</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;594.  Special Topics in Finance.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Develops the tools for evaluating and quantifying the value of fixed-income securities. Course Information: May be repeated to a maximum of 12 hours if topics vary. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;596.  Independent Study in Finance.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Independent study under the direction of a faculty member. Must be arranged before the start of the semester. Course Information: May be repeated. Students may register in more than one section per term. Prerequisite(s): Consent of department head or instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN&#160;599.  Ph.D. Thesis Research.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Independent research on topic approved for doctoral dissertation under supervision of faculty advisor. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="fin.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,634 @@
+https://catalog.uic.edu/ucat/colleges-depts/liberal-arts-sciences/econ/ba/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>BA with a Major in Economics &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/liberal-arts-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/">Anthropology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/">Biochemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/">Biological Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/">Black Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/">Chemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/">Classics and Mediterranean Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/">Communication</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/">Criminology, Law, and Justice</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/">Earth and Environmental Sciences</a></li>
+				<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/">Economics</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/liberal-arts-sciences/econ/">
+					<li class="active self"><a href="#" onclick="return false;">BA with a Major in Economics</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/minor-econ/">Minor in Economics</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/">English</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French and Francophone Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/">Gender and Women's Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/">Germanic Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/">Global Asian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/">Hispanic and Italian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/">History</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/">Integrated Health Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/">International Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/">Liberal Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/">Linguistics</a></li>
+				<li><a href="/ucat/colleges-depts/liberal-arts-sciences/lcsl/">Literatures, Cultural Studies, and Linguistics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/">Mathematics, Statistics, and Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/">Moving Image Arts</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/">Neuroscience</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/">Philosophy</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/">Physics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/">Polish, Russian, and Lithuanian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/">Political Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/">Psychology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/">Religious Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/">Sociology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional Studies</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/">College&nbsp;of&nbsp;Liberal&nbsp;Arts&nbsp;and&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/">Economics</a><span class="crumbsep">/</span></li><li><span class="active">BA with a Major in Economics</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">BA with a Major in Economics</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+<p class="program_codes"><span class="label"><strong>Program Codes:</strong> </span><br />20FT0074BA<br /></p>	</div>
+</div>
+
+<h2>Degree Requirements</h2>
+<p>To earn a Bachelor of Arts in Liberal Arts and Sciences degree from UIC, students must complete university, college, and department degree requirements. The Department of Economics degree requirements are outlined below. Students should consult the <a href="/ucat/colleges-depts/liberal-arts-sciences/"><em>College of Liberal Arts and Sciences</em></a> section for additional degree requirements and college academic policies.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Summary of Requirements</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Required Prerequisite and Collateral Course</span></td><td class="hourscol">5</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Major Requirements</span></td><td class="hourscol">37</td></tr>
+<tr class="odd lastrow"><td colspan="2"><span class="courselistcomment">General Education and Electives to reach minimum Total Hours</span></td><td class="hourscol">78</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">120</td></tr></tbody>
+</table>
+
+<h3>General Education</h3>
+<p>See <em>General Education and Writing-in-the-Discipline </em>in the<em> <a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></em> section for information on meeting these requirements.</p>
+<h3>Required Prerequisite and Collateral Course</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Course</span></td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td class="codecol"><a href="/search/?P=MATH%20121" title="MATH 121" class="bubblelink code" onclick="return showCourse(this, 'MATH 121');">MATH 121</a></td><td>Precalculus Mathematics <sup>a</sup></td><td class="hourscol">5</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">5</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><span class="sc_courseinline"><a href="/search/?P=MATH%20121" title="MATH 121" class="bubblelink code" onclick="return showCourse(this, 'MATH 121');">MATH 121</a></span><em> fulfills the LAS Quantitative Reasoning Requirement and students should take this course as early as possible.</em><em> This requirement is waived for students who have completed a course in Calculus or who place into Calculus upon admission to UIC. Students who plan to pursue graduate studies in economics are strongly encouraged to take additional mathematics courses, including three semesters of Calculus (<span class="sc_courseinline"><a href="/search/?P=MATH%20180" title="MATH 180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH 180</a></span>, <span class="sc_courseinline"><a href="/search/?P=MATH%20181" title="MATH 181" class="bubblelink code" onclick="return showCourse(this, 'MATH 181');">MATH 181</a></span>, and <span class="sc_courseinline"><a href="/search/?P=MATH%20210" title="MATH 210" class="bubblelink code" onclick="return showCourse(this, 'MATH 210');">MATH 210</a></span>) and Linear Algebra (either <span class="sc_courseinline"><a href="/search/?P=MATH%20310" title="MATH 310" class="bubblelink code" onclick="return showCourse(this, 'MATH 310');">MATH 310</a></span> or the more advanced sequence of <span class="sc_courseinline"><a href="/search/?P=MATH%20215" title="MATH 215" class="bubblelink code" onclick="return showCourse(this, 'MATH 215');">MATH 215</a></span> and <span class="sc_courseinline"><a href="/search/?P=MATH%20320" title="MATH 320" class="bubblelink code" onclick="return showCourse(this, 'MATH 320');">MATH 320</a></span>). Students who wish to take additional math courses can consider <span class="sc_courseinline"><a href="/search/?P=STAT%20401" title="STAT 401" class="bubblelink code" onclick="return showCourse(this, 'STAT 401');">STAT 401</a></span>, <span class="sc_courseinline"><a href="/search/?P=STAT%20411" title="STAT 411" class="bubblelink code" onclick="return showCourse(this, 'STAT 411');">STAT 411</a></span>, <span class="sc_courseinline"><a href="/search/?P=MATH%20220" title="MATH 220" class="bubblelink code" onclick="return showCourse(this, 'MATH 220');">MATH 220</a></span>, and <span class="sc_courseinline"><a href="/search/?P=MATH%20313" title="MATH 313" class="bubblelink code" onclick="return showCourse(this, 'MATH 313');">MATH 313</a></span>. </em></p></td></tr></table>
+<h3>Major Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ECON%20120" title="ECON 120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON 120</a></td><td>Principles of Microeconomics <sup>a,b</sup></td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ECON%20121" title="ECON 121" class="bubblelink code" onclick="return showCourse(this, 'ECON 121');">ECON 121</a></td><td>Principles of Macroeconomics <sup>a,b</sup></td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ECON%20220" title="ECON 220" class="bubblelink code" onclick="return showCourse(this, 'ECON 220');">ECON 220</a></td><td>Microeconomics: Theory and Applications</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ECON%20221" title="ECON 221" class="bubblelink code" onclick="return showCourse(this, 'ECON 221');">ECON 221</a></td><td>Macroeconomics in the World Economy: Theory and Applications</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ECON%20270" title="ECON 270" class="bubblelink code" onclick="return showCourse(this, 'ECON 270');">ECON 270</a></td><td>Statistics for Economics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ECON%20300" title="ECON 300" class="bubblelink code" onclick="return showCourse(this, 'ECON 300');">ECON 300</a></td><td>Econometrics</td><td class="hourscol">3</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or <a href="/search/?P=ECON%20400" title="ECON 400" class="bubblelink code" onclick="return showCourse(this, 'ECON 400');">ECON 400</a></td><td colspan="2"> Honors Econometrics</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ECON%20395" title="ECON 395" class="bubblelink code" onclick="return showCourse(this, 'ECON 395');">ECON 395</a></td><td>Research and Writing in Economics <sup>c</sup></td><td class="hourscol">1</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">Five additional economics courses at the 200-, 300-, or 400-level, excluding ECON 441 and ECON 442; at least three must be numbered 320 or higher.</span></td><td class="hourscol">15</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">37</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>This course is approved for the Understanding the Individual and Society General Education category.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>This course is approved for the Understanding U.S. Society General Education category.</em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=ECON%20395" title="ECON 395" class="bubblelink code" onclick="return showCourse(this, 'ECON 395');">ECON 395</a></span> fulfills the Writing-in-the-Discipline requirement. Concurrent registration in a designated 300-level economics course is required.</em></p></td></tr></table>
+<h2>Course Suggestions for Economics Careers</h2>
+<p>The following groups of courses are offered as guidance to students who may have an interest in one of the career/educational paths shown below.</p>
+<h3>Business/Financial Economics</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ECON%20322" title="ECON 322" class="bubblelink code" onclick="return showCourse(this, 'ECON 322');">ECON 322</a></td><td>Managerial Economics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ECON%20323" title="ECON 323" class="bubblelink code" onclick="return showCourse(this, 'ECON 323');">ECON 323</a></td><td>Business Conditions Analysis</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ECON%20329" title="ECON 329" class="bubblelink code" onclick="return showCourse(this, 'ECON 329');">ECON 329</a></td><td>Industrial Organization</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ECON%20333" title="ECON 333" class="bubblelink code" onclick="return showCourse(this, 'ECON 333');">ECON 333</a></td><td>International Economics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ECON%20339" title="ECON 339" class="bubblelink code" onclick="return showCourse(this, 'ECON 339');">ECON 339</a></td><td>Monetary Theory</td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td class="codecol"><a href="/search/?P=ECON%20450" title="ECON 450" class="bubblelink code" onclick="return showCourse(this, 'ECON 450');">ECON 450</a></td><td>Business Forecasting Using Time Series Methods</td><td class="hourscol">3-4</td></tr>
+</tbody>
+</table>
+
+<h3>Human Resources</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ECON%20214" title="ECON 214" class="bubblelink code" onclick="return showCourse(this, 'ECON 214');">ECON 214</a></td><td>Economics of Education</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ECON%20215" title="ECON 215" class="bubblelink code" onclick="return showCourse(this, 'ECON 215');">ECON 215</a></td><td>Health Economics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ECON%20331" title="ECON 331" class="bubblelink code" onclick="return showCourse(this, 'ECON 331');">ECON 331</a></td><td>Labor Economics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ECON%20334" title="ECON 334" class="bubblelink code" onclick="return showCourse(this, 'ECON 334');">ECON 334</a></td><td>Economic Development</td><td class="hourscol">3</td></tr>
+<tr class="odd lastrow"><td class="codecol"><a href="/search/?P=ECON%20353" title="ECON 353" class="bubblelink code" onclick="return showCourse(this, 'ECON 353');">ECON 353</a></td><td>Economic Demography</td><td class="hourscol">3</td></tr>
+</tbody>
+</table>
+
+<h3>Urban Economics/Real Estate </h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ECON%20311" title="ECON 311" class="bubblelink code" onclick="return showCourse(this, 'ECON 311');">ECON 311</a></td><td>Introduction to Urban Real Estate</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ECON%20331" title="ECON 331" class="bubblelink code" onclick="return showCourse(this, 'ECON 331');">ECON 331</a></td><td>Labor Economics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ECON%20332" title="ECON 332" class="bubblelink code" onclick="return showCourse(this, 'ECON 332');">ECON 332</a></td><td>Urban Economics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ECON%20342" title="ECON 342" class="bubblelink code" onclick="return showCourse(this, 'ECON 342');">ECON 342</a></td><td>Regional Economics</td><td class="hourscol">3</td></tr>
+<tr class="odd lastrow"><td class="codecol"><a href="/search/?P=ECON%20370" title="ECON 370" class="bubblelink code" onclick="return showCourse(this, 'ECON 370');">ECON 370</a></td><td>Environmental Economics</td><td class="hourscol">3</td></tr>
+</tbody>
+</table>
+
+<h3>International Studies</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ECON%20323" title="ECON 323" class="bubblelink code" onclick="return showCourse(this, 'ECON 323');">ECON 323</a></td><td>Business Conditions Analysis</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ECON%20333" title="ECON 333" class="bubblelink code" onclick="return showCourse(this, 'ECON 333');">ECON 333</a></td><td>International Economics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ECON%20334" title="ECON 334" class="bubblelink code" onclick="return showCourse(this, 'ECON 334');">ECON 334</a></td><td>Economic Development</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ECON%20339" title="ECON 339" class="bubblelink code" onclick="return showCourse(this, 'ECON 339');">ECON 339</a></td><td>Monetary Theory</td><td class="hourscol">3</td></tr>
+<tr class="odd lastrow"><td class="codecol"><a href="/search/?P=ECON%20353" title="ECON 353" class="bubblelink code" onclick="return showCourse(this, 'ECON 353');">ECON 353</a></td><td>Economic Demography</td><td class="hourscol">3</td></tr>
+</tbody>
+</table>
+
+<h3>Pre-Graduate School in Economics/Business/Public Policy/Public Administration</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ECON%20213" title="ECON 213" class="bubblelink code" onclick="return showCourse(this, 'ECON 213');">ECON 213</a></td><td>Economic History of the United States</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ECON%20322" title="ECON 322" class="bubblelink code" onclick="return showCourse(this, 'ECON 322');">ECON 322</a></td><td>Managerial Economics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ECON%20323" title="ECON 323" class="bubblelink code" onclick="return showCourse(this, 'ECON 323');">ECON 323</a></td><td>Business Conditions Analysis</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ECON%20326" title="ECON 326" class="bubblelink code" onclick="return showCourse(this, 'ECON 326');">ECON 326</a></td><td>History of Economic Thought</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ECON%20328" title="ECON 328" class="bubblelink code" onclick="return showCourse(this, 'ECON 328');">ECON 328</a></td><td>Public Finance</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ECON%20329" title="ECON 329" class="bubblelink code" onclick="return showCourse(this, 'ECON 329');">ECON 329</a></td><td>Industrial Organization</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ECON%20331" title="ECON 331" class="bubblelink code" onclick="return showCourse(this, 'ECON 331');">ECON 331</a></td><td>Labor Economics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ECON%20332" title="ECON 332" class="bubblelink code" onclick="return showCourse(this, 'ECON 332');">ECON 332</a></td><td>Urban Economics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ECON%20333" title="ECON 333" class="bubblelink code" onclick="return showCourse(this, 'ECON 333');">ECON 333</a></td><td>International Economics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ECON%20334" title="ECON 334" class="bubblelink code" onclick="return showCourse(this, 'ECON 334');">ECON 334</a></td><td>Economic Development</td><td class="hourscol">3</td></tr>
+<tr class="odd lastrow"><td class="codecol"><a href="/search/?P=ECON%20436" title="ECON 436" class="bubblelink code" onclick="return showCourse(this, 'ECON 436');">ECON 436</a></td><td>Mathematical Economics</td><td class="hourscol">3</td></tr>
+</tbody>
+</table>
+
+<p><strong>NOTE:</strong> Students who plan to pursue graduate studies in economics should take additional mathematics courses. Please consult the director of undergraduate studies for guidance.</p>
+<h3><span class="clsSubHead3">Careers in Law</span></h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ECON%20212" title="ECON 212" class="bubblelink code" onclick="return showCourse(this, 'ECON 212');">ECON 212</a></td><td>Law and Economics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ECON%20213" title="ECON 213" class="bubblelink code" onclick="return showCourse(this, 'ECON 213');">ECON 213</a></td><td>Economic History of the United States</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ECON%20215" title="ECON 215" class="bubblelink code" onclick="return showCourse(this, 'ECON 215');">ECON 215</a></td><td>Health Economics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ECON%20328" title="ECON 328" class="bubblelink code" onclick="return showCourse(this, 'ECON 328');">ECON 328</a></td><td>Public Finance</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ECON%20329" title="ECON 329" class="bubblelink code" onclick="return showCourse(this, 'ECON 329');">ECON 329</a></td><td>Industrial Organization</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ECON%20330" title="ECON 330" class="bubblelink code" onclick="return showCourse(this, 'ECON 330');">ECON 330</a></td><td>Government and Business</td><td class="hourscol">3</td></tr>
+<tr class="odd lastrow"><td class="codecol"><a href="/search/?P=ECON%20331" title="ECON 331" class="bubblelink code" onclick="return showCourse(this, 'ECON 331');">ECON 331</a></td><td>Labor Economics</td><td class="hourscol">3</td></tr>
+</tbody>
+</table>
+
+<h2>Recommended Plan of Study</h2>
+<table pdfnorepeatheader="true" class="sc_plangrid">
+<caption>Plan of Study Grid</caption><colgroup>
+	<col class="codecol"/>
+	<col class="titlecol"/>
+	<col class="hourscol"/>
+</colgroup>
+<tr class="plangridyear"><th id="plangrid1_0" class="year" colspan="3">First Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_0_0" colspan="2">Fall Semester</th><th id="hoursheader" scope="col" class="hourscol">Hours</th></tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Academic Writing I: Writing in Academic and Public Contexts</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=ECON%20120" title="ECON 120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON 120</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Principles of Microeconomics <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=MATH%20121" title="MATH 121" class="bubblelink code" onclick="return showCourse(this, 'MATH 121');">MATH 121</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Precalculus Mathematics <sup>b</sup></td>
+<td headers="hoursheader" class="hourscol">5</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_0_0" class="titlecol">Hours</td><td headers=" plangrid1_0_0 hoursheader" class="hourscol">16</td></tr>
+<tr class="plangridterm"><th id="plangrid1_0_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Academic Writing II: Writing for Inquiry and Research</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=ECON%20121" title="ECON 121" class="bubblelink code" onclick="return showCourse(this, 'ECON 121');">ECON 121</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Principles of Macroeconomics <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_0_1" class="titlecol">Hours</td><td headers=" plangrid1_0_1 hoursheader" class="hourscol">17</td></tr>
+<tr class="plangridyear"><th id="plangrid1_1" class="year" colspan="3">Second Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_1_0" colspan="3">Fall Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_1_0" class="codecol"><a href="/search/?P=ECON%20220" title="ECON 220" class="bubblelink code" onclick="return showCourse(this, 'ECON 220');">ECON 220</a></td>
+<td headers=" plangrid1_1_0" class="titlecol">Microeconomics: Theory and Applications</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_1_0" class="titlecol">Hours</td><td headers=" plangrid1_1_0 hoursheader" class="hourscol">16</td></tr>
+<tr class="plangridterm"><th id="plangrid1_1_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_1_1" class="codecol"><a href="/search/?P=ECON%20270" title="ECON 270" class="bubblelink code" onclick="return showCourse(this, 'ECON 270');">ECON 270</a></td>
+<td headers=" plangrid1_1_1" class="titlecol">Statistics for Economics</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" class="codecol"><a href="/search/?P=ECON%20221" title="ECON 221" class="bubblelink code" onclick="return showCourse(this, 'ECON 221');">ECON 221</a></td>
+<td headers=" plangrid1_1_1" class="titlecol">Macroeconomics in the World Economy: Theory and Applications</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3-5</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_1_1" class="titlecol">Hours</td><td headers=" plangrid1_1_1 hoursheader" class="hourscol">14-16</td></tr>
+<tr class="plangridyear"><th id="plangrid1_2" class="year" colspan="3">Third Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_2_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=ECON%20300" title="ECON 300" class="bubblelink code" onclick="return showCourse(this, 'ECON 300');">ECON 300</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=ECON%20400" title="ECON 400" class="bubblelink code" onclick="return showCourse(this, 'ECON 400');">ECON 400</a></div></td>
+<td headers=" plangrid1_2_0" class="titlecol">Econometrics<br/><div style="margin-left:20px;" class="blockindent">or Honors Econometrics</div></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">ECON 2xx, ECON 3xx, or ECON 4xx</span> <sup>c</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3-5</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course/Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_2_0" class="titlecol">Hours</td><td headers=" plangrid1_2_0 hoursheader" class="hourscol">15-17</td></tr>
+<tr class="plangridterm"><th id="plangrid1_2_1" colspan="3">Spring Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">ECON 2xx, ECON 3xx, or ECON 4xx</span> <sup>c</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">ECON 2xx, ECON 3xx, or ECON 4xx</span> <sup>c</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" class="codecol"><a href="/search/?P=ECON%20395" title="ECON 395" class="bubblelink code" onclick="return showCourse(this, 'ECON 395');">ECON 395</a></td>
+<td headers=" plangrid1_2_1" class="titlecol">Research and Writing in Economics <sup>d</sup></td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">General Education Requirement course/Elective</span></td>
+<td headers="hoursheader" class="hourscol">3-5</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">3-6</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_2_1" class="titlecol">Hours</td><td headers=" plangrid1_2_1 hoursheader" class="hourscol">13-18</td></tr>
+<tr class="plangridyear"><th id="plangrid1_3" class="year" colspan="3">Fourth Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_3_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">ECON 2xx, ECON 3xx, or ECON 4xx</span> <sup>c</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">12</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_3_0" class="titlecol">Hours</td><td headers=" plangrid1_3_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid1_3_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">ECON 2xx, ECON 3xx, or ECON 4xx</span> <sup>c</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">11</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_3_1" class="titlecol">Hours</td><td headers=" plangrid1_3_1 hoursheader" class="hourscol">14</td></tr>
+<tr class="plangridtotal lastrow even"><td> </td><td>Total Hours</td><td headers="hoursheader" class="hourscol">120</td></tr>
+</table>
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>These two courses may be used to satisfy two of the nine courses in the General Education Requirement.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=MATH%20121" title="MATH 121" class="bubblelink code" onclick="return showCourse(this, 'MATH 121');">MATH 121</a></span> satisfies Quantitative Reasoning requirement with a grade of C or better. Based upon placement, math prerequisite may be required.</em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>200-, 300-, or 400-level course in economics</em><em>. At least three economics elective courses must be numbered 320 or higher.</em></p></td></tr><tr><td valign="top" class="symcol">d</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=ECON%20395" title="ECON 395" class="bubblelink code" onclick="return showCourse(this, 'ECON 395');">ECON 395</a></span> requires concurrent registration with a designated 300-level economics course. </em></p></td></tr></table>
+<p><strong>Note:</strong> Students should meet periodically with their academic advisor. For questions regarding career paths for economics majors or applications to graduate school, students are encouraged to consult the director of undergraduate studies in the Department of Economics.</p></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="ba.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

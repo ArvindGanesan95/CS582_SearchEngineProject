@@ -1,0 +1,491 @@
+https://catalog.uic.edu/ucat/colleges-depts/urban-planning-public-affairs/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>College of Urban Planning and Public Affairs &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="active isparent self"><a href="#" onclick="return false;">College of Urban Planning and Public Affairs</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/urban-planning-public-affairs/">
+				<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/pa/">Public Administration</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/upp/">Urban Planning and Policy</a></li>
+			</ul>
+			</li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><span class="active">College of Urban Planning and Public Affairs</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">College of Urban Planning and Public Affairs</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p class="campus_location"><span class="label"><strong>Contact Information: </strong></span><br/>
+<span class="campus_location">Campus Location: 115 CUPPA Hall (CUPPAH) <br/>
+<span class="phone">(312) 413-8088</span> <br/>
+<span class="website"><a href="http://www.uic.edu/cuppa" target="_blank">www.uic.edu/cuppa</a></span></span></p>
+<p class="administration"><span class="label"><strong>Administration: </strong></span><br/>
+Dean, Michael A. Pagano, <a href="mailto:mapagano@uic.edu">mapagano@uic.edu</a> <br/>
+Associate Dean for Academic Affairs, Philip Ashton, <a href="mailto:pashton@uic.edu">pashton@uic.edu</a><br/>
+Assistant Dean for Undergraduate Affairs, Jaime Holland, <a href="mailto:jaime43@uic.edu">jaime43@uic.edu</a></p>
+<ul>
+	<li><a href="#a">Introduction</a></li>
+	<li><a href="#b">Degree Requirements</a>
+	<ul>
+		<li><a href="#b1">Semester Hour Requirement</a></li>
+		<li><a href="#b2">Course Requirements</a></li>
+		<li><a href="#b4">Other Requirements</a></li>
+	</ul>
+	</li>
+	<li><a href="#c">College Policies</a>
+	<ul>
+		<li><a href="#c1">Academic Load</a></li>
+		<li><a href="#c2">Academic Probation and Dismissal Rules</a></li>
+		<li><a href="#c3">Change of Course Schedule—Dropping Courses</a></li>
+		<li><a href="#c4">Class Attendance</a></li>
+		<li><a href="#c5">Course Prerequisites</a></li>
+		<li><a href="#c6">Credit/No Credit Option</a></li>
+		<li><a href="#DeclaringMajor">Declaring a Major</a></li>
+		<li><a href="#c7">Double Major, Double Degrees, and Second Bachelor's Degree</a></li>
+		<li><a href="#c8">Independent Study</a></li>
+		<li><a href="#c9">Petition Procedure</a></li>
+		<li><a href="#c10">Registration Approval</a></li>
+		<li><a href="#c11">Repeat Policy for Standard Graded Courses</a></li>
+		<li><a href="#c13">Transferring</a></li>
+		<li><a href="#MilitaryScienceCredit">Military Science Credit</a></li>
+	</ul>
+	</li>
+	<li><a href="#d">Minors</a></li>
+	<li><a href="#e">Academic Advising</a>
+	<ul>
+		<li><a href="#e1">Advising Policy</a></li>
+	</ul>
+	</li>
+	<li><a href="#f">Academic Honors</a>
+	<ul>
+		<li><a href="#f1">University Honors</a></li>
+		<li><a href="#f2">Dean's List</a></li>
+	</ul>
+	</li>
+</ul>
+<hr/>
+<h2><a id="a" name="a"></a>Introduction</h2>
+<p>The College of Urban Planning and Public Affairs (CUPPA) promotes just, resilient, and livable communities in the world’s cities and metropolitan areas.  As an internationally recognized leader in education, research, and engagement, it provides innovative education in urban planning, public administration, urban studies, and public policy. It strives for academic excellence to provide inspirational learning experiences for our students and to make contributions beyond the university.</p>
+<h2><a id="b" name="b"></a>Degree Requirements</h2>
+<p>To earn a College of Urban Planning and Public Affairs degree from UIC, students need to complete university, college, and department degree requirements. University and college degree requirements for all College of Urban Planning and Public Affairs students are outlined below. Students should consult their academic department section for major course requirements.</p>
+<h3><a id="b1" name="b1"></a>Semester Hour Requirement</h3>
+<p>The College of Urban Planning and Public Affairs semester hour requirement is determined by program:</p>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugsemesterhourrqrmt" summary="UG Semester Hour Requirement">
+<caption class="hidden noscript">UG Semester Hour Requirement</caption>
+<colgroup><col class="column0"/><col class="column1"/><col class="column2"/><col class="column3"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Degree Program</th>
+<th scope="col" class="column1">School/Department</th>
+<th scope="col" class="column2">Degree Conferred</th>
+<th scope="col" class="column3">Total Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td class="column0">Public Policy</td>
+<td class="column1">Public Administration</td>
+<td class="column2">BA in Public Policy</td>
+<td class="column3">120</td>
+</tr>
+<tr class="odd last lastrow"><td class="column0">Urban Studies</td>
+<td class="column1">Urban Planning and Policy</td>
+<td class="column2">BA in Urban Studies</td>
+<td class="column3">120</td>
+</tr>
+</tbody>
+</table>
+
+<h3><a id="b2" name="b2"></a>Course Requirements</h3>
+<p>See academic department sections for specific course requirements.</p>
+<h4>General Education Core</h4>
+<p>General Education at UIC is designed to serve as a foundation for lifelong learning. Students are required to complete a minimum of 24 semester hours in the General Education Core with at least one course from each of the following categories:</p>
+<ol>
+	<li>Analyzing the Natural World</li>
+	<li>Understanding the Individual and Society</li>
+	<li>Understanding the Past</li>
+	<li>Understanding the Creative Arts</li>
+	<li>Exploring World Cultures</li>
+	<li>Understanding U.S. Society</li>
+</ol>
+<p>For a description and a list of courses for each General Education Core category, students should consult the <a href="/ucat/degree-programs/general-education/"><em>General Education</em></a> section of the catalog. Information on meeting the General Education requirements for CUPPA programs are listed in the respective academic department sections.</p>
+<h4>General Education Proficiencies—University Writing Requirement and Foreign Language</h4>
+<p>College of Urban Planning and Public Affairs students must meet the University Writing Requirement. Students in the Urban Studies program must also meet a Foreign Language requirement.</p>
+<h5>University Writing Requirement</h5>
+<p>All students must earn a passing grade in <span class="sc_courseinline"><a class="bubblelink code" href="/search/?P=ENGL%20160" title="ENGL 160">ENGL 160</a></span> and <span class="sc_courseinline"><a class="bubblelink code" href="/search/?P=ENGL%20161" title="ENGL 161">ENGL 161</a></span> or equivalent.</p>
+<h5>Foreign Language</h5>
+<p>Urban Studies students must earn 8 hours in a single language or the equivalent.</p>
+<h5>First-Year Seminar Requirement</h5>
+<p>All incoming first-year students, including transfer students who enter with less than 24 hours and those admitted in the spring semester, must take the two-course first-year seminar, <span class="sc_courseinline"><a href="/search/?P=UPA%20120" title="UPA 120" class="bubblelink code" onclick="return showCourse(this, 'UPA 120');">UPA 120</a></span> and <span class="sc_courseinline"><a href="/search/?P=UPA%20121" title="UPA 121" class="bubblelink code" onclick="return showCourse(this, 'UPA 121');">UPA 121</a></span>, during their first and second term at UIC. Satisfactory completion of the seminar is a graduation requirement.</p>
+
+<h3><a id="b4" name="b4"></a>Other Requirements</h3>
+<h4>Grade Point Average (GPA) Requirement</h4>
+<p>Students must earn a cumulative grade point average of 2.00/4.00 in all work applied to CUPPA’s undergraduate degrees. In addition, the combined average of a student’s transfer work and work taken at UIC must be at least 2.00. The grade point average for all degree-specific course work must be at least 2.50. This includes 45 hours of core program requirements for the BA in Public Policy and 60 hours of required courses and selectives for the BA in Urban Studies (see departmental pages for additional information on these courses).</p>
+<h4>Course Level Requirement </h4>
+<p>A student must earn a minimum of 40 semester hours in advanced-level courses (those numbered 200 and above at UIC) at any accredited four-year college or university. At least 12 semester of these 40 advanced hours must be taken in the major field while in enrollment residence at UIC. Community college work, regardless of the course number, is not considered advanced for the purposes of this requirement.</p>
+<h4>Graduation Declaration/Filing to Graduate </h4>
+<p>Students declare their intent to graduate online using <em>my.UIC</em>. The deadline for submission to the Pending Degree List is the end of the third week (fall and spring) or second week (Summer Session 2) of the term in which graduation is sought. Failure to submit the request at this time may delay the awarding of the degree. A final review will be made following the close of the term. If a student has satisfactorily completed all the degree requirements, the student’s name will be placed on the official degree list.</p>
+<h4>Enrollment Residence Requirement </h4>
+<p>See the <a href="/ucat/degree-programs/univ-degree-requirements-graduation/"><em>University Degree Requirements, Graduation, and Commencement</em></a> section of the catalog for a complete description of this requirement.</p>
+<h4>Transfer Credit</h4>
+<p><a href="https://admissions.uic.edu/undergraduate/undergraduate-requirements-deadlines/transfer-requirements/transfer" target="_blank">Transfer guides</a> are available for most colleges in the Chicago area and can be found on the Admissions website.</p>
+<h2><a id="c" name="c"></a>College Policies</h2>
+<p>The following policies apply to undergraduate students enrolled in the College of Urban Planning and Public Administration.</p>
+<h3><a id="c1" name="c1"></a>Academic Load</h3>
+<p>Students may enroll in either a part-time or full-time program of study, in either day or evening classes. During the fall and spring semesters, a minimum full-time program is 12 semester hours. A program of 19 semester hours or more must be approved by the appropriate director of undergraduate studies. For Summer Session 1 (four-week) and Summer Session 2 (eight-week), UIC considers a total aggregate of 6 semester hours (5 hours for graduate students) as the minimum number necessary to constitute full-time enrollment. A program of 13 semester hours or more during the summer session must be approved by the appropriate director of undergraduate studies.</p>
+<h3><a id="c2" name="c2"></a>Academic Probation and Dismissal Rules</h3>
+<p>Students will be placed on academic probation in any term in which either a cumulative or semester grade point average of less than 2.00/4.00 is earned. A student on probation is expected to earn greater than a 2.00 in the next term and have a UIC cumulative grade point average of 2.00 by the end of the second term on probation.</p>
+<h4>Dismissal Rules</h4>
+<p>Students failing to earn the cumulative grade point average required by their program by the end of two terms on probation will be dismissed from the university following a careful review of their situation; in very exceptional cases, upon the discretion of the program director, students may be given extra time to bring their grade point average to the required level. In any term, a student may be dismissed for one or more of the following reasons:</p>
+<ol>
+	<li>First-term students will be dismissed after their first term of enrollment if they earn zero credit or obtain a deficit of -15 points or more. Deficit points are calculated as follows:
+	<ol>
+		<li>Multiply the number of semester hours for each course taken by the points for the grade received, A=+2, B=+1, C=0, D=-1, F=-2.</li>
+		<li>Add the points of each course taken during the semester.</li>
+		<li>The total equals the deficit points used to determine probation status. Each deficit point equals one hour of B.</li>
+	</ol>
+	</li>
+	<li>Continuing students will be dismissed at the end of any term in which their cumulative deficit points (see above) are -15 or more.</li>
+	<li>Failure to earn any credit.</li>
+	<li>Failure to earn at least a 1.00/4.00 (D) average for a term.</li>
+	<li>Failure to earn at least a 2.00/4.00 while on probation.</li>
+	<li>Failure to meet conditions of probation.</li>
+	<li>Failure to meet conditions specified at the time of admission.</li>
+	<li>Failure to make progress toward completion of the degree.</li>
+	<li>Two or more consecutive terms of university withdrawals.</li>
+</ol>
+<p>The dean may waive the dismissal rules in extraordinary circumstances.</p>
+<h4>Appeal of a Dismissal Decision</h4>
+<p>Students who have been dismissed by the college may apply for readmission after two terms (excluding the summer session). Students who can document that poor academic performance was the result of significant extenuating circumstances, such as a long-term or debilitating illness or personal crisis, may petition for immediate reinstatement. The student must make arrangements for an interview, with supporting documentation, with the director of undergraduate studies or dean prior to the first day of instruction of the new term.</p>
+<h3><a id="c3" name="c3"></a>Change of Course Schedule - Dropping Courses</h3>
+<p>Undergraduate students may drop courses using <em><a href="https://my.uic.edu" target="_blank">my.UIC</a></em> through the end of the second week of classes for fall and spring semesters, the first Wednesday of Summer Session 1, or the first Friday of Summer Session 2. During weeks 3 through 10 of the fall and spring semesters (first Thursday through the third Wednesday of Summer Session 1 or weeks 2 through 5 of Summer Session 2) students may drop courses with the permission of their major college. If the drop occurs between 0 and 2 weeks in fall and spring, there will be no notation on the transcript. If the drop occurs during weeks 3 through 10 in fall and spring (first Thursday through the second Wednesday of Summer Session 1 or weeks 2 through 5 of Summer Session 2), a W is noted on the transcript. Undergraduate students may drop a maximum of 4 UIC individual courses that result in a W notation on their transcript during their entire undergraduate degree program.</p>
+<h3><a id="c4" name="c4"></a>Class Attendance</h3>
+<p>Each instructor establishes the attendance policy for the class, including penalties for nonattendance. Failure to attend classes does not result in automatic withdrawal from a course. The college expects that students will attend all classes.</p>
+<h3><a id="c5" name="c5"></a>Course Prerequisites</h3>
+<p>A student must satisfy the prerequisites before enrolling in a course. A student enrolling in a course without having met the prerequisites may be withdrawn from the course. Course prerequisites are listed in both the course descriptions in this catalog and the <em>Schedule of Classes</em>. Only the instructor may waive the prerequisite, if given evidence that the student is adequately prepared to pursue the subject.</p>
+<h3><a id="c6" name="c6"></a>Credit/No Credit Option</h3>
+<p>The credit/no credit option allows the student to complete a course with a grade of credit (CR) or no credit (NC) instead of a letter grade. Courses completed with a grade of CR carry credit and apply toward degree requirements. In general, grades of CR and NC are final and cannot be changed to letter grades. The Public Policy and Urban Studies programs’ policy coincides with campus policy with the following conditions:</p>
+<ol>
+	<li>Only students in good standing may elect to take a course under the credit/no credit option. Students on probation and those whose status is undetermined at the time at which they elect the option are not eligible.</li>
+	<li>A student may request only one course per term as credit/no credit.</li>
+	<li>No more than two courses in a single discipline may be taken as credit/no credit.</li>
+	<li>Only elective courses may be taken on a credit/ no credit basis; courses being used to meet any graduation course requirements must be taken for letter grades.</li>
+	<li>The following describes the restrictions that apply to all students regardless of major or curriculum:
+	<ol>
+		<li>Students may not take <span class="sc_courseinline"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></span> or <span class="sc_courseinline"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></span> as credit/no credit.</li>
+
+		<li>Students may not take any course used to satisfy the foreign language requirement in the Urban Studies program as credit/no credit.</li>
+		<li>Students may not take any course used to satisfy the General Education Core requirements as credit/no credit. Until students have completed the minimum requirement in each General Education Core category, courses from these areas may not be taken as credit/no credit.</li>
+		<li>Students may not take any course used to satisfy the quantitative reasoning requirement as credit/no credit.</li>
+		<li>Students may not take any course being used to satisfy the requirements of the Public Policy or Urban Studies major or required prerequisite and collateral courses of the major as credit/ no credit.</li>
+	</ol>
+
+	</li>
+
+	<li>A student may earn no more than 21 semester hours of credit at UIC under the credit/no credit option.</li>
+</ol>
+
+<p>Students must apply to take a course credit/no credit, no later than the tenth day of the term (first Wednesday of Summer Session 1 or first Friday of Summer Session 2). After that date, students may not request courses on a credit/no credit basis nor may they change a credit/no credit request previously submitted. It is the responsibility of the student to determine eligibility under the regulations. Students will be informed if they are ineligible and will receive a grade for the course. Students with questions concerning their eligibility should make an appointment with the appropriate director of undergraduate studies.</p>
+<h3><a id="DeclaringMajor" name="DeclaringMajor"></a>Declaring a Major</h3>
+<p>Students must declare a major that leads to a degree after earning 45 semester hours. Failure to do so will result in a registration hold which will not be lifted until the student has changed their major to one that leads to a degree. Transfer students entering with 45 semester hours or more must declare a major by the end of their first term at UIC. Failure to do so will result in a registration hold which will not be lifted until the student has changed their major to one that leads to a degree. Students who have earned 45 semester hours or more may not change their major to an Undecided Major.</p>
+<h3><a id="c7" name="c7"></a>Double Major, Double Degrees, and Second Bachelor's Degree</h3>
+<h4>Double Major</h4>
+<p>This option is not available in the College of Urban Planning and Public Affairs. </p>
+<h4>Double Degrees</h4>
+<p>Double degrees consist of two bachelor’s degrees completed concurrently. Double degrees may be possible. Students should consult the college section of the catalog for the second degree program to determine if this option is available.</p>
+<p>Students seeking two bachelor’s degrees concurrently must formally request acceptance into the second degree program. Students must complete a minimum of 30 semester hours beyond those required for the first degree and all requirements for each of the degree programs as specified by the college and major department. All students interested in double degrees should discuss this option with an advisor.</p>
+<p>Double degrees are not permitted when there is substantial course overlap between the first and second degrees.</p>
+<p>Students who obtain double degrees receive a diploma for each degree. No more than two bachelor’s degrees may be awarded concurrently.</p>
+<h4>Second Bachelor’s Degree</h4>
+<p>Students who have already earned a bachelor’s degree at UIC or another institution are required to follow the same application procedures as all other applicants in order to pursue a second bachelor’s degree. Students must complete all requirements for the second degree as specified by the college and the major department, including a minimum of 30 semester hours beyond those required for the first degree. The UIC enrollment residence requirement must also be met, i.e., the last 30 semester hours for the second degree must be taken at UIC. A second bachelor’s degree is not permitted when there is substantial course overlap between the first and second degrees.</p>
+<h3><a id="c8" name="c8"></a>Independent Study</h3>
+<p>A student must have a minimum 2.00/4.00 grade point average in all course work taken at UIC and must obtain consent of the instructor and the degree program prior to registration. No student may enroll in an independent study course after the tenth day of the term without approval of the director of undergraduate studies.</p>
+<h3><a id="c9" name="c9"></a>Petition Procedure</h3>
+<p>Any rule, regulation, or action of the Public Policy or Urban Studies programs may be appealed in writing. Petitions are submitted to the appropriate department head. It is the student’s responsibility to provide documentation in support of the petition. Submission of a petition does not imply approval.</p>
+<h3><a id="c10" name="c10"></a>Registration Approval</h3>
+<p>All new students are required to either receive advising or attend an orientation program prior to registration.</p>
+<h3><a id="c11" name="c11"></a>Repeat Policy for Standard Graded Courses</h3>
+<p>The undergraduate programs require students to discuss any plan to repeat a course with their academic advisor before they register to repeat the course.</p>
+<p>Courses with A or B grades may not be repeated. Normally, courses with a C grade may not be repeated. Courses with D or F grades may be repeated once without written permission. In all cases, the original grade for the course and the grade for each repeat will appear on the transcript. The original grade and the grade for each repeat will be calculated into the grade point average. Only one registration for the course counts toward the total number of credits required for graduation. A course cannot be repeated after receiving credit in a course for which the repeat course is a prerequisite.</p>
+<p>To repeat a course more than once due to a grade of D or F requires written permission from the student’s college dean. Students who have been dismissed may not appeal on the grounds of intention to repeat courses. Certain courses may not be repeated; students should consult their college before repeating a course</p>
+<h4><strong>Undergraduate Grade Point Average Recalculation Policy</strong></h4>
+<ul>
+	<li>Colleges may elect to implement this policy as early as the end of the junior year, or as late as the final semester during degree certification.</li>
+	<li>The college will evaluate each student unable to graduate because of an academic grade point average deficit. The deficit may occur in the UIC GPA, the program GPA, or both.</li>
+	<li>The academic record is examined so as to determine if courses, deemed appropriate by each college, with grades of F or grades of D, may be excluded from the student’s grade point average.</li>
+	<li>A total of four courses may be excluded, with one course excluded at a time until the necessary quality points are obtained to meet the UIC GPA requirement and/or degree program minimum GPA. The semester hours associated with excluded course grades will not count towards graduation requirements.</li>
+	<li>Only the college can initiate course exclusions, and only in consultation with the evaluated student.</li>
+	<li>Students may not request exclusions.</li>
+	<li>Only courses taken at UIC may be converted as part of this policy.</li>
+	<li>This policy only applies to undergraduate degree seeking students.</li>
+	<li>All courses taken and all grades will remain on the official transcript.</li>
+	<li>The grade exclusion policy does not apply to courses failed as the result of a student conduct hearing.</li>
+	<li>In cases where these procedures would impact program accreditation, licensure or similar, colleges may use their discretion to allow the policy. Colleges, departments, and programs may have discretion in choosing courses that impact the student’s major.</li>
+</ul>
+<h3><a id="c13" name="c13"></a>Transferring </h3>
+<h4>Intercollege Transfer Students</h4>
+<p>Students currently enrolled at UIC who want to transfer into the College of Urban and Public Affairs should complete an Intercollege Transfer Application available at the appropriate CUPPA undergraduate program office or from the Dean's office. Students are welcome to discuss possible admission to the Public Policy or Urban Studies degree program with the director of undergraduate studies or the program’s appointed staff advisor. Admission to degree programs in CUPPA is limited to those students in good academic standing who have a UIC grade point average of at least 2.00/4.00 and whose combined UIC and transfer grade point average is at least 2.00. Those students who are accepted into either the Public Policy or Urban Studies degree program are expected to enroll immediately in courses that fulfill degree requirements.</p>
+<h4>Transfer Students from Other Colleges and Universities</h4>
+<p>Provided space is available, a minimum 2.50/4.00 grade point average is required for consideration. Please consult the <a href="/ucat/admissions-registration-finances/admissions/"><em>Admissions</em></a> section of the catalog for more information. See the Office of Admissions <a href="https://admissions.uic.edu/undergraduate/undergraduate-requirements-deadlines/transfer-requirements/transfer" target="_blank"><em>Transfer Guide</em></a> for more information about transfer admission requirements.</p>
+<h4>Transferring out of the College</h4>
+<p>A CUPPA undergraduate student who wants to transfer into another UIC college must follow the procedures of that college.</p>
+<h3><a id="MilitaryScienceCredit" name="MilitaryScienceCredit">Military Science Credit</a></h3>
+<p>Students may earn a maximum of three semester hours of 100-level Military Science and Naval Science courses. An additional one hour of credit in basic military science is allowed for students who have served for a minimum of six months of extended active duty in any branch of the armed forces for the United States. Students in the BA in Public Policy may be able to apply 200-, 300-, and 400-level Military Science courses to a specialization with approval of an advisor or director of undergraduate studies.</p>
+<h2><a id="d" name="d"></a>Minors</h2>
+<p>The College of Urban Planning and Public Affairs offers the following minors. Please see departmental listings for more information.</p>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugminors" summary="UG Minors">
+<caption class="hidden noscript">UG Minors</caption>
+<colgroup><col class="column0" pdfwidth="50%" width="50%"/><col class="column1" pdfwidth="35%" width="35%"/><col class="column2" pdfwidth="15%" width="15%"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Minor</th>
+<th scope="col" class="column1">School/Department</th>
+<th scope="col" class="column2">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td class="column0">Civic Analytics</td>
+<td class="column1">Public Administration</td>
+<td class="column2">15</td>
+</tr>
+<tr class="odd"><td class="column0">Geographic Information Systems</td>
+<td class="column1">Urban Planning and Policy</td>
+<td class="column2">12</td>
+</tr>
+<tr class="even"><td class="column0">Public Policy</td>
+<td class="column1">Public Administration</td>
+<td class="column2">15</td>
+</tr>
+<tr class="odd"><td class="column0">Nonprofit Management</td>
+<td class="column1">Public Administration</td>
+<td class="column2">15</td>
+</tr>
+<tr class="even"><td class="column0">Sustainable Cities</td>
+<td class="column1">Urban Planning and Policy</td>
+<td class="column2">12</td>
+</tr>
+<tr class="odd last lastrow"><td class="column0">Urban Studies</td>
+<td class="column1">Urban Planning and Policy</td>
+<td class="column2">15</td>
+</tr>
+</tbody>
+</table>
+
+<h2><a id="e" name="e"></a>Academic Advising</h2>
+<h3><a id="e1" name="e1"></a>Advising Policy </h3>
+<p>The CUPPA undergraduate programs encourage the intellectual growth and development of the student as an individual. Newly admitted students are required to participate in an advising session prior to their initial registration. To arrange an advising appointment, students may contact the director of undergraduate studies or appropriate departmental staff.</p>
+<p>New first-year students entering UIC are required to meet with their academic advisor three times each semester. CUPPA recommends that all transfer students to meet with their academic advisor at least once per semester. The student’s advisor assists students in individual program planning and course selection, as well as discusses with students the feasibility of various career paths based on interest and academic performance. Additionally, advisors can explain college and program rules and requirements and can help resolve special registration problems. In conjunction with this, advisors refer students to additional resources on campus.</p>
+<p>The responsibility for selecting courses and meeting graduation requirements rests with the students, who must plan intelligently to make their programs consistent with their goals and with college requirements.</p>
+<h2><a id="f" name="f"></a>Academic Honors</h2>
+<h3><a id="f1" name="f1"></a>University Honors</h3>
+<p>The college recognizes and conforms with the campus-wide honors program. University Honors are awarded to graduating students who satisfy UIC hours residency requirements with a UIC grade point average that falls within the following honors categories:</p>
+<ul>
+	<li><strong>Summa cum laude:</strong> 3.90 and above</li>
+	<li><strong>Magna cum laude:</strong> 3.75 to 3.89</li>
+	<li><strong>Cum laude:</strong> 3.50 to 3.74</li>
+</ul>
+<p>University Honors will be awarded based on UIC GPA at the end of the term prior to the term of graduation for commencement ceremony purposes. UIC will make permanent adjustments to student transcripts and diploma related to University Honors based on final grades.</p>
+<h3><a id="f2" name="f2"></a>Dean's List</h3>
+<p>Exceptional academic achievement in the College of Urban Planning and Public Affairs is recognized each term by inclusion on the Dean’s List. Eligibility is based on a 3.50/4.00 term GPA with a minimum program of 12 semester hours, exclusive of basic military science and basic activity courses in physical education. At least 9 semester hours must be earned for letter grades, in addition to a grade of Credit earned in any course taken on a credit/no credit basis.</p></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="urban-planning-public-affairs.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

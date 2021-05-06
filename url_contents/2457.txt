@@ -1,0 +1,589 @@
+https://catalog.uic.edu/ucat/colleges-depts/liberal-arts-sciences/blst/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Department of Black Studies &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/liberal-arts-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/">Anthropology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/">Biochemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/">Biological Sciences</a></li>
+				<li class="active isparent self"><a href="#" onclick="return false;">Black Studies</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/liberal-arts-sciences/blst/">
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/ba/">BA with a Major in Black Studies</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/minor-blst/">Minor in Black Studies</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/">Chemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/">Classics and Mediterranean Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/">Communication</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/">Criminology, Law, and Justice</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/">Earth and Environmental Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/">Economics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/">English</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French and Francophone Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/">Gender and Women's Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/">Germanic Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/">Global Asian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/">Hispanic and Italian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/">History</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/">Integrated Health Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/">International Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/">Liberal Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/">Linguistics</a></li>
+				<li><a href="/ucat/colleges-depts/liberal-arts-sciences/lcsl/">Literatures, Cultural Studies, and Linguistics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/">Mathematics, Statistics, and Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/">Moving Image Arts</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/">Neuroscience</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/">Philosophy</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/">Physics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/">Polish, Russian, and Lithuanian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/">Political Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/">Psychology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/">Religious Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/">Sociology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional Studies</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/">College&nbsp;of&nbsp;Liberal&nbsp;Arts&nbsp;and&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><span class="active">Black Studies</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Department of Black Studies</h1>
+
+
+<script type="text/javascript">
+//<![CDATA[
+	var defshow = "text";
+	var bodycontainer = "#body";
+	var validhashes = ",text,programsandrequirementstext,coursestext,";
+
+if(window.location.hash.length) {
+	var hash = cleanHash(window.location.hash);
+	if(validhashes.indexOf("," + hash + ",") != -1)
+		defshow = hash;	
+}
+var ss = document.styleSheets;
+var workss = null;
+for(var i=0; i < ss.length; i++) {
+	var currmedia = "";
+	if (typeof ss[i].media == "string") 
+		currmedia = ss[i].media
+	else if (typeof ss[i].media == "object" && ss[i].media.mediaText) 
+		currmedia = ss[i].media.mediaText;
+	
+	if((currmedia == "screen" || currmedia == "all") && (ss[i].href.indexOf("/") == 0 || ss[i].href.indexOf(document.location.host) >= 0)) {
+		workss = ss[i];
+		break;	
+	}
+}
+if(workss && workss.insertRule) {
+	workss.insertRule(".tab_content { display: none; }", workss.cssRules.length)
+	workss.insertRule(".sectionheader { display: none; }", workss.cssRules.length)
+	workss.insertRule("#" + defshow + "container { display: block; }", workss.cssRules.length)
+} else if(workss && workss.addRule) {
+	workss.addRule(".tab_content", "display: none");
+	workss.addRule(".sectionheader", "display: none");
+	workss.addRule("#" + defshow + "container", "display: block");
+}
+else {
+	if (window.console)
+		window.console.log('screen.css <link> needs attribute media="screen"');
+}
+//]]>
+</script>
+	<div id="tabs">
+		<ul class="clearfix" role="tablist">
+			<li id="texttab" role="presentation">
+<a href="#textcontainer" role="tab" aria-controls="textcontainer" onclick="return showSection('text');">Overview</a></li>
+			<li id="programsandrequirementstexttab" role="presentation">
+<a href="#programsandrequirementstextcontainer" role="tab" aria-controls="programsandrequirementstextcontainer" onclick="return showSection('programsandrequirementstext');" >Programs and Requirements</a></li>
+			<li id="coursestexttab" role="presentation">
+<a href="#coursestextcontainer" role="tab" aria-controls="coursestextcontainer" onclick="return showSection('coursestext');" >Courses</a></li>
+		</ul>
+	</div>
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p class="campus_location"><span class="label"><strong>Contact Information: </strong></span><br/>
+<span class="campus_location">Campus Location: 1223 University Hall (UH)<br/>
+<span class="phone">(312) 996–2950</span><br/>
+<span class="email"><a href="mailto:aast@uic.edu">aast@uic.edu</a></span></span><br/>
+<a href="https://blst.uic.edu" target="_blank">blst.uic.edu</a></p>
+<p class="administration"><span class="label"><strong>Administration:</strong></span><br/>
+Head, Jane Rhodes</p>
+<p>Black Studies is an interdisciplinary field of study that examines the history, politics, and cultural production of persons of African descent both locally and globally. Courses in the major consider the United States, Africa, and the global dispersal of persons of African descent, including the Caribbean, Latin America, and Europe. The department has strong links to community organizations and social movements in Chicago, across the United States, and internationally. Students are encouraged to use their training to address &quot;real world&quot; problems and conflicts. Black Studies offers a liberal arts education that develops skills in critical thinking, research methods, theory building, analysis, and written and oral expression.</p>
+<p>A Black Studies major is excellent preparation for any field of public service (including health care, social work, and education), policy and government, the arts, and media, as well as advanced graduate and professional work in fields ranging from the law to history, literature, and sociology.</p>
+<h2>Distinction</h2>
+<div>To be considered for Departmental Distinction, students must have a cumulative GPA of 3.25/4.00, a GPA of 3.50/4.00 in all African American Studies courses, and meet all course requirements for a major in Black Studies.</div>
+<div> </div>
+<div>To be eligible for High or Highest Distinction, the student must have a grade point average of 3.75/4.00 in all Black Studies courses. In addition, eligible students must submit a final project for departmental review that demonstrates excellent work and must make a seminar presentation on this project to a session of Black Studies majors and faculty. The determination of high or highest distinction will be made by the faculty on the basis of the grade point average, the project, and the presentation.</div></div><!--end #textcontainer -->
+
+			<div id="programsandrequirementstextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="programsandrequirementstexttab" aria-hidden="true">
+				<a name="programsandrequirementstext"></a><p><strong>Degree Program</strong></p>
+<ul>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/ba">BA with a Major in Black Studies</a></li>
+</ul>
+<h2>Minor</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/minor-blst">Minor in Black Studies</a></li>
+</ul>
+			</div>
+			<div id="coursestextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="coursestexttab" aria-hidden="true">
+				<a name="coursestext"></a><div class="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 100.  Introduction to Black Studies.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The Black experience, focusing on African and African American culture, the slave trade, slavery and emancipation in the Americas, 20th and 21st century social relations, and struggles for civil rights. Course Information: Previously listed as AAST 100. Class Schedule Information: To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<i>  Individual and Society course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 101.  Introduction to Black Diaspora Studies.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the historical and contemporary dispersal of people from the African continent around the globe beginning in the 15th century to the present. Course Information: Previously listed as AAST 101.<i>  Past course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 103.  Black Politics and Culture in the United States.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The shifting relationship between black politics and black cultural forms across various historical periods. Course Information: Same as <a href="/search/?P=POLS%20112" title="POLS 112" class="bubblelink code" onclick="return showCourse(this, 'POLS 112');">POLS 112</a>. Previously listed AAST 103.<i>  Individual and Society course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 104.  Race, Place, and Schooling: Black Americans and Education.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of the social, political, cultural, and economic factors shaping Black Americans' educational experiences in the United States histprically and currently. Course Information: Same as <a href="/search/?P=EDPS%20104" title="EDPS 104" class="bubblelink code" onclick="return showCourse(this, 'EDPS 104');">EDPS 104</a>. Previously listed as AAST 104.<i>  Individual and Society course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 105.  Black Film, 1900 - Present: Images, Individuals and Ideas on Screen.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of the history of black people in film â€“ looking both at films by black people in the United States and the diaspora, and at the relationship between black filmmakers, performers, and audiences to national and global film industries. Course Information: Same as <a href="/search/?P=COMM%20105" title="COMM 105" class="bubblelink code" onclick="return showCourse(this, 'COMM 105');">COMM 105</a> and <a href="/search/?P=MOVI%20105" title="MOVI 105" class="bubblelink code" onclick="return showCourse(this, 'MOVI 105');">MOVI 105</a>. Previously listed as AAST 105.<i>  Creative Arts course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 110.  Introduction to African American Literature, 1760-1910.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Comprehensive survey, 1760-1910, from earliest folk roots to formal literary tradition. Course Information: Same as <a href="/search/?P=ENGL%20118" title="ENGL 118" class="bubblelink code" onclick="return showCourse(this, 'ENGL 118');">ENGL 118</a>. Previously listed as AAST 110.<i>  Creative Arts course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 111.  Introduction to African American Literature Since 1910.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Comprehensive survey of African American literature from 1910 to the present. Course Information: Same as <a href="/search/?P=ENGL%20119" title="ENGL 119" class="bubblelink code" onclick="return showCourse(this, 'ENGL 119');">ENGL 119</a>. Previously listed as AAST 111.<i>  Creative Arts course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 125.  Black Religious Traditions.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the religious history of black people in the United States and the diaspora. Examination of religious institutions, the role of religion in black social and political movements, mass rebellions, and revolts. Course Information: Same as <a href="/search/?P=RELS%20125" title="RELS 125" class="bubblelink code" onclick="return showCourse(this, 'RELS 125');">RELS 125</a>. Previously listed as AAST 125.<i>  Past course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 191.  African and Caribbean Francophone Literature in Translation.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to the Francophone literature of Africa and the Caribbean and to its historical and cultural contexts. Course Information: Same as <a href="/search/?P=FR%20191" title="FR 191" class="bubblelink code" onclick="return showCourse(this, 'FR 191');">FR 191</a>. Previously listed as AAST 191.<i>  Creative Arts course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 206.  Black Studies and the Production of Knowledge.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Students will explore the history and implications of research in a wide range of fields and gain an introduction to anti-racist, decolonial, and feminist approaches to knowledge production. Course Information: Previously listed as AAST 206. Prerequisite(s): Three credit hours in Black Studies; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 207.  Racism: Global Perspectives.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to global, transnational, and comparative perspectives on racism. Analysis of race and racism not only in the United States, but also in Africa, the Middle East, Latin America, Europe, and other contexts. Course Information: Same as <a href="/search/?P=SOC%20207" title="SOC 207" class="bubblelink code" onclick="return showCourse(this, 'SOC 207');">SOC 207</a>. Previously listed as AAST 207. Prerequisite(s): <a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a> or <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>.<i>  Individual and Society course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 210.  Ancient Egyptian Art and Archaeology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the art, architecture, archaeology and material culture of ancient societies in Egypt from prehistory to the end of the Ptolemaic Dynasty (ca 6000-30 BCE). Course Information: Same as <a href="/search/?P=AH%20210" title="AH 210" class="bubblelink code" onclick="return showCourse(this, 'AH 210');">AH 210</a> and <a href="/search/?P=CL%20210" title="CL 210" class="bubblelink code" onclick="return showCourse(this, 'CL 210');">CL 210</a>. Credit is not given for <a href="/search/?P=BLST%20210" title="BLST 210" class="bubblelink code" onclick="return showCourse(this, 'BLST 210');">BLST 210</a> if the student has credit in <a href="/search/?P=ARST%20210" title="ARST 210" class="bubblelink code" onclick="return showCourse(this, 'ARST 210');">ARST 210</a> or <a href="/search/?P=AH%20210" title="AH 210" class="bubblelink code" onclick="return showCourse(this, 'AH 210');">AH 210</a> or <a href="/search/?P=CL%20210" title="CL 210" class="bubblelink code" onclick="return showCourse(this, 'CL 210');">CL 210</a>. Previously listed as AAST 210. Prerequisite(s): Completion of the English Composition requirement; and sophomore standing or above. Recommended background: Credit in <a href="/search/?P=AH%20100" title="AH 100" class="bubblelink code" onclick="return showCourse(this, 'AH 100');">AH 100</a> or <a href="/search/?P=AH%20110" title="AH 110" class="bubblelink code" onclick="return showCourse(this, 'AH 110');">AH 110</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Lecture-Discussion.<i>  Creative Arts course, and  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 221.  The Atlantic Slave Trade: Violence, Exploitation, Resistance.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Thematic social, cultural and economic history tracing rise and fall of Atlantic slave trade from African supply systems to New world consumption 1550-1880 with focus on slave experiences. Course Information: Same as <a href="/search/?P=HIST%20221" title="HIST 221" class="bubblelink code" onclick="return showCourse(this, 'HIST 221');">HIST 221</a>. Previously listed as AAST 221. Prerequisite(s): <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>. Class Schedule Information: To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<i>  Past course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 225.  Racial and Ethnic Groups.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Sociological and social-psychological analysis of racial, religious, and other ethnic groups; consideration of historical and current social problems arising from their relationships in society. Course Information: Same as <a href="/search/?P=LALS%20225" title="LALS 225" class="bubblelink code" onclick="return showCourse(this, 'LALS 225');">LALS 225</a> and <a href="/search/?P=SOC%20225" title="SOC 225" class="bubblelink code" onclick="return showCourse(this, 'SOC 225');">SOC 225</a>. Previously listed as AAST 225. Prerequisite(s): <a href="/search/?P=SOC%20100" title="SOC 100" class="bubblelink code" onclick="return showCourse(this, 'SOC 100');">SOC 100</a>; or consent of the instructor.<i>  Individual and Society course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 229.  Black Diaspora Studies.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Interdisciplinary, in-depth study of the making of the African Diaspora--the forced and voluntary movement of African peoples around the globe. Topics may vary. Course Information: Same as <a href="/search/?P=HIST%20229" title="HIST 229" class="bubblelink code" onclick="return showCourse(this, 'HIST 229');">HIST 229</a>. May be repeated to a maximum of 9 hours. Previously listed as AAST 229. Prerequisite(s): <a href="/search/?P=BLST%20100" title="BLST 100" class="bubblelink code" onclick="return showCourse(this, 'BLST 100');">BLST 100</a>; or <a href="/search/?P=BLST%20101" title="BLST 101" class="bubblelink code" onclick="return showCourse(this, 'BLST 101');">BLST 101</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 241.  Precolonial Africa in World History.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The history of African societies in the period before 1850 through the rise of kingdoms and territorial states, migration of peoples, the spread and impact of Islam, and west African trading networks. Course Information: Same as <a href="/search/?P=HIST%20241" title="HIST 241" class="bubblelink code" onclick="return showCourse(this, 'HIST 241');">HIST 241</a>. Previously listed as AAST 241. Prerequisite(s): <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>; or consent of the instructor. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Discussion/Recitation.<i>  Past course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 242.  History of Modern Africa.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The effect of European partition and colonialism; African military and political resistance; economic imperialism; the rise of nationalism; the problems of independence. Course Information: Same as <a href="/search/?P=HIST%20242" title="HIST 242" class="bubblelink code" onclick="return showCourse(this, 'HIST 242');">HIST 242</a>. Previously listed as AAST 242. Prerequisite(s): <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>; or consent of the instructor. Class Schedule Information: to be properly registered, students must enroll in one Lecture-Discussion and one Discussion/Recitation.<i>  Past course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 246.  Black Lives in Historical Context.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Interdisciplinary survey of key episodes in black history and their relationship to contemporary black life such as slavery, abolition and resistance. The course will draw connections between historical and current aspects of black life. Course Information: Same as <a href="/search/?P=HIST%20243" title="HIST 243" class="bubblelink code" onclick="return showCourse(this, 'HIST 243');">HIST 243</a>. Previously listed as AAST 246. Prerequisite(s): <a href="/search/?P=BLST%20100" title="BLST 100" class="bubblelink code" onclick="return showCourse(this, 'BLST 100');">BLST 100</a>; or consent of the instructor.<i>  Past course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 247.  African American History to 1877.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of major social, economic, political, and cultural developments in African American history from the rise of the Atlantic Slave Trade to Reconstruction. Course Information: Same as <a href="/search/?P=HIST%20247" title="HIST 247" class="bubblelink code" onclick="return showCourse(this, 'HIST 247');">HIST 247</a>. Previously listed as AAST 247. Prerequisite(s): One course in Black Studies or History; or consent of the instructor.<i>  Past course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 248.  African American History since 1877.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of major social, economic, and political developments in African American history since Reconstruction. Topics include Jim Crow, black leadership, migration, civil rights and nationalism. Course Information: Same as <a href="/search/?P=HIST%20248" title="HIST 248" class="bubblelink code" onclick="return showCourse(this, 'HIST 248');">HIST 248</a>. Previously listed as AAST 248. Prerequisite(s): One course in Black Studies or History; or consent of the instructor.<i>  Past course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 249.  Black Freedom Movements in the U.S. 3 hours.</strong></p>
+<p class="courseblockdesc">
+A survey of Black resistance and social change movements from the 1900's through the 1970's; the political ideologies and practices of various leaders and organizations that have had an impact on Black American politics. Course Information: Previously listed as AAST 249.<i>  Past course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 250.  Comparative Black Literatures.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected works of literature and criticism in the context of the U.S. and the Black diaspora. Comparative study of race, culture, and politics in literature.  Course Information: Same as <a href="/search/?P=ENGL%20260" title="ENGL 260" class="bubblelink code" onclick="return showCourse(this, 'ENGL 260');">ENGL 260</a>. Previously listed as AAST 250. Prerequisite(s): <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>; or completion of the English composition requirement.<i>  Creative Arts course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 258.  Race and Urban Life.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines the experiences of Blacks in urban areas since the 1900's. Course Information: Same as <a href="/search/?P=SOC%20258" title="SOC 258" class="bubblelink code" onclick="return showCourse(this, 'SOC 258');">SOC 258</a>. Previously listed as AAST 258.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 261.  Reading Black Women Writing.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines inscriptions of race, gender, class, and sexuality as they shape the literary and critical practices of black women writers. Course Information: Same as <a href="/search/?P=ENGL%20261" title="ENGL 261" class="bubblelink code" onclick="return showCourse(this, 'ENGL 261');">ENGL 261</a> and <a href="/search/?P=GWS%20261" title="GWS 261" class="bubblelink code" onclick="return showCourse(this, 'GWS 261');">GWS 261</a>. Previously listed as AAST 261. Prerequisite(s): Grade of C or better in a 100-level Black Studies or African American literature course; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 262.  Black Cultural Studies.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Study of approaches, methods, and key debates in the study of black culture in a transnational and diasporic context. Course Information: Same as <a href="/search/?P=ENGL%20262" title="ENGL 262" class="bubblelink code" onclick="return showCourse(this, 'ENGL 262');">ENGL 262</a>. Previously listed as AAST 262. Prerequisite(s): <a href="/search/?P=BLST%20100" title="BLST 100" class="bubblelink code" onclick="return showCourse(this, 'BLST 100');">BLST 100</a>.<i>  Creative Arts course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 263.  Black Intellectual History.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Key debates and contributions of black thought to national and global politics and culture since the 19th century. Course Information: Same as <a href="/search/?P=HIST%20263" title="HIST 263" class="bubblelink code" onclick="return showCourse(this, 'HIST 263');">HIST 263</a>. Previously listed as AAST 263. Prerequisite(s): <a href="/search/?P=BLST%20100" title="BLST 100" class="bubblelink code" onclick="return showCourse(this, 'BLST 100');">BLST 100</a>.<i>  Individual and Society course, and  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 264.  African American Art.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Interdisciplinary survey of the artistic production of African American artists from the nineteenth century to the present. Course Information: Same as <a href="/search/?P=AH%20264" title="AH 264" class="bubblelink code" onclick="return showCourse(this, 'AH 264');">AH 264</a>. Previously listed as AAST 264.<i>  Creative Arts course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 265.  Harlem Renaissance.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The intellectual, cultural, and artistic expressions among African Americans from 1912 to 1933, with an emphasis on the literary texts and social history. Course Information: Same as <a href="/search/?P=ENGL%20265" title="ENGL 265" class="bubblelink code" onclick="return showCourse(this, 'ENGL 265');">ENGL 265</a>. Previously listed as AAST 265. Prerequisite(s): Grade of C or better in <a href="/search/?P=BLST%20100" title="BLST 100" class="bubblelink code" onclick="return showCourse(this, 'BLST 100');">BLST 100</a>; and Grade of C or better in <a href="/search/?P=BLST%20110" title="BLST 110" class="bubblelink code" onclick="return showCourse(this, 'BLST 110');">BLST 110</a> or Grade of C or better in <a href="/search/?P=BLST%20111" title="BLST 111" class="bubblelink code" onclick="return showCourse(this, 'BLST 111');">BLST 111</a>; or consent of the instructor.<i>  Past course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 266.  Topics in African Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination and analysis of selected works of African literature, history, and criticism. Topics will vary. Course Information: Same as <a href="/search/?P=ENGL%20266" title="ENGL 266" class="bubblelink code" onclick="return showCourse(this, 'ENGL 266');">ENGL 266</a>. May be repeated. Previously listed as AAST 266.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 270.  African Art.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of the arts of the major tribal cultures of Sub-Saharan Africa. Course Information: Same as <a href="/search/?P=AH%20270" title="AH 270" class="bubblelink code" onclick="return showCourse(this, 'AH 270');">AH 270</a>. Previously listed as AAST 270. Prerequisite(s): 3 hours of art history at the 100 level or consent of the instructor.<i>  Creative Arts course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 271.  Race and the Politics of Incarceration.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines how incarceration and criminalization affects black people in contemporary society. Course Information: Same as <a href="/search/?P=CLJ%20271" title="CLJ 271" class="bubblelink code" onclick="return showCourse(this, 'CLJ 271');">CLJ 271</a> and <a href="/search/?P=SOC%20271" title="SOC 271" class="bubblelink code" onclick="return showCourse(this, 'SOC 271');">SOC 271</a>. Previously listed as AAST 271. Prerequisite(s): Grade of C or better or concurrent registration in <a href="/search/?P=BLST%20100" title="BLST 100" class="bubblelink code" onclick="return showCourse(this, 'BLST 100');">BLST 100</a> or Grade of C or better or concurrent registration in <a href="/search/?P=SOC%20100" title="SOC 100" class="bubblelink code" onclick="return showCourse(this, 'SOC 100');">SOC 100</a> or Grade of C or better in <a href="/search/?P=CLJ%20101" title="CLJ 101" class="bubblelink code" onclick="return showCourse(this, 'CLJ 101');">CLJ 101</a>.<i>  Individual and Society course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 272.  Race, Gender, and Sexuality.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Explores how Black feminist and queer intellectual work on race, gender and sexuality has been used to radically reimagine what a just world would look like. Course Information: Same as <a href="/search/?P=GWS%20272" title="GWS 272" class="bubblelink code" onclick="return showCourse(this, 'GWS 272');">GWS 272</a>. Previously listed as AAST 272. Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>.<i>  Individual and Society course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 294.  Topics in Black Studies.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in Black Studies. Specific topics are announced each term. Course Information: May be repeated to a maximum of 6 hours. Students may register for more than one section per term. Previously listed as AAST 294.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 306.  Black Politics in the United States.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Historical analysis of Black electoral politics in the U.S., including traditional political party participation and movement politics. Course Information: Same as <a href="/search/?P=POLS%20311" title="POLS 311" class="bubblelink code" onclick="return showCourse(this, 'POLS 311');">POLS 311</a>. Previously listed as AAST 306. Prerequisite(s): Three courses in political science, history or sociology; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 351.  Topics in Black Art and Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Study of literature and the other arts in the context of the African diaspora. Topics vary. Course Information: Same as <a href="/search/?P=ENGL%20351" title="ENGL 351" class="bubblelink code" onclick="return showCourse(this, 'ENGL 351');">ENGL 351</a>. May be repeated to a maximum of 6 hours if topics vary. Previously listed as AAST 351. Prerequisite(s): Introductory course in Black Studies or English; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 356.  Constitutional Law: Women, Gender and Privacy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A multidisciplinary examination of U.S. constitutional law and politics in shaping issues of gender, privacy, race, and sexual orientation; including reproduction, labor, sexual harassment, political participation, and women and crime. Course Information: Same as <a href="/search/?P=GWS%20356" title="GWS 356" class="bubblelink code" onclick="return showCourse(this, 'GWS 356');">GWS 356</a> and <a href="/search/?P=POLS%20356" title="POLS 356" class="bubblelink code" onclick="return showCourse(this, 'POLS 356');">POLS 356</a>. Previously listed as AAST 356. Prerequisite(s): Grade of C or better in <a href="/search/?P=POLS%20101" title="POLS 101" class="bubblelink code" onclick="return showCourse(this, 'POLS 101');">POLS 101</a> or Grade of C or better in <a href="/search/?P=POLS%20112" title="POLS 112" class="bubblelink code" onclick="return showCourse(this, 'POLS 112');">POLS 112</a>; or Grade of C or better in <a href="/search/?P=BLST%20100" title="BLST 100" class="bubblelink code" onclick="return showCourse(this, 'BLST 100');">BLST 100</a> or Grade of C or better in <a href="/search/?P=BLST%20103" title="BLST 103" class="bubblelink code" onclick="return showCourse(this, 'BLST 103');">BLST 103</a>; or Grade of C or better in <a href="/search/?P=GWS%20101" title="GWS 101" class="bubblelink code" onclick="return showCourse(this, 'GWS 101');">GWS 101</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 358.  Constitutional Law: African-American Legal History.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of the African-American constitutional experience from the 1600s to the present, focusing on landmark decisions of the United States Supreme Court. Course Information: Same as <a href="/search/?P=POLS%20358" title="POLS 358" class="bubblelink code" onclick="return showCourse(this, 'POLS 358');">POLS 358</a>. Previously listed as AAST 358.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 394.  Special Topics in Black Studies.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected advanced topics in Black Studies. Specific topics are announced each term. Course Information: May be repeated to a maximum of 6 hours. Students may register for more than one section per term. Prerequisite(s): <a href="/search/?P=BLST%20100" title="BLST 100" class="bubblelink code" onclick="return showCourse(this, 'BLST 100');">BLST 100</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 398.  Independent Study: Special Topics.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics for individual research. Course Information: May be repeated to a maximum of 8 hours. Previously listed as AAST 398. Prerequisite(s): Consent of the instructor and departmental approval.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 401.  Senior Seminar in Black Studies.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Through weekly readings, discussions, and assignments, students will be guided through a hands-on process of developing a senior project within a small, supportive and dynamic learning community. Course Information:  Previously listed as AAST 401. Prerequisite(s): <a href="/search/?P=BLST%20206" title="BLST 206" class="bubblelink code" onclick="return showCourse(this, 'BLST 206');">BLST 206</a>; and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 406.  Topics in Black Feminist &amp; Queer Theory.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced study of topics related to theories of race, gender and sexuality with a specific focus on black feminist and queer studies. Topics may vary. Course Information: Same as <a href="/search/?P=GWS%20406" title="GWS 406" class="bubblelink code" onclick="return showCourse(this, 'GWS 406');">GWS 406</a>. 3 undergraduate hours. 4 graduate hours. May be repeated if topics vary. Prerequisite(s): Junior standing or above and one 100-level course in Black Studies or one 100-level course in Gender and Womenâ€™s Studies; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 407.  Seminar in Comparative Racialization.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Provides an interdisciplinary and comparative approach to the making and remaking of &quot;race&quot; and the resultant racialized experiences of different groups in the U.S. and globally. Course Information: Same as <a href="/search/?P=SOC%20407" title="SOC 407" class="bubblelink code" onclick="return showCourse(this, 'SOC 407');">SOC 407</a>. 3 undergraduate hours. 4 graduate hours. Previously listed as AAST 407. Prerequisite(s): <a href="/search/?P=BLST%20207" title="BLST 207" class="bubblelink code" onclick="return showCourse(this, 'BLST 207');">BLST 207</a> or <a href="/search/?P=SOC%20207" title="SOC 207" class="bubblelink code" onclick="return showCourse(this, 'SOC 207');">SOC 207</a> or <a href="/search/?P=BLST%20225" title="BLST 225" class="bubblelink code" onclick="return showCourse(this, 'BLST 225');">BLST 225</a> or <a href="/search/?P=SOC%20225" title="SOC 225" class="bubblelink code" onclick="return showCourse(this, 'SOC 225');">SOC 225</a> or <a href="/search/?P=LALS%20225" title="LALS 225" class="bubblelink code" onclick="return showCourse(this, 'LALS 225');">LALS 225</a>; and senior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 441.  Topics in African History.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Specific topics are announced each term. Course Information: Same as <a href="/search/?P=HIST%20441" title="HIST 441" class="bubblelink code" onclick="return showCourse(this, 'HIST 441');">HIST 441</a>. 3 undergraduate hours. 4 graduate hours. May be repeated. Prerequisite(s): 3 hours of African history, Black Studies, or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 481.  Topics in African American and Diaspora History.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+African American history and/or history of the diaspora for students with significant background in the field. Topics vary. Course Information: Same as <a href="/search/?P=HIST%20485" title="HIST 485" class="bubblelink code" onclick="return showCourse(this, 'HIST 485');">HIST 485</a>. 3 undergraduate hours. 4 graduate hours. May be repeated if topics vary. Students may register in more than one section per term. Prerequisite(s): 3 hours of BLST history course or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 490.  Topics in Black Literature.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+The study and analysis of selected works of Black literature and culture for students with significant background in the field. Topics vary by semester. Course Information: Same as <a href="/search/?P=ENGL%20473" title="ENGL 473" class="bubblelink code" onclick="return showCourse(this, 'ENGL 473');">ENGL 473</a>. 3 undergraduate hours. 4 graduate hours. May be repeated. Students may register in more than one section per term. Previously listed as AAST 490. Prerequisite(s): <a href="/search/?P=BLST%20100" title="BLST 100" class="bubblelink code" onclick="return showCourse(this, 'BLST 100');">BLST 100</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 492.  Topics in Social Science Research.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of selected specialized topics that vary each semester. Topics are drawn from research in political science, psychology, sociology, and history. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated. Students may register in more than one term per semester. Previously listed as AAST 492. Prerequisite(s): <a href="/search/?P=BLST%20100" title="BLST 100" class="bubblelink code" onclick="return showCourse(this, 'BLST 100');">BLST 100</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 494.  Advanced Topics in Black Studies.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+In-depth study of selected topics in the field of Black Studies. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated. Students may register in more than one section per term. Prerequisite(s): Junior standing or above. Any two 200-level Black Studies courses or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 501.  Interdisciplinary Seminar in Black Studies.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Graduate introductory seminar to the intellectual traditions, theoretical frameworks, and methodological innovations shaping the interdisciplinary field of Black Studies. Course Information: Previously listed as AAST 501.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 502.  Graduate Colloquium in Black Studies.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Interdisciplinary research and writing colloquium in the field of Black Studies. Course features the research of faculty, guest lecturers, and advanced graduate students from UIC and Chicago's broader scholarly community. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. May not be repeated for credit towards the Graduate Concentration in Black Studies. Previously listed as AAST 502. Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=BLST%20501" title="BLST 501" class="bubblelink code" onclick="return showCourse(this, 'BLST 501');">BLST 501</a>; or approval of the department.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 503.  Topics in Black Studies.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of a topic in Black Studies in an advanced level. Specific topics are announced each term. Course Information: May be repeated for a maximum of 8 hours. Previously listed as AAST 503.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BLST 596.  Independent Study.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced independent study or research in Black Studies, under the supervision of a faculty member. Course Information: May be repeated for credit. Students may register for more than one section per term. Prerequisite(s): Consent of instructor and department approval.<br/>
+</p>
+</div></div>
+			</div>
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="blst.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

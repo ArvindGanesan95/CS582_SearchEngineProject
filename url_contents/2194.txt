@@ -1,0 +1,563 @@
+https://catalog.uic.edu/all-course-descriptions/ling/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Linguistics (LING) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="isparent"><a href="/ucat/">Undergraduate Catalog</a></li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="active isparent"><a href="/all-course-descriptions/">All Course Descriptions</a>
+	<ul class="nav levelone" id="/all-course-descriptions/">
+		<li><a href="/all-course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+		<li><a href="/all-course-descriptions/actg/">Accounting (ACTG)</a></li>
+		<li><a href="/all-course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+		<li><a href="/all-course-descriptions/anth/">Anthropology (ANTH)</a></li>
+		<li><a href="/all-course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+		<li><a href="/all-course-descriptions/arab/">Arabic (ARAB)</a></li>
+		<li><a href="/all-course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+		<li><a href="/all-course-descriptions/arch/">Architecture (ARCH)</a></li>
+		<li><a href="/all-course-descriptions/art/">Art (ART)</a></li>
+		<li><a href="/all-course-descriptions/ah/">Art History (AH)</a></li>
+		<li><a href="/all-course-descriptions/bms/">Basic Medical Sciences (BMS)</a></li>
+		<li><a href="/all-course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+		<li><a href="/all-course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+		<li><a href="/all-course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+		<li><a href="/all-course-descriptions/bvis/">Biomedical Visualization (BVIS)</a></li>
+		<li><a href="/all-course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+		<li><a href="/all-course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+		<li><a href="/all-course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+		<li><a href="/all-course-descriptions/blst/">Black Studies (BLST)</a></li>
+		<li><a href="/all-course-descriptions/ba/">Business Administration (BA)</a></li>
+		<li><a href="/all-course-descriptions/cc/">Campus Courses (CC)</a></li>
+		<li><a href="/all-course-descriptions/cst/">Catholic Studies (CST)</a></li>
+		<li><a href="/all-course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+		<li><a href="/all-course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+		<li><a href="/all-course-descriptions/chem/">Chemistry (CHEM)</a></li>
+		<li><a href="/all-course-descriptions/chin/">Chinese (CHIN)</a></li>
+		<li><a href="/all-course-descriptions/cd/">City Design (CD)</a></li>
+		<li><a href="/all-course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+		<li><a href="/all-course-descriptions/cl/">Classics (CL)</a></li>
+		<li><a href="/all-course-descriptions/cler/">Clerkship -&#8203; Medicine (CLER)</a></li>
+		<li><a href="/all-course-descriptions/cele/">Clerkship Electives -&#8203; Chicago (CELE)</a></li>
+		<li><a href="/all-course-descriptions/pele/">Clerkship Electives -&#8203; Peoria (PELE)</a></li>
+		<li><a href="/all-course-descriptions/rele/">Clerkship Electives -&#8203; Rockford (RELE)</a></li>
+		<li><a href="/all-course-descriptions/uele/">Clerkship Electives -&#8203; Urbana (UELE)</a></li>
+		<li><a href="/all-course-descriptions/comm/">Communication (COMM)</a></li>
+		<li><a href="/all-course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+		<li><a href="/all-course-descriptions/cs/">Computer Science (CS)</a></li>
+		<li><a href="/all-course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+		<li><a href="/all-course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+		<li><a href="/all-course-descriptions/dadm/">Dental Administration (DADM)</a></li>
+		<li><a href="/all-course-descriptions/daob/">Dentistry -&#8203; Applied Oral and Behavioral Sciences (DAOB)</a></li>
+		<li><a href="/all-course-descriptions/dbcs/">Dentistry -&#8203; Biomedical and Clinical Sciences (DBCS)</a></li>
+		<li><a href="/all-course-descriptions/dcle/">Dentistry -&#8203; Community Learning Experience (DCLE)</a></li>
+		<li><a href="/all-course-descriptions/dosi/">Dentistry -&#8203; Oral/&#8203;Systemic Issues (DOSI)</a></li>
+		<li><a href="/all-course-descriptions/dost/">Dentistry -&#8203; Oral/&#8203;Systemic Topics (DOST)</a></li>
+		<li><a href="/all-course-descriptions/des/">Design (DES)</a></li>
+		<li><a href="/all-course-descriptions/dlg/">Dialogue (DLG)</a></li>
+		<li><a href="/all-course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+		<li><a href="/all-course-descriptions/mdc/">Doctor of Medicine—Chicago (MDC)</a></li>
+		<li><a href="/all-course-descriptions/mdp/">Doctor of Medicine—Peoria (MDP)</a></li>
+		<li><a href="/all-course-descriptions/mdr/">Doctor of Medicine—Rockford (MDR)</a></li>
+		<li><a href="/all-course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+		<li><a href="/all-course-descriptions/econ/">Economics (ECON)</a></li>
+		<li><a href="/all-course-descriptions/ed/">Education (ED)</a></li>
+		<li><a href="/all-course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+		<li><a href="/all-course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+		<li><a href="/all-course-descriptions/ece/">Electrical and Computer Engineering (ECE)</a></li>
+		<li><a href="/all-course-descriptions/eb/">Employee Benefits (EB)</a></li>
+		<li><a href="/all-course-descriptions/endo/">Endodontics (ENDO)</a></li>
+		<li><a href="/all-course-descriptions/ener/">Energy Engineering (ENER)</a></li>
+		<li><a href="/all-course-descriptions/engr/">Engineering (ENGR)</a></li>
+		<li><a href="/all-course-descriptions/engl/">English (ENGL)</a></li>
+		<li><a href="/all-course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+		<li><a href="/all-course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+		<li><a href="/all-course-descriptions/eohs/">Environmental and Occupational Health Sciences (EOHS)</a></li>
+		<li><a href="/all-course-descriptions/epid/">Epidemiology (EPID)</a></li>
+		<li><a href="/all-course-descriptions/epl/">Estate Planning (EPL)</a></li>
+		<li><a href="/all-course-descriptions/fin/">Finance (FIN)</a></li>
+		<li><a href="/all-course-descriptions/fr/">French (FR)</a></li>
+		<li><a href="/all-course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+		<li><a href="/all-course-descriptions/geog/">Geography (GEOG)</a></li>
+		<li><a href="/all-course-descriptions/ger/">Germanic Studies (GER)</a></li>
+		<li><a href="/all-course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+		<li><a href="/all-course-descriptions/gc/">Graduate College (GC)</a></li>
+		<li><a href="/all-course-descriptions/gems/">Graduate Education in Medical Sciences (GEMS)</a></li>
+		<li><a href="/all-course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+		<li><a href="/all-course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+		<li><a href="/all-course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+		<li><a href="/all-course-descriptions/him/">Health Information Management (HIM)</a></li>
+		<li><a href="/all-course-descriptions/hpa/">Health Policy and Administration (HPA)</a></li>
+		<li><a href="/all-course-descriptions/hlp/">Healthy Living Practitioner™ (HLP)</a></li>
+		<li><a href="/all-course-descriptions/heb/">Hebrew (HEB)</a></li>
+		<li><a href="/all-course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+		<li><a href="/all-course-descriptions/hstl/">Histology (HSTL)</a></li>
+		<li><a href="/all-course-descriptions/hist/">History (HIST)</a></li>
+		<li><a href="/all-course-descriptions/hon/">Honors College (HON)</a></li>
+		<li><a href="/all-course-descriptions/hn/">Human Nutrition (HN)</a></li>
+		<li><a href="/all-course-descriptions/hum/">Humanities (HUM)</a></li>
+		<li><a href="/all-course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+		<li><a href="/all-course-descriptions/it/">Information Technology (IT)</a></li>
+		<li><a href="/all-course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+		<li><a href="/all-course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+		<li><a href="/all-course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+		<li><a href="/all-course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+		<li><a href="/all-course-descriptions/ip/">Intellectual Property (IP)</a></li>
+		<li><a href="/all-course-descriptions/ibt/">International Business and Trade (IBT)</a></li>
+		<li><a href="/all-course-descriptions/inst/">International Studies (INST)</a></li>
+		<li><a href="/all-course-descriptions/ital/">Italian (ITAL)</a></li>
+		<li><a href="/all-course-descriptions/jpn/">Japanese (JPN)</a></li>
+		<li><a href="/all-course-descriptions/jst/">Jewish Studies (JST)</a></li>
+		<li><a href="/all-course-descriptions/jd/">Juris Doctor (JD)</a></li>
+		<li><a href="/all-course-descriptions/kn/">Kinesiology (KN)</a></li>
+		<li><a href="/all-course-descriptions/kor/">Korean (KOR)</a></li>
+		<li><a href="/all-course-descriptions/lat/">Latin (LAT)</a></li>
+		<li><a href="/all-course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+		<li><a href="/all-course-descriptions/law/">Law (LAW)</a></li>
+		<li><a href="/all-course-descriptions/lrsc/">Learning Sciences (LRSC)</a></li>
+		<li><a href="/all-course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+		<li><a href="/all-course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+		<li class="active self"><a href="#" onclick="return false;">Linguistics (LING)</a></li>
+		<li><a href="/all-course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+		<li><a href="/all-course-descriptions/lith/">Lithuanian (LITH)</a></li>
+		<li><a href="/all-course-descriptions/mgmt/">Management (MGMT)</a></li>
+		<li><a href="/all-course-descriptions/mktg/">Marketing (MKTG)</a></li>
+		<li><a href="/all-course-descriptions/mba/">Master of Business Administration (MBA)</a></li>
+		<li><a href="/all-course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+		<li><a href="/all-course-descriptions/mj/">Master of Jurisprudence (MJ)</a></li>
+		<li><a href="/all-course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+		<li><a href="/all-course-descriptions/math/">Mathematics (MATH)</a></li>
+		<li><a href="/all-course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+		<li><a href="/all-course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+		<li><a href="/all-course-descriptions/mbt/">Medical Biotechnology (MBT)</a></li>
+		<li><a href="/all-course-descriptions/mhpe/">Medical Education (MHPE)</a></li>
+		<li><a href="/all-course-descriptions/mhum/">Medical Humanities (MHUM)</a></li>
+		<li><a href="/all-course-descriptions/mdch/">Medicinal Chemistry (MDCH)</a></li>
+		<li><a href="/all-course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+		<li><a href="/all-course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+		<li><a href="/all-course-descriptions/mils/">Military Science (MILS)</a></li>
+		<li><a href="/all-course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+		<li><a href="/all-course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+		<li><a href="/all-course-descriptions/mus/">Music (MUS)</a></li>
+		<li><a href="/all-course-descriptions/nast/">Native American Studies (NAST)</a></li>
+		<li><a href="/all-course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+		<li><a href="/all-course-descriptions/ns/">Naval Science (NS)</a></li>
+		<li><a href="/all-course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+		<li><a href="/all-course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+		<li><a href="/all-course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+		<li><a href="/all-course-descriptions/nupr/">Nursing Practicum (NUPR)</a></li>
+		<li><a href="/all-course-descriptions/nusp/">Nursing Specialty (NUSP)</a></li>
+		<li><a href="/all-course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+		<li><a href="/all-course-descriptions/omds/">Oral Medicine and Diagnostic Sciences (OMDS)</a></li>
+		<li><a href="/all-course-descriptions/osci/">Oral Sciences (OSCI)</a></li>
+		<li><a href="/all-course-descriptions/osur/">Oral and Maxillofacial Surgery (OSUR)</a></li>
+		<li><a href="/all-course-descriptions/ortd/">Orthodontics (ORTD)</a></li>
+		<li><a href="/all-course-descriptions/path/">Pathology (PATH)</a></li>
+		<li><a href="/all-course-descriptions/psl/">Patient Safety Leadership (PSL)</a></li>
+		<li><a href="/all-course-descriptions/pedd/">Pediatric Dentistry (PEDD)</a></li>
+		<li><a href="/all-course-descriptions/peri/">Periodontics (PERI)</a></li>
+		<li><a href="/all-course-descriptions/psci/">Pharmaceutical Sciences (PSCI)</a></li>
+		<li><a href="/all-course-descriptions/pmpg/">Pharmacognosy (PMPG)</a></li>
+		<li><a href="/all-course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+		<li><a href="/all-course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+		<li><a href="/all-course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+		<li><a href="/all-course-descriptions/psop/">Pharmacy Systems, Outcomes, and Policy (PSOP)</a></li>
+		<li><a href="/all-course-descriptions/phil/">Philosophy (PHIL)</a></li>
+		<li><a href="/all-course-descriptions/pt/">Physical Therapy (PT)</a></li>
+		<li><a href="/all-course-descriptions/phys/">Physics (PHYS)</a></li>
+		<li><a href="/all-course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+		<li><a href="/all-course-descriptions/pol/">Polish (POL)</a></li>
+		<li><a href="/all-course-descriptions/pols/">Political Science (POLS)</a></li>
+		<li><a href="/all-course-descriptions/port/">Portuguese (PORT)</a></li>
+		<li><a href="/all-course-descriptions/prcl/">Preclinical Medicine (PRCL)</a></li>
+		<li><a href="/all-course-descriptions/ptl/">Privacy and Technology Law (PTL)</a></li>
+		<li><a href="/all-course-descriptions/pros/">Prosthodontics (PROS)</a></li>
+		<li><a href="/all-course-descriptions/psch/">Psychology (PSCH)</a></li>
+		<li><a href="/all-course-descriptions/pa/">Public Administration (PA)</a></li>
+		<li><a href="/all-course-descriptions/pubh/">Public Health (PUBH)</a></li>
+		<li><a href="/all-course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+		<li><a href="/all-course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+		<li><a href="/all-course-descriptions/re/">Real Estate (RE)</a></li>
+		<li><a href="/all-course-descriptions/rels/">Religious Studies (RELS)</a></li>
+		<li><a href="/all-course-descriptions/rest/">Restorative Dentistry (REST)</a></li>
+		<li><a href="/all-course-descriptions/russ/">Russian (RUSS)</a></li>
+		<li><a href="/all-course-descriptions/slav/">Slavic and Baltic Languages and Literatures (SLAV)</a></li>
+		<li><a href="/all-course-descriptions/sj/">Social Justice (SJ)</a></li>
+		<li><a href="/all-course-descriptions/socw/">Social Work (SOCW)</a></li>
+		<li><a href="/all-course-descriptions/soc/">Sociology (SOC)</a></li>
+		<li><a href="/all-course-descriptions/span/">Spanish (SPAN)</a></li>
+		<li><a href="/all-course-descriptions/sped/">Special Education (SPED)</a></li>
+		<li><a href="/all-course-descriptions/spec/">Specialty Medicine (SPEC)</a></li>
+		<li><a href="/all-course-descriptions/stat/">Statistics (STAT)</a></li>
+		<li><a href="/all-course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+		<li><a href="/all-course-descriptions/surg/">Surgery (SURG)</a></li>
+		<li><a href="/all-course-descriptions/tx/">Taxation (TX)</a></li>
+		<li><a href="/all-course-descriptions/thtr/">Theatre (THTR)</a></li>
+		<li><a href="/all-course-descriptions/tadr/">Trial Advocacy and Dispute Resolution (TADR)</a></li>
+		<li><a href="/all-course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+		<li><a href="/all-course-descriptions/us/">Urban Studies (US)</a></li>
+		<li><a href="/all-course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+		<li><a href="/all-course-descriptions/usl/">US Legal Studies (USL)</a></li>
+	</ul>
+	</li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/all-course-descriptions/">All&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Linguistics (LING)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Linguistics (LING)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="lingcourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;150.  Introduction to the Study of Language.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The nature of human language, including analysis of structure and use in social context. Class Schedule Information: This course is offered in both a blended and traditional format. If the section is marked &quot;Blended-Online and Classroom,&quot; use of a computer and internet access is required. Blended sections require students to do some of their coursework online. A high-speed connection, while not required, is strongly suggested.<i>  Individual and Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;160.  Language and Society.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Language and its social context: linguistic variation and diversity in the community involving bilingualism, language contact, dialects, style, class, gender, age, and change. Course Information: Recommended background: <a href="/search/?P=LING%20150" title="LING&#160;150" class="bubblelink code" onclick="return showCourse(this, 'LING 150');">LING&#160;150</a>.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;170.  Languages of the World.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A survey of the world's languages: their cultural origins, relationships, similarities, and differences.<i>  Individual and Society course, and  World Cultures course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;201.  Classical Etymology in the Life Sciences.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The structure and formation of technical terms used in the health sciences, based on roots and elements from Greek and Latin. Course Information: Same as <a href="/search/?P=CL%20201" title="CL&#160;201" class="bubblelink code" onclick="return showCourse(this, 'CL 201');">CL&#160;201</a>. Prerequisite(s): Any 100-level biological sciences sequence.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;210.  Introduction to Natural Language Syntax.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to concepts and methodologies for the syntactic analysis of natural language. Emphasis on recursive phrase structures, feature structures, and feature dependencies. Course Information: Prerequisite(s): <a href="/search/?P=LING%20150" title="LING&#160;150" class="bubblelink code" onclick="return showCourse(this, 'LING 150');">LING&#160;150</a>; or consent of the instructor. Recommended Background: <a href="/search/?P=ENGL%20200" title="ENGL&#160;200" class="bubblelink code" onclick="return showCourse(this, 'ENGL 200');">ENGL&#160;200</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;220.  Introduction to Phonetics and Phonology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+This introduction to concepts and methodologies for the phonetic and phonological analysis of natural language emphasizes the description and analysis of phonological patterns using feature specification and analysis of acoustic properties of speech. Course Information: <a href="/search/?P=LING%20150" title="LING&#160;150" class="bubblelink code" onclick="return showCourse(this, 'LING 150');">LING&#160;150</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;230.  Semantics, Pragmatics, and Discourse.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to the core issues in semantics, pragmatics, and discourse studies. Emphasis is on lexical semantics, meaning as conceptualization, relation between pragmatics and semantics, and relation between pragmatics and discourse structuring. Course Information: Prerequisite(s): <a href="/search/?P=LING%20150" title="LING&#160;150" class="bubblelink code" onclick="return showCourse(this, 'LING 150');">LING&#160;150</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;260.  Language Acquisition, Language Contact and Bilingualism.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The social and psychological aspects of three major areas of language acquisition and use will be addressed: child language acquisition, adult second language acquisition and bilingualism/language contact. Course Information: Prerequisite(s): <a href="/search/?P=ENGL%20160" title="ENGL&#160;160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL&#160;160</a>. Recommended background: <a href="/search/?P=LING%20150" title="LING&#160;150" class="bubblelink code" onclick="return showCourse(this, 'LING 150');">LING&#160;150</a> or <a href="/search/?P=LING%20160" title="LING&#160;160" class="bubblelink code" onclick="return showCourse(this, 'LING 160');">LING&#160;160</a> or a similar course.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;270.  Language in Healthcare.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Review and practice of research on linguistic and cultural factors in (mis)communication in healthcare settings. Course Information: Field work required. Fieldwork will take place during regularly scheduled class time (approximately 6 of 45 contact hours) and outside of class as homework assignments. Recommended background: <a href="/search/?P=LING%20150" title="LING&#160;150" class="bubblelink code" onclick="return showCourse(this, 'LING 150');">LING&#160;150</a> or <a href="/search/?P=LING%20160" title="LING&#160;160" class="bubblelink code" onclick="return showCourse(this, 'LING 160');">LING&#160;160</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;300.  Seminar in Linguistic Analysis.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Special topics course introduces students to the current developments and tools in a specific area of linguistic analysis; provides students with in-depth understanding of the theoretical issues and methodologies in the topic area. Course Information: May be repeated for a maximum of 6 hours. Students may register for more than one section per term. Prerequisite(s): <a href="/search/?P=LING%20150" title="LING&#160;150" class="bubblelink code" onclick="return showCourse(this, 'LING 150');">LING&#160;150</a>; or consent of the instructor. Recommended Background: At least one of <a href="/search/?P=LING%20210" title="LING&#160;210" class="bubblelink code" onclick="return showCourse(this, 'LING 210');">LING&#160;210</a>, <a href="/search/?P=LING%20220" title="LING&#160;220" class="bubblelink code" onclick="return showCourse(this, 'LING 220');">LING&#160;220</a>, or <a href="/search/?P=LING%20230" title="LING&#160;230" class="bubblelink code" onclick="return showCourse(this, 'LING 230');">LING&#160;230</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;402.  Trial Interaction.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Language use, culture, and law in the trial process. Analysis of qualitative methods applied to legal processes and change. Course Information: Same as <a href="/search/?P=CLJ%20402" title="CLJ&#160;402" class="bubblelink code" onclick="return showCourse(this, 'CLJ 402');">CLJ&#160;402</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=CLJ%20261" title="CLJ&#160;261" class="bubblelink code" onclick="return showCourse(this, 'CLJ 261');">CLJ&#160;261</a> and <a href="/search/?P=CLJ%20350" title="CLJ&#160;350" class="bubblelink code" onclick="return showCourse(this, 'CLJ 350');">CLJ&#160;350</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;405.  Introduction to General Linguistics.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Linguistics, the scientific study of language as knowledge, structure, and use, involves Phonetics, Phonology, Morphology, Syntax, Semantics, and Pragmatics. Introduction to Linguistics explores these disciplines. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Junior standing or above; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;406.  History of European Standard Languages.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+The phenomenon of the &quot;standard language&quot; in Western and Eastern Europe. Course Information: Same as <a href="/search/?P=CEES%20406" title="CEES&#160;406" class="bubblelink code" onclick="return showCourse(this, 'CEES 406');">CEES&#160;406</a> and <a href="/search/?P=LCSL%20406" title="LCSL&#160;406" class="bubblelink code" onclick="return showCourse(this, 'LCSL 406');">LCSL&#160;406</a>. 3 undergraduate hours. 4 graduate hours. Taught in English. In cases where students speak languages other than English, they might receive tasks to research literature in that language (and on that language) and to present their research results. Prerequisite(s): Junior standing or above; and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;440.  Language and Gender.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of sociolinguistic research and theories on the interrelationships between language and gender, including gender categories in linguistic systems, gender differences in language use, interaction, and cross-cultural comparisons. Course Information: Same as <a href="/search/?P=GWS%20440" title="GWS&#160;440" class="bubblelink code" onclick="return showCourse(this, 'GWS 440');">GWS&#160;440</a>. 3 undergraduate hours. 4 graduate hours. Previously listed as LING 540. Prerequisite(s): Junior standing or above; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;459.  Topics in Linguistics.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Topics vary. Course Information: Same as <a href="/search/?P=LCSL%20459" title="LCSL&#160;459" class="bubblelink code" onclick="return showCourse(this, 'LCSL 459');">LCSL&#160;459</a>. 3 undergraduate hours. 4 graduate hours. May be repeated up to 2 time(s). Students may register in more than one section per term. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;480.  Sociolinguistics.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+The study of language structure and use involving socially-informed pragmatics, ethnography of communication, sociolinguistic variation and dialectology, and issues of bilingualism. Course Information: Same as <a href="/search/?P=ANTH%20480" title="ANTH&#160;480" class="bubblelink code" onclick="return showCourse(this, 'ANTH 480');">ANTH&#160;480</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=LING%20405" title="LING&#160;405" class="bubblelink code" onclick="return showCourse(this, 'LING 405');">LING&#160;405</a>; and junior standing or above; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;483.  Methodology of Second Language Teaching.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Approaches, methods, and techniques for teaching second languages with a focus on speaking, listening, writing, reading, and on assessment and curriculum/syllabus design. Course Information: Same as <a href="/search/?P=LCSL%20483" title="LCSL&#160;483" class="bubblelink code" onclick="return showCourse(this, 'LCSL 483');">LCSL&#160;483</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Junior standing or above and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;487.  Computer Assisted Language Learning.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to computer assisted language learning (CALL):  the use of computer technology in second language reading and research.  The effectiveness of CALL technology is assessed based on SLA theory and research studies. Course Information: Same as <a href="/search/?P=GER%20487" title="GER&#160;487" class="bubblelink code" onclick="return showCourse(this, 'GER 487');">GER&#160;487</a> and <a href="/search/?P=SPAN%20487" title="SPAN&#160;487" class="bubblelink code" onclick="return showCourse(this, 'SPAN 487');">SPAN&#160;487</a>. 3 undergraduate hours. 4 graduate hours. Taught in English. Extensive computer use required. Prerequisite(s): <a href="/search/?P=LING%20483" title="LING&#160;483" class="bubblelink code" onclick="return showCourse(this, 'LING 483');">LING&#160;483</a> or CIE 483 or <a href="/search/?P=GER%20448" title="GER&#160;448" class="bubblelink code" onclick="return showCourse(this, 'GER 448');">GER&#160;448</a> or <a href="/search/?P=FR%20448" title="FR&#160;448" class="bubblelink code" onclick="return showCourse(this, 'FR 448');">FR&#160;448</a> or <a href="/search/?P=SPAN%20448" title="SPAN&#160;448" class="bubblelink code" onclick="return showCourse(this, 'SPAN 448');">SPAN&#160;448</a> or <a href="/search/?P=GER%20449" title="GER&#160;449" class="bubblelink code" onclick="return showCourse(this, 'GER 449');">GER&#160;449</a> or <a href="/search/?P=FR%20449" title="FR&#160;449" class="bubblelink code" onclick="return showCourse(this, 'FR 449');">FR&#160;449</a> or <a href="/search/?P=SPAN%20449" title="SPAN&#160;449" class="bubblelink code" onclick="return showCourse(this, 'SPAN 449');">SPAN&#160;449</a>; or SPAN 502 or FR 502 or the equivalent; and senior standing or above.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;496.  Independent Study.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Students are assigned to this course at the discretion of the department. Independent study in an area of linguisitics not normally covered by regular course offerings. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Students may register in more than one section per term. A maximum of 6 hours is allowed for undergraduate students, and 8 hours of credit for graduate students. Prerequisite(s): 9 hours of linguistics and approval of the head of the department. Class Schedule Information: This course counts toward the limited number of independent study hours accepted toward the undergraduate degree and the major.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;506.  Cross-Cultural Communication.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of different theoretical approaches to cross-cultural communication (sociolinguistic, attributional); contrastive analysis of Western and non-Western cultural systems (interactional etiquette, discourse rules). Course Information: Same as <a href="/search/?P=COMM%20506" title="COMM&#160;506" class="bubblelink code" onclick="return showCourse(this, 'COMM 506');">COMM&#160;506</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;531.  Grammar for TESOL.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction and study of major grammatical structures and patterns as they relate to instruction in English as a second language, with a focus on both prescriptive standards and how language is used in authentic communication.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;551.  Research Practicum in Sociolinguistics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Strategies and methods for studying language use in communities: participant-observation, interviewing, elicitation, using public-domain data, note-taking vs. tape recording, and issues of transcription and ethics. Course Information: Same as <a href="/search/?P=SPAN%20551" title="SPAN&#160;551" class="bubblelink code" onclick="return showCourse(this, 'SPAN 551');">SPAN&#160;551</a>. May be repeated to a maximum of 12 hours. Prerequisite(s): <a href="/search/?P=LING%20480" title="LING&#160;480" class="bubblelink code" onclick="return showCourse(this, 'LING 480');">LING&#160;480</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;554.  Cogn Psych of Language.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Provides students with a survey of methods, theory and research in language and discourse processing.  Course Information: Same as <a href="/search/?P=COMM%20554" title="COMM&#160;554" class="bubblelink code" onclick="return showCourse(this, 'COMM 554');">COMM&#160;554</a> and <a href="/search/?P=PSCH%20554" title="PSCH&#160;554" class="bubblelink code" onclick="return showCourse(this, 'PSCH 554');">PSCH&#160;554</a>. Prerequisite(s): Graduate standing or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;556.  Second Language Learning.  4 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to research findings and methods in second language learning. Course Information: Same as <a href="/search/?P=SPAN%20556" title="SPAN&#160;556" class="bubblelink code" onclick="return showCourse(this, 'SPAN 556');">SPAN&#160;556</a>. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;558.  Seminar in Applied Linguistics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced study in applied linguistics. Topics vary. Course Information: Same as <a href="/search/?P=LCSL%20558" title="LCSL&#160;558" class="bubblelink code" onclick="return showCourse(this, 'LCSL 558');">LCSL&#160;558</a>. May be repeated to a maximum of 8 hours of credit, if topics vary. Prerequisite(s): <a href="/search/?P=LING%20483" title="LING&#160;483" class="bubblelink code" onclick="return showCourse(this, 'LING 483');">LING&#160;483</a> or CI 483 or <a href="/search/?P=FR%20448" title="FR&#160;448" class="bubblelink code" onclick="return showCourse(this, 'FR 448');">FR&#160;448</a> or <a href="/search/?P=GER%20448" title="GER&#160;448" class="bubblelink code" onclick="return showCourse(this, 'GER 448');">GER&#160;448</a> or <a href="/search/?P=SPAN%20448" title="SPAN&#160;448" class="bubblelink code" onclick="return showCourse(this, 'SPAN 448');">SPAN&#160;448</a>; or <a href="/search/?P=FR%20449" title="FR&#160;449" class="bubblelink code" onclick="return showCourse(this, 'FR 449');">FR&#160;449</a> or <a href="/search/?P=GER%20449" title="GER&#160;449" class="bubblelink code" onclick="return showCourse(this, 'GER 449');">GER&#160;449</a> or <a href="/search/?P=SPAN%20449" title="SPAN&#160;449" class="bubblelink code" onclick="return showCourse(this, 'SPAN 449');">SPAN&#160;449</a>; or consent of the instructor or <a href="/search/?P=LCSL%20502" title="LCSL&#160;502" class="bubblelink code" onclick="return showCourse(this, 'LCSL 502');">LCSL&#160;502</a> (or the equivalent).<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;559.  Seminar in Linguistics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced study in descriptive or theoretical linguistics. Topics vary. Course Information: May be repeated to a maximum of 8 hours. Students may register in more than one section per term. Prerequisite(s): <a href="/search/?P=LING%20405" title="LING&#160;405" class="bubblelink code" onclick="return showCourse(this, 'LING 405');">LING&#160;405</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;582.  Qualitative Methods in Communication.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Qualitative methods course analyzing language and culture patterns. Course Information: Same as <a href="/search/?P=COMM%20580" title="COMM&#160;580" class="bubblelink code" onclick="return showCourse(this, 'COMM 580');">COMM&#160;580</a>. Prerequisite(s):  <a href="/search/?P=COMM%20501" title="COMM&#160;501" class="bubblelink code" onclick="return showCourse(this, 'COMM 501');">COMM&#160;501</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;583.  Materials and Curriculum Development in Second Language Teaching.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on studentsâ€™ development of a systematic understanding and practical knowledge of materials and curriculum development for second language instruction. Course Information: Same as <a href="/search/?P=LCSL%20583" title="LCSL&#160;583" class="bubblelink code" onclick="return showCourse(this, 'LCSL 583');">LCSL&#160;583</a>. Prerequisite(s): <a href="/search/?P=LING%20483" title="LING&#160;483" class="bubblelink code" onclick="return showCourse(this, 'LING 483');">LING&#160;483</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;586.  Second Language Assessment.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Theory and practice in the creation and evaluation of tests in the second language classroom. Course Information: Prerequisite(s): <a href="/search/?P=LING%20483" title="LING&#160;483" class="bubblelink code" onclick="return showCourse(this, 'LING 483');">LING&#160;483</a> or <a href="/search/?P=LCSL%20502" title="LCSL&#160;502" class="bubblelink code" onclick="return showCourse(this, 'LCSL 502');">LCSL&#160;502</a>; and graduate standing; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;593.  Preparation for Practicum in TESOL.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Observation of English as a Second Language (ESL) instruction. Peer teaching and discussion. Individual work with ESL students. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): <a href="/search/?P=LING%20483" title="LING&#160;483" class="bubblelink code" onclick="return showCourse(this, 'LING 483');">LING&#160;483</a> or <a href="/search/?P=LING%20531" title="LING&#160;531" class="bubblelink code" onclick="return showCourse(this, 'LING 531');">LING&#160;531</a>; or consent of the instructor and credit or concurrent registration in <a href="/search/?P=LING%20583" title="LING&#160;583" class="bubblelink code" onclick="return showCourse(this, 'LING 583');">LING&#160;583</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;594.  Practicum in TESOL.  9 hours.</strong></p>
+<p class="courseblockdesc">
+Practical experience in the teaching of English as a second language under the supervision of an experienced teacher in an actual classroom, or another practical experience under the supervision of an experienced professional. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): <a href="/search/?P=LING%20593" title="LING&#160;593" class="bubblelink code" onclick="return showCourse(this, 'LING 593');">LING&#160;593</a> and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;596.  Independent Study in Linguistics.  1-6 hours.</strong></p>
+<p class="courseblockdesc">
+Students are assigned to this course at the discretion of the department. Independent study and research on a topic other than that approved for a graduate thesis. Course Information: May be repeated to a maximum of 6 hours. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor and approval of the head of the department.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;597.  Research in Linguistics.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Independent research in linguistics. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated with approval. Approval to repeat course granted by the department. A maximum of 4 hours of credit may be applied toward the M.A. in Linguistics degree. Prerequisite(s): Consent of the instructor and the director of graduate studies. Open only to degree candidates.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>LING&#160;598.  Master's Thesis Research.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Students engaged in thesis research and writing are assigned to this course at the discretion of the department. Independent research on a topic approved for a graduate thesis. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated to a maximum of 12 hours. Students may register in more than one section per term. Prerequisite(s): Consent of the thesis supervisor and approval of the head of the department. Open only to degree candidates.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="ling.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,629 @@
+https://vese.students.uic.edu/
+
+  
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js ie ie6 lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]><html class="no-js ie ie7 lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]><html class="no-js ie ie8 lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en-US"> <!--<![endif]-->
+    <head>
+
+<!-- OneTrust Cookies Consent Notice start, uic.edu -->
+<script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="c2f2262d-b694-4eba-8f4b-142c102b685a"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end, uic.edu -->
+<!-- Google Analytics script (RED and this site) -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    
+        ga('create', 'UA-20665772-1', 'auto');
+    
+    
+        ga('send', 'pageview');
+    
+      </script>
+<!-- End Google Analytics script (RED and this site) -->
+
+
+
+<!-- Google Tag Manager script for RED multisite -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+              j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})
+              (window,document,'script','dataLayer','GTM-W2Q8D2K');
+  </script>
+<!-- End Google Tag Manager script for RED multisite -->
+
+
+
+
+
+
+        <title>
+                            VESE | University of Illinois at Chicago
+                    </title>
+
+
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="https://vese.students.uic.edu/xmlrpc.php" />
+
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="/favicon-128.png" sizes="128x128" />
+<meta name="application-name" content="&nbsp;"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
+
+    <link rel="stylesheet" href="https://vese.students.uic.edu/wp-content/themes/uic-red/main.css?v=1620138054" type="text/css" media="all" />
+    <link rel="stylesheet" href="https://vese.students.uic.edu/wp-content/themes/uic-red/theinhardt.css?v=1620138054" type="text/css" media="all">
+
+    <link rel='dns-prefetch' href='//www.uic.edu' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/vese.students.uic.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=797ab4b087a327bd009281ec75f90d4f"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='sb_instagram_styles-css'  href='https://vese.students.uic.edu/wp-content/plugins/instagram-feed/css/sb-instagram-2-2.min.css?ver=2.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://vese.students.uic.edu/wp-includes/css/dist/block-library/style.min.css?ver=797ab4b087a327bd009281ec75f90d4f' type='text/css' media='all' />
+<link rel='stylesheet' id='quick-escape-css'  href='https://vese.students.uic.edu/wp-content/plugins/uic-red-quick-escape/css/main.css?ver=797ab4b087a327bd009281ec75f90d4f' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://vese.students.uic.edu/wp-content/plugins/tablepress/css/default.min.css?ver=1.9.2' type='text/css' media='all' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/2.2.3/jquery.min.js?ver=797ab4b087a327bd009281ec75f90d4f' id='jquery-js'></script>
+<script type='text/javascript' src='https://vese.students.uic.edu/wp-content/plugins/uic-red-quick-escape/js/quick-escape.js?ver=797ab4b087a327bd009281ec75f90d4f' id='quick-escape-js'></script>
+<link rel="https://api.w.org/" href="https://vese.students.uic.edu/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://vese.students.uic.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://vese.students.uic.edu/wp-includes/wlwmanifest.xml" /> 
+
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//vese.students.uic.edu/?wordfence_lh=1&hid=8EC9FC89281B80A17842528E120078C7');
+</script>
+</head>
+      
+  <body>
+
+<!-- Google Tag Manager for RED multisite (noscript) -->
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W2Q8D2K" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager for RED multisite (noscript) -->
+
+
+
+
+
+  
+  
+
+  
+  
+
+  
+  
+
+  <div class="l-page home blog post-type-- is-homepage site-type-b theme--student_orgs no-sidebar  ">
+
+
+    <!--[if lte IE 9]>
+<div class="browser-stripe u-dark-region">
+  <div class="l-full">
+      <h2>Your browser is unsupported</h2>
+      <p>We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.</p>
+  </div>
+</div>
+<![endif]-->
+<div class="browser-stripe u-dark-region ie10">
+  <div class="l-full">
+      <h2>Your browser is unsupported</h2>
+      <p>We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.</p>
+  </div>
+</div>
+    
+<header class="l-header" role="banner">
+
+  
+  <div class="header-navigation ">
+
+      <div id="skip" class="skip-menu assistive-text">
+  <p>
+    <span class="_main">
+    <a href="#article">Skip to the content of this page</a>,
+    </span>
+    <a class="_primary-menu" href="#menu-main">the main menu</a>,
+
+    
+    
+    <a class="_search" href="#search">the site search form</a>,
+
+    <a class="_home" href="https://vese.students.uic.edu">the site home page</a>.
+  </p>
+</div>
+
+      <div class="eyebrow-mobile-wrapper js-eyebrow-mobile">
+<div class="eyebrow-mobile">
+    
+        <div class="eyebrow-mobile-logo eyebrow-logo">
+          <a href="http://uic.edu" class="uic-logo-icon eyebrow-mobile-logo__uic-logo">
+ <svg aria-label="UIC.edu home" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ <title>UIC Logo</title>
+ <circle class="_circle" cx="27" cy="27" r="25" fill="none" />
+<path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#FFF " fill-rule="evenodd"/>
+</svg>
+</a>
+        </div>
+        <div class="site-title-eyebrow-mobile student-orgs__mobile-logo-text">
+          <a href="https://vese.students.uic.edu">Student Organizations</a>
+        </div>
+        
+    <button aria-label="Search the site" class="search-toggle-mobile js-search-toggle-mobile">
+  <span class="icon-search  theme-student-orgs ">
+        <span class="assistive-text">Search the site</span>
+      </span>
+    </button>
+    <button class="nav-header-toggle js-nav-header-toggle">
+      <span class="icon-menu">
+      Toggle Menu
+      </span>
+    </button>
+  </div>
+  <div class="search-input-container-mobile">
+    <div class="search-input-container-mobile__content">
+      <div class="search-title">
+        Search
+        <a class="search-close search-toggle-mobile">
+          <svg aria-label="Close search box" width="100%" height="100%" viewBox="0 0 22 22">
+            <use xlink:href="https://vese.students.uic.edu/wp-content/themes/uic-red/images/svgs/svgs.svg#icon-close"></use>
+          </svg>
+        </a>
+      </div>
+      <form method="get" action="/search" role="search" aria-label="Search this site on your mobile device">
+        <input type="text" name="q" class="search-input-mobile" placeholder="Search..." tabindex="-1" aria-label="Search this site on your mobile device" disabled="">
+        <input type="submit" class="submit-button" name="search" value="Submit">
+      </form>
+    </div>
+  </div>
+</div>
+
+    <div class="header-navigation__eyebrow">
+
+        <div class="header-navigation__eyebrow-menus">
+
+            <div class="header-navigation__logo-and-site-title">
+
+                                <div class="header-navigation-logo header-logo">
+                        <a href="http://uic.edu" class="uic-logo-icon header-navigation-logo__uic-logo">
+ <svg aria-label="UIC.edu home" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ <title>UIC Logo</title>
+ <circle class="_circle" cx="27" cy="27" r="25" fill="none" />
+<path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#FFF " fill-rule="evenodd"/>
+</svg>
+</a>
+            </div>
+                  <div class="site-title-main -large student-orgs__logo_text">
+                    <a href="https://involvement.uic.edu/">Student Organizations</a>
+                  </div>
+              
+            </div>
+          <nav class="header-menus js-header-menus " aria-label="Primary" role="navigation">
+
+  <div class="site-title-mobile-menu">
+    <a href="https://vese.students.uic.edu">VESE</a>
+  </div>
+
+  
+  <h2 class="assistive-text">Main Menu</h2>
+  <ul id="menu-main" class="menu menu-main" aria-label="Main Menu">
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-29">
+      <a 
+        class="menu-main__first-link"
+        href="/officers/"
+        target="_self">
+
+        Officers
+      </a>
+
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-41">
+      <a 
+        class="menu-main__first-link"
+        href="/sample-page-2/"
+        target="_self">
+
+        Events
+      </a>
+
+          </li>
+  </ul>
+
+  <div class="l-eyebrow">
+
+    <h2 class="assistive-text">Eyebrow menu</h2>
+    <ul id="menu-eyebrow" class="menu menu-eyebrow" aria-label="Eyebrow menu">
+            <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-3">
+            <a  href="https://engineering.uic.edu" target="_blank">UIC College of Engineering Home</a>
+        </li>
+    </ul>
+
+    <h2 class="assistive-text">UIC menu</h2>
+    <ul class="menu-uic">
+      <li class="_item">
+    <a href="http://uic.edu">UIC.edu</a>
+  </li>
+  <li class="_item">
+    <a href="http://maps.uic.edu/">Campus Map</a>
+  </li>
+</ul>
+
+
+
+    <div aria-label="Primary" role="search" class="search-wrapper">
+
+      <button id="search" class="search-toggle">
+        <span class="icon-search">
+          <span class="assistive-text">Search</span>
+        </span>
+      </button>
+
+      <div class="search-input-container">
+        <div class="search-input-container__form">
+          <form method="get" action="/search" >
+            <input type="text" name="q" class="search-input" placeholder="Search..." tabindex="-1" aria-label="Search" disabled="">
+            <input type="submit" class="submit-button" name="search" value="Submit">
+          </form>
+        </div>
+      </div>
+
+    </div>
+
+
+  </div>
+
+
+</nav>
+        </div>
+    </div>
+
+          <a class="header-navigation__site-title" href="https://vese.students.uic.edu">
+        <div class="title-bar">
+          <div class="l-full">
+            <div>
+              <h1 class="site-name">
+                VESE
+              </h1>
+                              <h2 class="word-mark">College of Engineering </h2>
+                          </div>
+                      </div>
+        </div>
+      </a>
+    
+  </div>
+
+                             <div
+  class="header-title header-title--wordmark header-title--hero header-title--home"
+  style="
+    background-image:url('https://vese.students.uic.edu/wp-content/uploads/sites/604/2019/11/headpic1.jpg');">
+    
+  <div class="l-full">
+    <div class="header-title__content header-title__content--horizontal">
+                    <div class="_text ">
+                      <div
+              class="header-title-title header-title-title--b">Vehicle Electronics and Systems Engineering (VESE)</div>
+                  </div>
+              </div>
+  </div>
+</div>
+                  
+        
+</header>
+
+    <main id="main" class="l-content-wrapper" role="main">
+
+      
+      
+      <div class="">
+
+        <div class="l-content ">
+
+                    
+	          
+          
+          <article class="post-type-" id="article">
+                <div class="l-full">
+                  <div class="intro-text">
+
+                      
+        
+        
+    
+    
+        
+  </div>
+    </div>
+    <div class="components">
+
+  
+    
+      
+
+<section class="component  ">
+
+      <div class="l-full">
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="what-is-vese" class="__title visible">What is VESE?</h2>
+        
+            </div>
+
+
+  
+  <p>Vehicle Electronics and Systems Engineering (VESE) provides UIC students an outlet to explore the various engineering challenges provided in the area of vehicle design. We are a new organization enjoying a successful third year exploring topics such as autonomous vehicles, drone systems,  and electric vehicle design among others. We maintain a relationship with major companies in the field by scheduling tours or speaking events where members are able to network with staff and and get more familiar with what it means to work in the industry.</p>
+<p>&nbsp;</p>
+<p>Currently We have three major projects active, each with their own various subgroups.</p>
+<p><strong>Power Racing Series Electric Go-Cart</strong></p>
+<p>We are designing a go cart for use in the <a href="http://www.powerracingseries.org/">power racing series</a> electric go-kart competition. This competition is held multiple times a year at Maker Fairs across the US and Canada with many near Chicago. The competition involves designing and building an electric go-kart from scratch, all while maintaining a budget of $500 or less.</p>
+<p>&nbsp;</p>
+<p><strong>Drone  Subgroup</strong></p>
+<p>The drone subgroup was founded to give members an outlet to explore drone vehicle systems. Currently they are working on designing a quad-copter drone based off of a current members design. The intention is to gain an understanding in how quad-copters function and how to improve them through code and engineering. The current goal is to design and engineer quad-copters for use in competitions.</p>
+<p>&nbsp;</p>
+<p><strong>Autonomous Vehicles Subgroup</strong></p>
+<p>This subgroup wants to explore the exploding field of self driving vehicles. The goals set by this subgroup are to explore how self driving vehicles  interact with their environment, avoid obstacles, and path find. Current goal is to finish an R/C test vehicle and outfit it with a sensor package.</p>
+
+
+
+  
+</div>
+
+      </div>
+  
+</section>
+
+    
+
+    
+      
+
+<section class="component  ">
+
+      <div class="l-full">
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="when-and-where-do-we-meet" class="__title visible">When and where do we meet?</h2>
+        
+            </div>
+
+
+  <p>Our general body meetings (GBMs) are held every other week, in addition to each subgroup setting meeting times and locations as they see fit. To meet up with one of the subgroups you can come to a GBM, or message the subgroup on Discord and request their meetup information. Please add yourself to VESE&#8217;s Discord server here (https://discord.gg/SsGZTCu)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>If you have any questions regarding meeting times or need help locating us, send a message to the general channel on Discord and we will likely answer immediately. Alternatively, send an E-Mail to our president, Emily Hernandez (eherna78@uic.edu), and she will help you with any questions.</p>
+<p>&nbsp;</p>
+<p>Location of UIC Makerspace:</p>
+
+
+    
+  <a href="https://www.google.com/maps/search/?api=1&query=UIC%20Makerspace+Chicago+,Illinois+60607" alt="Google Map of UIC Makerspace" target="_blank" rel="noopener">
+    <img class="google-map-static" src="//maps.googleapis.com/maps/api/staticmap?center=UIC%20Makerspace+Chicago+,Illinois+60607&zoom=15&size=640x320&scale=2&maptype=roadmap&markers=color:color=0xD50032|UIC%20Makerspace+Chicago+,Illinois+60607&key=AIzaSyBlWGnZ7bceOd9DlQL8ldMMnjoWR7Zs9Ro" alt="Google Map of UIC Makerspace">
+  </a>
+
+</div>
+
+      </div>
+  
+</section>
+
+    
+
+    
+
+</div>
+          </article>
+        </div>
+
+          
+                          </div>
+    </main>
+
+    
+        <footer id="footer" class="footer" role="contentinfo">
+
+  <div class="footer-contact">
+    <div class="l-full">
+
+          <div class="simple-footer-contact">
+  <div class="simple-footer-contact__wordmark">
+    <div class="footer-logo">
+                          <div class="student-orgs">
+            <div class="_mark">
+              <a href="http://uic.edu" class="uic-logo-icon ">
+ <svg aria-label="UIC.edu home" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ <title>UIC Logo</title>
+ <circle class="_circle" cx="27" cy="27" r="25" fill="none" />
+<path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#FFF " fill-rule="evenodd"/>
+</svg>
+</a>
+              <div class="site-title-main -large student-orgs__logo_text">
+                <a href="https://involvement.uic.edu/xzz≈≈xcx">
+                Student Organizations
+                </a>
+              </div>
+            </div>
+            <div class="footer-logo__tagline-org">
+              This website is produced and managed by an official UIC student organization. The content of this site is not produced, edited, or endorsed by the university and it does not reflect the opinions of UIC administration.
+            </div>
+          </div>
+    </div>
+  </div>
+
+
+  <div class="simple-footer-contact__contact">
+          <h2 class="student-orgs-site-title">VESE</h2>
+        <h2 class="simple-footer-contact_f_header  student-orgs-contact-styling ">Contact</h2>
+    <div class="simple-footer-contact__contact-container">  <div class="site-unit-name"><h3>Emily Hernandez, President</h3></div>
+            <div class="site-email"><a  href="mailto:eherna78@uid.edu">eherna78@uid.edu</a></div>
+</div>
+    <div class="simple-footer-contact__contact-container">        </div>
+  </div>
+
+
+  <div class="simple-footer-contact__site-social-links">
+     <div aria-label="Social Media Accounts" class="site-social-links">
+  <h2 class="site-social-links__header assistive-text">Social Media Accounts</h2>
+  <ul class="site-social-links__list">
+                          </ul>
+</div>
+  </div>
+
+</div>
+    
+    </div>
+  </div>
+
+  
+  <div class="footer-uic-menu">
+    <div class="l-full flexer">
+
+      <div aria-label="UIC.edu Links">
+  <h2 class="assistive-text">UIC.edu links</h2>
+  <ul class="uic-footer-menu">
+    <li><strong><a href="https://uic.edu/">UIC.edu</a></strong></li>
+    <li><a href="https://catalog.uic.edu/ucat/academic-calendar/">Academic Calendar</a></li>
+    <li><a href="https://uicflames.com/">Athletics</a></li>
+    <li><a href="https://www.uic.edu/apps/departments-az/search">Campus Directory</a></li>
+    <li><a href="https://disabilityresources.uic.edu/">Disability Resources</a></li>
+    <li><a href="https://emergency.uic.edu/">Emergency Information</a></li>
+    <li><a href="https://today.uic.edu/events">Event Calendar</a></li>
+    <li><a href="https://uic.edu/about/job-opportunities">Job Openings</a></li>
+    <li><a href="https://library.uic.edu/">Library</a></li>
+    <li><a href="https://maps.uic.edu/">Maps</a></li>
+    <li><a href="https://ready.uic.edu/digital-materials/uic-safe-mobile-app/">UIC Safe Mobile App</a></li>
+    <li><a href="https://today.uic.edu/">UIC Today</a></li>
+    <li><a href="https://uihealth.uic.edu/">UI Health</a></li>
+    <li><a href="https://dos.uic.edu/student-veterans-affairs/">Veterans Affairs</a></li>
+  </ul>
+</div>
+
+      <div class="cookie-banner">
+        <div id="footer-bottom">
+              <!-- OneTrust Cookies Settings button start -->
+    <button id="ot-sdk-btn" class="ot-sdk-show-settings" type="button">Cookie Settings</button>
+    <!-- OneTrust Cookies Settings button end -->
+        </div>
+      </div>
+
+
+    </div>
+  </div>
+
+  <div class="footer-legal">
+    <div class="l-full">
+
+      <div class="red-version">Powered by Red 3.0.11</div>
+
+<div class="site-copyright">
+  &copy; 2021 The Board of Trustees of the University of Illinois <span class="pipe-separator">|</span>
+  <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a>
+</div>
+
+<div class="campuses" aria-label="Campuses">
+  <h2 class="assistive-text">Campuses</h2>
+  <ul class="campuses-list">
+    <li><a href="https://www.uillinois.edu/">University of Illinois System</a></li>
+    <li><a href="https://illinois.edu/">Urbana-Champaign</a></li>
+    <li><a href="https://www.uis.edu/">Springfield</a></li>
+  </ul>
+</div>
+    </div>
+  </div>
+
+  
+</footer>
+
+	    </div>
+
+
+  <!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://vese.students.uic.edu/wp-admin/admin-ajax.php";
+</script>
+<script type='text/javascript' src='https://vese.students.uic.edu/wp-content/plugins/uic-red/js-admin/uic-publish-post-settings.js?ver=1.0.0' id='uic-publish-settings-js'></script>
+<script type='text/javascript' src='https://vese.students.uic.edu/wp-content/plugins/uic-red/js-admin/acf-field-group-toggle.js?ver=1.0.0' id='acf-field-group-toggle-js'></script>
+<script type='text/javascript' src='//www.uic.edu/apps/web-alert/alert.js?ver=3' id='web-alert-js-js'></script>
+<script type='text/javascript' src='https://vese.students.uic.edu/wp-content/themes/uic-red/js/main.js?ver=1' id='main-js'></script>
+<script type='text/javascript' src='https://vese.students.uic.edu/wp-includes/js/wp-embed.min.js?ver=797ab4b087a327bd009281ec75f90d4f' id='wp-embed-js'></script>
+
+
+
+  
+  
+  </body>
+</html>

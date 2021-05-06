@@ -1,0 +1,512 @@
+https://catalog.uic.edu/ucat/colleges-depts/liberal-arts-sciences/gws/ba/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>BA with a Major in Gender and Women’s Studies &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/liberal-arts-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/">Anthropology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/">Biochemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/">Biological Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/">Black Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/">Chemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/">Classics and Mediterranean Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/">Communication</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/">Criminology, Law, and Justice</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/">Earth and Environmental Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/">Economics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/">English</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French and Francophone Studies</a></li>
+				<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/">Gender and Women's Studies</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/liberal-arts-sciences/gws/">
+					<li class="active self"><a href="#" onclick="return false;">BA with a Major in Gender and Women’s Studies</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/minor/">Minor in Gender and Women's Studies</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/minor-sj/">Minor in Social Justice</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/">Germanic Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/">Global Asian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/">Hispanic and Italian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/">History</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/">Integrated Health Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/">International Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/">Liberal Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/">Linguistics</a></li>
+				<li><a href="/ucat/colleges-depts/liberal-arts-sciences/lcsl/">Literatures, Cultural Studies, and Linguistics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/">Mathematics, Statistics, and Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/">Moving Image Arts</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/">Neuroscience</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/">Philosophy</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/">Physics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/">Polish, Russian, and Lithuanian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/">Political Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/">Psychology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/">Religious Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/">Sociology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional Studies</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/">College&nbsp;of&nbsp;Liberal&nbsp;Arts&nbsp;and&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/">Gender&nbsp;and&nbsp;Women's&nbsp;Studies</a><span class="crumbsep">/</span></li><li><span class="active">BA with a Major in Gender and Women’s Studies</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">BA with a Major in Gender and Women’s Studies</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+<p class="program_codes"><span class="label"><strong>Program Codes:</strong> </span><br />20FT1279BA<br /></p>	</div>
+</div>
+
+<h2>Degree Requirements</h2>
+<p>To earn a Bachelor of Arts in Liberal Arts and Sciences degree from UIC, students must complete university, college, and program degree requirements. The Gender and Women’s Studies Program degree requirements are outlined below. Students should consult the <a href="/ucat/colleges-depts/liberal-arts-sciences/"><em>College of Liberal Arts and Sciences</em></a> section for additional degree requirements and college academic policies.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Summary of Requirements</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Major Requirements</span></td><td class="hourscol">33</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">General Education and Electives to reach minimum Total Hours</span></td><td class="hourscol">87</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">120</td></tr></tbody>
+</table>
+
+<h3>General Education</h3>
+<p>See <em>General Education and Writing-in-the-Discipline</em> in the <a href="/ucat/colleges-depts/liberal-arts-sciences/"><em>College of Liberal Arts and Sciences</em></a> section for information on meeting these requirements.</p>
+<h3>Major Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=GWS%20101" title="GWS 101" class="bubblelink code" onclick="return showCourse(this, 'GWS 101');">GWS 101</a></td><td>Gender in Everyday Life <sup>a,b</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=GWS%20102" title="GWS 102" class="bubblelink code" onclick="return showCourse(this, 'GWS 102');">GWS 102</a></td><td>Global Perspectives on Women and Gender <sup>a,c</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=GWS%20292" title="GWS 292" class="bubblelink code" onclick="return showCourse(this, 'GWS 292');">GWS 292</a></td><td>History and Theories of Feminism <sup>d</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=GWS%20390" title="GWS 390" class="bubblelink code" onclick="return showCourse(this, 'GWS 390');">GWS 390</a></td><td>Feminism and Social Change</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select one course from three of the following four categories:</span> <sup>e</sup></td><td class="hourscol">9</td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Culture and Representation</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20111" title="GWS 111" class="bubblelink code" onclick="return showCourse(this, 'GWS 111');">GWS 111</a></div></td><td>Women and Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20117" title="GWS 117" class="bubblelink code" onclick="return showCourse(this, 'GWS 117');">GWS 117</a></div></td><td>Introduction to Gender, Sexuality and Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20120" title="GWS 120" class="bubblelink code" onclick="return showCourse(this, 'GWS 120');">GWS 120</a></div></td><td>Study of Gender, Class, and Political Issues in German Texts</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20192" title="GWS 192" class="bubblelink code" onclick="return showCourse(this, 'GWS 192');">GWS 192</a></div></td><td>Latin American Women Writers in Translation</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20204" title="GWS 204" class="bubblelink code" onclick="return showCourse(this, 'GWS 204');">GWS 204</a></div></td><td>Gender and Popular Culture</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20211" title="GWS 211" class="bubblelink code" onclick="return showCourse(this, 'GWS 211');">GWS 211</a></div></td><td>Gender and Sexual Orientation in Greek and Roman Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20244" title="GWS 244" class="bubblelink code" onclick="return showCourse(this, 'GWS 244');">GWS 244</a></div></td><td>Women in Russian Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20255" title="GWS 255" class="bubblelink code" onclick="return showCourse(this, 'GWS 255');">GWS 255</a></div></td><td>Introduction to Middle East and Muslim Feminisms <sup>c</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20261" title="GWS 261" class="bubblelink code" onclick="return showCourse(this, 'GWS 261');">GWS 261</a></div></td><td>Reading Black Women Writing</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20272" title="GWS 272" class="bubblelink code" onclick="return showCourse(this, 'GWS 272');">GWS 272</a></div></td><td>Race, Gender, and Sexuality</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20275" title="GWS 275" class="bubblelink code" onclick="return showCourse(this, 'GWS 275');">GWS 275</a></div></td><td>Gender in Latin America</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20276" title="GWS 276" class="bubblelink code" onclick="return showCourse(this, 'GWS 276');">GWS 276</a></div></td><td>Latinas in the United States</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20304" title="GWS 304" class="bubblelink code" onclick="return showCourse(this, 'GWS 304');">GWS 304</a></div></td><td>Gender and Communcation</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20311" title="GWS 311" class="bubblelink code" onclick="return showCourse(this, 'GWS 311');">GWS 311</a></div></td><td>Gender and Sexuality in Early Christianity and Judaism</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20361" title="GWS 361" class="bubblelink code" onclick="return showCourse(this, 'GWS 361');">GWS 361</a></div></td><td>Gender Theory</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20363" title="GWS 363" class="bubblelink code" onclick="return showCourse(this, 'GWS 363');">GWS 363</a></div></td><td>Gender and Sexuality in Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20406" title="GWS 406" class="bubblelink code" onclick="return showCourse(this, 'GWS 406');">GWS 406</a></div></td><td>Topics in Black Feminist &amp; Queer Theory</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20439" title="GWS 439" class="bubblelink code" onclick="return showCourse(this, 'GWS 439');">GWS 439</a></div></td><td>Gender and Cultural Production</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20458" title="GWS 458" class="bubblelink code" onclick="return showCourse(this, 'GWS 458');">GWS 458</a></div></td><td>Asian America and Transnational Feminism</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20462" title="GWS 462" class="bubblelink code" onclick="return showCourse(this, 'GWS 462');">GWS 462</a></div></td><td>AIDS, Politics and Culture</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20469" title="GWS 469" class="bubblelink code" onclick="return showCourse(this, 'GWS 469');">GWS 469</a></div></td><td>Women's Literary Traditions</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20472" title="GWS 472" class="bubblelink code" onclick="return showCourse(this, 'GWS 472');">GWS 472</a></div></td><td>Women and Film</td><td class="hourscol"></td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Science, Health, and the Body</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20238" title="GWS 238" class="bubblelink code" onclick="return showCourse(this, 'GWS 238');">GWS 238</a></div></td><td>Biology of Women</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20262" title="GWS 262" class="bubblelink code" onclick="return showCourse(this, 'GWS 262');">GWS 262</a></div></td><td>Constructions of Gender, Race, Health, and Human Rights</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20315" title="GWS 315" class="bubblelink code" onclick="return showCourse(this, 'GWS 315');">GWS 315</a></div></td><td>Psychology of Women and Gender</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20419" title="GWS 419" class="bubblelink code" onclick="return showCourse(this, 'GWS 419');">GWS 419</a></div></td><td>Public Health Aspects of Sexuality and Women's Health</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20450" title="GWS 450" class="bubblelink code" onclick="return showCourse(this, 'GWS 450');">GWS 450</a></div></td><td>Women and Mental Health Nursing</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20462" title="GWS 462" class="bubblelink code" onclick="return showCourse(this, 'GWS 462');">GWS 462</a></div></td><td>AIDS, Politics and Culture</td><td class="hourscol"></td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Feminism, Social Policy, and the State</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20202" title="GWS 202" class="bubblelink code" onclick="return showCourse(this, 'GWS 202');">GWS 202</a></div></td><td>Comparative Social Movements</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20224" title="GWS 224" class="bubblelink code" onclick="return showCourse(this, 'GWS 224');">GWS 224</a></div></td><td>Gender and Society</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20232" title="GWS 232" class="bubblelink code" onclick="return showCourse(this, 'GWS 232');">GWS 232</a></div></td><td>Sex Roles: Moral and Political Issues</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20259" title="GWS 259" class="bubblelink code" onclick="return showCourse(this, 'GWS 259');">GWS 259</a></div></td><td>Women and Gender in American History</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20262" title="GWS 262" class="bubblelink code" onclick="return showCourse(this, 'GWS 262');">GWS 262</a></div></td><td>Constructions of Gender, Race, Health, and Human Rights</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20275" title="GWS 275" class="bubblelink code" onclick="return showCourse(this, 'GWS 275');">GWS 275</a></div></td><td>Gender in Latin America</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20276" title="GWS 276" class="bubblelink code" onclick="return showCourse(this, 'GWS 276');">GWS 276</a></div></td><td>Latinas in the United States</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20356" title="GWS 356" class="bubblelink code" onclick="return showCourse(this, 'GWS 356');">GWS 356</a></div></td><td>Constitutional Law:  Women, Gender and Privacy</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20406" title="GWS 406" class="bubblelink code" onclick="return showCourse(this, 'GWS 406');">GWS 406</a></div></td><td>Topics in Black Feminist &amp; Queer Theory</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20409" title="GWS 409" class="bubblelink code" onclick="return showCourse(this, 'GWS 409');">GWS 409</a></div></td><td>Women and Gender in the Middles East</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20424" title="GWS 424" class="bubblelink code" onclick="return showCourse(this, 'GWS 424');">GWS 424</a></div></td><td>Gender, Crime, and Justice</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20425" title="GWS 425" class="bubblelink code" onclick="return showCourse(this, 'GWS 425');">GWS 425</a></div></td><td>Sociology of Gender</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20428" title="GWS 428" class="bubblelink code" onclick="return showCourse(this, 'GWS 428');">GWS 428</a></div></td><td>Asian/Asian American Women in the Global Economy</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20455" title="GWS 455" class="bubblelink code" onclick="return showCourse(this, 'GWS 455');">GWS 455</a></div></td><td>Advanced Seminar in Feminism and Justice</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20462" title="GWS 462" class="bubblelink code" onclick="return showCourse(this, 'GWS 462');">GWS 462</a></div></td><td>AIDS, Politics and Culture</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20478" title="GWS 478" class="bubblelink code" onclick="return showCourse(this, 'GWS 478');">GWS 478</a></div></td><td>Women in Chinese History</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20484" title="GWS 484" class="bubblelink code" onclick="return showCourse(this, 'GWS 484');">GWS 484</a></div></td><td>Topics in the History of Women</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20485" title="GWS 485" class="bubblelink code" onclick="return showCourse(this, 'GWS 485');">GWS 485</a></div></td><td>Gender and Politics</td><td class="hourscol"></td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Sexuality and Society</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20117" title="GWS 117" class="bubblelink code" onclick="return showCourse(this, 'GWS 117');">GWS 117</a></div></td><td>Introduction to Gender, Sexuality and Literature</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20203" title="GWS 203" class="bubblelink code" onclick="return showCourse(this, 'GWS 203');">GWS 203</a></div></td><td>Sexuality and Community: Lesbians, Gay Men and Contemporary Society</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20204" title="GWS 204" class="bubblelink code" onclick="return showCourse(this, 'GWS 204');">GWS 204</a></div></td><td>Gender and Popular Culture</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20211" title="GWS 211" class="bubblelink code" onclick="return showCourse(this, 'GWS 211');">GWS 211</a></div></td><td>Gender and Sexual Orientation in Greek and Roman Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20224" title="GWS 224" class="bubblelink code" onclick="return showCourse(this, 'GWS 224');">GWS 224</a></div></td><td>Gender and Society</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20232" title="GWS 232" class="bubblelink code" onclick="return showCourse(this, 'GWS 232');">GWS 232</a></div></td><td>Sex Roles: Moral and Political Issues</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20252" title="GWS 252" class="bubblelink code" onclick="return showCourse(this, 'GWS 252');">GWS 252</a></div></td><td>Sexuality in America: Historical Perspectives</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20263" title="GWS 263" class="bubblelink code" onclick="return showCourse(this, 'GWS 263');">GWS 263</a></div></td><td>Asian American Gender and Sexual Diversity</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20272" title="GWS 272" class="bubblelink code" onclick="return showCourse(this, 'GWS 272');">GWS 272</a></div></td><td>Race, Gender, and Sexuality</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20290" title="GWS 290" class="bubblelink code" onclick="return showCourse(this, 'GWS 290');">GWS 290</a></div></td><td>Topics in the Study of Sexuality</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20304" title="GWS 304" class="bubblelink code" onclick="return showCourse(this, 'GWS 304');">GWS 304</a></div></td><td>Gender and Communcation</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20311" title="GWS 311" class="bubblelink code" onclick="return showCourse(this, 'GWS 311');">GWS 311</a></div></td><td>Gender and Sexuality in Early Christianity and Judaism</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20362" title="GWS 362" class="bubblelink code" onclick="return showCourse(this, 'GWS 362');">GWS 362</a></div></td><td>Queer Theory</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20363" title="GWS 363" class="bubblelink code" onclick="return showCourse(this, 'GWS 363');">GWS 363</a></div></td><td>Gender and Sexuality in Literature</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20403" title="GWS 403" class="bubblelink code" onclick="return showCourse(this, 'GWS 403');">GWS 403</a></div></td><td>Culture and Sexuality: Cultural History of Same-Sex Relations</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20462" title="GWS 462" class="bubblelink code" onclick="return showCourse(this, 'GWS 462');">GWS 462</a></div></td><td>AIDS, Politics and Culture</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20484" title="GWS 484" class="bubblelink code" onclick="return showCourse(this, 'GWS 484');">GWS 484</a></div></td><td>Topics in the History of Women</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=GWS%20490" title="GWS 490" class="bubblelink code" onclick="return showCourse(this, 'GWS 490');">GWS 490</a></div></td><td>Advanced Topics in the Study of Sexuality</td><td class="hourscol"></td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">Four additional GWS courses</span></td><td class="hourscol">12</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">33</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>This course is approved for the Understanding the Individual and Society General Education category. </em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>This course is approved for the Understanding U.S. Society General Education category. </em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>This course is approved for the Exploring World Cultures General Education category. </em></p></td></tr><tr><td valign="top" class="symcol">d</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=GWS%20292" title="GWS 292" class="bubblelink code" onclick="return showCourse(this, 'GWS 292');">GWS 292</a></span> fulfills the Writing-in-the-Discipline requirement. </em></p></td></tr><tr><td valign="top" class="symcol">e</td><td class="notecol"><p><em>Students should consult the <a href="/ucat/degree-programs/general-education/">General Education</a> section of the catalog to determine if any of the courses on these lists are approved General Education courses. </em></p></td></tr></table>
+<p>Of the 33 hours required for the major, no more than 9 hours can be at the 100-level and at least 6 hours must be at the 400-level. The same course cannot count toward more than one category requirement for the major. No more than 3 hours of <span class="sc_courseinline"><a href="/search/?P=GWS%20396" title="GWS 396" class="bubblelink code" onclick="return showCourse(this, 'GWS 396');">GWS 396</a></span> may be applied to the major.</p>
+
+<h2>Recommended Plan of Study</h2>
+<table pdfnorepeatheader="true" class="sc_plangrid">
+<caption>Plan of Study Grid</caption><colgroup>
+	<col class="codecol"/>
+	<col class="titlecol"/>
+	<col class="hourscol"/>
+</colgroup>
+<tr class="plangridyear"><th id="plangrid1_0" class="year" colspan="3">First Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_0_0" colspan="2">Fall Semester</th><th id="hoursheader" scope="col" class="hourscol">Hours</th></tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Academic Writing I: Writing in Academic and Public Contexts</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">Quantitative Reasoning </span> <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol">3-5</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3-5</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_0_0" class="titlecol">Hours</td><td headers=" plangrid1_0_0 hoursheader" class="hourscol">13-17</td></tr>
+<tr class="plangridterm"><th id="plangrid1_0_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Academic Writing II: Writing for Inquiry and Research</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=GWS%20101" title="GWS 101" class="bubblelink code" onclick="return showCourse(this, 'GWS 101');">GWS 101</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=GWS%20102" title="GWS 102" class="bubblelink code" onclick="return showCourse(this, 'GWS 102');">GWS 102</a></div></td>
+<td headers=" plangrid1_0_1" class="titlecol">Gender in Everyday Life <sup>b</sup><br/><div style="margin-left:20px;" class="blockindent">or Global Perspectives on Women and Gender</div></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3-5</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_0_1" class="titlecol">Hours</td><td headers=" plangrid1_0_1 hoursheader" class="hourscol">16-18</td></tr>
+<tr class="plangridyear"><th id="plangrid1_1" class="year" colspan="3">Second Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_1_0" colspan="3">Fall Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_1_0" class="codecol"><a href="/search/?P=GWS%20101" title="GWS 101" class="bubblelink code" onclick="return showCourse(this, 'GWS 101');">GWS 101</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=GWS%20102" title="GWS 102" class="bubblelink code" onclick="return showCourse(this, 'GWS 102');">GWS 102</a></div></td>
+<td headers=" plangrid1_1_0" class="titlecol">Gender in Everyday Life <sup>b</sup><br/><div style="margin-left:20px;" class="blockindent">or Global Perspectives on Women and Gender</div></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3-5</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_1_0" class="titlecol">Hours</td><td headers=" plangrid1_1_0 hoursheader" class="hourscol">16-18</td></tr>
+<tr class="plangridterm"><th id="plangrid1_1_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_1_1" class="codecol"><a href="/search/?P=GWS%20292" title="GWS 292" class="bubblelink code" onclick="return showCourse(this, 'GWS 292');">GWS 292</a></td>
+<td headers=" plangrid1_1_1" class="titlecol">History and Theories of Feminism</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">General Education Requirement course/Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">3-5</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_1_1" class="titlecol">Hours</td><td headers=" plangrid1_1_1 hoursheader" class="hourscol">16-18</td></tr>
+<tr class="plangridyear"><th id="plangrid1_2" class="year" colspan="3">Third Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_2_0" colspan="3">Fall Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">GWS Distribution course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">GWS Elective</span></td>
+<td headers="hoursheader" class="hourscol">2-3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course/Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">6-9</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_2_0" class="titlecol">Hours</td><td headers=" plangrid1_2_0 hoursheader" class="hourscol">14-18</td></tr>
+<tr class="plangridterm"><th id="plangrid1_2_1" colspan="3">Spring Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">GWS Distribution course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">GWS Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">9</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_2_1" class="titlecol">Hours</td><td headers=" plangrid1_2_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridyear"><th id="plangrid1_3" class="year" colspan="3">Fourth Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_3_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">GWS Distribution course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">GWS Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">9</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_3_0" class="titlecol">Hours</td><td headers=" plangrid1_3_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid1_3_1" colspan="3">Spring Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_3_1" class="codecol"><a href="/search/?P=GWS%20390" title="GWS 390" class="bubblelink code" onclick="return showCourse(this, 'GWS 390');">GWS 390</a></td>
+<td headers=" plangrid1_3_1" class="titlecol">Feminism and Social Change</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">GWS Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">9</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_3_1" class="titlecol">Hours</td><td headers=" plangrid1_3_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridtotal lastrow even"><td> </td><td>Total Hours</td><td headers="hoursheader" class="hourscol">120</td></tr>
+</table>
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Students may need to complete prerequisite courses before fulfilling the Quantitative Reasoning Requirement. </em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>Two of these courses may be used to satisfy two of the nine courses in the General Education requirement.</em></p></td></tr></table></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="ba.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

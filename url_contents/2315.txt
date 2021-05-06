@@ -1,0 +1,581 @@
+https://catalog.uic.edu/ucat/colleges-depts/education/ci/ba-urban-edu/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>BA in Urban Education &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/education/">College of Education</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/education/">
+				<li class="active isparent"><a href="/ucat/colleges-depts/education/ci/">Curriculum and Instruction</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/education/ci/">
+					<li class="active self"><a href="#" onclick="return false;">BA in Urban Education</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/education/epsy/">Educational Psychology</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/education/">College&nbsp;of&nbsp;Education</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/education/ci/">Curriculum&nbsp;and&nbsp;Instruction</a><span class="crumbsep">/</span></li><li><span class="active">BA in Urban Education</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">BA in Urban Education</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+<p class="program_codes"><span class="label"><strong>Program Codes:</strong> </span><br />20FP5252BA<br /></p>	</div>
+</div>
+
+<h2>Degree Requirements</h2>
+<p>In the first two years of study, students in the BA in Urban Education program will take the Urban Education Core Curriculum. This curriculum is characterized by the following:</p>
+<ul>
+	<li>completion of the campus General Education course requirements which focus on a broad liberal arts education;</li>
+	<li>development of an individualized, advisor-approved specialization for students only interested in a 1–6 endorsement; or development of a licensure-approved specialization for students interested in an additional endorsement;</li>
+	<li>completion of a set of foundational courses in professional education.</li>
+</ul>
+<h3>Semester Hour Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Summary of Requirements</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Core Curriculum Requirements (including Area of Specialization)</span></td><td class="hourscol">58-61</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">Elementary Education Course Requirements</span></td><td class="hourscol">63</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">121-124</td></tr></tbody>
+</table>
+
+<h3>Core Curriculum Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td><td>Academic Writing I: Writing in Academic and Public Contexts</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td><td>Academic Writing II: Writing for Inquiry and Research</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Understanding the Creative Arts course: English (ENGL) Literature course approved for this category and by the advisor</span> <sup>a</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=GEOG%20161" title="GEOG 161" class="bubblelink code" onclick="return showCourse(this, 'GEOG 161');">GEOG 161</a></td><td>Introduction to Economic Geography <sup>e,g</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=POLS%20101" title="POLS 101" class="bubblelink code" onclick="return showCourse(this, 'POLS 101');">POLS 101</a></td><td>Introduction to American Government and Politics <sup>b,e</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Select one of the following:</span></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=HIST%20103" title="HIST 103" class="bubblelink code" onclick="return showCourse(this, 'HIST 103');">HIST 103</a></div></td><td>Early America: From Colonization to Civil War and Reconstruction <sup>b,c</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=HIST%20104" title="HIST 104" class="bubblelink code" onclick="return showCourse(this, 'HIST 104');">HIST 104</a></div></td><td>Modern America: From Industrialization to Globalization <sup>b,c</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Two Analyzing the Natural World courses:</span></td><td class="hourscol">8</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=NATS%20105" title="NATS 105" class="bubblelink code" onclick="return showCourse(this, 'NATS 105');">NATS 105</a></div></td><td>Physical Systems in Earth and Space Science (required) <sup>d</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=NATS%20106" title="NATS 106" class="bubblelink code" onclick="return showCourse(this, 'NATS 106');">NATS 106</a></div></td><td>Chemical and Biological Systems (required) <sup>d</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=MATH%20140" title="MATH 140" class="bubblelink code" onclick="return showCourse(this, 'MATH 140');">MATH 140</a></td><td>Arithmetic and Algebraic Structures</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=MATH%20141" title="MATH 141" class="bubblelink code" onclick="return showCourse(this, 'MATH 141');">MATH 141</a></td><td>Algebraic and Geometric Structures</td><td class="hourscol">4</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Area of Specialization (See note below)</span></td><td class="hourscol">12-15</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ED%20100" title="ED 100" class="bubblelink code" onclick="return showCourse(this, 'ED 100');">ED 100</a></td><td>Introduction to Urban Education <sup>b,e</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ED%20151" title="ED 151" class="bubblelink code" onclick="return showCourse(this, 'ED 151');">ED 151</a></td><td>College Connection I <sup>f</sup></td><td class="hourscol">2</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ED%20152" title="ED 152" class="bubblelink code" onclick="return showCourse(this, 'ED 152');">ED 152</a></td><td>College Connection II <sup>f</sup></td><td class="hourscol">1</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ED%20307" title="ED 307" class="bubblelink code" onclick="return showCourse(this, 'ED 307');">ED 307</a></td><td>Nature and Practices of Natural Sciences</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ED%20205" title="ED 205" class="bubblelink code" onclick="return showCourse(this, 'ED 205');">ED 205</a></td><td>Introduction to Race, Ethnicity, and Education <sup>b,e</sup></td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td class="codecol"><a href="/search/?P=EPSY%20255" title="EPSY 255" class="bubblelink code" onclick="return showCourse(this, 'EPSY 255');">EPSY 255</a></td><td>Child Development in Contemporary Society</td><td class="hourscol">3</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">58-61</td></tr></tbody>
+</table>
+
+<p><strong>Note:</strong> The number of semester hours required depends on the area of specialization and the grade band(s). ISBE requires students interested in obtaining an advanced grades 5–8 endorsement take 21 semester hours in their area of specialization and a 3-semester-hour content methods course. Students must meet with academic advisor for a list of required courses for the area of specialization.</p>
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Students should consult the <a href="/ucat/degree-programs/general-education/">General Education</a> section of the catalog for a list of courses in this category</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>This course is approved for the Understanding U.S. Society General Education category.</em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>This course is approved for the Understanding the Past General Education category.</em></p></td></tr><tr><td valign="top" class="symcol">d</td><td class="notecol"><p><em>This course is approved for the Analyzing the Natural World General Education category.</em></p></td></tr><tr><td valign="top" class="symcol">e</td><td class="notecol"><p><em>This course is approved for the Understanding the Individual and Society General Education category.</em></p></td></tr><tr><td valign="top" class="symcol">f</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=ED%20151" title="ED 151" class="bubblelink code" onclick="return showCourse(this, 'ED 151');">ED 151</a></span> and <span class="sc_courseinline"><a href="/search/?P=ED%20152" title="ED 152" class="bubblelink code" onclick="return showCourse(this, 'ED 152');">ED 152</a></span> are required courses, but the hours do not count toward the total hours required for graduation.</em></p></td></tr><tr><td valign="top" class="symcol">g</td><td class="notecol"><p> <em>This course is approved for the Exploring World Cultures General Education category.</em></p></td></tr></table>
+<h3>Areas of Specialization</h3>
+<p>Students should consult the Office of Student Services for a list of courses in their area of specializations.</p>
+<h3>Elementary Education Concentration Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=EPSY%20405" title="EPSY 405" class="bubblelink code" onclick="return showCourse(this, 'EPSY 405');">EPSY 405</a></td><td>Educational Assessment and Evaluation</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=CI%20401" title="CI 401" class="bubblelink code" onclick="return showCourse(this, 'CI 401');">CI 401</a></td><td>Methods of Reading: Early Literacy in Urban Classrooms (an Classrooms)</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=CI%20402" title="CI 402" class="bubblelink code" onclick="return showCourse(this, 'CI 402');">CI 402</a></td><td>Reading and Writing in the Content Areas: Intermediate Literacy in Urban Classrooms</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=CI%20403" title="CI 403" class="bubblelink code" onclick="return showCourse(this, 'CI 403');">CI 403</a></td><td>Literacy in the Disciplines: Adolescent Literacy in Urban Classrooms</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=CI%20404" title="CI 404" class="bubblelink code" onclick="return showCourse(this, 'CI 404');">CI 404</a></td><td>Teaching and Learning Mathematics in the Urban Classroom</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=CI%20405" title="CI 405" class="bubblelink code" onclick="return showCourse(this, 'CI 405');">CI 405</a></td><td>Teaching and Learning Science in the Urban Classroom</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=CI%20406" title="CI 406" class="bubblelink code" onclick="return showCourse(this, 'CI 406');">CI 406</a></td><td>Teaching and Learning Social Sciences in the Urban Classroom</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ED%20350" title="ED 350" class="bubblelink code" onclick="return showCourse(this, 'ED 350');">ED 350</a></td><td>Introduction to Urban Communities and Schools: Fieldwork I</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ED%20351" title="ED 351" class="bubblelink code" onclick="return showCourse(this, 'ED 351');">ED 351</a></td><td>Becoming a Culturally Responsive Educator in the Urban Classroom: Fieldwork II</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ED%20416" title="ED 416" class="bubblelink code" onclick="return showCourse(this, 'ED 416');">ED 416</a></td><td>Practical Inquiry I: Teacher Competencies and Performance-Based Assessment</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ED%20417" title="ED 417" class="bubblelink code" onclick="return showCourse(this, 'ED 417');">ED 417</a></td><td>Practical Inquiry II: Teacher Competencies and Performance-Based Assessment</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ED%20450" title="ED 450" class="bubblelink code" onclick="return showCourse(this, 'ED 450');">ED 450</a></td><td>Pre-Student Teaching in the Urban Elementary Classroom, Fieldwork III: Arts, Health, and Physical Ed</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ED%20451" title="ED 451" class="bubblelink code" onclick="return showCourse(this, 'ED 451');">ED 451</a></td><td>Student Teaching in the Urban Elementary Classroom: Fieldwork IV</td><td class="hourscol">12</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=SPED%20416" title="SPED 416" class="bubblelink code" onclick="return showCourse(this, 'SPED 416');">SPED 416</a></td><td>Methods of Instruction for Exceptional Learners</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=CI%20470" title="CI 470" class="bubblelink code" onclick="return showCourse(this, 'CI 470');">CI 470</a></td><td>Language, Culture, and Learning in Urban Classrooms</td><td class="hourscol">4</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">Advanced Endorsement Electives</span></td><td class="hourscol">6</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">63</td></tr></tbody>
+</table>
+
+<p><strong>Note:</strong> The number of semester hours required depends on the area of specialization and the grade band(s). ISBE requires students interested in obtaining an advanced grades 5–8 endorsement take an additional endorsement course. Students must meet with academic advisor for a list of required courses for the area of specialization.</p>
+<h3>Student Teaching Requirement</h3>
+<p>Student teaching is completed in both semesters of the senior year with more emphasis on the last semester. Minimum requirements for student teaching include senior standing; 3.00/4.00 GPA in the professional course work; a grade of C or higher in all course work required for licensure; courses taken for a credit/no credit option are not applicable towards licensure; satisfactory completion of fieldwork as assessed by university field instructors and school mentor teachers. Furthermore, it is required that students meet the following additional criteria: approval of the program faculty through review of performance according to the GPA; Council of Education (CTE) Conceptual Framework; development of the Teaching Portfolio; and the passing of the required state tests. EE candidates should also consult the <em>State Teacher Licensure</em> section below. The edTPA is required during student teaching.</p>
+<p>Courses to be completed successfully prior to student teaching include the following:</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">University General Education </span></div></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ED%20100" title="ED 100" class="bubblelink code" onclick="return showCourse(this, 'ED 100');">ED 100</a></div></td><td>Introduction to Urban Education</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CI%20401" title="CI 401" class="bubblelink code" onclick="return showCourse(this, 'CI 401');">CI 401</a></div></td><td>Methods of Reading: Early Literacy in Urban Classrooms</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ED%20307" title="ED 307" class="bubblelink code" onclick="return showCourse(this, 'ED 307');">ED 307</a></div></td><td>Nature and Practices of Natural Sciences</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CI%20402" title="CI 402" class="bubblelink code" onclick="return showCourse(this, 'CI 402');">CI 402</a></div></td><td>Reading and Writing in the Content Areas: Intermediate Literacy in Urban Classrooms</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CI%20403" title="CI 403" class="bubblelink code" onclick="return showCourse(this, 'CI 403');">CI 403</a></div></td><td>Literacy in the Disciplines: Adolescent Literacy in Urban Classrooms</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CI%20404" title="CI 404" class="bubblelink code" onclick="return showCourse(this, 'CI 404');">CI 404</a></div></td><td>Teaching and Learning Mathematics in the Urban Classroom</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CI%20405" title="CI 405" class="bubblelink code" onclick="return showCourse(this, 'CI 405');">CI 405</a></div></td><td>Teaching and Learning Science in the Urban Classroom</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CI%20406" title="CI 406" class="bubblelink code" onclick="return showCourse(this, 'CI 406');">CI 406</a></div></td><td>Teaching and Learning Social Sciences in the Urban Classroom</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CI%20470" title="CI 470" class="bubblelink code" onclick="return showCourse(this, 'CI 470');">CI 470</a></div></td><td>Language, Culture, and Learning in Urban Classrooms</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ED%20350" title="ED 350" class="bubblelink code" onclick="return showCourse(this, 'ED 350');">ED 350</a></div></td><td>Introduction to Urban Communities and Schools: Fieldwork I</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=ED%20351" title="ED 351" class="bubblelink code" onclick="return showCourse(this, 'ED 351');">ED 351</a></div></td><td>Becoming a Culturally Responsive Educator in the Urban Classroom: Fieldwork II</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=EPSY%20255" title="EPSY 255" class="bubblelink code" onclick="return showCourse(this, 'EPSY 255');">EPSY 255</a></div></td><td>Child Development in Contemporary Society</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=SPED%20416" title="SPED 416" class="bubblelink code" onclick="return showCourse(this, 'SPED 416');">SPED 416</a></div></td><td>Methods of Instruction for Exceptional Learners</td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=EPSY%20405" title="EPSY 405" class="bubblelink code" onclick="return showCourse(this, 'EPSY 405');">EPSY 405</a></div></td><td>Educational Assessment and Evaluation <sup>a</sup></td><td class="hourscol"></td></tr>
+</tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Must be taken during the first semester of the senior year and during the first practicum of student teaching.</em></p></td></tr></table>
+<h2>State Teacher Licensure</h2>
+<p>The curricula for the preparation of elementary and secondary school teachers as listed in this catalog have been approved by the Illinois Board of Higher Education, the North Central Association of Colleges and Schools, the Illinois State Board of Education, and the university.</p>
+<h3>Council on Teacher Education</h3>
+<p>The Council on Teacher Education (CTE) is responsible for coordinating teacher education programs throughout the University of Illinois at Chicago and for maintaining relationships with the Illinois State Board of Education.</p>
+<p>Decisions about licensure are a joint effort of a candidate’s program, the Council on Teacher Education (CTE), and the Illinois State Board of Education (ISBE). The program coordinator and faculty have the main responsibility for ensuring that candidates are prepared to become teachers and are, thus, entitled to apply for licensure. They approve qualifications before the CTE begins its process of evaluation. The CTE’s licensure officer entitles an individual to apply for a license at the state level. The CTE checks that candidates have met state requirements, such as passing the required state-level tests and completing the course, assessment, and grade requirements stipulated by the program as addressing state objectives. Teacher candidates must successfully complete the Education Test of Teacher Performance Assessment (edTPA) in order to be licensed. ISBE makes the final decision about whether or not a candidate receives licensure based upon the information it receives from the institution and a candidate’s application.</p>
+<h3>State Examinations</h3>
+<p>Prior to licensure, the candidate must also pass a series of examinations required by the Illinois State Board of Education. An Illinois-approved test of basic skills must be passed prior to applying for candidacy in the teacher education program.  Approved tests consist of the  ACT or SAT with approved scores.  The tests must have been taken within 10 years of application. </p>
+<ol>
+	<li>To use an ACT score, the following criteria must be met:
+	<ol>
+		<li>ACT composite score must be at least 22; <strong>and</strong></li>
+		<li>ACT combined English/Writing score must be at least 19 for tests prior to September 2015; or</li>
+		<li>ACT writing score must be at least 16 for tests taken September 2015 to September 8, 2016; or</li>
+		<li>ACT writing score must be at least 6 for tests taken September 9, 2016 or after.​</li>
+	</ol>
+	</li>
+	<li>​To use an SAT score, the following criteria must be met:
+	<ol>
+		<li>SAT combined score (critical reading and math) of at least 1030 and SAT writing score of at least 450 for tests taken<strong> prior</strong> to March 5, 2016.</li>
+		<li>SAT combined score (evidence-based reading and writing plus mathematics) of at least 1110 and a minimum score of 26 on writing and language tests for tests taken <strong>on or after</strong> March 5, 2016. </li>
+	</ol>
+	</li>
+</ol>
+<p style="margin-left:40px"><strong>Note:</strong> As identified in the Illinois State Board of Education (ISBE's) Teach Illinois: Strong Teachers, Strong Classrooms report, <u><strong>beginning  June 30, 2019</strong></u>, the Test of Academic Proficiency (TAP 400) will be put on hold indefinitely while ISBE conducts a study of alternative basic skills assessments.  The last day to register for the TAP is June 27, 2019.  TAP tests passed <u><strong>prior</strong></u> to June 30, 2019, will continue to be accepted to meet the Illinois basic skills requirement past June 30, 2019.  ISBE will continue to require specific scores on the ACT or SAT as a test of basic skills for the issuance of a Professional Educator License as referenced above. </p>
+<p>The Illinois Content Area Test must be passed before the candidate is allowed to student teach. The Educational Test of Teacher Performance Assessment (edTPA) must be passed prior to licensure. These tests are administered and monitored by the State of Illinois. The candidate is responsible for meeting this requirement. See the <a href="http://www.il.nesinc.com" target="_blank">NES website</a> for the available test dates, registration information, and study guides. Registration information can also be found in the Council on Teacher Education. Students and candidates must take the tests in sufficient time for the results to accompany the appropriate application.</p>
+<h4>Program Pass Rates</h4>
+<p>In accordance with the public disclosure requirements of Title II of the Higher Education Act, the University of Illinois at Chicago reports that teacher education program completers scored as follows on the two assessments required by the state for teacher licensure. During the 2017–2018 academic year, UIC program completers had a 100% pass rate on the two required exams, Test of Academic Proficiency and Content Area Test. For both years, the statewide pass rate on the required exam was 100%.</p>
+<h3>Student Teaching</h3>
+<p>All TCs must apply to the Chicago Public Schools prior to any fieldwork. This registration process includes a background check (Illinois State Police and FBI). In order to student teach, TC’s must apply to both the CTE and the Chicago Public Schools. The application to the CTE includes documentation of a passed TB test and a passed Content Area Test. Then, in order to student teach within the Chicago Public Schools, TCs must complete a separate CPS registration packet, which includes another criminal background check. TCs are expected to bear the expense of both the TB test and the criminal background check. Students receive instructions for both the fieldwork application and the student teaching applications from the CTE.</p>
+<h3>Middle School Licensure</h3>
+<p>Middle Grades Endorsement is offered as an advanced endorsement in Grades 5–8. Please consult the program advisor for additional information to see how the advanced Grades 5–8 endorsement can be added to the initial Professional Educator License.</p>
+<h3>Other Licensure Policies (or Requirements)</h3>
+<p>Per legislation signed in August 2011, the Illinois State Board of Education no longer requires Teacher Education candidates to prepare and sign form 73-91 (Notice of Intent to Become a United States Citizen) or, to verify their legal presence and eligibility for employment in the United States. All candidates will apply for their teaching credential online via the Educator Licensure System. Please note that, in some cases, the State of Illinois will not issue a teaching credential to an individual who has been convicted of a criminal offense. A candidate who has been convicted of an offense should notify his/her advisor immediately.</p>
+<h2>Sample Curriculum Plan for the BA in Urban Education</h2>
+<h3>Core Curriculum Guide</h3>
+<p><strong>Note:</strong> Suggested sequencing guide for students seeking to complete the BA in Urban Education in four years. Below is the sequencing guide for the Core Curriculum, years one and two for BA in Urban Education students.</p>
+<table pdfnorepeatheader="true" class="sc_plangrid">
+<caption>Plan of Study Grid</caption><colgroup>
+	<col class="codecol"/>
+	<col class="titlecol"/>
+	<col class="hourscol"/>
+</colgroup>
+<tr class="plangridyear"><th id="plangrid1_0" class="year" colspan="3">Freshman Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_0_0" colspan="2">First Semester</th><th id="hoursheader" scope="col" class="hourscol">Hours</th></tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Academic Writing I: Writing in Academic and Public Contexts</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=ED%20100" title="ED 100" class="bubblelink code" onclick="return showCourse(this, 'ED 100');">ED 100</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Introduction to Urban Education (<span class="comment">with 30-hour fieldwork component</span>)</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=HIST%20103" title="HIST 103" class="bubblelink code" onclick="return showCourse(this, 'HIST 103');">HIST 103</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=HIST%20104" title="HIST 104" class="bubblelink code" onclick="return showCourse(this, 'HIST 104');">HIST 104</a></div></td>
+<td headers=" plangrid1_0_0" class="titlecol">Early America: From Colonization to Civil War and Reconstruction<br/><div style="margin-left:20px;" class="blockindent">or Modern America: From Industrialization to Globalization</div></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=MATH%20140" title="MATH 140" class="bubblelink code" onclick="return showCourse(this, 'MATH 140');">MATH 140</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Arithmetic and Algebraic Structures</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=ED%20151" title="ED 151" class="bubblelink code" onclick="return showCourse(this, 'ED 151');">ED 151</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">College Connection I <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol">2</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_0_0" class="titlecol">Hours</td><td headers=" plangrid1_0_0 hoursheader" class="hourscol">13</td></tr>
+<tr class="plangridterm"><th id="plangrid1_0_1" colspan="3">Second Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=ED%20205" title="ED 205" class="bubblelink code" onclick="return showCourse(this, 'ED 205');">ED 205</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Introduction to Race, Ethnicity, and Education</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Academic Writing II: Writing for Inquiry and Research</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=MATH%20141" title="MATH 141" class="bubblelink code" onclick="return showCourse(this, 'MATH 141');">MATH 141</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Algebraic and Geometric Structures</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">Understanding the Creative Arts course: English (ENGL) Literature course approved for this category and by the advisor</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=ED%20152" title="ED 152" class="bubblelink code" onclick="return showCourse(this, 'ED 152');">ED 152</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">College Connection II <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">Area of Specialization</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_0_1" class="titlecol">Hours</td><td headers=" plangrid1_0_1 hoursheader" class="hourscol">16</td></tr>
+<tr class="plangridyear"><th id="plangrid1_1" class="year" colspan="3">Sophomore Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_1_0" colspan="3">First Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_1_0" class="codecol"><a href="/search/?P=NATS%20105" title="NATS 105" class="bubblelink code" onclick="return showCourse(this, 'NATS 105');">NATS 105</a></td>
+<td headers=" plangrid1_1_0" class="titlecol">Physical Systems in Earth and Space Science (<span class="comment">required for Analyzing the Natural World category</span>)</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" class="codecol"><a href="/search/?P=GEOG%20161" title="GEOG 161" class="bubblelink code" onclick="return showCourse(this, 'GEOG 161');">GEOG 161</a></td>
+<td headers=" plangrid1_1_0" class="titlecol">Introduction to Economic Geography</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" class="codecol"><a href="/search/?P=POLS%20101" title="POLS 101" class="bubblelink code" onclick="return showCourse(this, 'POLS 101');">POLS 101</a></td>
+<td headers=" plangrid1_1_0" class="titlecol">Introduction to American Government and Politics (<span class="comment">required for Understanding U.S. Society category</span>)</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">Area of Specialization</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">Area of Specialization</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_1_0" class="titlecol">Hours</td><td headers=" plangrid1_1_0 hoursheader" class="hourscol">16</td></tr>
+<tr class="plangridterm"><th id="plangrid1_1_1" colspan="3">Second Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_1_1" class="codecol"><a href="/search/?P=NATS%20106" title="NATS 106" class="bubblelink code" onclick="return showCourse(this, 'NATS 106');">NATS 106</a></td>
+<td headers=" plangrid1_1_1" class="titlecol">Chemical and Biological Systems (<span class="comment">required for Analyzing the Natural World category</span>)</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" class="codecol"><a href="/search/?P=ED%20307" title="ED 307" class="bubblelink code" onclick="return showCourse(this, 'ED 307');">ED 307</a></td>
+<td headers=" plangrid1_1_1" class="titlecol">Nature and Practices of Natural Sciences</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_1" class="codecol"><a href="/search/?P=EPSY%20255" title="EPSY 255" class="bubblelink code" onclick="return showCourse(this, 'EPSY 255');">EPSY 255</a></td>
+<td headers=" plangrid1_1_1" class="titlecol">Child Development in Contemporary Society</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">Area of Specialization</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">Area of Specialization</span> <sup>b</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_1_1" class="titlecol">Hours</td><td headers=" plangrid1_1_1 hoursheader" class="hourscol">13-16</td></tr>
+<tr class="plangridyear"><th id="plangrid1_2" class="year" colspan="3">Junior Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_2_0" colspan="3">First Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=CI%20401" title="CI 401" class="bubblelink code" onclick="return showCourse(this, 'CI 401');">CI 401</a></td>
+<td headers=" plangrid1_2_0" class="titlecol">Methods of Reading: Early Literacy in Urban Classrooms</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=CI%20404" title="CI 404" class="bubblelink code" onclick="return showCourse(this, 'CI 404');">CI 404</a></td>
+<td headers=" plangrid1_2_0" class="titlecol">Teaching and Learning Mathematics in the Urban Classroom</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=CI%20405" title="CI 405" class="bubblelink code" onclick="return showCourse(this, 'CI 405');">CI 405</a></td>
+<td headers=" plangrid1_2_0" class="titlecol">Teaching and Learning Science in the Urban Classroom</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=ED%20350" title="ED 350" class="bubblelink code" onclick="return showCourse(this, 'ED 350');">ED 350</a></td>
+<td headers=" plangrid1_2_0" class="titlecol">Introduction to Urban Communities and Schools: Fieldwork I</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=SPED%20416" title="SPED 416" class="bubblelink code" onclick="return showCourse(this, 'SPED 416');">SPED 416</a></td>
+<td headers=" plangrid1_2_0" class="titlecol">Methods of Instruction for Exceptional Learners</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_2_0" class="titlecol">Hours</td><td headers=" plangrid1_2_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid1_2_1" colspan="3">Second Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_2_1" class="codecol"><a href="/search/?P=CI%20402" title="CI 402" class="bubblelink code" onclick="return showCourse(this, 'CI 402');">CI 402</a></td>
+<td headers=" plangrid1_2_1" class="titlecol">Reading and Writing in the Content Areas: Intermediate Literacy in Urban Classrooms</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" class="codecol"><a href="/search/?P=CI%20470" title="CI 470" class="bubblelink code" onclick="return showCourse(this, 'CI 470');">CI 470</a></td>
+<td headers=" plangrid1_2_1" class="titlecol">Language, Culture, and Learning in Urban Classrooms</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_1" class="codecol"><a href="/search/?P=CI%20406" title="CI 406" class="bubblelink code" onclick="return showCourse(this, 'CI 406');">CI 406</a></td>
+<td headers=" plangrid1_2_1" class="titlecol">Teaching and Learning Social Sciences in the Urban Classroom</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" class="codecol"><a href="/search/?P=ED%20351" title="ED 351" class="bubblelink code" onclick="return showCourse(this, 'ED 351');">ED 351</a></td>
+<td headers=" plangrid1_2_1" class="titlecol">Becoming a Culturally Responsive Educator in the Urban Classroom: Fieldwork II</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">Second Endorsement or Elective</span> <sup>c</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_2_1" class="titlecol">Hours</td><td headers=" plangrid1_2_1 hoursheader" class="hourscol">17</td></tr>
+<tr class="plangridyear"><th id="plangrid1_3" class="year" colspan="3">Senior Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_3_0" colspan="3">First Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_3_0" class="codecol"><a href="/search/?P=CI%20403" title="CI 403" class="bubblelink code" onclick="return showCourse(this, 'CI 403');">CI 403</a></td>
+<td headers=" plangrid1_3_0" class="titlecol">Literacy in the Disciplines: Adolescent Literacy in Urban Classrooms</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_0" class="codecol"><a href="/search/?P=ED%20416" title="ED 416" class="bubblelink code" onclick="return showCourse(this, 'ED 416');">ED 416</a></td>
+<td headers=" plangrid1_3_0" class="titlecol">Practical Inquiry I: Teacher Competencies and Performance-Based Assessment</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_0" class="codecol"><a href="/search/?P=ED%20450" title="ED 450" class="bubblelink code" onclick="return showCourse(this, 'ED 450');">ED 450</a></td>
+<td headers=" plangrid1_3_0" class="titlecol">Pre-Student Teaching in the Urban Elementary Classroom, Fieldwork III: Arts, Health, and Physical Ed</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_0" class="codecol"><a href="/search/?P=EPSY%20405" title="EPSY 405" class="bubblelink code" onclick="return showCourse(this, 'EPSY 405');">EPSY 405</a></td>
+<td headers=" plangrid1_3_0" class="titlecol">Educational Assessment and Evaluation</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">Second Endorsement or Elective</span> <sup>c</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_3_0" class="titlecol">Hours</td><td headers=" plangrid1_3_0 hoursheader" class="hourscol">16</td></tr>
+<tr class="plangridterm"><th id="plangrid1_3_1" colspan="3">Second Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_3_1" class="codecol"><a href="/search/?P=ED%20417" title="ED 417" class="bubblelink code" onclick="return showCourse(this, 'ED 417');">ED 417</a></td>
+<td headers=" plangrid1_3_1" class="titlecol">Practical Inquiry II: Teacher Competencies and Performance-Based Assessment</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_1" class="codecol"><a href="/search/?P=ED%20451" title="ED 451" class="bubblelink code" onclick="return showCourse(this, 'ED 451');">ED 451</a></td>
+<td headers=" plangrid1_3_1" class="titlecol">Student Teaching in the Urban Elementary Classroom: Fieldwork IV</td>
+<td headers="hoursheader" class="hourscol">12</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_3_1" class="titlecol">Hours</td><td headers=" plangrid1_3_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridtotal lastrow even"><td> </td><td>Total Hours</td><td headers="hoursheader" class="hourscol">121-124</td></tr>
+</table>
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em><span class="ftnote"><span class="sc_courseinline"><a href="/search/?P=ED%20151" title="ED 151" class="bubblelink code" onclick="return showCourse(this, 'ED 151');">ED 151</a></span> and <span class="sc_courseinline"><a href="/search/?P=ED%20152" title="ED 152" class="bubblelink code" onclick="return showCourse(this, 'ED 152');">ED 152</a></span> are required courses, but the hours do not count toward the total hours required for graduation.</span></em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>Students who are interested in pursuing an advanced endorsement in Grades 5–8 are required to register for 21 hours of coursework in their area of specialization and a 3-hour content methods course. Students who are only pursuing the Grades 1–6 PEL are required to register for 18 hours.</em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>Students who are interested in pursuing an advanced endorsement in Grades 5–8 are required to register for specific course work that leads to the endorsement.</em></p></td></tr></table></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="ba-urban-edu.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

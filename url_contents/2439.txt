@@ -1,0 +1,628 @@
+https://catalog.uic.edu/ucat/colleges-depts/liberal-arts-sciences/slav/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Department of Polish, Russian, and Lithuanian Studies &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/liberal-arts-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/">Anthropology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/">Biochemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/">Biological Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/">Black Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/">Chemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/">Classics and Mediterranean Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/">Communication</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/">Criminology, Law, and Justice</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/">Earth and Environmental Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/">Economics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/">English</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French and Francophone Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/">Gender and Women's Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/">Germanic Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/">Global Asian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/">Hispanic and Italian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/">History</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/">Integrated Health Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/">International Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/">Liberal Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/">Linguistics</a></li>
+				<li><a href="/ucat/colleges-depts/liberal-arts-sciences/lcsl/">Literatures, Cultural Studies, and Linguistics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/">Mathematics, Statistics, and Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/">Moving Image Arts</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/">Neuroscience</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/">Philosophy</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/">Physics</a></li>
+				<li class="active isparent self"><a href="#" onclick="return false;">Polish, Russian, and Lithuanian Studies</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/liberal-arts-sciences/slav/">
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/ba-polish-russian-cees/">BA with a Major in Polish, Russian, and Central and Eastern European Studies</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/minor-cees/">Minor in Central and Eastern European Studies</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/minor-pol/">Minor in Polish Studies</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/minor-russ/">Minor in Russian Studies</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/certificate-polish/">Certificate in Polish Language</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/certificate-russian/">Certificate in Russian Language</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/">Political Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/">Psychology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/">Religious Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/">Sociology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional Studies</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/">College&nbsp;of&nbsp;Liberal&nbsp;Arts&nbsp;and&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><span class="active">Polish, Russian, and Lithuanian Studies</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Department of Polish, Russian, and Lithuanian Studies</h1>
+
+
+<script type="text/javascript">
+//<![CDATA[
+	var defshow = "text";
+	var bodycontainer = "#body";
+	var validhashes = ",text,undergraduateprogramstext,coursestext,";
+
+if(window.location.hash.length) {
+	var hash = cleanHash(window.location.hash);
+	if(validhashes.indexOf("," + hash + ",") != -1)
+		defshow = hash;	
+}
+var ss = document.styleSheets;
+var workss = null;
+for(var i=0; i < ss.length; i++) {
+	var currmedia = "";
+	if (typeof ss[i].media == "string") 
+		currmedia = ss[i].media
+	else if (typeof ss[i].media == "object" && ss[i].media.mediaText) 
+		currmedia = ss[i].media.mediaText;
+	
+	if((currmedia == "screen" || currmedia == "all") && (ss[i].href.indexOf("/") == 0 || ss[i].href.indexOf(document.location.host) >= 0)) {
+		workss = ss[i];
+		break;	
+	}
+}
+if(workss && workss.insertRule) {
+	workss.insertRule(".tab_content { display: none; }", workss.cssRules.length)
+	workss.insertRule(".sectionheader { display: none; }", workss.cssRules.length)
+	workss.insertRule("#" + defshow + "container { display: block; }", workss.cssRules.length)
+} else if(workss && workss.addRule) {
+	workss.addRule(".tab_content", "display: none");
+	workss.addRule(".sectionheader", "display: none");
+	workss.addRule("#" + defshow + "container", "display: block");
+}
+else {
+	if (window.console)
+		window.console.log('screen.css <link> needs attribute media="screen"');
+}
+//]]>
+</script>
+	<div id="tabs">
+		<ul class="clearfix" role="tablist">
+			<li id="texttab" role="presentation">
+<a href="#textcontainer" role="tab" aria-controls="textcontainer" onclick="return showSection('text');">Overview</a></li>
+			<li id="undergraduateprogramstexttab" role="presentation">
+<a href="#undergraduateprogramstextcontainer" role="tab" aria-controls="undergraduateprogramstextcontainer" onclick="return showSection('undergraduateprogramstext');" >Programs and Requirements</a></li>
+			<li id="coursestexttab" role="presentation">
+<a href="#coursestextcontainer" role="tab" aria-controls="coursestextcontainer" onclick="return showSection('coursestext');" >Courses</a></li>
+		</ul>
+	</div>
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p class="campus_location"><span class="label"><strong>Contact Information: </strong></span><br/>
+<span class="campus_location">Campus Location: 1722 University Hall (UH) <br/>
+<span class="phone">(312) 996-5218</span> <br/>
+<span class="website"><a href="https://prls.uic.edu/">prls.uic.edu</a></span></span></p>
+<p class="administration"><span class="label"><strong>Administration: </strong></span><br/>
+Head, Michał Markowski<br/>
+Director of Undergraduate Studies, Karen Underhill, <a href="mailto:kcu@uic.edu">kcu@uic.edu</a></p>
+<p><span>The Department of Polish, Russian, and Lithuanian Studies offers language courses in Polish, Russian, and Lithuanian at the elementary, intermediate, and advanced levels. The undergraduate program develops language literacy skills and cultural competency in the regions of study.</span></p>
+<p><span>Within the Bachelor of Arts with the Major in Polish, Russian, and Central and Eastern European Studies, the department offers concentrations in Polish Studies, Russian Studies, and Central and Eastern European Studies. Minors in Polish Studies, Russian Studies, and Central and Eastern European Studies are also offered.</span></p>
+<p><span>A major in Polish, Russian, and Central and Eastern European Studies prepares students for informed global citizenship and for a variety of careers, including law, teaching, translation, international business, journalism, diplomacy, the armed forces, national security agencies, publishing, tourism, and work in cultural centers such as libraries and museums. In addition, students pursuing careers in the health professions gain sought-after linguistic and cultural competency skills in Polish, Russian, or Lithuanian.</span></p>
+<h2>Degree Programs</h2>
+<p>The Department of Polish, Russian, and Lithuanian Studies (PRLS) offers the degree of BA with a Major in Polish, Russian, and Central and Eastern European Studies.<strong> </strong> Each student electing the PRLS major or double-major will select a concentration in either Polish, Russian, or Central and Eastern European Studies (CEES), and work with an advisor to design a course of study accordingly.</p>
+<h2>Minors</h2>
+<p>A minor is offered by PRLS in three separate fields of study: </p>
+<ul>
+	<li>Minor in Polish Studies</li>
+	<li>Minor in Russian Studies</li>
+	<li>Minor in Central and Eastern European Studies</li>
+</ul>
+<h2>Distinction</h2>
+<p>Departmental Distinction requires a 3.50/4.00 GPA in all department lower-division courses and a 3.75/4.00 GPA in all department upper-division courses taken.</p></div><!--end #textcontainer -->
+
+			<div id="undergraduateprogramstextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="undergraduateprogramstexttab" aria-hidden="true">
+				<a name="undergraduateprogramstext"></a><h2>Degree Programs</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/ba-polish-russian-cees/">BA with a Major in Polish, Russian, and Central and Eastern European Studies</a></li>
+</ul>
+<h2>Minors</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/minor-cees/">Minor in Central and Eastern European Studies</a></li>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/minor-russ/">Minor in Russian Studies</a></li>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/minor-pol/">Minor in Polish Studies</a></li>
+</ul>
+<h2>Campus Certificates</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/certificate-polish/">Undergraduate Campus Certificate in Polish Language</a></li>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/certificate-russian/">Undergraduate Campus Certificate in Russian Language</a></li>
+</ul>
+			</div>
+			<div id="coursestextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="coursestexttab" aria-hidden="true">
+				<a name="coursestext"></a><p><a href="#POL">Polish</a><br/>
+<a href="#RUSS">Russian</a><br/>
+<a href="#SLAV">Slavic and Baltic Languages and Literature</a></p>
+<h2><a id="POL" name="POL"></a>Polish</h2>
+<div class="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle"><strong>POL 101.  Elementary Polish I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Basic grammar and vocabulary. Introduction to the vibrant culture of Poland. Course Information: This class is taught in a blended format. Internet access is required. A high-speed connection is strongly recommended. Prerequisite(s): For students who have had no formal work in Polish.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POL 102.  Elementary Polish II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Continuation of <a href="/search/?P=POL%20101" title="POL 101" class="bubblelink code" onclick="return showCourse(this, 'POL 101');">POL 101</a>. Basic grammar and vocabulary. Introduction to the vibrant culture of Poland. Course Information: This class is taught in a blended format. Internet access is required. A high-speed connection is strongly recommended. Prerequisite(s): <a href="/search/?P=POL%20101" title="POL 101" class="bubblelink code" onclick="return showCourse(this, 'POL 101');">POL 101</a>; or appropriate score on the department placement test.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POL 103.  Intermediate Polish I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Course will expand your mastery of grammar and vocabulary and prepares you to discuss and write, in Polish, in a variety of styles. Course Information: Extensive computer use required. This class is taught in a blended format. Internet access is required. A high-speed connection is strongly recommended. Prerequisite(s): <a href="/search/?P=POL%20102" title="POL 102" class="bubblelink code" onclick="return showCourse(this, 'POL 102');">POL 102</a>; or appropriate score on the department placement test.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POL 104.  Intermediate Polish II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Continuation of Polish 103. Course will expand your mastery of grammar and vocabulary and prepares you to discuss and write, in Polish, in a variety of styles. Course Information: This class is taught in a blended format. Internet access is required. A high-speed connection is strongly recommended. Prerequisite(s): <a href="/search/?P=POL%20103" title="POL 103" class="bubblelink code" onclick="return showCourse(this, 'POL 103');">POL 103</a>; or appropriate score on the department placement test.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POL 115.  Introduction to Polish Culture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Main trends in Polish culture in the context of parallel developments in Western European civilization. Course Information: Taught in English.<i>  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POL 120.  The Polish Short Story in Translation.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to representative Polish short stories of the nineteenth and twentieth centuries; the elements of fiction; close reading of prose texts. Course Information: Taught in English.<i>  Creative Arts course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POL 130.  Masterworks of Polish Literature in Translation.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The most important works of Poland's greatest writers in the areas of poetry, drama, and prose. Course Information: Taught in English.<i>  Creative Arts course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POL 140.  Polish Drama in Translation.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Elementary aspects of Polish dramatic theory and close reading of representative scripts selected from various periods. Course Information: Same as <a href="/search/?P=THTR%20140" title="THTR 140" class="bubblelink code" onclick="return showCourse(this, 'THTR 140');">THTR 140</a>. Taught in English.<i>  Creative Arts course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POL 150.  Introduction to Polish Cinema.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the major themes and techniques of Polish film art; comparative survey of narrative film and literature. Course Information: Taught in English. Films screened with English subtitles.<i>  Creative Arts course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POL 201.  Advanced Polish through Media and Film.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Development of advanced language skills: writing, reading, listening comprehension, and speaking. Exploration and analysis of Polish media sources (television, films, music), and links between topics and their medium of representation. Course Information: Prerequisite(s): <a href="/search/?P=POL%20104" title="POL 104" class="bubblelink code" onclick="return showCourse(this, 'POL 104');">POL 104</a>; or appropriate score on the department placement test.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POL 202.  Advanced Polish through Contemporary Culture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Development of skills in spoken and written Polish, within the context of contemporary Polish culture, via a variety of sources, such as: news articles, comics, music.Course Information: Prerequisite(s): <a href="/search/?P=POL%20104" title="POL 104" class="bubblelink code" onclick="return showCourse(this, 'POL 104');">POL 104</a>; or appropriate score on the department placement test.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POL 203.  Advanced Polish through Short Stories.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Development of advanced language skills: writing, reading, listening comprehension, and speaking. Exploration and analysis of Polish cultural tropes within the context of short stories. Course Information: May be repeated for a maximum of 6 hours. May be repeated if topics vary. Prerequisite(s): <a href="/search/?P=POL%20104" title="POL 104" class="bubblelink code" onclick="return showCourse(this, 'POL 104');">POL 104</a>; or appropriate score on the department placement test.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POL 220.  Modern Polish-Jewish Culture and Literatures.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Polish-Jewish literature and non-fiction works in English translation from Polish, Yiddish and Hebrew are studied as expressions of a distinct Ashkenazi or East European Jewish culture that developed on historically Polish lands. Course Information: Same as <a href="/search/?P=JST%20220" title="JST 220" class="bubblelink code" onclick="return showCourse(this, 'JST 220');">JST 220</a> and <a href="/search/?P=CEES%20220" title="CEES 220" class="bubblelink code" onclick="return showCourse(this, 'CEES 220');">CEES 220</a>. Prerequisite(s): <a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a> or <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>.<i>  Creative Arts course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POL 234.  History of Poland.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Exploration of political, socioeconomic, and cultural developments since the first Polish state, the union with Lithuania, the struggle for independence, and Communist rule to the present. Course Information: Same as <a href="/search/?P=HIST%20234" title="HIST 234" class="bubblelink code" onclick="return showCourse(this, 'HIST 234');">HIST 234</a>. Prerequisite(s): <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>.<i>  Individual and Society course, and  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POL 242.  Polish Poetry for Beginners.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Polish poetry from various literary epochs read as an introduction to Polish literature and explained against the basic historical, cultural, and transcultural contexts. Course Information: Taught in English.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POL 321.  Introduction to Polish Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Old Polish literature from medieval Latin and vernacular texts to masterpieces of the Polish Enlightenment. Course Information: Taught in English. Prerequisite(s): Junior standing or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POL 399.  Independent Study.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Investigation of special problems under the general direction of a staff member. Course Information: May be repeated to a maximum of 6 hours. Prerequisite(s): Junior standing, consent of the instructor and consent of the head of the department. Class Schedule Information: This course counts toward the limited number of independent study hours accepted toward the degree and the major.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POL 460.  Studies in Polish Literature.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Major literary Polish writers recognized in the world, translated extensively into English; their poetics, worldviews as compared with foreign writers; historical and philosophical background. Topics may vary. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated to a maximum of 9 hours for undergraduates, or 12 hours for graduate students, if topics vary. Only 6 hours may be applied toward the undergraduate major in Polish. Taught in English. Polish majors will be required to complete some assignments in Polish. Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=CEES%20224" title="CEES 224" class="bubblelink code" onclick="return showCourse(this, 'CEES 224');">CEES 224</a> or Credit or concurrent registration in <a href="/search/?P=CEES%20225" title="CEES 225" class="bubblelink code" onclick="return showCourse(this, 'CEES 225');">CEES 225</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POL 499.  Independent Study.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Investigation of special problems under the general direction of a staff member. Course Information: May be repeated to a maximum of 8 hours. Graduate students may register for more than one section per term. Prerequisite(s): Senior or graduate standing, consent of the instructor and consent of the head of the department. Class Schedule Information: This course counts toward the limited number of independent study hours accepted toward the undergraduate degree and the major.<br/>
+</p>
+</div></div>
+<h2><a id="RUSS" name="RUSS"></a>Russian</h2>
+<div class="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 101.  Elementary Russian I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Basics of Russian grammar and vocabulary. Reading and discussing the culture and modern life of Russia. Course Information: Taught in a blended format. Internet access is required. A high-speed connection is strongly recommended. Prerequisite(s): For students who have had no formal work in Russian.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 102.  Elementary Russian II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Continues <a href="/search/?P=RUSS%20101" title="RUSS 101" class="bubblelink code" onclick="return showCourse(this, 'RUSS 101');">RUSS 101</a>. Course Information: This class is taught in a blended format. Internet access is required. A high-speed connection is strongly recommended. Prerequisite(s): <a href="/search/?P=RUSS%20101" title="RUSS 101" class="bubblelink code" onclick="return showCourse(this, 'RUSS 101');">RUSS 101</a>; or appropriate score on the department placement test.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 103.  Intermediate Russian I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Futher study of Russian grammar and vocabulary. Reading and discussing the culture and modern life of Russia. Introduction to expository, persuasive and argumentative styles. Course Information: This class is taught in a blended format. Internet access is required. A high-speed connection is strongly recommended. Prerequisite(s): <a href="/search/?P=RUSS%20102" title="RUSS 102" class="bubblelink code" onclick="return showCourse(this, 'RUSS 102');">RUSS 102</a>; or appropriate score on the department placement test.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 104.  Intermediate Russian II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Continuation of <a href="/search/?P=RUSS%20103" title="RUSS 103" class="bubblelink code" onclick="return showCourse(this, 'RUSS 103');">RUSS 103</a>. Futher study of Russian grammar and vocabulary. Reading and discussing the culture and modern life of Russia. Introduction to expository, persuasive and argumentative styles Course Information: This class is taught in a blended format. Internet access is required. A high-speed connection is strongly recommended. Prerequisite(s): <a href="/search/?P=RUSS%20103" title="RUSS 103" class="bubblelink code" onclick="return showCourse(this, 'RUSS 103');">RUSS 103</a>; or appropriate score on the department placement test.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 115.  Russian Culture Before the Revolution.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The main trends of Russian thought and manners from the beginning to the Revolution: literature, philosophy, religion, art, architecture, intellectual life. Audio-visual emphasis.<i>  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 116.  Russian Culture: The Soviet Period.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The transformation of Russian culture after 1917: literature, art, architecture, philosophy, intellectual trends; emphasis on the ideology of Socialist Realism. Audio-visual emphasis.<i>  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 120.  The Russian Short Story in Translation.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to important Russian short stories of the nineteenth and twentieth centuries; the elements of fiction; close analysis of literary texts.<i>  Creative Arts course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 130.  Masterpieces of Russian Literature in Translation.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to Russian novellas and novels of the nineteenth and twentieth centuries.<i>  Creative Arts course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 150.  Introduction to Russian Cinema.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to major themes, trends, and techniques of Russian/Soviet cinema. Explores film as an expression of social reality and political ideology. Comparisons drawn with American cinema. Course Information: Taught in English. Films screened with English subtitles.<i>  Creative Arts course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 201.  Advanced Russian through Media and Film.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Development of advanced language skills through the study of Russian media and film from a variety of periods. In-depth analysis of past and present Russian cultural artifacts. Prerequisite(s): <a href="/search/?P=RUSS%20104" title="RUSS 104" class="bubblelink code" onclick="return showCourse(this, 'RUSS 104');">RUSS 104</a>; or appropriate score on the department placement test.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 202.  Advanced Russian through Contemporary Culture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Development of skills in spoken and written Russian, within the context of contemporary Russian culture, via a variety of sources, such as: news articles, comics, music. Prerequisite(s): <a href="/search/?P=RUSS%20104" title="RUSS 104" class="bubblelink code" onclick="return showCourse(this, 'RUSS 104');">RUSS 104</a>; or appropriate score on the department placement test.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 203.  Advanced Russian through Short Stories.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Development of advanced language skills: writing, reading, listening comprehension, and speaking. Exploration and analysis of Russian cultural tropes within the context of short stories. Course Information: May be repeated for a maximum of 6 hours. May be repeated if topics vary. Prerequisite(s): <a href="/search/?P=RUSS%20104" title="RUSS 104" class="bubblelink code" onclick="return showCourse(this, 'RUSS 104');">RUSS 104</a>; or appropriate score on the department placement test.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 239.  Twentieth-Century Russia in Film.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of social, political and cultural development of the Russian Empire and Soviet Union through the use of film as a historical source. Course Information: Same as <a href="/search/?P=HIST%20239" title="HIST 239" class="bubblelink code" onclick="return showCourse(this, 'HIST 239');">HIST 239</a>. Prerequisite(s): <a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a> or completion of any 100-level history course. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<i>  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 241.  Dostoyevsky.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected short stories and novels. Course Information: Taught in English.<i>  Creative Arts course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 242.  Tolstoy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Discussion of selected short stories and plays. Course Information: Taught in English.<i>  Creative Arts course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 244.  Women in Russian Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Major works by and about women in Russian literature: experiences of women and societal attitudes toward them. Course Information: Same as <a href="/search/?P=GWS%20244" title="GWS 244" class="bubblelink code" onclick="return showCourse(this, 'GWS 244');">GWS 244</a>. Taught in English.<i>  Creative Arts course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 247.  Literature and Fantasy in Russia.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Fantasy as a literary genre. Comparison of the artistic strategies employed by works of literature and film into which the fantastic intrudes in the form of alternate states of consciousness such as dream, inebriation, and madness. Course Information: Taught in English. Prerequisite(s): Sophomore standing or above; or consent of the instructor.<i>  Creative Arts course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 248.  Russian Visual and Material Culture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Non-textual manifestations of Russian culture such as painting, sculpture, architecture, design and decorative arts in a way that emphasizes how an object's compositional medium relates to its aesthetic and functional purposes. Course Information: Same as <a href="/search/?P=AH%20248" title="AH 248" class="bubblelink code" onclick="return showCourse(this, 'AH 248');">AH 248</a>. Taught in English. Prerequisite(s): Completion of <a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a>; or any 100-level RUSS or AH course.<i>  Creative Arts course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 321.  Great Russian 19th-Century Novels and the European Tradition.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Reading and interpretation of various 19th-century novels, including, but not limited to, the works of Pushkin, Lermontov, Gogol, Turgenev, Dostoevsky, and Tolstoy. Emphasis on the socio-historic and intellectual context of these works. Course Information: Taught in English. Prerequisite(s): Junior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 330.  Art and Politics: Soviet and Post-Soviet Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An examination of various Russian literary and aesthetic practices with a focus on how writers defined their art vis-Ã -vis its contribution to or autonomy from the ideological goals of the Soviet state. Course Information: Taught in English.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 399.  Independent Study.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Investigation of special problems under the general direction of a staff member. Course Information: May be repeated to a maximum of 6 hours. Prerequisite(s): Junior standing, consent of the instructor and the head of the department. Class Schedule Information: This course counts toward the limited number of independent study hours accepted toward the degree and the major.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 410.  Structure of Modern Russian.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to Russian morphology and phonology. Examination of the Russian language as a system with particular attention to verb conjugation and noun declension, with the goal of improving studentsâ€™ practical language skills. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=RUSS%20201" title="RUSS 201" class="bubblelink code" onclick="return showCourse(this, 'RUSS 201');">RUSS 201</a>; and credit or concurrent registration in <a href="/search/?P=RUSS%20202" title="RUSS 202" class="bubblelink code" onclick="return showCourse(this, 'RUSS 202');">RUSS 202</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 440.  Topics in Russian Culture and Cultural Studies.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Exploration of various topics in Russian culture through an interdisciplinary prism, addressing intersections between visual and verbal arts as well as high and popular culture. Content varies.Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated to a maximum of 6 hours for undergraduate students or 8 hours for graduate students, if topics vary, and with consent of the instructor. Taught in English. All texts are available in English. Students pursuing a major or minor in Russian, or an MA or PhD in Slavic Studies, will be required to read primary texts in the target language. Prerequisite(s): Junior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 460.  Topics in Russian Literature.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of a major author, movement, genre, or special topic. Content varies. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 2 time(s) if topics vary. Taught in English. Prerequisite(s): Consent of the instructor Junior, senior, or graduate standing. Or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 499.  Independent Study.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Investigation of special problems under the general direction of a staff member. Course Information: May be repeated to a maximum of 8 hours. Graduate students may register for more than one section per term. Prerequisite(s): Senior or graduate standing, consent of the instructor and the head of the department. Class Schedule Information: This course counts toward the limited number of independent study hours accepted toward the degree and the major.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 525.  Studies in the Russian Novel.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Extensive reading and independent critical analysis of the nineteenth-century classic Russian novels. Authors may include, but are not limited to, Pushkin, Lermontov, Tolstoy, Dostoevsky, Turgenev, and Gogol. Topics may vary. Course Information: May be repeated to a maximum of 8 hours, if topics vary and with consent of instructor. Taught in English.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 530.  Studies in Russian Poetry.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The development of Russian poetry from the 18th century to the present. Contemporary theories on poetry. Topics may vary. Course Information: May be repeated to a maximum of 8 hours, if topics vary and with consent of instructor. Taught in English.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 535.  Experimental Prose and Metafiction.  4 hours.</strong></p>
+<p class="courseblockdesc">
+In-depth exploration of six metafictional novels dealing with defining aesthetics and rethinking the place of the writer vis-a-vis his age, his reader, and his self. Topics may vary. May be repeated to a maximum of 8 hours, if topics vary and with consent of instructor. Taught in English.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 540.  Imitation and Originality in Russian Literature.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Practices of imitation and parody in Russian literature, the role of those practices in Russian literary history, and their relationship to literary evolution and ideological change. Topics may vary. Course Information: May be repeated to a maximum of 8 hours, if topics vary and with consent of instructor. Taught in Russian.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 560.  Russian Modernism and the Avant-Garde.  4 hours.</strong></p>
+<p class="courseblockdesc">
+In-depth exploration of various theories of the avant-garde and of avant-garde practices in literature, film, architecture, visual and performing arts. Topics may vary. Course Information: May be repeated to a maximum of 8 hours, if topics vary, and with consent of the instructor. Taught in English.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 575.  Workshops in Translation.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on the translation of literary and non-literary texts. Various theoretical approaches to translation and trace the evolution of notions of conveying from one language to another. Topics may vary. Course Information: May be repeated to a maximum of 8 hours, if topics vary, and with consent of the instructor. Taught in English.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>RUSS 596.  Independent Study.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Investigation of special problems under the general direction of a staff member. Course Information: May be repeated to a maximum of 8 hours. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor and the head of the department.<br/>
+</p>
+</div></div>
+<h2><a id="SLAV" name="SLAV"></a>Slavic and Baltic Languages and Literature</h2>
+<div class="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle"><strong>SLAV 460.  Topics in Central and Eastern European Literature and Culture.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of a time period, movement, genre, or special topic. Course Information: 3 undergraduate hours. 4 graduate hours. Same as <a href="/search/?P=CEES%20460" title="CEES 460" class="bubblelink code" onclick="return showCourse(this, 'CEES 460');">CEES 460</a>. May be repeated up to 2 time(s), with consent of the instructor, and if topics vary. Prerequisite(s): Junior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>SLAV 499.  Independent Study.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Investigation of special problems under the general direction of a staff member. Course Information: May be repeated to a maximum of 8 hours. Graduate students may register for more than one section per term. Prerequisite(s): Senior or graduate standing, consent of the instructor and the head of the department. Class Schedule Information: This course counts toward the limited number of independent study hours accepted toward the degree and the major.<br/>
+</p>
+</div></div>
+			</div>
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="slav.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

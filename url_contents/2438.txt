@@ -1,0 +1,316 @@
+https://catalog.uic.edu/ucat/colleges-depts/applied-health-sciences/preprofessional-studies/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Preprofessional Studies &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="active isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/applied-health-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/bhis/">Biomedical and Health Information Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/dhd/">Disability and Human Development</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/kn/">Kinesiology and Nutrition</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/rs/">Rehabilitation Sciences</a></li>
+				<li class="active self"><a href="#" onclick="return false;">Preprofessional Studies</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/applied-health-sciences/">College&nbsp;of&nbsp;Applied&nbsp;Health&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><span class="active">Preprofessional Studies</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Preprofessional Studies</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p>Preprofessional studies in the College of Applied Health Sciences are designed for students who intend to pursue their undergraduate or graduate education in professional programs of the AHS College. Preprofessional students in AHS can be Disability and Human Development, Kinesiology, Nutrition Science, or Rehabilitation Sciences majors. Advisors for students in pre-occupational therapy and pre-physical therapy are available in the AHS College Office of Student Affairs and the department offices. Students are also encouraged to participate in the preadmission information sessions which are held monthly within the OT and PT departments. Scheduling information for these sessions can be found on the <a href="http://www.ahs.uic.ed" target="_blank">AHS website</a>.</p>
+<p>Completion of the required course work or attainment of the minimum grade point average does not guarantee admission to a professional program. Pre-OT and pre-PT students must complete all the requirements for a bachelor’s degree, including a major, in addition to the preprofessional studies.</p>
+<h2>Pre-Occupational Therapy</h2>
+<p>Occupational therapists provide services to maximize the function and satisfaction of persons whose daily life performance has been interrupted and jeopardized by disease, disability, life stress, and other factors. The occupational therapist provides the individual with opportunities for involvement in carefully chosen work, play, or self-care activities. The occupational therapist also uses various methods of mutual problem solving, environmental modification, adaptive devices, technology, and biomechanical and sensorimotor treatment methods to support and enhance performance.</p>
+<p>Many occupational therapists work within hospital settings, but there is growing emphasis on prevention and treatment of people with disabilities in nonclinical settings. As a result, many new areas of employment are now available. For example, occupational therapists are increasingly employed in school systems where they work with children with disabilities, enhancing their ability to perform as students. Working with in-home health organizations, occupational therapists help individuals and families function more adequately at daily tasks. In industrial settings, they aid workers' with disabilities or injuries return to gainful employment. In addition, occupational therapists have developed private practices.</p>
+<p>The preprofessional course work listed below prepares students to apply to the professional program in the Department of Occupational Therapy in the College of Applied Health Sciences after completion of the undergraduate degree. Students should contact <a href="mailto:OTDept@uic.edu">OTDept@uic.edu</a> or (312) 413-0124 for further information.</p>
+<p>Pre-occupational therapy students may choose any major but should work with a preprofessional advisor to plan a course of study that fulfills pre-occupational therapy studies requirements as well as the requirements for the major.</p>
+<p>The pre-occupational therapy requirements follow and should be completed as part of the undergraduate degree program. The courses listed below must be completed with a grade of C or better.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span> <sup>a</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a></td><td>Biology of Cells and Organisms <sup>b</sup></td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=KN%20251" title="KN 251" class="bubblelink code" onclick="return showCourse(this, 'KN 251');">KN 251</a></td><td>Human Physiological Anatomy I <sup>c,d</sup></td><td class="hourscol">5</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=KN%20252" title="KN 252" class="bubblelink code" onclick="return showCourse(this, 'KN 252');">KN 252</a></td><td>Human Physiological Anatomy II <sup>c,d</sup></td><td class="hourscol">5</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=PSCH%20100" title="PSCH 100" class="bubblelink code" onclick="return showCourse(this, 'PSCH 100');">PSCH 100</a></td><td>Introduction to Psychology <sup>e</sup></td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=PSCH%20242" title="PSCH 242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH 242</a></td><td>Introduction to Research in Psychology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=PSCH%20270" title="PSCH 270" class="bubblelink code" onclick="return showCourse(this, 'PSCH 270');">PSCH 270</a></td><td>Abnormal Psychology <sup>d,e</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=PSCH%20320" title="PSCH 320" class="bubblelink code" onclick="return showCourse(this, 'PSCH 320');">PSCH 320</a></td><td>Developmental Psychology <sup>d</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Choose from one of the following courses in statistics:</span> <sup>f</sup></td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20343" title="PSCH 343" class="bubblelink code" onclick="return showCourse(this, 'PSCH 343');">PSCH 343</a></div></td><td>Statistical Methods in Behavioral Science (for Psychology majors only)</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=KN%20200" title="KN 200" class="bubblelink code" onclick="return showCourse(this, 'KN 200');">KN 200</a></div></td><td>Statistical Methods</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=STAT%20101" title="STAT 101" class="bubblelink code" onclick="return showCourse(this, 'STAT 101');">STAT 101</a></div></td><td>Introduction to Statistics</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=STAT%20130" title="STAT 130" class="bubblelink code" onclick="return showCourse(this, 'STAT 130');">STAT 130</a></div></td><td>Introduction to Statistics for the Life Sciences</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=SOC%20201" title="SOC 201" class="bubblelink code" onclick="return showCourse(this, 'SOC 201');">SOC 201</a></div></td><td>Introductory Sociological Statistics</td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Introduction to sociology or anthropology</span></td><td class="hourscol">3</td></tr>
+<tr class="odd lastrow"><td colspan="2"><span class="courselistcomment">Although not required, it is recommended that students complete a medical terminology course. Alternatively, students are expected to complete a self-study computerized course in medical terminology upon acceptance.</span></td><td class="hourscol"></td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">34</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Students completing an undergraduate degree at UIC must complete the General Education requirements. Students should consult the <a href="/ucat/degree-programs/general-education/">General Education</a> section and their college/department sections of the catalog for more information on fulfilling these requirements.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>This course is approved for the Analyzing the Natural World General Education category.</em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=KN%20251" title="KN 251" class="bubblelink code" onclick="return showCourse(this, 'KN 251');">KN 251</a></span>/<span class="sc_courseinline"><a href="/search/?P=KN%20252" title="KN 252" class="bubblelink code" onclick="return showCourse(this, 'KN 252');">KN 252</a></span> sequence begins in the fall semester only.</em></p></td></tr><tr><td valign="top" class="symcol">d</td><td class="notecol"><p><em>If prerequisites were completed <strong>more than three years</strong> prior to beginning occupational therapy course work, it is highly recommended that applicants review a current text prior to enrollment so that they have up-to-date knowledge. If prerequisites were completed <strong>more than eight years</strong> ago, it is recommended that applicants retake the course(s) or complete an intensive self-study prior to enrollment. </em></p></td></tr><tr><td valign="top" class="symcol">e</td><td class="notecol"><p><em>This course is approved for the Understanding the Individual and Society General Education category.</em></p></td></tr><tr><td valign="top" class="symcol">f</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=PSCH%20343" title="PSCH 343" class="bubblelink code" onclick="return showCourse(this, 'PSCH 343');">PSCH 343</a></span> is limited to psychology majors. Other options include <span class="sc_courseinline"><a href="/search/?P=SOC%20201" title="SOC 201" class="bubblelink code" onclick="return showCourse(this, 'SOC 201');">SOC 201</a></span> (for sociology majors), <span class="sc_courseinline"><a href="/search/?P=KN%20200" title="KN 200" class="bubblelink code" onclick="return showCourse(this, 'KN 200');">KN 200</a></span> (for KN majors) and <span class="sc_courseinline"><a href="/search/?P=STAT%20101" title="STAT 101" class="bubblelink code" onclick="return showCourse(this, 'STAT 101');">STAT 101</a></span> and <span class="sc_courseinline"><a href="/search/?P=STAT%20130" title="STAT 130" class="bubblelink code" onclick="return showCourse(this, 'STAT 130');">STAT 130</a></span>.</em></p></td></tr></table>
+<p>Other minimum admissions requirements include an earned bachelor’s degree in any field, CPR (cardiopulmonary resuscitation) certification with Health Providers Status, 3.00/4.00 GPA for the last 60 semester hours earned for the baccalaureate degree, Graduate Record Examination (GRE) score of at least 300 combined on the verbal and quantitative sections, three letters of recommendation, and a personal statement. Applicants with a GPA of below 3.00 or GRE combined score below 300 who display strengths in other areas may be considered for admission. Students must apply for admission to the program approximately one year before planned enrollment.</p>
+<h2>Pre-Physical Therapy</h2>
+<p>Physical therapy is a health profession whose primary purpose is the promotion of optimal human health and function through the application of scientific principles to prevent, identify, assess, correct, or alleviate acute or prolonged movement dysfunction. Physical therapy encompasses areas of specialized competence and includes the development of new principles and applications to more effectively meet existing and emerging health needs. Other professional activities that serve the purpose of physical therapy are research, education, consultation, and administration.</p>
+<p>The physical therapist, working in cooperation with other health professionals, serves the individual needs of the client and the health needs of society. The physical therapy profession depends heavily on knowledge and application of the basic medical and behavioral sciences, coupled with specialized knowledge and skills in the clinical arts and sciences.</p>
+<p>Physical therapists may work as staff, supervisors, or self-employed practitioners who serve clients directly; as administrators of clinical departments, health agencies, or educational programs; as healthcare agency consultants; as clinical or academic teachers; or as researchers.</p>
+<p>They may work in hospitals, clinics, rehabilitation centers, schools for children with disabilities, neighborhood health centers, physicians’ offices, nursing homes and convalescent centers, private and public health agencies, sports settings, and universities.</p>
+<p>Pre-physical therapy students may choose any major but should work with an advisor to plan a course of study that fulfills the pre-physical therapy studies requirements as well as the requirements for the major. Students are advised to declare an educational goal of pre-physical therapy upon entering UIC which will alert them to specific workshops and other pertinent information.</p>
+<p>The pre-physical therapy requirements follow and should be completed as part of the undergraduate degree program.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span> <sup>a</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a></td><td>Biology of Cells and Organisms <sup>b</sup></td><td class="hourscol">4</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Select one of the following general chemistry sequences:</span></td><td class="hourscol">10</td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20122" title="CHEM 122" class="bubblelink code" onclick="return showCourse(this, 'CHEM 122');">CHEM 122</a></div></td><td>General Chemistry I Lecture</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20123" title="CHEM 123" class="bubblelink code" onclick="return showCourse(this, 'CHEM 123');">CHEM 123</a></div></td><td>General Chemistry Laboratory I <sup>b,c</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20124" title="CHEM 124" class="bubblelink code" onclick="return showCourse(this, 'CHEM 124');">CHEM 124</a></div></td><td>General Chemistry II Lecture</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20125" title="CHEM 125" class="bubblelink code" onclick="return showCourse(this, 'CHEM 125');">CHEM 125</a></div></td><td>General Chemistry Laboratory II <sup>b,c</sup></td><td class="hourscol"></td></tr>
+<tr class="odd areaheader "><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment areaheader  commentindent">OR</span></div></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20116" title="CHEM 116" class="bubblelink code" onclick="return showCourse(this, 'CHEM 116');">CHEM 116</a></div></td><td>Honors and Majors General and Analytical Chemistry I <sup>b</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20118" title="CHEM 118" class="bubblelink code" onclick="return showCourse(this, 'CHEM 118');">CHEM 118</a></div></td><td>Honors and Majors General and Analytical Chemistry II <sup>b</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=MATH%20170" title="MATH 170" class="bubblelink code" onclick="return showCourse(this, 'MATH 170');">MATH 170</a></td><td>Calculus for the Life Sciences</td><td class="hourscol">4</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or <a href="/search/?P=MATH%20180" title="MATH 180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH 180</a></td><td colspan="2"> Calculus I</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=PHYS%20131" title="PHYS 131" class="bubblelink code" onclick="return showCourse(this, 'PHYS 131');">PHYS 131</a></td><td>Introductory Physics for Life Sciences I <sup>b</sup></td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=PHYS%20132" title="PHYS 132" class="bubblelink code" onclick="return showCourse(this, 'PHYS 132');">PHYS 132</a></td><td>Introductory Physics for Life Sciences II <sup>b</sup></td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=PSCH%20100" title="PSCH 100" class="bubblelink code" onclick="return showCourse(this, 'PSCH 100');">PSCH 100</a></td><td>Introduction to Psychology <sup>d</sup></td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=PSCH%20242" title="PSCH 242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH 242</a></td><td>Introduction to Research in Psychology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select one course in developmental or abnormal psychology from the following:</span></td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20270" title="PSCH 270" class="bubblelink code" onclick="return showCourse(this, 'PSCH 270');">PSCH 270</a></div></td><td>Abnormal Psychology <sup>d</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20320" title="PSCH 320" class="bubblelink code" onclick="return showCourse(this, 'PSCH 320');">PSCH 320</a></div></td><td>Developmental Psychology</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=KN%20251" title="KN 251" class="bubblelink code" onclick="return showCourse(this, 'KN 251');">KN 251</a></td><td>Human Physiological Anatomy I <sup>e</sup></td><td class="hourscol">5</td></tr>
+<tr class="odd lastrow"><td class="codecol"><a href="/search/?P=KN%20252" title="KN 252" class="bubblelink code" onclick="return showCourse(this, 'KN 252');">KN 252</a></td><td>Human Physiological Anatomy II <sup>e</sup></td><td class="hourscol">5</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">46</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Students completing an undergraduate degree at UIC must complete the General Education requirements. Students should consult the <a href="/ucat/degree-programs/general-education/">General Education</a> section and their college/department sections of the catalog for more information on fulfilling these requirements.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>This course is approved for the Analyzing the Natural World General Education category.</em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>Each of the following pairs of courses will be considered one course in meeting the LAS General Education requirements: <span class="sc_courseinline"><a href="/search/?P=CHEM%20122" title="CHEM 122" class="bubblelink code" onclick="return showCourse(this, 'CHEM 122');">CHEM 122</a></span>/<span class="sc_courseinline"><a href="/search/?P=CHEM%20123" title="CHEM 123" class="bubblelink code" onclick="return showCourse(this, 'CHEM 123');">CHEM 123</a></span>; <span class="sc_courseinline"><a href="/search/?P=CHEM%20124" title="CHEM 124" class="bubblelink code" onclick="return showCourse(this, 'CHEM 124');">CHEM 124</a></span>/<span class="sc_courseinline"><a href="/search/?P=CHEM%20125" title="CHEM 125" class="bubblelink code" onclick="return showCourse(this, 'CHEM 125');">CHEM 125</a></span>.</em></p></td></tr><tr><td valign="top" class="symcol">d</td><td class="notecol"><p><em>This course is approved for the Understanding the Individual and Society General Education category.</em></p></td></tr><tr><td valign="top" class="symcol">e</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=KN%20251" title="KN 251" class="bubblelink code" onclick="return showCourse(this, 'KN 251');">KN 251</a></span>/<span class="sc_courseinline"><a href="/search/?P=KN%20252" title="KN 252" class="bubblelink code" onclick="return showCourse(this, 'KN 252');">KN 252</a></span> sequence begins in the fall semester only.</em></p></td></tr></table>
+<p>In addition, applicants must complete a minimum of 40 hours of documented volunteer or observation experiences in a variety of physical therapy facilities. Current certification in CPR (cardiopulmonary resuscitation) with Health Provider Status is recommended prior to beginning the professional program. Students must also have earned a bachelor’s degree prior to enrolling in the program.</p>
+<p>The minimum GPA for application to the program in physical therapy is 2.50/4.00 in science and nonscience courses. The competitive GPA, however, is considerably above this level. The Graduate Record Examination (GRE) taken within five years of the date of application. Students must apply for admission to the program approximately one year before planned enrollment. Students should call (312) 996-6646 for additional information.</p></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="preprofessional-studies.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

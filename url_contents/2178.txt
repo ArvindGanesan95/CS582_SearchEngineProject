@@ -1,0 +1,675 @@
+https://catalog.uic.edu/all-course-descriptions/eohs/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Environmental and Occupational Health Sciences (EOHS) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="isparent"><a href="/ucat/">Undergraduate Catalog</a></li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="active isparent"><a href="/all-course-descriptions/">All Course Descriptions</a>
+	<ul class="nav levelone" id="/all-course-descriptions/">
+		<li><a href="/all-course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+		<li><a href="/all-course-descriptions/actg/">Accounting (ACTG)</a></li>
+		<li><a href="/all-course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+		<li><a href="/all-course-descriptions/anth/">Anthropology (ANTH)</a></li>
+		<li><a href="/all-course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+		<li><a href="/all-course-descriptions/arab/">Arabic (ARAB)</a></li>
+		<li><a href="/all-course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+		<li><a href="/all-course-descriptions/arch/">Architecture (ARCH)</a></li>
+		<li><a href="/all-course-descriptions/art/">Art (ART)</a></li>
+		<li><a href="/all-course-descriptions/ah/">Art History (AH)</a></li>
+		<li><a href="/all-course-descriptions/bms/">Basic Medical Sciences (BMS)</a></li>
+		<li><a href="/all-course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+		<li><a href="/all-course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+		<li><a href="/all-course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+		<li><a href="/all-course-descriptions/bvis/">Biomedical Visualization (BVIS)</a></li>
+		<li><a href="/all-course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+		<li><a href="/all-course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+		<li><a href="/all-course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+		<li><a href="/all-course-descriptions/blst/">Black Studies (BLST)</a></li>
+		<li><a href="/all-course-descriptions/ba/">Business Administration (BA)</a></li>
+		<li><a href="/all-course-descriptions/cc/">Campus Courses (CC)</a></li>
+		<li><a href="/all-course-descriptions/cst/">Catholic Studies (CST)</a></li>
+		<li><a href="/all-course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+		<li><a href="/all-course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+		<li><a href="/all-course-descriptions/chem/">Chemistry (CHEM)</a></li>
+		<li><a href="/all-course-descriptions/chin/">Chinese (CHIN)</a></li>
+		<li><a href="/all-course-descriptions/cd/">City Design (CD)</a></li>
+		<li><a href="/all-course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+		<li><a href="/all-course-descriptions/cl/">Classics (CL)</a></li>
+		<li><a href="/all-course-descriptions/cler/">Clerkship -&#8203; Medicine (CLER)</a></li>
+		<li><a href="/all-course-descriptions/cele/">Clerkship Electives -&#8203; Chicago (CELE)</a></li>
+		<li><a href="/all-course-descriptions/pele/">Clerkship Electives -&#8203; Peoria (PELE)</a></li>
+		<li><a href="/all-course-descriptions/rele/">Clerkship Electives -&#8203; Rockford (RELE)</a></li>
+		<li><a href="/all-course-descriptions/uele/">Clerkship Electives -&#8203; Urbana (UELE)</a></li>
+		<li><a href="/all-course-descriptions/comm/">Communication (COMM)</a></li>
+		<li><a href="/all-course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+		<li><a href="/all-course-descriptions/cs/">Computer Science (CS)</a></li>
+		<li><a href="/all-course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+		<li><a href="/all-course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+		<li><a href="/all-course-descriptions/dadm/">Dental Administration (DADM)</a></li>
+		<li><a href="/all-course-descriptions/daob/">Dentistry -&#8203; Applied Oral and Behavioral Sciences (DAOB)</a></li>
+		<li><a href="/all-course-descriptions/dbcs/">Dentistry -&#8203; Biomedical and Clinical Sciences (DBCS)</a></li>
+		<li><a href="/all-course-descriptions/dcle/">Dentistry -&#8203; Community Learning Experience (DCLE)</a></li>
+		<li><a href="/all-course-descriptions/dosi/">Dentistry -&#8203; Oral/&#8203;Systemic Issues (DOSI)</a></li>
+		<li><a href="/all-course-descriptions/dost/">Dentistry -&#8203; Oral/&#8203;Systemic Topics (DOST)</a></li>
+		<li><a href="/all-course-descriptions/des/">Design (DES)</a></li>
+		<li><a href="/all-course-descriptions/dlg/">Dialogue (DLG)</a></li>
+		<li><a href="/all-course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+		<li><a href="/all-course-descriptions/mdc/">Doctor of Medicine—Chicago (MDC)</a></li>
+		<li><a href="/all-course-descriptions/mdp/">Doctor of Medicine—Peoria (MDP)</a></li>
+		<li><a href="/all-course-descriptions/mdr/">Doctor of Medicine—Rockford (MDR)</a></li>
+		<li><a href="/all-course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+		<li><a href="/all-course-descriptions/econ/">Economics (ECON)</a></li>
+		<li><a href="/all-course-descriptions/ed/">Education (ED)</a></li>
+		<li><a href="/all-course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+		<li><a href="/all-course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+		<li><a href="/all-course-descriptions/ece/">Electrical and Computer Engineering (ECE)</a></li>
+		<li><a href="/all-course-descriptions/eb/">Employee Benefits (EB)</a></li>
+		<li><a href="/all-course-descriptions/endo/">Endodontics (ENDO)</a></li>
+		<li><a href="/all-course-descriptions/ener/">Energy Engineering (ENER)</a></li>
+		<li><a href="/all-course-descriptions/engr/">Engineering (ENGR)</a></li>
+		<li><a href="/all-course-descriptions/engl/">English (ENGL)</a></li>
+		<li><a href="/all-course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+		<li><a href="/all-course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+		<li class="active self"><a href="#" onclick="return false;">Environmental and Occupational Health Sciences (EOHS)</a></li>
+		<li><a href="/all-course-descriptions/epid/">Epidemiology (EPID)</a></li>
+		<li><a href="/all-course-descriptions/epl/">Estate Planning (EPL)</a></li>
+		<li><a href="/all-course-descriptions/fin/">Finance (FIN)</a></li>
+		<li><a href="/all-course-descriptions/fr/">French (FR)</a></li>
+		<li><a href="/all-course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+		<li><a href="/all-course-descriptions/geog/">Geography (GEOG)</a></li>
+		<li><a href="/all-course-descriptions/ger/">Germanic Studies (GER)</a></li>
+		<li><a href="/all-course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+		<li><a href="/all-course-descriptions/gc/">Graduate College (GC)</a></li>
+		<li><a href="/all-course-descriptions/gems/">Graduate Education in Medical Sciences (GEMS)</a></li>
+		<li><a href="/all-course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+		<li><a href="/all-course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+		<li><a href="/all-course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+		<li><a href="/all-course-descriptions/him/">Health Information Management (HIM)</a></li>
+		<li><a href="/all-course-descriptions/hpa/">Health Policy and Administration (HPA)</a></li>
+		<li><a href="/all-course-descriptions/hlp/">Healthy Living Practitioner™ (HLP)</a></li>
+		<li><a href="/all-course-descriptions/heb/">Hebrew (HEB)</a></li>
+		<li><a href="/all-course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+		<li><a href="/all-course-descriptions/hstl/">Histology (HSTL)</a></li>
+		<li><a href="/all-course-descriptions/hist/">History (HIST)</a></li>
+		<li><a href="/all-course-descriptions/hon/">Honors College (HON)</a></li>
+		<li><a href="/all-course-descriptions/hn/">Human Nutrition (HN)</a></li>
+		<li><a href="/all-course-descriptions/hum/">Humanities (HUM)</a></li>
+		<li><a href="/all-course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+		<li><a href="/all-course-descriptions/it/">Information Technology (IT)</a></li>
+		<li><a href="/all-course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+		<li><a href="/all-course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+		<li><a href="/all-course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+		<li><a href="/all-course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+		<li><a href="/all-course-descriptions/ip/">Intellectual Property (IP)</a></li>
+		<li><a href="/all-course-descriptions/ibt/">International Business and Trade (IBT)</a></li>
+		<li><a href="/all-course-descriptions/inst/">International Studies (INST)</a></li>
+		<li><a href="/all-course-descriptions/ital/">Italian (ITAL)</a></li>
+		<li><a href="/all-course-descriptions/jpn/">Japanese (JPN)</a></li>
+		<li><a href="/all-course-descriptions/jst/">Jewish Studies (JST)</a></li>
+		<li><a href="/all-course-descriptions/jd/">Juris Doctor (JD)</a></li>
+		<li><a href="/all-course-descriptions/kn/">Kinesiology (KN)</a></li>
+		<li><a href="/all-course-descriptions/kor/">Korean (KOR)</a></li>
+		<li><a href="/all-course-descriptions/lat/">Latin (LAT)</a></li>
+		<li><a href="/all-course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+		<li><a href="/all-course-descriptions/law/">Law (LAW)</a></li>
+		<li><a href="/all-course-descriptions/lrsc/">Learning Sciences (LRSC)</a></li>
+		<li><a href="/all-course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+		<li><a href="/all-course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+		<li><a href="/all-course-descriptions/ling/">Linguistics (LING)</a></li>
+		<li><a href="/all-course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+		<li><a href="/all-course-descriptions/lith/">Lithuanian (LITH)</a></li>
+		<li><a href="/all-course-descriptions/mgmt/">Management (MGMT)</a></li>
+		<li><a href="/all-course-descriptions/mktg/">Marketing (MKTG)</a></li>
+		<li><a href="/all-course-descriptions/mba/">Master of Business Administration (MBA)</a></li>
+		<li><a href="/all-course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+		<li><a href="/all-course-descriptions/mj/">Master of Jurisprudence (MJ)</a></li>
+		<li><a href="/all-course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+		<li><a href="/all-course-descriptions/math/">Mathematics (MATH)</a></li>
+		<li><a href="/all-course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+		<li><a href="/all-course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+		<li><a href="/all-course-descriptions/mbt/">Medical Biotechnology (MBT)</a></li>
+		<li><a href="/all-course-descriptions/mhpe/">Medical Education (MHPE)</a></li>
+		<li><a href="/all-course-descriptions/mhum/">Medical Humanities (MHUM)</a></li>
+		<li><a href="/all-course-descriptions/mdch/">Medicinal Chemistry (MDCH)</a></li>
+		<li><a href="/all-course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+		<li><a href="/all-course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+		<li><a href="/all-course-descriptions/mils/">Military Science (MILS)</a></li>
+		<li><a href="/all-course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+		<li><a href="/all-course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+		<li><a href="/all-course-descriptions/mus/">Music (MUS)</a></li>
+		<li><a href="/all-course-descriptions/nast/">Native American Studies (NAST)</a></li>
+		<li><a href="/all-course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+		<li><a href="/all-course-descriptions/ns/">Naval Science (NS)</a></li>
+		<li><a href="/all-course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+		<li><a href="/all-course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+		<li><a href="/all-course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+		<li><a href="/all-course-descriptions/nupr/">Nursing Practicum (NUPR)</a></li>
+		<li><a href="/all-course-descriptions/nusp/">Nursing Specialty (NUSP)</a></li>
+		<li><a href="/all-course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+		<li><a href="/all-course-descriptions/omds/">Oral Medicine and Diagnostic Sciences (OMDS)</a></li>
+		<li><a href="/all-course-descriptions/osci/">Oral Sciences (OSCI)</a></li>
+		<li><a href="/all-course-descriptions/osur/">Oral and Maxillofacial Surgery (OSUR)</a></li>
+		<li><a href="/all-course-descriptions/ortd/">Orthodontics (ORTD)</a></li>
+		<li><a href="/all-course-descriptions/path/">Pathology (PATH)</a></li>
+		<li><a href="/all-course-descriptions/psl/">Patient Safety Leadership (PSL)</a></li>
+		<li><a href="/all-course-descriptions/pedd/">Pediatric Dentistry (PEDD)</a></li>
+		<li><a href="/all-course-descriptions/peri/">Periodontics (PERI)</a></li>
+		<li><a href="/all-course-descriptions/psci/">Pharmaceutical Sciences (PSCI)</a></li>
+		<li><a href="/all-course-descriptions/pmpg/">Pharmacognosy (PMPG)</a></li>
+		<li><a href="/all-course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+		<li><a href="/all-course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+		<li><a href="/all-course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+		<li><a href="/all-course-descriptions/psop/">Pharmacy Systems, Outcomes, and Policy (PSOP)</a></li>
+		<li><a href="/all-course-descriptions/phil/">Philosophy (PHIL)</a></li>
+		<li><a href="/all-course-descriptions/pt/">Physical Therapy (PT)</a></li>
+		<li><a href="/all-course-descriptions/phys/">Physics (PHYS)</a></li>
+		<li><a href="/all-course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+		<li><a href="/all-course-descriptions/pol/">Polish (POL)</a></li>
+		<li><a href="/all-course-descriptions/pols/">Political Science (POLS)</a></li>
+		<li><a href="/all-course-descriptions/port/">Portuguese (PORT)</a></li>
+		<li><a href="/all-course-descriptions/prcl/">Preclinical Medicine (PRCL)</a></li>
+		<li><a href="/all-course-descriptions/ptl/">Privacy and Technology Law (PTL)</a></li>
+		<li><a href="/all-course-descriptions/pros/">Prosthodontics (PROS)</a></li>
+		<li><a href="/all-course-descriptions/psch/">Psychology (PSCH)</a></li>
+		<li><a href="/all-course-descriptions/pa/">Public Administration (PA)</a></li>
+		<li><a href="/all-course-descriptions/pubh/">Public Health (PUBH)</a></li>
+		<li><a href="/all-course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+		<li><a href="/all-course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+		<li><a href="/all-course-descriptions/re/">Real Estate (RE)</a></li>
+		<li><a href="/all-course-descriptions/rels/">Religious Studies (RELS)</a></li>
+		<li><a href="/all-course-descriptions/rest/">Restorative Dentistry (REST)</a></li>
+		<li><a href="/all-course-descriptions/russ/">Russian (RUSS)</a></li>
+		<li><a href="/all-course-descriptions/slav/">Slavic and Baltic Languages and Literatures (SLAV)</a></li>
+		<li><a href="/all-course-descriptions/sj/">Social Justice (SJ)</a></li>
+		<li><a href="/all-course-descriptions/socw/">Social Work (SOCW)</a></li>
+		<li><a href="/all-course-descriptions/soc/">Sociology (SOC)</a></li>
+		<li><a href="/all-course-descriptions/span/">Spanish (SPAN)</a></li>
+		<li><a href="/all-course-descriptions/sped/">Special Education (SPED)</a></li>
+		<li><a href="/all-course-descriptions/spec/">Specialty Medicine (SPEC)</a></li>
+		<li><a href="/all-course-descriptions/stat/">Statistics (STAT)</a></li>
+		<li><a href="/all-course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+		<li><a href="/all-course-descriptions/surg/">Surgery (SURG)</a></li>
+		<li><a href="/all-course-descriptions/tx/">Taxation (TX)</a></li>
+		<li><a href="/all-course-descriptions/thtr/">Theatre (THTR)</a></li>
+		<li><a href="/all-course-descriptions/tadr/">Trial Advocacy and Dispute Resolution (TADR)</a></li>
+		<li><a href="/all-course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+		<li><a href="/all-course-descriptions/us/">Urban Studies (US)</a></li>
+		<li><a href="/all-course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+		<li><a href="/all-course-descriptions/usl/">US Legal Studies (USL)</a></li>
+	</ul>
+	</li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/all-course-descriptions/">All&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Environmental and Occupational Health Sciences (EOHS)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Environmental and Occupational Health Sciences (EOHS)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="eohscourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;400.  Principles of Environmental Health Sciences.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Environmental influences on health: population, food, energy; community hygiene and injury control; solid/hazardous wastes, air and water pollution, radiation; industrial hygiene and occupational health. Course Information: Prerequisite(s): Enrollment restricted to public health students; other graduate, professional and advanced undergraduate students admitted by consent as space permits. To obtain consent, see the SPH registrar.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;401.  Ethics and Justice in Environmental and Occupational Health.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to ethical principles relevant to environmental and occupational health and application of these principles to analyze and interpret environmental and occupational health problems and advocate for social and environmental justice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;402.  Systems Approach in Environmental and Occupational Health.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces and applies systems approaches to anticipate, asses and solve environmental and occupational health problems. Course Information: Recommended background: <a href="/search/?P=EOHS%20401" title="EOHS&#160;401" class="bubblelink code" onclick="return showCourse(this, 'EOHS 401');">EOHS&#160;401</a> and <a href="/search/?P=IPHS%20401" title="IPHS&#160;401" class="bubblelink code" onclick="return showCourse(this, 'IPHS 401');">IPHS&#160;401</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;405.  Environmental Calculations.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Problem solving techniques as applied to environmental and occupational health: dimensional analysis, mass and energy balances, trial and error solutions, numerical and graphical techniques.  Course Information:  Recommended background:  Mathematics through calculus, college physics and chemistry.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;406.  Public Health Emergency Preparedness and Response.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Provides an overview of and introduction to public health emergency preparedness concepts and practice. Course Information: Same as <a href="/search/?P=EOHS%20406" title="EOHS&#160;406" class="bubblelink code" onclick="return showCourse(this, 'EOHS 406');">EOHS&#160;406</a>. Prerequisite(s): Graduate or professional standing.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;408.  Biological, Chemical, Explosives, and Nuclear Weapons as Public Health Threats.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Preparation, understanding of threats, and rescue &amp; response issues pertaining to potential terrorist incidents from a public health perspective.  Course Information:  Same as <a href="/search/?P=EPID%20408" title="EPID&#160;408" class="bubblelink code" onclick="return showCourse(this, 'EPID 408');">EPID&#160;408</a>.  Prerequisite(s):  Graduate or professional standing; or consent of the instructor.  Recommended background:  <a href="/search/?P=EOHS%20400" title="EOHS&#160;400" class="bubblelink code" onclick="return showCourse(this, 'EOHS 400');">EOHS&#160;400</a> and <a href="/search/?P=EPID%20410" title="EPID&#160;410" class="bubblelink code" onclick="return showCourse(this, 'EPID 410');">EPID&#160;410</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;411.  Water Quality Management.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Water pollution; historical and current developments in problems and solutions: characterization of pollutants, regulatory framework, risk assessment, standards, modeling,  water purification, public health concerns. Course Information: Prerequisite(s): Taught online. Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;418.  Water Quality Analysis in Public Health.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Basic instrumentation and procedures related to measurement and surveillance of health-related water quality parameters and associated regulations.Course Information:
+Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=EOHS%20401" title="EOHS&#160;401" class="bubblelink code" onclick="return showCourse(this, 'EOHS 401');">EOHS&#160;401</a> and credit or concurrent registration in <a href="/search/?P=EOHS%20402" title="EOHS&#160;402" class="bubblelink code" onclick="return showCourse(this, 'EOHS 402');">EOHS&#160;402</a>; or consent of the instructor. Class Schedule Information: To be properly registered, students must enroll in one Laboratory and one Lecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;421.  Occupational Health and Safety Practice.  2 hours.</strong></p>
+<p class="courseblockdesc">
+An overview of the historical background, basic principles, practical tools and strategies for recognizing, evaluating and controlling chemical, biological and physical agents in the workplace. Course Information: Prerequisite(s): <a href="/search/?P=EOHS%20400" title="EOHS&#160;400" class="bubblelink code" onclick="return showCourse(this, 'EOHS 400');">EOHS&#160;400</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;424.  Evaluation and Control of Radiation Exposures.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Introduces students to the principles of radiation, exposure and health outcomes, and appropriate control strategies. Course Information: Recommended background: <a href="/search/?P=EOHS%20401" title="EOHS&#160;401" class="bubblelink code" onclick="return showCourse(this, 'EOHS 401');">EOHS&#160;401</a> and <a href="/search/?P=EOHS%20402" title="EOHS&#160;402" class="bubblelink code" onclick="return showCourse(this, 'EOHS 402');">EOHS&#160;402</a> and <a href="/search/?P=EOHS%20421" title="EOHS&#160;421" class="bubblelink code" onclick="return showCourse(this, 'EOHS 421');">EOHS&#160;421</a> and <a href="/search/?P=EOHS%20425" title="EOHS&#160;425" class="bubblelink code" onclick="return showCourse(this, 'EOHS 425');">EOHS&#160;425</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;425.  Evaluation and Control of Physical Agents.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Theory and methodology in assessing and controlling exposure to physical agents (noise, thermal hazards, barometric hazards and vibration) in the occupational environment. Course Information:
+Recommended background: Credit or concurrent registration in <a href="/search/?P=EOHS%20401" title="EOHS&#160;401" class="bubblelink code" onclick="return showCourse(this, 'EOHS 401');">EOHS&#160;401</a> and <a href="/search/?P=EOHS%20402" title="EOHS&#160;402" class="bubblelink code" onclick="return showCourse(this, 'EOHS 402');">EOHS&#160;402</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;426.  Evaluation and Control of Airborne Contaminants.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Measurement and modeling methods are used to characterize exposures to airborne contaminants and control strategies. Class Information: To be properly registered, students must enroll in one Lecture-Discussion and one Laboratory.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;427.  Evaluation and Control of the Psychosocial Work Environment.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Theory and methodology in assessing and controlling psychosocial stressors in the occupational environment.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;428.  Industrial Hygiene Laboratory I.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Detailed methods and experiments for measuring chemical, biological, and physical agents; and methods for evaluating the effectiveness of control measures. Course Information: Prerequisite(s): <a href="/search/?P=EOHS%20400" title="EOHS&#160;400" class="bubblelink code" onclick="return showCourse(this, 'EOHS 400');">EOHS&#160;400</a> and <a href="/search/?P=EOHS%20405" title="EOHS&#160;405" class="bubblelink code" onclick="return showCourse(this, 'EOHS 405');">EOHS&#160;405</a> and <a href="/search/?P=EOHS%20421" title="EOHS&#160;421" class="bubblelink code" onclick="return showCourse(this, 'EOHS 421');">EOHS&#160;421</a>, or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory-Discussion and one Lecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;432.  Air Quality Assessment and Management.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Scientific theory and methods to measure and model air quality for the purpose of managing the protection of the environment and the health of the public. Course Information: Credit is not given for <a href="/search/?P=EOHS%20432" title="EOHS&#160;432" class="bubblelink code" onclick="return showCourse(this, 'EOHS 432');">EOHS&#160;432</a> if the student has credit in EOHS 431 or EOHS 438. Prerequisite(s): <a href="/search/?P=EOHS%20405" title="EOHS&#160;405" class="bubblelink code" onclick="return showCourse(this, 'EOHS 405');">EOHS&#160;405</a>; or consent of the instructor. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Laboratory.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;436.  GIS for Environmental and Public Health Professionals.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Aims to promote a critical understanding of the basic practices and techniques associated with GIS applications in the environmental and public health areas. Course Information: Same as <a href="/search/?P=HPA%20436" title="HPA&#160;436" class="bubblelink code" onclick="return showCourse(this, 'HPA 436');">HPA&#160;436</a>. Online course. Prerequisite(s): Students outside of EOHS must seek consent of the instructor. Corequisites: <a href="/search/?P=EOHS%20475" title="EOHS&#160;475" class="bubblelink code" onclick="return showCourse(this, 'EOHS 475');">EOHS&#160;475</a> / <a href="/search/?P=HPA%20480" title="HPA&#160;480" class="bubblelink code" onclick="return showCourse(this, 'HPA 480');">HPA&#160;480</a>. Recommended background: Computer skills (knowledge of Excel is a minimum) and a strong quantitative background. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;440.  Chemistry for Environmental Professionals.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introductory atmospheric chemistry, aspects of air pollution, chemistry related to natural water and water treatment; priority organic pollutants and heavy metals. Course Information: Same as <a href="/search/?P=CME%20411" title="CME&#160;411" class="bubblelink code" onclick="return showCourse(this, 'CME 411');">CME&#160;411</a>. Prerequisite(s): One year of college chemistry.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;441.  Ergonomics and Human Factors.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+The study of principles and techniques associated with ergonomic problems. Topics include human information input and processing, human output and control, and ergonomic considerations in safety. Course Information: Same as <a href="/search/?P=IE%20441" title="IE&#160;441" class="bubblelink code" onclick="return showCourse(this, 'IE 441');">IE&#160;441</a>. 3 undergraduate hours; 4 graduate hours. Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=IE%20342" title="IE&#160;342" class="bubblelink code" onclick="return showCourse(this, 'IE 342');">IE&#160;342</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;455.  Environmental and Occupational Toxicology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+General and applied toxicology as it relates to environmental and occupational exposures to hazardous agents. Emphasis on basic principles, specific types of toxicity, and major classes of toxic agents. Course Information: Prerequisite(s): <a href="/search/?P=CHEM%20232" title="CHEM&#160;232" class="bubblelink code" onclick="return showCourse(this, 'CHEM 232');">CHEM&#160;232</a> and <a href="/search/?P=CHEM%20234" title="CHEM&#160;234" class="bubblelink code" onclick="return showCourse(this, 'CHEM 234');">CHEM&#160;234</a> and BIOS 100 or the equivalent courses and senior standing or above or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;460.  Safety Engineering.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Human protection systems; accident and emergency handling; manufacturing and service hazard systems. Course Information: Same as <a href="/search/?P=IE%20461" title="IE&#160;461" class="bubblelink code" onclick="return showCourse(this, 'IE 461');">IE&#160;461</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=IE%20342" title="IE&#160;342" class="bubblelink code" onclick="return showCourse(this, 'IE 342');">IE&#160;342</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;461.  Environmental Public Health Practice.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Taught primarily from a field perspective. Despite student's background and career pursuit, the knowledge acquired from this course will provide some value to student's career and personal life. Course Information: Prerequisite(s): Completion of the MPH Integrated Core or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;463.  Safety Management Systems.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to practical aspects of initiating a safety program in a moderately sized production plant. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;472.  Management of Solid and Hazardous Wastes.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Management of solid and hazardous waste, including radioactive waste: landfills, incineration, recycling, composting, source reduction, groundwater and air pollution impacts, control, regulations, siting, health impacts. Course Information: Same as <a href="/search/?P=CME%20423" title="CME&#160;423" class="bubblelink code" onclick="return showCourse(this, 'CME 423');">CME&#160;423</a>, and <a href="/search/?P=GEOG%20444" title="GEOG&#160;444" class="bubblelink code" onclick="return showCourse(this, 'GEOG 444');">GEOG&#160;444</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;475.  Health Related Database Design and Analysis.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces students to the design and analysis of health related relational and spatial databases. Course Information: Same as <a href="/search/?P=HPA%20480" title="HPA&#160;480" class="bubblelink code" onclick="return showCourse(this, 'HPA 480');">HPA&#160;480</a>. Extensive computer use required. Taught online only. Prerequisite(s): Consent of the instructor. Recommended Background: Strong quantitative background recommended.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;480.  Environmental and Occupational Health Policy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the framework for policymaking in the realm of occupational and environmental health.  Focus is on the role of economics, legal/regulatory processes, and ethical issues.  Cross-cultural and international differences will be explored. Course Information: Prerequisite(s): Graduate or professional standing; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;494.  Special Topics in Environmental Health.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Environmental/occupational topics of current importance to public health: pollution, industrial hygiene, and related topics. Variable course contents arranged to supplement the existing curriculum. Course Information: May be repeated. Students may register in more than one section per term. Undergraduate students with advanced standing may register with consent of the instructor. Undergraduate students with advanced standing may register with consent of the instructor. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;495.  Environmental/Occupational Health Seminar.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Discussions of current environmental health and occupational health topics, with presentations by students, faculty members and visiting scientists.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;501.  Exposure Assessment Strategies.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Statistical, mathematical and conceptual methods for the assessment of individual and population exposures to occupational and environmental stressors. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=IPHS%20402" title="IPHS&#160;402" class="bubblelink code" onclick="return showCourse(this, 'IPHS 402');">IPHS&#160;402</a> or <a href="/search/?P=BSTT%20400" title="BSTT&#160;400" class="bubblelink code" onclick="return showCourse(this, 'BSTT 400');">BSTT&#160;400</a> or <a href="/search/?P=IPHS%20404" title="IPHS&#160;404" class="bubblelink code" onclick="return showCourse(this, 'IPHS 404');">IPHS&#160;404</a>; and <a href="/search/?P=IPHS%20405" title="IPHS&#160;405" class="bubblelink code" onclick="return showCourse(this, 'IPHS 405');">IPHS&#160;405</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;502.  Environment, Toxicology, and Disease.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Covers the mechanisms and pathways by which hazards in the workplace and ambient environment cause illness and injury. Fundamentals of: a) toxicology and pathophysiology; b) detection; c) prevention; and d) current research will be the focus. Course Information: Recommended background: <a href="/search/?P=EOHS%20401" title="EOHS&#160;401" class="bubblelink code" onclick="return showCourse(this, 'EOHS 401');">EOHS&#160;401</a> and <a href="/search/?P=EOHS%20402" title="EOHS&#160;402" class="bubblelink code" onclick="return showCourse(this, 'EOHS 402');">EOHS&#160;402</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;503.  Occupational Safety.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces students to occupational safety risks and control strategies for eliminating or managing these risks. Course Information: Prerequisite(s): <a href="/search/?P=EOHS%20401" title="EOHS&#160;401" class="bubblelink code" onclick="return showCourse(this, 'EOHS 401');">EOHS&#160;401</a> and <a href="/search/?P=EOHS%20402" title="EOHS&#160;402" class="bubblelink code" onclick="return showCourse(this, 'EOHS 402');">EOHS&#160;402</a> and <a href="/search/?P=EOHS%20421" title="EOHS&#160;421" class="bubblelink code" onclick="return showCourse(this, 'EOHS 421');">EOHS&#160;421</a>. Recommended Background: <a href="/search/?P=EOHS%20425" title="EOHS&#160;425" class="bubblelink code" onclick="return showCourse(this, 'EOHS 425');">EOHS&#160;425</a> and <a href="/search/?P=EOHS%20504" title="EOHS&#160;504" class="bubblelink code" onclick="return showCourse(this, 'EOHS 504');">EOHS&#160;504</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;504.  Occupational Ergonomics and Biomechanics.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Problem-based study of the principles of occupational ergonomics, exposure and health outcomes, and appropriate control strategies. Course Information: Recommended Background: <a href="/search/?P=EOHS%20401" title="EOHS&#160;401" class="bubblelink code" onclick="return showCourse(this, 'EOHS 401');">EOHS&#160;401</a> and <a href="/search/?P=EOHS%20402" title="EOHS&#160;402" class="bubblelink code" onclick="return showCourse(this, 'EOHS 402');">EOHS&#160;402</a> and <a href="/search/?P=EOHS%20421" title="EOHS&#160;421" class="bubblelink code" onclick="return showCourse(this, 'EOHS 421');">EOHS&#160;421</a> and <a href="/search/?P=EOHS%20425" title="EOHS&#160;425" class="bubblelink code" onclick="return showCourse(this, 'EOHS 425');">EOHS&#160;425</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;506.  Public Health and Healthcare Emergency Response and Management Operations.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on response and management skills for public health and healthcare emergency operations with a focus on the assessment tools, concepts, strategies and methodologies used emergency preparedness and response activities. Prerequisite(s): <a href="/search/?P=EOHS%20406" title="EOHS&#160;406" class="bubblelink code" onclick="return showCourse(this, 'EOHS 406');">EOHS&#160;406</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;511.  Current Challenges in Water and Health.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on emerging and re-emerging waterborne threats to public health locally and globally, and new approaches to addressing these threats. Course Information: Prerequisite(s): <a href="/search/?P=EOHS%20401" title="EOHS&#160;401" class="bubblelink code" onclick="return showCourse(this, 'EOHS 401');">EOHS&#160;401</a> and <a href="/search/?P=EOHS%20402" title="EOHS&#160;402" class="bubblelink code" onclick="return showCourse(this, 'EOHS 402');">EOHS&#160;402</a> and <a href="/search/?P=EOHS%20411" title="EOHS&#160;411" class="bubblelink code" onclick="return showCourse(this, 'EOHS 411');">EOHS&#160;411</a>; or <a href="/search/?P=EOHS%20418" title="EOHS&#160;418" class="bubblelink code" onclick="return showCourse(this, 'EOHS 418');">EOHS&#160;418</a> or <a href="/search/?P=EOHS%20553" title="EOHS&#160;553" class="bubblelink code" onclick="return showCourse(this, 'EOHS 553');">EOHS&#160;553</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;512.  Advanced Water Quality Management Topics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Water quality management course examining drinking water quality and contaminant discharge topics.  Risk assessment methodologies are applied for deriving optimal decisions. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=EOHS%20411" title="EOHS&#160;411" class="bubblelink code" onclick="return showCourse(this, 'EOHS 411');">EOHS&#160;411</a> or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;521.  Aerosol Science and Technology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced technical skills and theory of aerosol physics required for characterizing aerosol behavior, fate and transport, and measurement considerations in occupational/environmental settings. Course Information: Prerequisite(s): <a href="/search/?P=EOHS%20421" title="EOHS&#160;421" class="bubblelink code" onclick="return showCourse(this, 'EOHS 421');">EOHS&#160;421</a> and <a href="/search/?P=EOHS%20428" title="EOHS&#160;428" class="bubblelink code" onclick="return showCourse(this, 'EOHS 428');">EOHS&#160;428</a>; or consent of the instructor. Recommended background: Two semesters of college-level physics.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;529.  Applied Industrial Hygiene and Safety.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Application of methods and best practices in assessing and controlling health and safety hazards in the occupational environment. Course Information: 2 hours. Prerequisite(s): <a href="/search/?P=EOHS%20405" title="EOHS&#160;405" class="bubblelink code" onclick="return showCourse(this, 'EOHS 405');">EOHS&#160;405</a> and <a href="/search/?P=EOHS%20421" title="EOHS&#160;421" class="bubblelink code" onclick="return showCourse(this, 'EOHS 421');">EOHS&#160;421</a> and <a href="/search/?P=EOHS%20428" title="EOHS&#160;428" class="bubblelink code" onclick="return showCourse(this, 'EOHS 428');">EOHS&#160;428</a>; and consent of the instructor. Class Schedule Information: To be properly registered, students must enroll in one Discussion and one Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;530.  Current Topics in Occupational and Environmental Epidemiology.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Reviews the literature on health effects of environmental and occupational exposures and integrates our current knowledge with relevant policy issues. Course Information: Same as <a href="/search/?P=EPID%20530" title="EPID&#160;530" class="bubblelink code" onclick="return showCourse(this, 'EPID 530');">EPID&#160;530</a>. Meets eight weeks of the semester. Prerequisite(s): <a href="/search/?P=EPID%20403" title="EPID&#160;403" class="bubblelink code" onclick="return showCourse(this, 'EPID 403');">EPID&#160;403</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;532.  Air Quality Management II.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Air quality management: Integration of diverse aspects. Data interpretation; standards setting; policy implementation; equipment design; hazardous spill modeling; indoor air pollution; case studies. Course Information: Same as <a href="/search/?P=CME%20526" title="CME&#160;526" class="bubblelink code" onclick="return showCourse(this, 'CME 526');">CME&#160;526</a>. Prerequisite(s): EOHS 431 or <a href="/search/?P=CME%20419" title="CME&#160;419" class="bubblelink code" onclick="return showCourse(this, 'CME 419');">CME&#160;419</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;535.  Applied Methods in Occupational Epidemiology.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Provides students with knowledge of the study designs, measures, and experience in applying statistical methods commonly used in occupational epidemiology. Includes didactic lectures and case studies. Course Information: Same as <a href="/search/?P=EPID%20535" title="EPID&#160;535" class="bubblelink code" onclick="return showCourse(this, 'EPID 535');">EPID&#160;535</a>. Extensive computer use required. Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=EPID%20404" title="EPID&#160;404" class="bubblelink code" onclick="return showCourse(this, 'EPID 404');">EPID&#160;404</a> and <a href="/search/?P=EPID%20406" title="EPID&#160;406" class="bubblelink code" onclick="return showCourse(this, 'EPID 406');">EPID&#160;406</a> and <a href="/search/?P=BSTT%20401" title="BSTT&#160;401" class="bubblelink code" onclick="return showCourse(this, 'BSTT 401');">BSTT&#160;401</a>; and graduate or professional standing; or consent of the instructor. Recommended background: <a href="/search/?P=EOHS%20400" title="EOHS&#160;400" class="bubblelink code" onclick="return showCourse(this, 'EOHS 400');">EOHS&#160;400</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;536.  Applied Methods in Environmental Epidemiology.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Provides students with experience in environmental epidemiology methodology through review of literature; discussion of study design and analysis; and analysis of existing data from the National Health and Nutrition Examination Survey. Course Information: Same as <a href="/search/?P=EPID%20536" title="EPID&#160;536" class="bubblelink code" onclick="return showCourse(this, 'EPID 536');">EPID&#160;536</a>. Extensive computer use required. Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=EPID%20404" title="EPID&#160;404" class="bubblelink code" onclick="return showCourse(this, 'EPID 404');">EPID&#160;404</a> and <a href="/search/?P=EPID%20406" title="EPID&#160;406" class="bubblelink code" onclick="return showCourse(this, 'EPID 406');">EPID&#160;406</a> and Credit or concurrent registration in <a href="/search/?P=BSTT%20401" title="BSTT&#160;401" class="bubblelink code" onclick="return showCourse(this, 'BSTT 401');">BSTT&#160;401</a>; and graduate or professional standing; or consent of the instructor. Recommended background: Credit or concurrent registration in <a href="/search/?P=EOHS%20400" title="EOHS&#160;400" class="bubblelink code" onclick="return showCourse(this, 'EOHS 400');">EOHS&#160;400</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;542.  Water Chemistry.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Chemical equilibria and kinetic principles as applied to processes occurring in natural and engineered water systems. Course Information: Same as <a href="/search/?P=CME%20524" title="CME&#160;524" class="bubblelink code" onclick="return showCourse(this, 'CME 524');">CME&#160;524</a>. Prerequisite(s): <a href="/search/?P=EOHS%20440" title="EOHS&#160;440" class="bubblelink code" onclick="return showCourse(this, 'EOHS 440');">EOHS&#160;440</a> or <a href="/search/?P=CME%20411" title="CME&#160;411" class="bubblelink code" onclick="return showCourse(this, 'CME 411');">CME&#160;411</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;543.  Environmental Organic Chemistry.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Properties and behavior of environmental organic pollutants. Theory and estimation techniques. Concepts of environmental fate assessment. Applications of fate models. Course Information: Same as <a href="/search/?P=CME%20523" title="CME&#160;523" class="bubblelink code" onclick="return showCourse(this, 'CME 523');">CME&#160;523</a>. Prerequisite(s): <a href="/search/?P=EOHS%20440" title="EOHS&#160;440" class="bubblelink code" onclick="return showCourse(this, 'EOHS 440');">EOHS&#160;440</a> or <a href="/search/?P=CME%20411" title="CME&#160;411" class="bubblelink code" onclick="return showCourse(this, 'CME 411');">CME&#160;411</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;551.  Occupational and Environmental Disease.  3 hours.</strong></p>
+<p class="courseblockdesc">
+In this course students will learn about diseases that arise due in part to physical, chemical, and biological hazards  in the workplace and the general environment. Course Information: Prerequisite(s): <a href="/search/?P=EOHS%20400" title="EOHS&#160;400" class="bubblelink code" onclick="return showCourse(this, 'EOHS 400');">EOHS&#160;400</a>; and <a href="/search/?P=EPID%20403" title="EPID&#160;403" class="bubblelink code" onclick="return showCourse(this, 'EPID 403');">EPID&#160;403</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;553.  Global Environmental Health.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Examines the major current issues in occupational and environmental health and their policy solutions.  Course Information: Prerequisite(s): <a href="/search/?P=IPHS%20401" title="IPHS&#160;401" class="bubblelink code" onclick="return showCourse(this, 'IPHS 401');">IPHS&#160;401</a> and <a href="/search/?P=IPHS%20402" title="IPHS&#160;402" class="bubblelink code" onclick="return showCourse(this, 'IPHS 402');">IPHS&#160;402</a> and <a href="/search/?P=IPHS%20403" title="IPHS&#160;403" class="bubblelink code" onclick="return showCourse(this, 'IPHS 403');">IPHS&#160;403</a>; or <a href="/search/?P=IPHS%20401" title="IPHS&#160;401" class="bubblelink code" onclick="return showCourse(this, 'IPHS 401');">IPHS&#160;401</a> and <a href="/search/?P=IPHS%20403" title="IPHS&#160;403" class="bubblelink code" onclick="return showCourse(this, 'IPHS 403');">IPHS&#160;403</a> and <a href="/search/?P=IPHS%20404" title="IPHS&#160;404" class="bubblelink code" onclick="return showCourse(this, 'IPHS 404');">IPHS&#160;404</a> and <a href="/search/?P=IPHS%20405" title="IPHS&#160;405" class="bubblelink code" onclick="return showCourse(this, 'IPHS 405');">IPHS&#160;405</a>; or consent of the instructor. Recommended background: <a href="/search/?P=EOHS%20411" title="EOHS&#160;411" class="bubblelink code" onclick="return showCourse(this, 'EOHS 411');">EOHS&#160;411</a> and <a href="/search/?P=EOHS%20418" title="EOHS&#160;418" class="bubblelink code" onclick="return showCourse(this, 'EOHS 418');">EOHS&#160;418</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;554.  Occupational and Environmental Epidemiology.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Methods and issues of environmental epidemiology: outbreak, clusteranalysis, cross-sectional, case-control, cohort, ecological, and time series designs; contemporary issues: cancer and reproductive hazards. Course Information: Same as <a href="/search/?P=EPID%20554" title="EPID&#160;554" class="bubblelink code" onclick="return showCourse(this, 'EPID 554');">EPID&#160;554</a>. Prerequisite(s): EPID 401 and <a href="/search/?P=BSTT%20401" title="BSTT&#160;401" class="bubblelink code" onclick="return showCourse(this, 'BSTT 401');">BSTT&#160;401</a> and <a href="/search/?P=EOHS%20400" title="EOHS&#160;400" class="bubblelink code" onclick="return showCourse(this, 'EOHS 400');">EOHS&#160;400</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;555.  Advanced Topics in Toxicology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An in-depth consideration of biotransformation, toxicokinetic modeling, biomarkers, and chemical carcinogenesis.  The course is based on articles from the primary literature.  Molecular through physiological level effects are considered.  Course Information:  Prerequisite(s):  Grade of B or better in <a href="/search/?P=EOHS%20455" title="EOHS&#160;455" class="bubblelink code" onclick="return showCourse(this, 'EOHS 455');">EOHS&#160;455</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;556.  Risk Assessment in Environmental and Occupational Health.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced skills associated with performing environmental and occupational health risk assessments. Covers the four steps of risk assessment in detail. Course Information: Prerequisite(s): <a href="/search/?P=EOHS%20405" title="EOHS&#160;405" class="bubblelink code" onclick="return showCourse(this, 'EOHS 405');">EOHS&#160;405</a>; and <a href="/search/?P=BSTT%20401" title="BSTT&#160;401" class="bubblelink code" onclick="return showCourse(this, 'BSTT 401');">BSTT&#160;401</a>; and <a href="/search/?P=EPID%20400" title="EPID&#160;400" class="bubblelink code" onclick="return showCourse(this, 'EPID 400');">EPID&#160;400</a> or <a href="/search/?P=EPID%20403" title="EPID&#160;403" class="bubblelink code" onclick="return showCourse(this, 'EPID 403');">EPID&#160;403</a>; or consent of the instructor. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;563.  Occupational Safety and Health Management Systems.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced theory and best practices in the design, implementation, administration, and evaluation of occupational safety and health management systems. Course Information: Prerequisite(s): <a href="/search/?P=EOHS%20421" title="EOHS&#160;421" class="bubblelink code" onclick="return showCourse(this, 'EOHS 421');">EOHS&#160;421</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;564.  Geographic Information System Application in Public Health.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced level GIS course to promote critical understanding of the major practices associated with GIS in the many applications areas found in public health. Course Information: Same as <a href="/search/?P=HPA%20564" title="HPA&#160;564" class="bubblelink code" onclick="return showCourse(this, 'HPA 564');">HPA&#160;564</a>. Extensive computer use required. This is an on-line course. Prerequisite(s): <a href="/search/?P=HPA%20465" title="HPA&#160;465" class="bubblelink code" onclick="return showCourse(this, 'HPA 465');">HPA&#160;465</a> or <a href="/search/?P=HPA%20436" title="HPA&#160;436" class="bubblelink code" onclick="return showCourse(this, 'HPA 436');">HPA&#160;436</a> or <a href="/search/?P=EOHS%20436" title="EOHS&#160;436" class="bubblelink code" onclick="return showCourse(this, 'EOHS 436');">EOHS&#160;436</a>; and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;565.  Datamining Applications in Public Health.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Presents the key public health information system sources, describes the process of datamining and introduces the student to a sample of datamining techniques.  Course Information:  Same as <a href="/search/?P=HPA%20565" title="HPA&#160;565" class="bubblelink code" onclick="return showCourse(this, 'HPA 565');">HPA&#160;565</a>.  Extensive computer use required.  Prerequisite(s):  <a href="/search/?P=BSTT%20400" title="BSTT&#160;400" class="bubblelink code" onclick="return showCourse(this, 'BSTT 400');">BSTT&#160;400</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;571.  Injury Epidemiology and Prevention.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Covers general principles of injury epidemiology and intervention research and will engage students in development and application of preventive activities in workplaces and in the community. Course Information: Same as <a href="/search/?P=EPID%20571" title="EPID&#160;571" class="bubblelink code" onclick="return showCourse(this, 'EPID 571');">EPID&#160;571</a>. Prerequisite(s): Grade of B or better in <a href="/search/?P=EPID%20400" title="EPID&#160;400" class="bubblelink code" onclick="return showCourse(this, 'EPID 400');">EPID&#160;400</a> or Grade of B or better in <a href="/search/?P=EPID%20403" title="EPID&#160;403" class="bubblelink code" onclick="return showCourse(this, 'EPID 403');">EPID&#160;403</a>; and graduate or professional standing; or consent of the instructor. Recommended background: Grade of B or better in <a href="/search/?P=EOHS%20400" title="EOHS&#160;400" class="bubblelink code" onclick="return showCourse(this, 'EOHS 400');">EOHS&#160;400</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;572.  Environmental Risk Assessment and Management.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Risk assessment from a public health, quantitative and environmental risk management perspective.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;580.  Seminar in Environmental and Occupational Health Policy.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Current topics in environmental and occupational health policy. Course Information: Prerequisite(s): <a href="/search/?P=EOHS%20480" title="EOHS&#160;480" class="bubblelink code" onclick="return showCourse(this, 'EOHS 480');">EOHS&#160;480</a>; and graduate or professional standing; or consent of the instructor. Recommended background: Prior policy course.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;594.  Advanced Special Topics in Environmental Health.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Environmental/occupational topics of current importance to public health: pollution, industrial hygiene, and related topics. Variable course contents arranged to supplement the existing curriculum. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;595.  PhD Seminar in EOHS.  1 or 2 hour.</strong></p>
+<p class="courseblockdesc">
+Students will develop advanced professional and research skills to enable their transition to independent research scientists. Course Information: May be repeated.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EOHS&#160;597.  Advanced Laboratory Projects in Environmental Health.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Application and integration of sampling and measurement techiques for characterization of inside and ambient environments. Individuals or groups supervised by EOHS faculty members. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="eohs.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

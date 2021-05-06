@@ -1,0 +1,432 @@
+https://catalog.uic.edu/ucat/colleges-depts/business-administration/actg/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Department of Accounting &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/business-administration/">
+				<li class="active isparent self"><a href="#" onclick="return false;">Accounting</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/business-administration/actg/">
+					<li><a href="/ucat/colleges-depts/business-administration/actg/bs/">BS in Accounting</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/fin/">Finance</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/ids/">Information and Decision Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/mgmt/">Managerial Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/marketing/">Marketing</a></li>
+				<li><a href="/ucat/colleges-depts/business-administration/bba/">Bachelor of Business Administration</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/minors/">Minors</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/business-administration/">College&nbsp;of&nbsp;Business&nbsp;Administration</a><span class="crumbsep">/</span></li><li><span class="active">Accounting</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Department of Accounting</h1>
+
+
+<script type="text/javascript">
+//<![CDATA[
+	var defshow = "text";
+	var bodycontainer = "#body";
+	var validhashes = ",text,undergraduateprogramstext,coursestext,";
+
+if(window.location.hash.length) {
+	var hash = cleanHash(window.location.hash);
+	if(validhashes.indexOf("," + hash + ",") != -1)
+		defshow = hash;	
+}
+var ss = document.styleSheets;
+var workss = null;
+for(var i=0; i < ss.length; i++) {
+	var currmedia = "";
+	if (typeof ss[i].media == "string") 
+		currmedia = ss[i].media
+	else if (typeof ss[i].media == "object" && ss[i].media.mediaText) 
+		currmedia = ss[i].media.mediaText;
+	
+	if((currmedia == "screen" || currmedia == "all") && (ss[i].href.indexOf("/") == 0 || ss[i].href.indexOf(document.location.host) >= 0)) {
+		workss = ss[i];
+		break;	
+	}
+}
+if(workss && workss.insertRule) {
+	workss.insertRule(".tab_content { display: none; }", workss.cssRules.length)
+	workss.insertRule(".sectionheader { display: none; }", workss.cssRules.length)
+	workss.insertRule("#" + defshow + "container { display: block; }", workss.cssRules.length)
+} else if(workss && workss.addRule) {
+	workss.addRule(".tab_content", "display: none");
+	workss.addRule(".sectionheader", "display: none");
+	workss.addRule("#" + defshow + "container", "display: block");
+}
+else {
+	if (window.console)
+		window.console.log('screen.css <link> needs attribute media="screen"');
+}
+//]]>
+</script>
+	<div id="tabs">
+		<ul class="clearfix" role="tablist">
+			<li id="texttab" role="presentation">
+<a href="#textcontainer" role="tab" aria-controls="textcontainer" onclick="return showSection('text');">Overview</a></li>
+			<li id="undergraduateprogramstexttab" role="presentation">
+<a href="#undergraduateprogramstextcontainer" role="tab" aria-controls="undergraduateprogramstextcontainer" onclick="return showSection('undergraduateprogramstext');" >Programs and Requirements</a></li>
+			<li id="coursestexttab" role="presentation">
+<a href="#coursestextcontainer" role="tab" aria-controls="coursestextcontainer" onclick="return showSection('coursestext');" >Courses</a></li>
+		</ul>
+	</div>
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p class="campus_location"><span class="label"><strong>Contact Information: </strong></span><br/>
+<span class="campus_location">Campus Location: 2303 University Hall (UH), Undergraduate Programs: 1118 University Hall <br/>
+<span class="phone">(312) 996-2700</span></span></p>
+<p class="administration"><span class="label"><strong>Administration: </strong></span><br/>
+Department Head, Michael Kirschenheiter</p>
+<h2>Mission Statement</h2>
+<p>Consistent with the Mission of the College of Business Administration and the University of Illinois at Chicago, the Department of Accounting is committed to the production and delivery of quality educational programs, discipline-based as well as interdisciplinary research, and service to the community.</p>
+<h3>Educational Mission</h3>
+<p>Students majoring in Accounting learn how to integrate conceptual and technical knowledge with practical application. The program prepares students for careers in financial, managerial, governmental/nonprofit, and international accounting, as well as auditing, information systems, taxation, and business law. Graduates are prepared to sit for certification examinations for the CPA, CMA, and similar certifications.</p>
+<p>We deliver quality educational programs in accounting in the Chicago metropolitan area. The curriculum is designed with the goal of ensuring that the undergraduate students who major in accounting are well prepared for professional careers and certification candidacy. Students are encouraged to complete all degree requirements in a timely fashion through a coordinated program of faculty and academic advising. Internships are frequently used as an additional vehicle to prepare students for the professional settings. The department provides advanced programs of study through its graduate offerings including the MSA, joint MSA/MBA, and Master of Business Administration with a specialization in Accounting. Students may apply for the Guaranteed Admission to Master of Science in Accounting (GAMSA) program which allows students who meet criteria to be automatically accepted into the program, which will provide them with the 150-academic-hour requirement of the Illinois CPA examination.</p>
+<h2>Accreditation</h2>
+<p>The accounting department and its associated degree programs are separately accredited (in addition to the College of Business Administration accreditation) by AACSB International—The Association to Advance Collegiate Schools of Business.</p>
+<h2>BS in Accounting</h2>
+<p>Accounting is a system for identifying, measuring, and communicating to interested parties, the aggregate effects of a sequence of transactions engaged in by any entity over a specified period.</p>
+<p>These entities include but are not limited to business firms, governmental units, and nonprofit organizations. Users of financial information include management, stockholders, and creditors. The scope of the accounting discipline is broad and varied. There are several specific functional areas within the field of accounting such as: financial accounting, managerial accounting, governmental and nonprofit accounting, international accounting, auditing, information systems, and taxation. The department also offers courses in business law and ethical issues in accounting.</p>
+<h3>CPA Exam in Illinois</h3>
+<p>The UIC Bachelor of Science in Accounting program satisfies all the educational course requirements for taking the CPA exam in Illinois. It includes 30 hours of accounting, 24 hours of business, and the required specific courses.</p>
+<p>The only additional requirement needed is a total 150 hours of college credit. For more information check the <a href="http://www.ilboe.org/requirements/domestic-and-foreign-evaluations" target="_blank">Illinois Board of Examiners website</a>.</p></div><!--end #textcontainer -->
+
+			<div id="undergraduateprogramstextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="undergraduateprogramstexttab" aria-hidden="true">
+				<a name="undergraduateprogramstext"></a><h2>Degree Program</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/business-administration/actg/bs/">BS in Accounting</a></li>
+</ul>
+			</div>
+			<div id="coursestextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="coursestexttab" aria-hidden="true">
+				<a name="coursestext"></a><div class="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle"><strong>ACTG 210.  Introduction to Financial Accounting.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Concepts and standards underlying the preparation and analysis of external reports; alternative effects and role of accounting in the business environment and capital markets. Course Information: Previously listed as ACTG 110. Extensive computer use required. Students from other departments and colleges can sign up for this course at the Accounting Department webpage www.business.uic.edu. Large sections are geared towards users of financial info while small sections are for preparers of financial info as well as for Accounting majors only to help them pass <a href="/search/?P=ACTG%20315" title="ACTG 315" class="bubblelink code" onclick="return showCourse(this, 'ACTG 315');">ACTG 315</a>. Prerequisite(s): Non-CBA students must have a UIC GPA of 2.5 or higher. Class Schedule Information: During fall and spring terms, combined-section final exam will be held on Monday of finals week from 6 to 8 p.m.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ACTG 211.  Introduction to Managerial Accounting.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Management planning and control; cost concepts and measurement; cost accounting systems; analysis of cost and volume-profit relationships; standard costs and variances; and budget preparation. Course Information: Previously listed as ACTG 111. Extensive computer use required. Large sections are geared towards users of financial info while small sections are for preparers of financial info as well as for Accounting majors only to help them pass <a href="/search/?P=ACTG%20315" title="ACTG 315" class="bubblelink code" onclick="return showCourse(this, 'ACTG 315');">ACTG 315</a>. Prerequisite(s): <a href="/search/?P=ACTG%20210" title="ACTG 210" class="bubblelink code" onclick="return showCourse(this, 'ACTG 210');">ACTG 210</a>. Accounting majors need a grade of C or better in <a href="/search/?P=ACTG%20210" title="ACTG 210" class="bubblelink code" onclick="return showCourse(this, 'ACTG 210');">ACTG 210</a>. Non-CBA students must have a UIC GPA of 2.5 or higher. Class Schedule Information: During fall and spring terms, combined-section final exam will be held on Tuesday of finals week from 6 to 8 p.m.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ACTG 315.  Intermediate Financial Accounting I.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Theory and standards related to asset valuation, revenue recognition, gain and loss recognition, and their impact on income measurement and financial position. Course Information: For satisfactory progress in the Accounting major, students must receive a grade of C or better in <a href="/search/?P=ACTG%20315" title="ACTG 315" class="bubblelink code" onclick="return showCourse(this, 'ACTG 315');">ACTG 315</a>. <a href="/search/?P=ACTG%20315" title="ACTG 315" class="bubblelink code" onclick="return showCourse(this, 'ACTG 315');">ACTG 315</a> may be repeated only once. Transfer credit from another College or University is not accepted for <a href="/search/?P=ACTG%20315" title="ACTG 315" class="bubblelink code" onclick="return showCourse(this, 'ACTG 315');">ACTG 315</a>. Prerequisite(s): Average grade of B or higher in <a href="/search/?P=ACTG%20210" title="ACTG 210" class="bubblelink code" onclick="return showCourse(this, 'ACTG 210');">ACTG 210</a> and <a href="/search/?P=ACTG%20211" title="ACTG 211" class="bubblelink code" onclick="return showCourse(this, 'ACTG 211');">ACTG 211</a> with both taken at UIC; or a grade of C or better in both <a href="/search/?P=ACTG%20210" title="ACTG 210" class="bubblelink code" onclick="return showCourse(this, 'ACTG 210');">ACTG 210</a> or equivalent and <a href="/search/?P=ACTG%20211" title="ACTG 211" class="bubblelink code" onclick="return showCourse(this, 'ACTG 211');">ACTG 211</a> or equivalent and a passing grade in the Accounting Placement Exam (APE). Registration for this course is only through Department of Accounting website. Information on APE is also available there.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ACTG 316.  Intermediate Financial Accounting II.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in accounting and financial reporting including: cash flow statements, income taxes, long-term debt and leases, investments, derivative securities, and contingencies and employee retirement benefits and stockholders' equity. Course Information: Prerequisite(s): Grade of C in <a href="/search/?P=ACTG%20315" title="ACTG 315" class="bubblelink code" onclick="return showCourse(this, 'ACTG 315');">ACTG 315</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ACTG 326.  Cost Accounting.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Design of cost accounting systems; alternate costing methods; costing for decision making; budgeting and performance evaluation. Course Information: Extensive computer use required. For satisfactory progress in the Accounting major, students must receive a C or better in <a href="/search/?P=ACTG%20326" title="ACTG 326" class="bubblelink code" onclick="return showCourse(this, 'ACTG 326');">ACTG 326</a>. <a href="/search/?P=ACTG%20326" title="ACTG 326" class="bubblelink code" onclick="return showCourse(this, 'ACTG 326');">ACTG 326</a> may be repeated only once. Prerequisite(s): Grade of C or better in <a href="/search/?P=ACTG%20210" title="ACTG 210" class="bubblelink code" onclick="return showCourse(this, 'ACTG 210');">ACTG 210</a> and grade of C or better in <a href="/search/?P=ACTG%20211" title="ACTG 211" class="bubblelink code" onclick="return showCourse(this, 'ACTG 211');">ACTG 211</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ACTG 355.  Business Law I: Commercial Transactions.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Commercial transactions including: contracts, sales of goods, negotiable instruments, and secured transactions. Course Information: Prerequisite(s): A passing grade in <a href="/search/?P=ACTG%20211" title="ACTG 211" class="bubblelink code" onclick="return showCourse(this, 'ACTG 211');">ACTG 211</a> or the equivalent.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ACTG 394.  Special Topics in Accounting - Undergraduate.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Investigates selected contemporary accounting topics using readings in both academic and professional journals as well as cases for analysis. Course Information: Prerequisite(s): A passing grade in both <a href="/search/?P=ACTG%20316" title="ACTG 316" class="bubblelink code" onclick="return showCourse(this, 'ACTG 316');">ACTG 316</a> and <a href="/search/?P=ACTG%20326" title="ACTG 326" class="bubblelink code" onclick="return showCourse(this, 'ACTG 326');">ACTG 326</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ACTG 396.  Independent Study in Accounting - Undergraduate.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Independent study in approved topics; written report prepared under the guidance of a faculty member is required. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=ACTG%20316" title="ACTG 316" class="bubblelink code" onclick="return showCourse(this, 'ACTG 316');">ACTG 316</a>; and Grade of C or better in <a href="/search/?P=ACTG%20326" title="ACTG 326" class="bubblelink code" onclick="return showCourse(this, 'ACTG 326');">ACTG 326</a>; and declaration of a major and submission of form of approval to the department head one week before the beginning of the semester.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ACTG 417.  Advanced Financial Accounting.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Financial accounting theory for business combinations, consolidated financial statements, international transactions and investments, and partnership accounting. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Grade of D or better in <a href="/search/?P=ACTG%20316" title="ACTG 316" class="bubblelink code" onclick="return showCourse(this, 'ACTG 316');">ACTG 316</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ACTG 435.  Auditing.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the audit function; ethical and legal environment; audit standards; objectives and procedures; materiality and audit risk; sampling; auditing in a computer environment; reporting. Course Information: 3 undergraduate hours. 4 graduate hours. Extensive computer use required. Prerequisite(s): Grade of D or better in <a href="/search/?P=ACTG%20316" title="ACTG 316" class="bubblelink code" onclick="return showCourse(this, 'ACTG 316');">ACTG 316</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ACTG 445.  Federal Income Tax I.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Concepts and provisions of federal income taxation as applicable to individual taxpayers, partnerships, individuals and trusts. Course Information: 3 undergraduate hours. 4 graduate hours. Credit is not given for <a href="/search/?P=ACTG%20445" title="ACTG 445" class="bubblelink code" onclick="return showCourse(this, 'ACTG 445');">ACTG 445</a> if the student has credit for <a href="/search/?P=ACTG%20508" title="ACTG 508" class="bubblelink code" onclick="return showCourse(this, 'ACTG 508');">ACTG 508</a>. Extensive computer use required. Prerequisite(s): Grade of C or better in <a href="/search/?P=ACTG%20315" title="ACTG 315" class="bubblelink code" onclick="return showCourse(this, 'ACTG 315');">ACTG 315</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ACTG 446.  Federal Income Tax II.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Concepts and provisions of federal income taxation on corporations and partnerships; special problems in reorganization, liquidations, and personal holding companies. Course Information: 3 undergraduate hours. 4 graduate hours. Extensive computer use required. Prerequisite(s): A passing grade in <a href="/search/?P=ACTG%20445" title="ACTG 445" class="bubblelink code" onclick="return showCourse(this, 'ACTG 445');">ACTG 445</a> or the equivalent.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ACTG 456.  Business Law II: Business Organizations.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Business organizaions, including: agency, general partnerships, limited partnerships, corporations, limited liability companies, securities regulations, bankruptcy, suretyship, bailments, real property, wills and trusts, accounting liability. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): A passing grade in <a href="/search/?P=ACTG%20355" title="ACTG 355" class="bubblelink code" onclick="return showCourse(this, 'ACTG 355');">ACTG 355</a> or the equivalent.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ACTG 465.  Governmental and Non-Profit Accounting.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Financial transaction analysis and recording system; budget preparation and control; concepts and principles underlying the financial reports of governmental and non-profit organizations. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): A passing grade in <a href="/search/?P=ACTG%20316" title="ACTG 316" class="bubblelink code" onclick="return showCourse(this, 'ACTG 316');">ACTG 316</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ACTG 470.  Ethical Environment of Business.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+An examination of the decision making process on both the individual and organizational levels. The effect of moral, legal, and economic factors on the decision making process. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): A passing grade in <a href="/search/?P=ACTG%20211" title="ACTG 211" class="bubblelink code" onclick="return showCourse(this, 'ACTG 211');">ACTG 211</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ACTG 474.  Accounting Information Systems.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Skills and concepts that enable the documentation, design and use of accounting information systems, understanding transaction cycles, sound internal controls, accounting software and the electronic business environment. Course Information: 3 undergraduate hours. 4 graduate hours. Extensive computer use required. Prerequisite(s):  Grade of C or better in <a href="/search/?P=ACTG%20210" title="ACTG 210" class="bubblelink code" onclick="return showCourse(this, 'ACTG 210');">ACTG 210</a> and Grade of C or better in <a href="/search/?P=ACTG%20211" title="ACTG 211" class="bubblelink code" onclick="return showCourse(this, 'ACTG 211');">ACTG 211</a>; and <a href="/search/?P=IDS%20200" title="IDS 200" class="bubblelink code" onclick="return showCourse(this, 'IDS 200');">IDS 200</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ACTG 475.  Database Accounting Systems.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Concepts and principles of designing database systems to perform accounting functions, applications of microcomputer accounting software packages systems design tools, and computerized transaction cycles. Course Information: Same as <a href="/search/?P=IDS%20475" title="IDS 475" class="bubblelink code" onclick="return showCourse(this, 'IDS 475');">IDS 475</a>. 3 undergraduate hours. 4 graduate hours. Extensive computer use required. Prerequisite(s): A passing grade in both <a href="/search/?P=ACTG%20211" title="ACTG 211" class="bubblelink code" onclick="return showCourse(this, 'ACTG 211');">ACTG 211</a> and <a href="/search/?P=IDS%20200" title="IDS 200" class="bubblelink code" onclick="return showCourse(this, 'IDS 200');">IDS 200</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ACTG 476.  Enterprise Accounting Systems.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Uses ERP software and analytics to teach transaction processing, internal controls, dashboard design, analytical tools and visual presentation of accounting data used to manage large organizations. Course Information: 3 undergraduate hours. 4 graduate hours. Extensive computer use required. Prerequisite(s): <a href="/search/?P=ACTG%20475" title="ACTG 475" class="bubblelink code" onclick="return showCourse(this, 'ACTG 475');">ACTG 475</a> or equivalent database experience. Recommended Background: Good Excel skills are very helpful; <a href="/search/?P=IDS%20331" title="IDS 331" class="bubblelink code" onclick="return showCourse(this, 'IDS 331');">IDS 331</a> would be an excellent background course.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ACTG 484.  International Accounting.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Financial accounting for international operations, multinational managerial accounting and control, comparative international accounting, international reporting issues and international taxation. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Grade of D or better in <a href="/search/?P=ACTG%20316" title="ACTG 316" class="bubblelink code" onclick="return showCourse(this, 'ACTG 316');">ACTG 316</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ACTG 485.  Valuation and Analysis.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Financial analysis and valuation of firms. Corporate strategies, financial reporting issues and market perceptions. Course Information: 3 undergraduate hours. 4 graduate hours. Extensive computer use required. Prerequisite(s): <a href="/search/?P=ACTG%20315" title="ACTG 315" class="bubblelink code" onclick="return showCourse(this, 'ACTG 315');">ACTG 315</a> and <a href="/search/?P=FIN%20300" title="FIN 300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN 300</a> for undergraduate students. One accounting and one finance class or consent of the instructor for graduate students.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ACTG 492.  Accounting Data Analytics.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Accounting professionals look at huge financial and transactional data available from multitude of corporate and external sources. Businesses can use information and analytics tools to improve their performance metrics and generate valuable insights. Course Information: 3 undergraduate hours. 4 graduate hours. Extensive computer use required. Prerequisite(s): <a href="/search/?P=ACTG%20315" title="ACTG 315" class="bubblelink code" onclick="return showCourse(this, 'ACTG 315');">ACTG 315</a> and <a href="/search/?P=ACTG%20326" title="ACTG 326" class="bubblelink code" onclick="return showCourse(this, 'ACTG 326');">ACTG 326</a> and <a href="/search/?P=ACTG%20474" title="ACTG 474" class="bubblelink code" onclick="return showCourse(this, 'ACTG 474');">ACTG 474</a>; or <a href="/search/?P=ACTG%20500" title="ACTG 500" class="bubblelink code" onclick="return showCourse(this, 'ACTG 500');">ACTG 500</a>. Recommended background: Grade of C or better in <a href="/search/?P=ACTG%20435" title="ACTG 435" class="bubblelink code" onclick="return showCourse(this, 'ACTG 435');">ACTG 435</a> and Grade of C or better in <a href="/search/?P=ACTG%20476" title="ACTG 476" class="bubblelink code" onclick="return showCourse(this, 'ACTG 476');">ACTG 476</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ACTG 493.  Accounting Cases, Research and Analysis.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines US GAAP, alternatives, SEC filings and company financial statements, through cases and research projects using various research methodologies. Satisfies research requirements for CPA candidacy. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): A passing grade in <a href="/search/?P=ACTG%20316" title="ACTG 316" class="bubblelink code" onclick="return showCourse(this, 'ACTG 316');">ACTG 316</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ACTG 494.  Special Topics in Accounting.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Topics rotate in various areas of accounting, including but not restricted to financial, managerial, governmental and nonprofit accounting, law and business ethics. Explores current issues and proposed alternatives. Course Information: Prerequisite(s): Two courses in accounting or finance beyond <a href="/search/?P=ACTG%20211" title="ACTG 211" class="bubblelink code" onclick="return showCourse(this, 'ACTG 211');">ACTG 211</a> and <a href="/search/?P=FIN%20300" title="FIN 300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN 300</a> or the equivalent.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ACTG 495.  Competitive Strategy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Multidisciplinary analysis of organization strategy and policy, using case method and/or business simulation. Assignments involve extensive library research and oral and written reports. Course Information: Prerequisite(s): Senior standing in the College of Business Administration and completion of all other CBA core courses, or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ACTG 499.  Research Experience.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Research experience under the supervision of a faculty member.  The faculty member and student will determine the research project.  Each student must submit a report and each student must participate at a research event on campus. Course Information: May be repeated to a maximum of 12 hours. Students may register in more than one section per term. Prerequisite(s): Approval of the Department.<br/>
+</p>
+</div></div>
+			</div>
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="actg.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

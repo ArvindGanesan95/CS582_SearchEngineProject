@@ -1,0 +1,595 @@
+https://catalog.uic.edu/ucat/colleges-depts/liberal-arts-sciences/hist/ba-teach-hist/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>BA in the Teaching of History &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/liberal-arts-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/">Anthropology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/">Biochemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/">Biological Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/">Black Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/">Chemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/">Classics and Mediterranean Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/">Communication</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/">Criminology, Law, and Justice</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/">Earth and Environmental Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/">Economics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/">English</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French and Francophone Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/">Gender and Women's Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/">Germanic Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/">Global Asian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/">Hispanic and Italian Studies</a></li>
+				<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/">History</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/liberal-arts-sciences/hist/">
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/ba-hist/">BA with a Major in History</a></li>
+					<li class="active self"><a href="#" onclick="return false;">BA in the Teaching of History</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/minor-hist/">Minor in History</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/">Integrated Health Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/">International Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/">Liberal Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/">Linguistics</a></li>
+				<li><a href="/ucat/colleges-depts/liberal-arts-sciences/lcsl/">Literatures, Cultural Studies, and Linguistics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/">Mathematics, Statistics, and Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/">Moving Image Arts</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/">Neuroscience</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/">Philosophy</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/">Physics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/">Polish, Russian, and Lithuanian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/">Political Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/">Psychology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/">Religious Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/">Sociology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional Studies</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/">College&nbsp;of&nbsp;Liberal&nbsp;Arts&nbsp;and&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/">History</a><span class="crumbsep">/</span></li><li><span class="active">BA in the Teaching of History</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">BA in the Teaching of History</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+<p class="program_codes"><span class="label"><strong>Program Codes:</strong> </span><br />20FT1757BA<br /></p>	</div>
+</div>
+
+<h2>Degree Requirements</h2>
+<p>To earn a Bachelor of Arts degree in the Teaching of History from UIC, students must complete university, college, and department degree requirements. The Department of History degree requirements are outlined below. Students should consult the <a href="/ucat/colleges-depts/liberal-arts-sciences/"><em>College of Liberal Arts and Sciences</em></a> section for additional degree requirements and college academic policies.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Summary of Requirements</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Major Requirements</span></td><td class="hourscol">36</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Prerequisite and Collateral Courses</span></td><td class="hourscol">12</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Additional Requirements for Teacher Licensure</span></td><td class="hourscol">28</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">General Education and Electives to reach minimum Total Hours</span></td><td class="hourscol">44</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">120</td></tr></tbody>
+</table>
+
+<h3>General Education</h3>
+<p>See <em>General Education and Writing-in-the-Discipline</em> in the <a href="/ucat/colleges-depts/liberal-arts-sciences/"><em>College of Liberal Arts and Sciences</em></a> section for information on meeting these requirements.</p>
+<h3>Major Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select one of the following courses:</span></td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=HIST%20106" title="HIST 106" class="bubblelink code" onclick="return showCourse(this, 'HIST 106');">HIST 106</a></div></td><td>The World Since 1400: Converging Worlds, New Circulations <sup>a</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=HIST%20114" title="HIST 114" class="bubblelink code" onclick="return showCourse(this, 'HIST 114');">HIST 114</a></div></td><td>Topics in World History <sup>a</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Select one of the following courses:</span></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=HIST%20100" title="HIST 100" class="bubblelink code" onclick="return showCourse(this, 'HIST 100');">HIST 100</a></div></td><td>Western Civilization to 1648 <sup>b</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=HIST%20101" title="HIST 101" class="bubblelink code" onclick="return showCourse(this, 'HIST 101');">HIST 101</a></div></td><td>Western Civilization Since 1648 <sup>b</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select one of the following courses:</span></td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=HIST%20103" title="HIST 103" class="bubblelink code" onclick="return showCourse(this, 'HIST 103');">HIST 103</a></div></td><td>Early America: From Colonization to Civil War and Reconstruction <sup>c</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=HIST%20104" title="HIST 104" class="bubblelink code" onclick="return showCourse(this, 'HIST 104');">HIST 104</a></div></td><td>Modern America: From Industrialization to Globalization <sup>c</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=HIST%20255" title="HIST 255" class="bubblelink code" onclick="return showCourse(this, 'HIST 255');">HIST 255</a></td><td>History of Chicago <sup>c</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Two additional 200-level history courses</span></td><td class="hourscol">6</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=HIST%20300" title="HIST 300" class="bubblelink code" onclick="return showCourse(this, 'HIST 300');">HIST 300</a></td><td>History Methods Colloquium <sup>d</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=HIST%20320" title="HIST 320" class="bubblelink code" onclick="return showCourse(this, 'HIST 320');">HIST 320</a></td><td>Teaching History and the Related Disciplines</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=HIST%20420" title="HIST 420" class="bubblelink code" onclick="return showCourse(this, 'HIST 420');">HIST 420</a></td><td>Teaching the Social Sciences <sup>e</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Three additional 400-level history courses, including <a href="/search/?P=HIST%20440" title="HIST 440" class="bubblelink code" onclick="return showCourse(this, 'HIST 440');">HIST 440</a></span></td><td class="hourscol">9</td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">The above course work must be distributed across the following fields:</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">African, Asian, Middle Eastern, or Latin American:</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Minimum of 6 hours</span></div></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">European:</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Minimum of 6 hours in Ancient, Medieval, or Modern European history</span></div></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">United States:</span></td><td class="hourscol"></td></tr>
+<tr class="even lastrow"><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment commentindent">Minimum of 12 hours in U.S. history</span></div></td><td class="hourscol"></td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">36</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=HIST%20106" title="HIST 106" class="bubblelink code" onclick="return showCourse(this, 'HIST 106');">HIST 106</a></span> and <span class="sc_courseinline"><a href="/search/?P=HIST%20114" title="HIST 114" class="bubblelink code" onclick="return showCourse(this, 'HIST 114');">HIST 114</a></span> </em><em> count toward the field of African, Asian, Middle Eastern, and Latin American history. <span class="sc_courseinline"><a href="/search/?P=HIST%20106" title="HIST 106" class="bubblelink code" onclick="return showCourse(this, 'HIST 106');">HIST 106</a></span> </em><em> is approved for the following General Education categories: Understanding the Past; Exploring World Cultures. </em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=HIST%20100" title="HIST 100" class="bubblelink code" onclick="return showCourse(this, 'HIST 100');">HIST 100</a></span> and <span class="sc_courseinline"><a href="/search/?P=HIST%20101" title="HIST 101" class="bubblelink code" onclick="return showCourse(this, 'HIST 101');">HIST 101</a></span> </em><em> count toward the field of European history. <span class="sc_courseinline"><a href="/search/?P=HIST%20100" title="HIST 100" class="bubblelink code" onclick="return showCourse(this, 'HIST 100');">HIST 100</a></span>  </em><em>and <span class="sc_courseinline"><a href="/search/?P=HIST%20101" title="HIST 101" class="bubblelink code" onclick="return showCourse(this, 'HIST 101');">HIST 101</a></span> are approved for the following General Education categories: Understanding the Past and Exploring World Cultures. </em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=HIST%20103" title="HIST 103" class="bubblelink code" onclick="return showCourse(this, 'HIST 103');">HIST 103</a></span>, <span class="sc_courseinline"><a href="/search/?P=HIST%20104" title="HIST 104" class="bubblelink code" onclick="return showCourse(this, 'HIST 104');">HIST 104</a></span>, and <span class="sc_courseinline"><a href="/search/?P=HIST%20255" title="HIST 255" class="bubblelink code" onclick="return showCourse(this, 'HIST 255');">HIST 255</a></span> </em><em>count toward the field of U.S. history. <span class="sc_courseinline"><a href="/search/?P=HIST%20103" title="HIST 103" class="bubblelink code" onclick="return showCourse(this, 'HIST 103');">HIST 103</a></span>, <span class="sc_courseinline"><a href="/search/?P=HIST%20104" title="HIST 104" class="bubblelink code" onclick="return showCourse(this, 'HIST 104');">HIST 104</a></span>, and <span class="sc_courseinline"><a href="/search/?P=HIST%20255" title="HIST 255" class="bubblelink code" onclick="return showCourse(this, 'HIST 255');">HIST 255</a></span> </em><em>are approved for the following General Education categories: Understanding U.S. Society; Understanding the Past. </em></p></td></tr><tr><td valign="top" class="symcol">d</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=HIST%20300" title="HIST 300" class="bubblelink code" onclick="return showCourse(this, 'HIST 300');">HIST 300</a></span> fulfills the Writing-in-the-Discipline requirement. </em></p></td></tr><tr><td valign="top" class="symcol">e</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=HIST%20419" title="HIST 419" class="bubblelink code" onclick="return showCourse(this, 'HIST 419');">HIST 419</a></span> cannot be used to fulfill this requirement.</em></p></td></tr></table>
+<p><span>Majors are required to seek guidance from the program advisor before registering for courses each semester; call (312) 413-9163 for an appointment.</span></p>
+<h3>Prerequisite and Collateral Courses</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">One course in political science, civics, or government</span></td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Two courses in a single social science area</span> <sup>a,b</sup></td><td class="hourscol">6</td></tr>
+<tr class="odd lastrow"><td colspan="2"><span class="courselistcomment">One additional course in any social science</span></td><td class="hourscol">3</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">12</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>One course should satisfy the General Education category Understanding the Individual and Society and one course should satisfy the Understanding U.S. Society category.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>Social science courses may be taken from the following academic units: Anthropology, Geography, Economics, Political Science, Psychology, and Sociology.</em></p></td></tr></table>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Recommended Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td colspan="2"><span class="courselistcomment">Students are encouraged to take additional social science course work in addition to the required 12 hours which may include <a href="/search/?P=HIST%20419" title="HIST 419" class="bubblelink code" onclick="return showCourse(this, 'HIST 419');">HIST 419</a> and course work in anthropology, economics, geography, political science, psychology, and sociology.</span></td><td class="hourscol"></td></tr>
+</tbody>
+</table>
+
+<h3>Additional Requirements for Teacher Licensure</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ED%20200" title="ED 200" class="bubblelink code" onclick="return showCourse(this, 'ED 200');">ED 200</a></td><td>Education Policy Foundations</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ED%20210" title="ED 210" class="bubblelink code" onclick="return showCourse(this, 'ED 210');">ED 210</a></td><td>Principles of Learning and Instruction Across the Lifespan</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=SPED%20410" title="SPED 410" class="bubblelink code" onclick="return showCourse(this, 'SPED 410');">SPED 410</a></td><td>Exceptional Learners</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=CI%20414" title="CI 414" class="bubblelink code" onclick="return showCourse(this, 'CI 414');">CI 414</a></td><td>Middle and High School Literacy</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ED%20425" title="ED 425" class="bubblelink code" onclick="return showCourse(this, 'ED 425');">ED 425</a></td><td>Curriculum, Instruction, and Assessment in the Urban Secondary Classroom</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=HIST%20475" title="HIST 475" class="bubblelink code" onclick="return showCourse(this, 'HIST 475');">HIST 475</a></td><td>Educational Practice with Seminar I</td><td class="hourscol">6</td></tr>
+<tr class="odd lastrow"><td class="codecol"><a href="/search/?P=HIST%20476" title="HIST 476" class="bubblelink code" onclick="return showCourse(this, 'HIST 476');">HIST 476</a></td><td>Educational Practice with Seminar II</td><td class="hourscol">6</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">28</td></tr></tbody>
+</table>
+
+<p>In addition to specified course work in the major field, the teacher education student must fulfill certain other requirements as well as maintain a minimum GPA of 3.00/4.00 in the major, a 3.00/4.00 in required education courses, and a cumulative GPA of 2.50/4.00. For detailed information, see the Program Guide for Teacher Education in History, available from the secondary education coordinator in the Department of History.</p>
+<p>Successful completion of licensure and degree requirements does not automatically confer licensure. To become licensed students must pass the following requirements:</p>
+<ol>
+	<li>a series of examinations required by the Illinois State Board of Education</li>
+	<li>the Content Area Test (before being allowed to student teach)</li>
+	<li>the Education Teacher Performance Assessment (edTPA)</li>
+</ol>
+<p>Only after these requirements have been met may students apply for licensure to the Council on Teacher Education. For more information on application procedures, contact the Council on Teacher Education located at 1333 South Halsted Street. See the <em><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a> </em>section.</p>
+<h2><span class="clsSubHead2">Recommended Plan of Study</span></h2>
+<table pdfnorepeatheader="true" class="sc_plangrid">
+<caption>Plan of Study Grid</caption><colgroup>
+	<col class="codecol"/>
+	<col class="titlecol"/>
+	<col class="hourscol"/>
+</colgroup>
+<tr class="plangridyear"><th id="plangrid1_0" class="year" colspan="3">First Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_0_0" colspan="2">Fall Semester</th><th id="hoursheader" scope="col" class="hourscol">Hours</th></tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Academic Writing I: Writing in Academic and Public Contexts</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=HIST%20106" title="HIST 106" class="bubblelink code" onclick="return showCourse(this, 'HIST 106');">HIST 106</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=HIST%20114" title="HIST 114" class="bubblelink code" onclick="return showCourse(this, 'HIST 114');">HIST 114</a></div></td>
+<td headers=" plangrid1_0_0" class="titlecol">The World Since 1400: Converging Worlds, New Circulations<br/><div style="margin-left:20px;" class="blockindent">or Topics in World History</div></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">Quantitative Reasoning course</span></td>
+<td headers="hoursheader" class="hourscol">4-5</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment"><strong>Declare Secondary Education Curriculum</strong></span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_0_0" class="titlecol">Hours</td><td headers=" plangrid1_0_0 hoursheader" class="hourscol">14-15</td></tr>
+<tr class="plangridterm"><th id="plangrid1_0_1" colspan="3">Spring Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Academic Writing II: Writing for Inquiry and Research</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=HIST%20100" title="HIST 100" class="bubblelink code" onclick="return showCourse(this, 'HIST 100');">HIST 100</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=HIST%20101" title="HIST 101" class="bubblelink code" onclick="return showCourse(this, 'HIST 101');">HIST 101</a></div></td>
+<td headers=" plangrid1_0_1" class="titlecol">Western Civilization to 1648<br/><div style="margin-left:20px;" class="blockindent">or Western Civilization Since 1648</div></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">General Education course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">General Education course</span></td>
+<td headers="hoursheader" class="hourscol">3-5</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment"><strong>Meet with Program Advisor</strong></span> <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_0_1" class="titlecol">Hours</td><td headers=" plangrid1_0_1 hoursheader" class="hourscol">16-18</td></tr>
+<tr class="plangridyear"><th id="plangrid1_1" class="year" colspan="3">Second Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_1_0" colspan="3">Fall Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_1_0" class="codecol"><a href="/search/?P=HIST%20103" title="HIST 103" class="bubblelink code" onclick="return showCourse(this, 'HIST 103');">HIST 103</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=HIST%20104" title="HIST 104" class="bubblelink code" onclick="return showCourse(this, 'HIST 104');">HIST 104</a></div></td>
+<td headers=" plangrid1_1_0" class="titlecol">Early America: From Colonization to Civil War and Reconstruction<br/><div style="margin-left:20px;" class="blockindent">or Modern America: From Industrialization to Globalization</div></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" class="codecol"><a href="/search/?P=HIST%20255" title="HIST 255" class="bubblelink code" onclick="return showCourse(this, 'HIST 255');">HIST 255</a></td>
+<td headers=" plangrid1_1_0" class="titlecol">History of Chicago</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">Social science course/Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">General Education course</span></td>
+<td headers="hoursheader" class="hourscol">3-5</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_1_0" class="titlecol">Hours</td><td headers=" plangrid1_1_0 hoursheader" class="hourscol">16-18</td></tr>
+<tr class="plangridterm"><th id="plangrid1_1_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_1_1" class="codecol"><a href="/search/?P=ED%20200" title="ED 200" class="bubblelink code" onclick="return showCourse(this, 'ED 200');">ED 200</a></td>
+<td headers=" plangrid1_1_1" class="titlecol">Education Policy Foundations</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" class="codecol"><a href="/search/?P=ED%20210" title="ED 210" class="bubblelink code" onclick="return showCourse(this, 'ED 210');">ED 210</a></td>
+<td headers=" plangrid1_1_1" class="titlecol">Principles of Learning and Instruction Across the Lifespan</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">History area course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">200-level history course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment"><strong>Complete Application to Candidacy</strong></span> <sup>b</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_1_1" class="titlecol">Hours</td><td headers=" plangrid1_1_1 hoursheader" class="hourscol">16</td></tr>
+<tr class="plangridyear"><th id="plangrid1_2" class="year" colspan="3">Third Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_2_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=SPED%20410" title="SPED 410" class="bubblelink code" onclick="return showCourse(this, 'SPED 410');">SPED 410</a></td>
+<td headers=" plangrid1_2_0" class="titlecol">Exceptional Learners</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=CI%20414" title="CI 414" class="bubblelink code" onclick="return showCourse(this, 'CI 414');">CI 414</a></td>
+<td headers=" plangrid1_2_0" class="titlecol">Middle and High School Literacy (<span class="comment">after admission to candidacy</span>) <sup>b</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">200-level history course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=HIST%20300" title="HIST 300" class="bubblelink code" onclick="return showCourse(this, 'HIST 300');">HIST 300</a></td>
+<td headers=" plangrid1_2_0" class="titlecol">History Methods Colloquium</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=HIST%20320" title="HIST 320" class="bubblelink code" onclick="return showCourse(this, 'HIST 320');">HIST 320</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=HIST%20420" title="HIST 420" class="bubblelink code" onclick="return showCourse(this, 'HIST 420');">HIST 420</a></div></td>
+<td headers=" plangrid1_2_0" class="titlecol">Teaching History and the Related Disciplines<br/><div style="margin-left:20px;" class="blockindent">or Teaching the Social Sciences</div></td>
+<td headers="hoursheader" class="hourscol">3-4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment"><strong>Complete Application to Candidacy</strong></span> <sup>b</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_2_0" class="titlecol">Hours</td><td headers=" plangrid1_2_0 hoursheader" class="hourscol">15-16</td></tr>
+<tr class="plangridterm"><th id="plangrid1_2_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_2_1" class="codecol"><a href="/search/?P=HIST%20300" title="HIST 300" class="bubblelink code" onclick="return showCourse(this, 'HIST 300');">HIST 300</a></td>
+<td headers=" plangrid1_2_1" class="titlecol">History Methods Colloquium</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" class="codecol"><a href="/search/?P=HIST%20320" title="HIST 320" class="bubblelink code" onclick="return showCourse(this, 'HIST 320');">HIST 320</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=HIST%20420" title="HIST 420" class="bubblelink code" onclick="return showCourse(this, 'HIST 420');">HIST 420</a></div></td>
+<td headers=" plangrid1_2_1" class="titlecol">Teaching History and the Related Disciplines<br/><div style="margin-left:20px;" class="blockindent">or Teaching the Social Sciences</div></td>
+<td headers="hoursheader" class="hourscol">3-4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">400-level history course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">History area courses or Electives</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_1" class="codecol"><a href="/search/?P=HIST%20419" title="HIST 419" class="bubblelink code" onclick="return showCourse(this, 'HIST 419');">HIST 419</a></td>
+<td headers=" plangrid1_2_1" class="titlecol">Teaching Civics Literacy</td>
+<td headers="hoursheader" class="hourscol">3 or 4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment"><strong>Request Enrollment Approval for <a href="/search/?P=ED%20425" title="ED 425" class="bubblelink code" onclick="return showCourse(this, 'ED 425');">ED 425</a> (March 15)</strong></span> <sup>b</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment"><strong>Complete Application to Student Teach</strong></span> <sup>b</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment"><strong>Take Content Area Test by Deadline</strong></span> <sup>b</sup></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_2_1" class="titlecol">Hours</td><td headers=" plangrid1_2_1 hoursheader" class="hourscol">15-17</td></tr>
+<tr class="plangridyear"><th id="plangrid1_3" class="year" colspan="3">Fourth Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_3_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_3_0" class="codecol"><a href="/search/?P=ED%20425" title="ED 425" class="bubblelink code" onclick="return showCourse(this, 'ED 425');">ED 425</a></td>
+<td headers=" plangrid1_3_0" class="titlecol">Curriculum, Instruction, and Assessment in the Urban Secondary Classroom</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_0" class="codecol"><a href="/search/?P=HIST%20440" title="HIST 440" class="bubblelink code" onclick="return showCourse(this, 'HIST 440');">HIST 440</a></td>
+<td headers=" plangrid1_3_0" class="titlecol">History Research Seminar</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">400-level history course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">Social science course or Electives</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_3_0" class="titlecol">Hours</td><td headers=" plangrid1_3_0 hoursheader" class="hourscol">13</td></tr>
+<tr class="plangridterm"><th id="plangrid1_3_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_3_1" class="codecol"><a href="/search/?P=HIST%20475" title="HIST 475" class="bubblelink code" onclick="return showCourse(this, 'HIST 475');">HIST 475</a></td>
+<td headers=" plangrid1_3_1" class="titlecol">Educational Practice with Seminar I</td>
+<td headers="hoursheader" class="hourscol">6</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_1" class="codecol"><a href="/search/?P=HIST%20476" title="HIST 476" class="bubblelink code" onclick="return showCourse(this, 'HIST 476');">HIST 476</a></td>
+<td headers=" plangrid1_3_1" class="titlecol">Educational Practice with Seminar II</td>
+<td headers="hoursheader" class="hourscol">6</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment"><strong>File Intent to Graduate Form (no later than the 3rd week of the semester the student plans to graduate)</strong></span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment"><strong>Take edTPA</strong></span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment"><strong>Complete Entitlement Application</strong></span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment"><strong>Complete and pass edTPA assessment</strong></span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_3_1" class="titlecol">Hours</td><td headers=" plangrid1_3_1 hoursheader" class="hourscol">12</td></tr>
+<tr class="plangridtotal lastrow even"><td> </td><td>Total Hours</td><td headers="hoursheader" class="hourscol">120</td></tr>
+</table>
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><a href="http://www.las.uic.edu/departmentaladvising" target="_blank"><em>http://www.las.uic.edu/departmentaladvising</em></a></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>Consult program advisor or CTE website for deadline.</em></p></td></tr><tr><td valign="top" class="symcol"></td><td class="notecol"></td></tr></table></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="ba-teach-hist.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

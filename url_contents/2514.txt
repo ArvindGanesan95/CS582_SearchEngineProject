@@ -1,0 +1,459 @@
+https://catalog.uic.edu/ucat/colleges-depts/liberal-arts-sciences/psych/bs-psychology/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>BS with a Major in Psychology &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/liberal-arts-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/">Anthropology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/">Biochemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/">Biological Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/">Black Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/">Chemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/">Classics and Mediterranean Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/">Communication</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/">Criminology, Law, and Justice</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/">Earth and Environmental Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/">Economics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/">English</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French and Francophone Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/">Gender and Women's Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/">Germanic Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/">Global Asian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/">Hispanic and Italian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/">History</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/">Integrated Health Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/">International Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/">Liberal Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/">Linguistics</a></li>
+				<li><a href="/ucat/colleges-depts/liberal-arts-sciences/lcsl/">Literatures, Cultural Studies, and Linguistics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/">Mathematics, Statistics, and Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/">Moving Image Arts</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/">Neuroscience</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/">Philosophy</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/">Physics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/">Polish, Russian, and Lithuanian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/">Political Science</a></li>
+				<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/">Psychology</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/liberal-arts-sciences/psych/">
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/ba-applied-psychology/">BA with a Major in Applied Psychology</a></li>
+					<li class="active self"><a href="#" onclick="return false;">BS with a Major in Psychology</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/minor-psych/">Minor in Psychology</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/">Religious Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/">Sociology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional Studies</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/">College&nbsp;of&nbsp;Liberal&nbsp;Arts&nbsp;and&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/">Psychology</a><span class="crumbsep">/</span></li><li><span class="active">BS with a Major in Psychology</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">BS with a Major in Psychology</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<h2>Degree Requirements</h2>
+<p>To earn a Bachelor of Science in Liberal Arts and Sciences degree from UIC, students must complete university, college, and department degree requirements. The Department of Psychology degree requirements for the Major in Psychology are outlined below. Students should consult the <a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a> section for additional degree requirements and college academic policies.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Summary of Requirements</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Major Requirements</span></td><td class="hourscol">28</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">General Education and Electives to reach minimum Total Hours</span></td><td class="hourscol">92</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">120</td></tr></tbody>
+</table>
+
+<h3>Major Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=PSCH%20100" title="PSCH 100" class="bubblelink code" onclick="return showCourse(this, 'PSCH 100');">PSCH 100</a></td><td>Introduction to Psychology <sup>a</sup></td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=PSCH%20242" title="PSCH 242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH 242</a></td><td>Introduction to Research in Psychology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=PSCH%20343" title="PSCH 343" class="bubblelink code" onclick="return showCourse(this, 'PSCH 343');">PSCH 343</a></td><td>Statistical Methods in Behavioral Science <sup>b</sup></td><td class="hourscol">4</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Select at least one course from the following to fulfill the Writing-in-the-Discipline requirement:</span></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20313" title="PSCH 313" class="bubblelink code" onclick="return showCourse(this, 'PSCH 313');">PSCH 313</a></div></td><td>Laboratory in Social Psychology</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20321" title="PSCH 321" class="bubblelink code" onclick="return showCourse(this, 'PSCH 321');">PSCH 321</a></div></td><td>Laboratory in Developmental Psychology</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20331" title="PSCH 331" class="bubblelink code" onclick="return showCourse(this, 'PSCH 331');">PSCH 331</a></div></td><td>Laboratory in Community and Prevention Research</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20333" title="PSCH 333" class="bubblelink code" onclick="return showCourse(this, 'PSCH 333');">PSCH 333</a></div></td><td>Laboratory in Clinical Psychology</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20351" title="PSCH 351" class="bubblelink code" onclick="return showCourse(this, 'PSCH 351');">PSCH 351</a></div></td><td>Laboratory in Perception</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20353" title="PSCH 353" class="bubblelink code" onclick="return showCourse(this, 'PSCH 353');">PSCH 353</a></div></td><td>Laboratory in Cognition and Memory</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20361" title="PSCH 361" class="bubblelink code" onclick="return showCourse(this, 'PSCH 361');">PSCH 361</a></div></td><td>Laboratory in Learning and Conditioning</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20363" title="PSCH 363" class="bubblelink code" onclick="return showCourse(this, 'PSCH 363');">PSCH 363</a></div></td><td>Laboratory in Behavioral Neuroscience</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20367" title="PSCH 367" class="bubblelink code" onclick="return showCourse(this, 'PSCH 367');">PSCH 367</a></div></td><td>Laboratory in Cognitive Neuroscience</td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Select at least one of the following courses in addition to the course taken for Writing-in-the-Discipline:</span></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20262" title="PSCH 262" class="bubblelink code" onclick="return showCourse(this, 'PSCH 262');">PSCH 262</a></div></td><td>Behavioral Neuroscience</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20350" title="PSCH 350" class="bubblelink code" onclick="return showCourse(this, 'PSCH 350');">PSCH 350</a></div></td><td>Sensation and Perception</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20351" title="PSCH 351" class="bubblelink code" onclick="return showCourse(this, 'PSCH 351');">PSCH 351</a></div></td><td>Laboratory in Perception</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20352" title="PSCH 352" class="bubblelink code" onclick="return showCourse(this, 'PSCH 352');">PSCH 352</a></div></td><td>Cognition and Memory</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20353" title="PSCH 353" class="bubblelink code" onclick="return showCourse(this, 'PSCH 353');">PSCH 353</a></div></td><td>Laboratory in Cognition and Memory</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20360" title="PSCH 360" class="bubblelink code" onclick="return showCourse(this, 'PSCH 360');">PSCH 360</a></div></td><td>Learning and Conditioning</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20361" title="PSCH 361" class="bubblelink code" onclick="return showCourse(this, 'PSCH 361');">PSCH 361</a></div></td><td>Laboratory in Learning and Conditioning</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20363" title="PSCH 363" class="bubblelink code" onclick="return showCourse(this, 'PSCH 363');">PSCH 363</a></div></td><td>Laboratory in Behavioral Neuroscience</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20366" title="PSCH 366" class="bubblelink code" onclick="return showCourse(this, 'PSCH 366');">PSCH 366</a></div></td><td>Cognitive Neuroscience</td><td class="hourscol"></td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Select at least one of the following:</span> <sup>c</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20210" title="PSCH 210" class="bubblelink code" onclick="return showCourse(this, 'PSCH 210');">PSCH 210</a></div></td><td>Theories of Personality</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20231" title="PSCH 231" class="bubblelink code" onclick="return showCourse(this, 'PSCH 231');">PSCH 231</a></div></td><td>Community Psychology</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20270" title="PSCH 270" class="bubblelink code" onclick="return showCourse(this, 'PSCH 270');">PSCH 270</a></div></td><td>Abnormal Psychology</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20312" title="PSCH 312" class="bubblelink code" onclick="return showCourse(this, 'PSCH 312');">PSCH 312</a></div></td><td>Social Psychology</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20313" title="PSCH 313" class="bubblelink code" onclick="return showCourse(this, 'PSCH 313');">PSCH 313</a></div></td><td>Laboratory in Social Psychology</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20320" title="PSCH 320" class="bubblelink code" onclick="return showCourse(this, 'PSCH 320');">PSCH 320</a></div></td><td>Developmental Psychology</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20321" title="PSCH 321" class="bubblelink code" onclick="return showCourse(this, 'PSCH 321');">PSCH 321</a></div></td><td>Laboratory in Developmental Psychology</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20324" title="PSCH 324" class="bubblelink code" onclick="return showCourse(this, 'PSCH 324');">PSCH 324</a></div></td><td>Cultural Psychology</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=PSCH%20331" title="PSCH 331" class="bubblelink code" onclick="return showCourse(this, 'PSCH 331');">PSCH 331</a></div></td><td>Laboratory in Community and Prevention Research</td><td class="hourscol"></td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">Additional Psychology courses for minimum of 28 semester hours</span></td><td class="hourscol">8</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">28</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>This course is approved for the Understanding the Individual and Society General Education category. </em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=PSCH%20343" title="PSCH 343" class="bubblelink code" onclick="return showCourse(this, 'PSCH 343');">PSCH 343</a></span> fulfills the LAS Quantitative Reasoning requirement. </em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>Students should consult the <a href="/ucat/degree-programs/general-education/">General Education</a> section of the catalog to determine which of these courses are approved General Education courses. </em></p></td></tr></table>
+<h2> Recommended Plan of Study</h2>
+<table pdfnorepeatheader="true" class="sc_plangrid">
+<caption>Plan of Study Grid</caption><colgroup>
+	<col class="codecol"/>
+	<col class="titlecol"/>
+	<col class="hourscol"/>
+</colgroup>
+<tr class="plangridyear"><th id="plangrid1_0" class="year" colspan="3">First Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_0_0" colspan="2">Fall Semester</th><th id="hoursheader" scope="col" class="hourscol">Hours</th></tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Academic Writing I: Writing in Academic and Public Contexts</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=MATH%20090" title="MATH 090" class="bubblelink code" onclick="return showCourse(this, 'MATH 090');">MATH 090</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=MATH%20118" title="MATH 118" class="bubblelink code" onclick="return showCourse(this, 'MATH 118');">MATH 118</a></div></td>
+<td headers=" plangrid1_0_0" class="titlecol">Intermediate Algebra<br/><div style="margin-left:20px;" class="blockindent">or Mathematical Reasoning</div></td>
+<td headers="hoursheader" class="hourscol">3-4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3-5</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_0_0" class="titlecol">Hours</td><td headers=" plangrid1_0_0 hoursheader" class="hourscol">13-16</td></tr>
+<tr class="plangridterm"><th id="plangrid1_0_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Academic Writing II: Writing for Inquiry and Research</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=PSCH%20100" title="PSCH 100" class="bubblelink code" onclick="return showCourse(this, 'PSCH 100');">PSCH 100</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Introduction to Psychology</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3-5</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_0_1" class="titlecol">Hours</td><td headers=" plangrid1_0_1 hoursheader" class="hourscol">14-16</td></tr>
+<tr class="plangridyear"><th id="plangrid1_1" class="year" colspan="3">Second Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_1_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_1_0" class="codecol"><a href="/search/?P=PSCH%20242" title="PSCH 242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH 242</a></td>
+<td headers=" plangrid1_1_0" class="titlecol">Introduction to Research in Psychology</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">Psychology Elective</span> <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_1_0" class="titlecol">Hours</td><td headers=" plangrid1_1_0 hoursheader" class="hourscol">16</td></tr>
+<tr class="plangridterm"><th id="plangrid1_1_1" colspan="3">Spring Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">Psychology Elective</span> <sup>b,c</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">Foreign Language</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">General Education Requirement course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_1_1" class="titlecol">Hours</td><td headers=" plangrid1_1_1 hoursheader" class="hourscol">16</td></tr>
+<tr class="plangridyear"><th id="plangrid1_2" class="year" colspan="3">Third Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_2_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=PSCH%20343" title="PSCH 343" class="bubblelink code" onclick="return showCourse(this, 'PSCH 343');">PSCH 343</a></td>
+<td headers=" plangrid1_2_0" class="titlecol">Statistical Methods in Behavioral Science <sup>d</sup></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">Psychology Selective</span> <sup>b,c</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course/Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">General Education Requirement course/Elective</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_2_0" class="titlecol">Hours</td><td headers=" plangrid1_2_0 hoursheader" class="hourscol">16</td></tr>
+<tr class="plangridterm"><th id="plangrid1_2_1" colspan="3">Spring Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">Psychology Elective</span> <sup>d</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">Psychology Elective</span> <sup>d</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">9</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_2_1" class="titlecol">Hours</td><td headers=" plangrid1_2_1 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridyear"><th id="plangrid1_3" class="year" colspan="3">Fourth Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_3_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">PSCH Selective - Lab Course (WID)</span> <sup>e</sup></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">12</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_3_0" class="titlecol">Hours</td><td headers=" plangrid1_3_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid1_3_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">Electives</span></td>
+<td headers="hoursheader" class="hourscol">13-15</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_3_1" class="titlecol">Hours</td><td headers=" plangrid1_3_1 hoursheader" class="hourscol">13-15</td></tr>
+<tr class="plangridtotal lastrow odd"><td> </td><td>Total Hours</td><td headers="hoursheader" class="hourscol">120</td></tr>
+</table>
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Psychology electives taken at this time are restricted to the 200-level, as 300-level PSCH courses cannot be taken until <span class="sc_courseinline"><a href="/search/?P=PSCH%20242" title="PSCH 242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH 242</a></span> is completed with a C or better.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>At least one course must be taken from <span class="sc_courseinline"><a href="/search/?P=PSCH%20262" title="PSCH 262" class="bubblelink code" onclick="return showCourse(this, 'PSCH 262');">PSCH 262</a></span>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20350" title="PSCH 350" class="bubblelink code" onclick="return showCourse(this, 'PSCH 350');">PSCH 350</a></span>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20351" title="PSCH 351" class="bubblelink code" onclick="return showCourse(this, 'PSCH 351');">PSCH 351</a></span>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20352" title="PSCH 352" class="bubblelink code" onclick="return showCourse(this, 'PSCH 352');">PSCH 352</a></span>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20353" title="PSCH 353" class="bubblelink code" onclick="return showCourse(this, 'PSCH 353');">PSCH 353</a></span>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20360" title="PSCH 360" class="bubblelink code" onclick="return showCourse(this, 'PSCH 360');">PSCH 360</a></span>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20361" title="PSCH 361" class="bubblelink code" onclick="return showCourse(this, 'PSCH 361');">PSCH 361</a></span>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20363" title="PSCH 363" class="bubblelink code" onclick="return showCourse(this, 'PSCH 363');">PSCH 363</a></span>, and <span class="sc_courseinline"><a href="/search/?P=PSCH%20366" title="PSCH 366" class="bubblelink code" onclick="return showCourse(this, 'PSCH 366');">PSCH 366</a></span>, in addition to courses taken to satisfy the Writing-in-the-Discipline requirement. Consult a departmental advisor when choosing courses. </em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>At least one course must be taken from <span class="sc_courseinline"><a href="/search/?P=PSCH%20210" title="PSCH 210" class="bubblelink code" onclick="return showCourse(this, 'PSCH 210');">PSCH 210</a></span>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20231" title="PSCH 231" class="bubblelink code" onclick="return showCourse(this, 'PSCH 231');">PSCH 231</a></span>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20270" title="PSCH 270" class="bubblelink code" onclick="return showCourse(this, 'PSCH 270');">PSCH 270</a></span>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20312" title="PSCH 312" class="bubblelink code" onclick="return showCourse(this, 'PSCH 312');">PSCH 312</a></span>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20313" title="PSCH 313" class="bubblelink code" onclick="return showCourse(this, 'PSCH 313');">PSCH 313</a></span>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20320" title="PSCH 320" class="bubblelink code" onclick="return showCourse(this, 'PSCH 320');">PSCH 320</a></span>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20321" title="PSCH 321" class="bubblelink code" onclick="return showCourse(this, 'PSCH 321');">PSCH 321</a></span>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20324" title="PSCH 324" class="bubblelink code" onclick="return showCourse(this, 'PSCH 324');">PSCH 324</a></span>, and <span class="sc_courseinline"><a href="/search/?P=PSCH%20331" title="PSCH 331" class="bubblelink code" onclick="return showCourse(this, 'PSCH 331');">PSCH 331</a></span>, in addition to courses taken to satisfy the Writing-in-the-Discipline requirement. Consult a departmental advisor when choosing courses. </em></p></td></tr><tr><td valign="top" class="symcol">d</td><td class="notecol"><p><em>A combined maximum of 8 hours of credit in <span class="sc_courseinline"><a href="/search/?P=PSCH%20396" title="PSCH 396" class="bubblelink code" onclick="return showCourse(this, 'PSCH 396');">PSCH 396</a></span>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20397" title="PSCH 397" class="bubblelink code" onclick="return showCourse(this, 'PSCH 397');">PSCH 397</a></span> </em><em>and <span class="sc_courseinline"><a href="/search/?P=PSCH%20399" title="PSCH 399" class="bubblelink code" onclick="return showCourse(this, 'PSCH 399');">PSCH 399</a></span> </em><em> can be applied toward the degree. </em></p></td></tr><tr><td valign="top" class="symcol">e</td><td class="notecol"><p><em>At least one course must be taken from <span class="sc_courseinline"><a href="/search/?P=PSCH%20313" title="PSCH 313" class="bubblelink code" onclick="return showCourse(this, 'PSCH 313');">PSCH 313</a></span>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20321" title="PSCH 321" class="bubblelink code" onclick="return showCourse(this, 'PSCH 321');">PSCH 321</a></span>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20331" title="PSCH 331" class="bubblelink code" onclick="return showCourse(this, 'PSCH 331');">PSCH 331</a></span>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20351" title="PSCH 351" class="bubblelink code" onclick="return showCourse(this, 'PSCH 351');">PSCH 351</a></span>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20353" title="PSCH 353" class="bubblelink code" onclick="return showCourse(this, 'PSCH 353');">PSCH 353</a></span>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20361" title="PSCH 361" class="bubblelink code" onclick="return showCourse(this, 'PSCH 361');">PSCH 361</a></span></em><em>, <span class="sc_courseinline"><a href="/search/?P=PSCH%20363" title="PSCH 363" class="bubblelink code" onclick="return showCourse(this, 'PSCH 363');">PSCH 363</a></span></em><em>, or <span class="sc_courseinline"><a href="/search/?P=PSCH%20367" title="PSCH 367" class="bubblelink code" onclick="return showCourse(this, 'PSCH 367');">PSCH 367</a></span> in order to fulfill the Writing in the Discipline Requirement. </em></p></td></tr></table></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="bs-psychology.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

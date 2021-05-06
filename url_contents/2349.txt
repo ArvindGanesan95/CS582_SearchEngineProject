@@ -1,0 +1,754 @@
+https://catalog.uic.edu/ucat/colleges-depts/liberal-arts-sciences/anth/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Department of Anthropology &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/liberal-arts-sciences/">
+				<li class="active isparent self"><a href="#" onclick="return false;">Anthropology</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/liberal-arts-sciences/anth/">
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/ba/">BA with a Major in Anthropology</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/minor-anth/">Minor in Anthropology</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/minor-geog/">Minor in Geography</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/certificate-medical-humanities/">Certificate in Medical Humanities</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/">Biochemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/">Biological Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/">Black Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/">Chemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/">Classics and Mediterranean Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/">Communication</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/">Criminology, Law, and Justice</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/">Earth and Environmental Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/">Economics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/">English</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French and Francophone Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/">Gender and Women's Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/">Germanic Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/">Global Asian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/">Hispanic and Italian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/">History</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/">Integrated Health Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/">International Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/">Liberal Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/">Linguistics</a></li>
+				<li><a href="/ucat/colleges-depts/liberal-arts-sciences/lcsl/">Literatures, Cultural Studies, and Linguistics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/">Mathematics, Statistics, and Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/">Moving Image Arts</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/">Neuroscience</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/">Philosophy</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/">Physics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/">Polish, Russian, and Lithuanian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/">Political Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/">Psychology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/">Religious Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/">Sociology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional Studies</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/">College&nbsp;of&nbsp;Liberal&nbsp;Arts&nbsp;and&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><span class="active">Anthropology</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Department of Anthropology</h1>
+
+
+<script type="text/javascript">
+//<![CDATA[
+	var defshow = "text";
+	var bodycontainer = "#body";
+	var validhashes = ",text,undergraduateprogramstext,coursestext,";
+
+if(window.location.hash.length) {
+	var hash = cleanHash(window.location.hash);
+	if(validhashes.indexOf("," + hash + ",") != -1)
+		defshow = hash;	
+}
+var ss = document.styleSheets;
+var workss = null;
+for(var i=0; i < ss.length; i++) {
+	var currmedia = "";
+	if (typeof ss[i].media == "string") 
+		currmedia = ss[i].media
+	else if (typeof ss[i].media == "object" && ss[i].media.mediaText) 
+		currmedia = ss[i].media.mediaText;
+	
+	if((currmedia == "screen" || currmedia == "all") && (ss[i].href.indexOf("/") == 0 || ss[i].href.indexOf(document.location.host) >= 0)) {
+		workss = ss[i];
+		break;	
+	}
+}
+if(workss && workss.insertRule) {
+	workss.insertRule(".tab_content { display: none; }", workss.cssRules.length)
+	workss.insertRule(".sectionheader { display: none; }", workss.cssRules.length)
+	workss.insertRule("#" + defshow + "container { display: block; }", workss.cssRules.length)
+} else if(workss && workss.addRule) {
+	workss.addRule(".tab_content", "display: none");
+	workss.addRule(".sectionheader", "display: none");
+	workss.addRule("#" + defshow + "container", "display: block");
+}
+else {
+	if (window.console)
+		window.console.log('screen.css <link> needs attribute media="screen"');
+}
+//]]>
+</script>
+	<div id="tabs">
+		<ul class="clearfix" role="tablist">
+			<li id="texttab" role="presentation">
+<a href="#textcontainer" role="tab" aria-controls="textcontainer" onclick="return showSection('text');">Overview</a></li>
+			<li id="undergraduateprogramstexttab" role="presentation">
+<a href="#undergraduateprogramstextcontainer" role="tab" aria-controls="undergraduateprogramstextcontainer" onclick="return showSection('undergraduateprogramstext');" >Programs and Requirements</a></li>
+			<li id="coursestexttab" role="presentation">
+<a href="#coursestextcontainer" role="tab" aria-controls="coursestextcontainer" onclick="return showSection('coursestext');" >Courses</a></li>
+		</ul>
+	</div>
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p class="campus_location"><span class="label"><strong>Contact Information: </strong></span><br/>
+<span class="campus_location">Campus Location: 2102 Behavioral Sciences Building (BSB) <br/>
+<span class="phone">(312) 413–3570</span> <br/>
+<span class="email"><a href="mailto:anthoffice@uic.edu">anthoffice@uic.edu</a></span> <br/>
+<span class="website"><a href="https://anth.uic.edu/">anth.uic.edu</a></span></span></p>
+<p class="administration"><span class="label"><strong>Administration: </strong></span><br/>
+Head, Sloan Williams<br/>
+Director of Undergraduate Studies, Anthropology: Dr. Vincent LaMotta, <a href="mailto:vlamotta@uic.edu">vlamotta@uic.edu</a><br/>
+Director of Undergraduate Studies, Geography: Dr. Vincent LaMotta, <a href="mailto:vlamotta@uic.edu">vlamotta@uic.edu</a></p>
+<p>Anthropology is the study of human culture, society, and biology across time and space. Through three fields of inquiry—sociocultural anthropology, biological anthropology, and archaeology—UIC anthropology provides a holistic approach to understanding human cultures and societies from prehistory to the present.  By providing contemporary perspectives on culture and society,  it prepares students to understand the complex problems and challenges posed by a globalized society and economy. Through explorations of the complex relationship between culture and biology, biological anthropology prepares students to think about how cultural understandings, social experiences and positions, and health are intertwined.  Archaeology extends these understandings into the past, excavating the deep relationship between human history, prehistory, and the present. The expertise of the faculty affords students the opportunity to pursue interests in most of the major time periods and geographic areas of the world.</p>
+<p>An undergraduate education in anthropology provides valuable preparation for many careers that involve working with individuals of diverse national or ethnic backgrounds. Undergraduate majors have found careers in global public health, healthcare services, social case work, cultural resource management, museum education, public housing, employment and personnel counseling, public office, the Peace Corps, field archaeology, import businesses, market research, the Foreign Service, and social and environmental planning. Anthropology majors are also well positioned to continue their education, not only to be career anthropologists, but to enter professions such as computer programming, law, medicine, business, urban planning, nonprofit management, and public administration.</p>
+<h2>Distinction in Anthropology</h2>
+<p>To be considered for distinction, a candidate must have a 3.00/4.00 cumulative GPA and meet all the requirements for a major in Anthropology, plus the following:</p>
+<ul>
+	<li>3.50/4.00 GPA in the major for Distinction</li>
+	<li>3.75/4.00 GPA in the major for High Distinction</li>
+	<li>3.75/4.00 GPA in the major and satisfactorily complete a thesis in <span class="sc_courseinline"><a href="/search/?P=ANTH%20390" title="ANTH 390" class="bubblelink code" onclick="return showCourse(this, 'ANTH 390');">ANTH 390</a></span> for Highest Distinction. This course involves the preparation of an honors research paper, under the supervision of a faculty member of the student’s choosing, and its acceptance by a three-member honors committee especially constituted for this purpose.</li>
+
+</ul>
+</div><!--end #textcontainer -->
+
+			<div id="undergraduateprogramstextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="undergraduateprogramstexttab" aria-hidden="true">
+				<a name="undergraduateprogramstext"></a><p><strong>Degree Program</strong></p>
+<ul>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/ba/">BA with a Major in Anthropology</a></li>
+</ul>
+<h2>Minors</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/minor-anth/">Minor in Anthropology</a></li>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/minor-geog/">Minor in Geography</a></li>
+</ul>
+<h2>Certificates</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/certificate-medical-humanities/">Certificate in Medical Humanities</a></li>
+</ul>
+			</div>
+			<div id="coursestextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="coursestexttab" aria-hidden="true">
+				<a name="coursestext"></a><div class="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 100.  The Human Adventure.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A survey of approaches to the study of the origins and the cultural and biological development of humankind. Course Information: No credit given towards the major in Anthropology. Class Schedule Information: To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<i>  Past course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 101.  World Cultures: Introduction to Social Anthropology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Concepts and methods in the study of world cultures from a comparative anthropological perspective, emphasizing selected non-U.S. societies, cultures, and ethnographic regions. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<i>  Individual and Society course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 102.  Introduction to Archaeology.  4 hours.</strong></p>
+<p class="courseblockdesc">
+This course surveys world prehistory and introduces students to the theories and methods archaeologists use to understand the past. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture.<i>  Natural World - With Lab course, and  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 105.  Human Evolution.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Human evolution and variability; methods of assessing fossil evidence for evolutionary change; principles of biological adaptation. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture.<i>  Natural World - With Lab course, and  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 200.  Anthropological Theory.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Theoretical approaches to the study of culture and society in anthropology. Course Information: Prerequisite(s): <a href="/search/?P=ANTH%20101" title="ANTH 101" class="bubblelink code" onclick="return showCourse(this, 'ANTH 101');">ANTH 101</a> or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 201.  Asian Markets, Corporations, and Social Justice.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A critical analysis of multinational corporations as social institutions and their commodification and representation of Asian and Asian American cultures and economies. Includes topics like KPop, fair trade, sweatshops, and the beauty industry. Course Information: Same as <a href="/search/?P=GLAS%20201" title="GLAS 201" class="bubblelink code" onclick="return showCourse(this, 'GLAS 201');">GLAS 201</a>. Prerequisite(s): <a href="/search/?P=GLAS%20100" title="GLAS 100" class="bubblelink code" onclick="return showCourse(this, 'GLAS 100');">GLAS 100</a>; or consent of the instructor.<i>  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 207.  Asian Cities: Urban Cultures of the Global South.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The dynamics of urbanization in a number of Asian cities, including Mumbai, Shanghai, Singapore and Dubai, that have emerged as important nodes in the global economy, and that exemplify contemporary urban culture as it manifests cross-culturally. Course Information: Same as <a href="/search/?P=GLAS%20207" title="GLAS 207" class="bubblelink code" onclick="return showCourse(this, 'GLAS 207');">GLAS 207</a>. Prerequisite(s): <a href="/search/?P=ANTH%20101" title="ANTH 101" class="bubblelink code" onclick="return showCourse(this, 'ANTH 101');">ANTH 101</a>; or consent of the instructor.<i>  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 208.  Virtual Lives: Science, Technology, and Culture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An anthropological perspective on science and technology. The role of science and technology on the social and cultural worlds in which we live. Course Information: Prerequisite(s): <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>. Class Schedule: To be properly registered, students must be enrolled in one Lecture and one Discussion.<i>  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 215.  Anthropology of Religion.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Exploration of varieties of religious experience, including magic and witchcraft, with emphasis on non-Western religions and the role of religious institutions in social integration. Course Information: Same as <a href="/search/?P=RELS%20215" title="RELS 215" class="bubblelink code" onclick="return showCourse(this, 'RELS 215');">RELS 215</a>. Prerequisite(s): <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>.<i>  Individual and Society course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 216.  Medicine, Culture, and Society.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Medical anthropology explores illness and health as both embodied and socially constructed. It maintains that illness reflects cultural understandings of the body, social/structural inequalities, and differential distributions of power. Course Information: Recommended for pre-health students who plan to work in multi-cultural settings. Prerequisite(s): Completion of the English Composition requirement; or consent of the instructor. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion/Recitation.<i>  Individual and Society course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 217.  Special Topics in Sociocultural Anthropology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on new and innovative topical and theoretical approaches in Anthropology or new research topics of interest in socio-cultural anthropology. Course Information: May be repeated. Students may register for more than one section per term. Prerequisite(s): <a href="/search/?P=ANTH%20101" title="ANTH 101" class="bubblelink code" onclick="return showCourse(this, 'ANTH 101');">ANTH 101</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 218.  Anthropology of Children and Childhood.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines childhood, a uniquely human life stage, both across cultures and from a biosocial perspective that includes both physical and social development. Course Information: Prerequisite(s): <a href="/search/?P=ANTH%20101" title="ANTH 101" class="bubblelink code" onclick="return showCourse(this, 'ANTH 101');">ANTH 101</a> and <a href="/search/?P=ANTH%20105" title="ANTH 105" class="bubblelink code" onclick="return showCourse(this, 'ANTH 105');">ANTH 105</a>; or consent of the instructor.<i>  Individual and Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 219.  Anthropology of Globalization.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Explores capitalism as a culture, its origins, and the problems of consumer culture in the U.S. and the world. Course Information: Prerequisite(s): <a href="/search/?P=ANTH%20101" title="ANTH 101" class="bubblelink code" onclick="return showCourse(this, 'ANTH 101');">ANTH 101</a>; or consent of the instructor.<i>  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 220.  Method and Theory in Archaeology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to techniques and methods in archaeology, archaeological reasoning, research design, and methods of analysis.  Archaeological methods for the analysis of prehistoric technology, economy, social and political organization.
+ Course Information: Prerequisite(s): <a href="/search/?P=ANTH%20102" title="ANTH 102" class="bubblelink code" onclick="return showCourse(this, 'ANTH 102');">ANTH 102</a> or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 223.  Southwestern Archaeology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the archaeology of ancient Native American cultures of the North American Southwest, emphasizing processes of culture change from earliest times until European contact, with focus on current debates and relevant methods and theories. Course Information: Same as <a href="/search/?P=LALS%20223" title="LALS 223" class="bubblelink code" onclick="return showCourse(this, 'LALS 223');">LALS 223</a>. Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=ANTH%20102" title="ANTH 102" class="bubblelink code" onclick="return showCourse(this, 'ANTH 102');">ANTH 102</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 224.  Archaeology of Mainland Southeast Asia.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the archaeology of mainland Southeast Asia, ranging from the appearance of early peoples to the rise of states such as the Angkorian Khmer Empire. Course Information: Same as <a href="/search/?P=GLAS%20224" title="GLAS 224" class="bubblelink code" onclick="return showCourse(this, 'GLAS 224');">GLAS 224</a>. Prerequisite(s): <a href="/search/?P=ANTH%20101" title="ANTH 101" class="bubblelink code" onclick="return showCourse(this, 'ANTH 101');">ANTH 101</a> or <a href="/search/?P=ANTH%20102" title="ANTH 102" class="bubblelink code" onclick="return showCourse(this, 'ANTH 102');">ANTH 102</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 226.  Archaeology of North America.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the prehistoric cultures of North America from earliest times until the arrival of Europeans. Course Information: Same as <a href="/search/?P=LALS%20257" title="LALS 257" class="bubblelink code" onclick="return showCourse(this, 'LALS 257');">LALS 257</a>. Prerequisite(s): <a href="/search/?P=ANTH%20102" title="ANTH 102" class="bubblelink code" onclick="return showCourse(this, 'ANTH 102');">ANTH 102</a> or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 227.  Ancient Civilizations of Mexico and Central America.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis and interpretation of the archaeological evidence on the process of development of native civilization in the Meso-American area from the beginnings of agricultural settlement to the eve of the Spanish conquest. Course Information: Same as <a href="/search/?P=GEOG%20207" title="GEOG 207" class="bubblelink code" onclick="return showCourse(this, 'GEOG 207');">GEOG 207</a> and <a href="/search/?P=LALS%20258" title="LALS 258" class="bubblelink code" onclick="return showCourse(this, 'LALS 258');">LALS 258</a>. Prerequisite(s): <a href="/search/?P=ANTH%20102" title="ANTH 102" class="bubblelink code" onclick="return showCourse(this, 'ANTH 102');">ANTH 102</a>; or sophomore standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 229.  Special Topics in Archaeology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Covers special topics in archaeology. Course Information: May be repeated. Students may register for more than one section per term. Prerequisite(s): <a href="/search/?P=ANTH%20102" title="ANTH 102" class="bubblelink code" onclick="return showCourse(this, 'ANTH 102');">ANTH 102</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 231.  Becoming Human: The Fossil Record.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The fossil record as it applies to different interpretations of human evolution; principles of evolutionary biology; survey of the biology and behavior of living primates. Course Information: Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 234.  Modern Human Variation and Adaptation.  4 hours.</strong></p>
+<p class="courseblockdesc">
+A broad overview of genetic variation and biosocial adaptation in contemporary human groups. Course Information: Prerequisite(s): <a href="/search/?P=ANTH%20105" title="ANTH 105" class="bubblelink code" onclick="return showCourse(this, 'ANTH 105');">ANTH 105</a>. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture-Discussion.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 237.  The Human Skeleton.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of the human skeleton, emphasizing bone identification and functional anatomy. Course Information: Same as <a href="/search/?P=BIOS%20237" title="BIOS 237" class="bubblelink code" onclick="return showCourse(this, 'BIOS 237');">BIOS 237</a>. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory-Discussion and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 238.  Biology of Women.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An evolutionary perspective on the biology of women from conception to menopause, in light of current research on genetics, hormones, and development. Topics include sexual differentiation, sex differences, and life history. Course Information: Same as <a href="/search/?P=GWS%20238" title="GWS 238" class="bubblelink code" onclick="return showCourse(this, 'GWS 238');">GWS 238</a>. Prerequisite(s): Grade of C or better in <a href="/search/?P=ANTH%20105" title="ANTH 105" class="bubblelink code" onclick="return showCourse(this, 'ANTH 105');">ANTH 105</a>; or consent of the instructor. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<i>  Individual and Society course, and  Natural World - No Lab course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 239.  Special Topics in Biological Anthropology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Special topics in Biological Anthropology. Course Information: May be repeated.  Students may register for more than one section per term. Prerequisite(s): <a href="/search/?P=ANTH%20105" title="ANTH 105" class="bubblelink code" onclick="return showCourse(this, 'ANTH 105');">ANTH 105</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 242.  Introduction to Arab American Studies.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Addresses key themes in Arab American Studies: immigration and racism; family, gender, and sexuality; socio-economic class; religious affiliation; arts and cultures; and politics and political activism. Course Information: Same as <a href="/search/?P=GLAS%20242" title="GLAS 242" class="bubblelink code" onclick="return showCourse(this, 'GLAS 242');">GLAS 242</a>. Prerequisite(s): Grade of C or better in <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>.<i>  US Society course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 243.  The Archaeology of Buddhism.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The development, spread, integration, and decline of Buddhism in many parts of Asia. The study of material culture as a way of reconstructing and understanding the religious past. Course Information: Same as <a href="/search/?P=RELS%20243" title="RELS 243" class="bubblelink code" onclick="return showCourse(this, 'RELS 243');">RELS 243</a>. Prerequisite(s): <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 244.  Arab and Asian Connections in the U.S. and Globally.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A comparative study of contemporary Arab and Asian communities in the US and around the globe that examines issues of militarism/war; immigration/displacement; racism; and social justice activism. Course Information: Same as <a href="/search/?P=GLAS%20244" title="GLAS 244" class="bubblelink code" onclick="return showCourse(this, 'GLAS 244');">GLAS 244</a>. Prerequisite(s): Grade of C or better in <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>.<i>  US Society course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 248.  Afro Asian Solidarities.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An exploration of the radical possibilities of transnational alliances and the long history of cross-racial solidarities between Asia and Africa, Asians and Africans, both globally and in the U.S. Course Information: Same as <a href="/search/?P=GLAS%20248" title="GLAS 248" class="bubblelink code" onclick="return showCourse(this, 'GLAS 248');">GLAS 248</a> and <a href="/search/?P=GWS%20248" title="GWS 248" class="bubblelink code" onclick="return showCourse(this, 'GWS 248');">GWS 248</a>. Prerequisite(s): Grade of C or better in <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>.<i>  US Society course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 255.  Introduction to Middle East and Muslim Feminisms.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to Middle East and Muslim feminisms that draws on the social sciences. Emphasizes intersections of family, religion, nation, colonialism, militarism, gender, and sexuality. Course Information: Same as <a href="/search/?P=GLAS%20255" title="GLAS 255" class="bubblelink code" onclick="return showCourse(this, 'GLAS 255');">GLAS 255</a> and <a href="/search/?P=GWS%20255" title="GWS 255" class="bubblelink code" onclick="return showCourse(this, 'GWS 255');">GWS 255</a>. Prerequisite(s): Completion of the English Composition requirement.<i>  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 256.  European-Indigenous Interaction in Latin America.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Responses of indigenous societies in Latin America to colonization by people from the Old World. The historical and social circumstances of contact and culture change will be covered.  Course Information:  Same as <a href="/search/?P=LALS%20256" title="LALS 256" class="bubblelink code" onclick="return showCourse(this, 'LALS 256');">LALS 256</a>.<i>  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 262.  Constructions of Gender, Race, Health, and Human Rights.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Explores issues at the intersections of gender, race, and sexuality through the lens of health in both U.S. and non-U.S. contexts. Course Information: Same as <a href="/search/?P=GWS%20262" title="GWS 262" class="bubblelink code" onclick="return showCourse(this, 'GWS 262');">GWS 262</a>. Prerequisite(s): <a href="/search/?P=GWS%20101" title="GWS 101" class="bubblelink code" onclick="return showCourse(this, 'GWS 101');">GWS 101</a> or <a href="/search/?P=GWS%20102" title="GWS 102" class="bubblelink code" onclick="return showCourse(this, 'GWS 102');">GWS 102</a>; and sophomore standing or above; or consent of the instructor.<i>  Individual and Society course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 272.  North American Indians.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of the indigenous culture of North America as viewed through the generations by early explorers, missionaries, nineteenth century ethnologists, and contemporary social scientists.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 273.  Ethnography of Southeast Asia.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of selected cultures of mainland Southeast Asia, with emphasis on cultural ecology, tribal formation, and nationalism. Course Information: Same as <a href="/search/?P=GEOG%20273" title="GEOG 273" class="bubblelink code" onclick="return showCourse(this, 'GEOG 273');">GEOG 273</a>.<i>  Individual and Society course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 276.  Pacific Island Cultures.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Polynesian, Micronesian, and Melanesian island societies; their ecosystems and cultures, emphasizing their unity and diversity.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 277.  Ethnography of Meso-America.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of the contemporary indigenous cultures of Meso-America, studied against their pre-conquest history and in their development since the Spanish Conquest. Course Information: Same as <a href="/search/?P=LALS%20270" title="LALS 270" class="bubblelink code" onclick="return showCourse(this, 'LALS 270');">LALS 270</a>. Prerequisite(s): <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>.<i>  Individual and Society course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 279.  South Asian Cultures and Societies.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of the people and cultures of South Asian Cultures; emphasis on social structure, religion, and recent cultural changes. Course Information: Same as <a href="/search/?P=GLAS%20279" title="GLAS 279" class="bubblelink code" onclick="return showCourse(this, 'GLAS 279');">GLAS 279</a>.<i>  Individual and Society course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 309.  Writing Culture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A survey of genres of anthropological reporting with a critical examination of the process by which observations are transformed into written form as well as continued development of composition skills. Course Information: Prerequisite(s): <a href="/search/?P=ANTH%20101" title="ANTH 101" class="bubblelink code" onclick="return showCourse(this, 'ANTH 101');">ANTH 101</a> and completion of the English composition requirement (or its equivalent); or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 310.  An Introduction to the Anthropology of the Body.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Theoretical and methodological approaches to the body as the interface between nature and culture. It considers how culture is embodied, how the body is encultured, and how cultures of perception vary through time and space.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 311.  The Anthropology of Consumption.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The nature, experience, and cultural politics of consumption from historical and cross cultural perspectives paying particular attention to the emergence of consumption as a crucial domain within the culture of capitalism.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 312.  Cross-Cultural and Historical Perspectives of Youth Culture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The cultural construction of &quot;youth&quot; and &quot;youth culture&quot; through time and around the world. The ways in which age designations are used to naturalize a variety of broader cultural/ideological projects.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 314.  Anthropology of Food.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The culture and politics of food in cross-cultural perspective with an emphasis on holism (the political, social, and environmental vectors of food systems), identity, and social movements. Course Information: Prerequisite(s): <a href="/search/?P=ANTH%20101" title="ANTH 101" class="bubblelink code" onclick="return showCourse(this, 'ANTH 101');">ANTH 101</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 319.  Environmental Anthropology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of the environment in relation to human technology and global connection divided into three general topics: transformation of the environment, commodification of nature, and politics of the environment. Course Information: Prerequisite(s): <a href="/search/?P=ANTH%20101" title="ANTH 101" class="bubblelink code" onclick="return showCourse(this, 'ANTH 101');">ANTH 101</a>; or consent of the instructor. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 320.  Topics in Archaeology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Readings, study and discussion of selected problems in archaeology. Topics will vary.  Course Information:  Prerequisite(s):  <a href="/search/?P=ANTH%20102" title="ANTH 102" class="bubblelink code" onclick="return showCourse(this, 'ANTH 102');">ANTH 102</a> and successful completion of one archaeology class at the 200 level.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 324.  Angkor and the Khmer Empire.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An investigation of the people, culture, technologies and achievements of the medieval southeast Asian Angkorian Khmer through a combination of archaeological, textual and art historical evidence. Course Information: Prerequisite(s): <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a> and <a href="/search/?P=ANTH%20102" title="ANTH 102" class="bubblelink code" onclick="return showCourse(this, 'ANTH 102');">ANTH 102</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 332.  Performance Ethnography.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Students engage performance as a subject and method of study as they investigate the methods and ethics of conducting ethnographic research and creating performance in order to explore how people express, negotiate, and create identity and meaning. Course Information: Same as <a href="/search/?P=THTR%20332" title="THTR 332" class="bubblelink code" onclick="return showCourse(this, 'THTR 332');">THTR 332</a>. Field work required. Recommended background: Considerable interest in performance and/or ethnography is important; but no formal performance or ethnography training is required. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 335.  Topics in Biological Anthropology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Theoretical and substantive issues in the study of both human and non-human primates as well as hominids, as represented in current journals and topical volumes. Course Information: May be repeated to a maximum of 9 hours. Students may register in more than one section per term. Prerequisite(s): <a href="/search/?P=ANTH%20105" title="ANTH 105" class="bubblelink code" onclick="return showCourse(this, 'ANTH 105');">ANTH 105</a> and one 200-level course in biological anthropology.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 386.  Elements of Spatial Analysis.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Implications of geographic concerns for data gathering and analysis. Spatial sampling and weighting of areal data. Reconciling record and zone inconsistencies when merging data from several sources. Course Information: Same as GEOG 386. Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 390.  Honors Research.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Individual study or research projects for students seeking departmental distinction. Course Information: May be repeated to a maximum of 6 hours. Successful completion necessary for &quot;Departmental Distinction&quot; with final paper submitted to three-member honors committee for approval. Prerequisite(s): Junior standing or above,  approval of the department,  a 3.00 University grade point average, and a 3.50 grade point average in anthropology. Class Schedule Information: This course counts toward the limited number of independent study hours accepted toward the degree and major.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 394.  Topics in Sociocultural Anthropology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Reading, study and discussion of selected problems in sociocultural anthropology. Course Information: May be repeated to a maximum of 9 hours. Students may register in more than one section per term. Prerequisite(s): <a href="/search/?P=ANTH%20101" title="ANTH 101" class="bubblelink code" onclick="return showCourse(this, 'ANTH 101');">ANTH 101</a> or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 409.  Ancient Maya Writing, Language and Culture.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Recent trends in Maya epigraphy, information gained from Maya hieroglyphs, linguistics, and historical ethnographies are applied to anthropological analyses of past lifeways. Course Information: Same as <a href="/search/?P=LALS%20409" title="LALS 409" class="bubblelink code" onclick="return showCourse(this, 'LALS 409');">LALS 409</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Junior standing or above; and consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 411.  Urban Cultural Problems.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+A study of the processes of urbanization and of cultural and social adjustments to the city; illustrated by case studies. Course Information: 3 undergraduate hours. 4 graduate hours.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 415.  Foundations in Anthropology and Global Health I.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Explores the field of cultural medical anthropology and provides a theoretical foundation allowing for understanding and exploration of anthropology's role in international health. Course Information: Same as <a href="/search/?P=IPHS%20415" title="IPHS 415" class="bubblelink code" onclick="return showCourse(this, 'IPHS 415');">IPHS 415</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Grade of B or better in <a href="/search/?P=ANTH%20216" title="ANTH 216" class="bubblelink code" onclick="return showCourse(this, 'ANTH 216');">ANTH 216</a>; and junior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 416.  Foundations in Anthropology and Global Health II.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Provides an evolutionary and biocultural approach to human biology, physiology, health and disease. Course Information: Same as <a href="/search/?P=IPHS%20416" title="IPHS 416" class="bubblelink code" onclick="return showCourse(this, 'IPHS 416');">IPHS 416</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Grade of B or better in ANTH 232; and junior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 418.  Ethnographic and Qualitative Research Methods.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Practical introduction to the techniques of social scientists for research in natural social settings:  participant observation/non-participant observation, interviewing, use of documentary sources, etc.  Course Information: Same as <a href="/search/?P=GEOG%20418" title="GEOG 418" class="bubblelink code" onclick="return showCourse(this, 'GEOG 418');">GEOG 418</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s):  Junior standing or above.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 420.  Seminar in Archaeology and Ethnography.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Case studies of investigations in archeology using research monographs and other primary sources. Substantive data and related theoretical problems are examined simultaneously. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated to a maximum of 15 hours.  Prerequisite(s): Junior standing or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 423.  Andean Prehistory.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+An overview of the cultural evolution of the Andean region from the arrival of the first inhabitants to the development of the Inca empire.  Course Information:  Same as <a href="/search/?P=LALS%20423" title="LALS 423" class="bubblelink code" onclick="return showCourse(this, 'LALS 423');">LALS 423</a>.  3 undergraduate hours.  4 graduate hours.  Prerequisite(s): ANTH 269; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 424.  Violence.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of violence theory and research. Examination of  types, causes and consequences of violence historically and in the present. Exploration of  acts of resistance to violence. Course Information: Same as <a href="/search/?P=CLJ%20423" title="CLJ 423" class="bubblelink code" onclick="return showCourse(this, 'CLJ 423');">CLJ 423</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Two 200-level CLJ courses; junior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 425.  Field Techniques in Archaeology.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Exposure to field methods in archaeology through participation in an actual research project. Students are instructed in field excavation techniques. Usually offered in summer session. Course Information: Same as <a href="/search/?P=GEOG%20425" title="GEOG 425" class="bubblelink code" onclick="return showCourse(this, 'GEOG 425');">GEOG 425</a>. May be repeated to a maximum of 8 hours.  Prerequisite(s): <a href="/search/?P=ANTH%20102" title="ANTH 102" class="bubblelink code" onclick="return showCourse(this, 'ANTH 102');">ANTH 102</a> or consent of the instructor. Recommended: Concurrent registration in <a href="/search/?P=ANTH%20426" title="ANTH 426" class="bubblelink code" onclick="return showCourse(this, 'ANTH 426');">ANTH 426</a> or <a href="/search/?P=GEOG%20426" title="GEOG 426" class="bubblelink code" onclick="return showCourse(this, 'GEOG 426');">GEOG 426</a>. Class Schedule Information:  To be properly registered, students must enroll in one Lecture and one Practice.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 426.  Laboratory Techniques in Archaeology.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Exposes students to laboratory methods in archaeology through the analysis of excavated materials. Students are instructed in laboratory techniques. Course Information: Same as <a href="/search/?P=GEOG%20426" title="GEOG 426" class="bubblelink code" onclick="return showCourse(this, 'GEOG 426');">GEOG 426</a>.  May be repeated to a maximum of 8 hours.  Prerequisite(s): <a href="/search/?P=ANTH%20102" title="ANTH 102" class="bubblelink code" onclick="return showCourse(this, 'ANTH 102');">ANTH 102</a> or consent of the instructor. Recommended: Concurrent registration in <a href="/search/?P=ANTH%20425" title="ANTH 425" class="bubblelink code" onclick="return showCourse(this, 'ANTH 425');">ANTH 425</a> or <a href="/search/?P=GEOG%20425" title="GEOG 425" class="bubblelink code" onclick="return showCourse(this, 'GEOG 425');">GEOG 425</a>. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 428.  Chiefdoms.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Focus on traditional non-state, yet complex, societies known as &quot;chiefdoms.&quot; Examine the organization and evolution of such societies through a combination of ethnographic, historical and archaeological data. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=ANTH%20101" title="ANTH 101" class="bubblelink code" onclick="return showCourse(this, 'ANTH 101');">ANTH 101</a> or <a href="/search/?P=ANTH%20102" title="ANTH 102" class="bubblelink code" onclick="return showCourse(this, 'ANTH 102');">ANTH 102</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 429.  Archaeological Methods.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+This course will familiarize students with various methodologies used by archaeologists and geo-archaeologists. Course will concentrate on a different method each time it is taught.  Course Information:  Same as <a href="/search/?P=GEOG%20429" title="GEOG 429" class="bubblelink code" onclick="return showCourse(this, 'GEOG 429');">GEOG 429</a>.  3 undergraduate hours.  4 graduate hours.  May be repeated up to 2 time(s).  Students may register for more than one section per term.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 432.  Mortuary Archaeology.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Provides a cross-cultural survey of mortuary customs, an overview of general theoretical approaches and a critical analysis in the study of mortuary customs and human remains in archaeological contexts. Course Information: 3 undergraduate hours; 4 graduate hours. Prerequisite(s): Undergraduates only: Grade of C or better in <a href="/search/?P=ANTH%20237" title="ANTH 237" class="bubblelink code" onclick="return showCourse(this, 'ANTH 237');">ANTH 237</a>. Recommended background: Undergraduates only: 200-level courses in archaeology and cultural anthropology.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 436.  The Indian Ocean World: Contact, Commerce, Culture.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+The movement of people, goods, religious movements and ideas, throughout the Indian Ocean region from earliest times to the colonial era. Course Information: Same as HIST 436 and <a href="/search/?P=GLAS%20437" title="GLAS 437" class="bubblelink code" onclick="return showCourse(this, 'GLAS 437');">GLAS 437</a>. 3 undergraduate hours. 4 graduate hours.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 437.  Bioarchaeology.  5 hours.</strong></p>
+<p class="courseblockdesc">
+Provides an overview of mortuary theory and the bioarchaeological methods used to study health and disease, diet, activity patterns, kinship and cultural practices in archaeological populations. Course Information: Prerequisite(s): Grade of B or better in <a href="/search/?P=ANTH%20237" title="ANTH 237" class="bubblelink code" onclick="return showCourse(this, 'ANTH 237');">ANTH 237</a>; and consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture-Discussion.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 453.  Seminar in Cultural Ecology.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Cultural ecology and cultural evolution, emphasizing peasant farming and other subsistence systems. Soil management under shifting and sedentary agriculture. Course Information: Same as <a href="/search/?P=GEOG%20453" title="GEOG 453" class="bubblelink code" onclick="return showCourse(this, 'GEOG 453');">GEOG 453</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=ANTH%20101" title="ANTH 101" class="bubblelink code" onclick="return showCourse(this, 'ANTH 101');">ANTH 101</a> or GEOG 151 or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 455.  Quantitative Methods.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Introductory statistics course in statistical methods for anthropological problem-solving. Primary emphasis is on univariate and bivariate statistics, such as means standard deviations, correlation, chi square, t-tests, and simple regressions. Course Information: Same as <a href="/search/?P=GEOG%20455" title="GEOG 455" class="bubblelink code" onclick="return showCourse(this, 'GEOG 455');">GEOG 455</a>. 3 undergraduate hours. 4 graduate hours. Extensive computer use required. Prerequisite(s): Junior standing or above; and consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 461.  Museum Collecting: Documentation, Registration, and Curation.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the collection of anthropological objects for museum curation.  Ethics of collecting,  standards for documentation, legal aspects of collecting, ethnographic interviewing, registration of objects and archives, curation and housing. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Lab-Discusssion.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 462.  Museum Exhibit Research and Design.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to anthropological museum exhibitions.  Issues of representation and cultural politics, museumsÂ¿ roles in the communities they serve, developing a story around objects, and the technical aspects of exhibit design.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 466.  Material Worlds: Topics in Material Culture Studies.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines current theories of material culture, drawn from art history, archaeology and anthropology to reflect on technologies of production and social life of things. Case studies  will be drawn from ancient, medieval and modern historical context. Course Information: Same as <a href="/search/?P=AH%20466" title="AH 466" class="bubblelink code" onclick="return showCourse(this, 'AH 466');">AH 466</a> and <a href="/search/?P=CL%20466" title="CL 466" class="bubblelink code" onclick="return showCourse(this, 'CL 466');">CL 466</a>. 3 undergraduate hours. 4 graduate hours.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 473.  Anthropology of Social Movements.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines the causes of social change from the perspective of sociocultural anthropology.  An ethnographic approach to political life,  how communities describe and enact their experiences as individuals and citizens. Course Information: 3 undergraduate hours; 4 graduate hours.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 476.  Rise and Fall of the Inca Empire.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Using an integration of ethnographic, historical, and archaeological information, this course is designed to provide a thorough introduction to the study of the Incas. Course Information: Prerequisite(s): Sophomore standing or above.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 477.  Remote Sensing of the Environment.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Principles and practices of processing and interpretation of remotely sensed imagery including aerial photographs, radar and multispectral satellite images. Hands-on use of image-processing software. Course Information: Same as <a href="/search/?P=GEOG%20477" title="GEOG 477" class="bubblelink code" onclick="return showCourse(this, 'GEOG 477');">GEOG 477</a>. Extensive computer use required. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture-Discussion.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 478.  Paleoindians and Peopling of the Americas: From Alaska to Tierra del Fuego.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Summarizes current knowledge of the first migration of humans to the New World, analyzes its significance, and evaluates the controversies. Course Information: 3 undergraduate hours. 4 graduate hours.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 479.  Culture and Colonialism in South Asia.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines the emergence of colonial cultures of domination and resistance on the Indian subcontinent from the eighteenth century to 1947. Course Information: Same as <a href="/search/?P=GLAS%20479" title="GLAS 479" class="bubblelink code" onclick="return showCourse(this, 'GLAS 479');">GLAS 479</a> and <a href="/search/?P=HIST%20479" title="HIST 479" class="bubblelink code" onclick="return showCourse(this, 'HIST 479');">HIST 479</a>. 3 undergraduate hours. 4 graduate hours.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 480.  Sociolinguistics.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Variations in language that correlate with variation in societies and smaller social groups; interactions of languages and societies. Course Information: Same as <a href="/search/?P=LING%20480" title="LING 480" class="bubblelink code" onclick="return showCourse(this, 'LING 480');">LING 480</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=LING%20405" title="LING 405" class="bubblelink code" onclick="return showCourse(this, 'LING 405');">LING 405</a>; and junior standing or above; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 481.  Geographic Information Systems I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Components and performance properties of geographic information systems. Geographic hierarchies and data structures. Problems and solutions in handling large geographic files. Geocoding. Course Information: Same as <a href="/search/?P=GEOG%20481" title="GEOG 481" class="bubblelink code" onclick="return showCourse(this, 'GEOG 481');">GEOG 481</a>. Prerequisite(s): <a href="/search/?P=GEOG%20100" title="GEOG 100" class="bubblelink code" onclick="return showCourse(this, 'GEOG 100');">GEOG 100</a> and one from GEOG 278, GEOG 386, IDS 100;  or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture-Discussion.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 482.  Geographic Information Systems II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Application of raster (or grid) based geographic information systems to the spatial analysis of landscapes. Course Information: Same as <a href="/search/?P=GEOG%20482" title="GEOG 482" class="bubblelink code" onclick="return showCourse(this, 'GEOG 482');">GEOG 482</a>. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 483.  Geographic Information Systems III.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Problems encountered in the analysis and portrayal of geographic data. Topics include taxonomy, regionalization, trend surface analysis, time series, markov probabilities, and computer cartographic procedures for displaying output from analytic procedures. Course Information: Same as <a href="/search/?P=GEOG%20483" title="GEOG 483" class="bubblelink code" onclick="return showCourse(this, 'GEOG 483');">GEOG 483</a>. Prerequisite(s): <a href="/search/?P=GEOG%20482" title="GEOG 482" class="bubblelink code" onclick="return showCourse(this, 'GEOG 482');">GEOG 482</a> or <a href="/search/?P=ANTH%20482" title="ANTH 482" class="bubblelink code" onclick="return showCourse(this, 'ANTH 482');">ANTH 482</a> or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 490.  Independent Study.  1-6 hours.</strong></p>
+<p class="courseblockdesc">
+Independent reading under the supervision of a faculty member. Course Information: May be repeated to a maximum of 8 hours with approval. Students may register in more than one section per term. Prerequisite(s): Junior standing and consent of the instructor. Class Schedule Information: This course counts toward the limited number of independent study hours accepted toward the undergraduate degree and the major.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 494.  Special Topics in Anthropology.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Reading, study, and discussion of selected problems for graduate students and majors in anthropology. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated to a maximum of 12 hours. Students may register in more than one section per term.  Prerequisite(s): Junior standing or approval of the department.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ANTH 496.  Internship.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Professional field experience with an agency or organization in the private or public sector on projects related to the student's area of specialization. Course Information: Same as <a href="/search/?P=GEOG%20496" title="GEOG 496" class="bubblelink code" onclick="return showCourse(this, 'GEOG 496');">GEOG 496</a>. May be repeated to a maximum of 8 hours. Only 4 hours of credit may be applied toward the Minor in Geography. Prerequisite(s): Declared major in anthropology, minor in geography or full graduate standing in anthropology or geography and consent of the faculty advisor, head of the department, or the director of internship programs. Class Schedule Information: This course counts toward the limited number of independent study hours accepted toward the degree and the major.<br/>
+</p>
+</div></div>
+			</div>
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="anth.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

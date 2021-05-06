@@ -1,0 +1,315 @@
+https://catalog.uic.edu/ucat/the-university/uic-welcome/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Welcome to UIC &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="active isparent"><a href="/ucat/the-university/">The University</a>
+		<ul class="nav leveltwo" id="/ucat/the-university/">
+			<li class="active self"><a href="#" onclick="return false;">Welcome to UIC</a></li>
+			<li><a href="/ucat/the-university/savvy-students-guide/">The Savvy Student's Guide to UIC</a></li>
+			<li><a href="/ucat/the-university/faculty/">Faculty List</a></li>
+			<li><a href="http://www.uic.edu/uic/about/visit/campus-maps.shtml">Campus Maps</a></li>
+			<li><a href="http://www.uic.edu/uic/about/visit/parking-bus.shtml">Parking and Transportation</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a></li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/the-university/">The&nbsp;University</a><span class="crumbsep">/</span></li><li><span class="active">Welcome to UIC</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Welcome to UIC</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<ul>
+	<li><a href="#mission">Mission</a></li>
+	<li><a href="#overview">Overview</a></li>
+	<li><a href="#faculty">The Faculty</a></li>
+	<li><a href="#accreditation">Accreditation</a></li>
+	<li><a href="#StateTeacherLicensure">State Teacher Licensure</a></li>
+	<li><a href="#StateAuthorization">State Authorization for Online Programs and Courses</a></li>
+</ul>
+<hr/>
+<h2><a name="mission" id="mission"></a>Mission</h2>
+<p>UIC provides the broadest access to the highest levels of intellectual excellence. UIC’s mission is:</p>
+<ul>
+	<li>To create knowledge that transforms our views of the world and, through sharing and application, transforms the world.</li>
+	<li>To provide a wide range of students with the educational opportunity only a leading research university can offer.</li>
+	<li>To address the challenges and opportunities facing not only Chicago but all Great Cities of the 21st century, as expressed by our Great Cities Commitment.</li>
+	<li>To foster scholarship and practices that reflect and respond to the increasing diversity of the U.S. in a rapidly globalizing world.</li>
+	<li>To train professionals in a wide range of public service disciplines, serving Illinois as the principal educator of health science professionals and as a major healthcare provider to underserved communities.</li>
+</ul>
+<h2><a name="overview" id="overview"></a>Overview</h2>
+<p>The University of Illinois at Chicago is a major research university offering the unique cultural, business, and entertainment opportunities synonymous with a world-class city. UIC ranks alongside University of Chicago and Northwestern University as one of the top research-funded institutions in the nation. In many ways, UIC discovers what other institutions teach. UIC is comprised of 15 academic colleges including the UIC College of Medicine, which educates one in six Illinois physicians and is the largest medical school in the nation.</p>
+<p>UIC boasts one of the most diverse student bodies in the country, offering a cultural experience second to none with more than 20,000 undergraduate and 10,000 graduate and professional students.</p>
+<p>On our 240-acre, eco-friendly campus, students will find 100 buildings, 5,000 trees, geothermal energy plants, and two state-of-the-art fitness centers. And whether living in residence hall, near campus or commuting, students enjoy a busy social life. With nationally ranked athletic teams, numerous social events, sororities and fraternities, and nearby entertainment venues, there are a lot of opportunities to have fun.</p>
+<p>To learn about UIC's leadership and role as one of three campuses of the University of Illinois, please consult the following web pages: <a href="http://www.uic.edu/uic/about/leadership/index.shtml" target="_blank">Chancellor and Leadership</a>  and the <a href="http://www.uillinois.edu" target="_blank">University of Illinois</a>.</p>
+<h2><a name="faculty" id="faculty"></a>The Faculty</h2>
+<p>The university takes great pride in its faculty. Many of its members have gained national and international reputations as scholars and researchers, artists, writers, clinicians, and educators.</p>
+<p>The quality of UIC faculty members is measured by the recognition they receive through publications, national awards, and the level of grant support for their research and teaching. For example, faculty members have earned awards, fellowships, and grant support from such sources as the American Association for the Advancement of Science, the John Simon Guggenheim Foundation, the National Academy of Science, the National Endowment for the Humanities, the National Institutes of Health, the National Science Foundation, the Sloan Foundation, the U.S. Department of Defense, the U.S. Department of Energy, the U.S. Department of Education, and many other philanthropic organizations and state and federal agencies.</p>
+<p>UIC faculty researchers are actively engaged in their disciplines and constantly working to advance their areas of study and students benefit directly as the latest trends and insights are brought into the classroom. Research faculty guide advanced undergraduate and graduate students and provide them with research opportunities that may inspire them to enter research careers themselves. Publication of books and articles is another key measure of faculty strength and UIC’s faculty is highly productive, with many holding editorships of prestigious journals. Their scholarship and practices reflect and respond to the increasing diversity of the United States as they create new knowledge both within the traditional disciplines and in interdisciplinary and multidisciplinary endeavors.</p>
+<h2><a name="accreditation" id="accreditation"></a>Accreditation</h2>
+<p>Accreditation is the recognition that an institution maintains standards requisite for its graduates to gain admission to other reputable institutions of higher learning or to achieve credentials for professional practice. The goal of accreditation is to ensure that education provided by institutions of higher education meets acceptable levels of quality.</p>
+<p>There are two basic types of educational accreditation, one identified as “institutional” and the other referred to as “specialized” or “programmatic.” Institutional accreditation normally applies to an entire institution, indicating that each of an institution’s parts is contributing to the achievement of the institution’s objectives.  Specialized accreditation normally applies to the evaluation of programs, departments, or schools which usually are parts of a total collegiate or other postsecondary institution. The unit accredited may be as large as a college or school within a university or as small as a curriculum within a discipline. Most of the specialized accrediting agencies review units within a postsecondary institution which is accredited by one of the regional accrediting commissions. </p>
+<p>The University of Illinois at Chicago is accredited by the Higher Learning Commission (HLC), one of the regional accrediting commissions in the United States.  </p>
+<p>The Higher Learning Commission (HLC)<br/>
+230 South LaSalle Street, Suite 7-500<br/>
+Chicago, Illinois 60604-1411<br/>
+(312) 263-0456<br/>
+info@hlcommission.org<br/>
+<a href="https://www.hlcommission.org" target="_blank">https://www.hlcommission.org</a></p>
+<p>The Higher Learning Commission is recognized by the U.S. Department of Education (USDE) and the Council for Higher Education Accreditation (CHEA). In 20017, HLC voted to continue accreditation of UIC for the maximum period of 10 years. The next comprehensive evaluation of UIC is scheduled for 2027-2028. Verification of accreditation status is available in the Office of the Chancellor (312) 413-3350 and at this <a href="https://www.hlcommission.org/component/directory/?Action=ShowBasic&amp;Itemid=&amp;instid=1873" target="_blank">HLC website</a>.</p>
+<p>The undergraduate academic degree programs described in this catalog have been approved by:</p>
+<p>The Illinois Board of Higher Education<br/>
+1 North Old State Capitol Plaza, Suite 333<br/>
+Springfield, Illinois 62701-1377<br/>
+(217) 782-2551, (888) 261-2881 (TTY)<br/>
+General Information: <a href="mailto:info@ibhe.org">info@ibhe.org</a>, <a href="http://www.ibhe.org" target="_blank">http://www.ibhe.org</a><br/>
+Institutional Complaint Hotline: (217) 557-7359, <u><a href="http://complaints.ibhe.org/" target="_blank">http://complaints.ibhe.org</a></u></p>
+<p>In addition to institutional accreditation, certain individual programs offered at UIC main campus, branch campuses, and additional locations are accredited by the following specialized accrediting agencies:</p>
+<h3>Business</h3>
+<p>BS programs in Accounting, Entrepreneurship, Finance, Information and Decision Sciences, Management, Marketing, and Bachelor of Business Administration.</p>
+<p>AACSB International—The Association to Advance Collegiate Schools of Business<br/>
+777 South Harbour Island Boulevard, Suite 750<br/>
+Tampa, Florida 33602<br/>
+(813) 769-6500<br/>
+<a href="http://www.aacsb.edu" target="_blank">http://www.aacsb.edu</a></p>
+<h3>Engineering</h3>
+<p>BS programs in Bioengineering, Chemical Engineering, Civil Engineering, Computer Engineering, Electrical Engineering, Industrial Engineering, and Mechanical Engineering are accredited by the Engineering Accreditation Commission of ABET.</p>
+<p>The BS program in Computer Science is accredited by the Computing Accreditation Commission of ABET.</p>
+<p>ABET<br/>
+415 North Charles Street<br/>
+Baltimore, Maryland 21201<br/>
+(410) 347-7700<br/>
+<a href="http://www.abet.org/" target="_blank">http://www.abet.org</a></p>
+<h3>Health Information Management</h3>
+<p>BS in Health Information Management</p>
+<p>Commission on Accreditation for Health Informatics and Information Management Education (CAHIIM)<br/>
+200 East Randolph Street, Suite 5100<br/>
+Chicago, Illinois 60601<br/>
+(312) 235-3255<br/>
+info@cahiim.org<br/>
+<a href="http://www.cahiim.org/" target="_blank">http://www.cahiim.org</a></p>
+<h3>Nursing</h3>
+<p>BS in Nursing</p>
+<p>Commission on Collegiate Nursing Education (CCNE)<br/>
+655 K Street, NW, Suite 750<br/>
+Washington, D.C. 20001<br/>
+(202) 887-6791<br/>
+<a href="http://www.aacnnursing.org/CCNE" target="_blank">http://www.aacnnursing.org/CCNE</a></p>
+<h3>Nutrition</h3>
+<p>BS in Nutrition</p>
+<p>Accreditation Council for Education in Nutrition and Dietetics (ACEND)<br/>
+Academy of Nutrition and Dietetics<br/>
+120 South Riverside Plaza, Suite 2100<br/>
+Chicago, Illinois 60606-6995<br/>
+(800) 877-1600 x5400<br/>
+<a href="mailto:ACEND@eatright.org">ACEND@eatright.org</a><br/>
+<a href="http://www.eatright.org/acend" target="_blank">http://www.eatright.org/acend</a></p>
+<h3>Pharmacy</h3>
+<p>Doctor of Pharmacy</p>
+<p>Accreditation Council for Pharmacy Education (ACPE)<br/>
+190 S. La Salle Street, Suite 2850<br/>
+Chicago, Illinois 60603-4810<br/>
+(312) 664-3575<br/>
+<a href="mailto:info@acpe-accredit.org">csinfo@acpe-accredit.org</a><br/>
+<a href="http://www.acpe-accredit.org/" target="_blank">http://www.acpe-accredit.org</a></p>
+<h3>Public Health</h3>
+<p>BA in Public Health<br/>
+Council on Education for Public Health (CEPH)<br/>
+1010 Wayne Avenue, Suite 220<br/>
+Silver Spring, MD 20910<br/>
+(202) 789-1050<br/>
+<a href="http://www.ceph.org/" target="_blank">http://www.ceph.org</a></p>
+<h2><a name="StateTeacherLicensure" id="StateTeacherLicensure"></a>State Teacher Licensure</h2>
+<p>BA in Urban Education, BA in the Teaching of English, BA in the Teaching of French, BA in the Teaching of German, BA in the Teaching of Spanish, BA in the Teaching of History, BS in the Teaching of Math, BS in the Teaching of Physics (suspended)</p>
+<p>The curricula for the preparation of elementary and secondary school teachers as listed in this catalog have been approved by the Illinois Board of Higher Education, the Illinois State Board of Education, and the university.</p>
+<h2><strong><a name="StateAuthorization" id="StateAuthorization"></a>State Authorization for Online Programs and Courses</strong></h2>
+<p>UIC must comply with state regulations concerning the delivery of online courses and programs to out-of-state students. UIC was approved by the Illinois Board of Higher Education to participate in the National Council for State Authorization Reciprocity Agreements (NC-SARA), which is intended to ease the workload of institutions seeking authorization to deliver online programs and courses in other states.</p>
+<p>While students from most states may enroll in online programs at UIC, there are some important limitations.  Out-of-state students interested in enrolling in a UIC online program or online courses should check the <a href="https://ec.uic.edu/state-authorization/" target="_blank">State Authorization webpage</a> for more information about the states in which UIC is approved to offer distance education programs.</p>
+<p>Students interested in online programs may contact UIC Extended Campus at <a href="mailto:onlineinfo@uic.edu">onlineinfo@uic.edu</a> or (312) 355-0423 for more program information.</p></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="uic-welcome.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

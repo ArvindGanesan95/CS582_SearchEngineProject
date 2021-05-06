@@ -1,0 +1,465 @@
+https://catalog.uic.edu/ucat/colleges-depts/business-administration/fin/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Department of Finance &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/business-administration/">
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/actg/">Accounting</a></li>
+				<li class="active isparent self"><a href="#" onclick="return false;">Finance</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/business-administration/fin/">
+					<li><a href="/ucat/colleges-depts/business-administration/fin/bs/">BS in Finance</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/ids/">Information and Decision Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/mgmt/">Managerial Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/marketing/">Marketing</a></li>
+				<li><a href="/ucat/colleges-depts/business-administration/bba/">Bachelor of Business Administration</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/minors/">Minors</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/business-administration/">College&nbsp;of&nbsp;Business&nbsp;Administration</a><span class="crumbsep">/</span></li><li><span class="active">Finance</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Department of Finance</h1>
+
+
+<script type="text/javascript">
+//<![CDATA[
+	var defshow = "text";
+	var bodycontainer = "#body";
+	var validhashes = ",text,undergraduateprogramstext,coursestext,";
+
+if(window.location.hash.length) {
+	var hash = cleanHash(window.location.hash);
+	if(validhashes.indexOf("," + hash + ",") != -1)
+		defshow = hash;	
+}
+var ss = document.styleSheets;
+var workss = null;
+for(var i=0; i < ss.length; i++) {
+	var currmedia = "";
+	if (typeof ss[i].media == "string") 
+		currmedia = ss[i].media
+	else if (typeof ss[i].media == "object" && ss[i].media.mediaText) 
+		currmedia = ss[i].media.mediaText;
+	
+	if((currmedia == "screen" || currmedia == "all") && (ss[i].href.indexOf("/") == 0 || ss[i].href.indexOf(document.location.host) >= 0)) {
+		workss = ss[i];
+		break;	
+	}
+}
+if(workss && workss.insertRule) {
+	workss.insertRule(".tab_content { display: none; }", workss.cssRules.length)
+	workss.insertRule(".sectionheader { display: none; }", workss.cssRules.length)
+	workss.insertRule("#" + defshow + "container { display: block; }", workss.cssRules.length)
+} else if(workss && workss.addRule) {
+	workss.addRule(".tab_content", "display: none");
+	workss.addRule(".sectionheader", "display: none");
+	workss.addRule("#" + defshow + "container", "display: block");
+}
+else {
+	if (window.console)
+		window.console.log('screen.css <link> needs attribute media="screen"');
+}
+//]]>
+</script>
+	<div id="tabs">
+		<ul class="clearfix" role="tablist">
+			<li id="texttab" role="presentation">
+<a href="#textcontainer" role="tab" aria-controls="textcontainer" onclick="return showSection('text');">Overview</a></li>
+			<li id="undergraduateprogramstexttab" role="presentation">
+<a href="#undergraduateprogramstextcontainer" role="tab" aria-controls="undergraduateprogramstextcontainer" onclick="return showSection('undergraduateprogramstext');" >Programs and Requirements</a></li>
+			<li id="coursestexttab" role="presentation">
+<a href="#coursestextcontainer" role="tab" aria-controls="coursestextcontainer" onclick="return showSection('coursestext');" >Courses</a></li>
+		</ul>
+	</div>
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p class="campus_location"><span class="label"><strong>Contact Information: </strong></span><br/>
+<span class="campus_location">Campus Location: 2429 University Hall (UH), Undergraduate Programs: 1118 University Hall <br/>
+<span class="phone">(312) 996-2700</span> <br/>
+<span class="website"><a href="https://business.uic.edu/undergraduate-programs/bs-finance" target="_blank">business.uic.edu/undergraduate-programs/bs-finance</a></span></span></p>
+<p class="administration"><span class="label"><strong>Administration: </strong></span><br/>
+Head, Andriy Bodnaruk<br/>
+Administrative Assistant: Debbie R. Reed</p>
+<h2>Department Mission Statement</h2>
+<p>The Department of Finance is a major unit within the College of Business Administration. Our curriculum prepares students to be active participants in the finance industry. Based on our engagement with finance professionals and the research of our faculty, we provide innovative educational programs that enhance the skills of students and apply lessons from the frontiers of academic research to critical business problems. The Chicago Mercantile Exchange Market Training Laboratory provides a unique environment to gain hands-on experience in trading and to understand the intricacies of financial markets. The Finance Department uses its Chicago location and fosters partnerships with the financial and academic communities to develop the leadership potential of our students. </p>
+<p>The department’s teaching mission involves:</p>
+<ul>
+	<li>Providing strong professional training for careers in finance.</li>
+	<li>Connecting undergraduate students to the financial services industry in the Chicago area.</li>
+	<li>Introducing curriculum designed for specific areas of the financial services industry such as global finance, derivatives, risk management, banking, and portfolio and other investment strategies.</li>
+	<li>Utilizing contemporary information technology in the learning process.</li>
+	<li>Drawing upon other departments for interdisciplinary teaching areas, including accounting, information and decision sciences, and managerial studies.</li>
+</ul>
+<h2>BS in Finance</h2>
+<p>The finance curriculum studies the principles of financial analysis and control of individual business firms. It applies the principles to financial management, the valuation and selection of securities, and the influence of the monetary and banking system on economic activity. Students majoring in finance study how money is stored, protected, received, distributed, and managed. In the finance major, students are prepared for careers in the financial services industry. Research faculty members emphasize the newest and most innovative areas of finance.</p>
+<h2>Distinction</h2>
+<p>See <em><a href="/ucat/colleges-depts/business-administration/#i">Academic Honors</a></em> in <em>College of Business Administration</em> section.</p></div><!--end #textcontainer -->
+
+			<div id="undergraduateprogramstextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="undergraduateprogramstexttab" aria-hidden="true">
+				<a name="undergraduateprogramstext"></a><h2>Degree Program</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/business-administration/fin/bs/">BS in Finance</a></li>
+</ul>
+			</div>
+			<div id="coursestextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="coursestexttab" aria-hidden="true">
+				<a name="coursestext"></a><div class="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 250.  Personal Finance.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines the interaction between individual and society in the framework of financial decision-making and in the context of the U.S. financial markets. Analyzes the impact of financial choices on the lives of individuals, families, and communities. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=MATH%20110" title="MATH 110" class="bubblelink code" onclick="return showCourse(this, 'MATH 110');">MATH 110</a>. Recommended background: Any 100-level MATH, ACTG, or FIN course.<i>  Individual and Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 300.  Introduction to Finance.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Description of financial markets. Time value of money. Risk and return. Market valuation of securities. Capital budgeting, capital structure and dividend policy of firms. Course Information: Recommended background: <a href="/search/?P=ACTG%20210" title="ACTG 210" class="bubblelink code" onclick="return showCourse(this, 'ACTG 210');">ACTG 210</a> and <a href="/search/?P=ECON%20120" title="ECON 120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON 120</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 301.  Introduction to Managerial Finance.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces students to managerial finance: the valuation of future cash flows, capital budgeting, capital structure, and banking. Current events and policy issues are discussed.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 302.  Introduction to Investments.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces students to investments: risk/return, models of risk, efficient markets, derivative securities, fixed income securities, international aspects. Current events and policy issues are discussed.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 310.  Investments.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Organization of security markets. Legal and institutional environment, mechanics of trade, financial intermediation, security classification. General principles of asset valuation with application to specific securities. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20300" title="FIN 300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN 300</a>; or <a href="/search/?P=FIN%20301" title="FIN 301" class="bubblelink code" onclick="return showCourse(this, 'FIN 301');">FIN 301</a> and <a href="/search/?P=FIN%20302" title="FIN 302" class="bubblelink code" onclick="return showCourse(this, 'FIN 302');">FIN 302</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 311.  Introduction to Urban Real Estate.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introductory survey of urban real estate; business, legal, economic and financial perspectives. Course Information: Same as <a href="/search/?P=ECON%20311" title="ECON 311" class="bubblelink code" onclick="return showCourse(this, 'ECON 311');">ECON 311</a>. Previously listed as FIN 371. Prerequisite(s): <a href="/search/?P=ECON%20120" title="ECON 120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON 120</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 320.  Managerial Finance.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Short-term asset management, capital budgeting under certainty and uncertainty, capital structure and dividend policy, valuation and risk, capital asset prices, financial policy for firms. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20300" title="FIN 300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN 300</a>; or <a href="/search/?P=FIN%20301" title="FIN 301" class="bubblelink code" onclick="return showCourse(this, 'FIN 301');">FIN 301</a> and <a href="/search/?P=FIN%20302" title="FIN 302" class="bubblelink code" onclick="return showCourse(this, 'FIN 302');">FIN 302</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 330.  Quantitative Methods.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces students to the quantitative methods needed for advanced finance coursework:  point/interval estimation, hypothesis testing, regression, cross-section analysis, time series analysis, portfolio modeling, advanced topics. Course Information: Prerequisite(s): <a href="/search/?P=IDS%20270" title="IDS 270" class="bubblelink code" onclick="return showCourse(this, 'IDS 270');">IDS 270</a>. Recommended background: <a href="/search/?P=FIN%20300" title="FIN 300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN 300</a>; or <a href="/search/?P=FIN%20301" title="FIN 301" class="bubblelink code" onclick="return showCourse(this, 'FIN 301');">FIN 301</a> &amp; <a href="/search/?P=FIN%20302" title="FIN 302" class="bubblelink code" onclick="return showCourse(this, 'FIN 302');">FIN 302</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 340.  International Financial Markets.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Evaluation of exchange rate regiments and international financial institutions; develop critical understanding of the asset approach to exchange rates and international financial markets. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20300" title="FIN 300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN 300</a>; or <a href="/search/?P=FIN%20301" title="FIN 301" class="bubblelink code" onclick="return showCourse(this, 'FIN 301');">FIN 301</a> and <a href="/search/?P=FIN%20302" title="FIN 302" class="bubblelink code" onclick="return showCourse(this, 'FIN 302');">FIN 302</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 396.  Independent Study.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Independent study, under the direction of a faculty member, must be arranged before the start of the semester. Course Information: May be repeated. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor, and the Department Head.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 412.  Portfolio Management.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Development of portfolio theory; establishment of portfolio objectives for individuals, corporations, banks, pension and mutual funds; evaluation of portfolio performance. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20310" title="FIN 310" class="bubblelink code" onclick="return showCourse(this, 'FIN 310');">FIN 310</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 415.  Fixed Income Securities.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Valuation of fixed income securities, term structure estimation and arbitrage trading with practical application using real data. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20310" title="FIN 310" class="bubblelink code" onclick="return showCourse(this, 'FIN 310');">FIN 310</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 416.  Options and Futures Markets.  3 hours.</strong></p>
+<p class="courseblockdesc">
+History and institutional structure of options and futures markets. Uses of futures and options for arbitrage, speculation and hedging by managers of domestic and multinational organizations. Analysis of factors which determine futures and options prices. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20310" title="FIN 310" class="bubblelink code" onclick="return showCourse(this, 'FIN 310');">FIN 310</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 418.  Commodities, Energy, and Related Markets.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Covers markets; physicality; laws and regulations; market participants; fundamentals (ags, metals, petroleum, electricity, emissions, and shipping); spreads; options; and, risk management. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=FIN%20310" title="FIN 310" class="bubblelink code" onclick="return showCourse(this, 'FIN 310');">FIN 310</a>; and <a href="/search/?P=FIN%20330" title="FIN 330" class="bubblelink code" onclick="return showCourse(this, 'FIN 330');">FIN 330</a> or <a href="/search/?P=IDS%20270" title="IDS 270" class="bubblelink code" onclick="return showCourse(this, 'IDS 270');">IDS 270</a> (undergraduate students); <a href="/search/?P=FIN%20510" title="FIN 510" class="bubblelink code" onclick="return showCourse(this, 'FIN 510');">FIN 510</a> (graduate students). Recommended background: <a href="/search/?P=IDS%20371" title="IDS 371" class="bubblelink code" onclick="return showCourse(this, 'IDS 371');">IDS 371</a> (undergraduate students); <a href="/search/?P=IDS%20570" title="IDS 570" class="bubblelink code" onclick="return showCourse(this, 'IDS 570');">IDS 570</a> (graduate students).<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 419.  Behavioral Finance.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Provides an understanding of the individuals' behavioral biases and their effects on financial markets. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=FIN%20300" title="FIN 300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN 300</a>; or <a href="/search/?P=FIN%20301" title="FIN 301" class="bubblelink code" onclick="return showCourse(this, 'FIN 301');">FIN 301</a> and <a href="/search/?P=FIN%20302" title="FIN 302" class="bubblelink code" onclick="return showCourse(this, 'FIN 302');">FIN 302</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 421.  Advanced Corporate Finance.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Uses the case method to provide an in-depth treatment of corporate financial decisions pertaining to investment and financing choices, corporate policies, and valuation of businesses. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20320" title="FIN 320" class="bubblelink code" onclick="return showCourse(this, 'FIN 320');">FIN 320</a>. Recommended background: Understanding financial statements, time value of money, rates of return, market efficiency, and basic concepts of risk, and discount rates. This class cannot serve as an introductory level course for unprepared students. For students who lack confidence in their mastery of the prerequisite material, self-study review of chapters 1â€“12 of Essentials of Corporate Finance by Ross, Westerfield, and Jordan, the required text for <a href="/search/?P=FIN%20320" title="FIN 320" class="bubblelink code" onclick="return showCourse(this, 'FIN 320');">FIN 320</a>, is strongly recommended.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 422.  Alternative Investments: Venture Capital, Private Equity, and Hedge Funds.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Aims to help students understand the investment opportunities available in venture capital, private equity, and hedge funds, both from a quantitative and a qualitative perspective, using a combination of lectures and case discussions.  Course Information: Credit is not given for <a href="/search/?P=FIN%20422" title="FIN 422" class="bubblelink code" onclick="return showCourse(this, 'FIN 422');">FIN 422</a> if the student has credit in FIN 444. Prerequisite(s): <a href="/search/?P=FIN%20300" title="FIN 300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN 300</a>; or <a href="/search/?P=FIN%20301" title="FIN 301" class="bubblelink code" onclick="return showCourse(this, 'FIN 301');">FIN 301</a> and <a href="/search/?P=FIN%20302" title="FIN 302" class="bubblelink code" onclick="return showCourse(this, 'FIN 302');">FIN 302</a>. Recommended background: <a href="/search/?P=FIN%20310" title="FIN 310" class="bubblelink code" onclick="return showCourse(this, 'FIN 310');">FIN 310</a> and <a href="/search/?P=FIN%20320" title="FIN 320" class="bubblelink code" onclick="return showCourse(this, 'FIN 320');">FIN 320</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 423.  Financial Modeling, Analysis, and Decision Making.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Teaches financial modeling and firm valuation skills using a set of case studies. Using financial data from real firms, students compute and forecast cash flows to evaluation day-to-day business decisions. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=FIN%20300" title="FIN 300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN 300</a>; or <a href="/search/?P=FIN%20301" title="FIN 301" class="bubblelink code" onclick="return showCourse(this, 'FIN 301');">FIN 301</a> and <a href="/search/?P=FIN%20302" title="FIN 302" class="bubblelink code" onclick="return showCourse(this, 'FIN 302');">FIN 302</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 430.  Introduction to Money and Banking.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Payment and banking systems; credit and market risk management; The Federal Reserve System; globalization of monetary, banking, and regulatory systems. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20300" title="FIN 300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN 300</a>; or <a href="/search/?P=FIN%20301" title="FIN 301" class="bubblelink code" onclick="return showCourse(this, 'FIN 301');">FIN 301</a> and <a href="/search/?P=FIN%20302" title="FIN 302" class="bubblelink code" onclick="return showCourse(this, 'FIN 302');">FIN 302</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 431.  Management in the Financial Services Industry.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The principles of management of corporations in the financial services industry, emphasizing commercial bank management and risk. Methodology includes computerized bank management simulation or case studies. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20300" title="FIN 300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN 300</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 442.  International Corporate Financial Management.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Financial management within an international context. International monetary system and financial markets, management of foreign investments, working capital management, exchange risks, taxation and earnings reports. Course Information: Prerequisite(s): <a href="/search/?P=FIN%20300" title="FIN 300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN 300</a>; or <a href="/search/?P=FIN%20301" title="FIN 301" class="bubblelink code" onclick="return showCourse(this, 'FIN 301');">FIN 301</a> and <a href="/search/?P=FIN%20302" title="FIN 302" class="bubblelink code" onclick="return showCourse(this, 'FIN 302');">FIN 302</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 449.  Applied Equity Investment Management.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Puts financial theory to practice by giving students real life, hands-on experience in managing an equity investment process, from stock selection to portfolio management. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=FIN%20310" title="FIN 310" class="bubblelink code" onclick="return showCourse(this, 'FIN 310');">FIN 310</a> (undergraduate students); <a href="/search/?P=FIN%20510" title="FIN 510" class="bubblelink code" onclick="return showCourse(this, 'FIN 510');">FIN 510</a> (graduate students). Recommended background: A keen interest/ passion for the markets in general and the equity markets in particular.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 455.  Asset Management.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Applied course in Investments. The emphasis is on modern quantitative techniques for asset management. Course Information: Students will use real data, and learn to create their own spreadsheet optimization programs in MS excel. Prerequisite(s): <a href="/search/?P=FIN%20310" title="FIN 310" class="bubblelink code" onclick="return showCourse(this, 'FIN 310');">FIN 310</a> (undergraduate students); <a href="/search/?P=FIN%20510" title="FIN 510" class="bubblelink code" onclick="return showCourse(this, 'FIN 510');">FIN 510</a> (graduate students). Recommended Background: Students must be comfortable with linear regressions matrix algebra, basic calculus. Spreadsheet proficiency is essential.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 460.  Corporate Valuation.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines corporate valuation with tools and techniques such as valuation multiples, discounted cash flows, cost of capital, and the adjusted present value method. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=FIN%20320" title="FIN 320" class="bubblelink code" onclick="return showCourse(this, 'FIN 320');">FIN 320</a> or <a href="/search/?P=FIN%20520" title="FIN 520" class="bubblelink code" onclick="return showCourse(this, 'FIN 520');">FIN 520</a>. Recommended background: Basic understanding of accounting and statistics.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 472.  Real Estate Finance.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Finance principles applied to real estate; financing of residential and income-producing real estate; real estate development finance; secondary mortgage market; taxation and real estate finance. Course Information: Same as <a href="/search/?P=ECON%20472" title="ECON 472" class="bubblelink code" onclick="return showCourse(this, 'ECON 472');">ECON 472</a>. 3 undergraduate hours. 4 graduate hours.  May not be used to satisfy the economics credit requirement for the MA in Economics and Ph.D. in Economics.  Elective credit only will be applied toward these degrees. Prerequisite(s): <a href="/search/?P=ECON%20220" title="ECON 220" class="bubblelink code" onclick="return showCourse(this, 'ECON 220');">ECON 220</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 473.  Introduction to Risk Management.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to risk management. Loan and credit management; credit scoring. Risk measurements and reserves; banking and insurance capital requirements, the BASEL accord, tail events and catastrophic event insurance. Financial contracts and hedging.  Course Information:  Same as <a href="/search/?P=IDS%20473" title="IDS 473" class="bubblelink code" onclick="return showCourse(this, 'IDS 473');">IDS 473</a>.  Prerequisite(s):  <a href="/search/?P=FIN%20300" title="FIN 300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN 300</a> and <a href="/search/?P=IDS%20371" title="IDS 371" class="bubblelink code" onclick="return showCourse(this, 'IDS 371');">IDS 371</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 479.  Enterprise Risk Management.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Overview of enterprise-wide risk management strategies and techniques: strategies that firms employ to enhance value and minimize exposure; techniques used to identify, measure, reduce, and transfer risk. Course Information: Same as <a href="/search/?P=IDS%20479" title="IDS 479" class="bubblelink code" onclick="return showCourse(this, 'IDS 479');">IDS 479</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=FIN%20300" title="FIN 300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN 300</a>; or consent of the instructor. Recommended background: <a href="/search/?P=IDS%20473" title="IDS 473" class="bubblelink code" onclick="return showCourse(this, 'IDS 473');">IDS 473</a> or <a href="/search/?P=FIN%20473" title="FIN 473" class="bubblelink code" onclick="return showCourse(this, 'FIN 473');">FIN 473</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 480.  Market Microstructure and Electronic Trading.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Details of how financial markets work. Market structures; models of price discovery; limit order models; liquidity and price impact; time effects; and, how electronic traders use these ideas to improve trading and research. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=FIN%20310" title="FIN 310" class="bubblelink code" onclick="return showCourse(this, 'FIN 310');">FIN 310</a>; <a href="/search/?P=FIN%20330" title="FIN 330" class="bubblelink code" onclick="return showCourse(this, 'FIN 330');">FIN 330</a> or <a href="/search/?P=IDS%20270" title="IDS 270" class="bubblelink code" onclick="return showCourse(this, 'IDS 270');">IDS 270</a> (undergraduate students); <a href="/search/?P=FIN%20510" title="FIN 510" class="bubblelink code" onclick="return showCourse(this, 'FIN 510');">FIN 510</a> (graduate students). Recommended Background:  <a href="/search/?P=IDS%20371" title="IDS 371" class="bubblelink code" onclick="return showCourse(this, 'IDS 371');">IDS 371</a> (undergraduate students); <a href="/search/?P=IDS%20570" title="IDS 570" class="bubblelink code" onclick="return showCourse(this, 'IDS 570');">IDS 570</a> (graduate students).<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 494.  Special Topics in Finance.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+An intensive study of a selected topic in finance. Topics vary by sections and by term. Course Information: 1 to 3 undergraduate hours. 2 to 4 graduate hours. May be repeated if topics vary. Students may register for more than one section per term. May be repeated to a maximum of 6 hours for undergraduates; may be repeated to a maximum of 8 hourse for graduate students. Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 495.  Competitive Strategy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Multidisciplinary analysis of organization strategy and policy using case method and/or business simulation. Assignments involve extensive library research as well as oral and written reports. Course Information: Prerequisite(s): Senior standing in the College of Business Administration and completion of all other CBA core courses, or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FIN 499.  Research Experience.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Research experience under the supervision of a faculty member. The faculty member and student will determine the research project. Each student must submit a written report and each student must participate at a research event on campus. Course Information: May be repeated to a maximum of 12 hours. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor and department head.<br/>
+</p>
+</div></div>
+			</div>
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="fin.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

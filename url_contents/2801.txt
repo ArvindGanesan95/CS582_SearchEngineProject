@@ -1,0 +1,44 @@
+https://nam04.safelinks.protection.outlook.com/
+
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Error during processing.</title>
+    <meta name="referrer" content="same-origin" />
+    <meta name="robots" content="noindex,nofollow" />
+    <link rel="icon" href="data:,">
+
+        <base href="https://nam04.safelinks.protection.outlook.com">
+
+    <link href="/Content/Scripts/safelinksv2.css" rel="stylesheet" />
+    <script src="/Content/Scripts/site.js" type="text/javascript"></script>
+</head>
+
+<body>
+    <div id="header_container_pending">
+        <div id="header">
+            <div id="icon"><img src="/Content/images/scanned.png" alt="" height="100" width="94"></div>
+            <h1 style="color:black">The page that you are trying to access cannot be loaded.</h1>
+        </div>
+    </div>
+    <div id="recommendation_container">
+        <div id="recommendation">
+            <h2>Due to an internal error, this web page could not be loaded. We recommend that you close this page.</h2>
+            <p id="text">Microsoft Defender for Office 365 has encountered an error.</p>
+            <button id="close" type="button" onclick="GoBack();">Go Back </button>
+            <p id="powered">Learn more about <a href="https://go.microsoft.com/fwlink/?linkid=866370">Microsoft Defender for Office 365</a></p>
+        </div>
+        <div id="diagnostics" style="display:none;">
+            <div>
+                CID:
+00000000-0000-0000-0000-000000000000            </div>
+            <div>
+                DiagnosticInfo:
+MpRWCQJ9VMafDEejht9sukvB53A9AzKzs/Xl20Qubbh65EC3/Uwfv+7h5vKDSwD6CQzo+uQ+1QS+RrCff95hY++/imPx2So8qf9Jo9openJ2osYouVN2YLHJE/3e0X9Si5sPC5O3hqQiW8fYzVFRNNnSrnEMfoUym5L8VjMrJ7YhYbvf341zKa7/QssXRw3VJQK5cA3rNz/OOquEuOAY04aQtw18KeZDMwUFA4rSb4YmxRS/tRo5Zu8jF/sQjCp/Do8GJupe9SP3eowr5yeTryqD1sfBAysrn/nNtQN/Y1LJZ01s2JPg6DH91s4NZZx79qtuM3Eyhn5aniOEFMhNhCLVl6DP5E2cAiEIVSaJaKo=            </div>
+        </div>
+    </div>
+</body>
+
+</html>

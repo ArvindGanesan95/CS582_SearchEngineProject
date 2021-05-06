@@ -1,0 +1,605 @@
+https://catalog.uic.edu/all-course-descriptions/ip/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Intellectual Property (IP) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="isparent"><a href="/ucat/">Undergraduate Catalog</a></li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="active isparent"><a href="/all-course-descriptions/">All Course Descriptions</a>
+	<ul class="nav levelone" id="/all-course-descriptions/">
+		<li><a href="/all-course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+		<li><a href="/all-course-descriptions/actg/">Accounting (ACTG)</a></li>
+		<li><a href="/all-course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+		<li><a href="/all-course-descriptions/anth/">Anthropology (ANTH)</a></li>
+		<li><a href="/all-course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+		<li><a href="/all-course-descriptions/arab/">Arabic (ARAB)</a></li>
+		<li><a href="/all-course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+		<li><a href="/all-course-descriptions/arch/">Architecture (ARCH)</a></li>
+		<li><a href="/all-course-descriptions/art/">Art (ART)</a></li>
+		<li><a href="/all-course-descriptions/ah/">Art History (AH)</a></li>
+		<li><a href="/all-course-descriptions/bms/">Basic Medical Sciences (BMS)</a></li>
+		<li><a href="/all-course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+		<li><a href="/all-course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+		<li><a href="/all-course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+		<li><a href="/all-course-descriptions/bvis/">Biomedical Visualization (BVIS)</a></li>
+		<li><a href="/all-course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+		<li><a href="/all-course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+		<li><a href="/all-course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+		<li><a href="/all-course-descriptions/blst/">Black Studies (BLST)</a></li>
+		<li><a href="/all-course-descriptions/ba/">Business Administration (BA)</a></li>
+		<li><a href="/all-course-descriptions/cc/">Campus Courses (CC)</a></li>
+		<li><a href="/all-course-descriptions/cst/">Catholic Studies (CST)</a></li>
+		<li><a href="/all-course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+		<li><a href="/all-course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+		<li><a href="/all-course-descriptions/chem/">Chemistry (CHEM)</a></li>
+		<li><a href="/all-course-descriptions/chin/">Chinese (CHIN)</a></li>
+		<li><a href="/all-course-descriptions/cd/">City Design (CD)</a></li>
+		<li><a href="/all-course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+		<li><a href="/all-course-descriptions/cl/">Classics (CL)</a></li>
+		<li><a href="/all-course-descriptions/cler/">Clerkship -&#8203; Medicine (CLER)</a></li>
+		<li><a href="/all-course-descriptions/cele/">Clerkship Electives -&#8203; Chicago (CELE)</a></li>
+		<li><a href="/all-course-descriptions/pele/">Clerkship Electives -&#8203; Peoria (PELE)</a></li>
+		<li><a href="/all-course-descriptions/rele/">Clerkship Electives -&#8203; Rockford (RELE)</a></li>
+		<li><a href="/all-course-descriptions/uele/">Clerkship Electives -&#8203; Urbana (UELE)</a></li>
+		<li><a href="/all-course-descriptions/comm/">Communication (COMM)</a></li>
+		<li><a href="/all-course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+		<li><a href="/all-course-descriptions/cs/">Computer Science (CS)</a></li>
+		<li><a href="/all-course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+		<li><a href="/all-course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+		<li><a href="/all-course-descriptions/dadm/">Dental Administration (DADM)</a></li>
+		<li><a href="/all-course-descriptions/daob/">Dentistry -&#8203; Applied Oral and Behavioral Sciences (DAOB)</a></li>
+		<li><a href="/all-course-descriptions/dbcs/">Dentistry -&#8203; Biomedical and Clinical Sciences (DBCS)</a></li>
+		<li><a href="/all-course-descriptions/dcle/">Dentistry -&#8203; Community Learning Experience (DCLE)</a></li>
+		<li><a href="/all-course-descriptions/dosi/">Dentistry -&#8203; Oral/&#8203;Systemic Issues (DOSI)</a></li>
+		<li><a href="/all-course-descriptions/dost/">Dentistry -&#8203; Oral/&#8203;Systemic Topics (DOST)</a></li>
+		<li><a href="/all-course-descriptions/des/">Design (DES)</a></li>
+		<li><a href="/all-course-descriptions/dlg/">Dialogue (DLG)</a></li>
+		<li><a href="/all-course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+		<li><a href="/all-course-descriptions/mdc/">Doctor of Medicine—Chicago (MDC)</a></li>
+		<li><a href="/all-course-descriptions/mdp/">Doctor of Medicine—Peoria (MDP)</a></li>
+		<li><a href="/all-course-descriptions/mdr/">Doctor of Medicine—Rockford (MDR)</a></li>
+		<li><a href="/all-course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+		<li><a href="/all-course-descriptions/econ/">Economics (ECON)</a></li>
+		<li><a href="/all-course-descriptions/ed/">Education (ED)</a></li>
+		<li><a href="/all-course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+		<li><a href="/all-course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+		<li><a href="/all-course-descriptions/ece/">Electrical and Computer Engineering (ECE)</a></li>
+		<li><a href="/all-course-descriptions/eb/">Employee Benefits (EB)</a></li>
+		<li><a href="/all-course-descriptions/endo/">Endodontics (ENDO)</a></li>
+		<li><a href="/all-course-descriptions/ener/">Energy Engineering (ENER)</a></li>
+		<li><a href="/all-course-descriptions/engr/">Engineering (ENGR)</a></li>
+		<li><a href="/all-course-descriptions/engl/">English (ENGL)</a></li>
+		<li><a href="/all-course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+		<li><a href="/all-course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+		<li><a href="/all-course-descriptions/eohs/">Environmental and Occupational Health Sciences (EOHS)</a></li>
+		<li><a href="/all-course-descriptions/epid/">Epidemiology (EPID)</a></li>
+		<li><a href="/all-course-descriptions/epl/">Estate Planning (EPL)</a></li>
+		<li><a href="/all-course-descriptions/fin/">Finance (FIN)</a></li>
+		<li><a href="/all-course-descriptions/fr/">French (FR)</a></li>
+		<li><a href="/all-course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+		<li><a href="/all-course-descriptions/geog/">Geography (GEOG)</a></li>
+		<li><a href="/all-course-descriptions/ger/">Germanic Studies (GER)</a></li>
+		<li><a href="/all-course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+		<li><a href="/all-course-descriptions/gc/">Graduate College (GC)</a></li>
+		<li><a href="/all-course-descriptions/gems/">Graduate Education in Medical Sciences (GEMS)</a></li>
+		<li><a href="/all-course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+		<li><a href="/all-course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+		<li><a href="/all-course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+		<li><a href="/all-course-descriptions/him/">Health Information Management (HIM)</a></li>
+		<li><a href="/all-course-descriptions/hpa/">Health Policy and Administration (HPA)</a></li>
+		<li><a href="/all-course-descriptions/hlp/">Healthy Living Practitioner™ (HLP)</a></li>
+		<li><a href="/all-course-descriptions/heb/">Hebrew (HEB)</a></li>
+		<li><a href="/all-course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+		<li><a href="/all-course-descriptions/hstl/">Histology (HSTL)</a></li>
+		<li><a href="/all-course-descriptions/hist/">History (HIST)</a></li>
+		<li><a href="/all-course-descriptions/hon/">Honors College (HON)</a></li>
+		<li><a href="/all-course-descriptions/hn/">Human Nutrition (HN)</a></li>
+		<li><a href="/all-course-descriptions/hum/">Humanities (HUM)</a></li>
+		<li><a href="/all-course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+		<li><a href="/all-course-descriptions/it/">Information Technology (IT)</a></li>
+		<li><a href="/all-course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+		<li><a href="/all-course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+		<li><a href="/all-course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+		<li><a href="/all-course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+		<li class="active self"><a href="#" onclick="return false;">Intellectual Property (IP)</a></li>
+		<li><a href="/all-course-descriptions/ibt/">International Business and Trade (IBT)</a></li>
+		<li><a href="/all-course-descriptions/inst/">International Studies (INST)</a></li>
+		<li><a href="/all-course-descriptions/ital/">Italian (ITAL)</a></li>
+		<li><a href="/all-course-descriptions/jpn/">Japanese (JPN)</a></li>
+		<li><a href="/all-course-descriptions/jst/">Jewish Studies (JST)</a></li>
+		<li><a href="/all-course-descriptions/jd/">Juris Doctor (JD)</a></li>
+		<li><a href="/all-course-descriptions/kn/">Kinesiology (KN)</a></li>
+		<li><a href="/all-course-descriptions/kor/">Korean (KOR)</a></li>
+		<li><a href="/all-course-descriptions/lat/">Latin (LAT)</a></li>
+		<li><a href="/all-course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+		<li><a href="/all-course-descriptions/law/">Law (LAW)</a></li>
+		<li><a href="/all-course-descriptions/lrsc/">Learning Sciences (LRSC)</a></li>
+		<li><a href="/all-course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+		<li><a href="/all-course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+		<li><a href="/all-course-descriptions/ling/">Linguistics (LING)</a></li>
+		<li><a href="/all-course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+		<li><a href="/all-course-descriptions/lith/">Lithuanian (LITH)</a></li>
+		<li><a href="/all-course-descriptions/mgmt/">Management (MGMT)</a></li>
+		<li><a href="/all-course-descriptions/mktg/">Marketing (MKTG)</a></li>
+		<li><a href="/all-course-descriptions/mba/">Master of Business Administration (MBA)</a></li>
+		<li><a href="/all-course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+		<li><a href="/all-course-descriptions/mj/">Master of Jurisprudence (MJ)</a></li>
+		<li><a href="/all-course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+		<li><a href="/all-course-descriptions/math/">Mathematics (MATH)</a></li>
+		<li><a href="/all-course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+		<li><a href="/all-course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+		<li><a href="/all-course-descriptions/mbt/">Medical Biotechnology (MBT)</a></li>
+		<li><a href="/all-course-descriptions/mhpe/">Medical Education (MHPE)</a></li>
+		<li><a href="/all-course-descriptions/mhum/">Medical Humanities (MHUM)</a></li>
+		<li><a href="/all-course-descriptions/mdch/">Medicinal Chemistry (MDCH)</a></li>
+		<li><a href="/all-course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+		<li><a href="/all-course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+		<li><a href="/all-course-descriptions/mils/">Military Science (MILS)</a></li>
+		<li><a href="/all-course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+		<li><a href="/all-course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+		<li><a href="/all-course-descriptions/mus/">Music (MUS)</a></li>
+		<li><a href="/all-course-descriptions/nast/">Native American Studies (NAST)</a></li>
+		<li><a href="/all-course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+		<li><a href="/all-course-descriptions/ns/">Naval Science (NS)</a></li>
+		<li><a href="/all-course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+		<li><a href="/all-course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+		<li><a href="/all-course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+		<li><a href="/all-course-descriptions/nupr/">Nursing Practicum (NUPR)</a></li>
+		<li><a href="/all-course-descriptions/nusp/">Nursing Specialty (NUSP)</a></li>
+		<li><a href="/all-course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+		<li><a href="/all-course-descriptions/omds/">Oral Medicine and Diagnostic Sciences (OMDS)</a></li>
+		<li><a href="/all-course-descriptions/osci/">Oral Sciences (OSCI)</a></li>
+		<li><a href="/all-course-descriptions/osur/">Oral and Maxillofacial Surgery (OSUR)</a></li>
+		<li><a href="/all-course-descriptions/ortd/">Orthodontics (ORTD)</a></li>
+		<li><a href="/all-course-descriptions/path/">Pathology (PATH)</a></li>
+		<li><a href="/all-course-descriptions/psl/">Patient Safety Leadership (PSL)</a></li>
+		<li><a href="/all-course-descriptions/pedd/">Pediatric Dentistry (PEDD)</a></li>
+		<li><a href="/all-course-descriptions/peri/">Periodontics (PERI)</a></li>
+		<li><a href="/all-course-descriptions/psci/">Pharmaceutical Sciences (PSCI)</a></li>
+		<li><a href="/all-course-descriptions/pmpg/">Pharmacognosy (PMPG)</a></li>
+		<li><a href="/all-course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+		<li><a href="/all-course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+		<li><a href="/all-course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+		<li><a href="/all-course-descriptions/psop/">Pharmacy Systems, Outcomes, and Policy (PSOP)</a></li>
+		<li><a href="/all-course-descriptions/phil/">Philosophy (PHIL)</a></li>
+		<li><a href="/all-course-descriptions/pt/">Physical Therapy (PT)</a></li>
+		<li><a href="/all-course-descriptions/phys/">Physics (PHYS)</a></li>
+		<li><a href="/all-course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+		<li><a href="/all-course-descriptions/pol/">Polish (POL)</a></li>
+		<li><a href="/all-course-descriptions/pols/">Political Science (POLS)</a></li>
+		<li><a href="/all-course-descriptions/port/">Portuguese (PORT)</a></li>
+		<li><a href="/all-course-descriptions/prcl/">Preclinical Medicine (PRCL)</a></li>
+		<li><a href="/all-course-descriptions/ptl/">Privacy and Technology Law (PTL)</a></li>
+		<li><a href="/all-course-descriptions/pros/">Prosthodontics (PROS)</a></li>
+		<li><a href="/all-course-descriptions/psch/">Psychology (PSCH)</a></li>
+		<li><a href="/all-course-descriptions/pa/">Public Administration (PA)</a></li>
+		<li><a href="/all-course-descriptions/pubh/">Public Health (PUBH)</a></li>
+		<li><a href="/all-course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+		<li><a href="/all-course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+		<li><a href="/all-course-descriptions/re/">Real Estate (RE)</a></li>
+		<li><a href="/all-course-descriptions/rels/">Religious Studies (RELS)</a></li>
+		<li><a href="/all-course-descriptions/rest/">Restorative Dentistry (REST)</a></li>
+		<li><a href="/all-course-descriptions/russ/">Russian (RUSS)</a></li>
+		<li><a href="/all-course-descriptions/slav/">Slavic and Baltic Languages and Literatures (SLAV)</a></li>
+		<li><a href="/all-course-descriptions/sj/">Social Justice (SJ)</a></li>
+		<li><a href="/all-course-descriptions/socw/">Social Work (SOCW)</a></li>
+		<li><a href="/all-course-descriptions/soc/">Sociology (SOC)</a></li>
+		<li><a href="/all-course-descriptions/span/">Spanish (SPAN)</a></li>
+		<li><a href="/all-course-descriptions/sped/">Special Education (SPED)</a></li>
+		<li><a href="/all-course-descriptions/spec/">Specialty Medicine (SPEC)</a></li>
+		<li><a href="/all-course-descriptions/stat/">Statistics (STAT)</a></li>
+		<li><a href="/all-course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+		<li><a href="/all-course-descriptions/surg/">Surgery (SURG)</a></li>
+		<li><a href="/all-course-descriptions/tx/">Taxation (TX)</a></li>
+		<li><a href="/all-course-descriptions/thtr/">Theatre (THTR)</a></li>
+		<li><a href="/all-course-descriptions/tadr/">Trial Advocacy and Dispute Resolution (TADR)</a></li>
+		<li><a href="/all-course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+		<li><a href="/all-course-descriptions/us/">Urban Studies (US)</a></li>
+		<li><a href="/all-course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+		<li><a href="/all-course-descriptions/usl/">US Legal Studies (USL)</a></li>
+	</ul>
+	</li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/all-course-descriptions/">All&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Intellectual Property (IP)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Intellectual Property (IP)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<div class="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle"><strong>IP 400.  U.S. Trademark Law.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Explores the historical development of trademark law, trademark rights, trademark registration, infringement, special defenses, and unfair competition law. Course Information: Same as <a href="/search/?P=JD%20400" title="JD 400" class="bubblelink code" onclick="return showCourse(this, 'JD 400');">JD 400</a>. Previously listed as JD 403/IP 403. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a> and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a> and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a> and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a> and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a> and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a> and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a> and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 404.  Trial Advocacy: Accelerated for Intellectual Property Attorneys.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Designed for students who intend to practice intellectual property law and involves the preparation and trial of one or more jury trials. Course Information: Same as <a href="/search/?P=TADR%20404" title="TADR 404" class="bubblelink code" onclick="return showCourse(this, 'TADR 404');">TADR 404</a>. Previously listed as JD 189/IP 430. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a>, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>, and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20425" title="JD 425" class="bubblelink code" onclick="return showCourse(this, 'JD 425');">JD 425</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 409.  U.S. Copyright Law.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Explores the historical development of copyright law, creation of copyrights, copyright registration, copyright infringement, special defenses and remedies. Course Information: Same as <a href="/search/?P=JD%20409" title="JD 409" class="bubblelink code" onclick="return showCourse(this, 'JD 409');">JD 409</a> and <a href="/search/?P=PTL%20409" title="PTL 409" class="bubblelink code" onclick="return showCourse(this, 'PTL 409');">PTL 409</a>. Previously listed as <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>/IP 406/ITP 406. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a> and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a> and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a> and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a> and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a> and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a> and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a> and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 427.  Art and Cultural Heritage Law.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Surveys legal concepts affecting the exhibition and sale of art, the movement of art during war, and the preservation of cultural heritage. Course Information: Same as <a href="/search/?P=JD%20427" title="JD 427" class="bubblelink code" onclick="return showCourse(this, 'JD 427');">JD 427</a>. Previously listed as JD 229/IP 425. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a>, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>,  and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or LAW  404; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 428.  Intellectual Property in a Digital Environment.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Explores the unique interplay between intellectual property rights and the Internet and other digitized formats, in both the United States and internationally. Course Information: Same as <a href="/search/?P=JD%20428" title="JD 428" class="bubblelink code" onclick="return showCourse(this, 'JD 428');">JD 428</a> and PT 428. Previously listed as JD 178/IP 478/ITP 878/IBT 778. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a>, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>,  and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or LAW  404; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 431.  Business Franchise Law and Practice.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Provides an introduction to the structure and characteristics of modern business associations, including agency, corporations, partnerships and limited liability corporations (LLC's). Course Information: Same as <a href="/search/?P=JD%20431" title="JD 431" class="bubblelink code" onclick="return showCourse(this, 'JD 431');">JD 431</a>. Previously listed as JD 081/IP 418. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a>, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>,  and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or LAW  404; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 432.  U.S. Patent Law.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Explores all aspects of U.S. Patent Law, before and after the America Invents Act of 2011 and includes patent procurement and enforcement topics. Course Information: Same as <a href="/search/?P=JD%20432" title="JD 432" class="bubblelink code" onclick="return showCourse(this, 'JD 432');">JD 432</a>. Previously listed as JD 400A/IP 400A. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a> and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a> and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a> and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a> and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a> and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a> and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a> and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 434.  Entertainment Law.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Addresses legal considerations that affect the publishing, music, recording, live theater, motion picture, and television industries. Course Information: Same as <a href="/search/?P=JD%20434" title="JD 434" class="bubblelink code" onclick="return showCourse(this, 'JD 434');">JD 434</a>. Previously listed as IP 419/JD 215. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a> and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a> and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a> and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a> and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a> and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a> and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a> and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 438.  Intellectual Property Licensing.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Covers implied licenses, express licenses, enforcement of license provisions, title interest in intellectual property, and license transfers. Course Information: Same as <a href="/search/?P=JD%20438" title="JD 438" class="bubblelink code" onclick="return showCourse(this, 'JD 438');">JD 438</a>. Previously listed as JD 195/IP 407. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a>, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>,  and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or LAW  404; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 443.  Music Copyright and Licensing.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Since music licenses are copyright licenses, applicable copyright laws will be reviewed, as well as the business contexts in which they are relevant. Course Information: Same as <a href="/search/?P=JD%20443" title="JD 443" class="bubblelink code" onclick="return showCourse(this, 'JD 443');">JD 443</a>. Previously listed as JD 220/IP 436. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a>, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>,  and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or LAW  404; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 444.  Legal Writing for Intellectual Property.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Concentrates on aspects of the drafting process, including audience, fact gathering, organization, editing and writing. Course Information: Previously listed as <a href="/search/?P=IP%20428" title="IP 428" class="bubblelink code" onclick="return showCourse(this, 'IP 428');">IP 428</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 445.  Patent Law: Statutory and Regulatory Fundamentals.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Tracks a patent application for an invention from conception through the U.S. Patent and Trademark Office. Course Information: Same as <a href="/search/?P=JD%20445" title="JD 445" class="bubblelink code" onclick="return showCourse(this, 'JD 445');">JD 445</a>. Previously listed as JD 199. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a>, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>,  and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or LAW  404; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 448.  Publishing Law.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Offers an overview of legal issues that arise in publishing and includes relevant contract, trademark, copyright, right of publicity, and First Amendment law. Course Information: Same as <a href="/search/?P=JD%20448" title="JD 448" class="bubblelink code" onclick="return showCourse(this, 'JD 448');">JD 448</a>. Previously listed as JD 267/<a href="/search/?P=IP%20443" title="IP 443" class="bubblelink code" onclick="return showCourse(this, 'IP 443');">IP 443</a>. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a>, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>,  and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or LAW  404; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 449.  Patent Office Practice.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines proceeding before the U.S.P.T.O, including patent applications, restriction requirements, application and claim rejection, examiner interviews, appeals, certificates of correction, and reissue practice. Course Information: Same as <a href="/search/?P=IBT%20449" title="IBT 449" class="bubblelink code" onclick="return showCourse(this, 'IBT 449');">IBT 449</a> and <a href="/search/?P=JD%20449" title="JD 449" class="bubblelink code" onclick="return showCourse(this, 'JD 449');">JD 449</a>. Previously listed as JD 197/IP 402/ IBT 722. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and JD  407,and JD  411, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>, and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and  <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20432" title="JD 432" class="bubblelink code" onclick="return showCourse(this, 'JD 432');">JD 432</a> or <a href="/search/?P=IP%20432" title="IP 432" class="bubblelink code" onclick="return showCourse(this, 'IP 432');">IP 432</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 457.  Right of Publicity and Protection of Personality.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines the origin, creation, and protection of publicity and privacy rights in the context of intellectual property issues. Course Information: Same as <a href="/search/?P=JD%20457" title="JD 457" class="bubblelink code" onclick="return showCourse(this, 'JD 457');">JD 457</a>. Previously listed as JD 196/IP 423. Prerequisite(s):  <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a>, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>,  and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or LAW  404; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 464.  Sports Law.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Explores laws affecting professional sports leagues, players, agents, and college athletes, rights, options, free agency, drafts, negotiations, arbitration, antitrust, and sports as entertainment. Course Information: Same as <a href="/search/?P=JD%20464" title="JD 464" class="bubblelink code" onclick="return showCourse(this, 'JD 464');">JD 464</a>. Previously listed as JD 228/IP 426. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a>, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>, and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>, and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>, and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 468.  U.S. Intellectual Property Survey.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces students to legal systems that protect IP (i.e. patent, trademark, copyright, and trade secret law) and competing policies underlying these laws. Course Information: same as <a href="/search/?P=JD%20468" title="JD 468" class="bubblelink code" onclick="return showCourse(this, 'JD 468');">JD 468</a>. Previously listed as JD 113/IP 429US. Prerequisite(s):  <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a>, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>, and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>, and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>, and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 469.  U.S. Trade Secrets Law.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines trade secrets, the duty of non-disclosure, appropriation, improper means of discovery, employer-employee relationships, limitations of trade secrets law, and remedies. Course Information: Same as <a href="/search/?P=JD%20469" title="JD 469" class="bubblelink code" onclick="return showCourse(this, 'JD 469');">JD 469</a>. Previously listed as <a href="/search/?P=JD%20440" title="JD 440" class="bubblelink code" onclick="return showCourse(this, 'JD 440');">JD 440</a>/IP 440. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a> and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a> and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a> and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a> and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a> and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a> and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a> and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 473.  Intellectual Property In Business Organizations.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Examines legal problems faced by businesses that develop and utilize intellectual property as they are founded, financed, expanded, transferred to others, or terminated. Course Information: Same as <a href="/search/?P=JD%20473" title="JD 473" class="bubblelink code" onclick="return showCourse(this, 'JD 473');">JD 473</a>. Previously listed as <a href="/search/?P=JD%20470" title="JD 470" class="bubblelink code" onclick="return showCourse(this, 'JD 470');">JD 470</a>/IP 470. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a>, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>,  and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or LAW  404; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 477.  Intellectual Property in International Business Organizations.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Students will analyze problems encountered as businesses transfer intellectual property (IP) to and from other countries. Course Information: Same as <a href="/search/?P=JD%20477" title="JD 477" class="bubblelink code" onclick="return showCourse(this, 'JD 477');">JD 477</a>. Previously listed as JD 485/IP 485. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a>, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>,  and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or LAW  404; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 486.  Intellectual Property in Start-Up Companies.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Examines intellectual property issues related to the legal development of start-up companies, including trade secret issues, venture capitalist funding and public stock offerings. Course Information: Same as <a href="/search/?P=JD%20486" title="JD 486" class="bubblelink code" onclick="return showCourse(this, 'JD 486');">JD 486</a>. Previously listed as JD 495/<a href="/search/?P=IP%20495" title="IP 495" class="bubblelink code" onclick="return showCourse(this, 'IP 495');">IP 495</a>. Prerequisite(s):  <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a>, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>,  and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or LAW  404; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 490.  Intellectual Property Management.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Examines legal standards and management techniques for acquiring, using, and avoiding misuse of intellectual property (IP). Course Information: Same as <a href="/search/?P=JD%20490" title="JD 490" class="bubblelink code" onclick="return showCourse(this, 'JD 490');">JD 490</a>. Previously listed as IP 475/<a href="/search/?P=JD%20475" title="JD 475" class="bubblelink code" onclick="return showCourse(this, 'JD 475');">JD 475</a>. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a>, and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a>, and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a>, and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a>, and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a>, and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a>, and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a>,  and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or LAW  404; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 495.  IP Visit.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Intellectual Property Law LLM and MJ elective or required  courses satisfactorily completed at other law schools with advance approval from UIC. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated with approval. Applies to all Intellectual Property Law elective or required courses LLM and MJ students have received advance approval from UIC to complete at other law schools.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 499.  International Copyright Law.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Examines international copyright treaties and neighboring rights conventions, the principle of national treatment, copyright statutes in selected countries, and treatment of moral rights. Course Information: Same as <a href="/search/?P=IBT%20499" title="IBT 499" class="bubblelink code" onclick="return showCourse(this, 'IBT 499');">IBT 499</a> and <a href="/search/?P=PTL%20499" title="PTL 499" class="bubblelink code" onclick="return showCourse(this, 'PTL 499');">PTL 499</a>. Previously listed as IP 455/ITP 455/IBT 748. Prerequisite(s): <a href="/search/?P=JD%20409" title="JD 409" class="bubblelink code" onclick="return showCourse(this, 'JD 409');">JD 409</a> or <a href="/search/?P=IP%20409" title="IP 409" class="bubblelink code" onclick="return showCourse(this, 'IP 409');">IP 409</a> or <a href="/search/?P=PTL%20409" title="PTL 409" class="bubblelink code" onclick="return showCourse(this, 'PTL 409');">PTL 409</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 500.  Trademark Litigation.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on jurisdiction, venue, and potential relief, pleadings, discovery, witness and evidence considerations, and appellate procedures. Course Information: Previously listed as <a href="/search/?P=IP%20409" title="IP 409" class="bubblelink code" onclick="return showCourse(this, 'IP 409');">IP 409</a>. Prerequisite(s): <a href="/search/?P=JD%20400" title="JD 400" class="bubblelink code" onclick="return showCourse(this, 'JD 400');">JD 400</a> or <a href="/search/?P=IP%20400" title="IP 400" class="bubblelink code" onclick="return showCourse(this, 'IP 400');">IP 400</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 502.  Copyright Litigation.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Examines copyright litigation issues, including jurisdiction, registration as a prerequisite to suit, pleading, statutes of limitations, summary judgment, remedies, attorneysâ€™ fees and sanctions. Course Information: Previously listed as <a href="/search/?P=IP%20427" title="IP 427" class="bubblelink code" onclick="return showCourse(this, 'IP 427');">IP 427</a>. Prerequisite(s): <a href="/search/?P=JD%20409" title="JD 409" class="bubblelink code" onclick="return showCourse(this, 'JD 409');">JD 409</a> or <a href="/search/?P=IP%20409" title="IP 409" class="bubblelink code" onclick="return showCourse(this, 'IP 409');">IP 409</a> or <a href="/search/?P=PTL%20409" title="PTL 409" class="bubblelink code" onclick="return showCourse(this, 'PTL 409');">PTL 409</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 503.  Taxation of Intellectual Property.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Covers the federal and state tax treatment of sales, purchases, licensing, and transfers of intellectual property. Course Information: Same as <a href="/search/?P=TX%20503" title="TX 503" class="bubblelink code" onclick="return showCourse(this, 'TX 503');">TX 503</a>. Previously listed as IP 412/TX 329. Prerequisite(s): <a href="/search/?P=TX%20513" title="TX 513" class="bubblelink code" onclick="return showCourse(this, 'TX 513');">TX 513</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 506.  Comparative and International Patent Law.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines substantive non-U.S. patent law, including an examination of treaties and conventions and illustration of how international patent systems operate. Course Information: Same as <a href="/search/?P=IBT%20506" title="IBT 506" class="bubblelink code" onclick="return showCourse(this, 'IBT 506');">IBT 506</a> and <a href="/search/?P=TX%20506" title="TX 506" class="bubblelink code" onclick="return showCourse(this, 'TX 506');">TX 506</a>. Previously listed as IP 494/IBT 769. Prerequisite(s): <a href="/search/?P=JD%20432" title="JD 432" class="bubblelink code" onclick="return showCourse(this, 'JD 432');">JD 432</a> or <a href="/search/?P=IP%20432" title="IP 432" class="bubblelink code" onclick="return showCourse(this, 'IP 432');">IP 432</a> or <a href="/search/?P=JD%20469" title="JD 469" class="bubblelink code" onclick="return showCourse(this, 'JD 469');">JD 469</a> or <a href="/search/?P=IP%20469" title="IP 469" class="bubblelink code" onclick="return showCourse(this, 'IP 469');">IP 469</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 512.  Int'l Trademark Law.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Examines foreign trademark and unfair competition law, including prosecution, renewals, licensing, assignments, watching, opposition, cancellation, infringement, use, and marking. Course Information: Same as <a href="/search/?P=IBT%20512" title="IBT 512" class="bubblelink code" onclick="return showCourse(this, 'IBT 512');">IBT 512</a>. Previously listed as IP 414/IBT 746. Prerequisite(s): <a href="/search/?P=JD%20400" title="JD 400" class="bubblelink code" onclick="return showCourse(this, 'JD 400');">JD 400</a> or <a href="/search/?P=IP%20400" title="IP 400" class="bubblelink code" onclick="return showCourse(this, 'IP 400');">IP 400</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 513.  Court of Appeals for the Federal Circuit.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Comprehensively reviews the U.S. Court of Appeals for the Federal Circuit and its jurisdiction over patent cases from an appellate practitionerâ€™s perspective. Course Information: Previously listed as IP 429FC.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 521.  Patent Post-Grant Practice.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Reviews the purpose and history of contested IP proceedings, the statutory framework, and how these proceedings fit into the overall patent landscape. Course Information: Previously listed as IP 429PF.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 525.  Valuation of Intellectual Property.  1 hour.</strong></p>
+<p class="courseblockdesc">
+A condensed two-day course designed to provide tools necessary to perform monetary quantifications of the value of IP assets. Course Information: Previously listed as IP 429VA.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 535.  Bankruptcy and Intellectual Property Law.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Examines how intellectual property rights are preserved and protected during bankruptcy proceedings. Course Information: Previously listed as IP 460.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 537.  Administrative Intellectual Property Protection at the U.S. Border.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Considers administrative mechanisms for enforcing I.P. at the U.S. border, and how to combat IP-based unfair competition under Section 337. Course Information: Previously listed as IP 480.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 538.  Clinic: Patent Advanced.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Students work with small businesses and individual inventors on patent applications, office action responses, and draft ex parte reexamination requests to challenge patent validity. Course Information: Same as <a href="/search/?P=JD%20538" title="JD 538" class="bubblelink code" onclick="return showCourse(this, 'JD 538');">JD 538</a>. May be repeated to a maximum of 3 hours. Previously listed as IP 439ADV/JD 239ADV. JD students may not complete more than 15 combined clinic and extern credit hours  (including no more than 6 externship credit hours). Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a> and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a> and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a> and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a> and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a> and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a> and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a> and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20425" title="JD 425" class="bubblelink code" onclick="return showCourse(this, 'JD 425');">JD 425</a> or <a href="/search/?P=TADR%20457" title="TADR 457" class="bubblelink code" onclick="return showCourse(this, 'TADR 457');">TADR 457</a>; and <a href="/search/?P=TADR%20494" title="TADR 494" class="bubblelink code" onclick="return showCourse(this, 'TADR 494');">TADR 494</a> and <a href="/search/?P=TADR%20495" title="TADR 495" class="bubblelink code" onclick="return showCourse(this, 'TADR 495');">TADR 495</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 540.  Clinic: Trademark Class.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Under the supervision of a trademark practitioner, students will conduct trademark searches, write trademark opinion letters, and prosecute trademark applications before the US PTO. Course Information: Same as <a href="/search/?P=JD%20540" title="JD 540" class="bubblelink code" onclick="return showCourse(this, 'JD 540');">JD 540</a>. Previously listed as IP 447C/JD 447C. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a> and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a> and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a> and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a> and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a> and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a> and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a> and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20544" title="JD 544" class="bubblelink code" onclick="return showCourse(this, 'JD 544');">JD 544</a> or <a href="/search/?P=IP%20544" title="IP 544" class="bubblelink code" onclick="return showCourse(this, 'IP 544');">IP 544</a>. Corequisite(s): <a href="/search/?P=IP%20544" title="IP 544" class="bubblelink code" onclick="return showCourse(this, 'IP 544');">IP 544</a> or <a href="/search/?P=JD%20544" title="JD 544" class="bubblelink code" onclick="return showCourse(this, 'JD 544');">JD 544</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 541.  Biotechnology Patent Law.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines prosecution and enforcement of biotechnology patents, agreements related to biotechnology inventions and patents in relationship to biotechnology product strategies. Course Information: Previously listed as <a href="/search/?P=IP%20464" title="IP 464" class="bubblelink code" onclick="return showCourse(this, 'IP 464');">IP 464</a>. Prerequisite(s): <a href="/search/?P=JD%20432" title="JD 432" class="bubblelink code" onclick="return showCourse(this, 'JD 432');">JD 432</a> or <a href="/search/?P=IP%20432" title="IP 432" class="bubblelink code" onclick="return showCourse(this, 'IP 432');">IP 432</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 542.  Clinic: Trademark Advanced.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Under the supervision of a trademark practitioner, students will conduct trademark searches, write trademark opinion letters, and prosecute trademark applications before the US PTO. Course Information: Same as <a href="/search/?P=JD%20542" title="JD 542" class="bubblelink code" onclick="return showCourse(this, 'JD 542');">JD 542</a>. May be repeated to a maximum of 3 hours. Previously listed as IP 447/<a href="/search/?P=JD%20447" title="JD 447" class="bubblelink code" onclick="return showCourse(this, 'JD 447');">JD 447</a>. JD students may not complete more than 15 combined clinic and extern credit hours  (including no more than 6 externship credit hours). Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a> and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a> and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a> and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a> and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a> and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a> and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a> and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>; and <a href="/search/?P=JD%20540" title="JD 540" class="bubblelink code" onclick="return showCourse(this, 'JD 540');">JD 540</a> or <a href="/search/?P=IP%20540" title="IP 540" class="bubblelink code" onclick="return showCourse(this, 'IP 540');">IP 540</a>; and <a href="/search/?P=JD%20544" title="JD 544" class="bubblelink code" onclick="return showCourse(this, 'JD 544');">JD 544</a> or <a href="/search/?P=IP%20544" title="IP 544" class="bubblelink code" onclick="return showCourse(this, 'IP 544');">IP 544</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 544.  Clinic: Trademark Clinic.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Under the supervision of a trademark practitioner, students will conduct trademark searches, write trademark opinion letters, and prosecute trademark applications before the US PTO. Course Information: Same as <a href="/search/?P=JD%20544" title="JD 544" class="bubblelink code" onclick="return showCourse(this, 'JD 544');">JD 544</a>. Previously listed as IP 447CLN/JD 447CLN. Prerequisite(s): <a href="/search/?P=JD%20401" title="JD 401" class="bubblelink code" onclick="return showCourse(this, 'JD 401');">JD 401</a> and <a href="/search/?P=JD%20405" title="JD 405" class="bubblelink code" onclick="return showCourse(this, 'JD 405');">JD 405</a> and <a href="/search/?P=JD%20406" title="JD 406" class="bubblelink code" onclick="return showCourse(this, 'JD 406');">JD 406</a> and <a href="/search/?P=JD%20407" title="JD 407" class="bubblelink code" onclick="return showCourse(this, 'JD 407');">JD 407</a> and <a href="/search/?P=JD%20411" title="JD 411" class="bubblelink code" onclick="return showCourse(this, 'JD 411');">JD 411</a> and <a href="/search/?P=JD%20414" title="JD 414" class="bubblelink code" onclick="return showCourse(this, 'JD 414');">JD 414</a> and <a href="/search/?P=JD%20415" title="JD 415" class="bubblelink code" onclick="return showCourse(this, 'JD 415');">JD 415</a> and <a href="/search/?P=JD%20416" title="JD 416" class="bubblelink code" onclick="return showCourse(this, 'JD 416');">JD 416</a>; and <a href="/search/?P=LAW%20402" title="LAW 402" class="bubblelink code" onclick="return showCourse(this, 'LAW 402');">LAW 402</a> or <a href="/search/?P=LAW%20403" title="LAW 403" class="bubblelink code" onclick="return showCourse(this, 'LAW 403');">LAW 403</a> or <a href="/search/?P=LAW%20404" title="LAW 404" class="bubblelink code" onclick="return showCourse(this, 'LAW 404');">LAW 404</a>; and <a href="/search/?P=LAW%20412" title="LAW 412" class="bubblelink code" onclick="return showCourse(this, 'LAW 412');">LAW 412</a> or <a href="/search/?P=LAW%20413" title="LAW 413" class="bubblelink code" onclick="return showCourse(this, 'LAW 413');">LAW 413</a>. Corequisite(s): <a href="/search/?P=IP%20540" title="IP 540" class="bubblelink code" onclick="return showCourse(this, 'IP 540');">IP 540</a> or <a href="/search/?P=JD%20540" title="JD 540" class="bubblelink code" onclick="return showCourse(this, 'JD 540');">JD 540</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 550.  Externship in Intellectual Property.  1 or 2 hour.</strong></p>
+<p class="courseblockdesc">
+Students selected to participate in this program work with intellectual property attorneys in private and corporate practice. Course Information: May be repeated for a maximum of 2 hours. Previously listed as IP 433. JD students may not complete more than 15 combined clinic and extern credit hours (including no more than 6 externship credits).<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 593.  IP Consortium: Kent.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Law school courses satisfactorily completed at Chicago-Kent College of Law. Course Information: May be repeated with approval. Applies to law school courses law students have received advance approval to complete at Chicago-Kent College of Law through our agreement with Chicago-Kent College of Law. Students will register through UIC and will pay tuition to UIC for these courses.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 594.  Special Topics in Intellectual Property Law.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Master classes are offered on advanced topics in intellectual property law. Course Information: May be repeated if topics vary. Previously listed as IP 429.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 595.  IP Consortium: DePaul.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Law school courses satisfactorily completed at DePaul University College of Law. Course Information: May be repeated with approval. Applies to law school courses law students have received advance approval  to complete at DePaul University College of Law through our agreement with DePaul University College of Law. Students will register through UIC and will pay tuition to UIC for these courses.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>IP 596.  Independent Study in Intellectual Property Law.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+An independent study project must be approved by the director and requires scholarly study which will result in a significant contribution to intellectual property law. Course Information: May be repeated if topics vary to a maximum of 3 hours. Previously listed as <a href="/search/?P=IP%20431" title="IP 431" class="bubblelink code" onclick="return showCourse(this, 'IP 431');">IP 431</a>.<br/>
+</p>
+</div></div></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="ip.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

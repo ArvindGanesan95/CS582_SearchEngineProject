@@ -1,0 +1,525 @@
+https://catalog.uic.edu/ucat/colleges-depts/business-administration/mgmt/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Department of Managerial Studies &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/business-administration/">
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/actg/">Accounting</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/fin/">Finance</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/ids/">Information and Decision Sciences</a></li>
+				<li class="active isparent self"><a href="#" onclick="return false;">Managerial Studies</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/business-administration/mgmt/">
+					<li><a href="/ucat/colleges-depts/business-administration/mgmt/bs-entr/">BS in Entrepreneurship</a></li>
+					<li><a href="/ucat/colleges-depts/business-administration/mgmt/bs-human-resource-management/">BS in Human Resource Management</a></li>
+					<li><a href="/ucat/colleges-depts/business-administration/mgmt/bs-mgmt/">BS in Management</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/marketing/">Marketing</a></li>
+				<li><a href="/ucat/colleges-depts/business-administration/bba/">Bachelor of Business Administration</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/business-administration/minors/">Minors</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/business-administration/">College&nbsp;of&nbsp;Business&nbsp;Administration</a><span class="crumbsep">/</span></li><li><span class="active">Managerial Studies</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Department of Managerial Studies</h1>
+
+
+<script type="text/javascript">
+//<![CDATA[
+	var defshow = "text";
+	var bodycontainer = "#body";
+	var validhashes = ",text,undergraduateprogramstext,coursestext,";
+
+if(window.location.hash.length) {
+	var hash = cleanHash(window.location.hash);
+	if(validhashes.indexOf("," + hash + ",") != -1)
+		defshow = hash;	
+}
+var ss = document.styleSheets;
+var workss = null;
+for(var i=0; i < ss.length; i++) {
+	var currmedia = "";
+	if (typeof ss[i].media == "string") 
+		currmedia = ss[i].media
+	else if (typeof ss[i].media == "object" && ss[i].media.mediaText) 
+		currmedia = ss[i].media.mediaText;
+	
+	if((currmedia == "screen" || currmedia == "all") && (ss[i].href.indexOf("/") == 0 || ss[i].href.indexOf(document.location.host) >= 0)) {
+		workss = ss[i];
+		break;	
+	}
+}
+if(workss && workss.insertRule) {
+	workss.insertRule(".tab_content { display: none; }", workss.cssRules.length)
+	workss.insertRule(".sectionheader { display: none; }", workss.cssRules.length)
+	workss.insertRule("#" + defshow + "container { display: block; }", workss.cssRules.length)
+} else if(workss && workss.addRule) {
+	workss.addRule(".tab_content", "display: none");
+	workss.addRule(".sectionheader", "display: none");
+	workss.addRule("#" + defshow + "container", "display: block");
+}
+else {
+	if (window.console)
+		window.console.log('screen.css <link> needs attribute media="screen"');
+}
+//]]>
+</script>
+	<div id="tabs">
+		<ul class="clearfix" role="tablist">
+			<li id="texttab" role="presentation">
+<a href="#textcontainer" role="tab" aria-controls="textcontainer" onclick="return showSection('text');">Overview</a></li>
+			<li id="undergraduateprogramstexttab" role="presentation">
+<a href="#undergraduateprogramstextcontainer" role="tab" aria-controls="undergraduateprogramstextcontainer" onclick="return showSection('undergraduateprogramstext');" >Programs and Requirements</a></li>
+			<li id="coursestexttab" role="presentation">
+<a href="#coursestextcontainer" role="tab" aria-controls="coursestextcontainer" onclick="return showSection('coursestext');" >Courses</a></li>
+		</ul>
+	</div>
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p class="campus_location"><span class="label"><strong>Contact Information: </strong></span><br/>
+<span class="campus_location">Campus Location: 2203 University Hall (UH), Undergraduate Programs: 1118 UH <br/>
+<span class="phone">(312) 996-2700</span> <br/>
+<span class="website">Entrepreneurship: <a href="https://business.uic.edu/undergraduate-programs/bs-entrepreneurship" target="_blank">business.uic.edu/undergraduate-programs/bs-entrepreneurship</a>, Management: <a href="https://business.uic.edu/undergraduate-programs/bs-management-degree-program" target="_blank">business.uic.edu/undergraduate-programs/bs-management-degree-program</a></span></span></p>
+<p class="administration"><span class="label"><strong>Administration: </strong></span><br/>
+Department Head, Mary Beth Watson-Manheim</p>
+<p>The Department of Managerial Studies offers a Bachelor of Science in Entrepreneurship, a Bachelor of Science in Human Resource Management, and a Bachelor of Science in Management.</p>
+<h2>BS in Entrepreneurship</h2>
+<p>The field of entrepreneurship provides knowledge of new venture opportunities, methods for creating and growing enterprises, and the role of entrepreneurship and young or smaller firms in economic development and the world economy. The program will help prepare students to create their own ventures, work in professional sectors that serve small or young businesses, or contribute significantly to the success of businesses in which they are employed.</p>
+<h2>BS in Human Resource Management</h2>
+<p>The BS in Human Resource Management prepares students to hold positions in a broad range of areas such as recruiter, benefits manager, trainer, job analyst, compensation analyst, and diversity manager.</p>
+<h2>BS in Management</h2>
+<p>The field of management is concerned with the effective organization, development, and administration of business and other organizations. Students receive both theoretical and practical preparation for a variety of responsible managerial and specialist positions. The degree program in management emphasizes analytical thinking for effective decision making and broad preparation for leadership positions. In addition, students are also able to choose among four concentrations depending upon their interests and career focus:</p>
+<ul>
+	<li>Leadership and Managerial Competencies</li>
+	<li>Management Consulting</li>
+	<li>Managerial Logistics</li>
+</ul>
+<p>Employment opportunities include general management positions in manufacturing, distribution, and service industries; staff positions in human resources management and industrial relations departments; and management positions in transportation and physical distribution.</p>
+<h2><strong>Distinction</strong></h2>
+<p>See <a href="/ucat/colleges-depts/business-administration/#i"><em>Academic Honors</em></a> in <em>College of Business Administration</em> section.</p></div><!--end #textcontainer -->
+
+			<div id="undergraduateprogramstextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="undergraduateprogramstexttab" aria-hidden="true">
+				<a name="undergraduateprogramstext"></a><h2>Degree Programs</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/business-administration/mgmt/bs-entr/">BS in Entrepreneurship</a></li>
+	<li><a href="/ucat/colleges-depts/business-administration/mgmt/bs-human-resource-management/">BS in Human Resource Management</a></li>
+	<li><a href="/ucat/colleges-depts/business-administration/mgmt/bs-mgmt/">BS in Management</a></li>
+</ul>
+			</div>
+			<div id="coursestextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="coursestexttab" aria-hidden="true">
+				<a name="coursestext"></a><p><a href="#Entrpreneurship">Entrepreneurship</a><br/>
+<a href="#Management">Management</a></p>
+<h2><a id="Entrpreneurship" name="Entrpreneurship"></a>Entrepreneurship</h2>
+<div class="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle"><strong>ENTR 200.  Survey of Entrepreneurship.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces the discipline of entrepreneurship, which examines when, how and by what means individuals choose entrepreneurship over paid employment; examines the relationship between individual entrepreneurs and society over time. Course Information: Previously listed as ENTR 300. Prerequisite(s): <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>. No graduation credit given to students enrolled in Business Administration.<i>  Individual and Society course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENTR 310.  Introduction to Entrepreneurship.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the concepts of entrepreneurship, opportunity recognition, characteristics of entrepreneurs, creativity, the role of the entrepreneur in the economy and society, and entrepreneurship in non-entrepreneurial settings. Course Information: Prerequisite(s): <a href="/search/?P=BA%20200" title="BA 200" class="bubblelink code" onclick="return showCourse(this, 'BA 200');">BA 200</a> and <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>; or <a href="/search/?P=ENTR%20200" title="ENTR 200" class="bubblelink code" onclick="return showCourse(this, 'ENTR 200');">ENTR 200</a> and <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENTR 320.  Entrepreneurship Internship Program.  1 or 3 hour.</strong></p>
+<p class="courseblockdesc">
+Cooperative education provides students an opportunity to gain access to mentors and practical work experience in entrepreneurial settings. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated to a maximamum of 6 hours. Prerequisite(s): <a href="/search/?P=ENTR%20310" title="ENTR 310" class="bubblelink code" onclick="return showCourse(this, 'ENTR 310');">ENTR 310</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENTR 360.  Strategic Analysis and Reporting.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines types and sources of information used by managers and investors to make strategic decisions; provides working knowledge of tools used to effectively manage, analyze and report strategic information, including Excel, Tableau, and PowerPoint. Course Information: Same as <a href="/search/?P=MGMT%20360" title="MGMT 360" class="bubblelink code" onclick="return showCourse(this, 'MGMT 360');">MGMT 360</a>. Extensive computer use required. Prerequisite(s): <a href="/search/?P=IDS%20200" title="IDS 200" class="bubblelink code" onclick="return showCourse(this, 'IDS 200');">IDS 200</a> and <a href="/search/?P=IDS%20270" title="IDS 270" class="bubblelink code" onclick="return showCourse(this, 'IDS 270');">IDS 270</a> and <a href="/search/?P=ACTG%20210" title="ACTG 210" class="bubblelink code" onclick="return showCourse(this, 'ACTG 210');">ACTG 210</a> and <a href="/search/?P=BA%20200" title="BA 200" class="bubblelink code" onclick="return showCourse(this, 'BA 200');">BA 200</a> and <a href="/search/?P=MGMT%20340" title="MGMT 340" class="bubblelink code" onclick="return showCourse(this, 'MGMT 340');">MGMT 340</a> and <a href="/search/?P=MGMT%20355" title="MGMT 355" class="bubblelink code" onclick="return showCourse(this, 'MGMT 355');">MGMT 355</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENTR 420.  Social Entrepreneurship.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on using entrepreneurial skills to craft innovative responses to social problems. Social entrepreneurship applies to both profit and non-profit firms that have programs designed to create social value. Course Information: Prerequisite(s): <a href="/search/?P=ENTR%20310" title="ENTR 310" class="bubblelink code" onclick="return showCourse(this, 'ENTR 310');">ENTR 310</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENTR 430.  Family Business Management.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Competitive strengths/weaknesses of a family business, dynamics of family interactions within the overlapping family, management and ownership systems. Course Information: Prerequisite(s): <a href="/search/?P=ENTR%20310" title="ENTR 310" class="bubblelink code" onclick="return showCourse(this, 'ENTR 310');">ENTR 310</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENTR 435.  International Entrepreneurship.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Provides students with knowledge useful for creating an international new venture by focusing on the identification and evaluation of international business opportunities, as well as building and managing an international organization. Course Information: Prerequisite(s): <a href="/search/?P=ENTR%20310" title="ENTR 310" class="bubblelink code" onclick="return showCourse(this, 'ENTR 310');">ENTR 310</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENTR 444.  Entrepreneurial Finance.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Develops the skills necessary to analyze the unique financial issues facing entrepreneurs, such as valuation of new ventures, financial tools useful in venture capital markets, deal structuring, governance, and harvesting. Course Information: Previously listed as FIN 444. Prerequisite(s): <a href="/search/?P=ENTR%20310" title="ENTR 310" class="bubblelink code" onclick="return showCourse(this, 'ENTR 310');">ENTR 310</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENTR 445.  New Venture Planning.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on strategic analysis and strategic planning for new ventures and provides students with the skills necessary to develop entry strategies for new ventures in uncertain environments. Course Information: Prerequisite(s): <a href="/search/?P=ENTR%20310" title="ENTR 310" class="bubblelink code" onclick="return showCourse(this, 'ENTR 310');">ENTR 310</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENTR 450.  Entrepreneurship for Scientists and Engineers.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Gives non-business students an appreciation for the rewards and challenges of entrepreneurship, especially as it relates to commercializing emerging technologies. Course Information: 3 undergraduate hours. 4 graduate hours. Credit is not given for students enrolled in a Business Administration degree program.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENTR 454.  Entrepreneurship New Venture Formation.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on analyzing the value propositions of a new business venture, and garnering and employing resources in pursuit of that new venture. Course Information: Prerequisite(s): <a href="/search/?P=ENTR%20310" title="ENTR 310" class="bubblelink code" onclick="return showCourse(this, 'ENTR 310');">ENTR 310</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENTR 464.  Entrepreneurial Consulting.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Student teams diagnose and recommend solutions to problems and opportunities facing Chicago area entrepreneurs and smaller enterprises. Application of previous coursework. Course Information: Prerequisite(s): <a href="/search/?P=ENTR%20310" title="ENTR 310" class="bubblelink code" onclick="return showCourse(this, 'ENTR 310');">ENTR 310</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENTR 494.  Special Topics in Entrepreneurship.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Exploration of areas not covered in existing course offerings or study of selected topics in greater depth. Subject will vary from semester to semester.  Course Information:  May be repeated to a maximum of 6 hours.  May be repeated if topics vary.  Prerequisite(s): <a href="/search/?P=ENTR%20310" title="ENTR 310" class="bubblelink code" onclick="return showCourse(this, 'ENTR 310');">ENTR 310</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ENTR 499.  Research Experience.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Research experience under the supervision of a faculty member. The faculty member and student will determine the research project. Each student must submit a written report and each student must participate at a research event on campus. Course Information: May be repeated to a maximum of 12 hours. Students may register in more than one section per term. Prerequisite(s): Approval of the department head and the instructor required.<br/>
+</p>
+</div></div>
+<h2><a id="Management" name="Management"></a>Management</h2>
+<div class="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 340.  Introduction to Organizations.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Organization and management concepts and applications. Individual and organizational goal attainment. Course Information: Prerequisite(s): <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>. Recommended background: General knowledge of microeconomics.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 350.  Business and Its External Environment.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Concerns the political, economic, social, legal, regulatory and international environment of business and the ethics and social responsibility of business actions. Course Information: Prerequisite(s): <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a> and <a href="/search/?P=MATH%20160" title="MATH 160" class="bubblelink code" onclick="return showCourse(this, 'MATH 160');">MATH 160</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 355.  Structured Problem Solving for Consulting Projects.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Teaches structured problem-solving methods for consulting projects, introduces management frameworks, and covers methods and tools to facilitate implementation. Course Information: Prerequisite(s): <a href="/search/?P=IDS%20200" title="IDS 200" class="bubblelink code" onclick="return showCourse(this, 'IDS 200');">IDS 200</a> and <a href="/search/?P=IDS%20270" title="IDS 270" class="bubblelink code" onclick="return showCourse(this, 'IDS 270');">IDS 270</a> and <a href="/search/?P=ACTG%20210" title="ACTG 210" class="bubblelink code" onclick="return showCourse(this, 'ACTG 210');">ACTG 210</a> and <a href="/search/?P=BA%20200" title="BA 200" class="bubblelink code" onclick="return showCourse(this, 'BA 200');">BA 200</a> and <a href="/search/?P=MGMT%20340" title="MGMT 340" class="bubblelink code" onclick="return showCourse(this, 'MGMT 340');">MGMT 340</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 360.  Strategic Analysis and Reporting.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines types and sources of information used by managers and investors to make strategic decisions; provides working knowledge of tools used to effectively manage, analyze and report strategic information, including Excel, Tableau, and PowerPoint. Course Information: Same as <a href="/search/?P=ENTR%20360" title="ENTR 360" class="bubblelink code" onclick="return showCourse(this, 'ENTR 360');">ENTR 360</a>. Extensive computer use required. Prerequisite(s): <a href="/search/?P=IDS%20200" title="IDS 200" class="bubblelink code" onclick="return showCourse(this, 'IDS 200');">IDS 200</a> and <a href="/search/?P=IDS%20270" title="IDS 270" class="bubblelink code" onclick="return showCourse(this, 'IDS 270');">IDS 270</a> and <a href="/search/?P=ACTG%20210" title="ACTG 210" class="bubblelink code" onclick="return showCourse(this, 'ACTG 210');">ACTG 210</a> and <a href="/search/?P=BA%20200" title="BA 200" class="bubblelink code" onclick="return showCourse(this, 'BA 200');">BA 200</a> and <a href="/search/?P=MGMT%20340" title="MGMT 340" class="bubblelink code" onclick="return showCourse(this, 'MGMT 340');">MGMT 340</a> and <a href="/search/?P=MGMT%20355" title="MGMT 355" class="bubblelink code" onclick="return showCourse(this, 'MGMT 355');">MGMT 355</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 445.  Organizational Theory.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Emphasis on organizational theories and models to analyze and improve functioning and performance of organizations. Structure, technology, environmental adaptation, and managerial control systems. Course Information: Prerequisite(s): <a href="/search/?P=MGMT%20340" title="MGMT 340" class="bubblelink code" onclick="return showCourse(this, 'MGMT 340');">MGMT 340</a> and junior standing.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 447.  Organizations.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Characteristics of business, government, and not-for-profit organizations; approaches used to study organizations; theoretical and empirical analysis of organizational processes. Course Information: Same as <a href="/search/?P=SOC%20447" title="SOC 447" class="bubblelink code" onclick="return showCourse(this, 'SOC 447');">SOC 447</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=SOC%20241" title="SOC 241" class="bubblelink code" onclick="return showCourse(this, 'SOC 241');">SOC 241</a> or <a href="/search/?P=MGMT%20340" title="MGMT 340" class="bubblelink code" onclick="return showCourse(this, 'MGMT 340');">MGMT 340</a> or <a href="/search/?P=SOC%20244" title="SOC 244" class="bubblelink code" onclick="return showCourse(this, 'SOC 244');">SOC 244</a>; and junior standing or above and an additional 200 or 300-level elective in sociology; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 452.  Organizational Behavior.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Emphasis on understanding and managing people at work. Analysis of individual, group and organization topics including leadership, motivation, attitudes, group dynamics, and organizational culture. Course Information: Prerequisite(s): <a href="/search/?P=MGMT%20340" title="MGMT 340" class="bubblelink code" onclick="return showCourse(this, 'MGMT 340');">MGMT 340</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 453.  Human Resource Management.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of the activities involved in attracting, retaining, and motivating employees. Topics include planning, selection, compensation, performance appraisal, succession, and legal issues. Course Information: Prerequisite(s): <a href="/search/?P=MGMT%20340" title="MGMT 340" class="bubblelink code" onclick="return showCourse(this, 'MGMT 340');">MGMT 340</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 454.  Labor-Management Relations.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Labor unions and their impact on business firms and society. Labor-management relationships and collective bargaining practices. Public policy, union structure and bargaining theory. Course Information: Prerequisite(s): <a href="/search/?P=MGMT%20340" title="MGMT 340" class="bubblelink code" onclick="return showCourse(this, 'MGMT 340');">MGMT 340</a> and <a href="/search/?P=MGMT%20350" title="MGMT 350" class="bubblelink code" onclick="return showCourse(this, 'MGMT 350');">MGMT 350</a> and junior standing.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 455.  Talent Management and Global Human Resources.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of topics related to performance appraisal: motivating, retaining, and separating employees; compensation and benefits; managing human resources in a global economy. Prerequisite(s): <a href="/search/?P=MGMT%20340" title="MGMT 340" class="bubblelink code" onclick="return showCourse(this, 'MGMT 340');">MGMT 340</a> and credit or concurrent registration in <a href="/search/?P=MGMT%20453" title="MGMT 453" class="bubblelink code" onclick="return showCourse(this, 'MGMT 453');">MGMT 453</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 460.  Managing Globally.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Understanding the opportunities and problems that confront managers as they lead a company through complex global economic, political, legal, technological and cultural environment. Focus on people, values and culture. Course Information: Prerequisite(s): <a href="/search/?P=MGMT%20340" title="MGMT 340" class="bubblelink code" onclick="return showCourse(this, 'MGMT 340');">MGMT 340</a> and <a href="/search/?P=MGMT%20350" title="MGMT 350" class="bubblelink code" onclick="return showCourse(this, 'MGMT 350');">MGMT 350</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 463.  Negotiation and Conflict Resolution.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Strategies and techniques for successful agreement negotiation and business conflict resolution. Includes applications to classic situations such as collective bargaining, interpersonal relations, and stakeholder concerns. Course Information: Prerequisite(s): <a href="/search/?P=MGMT%20340" title="MGMT 340" class="bubblelink code" onclick="return showCourse(this, 'MGMT 340');">MGMT 340</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 464.  Employment Recruitment and Selection.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The design and application of internal and external recruitment, selection and retention systems for the effective management of human capital by line managers and HR professionals. Prerequisite(s): <a href="/search/?P=MGMT%20452" title="MGMT 452" class="bubblelink code" onclick="return showCourse(this, 'MGMT 452');">MGMT 452</a> and <a href="/search/?P=MGMT%20453" title="MGMT 453" class="bubblelink code" onclick="return showCourse(this, 'MGMT 453');">MGMT 453</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 465.  Compensation and Reward Systems.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of compensation and reward systems designed to enhance employee motivation and performance. Topics include pay structure design, incentive systems, and benefits. Course Information: Prerequisite(s): <a href="/search/?P=MGMT%20452" title="MGMT 452" class="bubblelink code" onclick="return showCourse(this, 'MGMT 452');">MGMT 452</a> and <a href="/search/?P=MGMT%20455" title="MGMT 455" class="bubblelink code" onclick="return showCourse(this, 'MGMT 455');">MGMT 455</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 466.  Managerial Effectiveness Through Diversity.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Management of diverse work forces. Discrimination, affirmative action, career development, socialization and social change policies; historical, psychological, sociological, legal and managerial viewpoints. Course Information: Prerequisite(s): <a href="/search/?P=MGMT%20340" title="MGMT 340" class="bubblelink code" onclick="return showCourse(this, 'MGMT 340');">MGMT 340</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 467.  Impact of Technological Change.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines the impact of technological change upon the business environment and the managerial process. Emphasis on alternative futures and the planning necessary to attain desired ends. Course Information: Prerequisite(s): <a href="/search/?P=MGMT%20340" title="MGMT 340" class="bubblelink code" onclick="return showCourse(this, 'MGMT 340');">MGMT 340</a> and <a href="/search/?P=MGMT%20350" title="MGMT 350" class="bubblelink code" onclick="return showCourse(this, 'MGMT 350');">MGMT 350</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 470.  Training and Development.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of the science, methods, and practice of personnel training and development. Topics include needs determination, training design and delivery, training assessments. Course Information: Prerequisite(s): <a href="/search/?P=MGMT%20452" title="MGMT 452" class="bubblelink code" onclick="return showCourse(this, 'MGMT 452');">MGMT 452</a> and <a href="/search/?P=MGMT%20453" title="MGMT 453" class="bubblelink code" onclick="return showCourse(this, 'MGMT 453');">MGMT 453</a>; or consent of the instructor. Recommended background: Experience as an intern or practitioner in an area of human resource management or organizational development.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 471.  Organizational Design.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Covers how a firmâ€™s people, resources, processes, and culture are arrayed and deployed to help implement firm strategies, pursue key objectives, and respond to environmental demands. Course Information: Prerequisite(s): <a href="/search/?P=MGMT%20340" title="MGMT 340" class="bubblelink code" onclick="return showCourse(this, 'MGMT 340');">MGMT 340</a> and <a href="/search/?P=MGMT%20452" title="MGMT 452" class="bubblelink code" onclick="return showCourse(this, 'MGMT 452');">MGMT 452</a>, or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 475.  Leadership Theories and Personal Leadership Skills Development.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Overview of leadership theories, assessment of leadership strengths and weaknesses, and leadership skills training. Course Information: Prerequisite(s): <a href="/search/?P=MGMT%20340" title="MGMT 340" class="bubblelink code" onclick="return showCourse(this, 'MGMT 340');">MGMT 340</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 480.  Transportation Systems Management.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Provides a fundamental knowledge of problems and practices encountered in the management of transportation systems. Includes impact of public policy; capital facilities; industry structure; costs; operations pricing and environmental relationships. Course Information: Prerequisite(s): <a href="/search/?P=MGMT%20340" title="MGMT 340" class="bubblelink code" onclick="return showCourse(this, 'MGMT 340');">MGMT 340</a> and <a href="/search/?P=MGMT%20350" title="MGMT 350" class="bubblelink code" onclick="return showCourse(this, 'MGMT 350');">MGMT 350</a>, or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 481.  Managerial Logistics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Management of activities governing flow of materials and products through stages of production and distribution. Includes design of logistical systems and use of mathematical techniques. Course Information: Prerequisite(s): <a href="/search/?P=MGMT%20340" title="MGMT 340" class="bubblelink code" onclick="return showCourse(this, 'MGMT 340');">MGMT 340</a>; and <a href="/search/?P=MATH%20165" title="MATH 165" class="bubblelink code" onclick="return showCourse(this, 'MATH 165');">MATH 165</a> or <a href="/search/?P=MATH%20180" title="MATH 180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH 180</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 485.  Corporate Sustainability and Responsibility.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Theories and techniques for designing and implementing corporate sustainability and responsibility programs to create private and social value. Course Information: Prerequisite(s): <a href="/search/?P=MGMT%20340" title="MGMT 340" class="bubblelink code" onclick="return showCourse(this, 'MGMT 340');">MGMT 340</a> and <a href="/search/?P=MGMT%20350" title="MGMT 350" class="bubblelink code" onclick="return showCourse(this, 'MGMT 350');">MGMT 350</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 486.  Managerial Consulting.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Development of knowledge and critical skills necessary to operate effectively as internal or external management consultants through an applied experience with an organization. Course Information: Field work required. Prerequisite(s): <a href="/search/?P=MGMT%20452" title="MGMT 452" class="bubblelink code" onclick="return showCourse(this, 'MGMT 452');">MGMT 452</a> and <a href="/search/?P=MGMT%20453" title="MGMT 453" class="bubblelink code" onclick="return showCourse(this, 'MGMT 453');">MGMT 453</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 490.  Cracking the Case: Case Analysis for Consulting Projects.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Develops studentsâ€™ ability to understand analytical variations across industries and identify relevant data and facts to solve managerial issues. This course will introduce students to the case methodology. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=ACTG%20210" title="ACTG 210" class="bubblelink code" onclick="return showCourse(this, 'ACTG 210');">ACTG 210</a> and <a href="/search/?P=ACTG%20211" title="ACTG 211" class="bubblelink code" onclick="return showCourse(this, 'ACTG 211');">ACTG 211</a> and <a href="/search/?P=BA%20200" title="BA 200" class="bubblelink code" onclick="return showCourse(this, 'BA 200');">BA 200</a> and <a href="/search/?P=FIN%20301" title="FIN 301" class="bubblelink code" onclick="return showCourse(this, 'FIN 301');">FIN 301</a> and <a href="/search/?P=FIN%20302" title="FIN 302" class="bubblelink code" onclick="return showCourse(this, 'FIN 302');">FIN 302</a> and <a href="/search/?P=IDS%20200" title="IDS 200" class="bubblelink code" onclick="return showCourse(this, 'IDS 200');">IDS 200</a>; and <a href="/search/?P=IDS%20270" title="IDS 270" class="bubblelink code" onclick="return showCourse(this, 'IDS 270');">IDS 270</a> and <a href="/search/?P=IDS%20355" title="IDS 355" class="bubblelink code" onclick="return showCourse(this, 'IDS 355');">IDS 355</a> and <a href="/search/?P=MGMT%20340" title="MGMT 340" class="bubblelink code" onclick="return showCourse(this, 'MGMT 340');">MGMT 340</a> and <a href="/search/?P=MGMT%20350" title="MGMT 350" class="bubblelink code" onclick="return showCourse(this, 'MGMT 350');">MGMT 350</a> and <a href="/search/?P=MKTG%20360" title="MKTG 360" class="bubblelink code" onclick="return showCourse(this, 'MKTG 360');">MKTG 360</a>; and consent of the instructor. Recommended background: <a href="/search/?P=MGMT%20355" title="MGMT 355" class="bubblelink code" onclick="return showCourse(this, 'MGMT 355');">MGMT 355</a> and <a href="/search/?P=MGMT%20360" title="MGMT 360" class="bubblelink code" onclick="return showCourse(this, 'MGMT 360');">MGMT 360</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 494.  Special Topics in Management.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Exploration of areas not covered in existing course offerings or study of selected topics in greater depth. Subject matter will vary from semester to semester. Course Information: May be repeated. Students may register in more than one section per term. Prerequisite(s): Senior standing and 9 hours of 400-level management courses, or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 495.  Competitive Strategy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Multidisciplinary analysis of organization strategy and policy, using case method and/or business simulation. Assignments involve extensive library research and oral and written reports. Course Information: Prerequisite(s): <a href="/search/?P=IDS%20355" title="IDS 355" class="bubblelink code" onclick="return showCourse(this, 'IDS 355');">IDS 355</a> and <a href="/search/?P=FIN%20301" title="FIN 301" class="bubblelink code" onclick="return showCourse(this, 'FIN 301');">FIN 301</a> and <a href="/search/?P=FIN%20302" title="FIN 302" class="bubblelink code" onclick="return showCourse(this, 'FIN 302');">FIN 302</a>; Senior standing in the College of Business Administration and completion of all other CBA core courses.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>MGMT 499.  Research Experience.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Research experience under the supervision of a faculty member.  The faculty member and student will determine the research project. Each student must submit a written report and each student must participate at a research event on campus. Course Information: May be repeated to a maximum of 6 hours. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div></div>
+			</div>
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="mgmt.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

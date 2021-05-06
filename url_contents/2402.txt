@@ -1,0 +1,646 @@
+https://catalog.uic.edu/ucat/colleges-depts/liberal-arts-sciences/phil/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Department of Philosophy &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/liberal-arts-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/">Anthropology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/">Biochemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/">Biological Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/">Black Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/">Chemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/">Classics and Mediterranean Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/">Communication</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/">Criminology, Law, and Justice</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/">Earth and Environmental Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/">Economics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/">English</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French and Francophone Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/">Gender and Women's Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/">Germanic Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/">Global Asian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/">Hispanic and Italian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/">History</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/">Integrated Health Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/">International Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/">Liberal Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/">Linguistics</a></li>
+				<li><a href="/ucat/colleges-depts/liberal-arts-sciences/lcsl/">Literatures, Cultural Studies, and Linguistics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/">Mathematics, Statistics, and Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/">Moving Image Arts</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/">Neuroscience</a></li>
+				<li class="active isparent self"><a href="#" onclick="return false;">Philosophy</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/liberal-arts-sciences/phil/">
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/ba/">BA with a Major in Philosophy</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/minor/">Minor in Philosophy</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/">Physics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/">Polish, Russian, and Lithuanian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/">Political Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/">Psychology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/">Religious Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/">Sociology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional Studies</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/">College&nbsp;of&nbsp;Liberal&nbsp;Arts&nbsp;and&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><span class="active">Philosophy</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Department of Philosophy</h1>
+
+
+<script type="text/javascript">
+//<![CDATA[
+	var defshow = "text";
+	var bodycontainer = "#body";
+	var validhashes = ",text,undergraduateprogramstext,coursestext,";
+
+if(window.location.hash.length) {
+	var hash = cleanHash(window.location.hash);
+	if(validhashes.indexOf("," + hash + ",") != -1)
+		defshow = hash;	
+}
+var ss = document.styleSheets;
+var workss = null;
+for(var i=0; i < ss.length; i++) {
+	var currmedia = "";
+	if (typeof ss[i].media == "string") 
+		currmedia = ss[i].media
+	else if (typeof ss[i].media == "object" && ss[i].media.mediaText) 
+		currmedia = ss[i].media.mediaText;
+	
+	if((currmedia == "screen" || currmedia == "all") && (ss[i].href.indexOf("/") == 0 || ss[i].href.indexOf(document.location.host) >= 0)) {
+		workss = ss[i];
+		break;	
+	}
+}
+if(workss && workss.insertRule) {
+	workss.insertRule(".tab_content { display: none; }", workss.cssRules.length)
+	workss.insertRule(".sectionheader { display: none; }", workss.cssRules.length)
+	workss.insertRule("#" + defshow + "container { display: block; }", workss.cssRules.length)
+} else if(workss && workss.addRule) {
+	workss.addRule(".tab_content", "display: none");
+	workss.addRule(".sectionheader", "display: none");
+	workss.addRule("#" + defshow + "container", "display: block");
+}
+else {
+	if (window.console)
+		window.console.log('screen.css <link> needs attribute media="screen"');
+}
+//]]>
+</script>
+	<div id="tabs">
+		<ul class="clearfix" role="tablist">
+			<li id="texttab" role="presentation">
+<a href="#textcontainer" role="tab" aria-controls="textcontainer" onclick="return showSection('text');">Overview</a></li>
+			<li id="undergraduateprogramstexttab" role="presentation">
+<a href="#undergraduateprogramstextcontainer" role="tab" aria-controls="undergraduateprogramstextcontainer" onclick="return showSection('undergraduateprogramstext');" >Programs and Requirements</a></li>
+			<li id="coursestexttab" role="presentation">
+<a href="#coursestextcontainer" role="tab" aria-controls="coursestextcontainer" onclick="return showSection('coursestext');" >Courses</a></li>
+		</ul>
+	</div>
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p class="campus_location"><span class="label"><strong>Contact Information: </strong></span><br/>
+<span class="campus_location">Campus Location: 1421 University Hall (UH) <br/>
+<span class="phone">(312) 996–3022</span> <br/>
+<span class="website"><a href="http://phil.uic.edu/">phil.uic.edu</a></span></span></p>
+<p class="administration"><span class="label"><strong>Administration: </strong></span><br/>
+Chair, David Hilbert<br/>
+Director of Undergraduate Studies, John Whipple, <a href="mailto:whipple@uic.edu">whipple@uic.edu</a></p>
+<p>Philosophy (from the Greek “love of wisdom”) originated as the search for understanding concerning the most basic features of reality, the natural world, and human life. The discipline prizes and develops the skill of engaging effectively with arguments on a tremendous range of subjects. In ancient times, philosophers pioneered the study of topics from the physical cosmos to the gods to human conduct. They debated not only the character of fundamental reality but also questions of how we can attain knowledge of it. To this day, philosophy engages with questions drawn from every part of our life and experience. For example: Is there such a thing as a purely objective observation? Am I identical with my brain? Is it ever permissible to break the law? Why is there evil in the world? Is death to be feared, and why?</p>
+<p>Job candidates and applicants to professional schools can only be helped by being able to examine both sides of a question, think critically, write cogently, and solve very general abstract problems. Moreover, the powers of reflection, imagination, self-expression, and engagement with the ideas of others that philosophy cultivates are in themselves of fundamental value for human life.</p>
+<h2>Distinction</h2>
+<h3><strong>Departmental Distinction</strong></h3>
+<p>Students may declare themselves as candidates for Distinction after completion of 16 hours of philosophy course work. Distinction will be awarded to students who:</p>
+<ol>
+	<li>satisfy the requirements for the Major in Philosophy,</li>
+	<li>complete one 400-level course in addition to courses taken to satisfy requirements of the major, and</li>
+	<li>earn a GPA of 3.70/4.00 in all philosophy courses, including transferred courses.</li>
+</ol>
+<h3><strong>High Departmental Distinction</strong></h3>
+<p>In addition to satisfying the requirements for Departmental Distinction, students must satisfactorily complete <span class="sc_courseinline"><a href="/search/?P=PHIL%20390" title="PHIL 390" class="bubblelink code" onclick="return showCourse(this, 'PHIL 390');">PHIL 390</a></span>. To select this option, students must have the approval of both the director of undergraduate studies as well as the professor with whom the student will be writing the thesis.</p>
+</div><!--end #textcontainer -->
+
+			<div id="undergraduateprogramstextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="undergraduateprogramstexttab" aria-hidden="true">
+				<a name="undergraduateprogramstext"></a><h2>Degree Program</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/ba/">BA with a Major in Philosophy</a></li>
+</ul>
+<h2>Minor</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/minor/">Minor in Philosophy</a></li>
+</ul>
+			</div>
+			<div id="coursestextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="coursestexttab" aria-hidden="true">
+				<a name="coursestext"></a><div class="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 100.  Introduction to Philosophy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A survey of traditional problems concerning the existence and nature of God, freedom, justification, morality, etc. Readings from historical or contemporary philosophers. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<i>  Individual and Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 101.  Critical Thinking.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A practical course designed to improve a student's reasoning skills. Emphasis is on developing skill at evaluating, formulating and presenting arguments. Class Schedule Information: To be properly registered, students must enroll in one Discussion and one Lecture.<i>  Individual and Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 102.  Introductory Logic.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Sentential logic: representation of English using truth-functional connectives, decision methods, natural deduction techniques. Introduction to predicate logic: representation of English using quantifiers. Class Schedule Information: To be properly registered, students must enroll in one Discussion and one Lecture.<i>  Natural World - No Lab course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 103.  Introduction to Ethics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Surveys attempts to answer central questions of ethics: What acts are right? What things are good? How do we know this? Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<i>  Individual and Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 104.  Introduction to Political Philosophy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An introductory survey of topics in political philosophy that bear on U.S. society. Readings will usually be drawn from both classical and contemporary sources. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<i>  Individual and Society course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 105.  Science and Philosophy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An exploration of central philosophical (and/or religious) issues as they arise in the sciences. Readings include both scientific (e.g. physics or biology) and philosophical works, and may be drawn from various periods. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<i>  Natural World - No Lab course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 106.  What Is Religion? 3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of issues concerning religion, including varying views of the purposes that religions serve, differences between religions, and arguments for the existence of God. Course Information: Same as <a href="/search/?P=RELS%20106" title="RELS 106" class="bubblelink code" onclick="return showCourse(this, 'RELS 106');">RELS 106</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<i>  Individual and Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 107.  What is Art? 3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the fundamental problems in understanding art; the historical background; the concept of the aesthetic; theories of art; intentionalistic criticism; metaphor; symbolism; expression; theories of evaluation. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<i>  Creative Arts course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 108.  What Is Freedom? 3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to philosophy through an investigation of freedom. What is freedom, and why do we value it? Do we have free will? What limitations on individual freedom by society are legitimate? What is a free society? Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<i>  Individual and Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 109.  Who Am I? 3 hours.</strong></p>
+<p class="courseblockdesc">
+Who am I? What does it mean to be human? How am I different from other humans? What is the source of my identity, and is it something I can control? These questions addressed through philosophical texts from Plato to the present. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<i>  Individual and Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 110.  Philosophy of Love and Sex.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A philosophical inquiry into traditional and contemporary views about love and sex. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<i>  Individual and Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 111.  What Is a Fact? 3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to philosophy via an examination of the notion of a fact, and of methods for discerning facts.  Topics include: facts and opinions; facts and theories; facts and expertise; facts and free speech.  Course Information: To be properly registered, students must enroll in on Lecture and one Discussion/Recitation.<i>  Individual and Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 112.  Morality and the Law.  3 hours.</strong></p>
+<p class="courseblockdesc">
+What must the law do if it is to protect our rights (such as free speech, privacy, equal treatment)? Why believe we have rights? Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<i>  Individual and Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 113.  Philosophy in the Information Age.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to philosophy through an exploration of the ethical, epistemological, and metaphysical implications of and questions arising from the use of digital technology. Examples may be taken from Big Data, social media and autonomous technology. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<i>  Individual and Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 115.  Death.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Philosophical examination of our attitudes towards death. Our attitudes towards mortality and immortality; definitions of death; treating others as persons; our attitudes towards life, quality of life issues, suicide, rights of the dying. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<i>  Individual and Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 116.  Biomedical Ethics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Moral issues as they arise in biomedical research and practice and the use of principles from general ethics to address them. Topics may include euthanasia, paternalism, allocation of medical resources, and healthcare disparities. Class Schedule Information: To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 120.  Introduction to Ancient Philosophy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to issues and methods of philosophy through engagement with classic Greek and Roman texts (read in translation). Course Information: Same as <a href="/search/?P=CL%20120" title="CL 120" class="bubblelink code" onclick="return showCourse(this, 'CL 120');">CL 120</a>.  Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<i>  Individual and Society course, and  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 184.  The Basics of Neuroscience.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Introduction to the scientific study of the brain and behavior. Overview of neuroscience as an integrative discipline. Course Information: Same as <a href="/search/?P=BIOS%20184" title="BIOS 184" class="bubblelink code" onclick="return showCourse(this, 'BIOS 184');">BIOS 184</a> and <a href="/search/?P=PSCH%20184" title="PSCH 184" class="bubblelink code" onclick="return showCourse(this, 'PSCH 184');">PSCH 184</a>. Satisfactory/Unsatisfactory grading only.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 201.  Theory of Knowledge.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Basic issues concerning knowledge of the external world, other minds, scientific laws, and necessary truths. Course Information: Prerequisite(s): One course in philosophy. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 202.  Philosophy of Psychology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Theories and methods of scientific psychology: modes of explaining the structure of theories, the nature of mental states; implications of commonsense conceptions of the mind. Course Information: Prerequisite(s): One course in philosophy; or junior or senior standing in the physical, biological, or social sciences; or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 203.  Metaphysics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Philosophical issues concerning free will, causation, action, mind and body, identity over time, God, universals and particulars. Emphasis varies from term to term. Course Information: Prerequisite(s): One course in philosophy or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture-Discussion.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 204.  Introduction to the Philosophy of Science.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The nature of scientific observation, explanation, and theories; confirmation of laws and theories; the relation between the physical and social sciences. Course Information: Prerequisite(s): One course in philosophy; or junior or senior standing in the physical, biological, or social sciences; or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 206.  Introduction to the Philosophy of Language.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Philosophical issues concerning meaning,  the relationship between language and thought, how language is to be distinguished from other forms of communication, and how truth relates to meaning. Course Information: 3 hours. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 210.  Symbolic Logic.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Representation of English sentences using quantifiers and identity; quantificational natural deduction; interpretations. Optional topics include naive set theory; axiomatic systems; theory of descriptions; metatheory. Course Information: Prerequisite(s): <a href="/search/?P=PHIL%20102" title="PHIL 102" class="bubblelink code" onclick="return showCourse(this, 'PHIL 102');">PHIL 102</a>. Recommended background: Grade of B or better in <a href="/search/?P=PHIL%20102" title="PHIL 102" class="bubblelink code" onclick="return showCourse(this, 'PHIL 102');">PHIL 102</a>. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 211.  Inductive Logic and Decision Making.  3 hours.</strong></p>
+<p class="courseblockdesc">
+How to gamble and make other decisions rationally. The role of probability, decision rules, and statistics in real-life contexts. Course Information: Prerequisite(s): <a href="/search/?P=PHIL%20102" title="PHIL 102" class="bubblelink code" onclick="return showCourse(this, 'PHIL 102');">PHIL 102</a> or <a href="/search/?P=PHIL%20210" title="PHIL 210" class="bubblelink code" onclick="return showCourse(this, 'PHIL 210');">PHIL 210</a>. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 220.  Ancient Philosophy I: Plato and His Predecessors.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to Plato and his predecessors in the ancient period. Course Information: Same as <a href="/search/?P=CL%20220" title="CL 220" class="bubblelink code" onclick="return showCourse(this, 'CL 220');">CL 220</a>. It is recommended that <a href="/search/?P=PHIL%20220" title="PHIL 220" class="bubblelink code" onclick="return showCourse(this, 'PHIL 220');">PHIL 220</a>/<a href="/search/?P=CL%20220" title="CL 220" class="bubblelink code" onclick="return showCourse(this, 'CL 220');">CL 220</a> and <a href="/search/?P=PHIL%20221" title="PHIL 221" class="bubblelink code" onclick="return showCourse(this, 'PHIL 221');">PHIL 221</a>/<a href="/search/?P=CL%20221" title="CL 221" class="bubblelink code" onclick="return showCourse(this, 'CL 221');">CL 221</a> be taken as a sequence in successive terms. Prerequisite(s): One course in philosophy or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 221.  Ancient Philosophy II: Aristotle and His Successors.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to Aristotle and his successors in the ancient period. Course Information: Same as <a href="/search/?P=CL%20221" title="CL 221" class="bubblelink code" onclick="return showCourse(this, 'CL 221');">CL 221</a>. It is recommended that <a href="/search/?P=PHIL%20220" title="PHIL 220" class="bubblelink code" onclick="return showCourse(this, 'PHIL 220');">PHIL 220</a>/<a href="/search/?P=CL%20220" title="CL 220" class="bubblelink code" onclick="return showCourse(this, 'CL 220');">CL 220</a> and <a href="/search/?P=PHIL%20221" title="PHIL 221" class="bubblelink code" onclick="return showCourse(this, 'PHIL 221');">PHIL 221</a>/<a href="/search/?P=CL%20221" title="CL 221" class="bubblelink code" onclick="return showCourse(this, 'CL 221');">CL 221</a> be taken as a sequence in successive terms. Prerequisite(s): One course in philosophy or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 223.  History of Modern Philosophy I: Descartes and His Successors.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to Descartes and some of his successors in the early modern period. Course Information: It is recommended that <a href="/search/?P=PHIL%20223" title="PHIL 223" class="bubblelink code" onclick="return showCourse(this, 'PHIL 223');">PHIL 223</a> and <a href="/search/?P=PHIL%20224" title="PHIL 224" class="bubblelink code" onclick="return showCourse(this, 'PHIL 224');">PHIL 224</a> be taken as a sequence in successive terms. Prerequisite(s): One course in philosophy or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 224.  History of Modern Philosophy II: Kant and His Predecessors.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to Kant and some of his predecessors in the early modern period. Course Information: It is recommended that <a href="/search/?P=PHIL%20223" title="PHIL 223" class="bubblelink code" onclick="return showCourse(this, 'PHIL 223');">PHIL 223</a> and <a href="/search/?P=PHIL%20224" title="PHIL 224" class="bubblelink code" onclick="return showCourse(this, 'PHIL 224');">PHIL 224</a> be taken as a sequence in successive terms. Prerequisite(s): One course in philosophy or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 225.  Nineteenth Century Philosophy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A survey course of the works of major nineteenth century philosophers such as:  Hegel, Marx, Nietzsche, Kierkegaard, and Schopenhauer. Course Information: Prerequisite(s): One course in Philosophy or consent of the instructor. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<i>  Individual and Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 226.  Twentieth-Century Analytic Philosophy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Historical introduction to the major issues and figures of twentieth-century philosophy in the analytic tradition. Readings from Frege, Russell, Wittgenstein, Quine, and others. Course Information: Prerequisite(s): <a href="/search/?P=PHIL%20102" title="PHIL 102" class="bubblelink code" onclick="return showCourse(this, 'PHIL 102');">PHIL 102</a> or <a href="/search/?P=PHIL%20210" title="PHIL 210" class="bubblelink code" onclick="return showCourse(this, 'PHIL 210');">PHIL 210</a> or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 227.  Continental Philosophy I: Phenomenology and Existentialism.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Existential themes in dramas and fiction as well as selections from the works of such thinkers as Kierkegaard, Nietzsche, Husserl, Heidegger, Merleau-Ponty, Camus and Sartre. Course Information: Prerequisite(s): Junior standing or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 230.  Topics in Ethics and Political Philosophy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of major topics in ethical theory and political philosophy. Emphasis varies. Course Information: 3 hours. May be repeated if topics vary. Students may register in more than one section per term. Prerequisite(s): One course in philosophy or consent of the instructor. Recommended background: <a href="/search/?P=PHIL%20103" title="PHIL 103" class="bubblelink code" onclick="return showCourse(this, 'PHIL 103');">PHIL 103</a> or <a href="/search/?P=PHIL%20109" title="PHIL 109" class="bubblelink code" onclick="return showCourse(this, 'PHIL 109');">PHIL 109</a> or <a href="/search/?P=PHIL%20112" title="PHIL 112" class="bubblelink code" onclick="return showCourse(this, 'PHIL 112');">PHIL 112</a> or <a href="/search/?P=PHIL%20116" title="PHIL 116" class="bubblelink code" onclick="return showCourse(this, 'PHIL 116');">PHIL 116</a>. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 232.  Sex Roles: Moral and Political Issues.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Philosophical inquiry into controversies surrounding the changing roles of men and women. Course Information: Same as <a href="/search/?P=GWS%20232" title="GWS 232" class="bubblelink code" onclick="return showCourse(this, 'GWS 232');">GWS 232</a>.  Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 234.  Philosophy and Film.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A philosophical examination of film, dealing with aesthetic issues, or moral and political issues, or both. Screening accompanies discussion. Course Information: Prerequisite(s): One course in philosophy or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 240.  Philosophy and Revelation: Jewish and Christian Perspectives.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to philosophical ways of addressing the claim that a book (the Bible, the Quran) comes from God.  Texts by Immanuel Kant, Moses Mendelssohn, and Soren Kierkegaard, among others.  Course Information:  Previously listed as PHIL 141. Same as <a href="/search/?P=RELS%20240" title="RELS 240" class="bubblelink code" onclick="return showCourse(this, 'RELS 240');">RELS 240</a> and <a href="/search/?P=JST%20240" title="JST 240" class="bubblelink code" onclick="return showCourse(this, 'JST 240');">JST 240</a>.  Prerequisite(s): Two courses in philosophy or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<i>  Individual and Society course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 241.  Philosophy of Religion.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Philosophical inquiry into the grounds of faith and belief, the nature of religious and mystical experience, and the existence and nature of God. Course Information: Same as <a href="/search/?P=RELS%20241" title="RELS 241" class="bubblelink code" onclick="return showCourse(this, 'RELS 241');">RELS 241</a>. Prerequisite(s): One course in philosophy or consent of the instructor. Class Schedule Information: To be properly registered, students must enroll in one Discussion and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 299.  Seminar.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics. Course Information: May be repeated to a maximum of 6 hours. Students may register in more than one section per term. Prerequisite(s): One course in philosophy or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 300.  Fundamentals of Philosophical Discourse.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An intensive course for philosophy majors aimed at introducing and developing skill in philosophical writing and oral presentation. Course Information: Previously listed as PHIL 400. Prerequisite(s): Major in philosophy; and junior standing or above or approval of the department.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 310.  Aristotle and the Arabs.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Traces the major topics of ancient Greek philosophy, especially those of Aristotle,  and their transformation into the philosophy developed in the Arabic classical period. Course Information: Same as <a href="/search/?P=ARAB%20310" title="ARAB 310" class="bubblelink code" onclick="return showCourse(this, 'ARAB 310');">ARAB 310</a> and CL 310. Prerequisite(s): <a href="/search/?P=CL%20221" title="CL 221" class="bubblelink code" onclick="return showCourse(this, 'CL 221');">CL 221</a> or <a href="/search/?P=PHIL%20221" title="PHIL 221" class="bubblelink code" onclick="return showCourse(this, 'PHIL 221');">PHIL 221</a> or <a href="/search/?P=RELS%20230" title="RELS 230" class="bubblelink code" onclick="return showCourse(this, 'RELS 230');">RELS 230</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 390.  Senior Thesis in Philosophy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Students will work individually with a member of the faculty on a topic chosen by the student and approved by the faculty. Course Information: Prerequisite(s): Open only to seniors; Consent of the instructor and department.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 399.  Independent Study.  2-6 hours.</strong></p>
+<p class="courseblockdesc">
+Independent study, under the supervision of a staff member, of a topic not covered in the regular curriculum. Offered at the request of the student and only at the discretion of the staff members concerned. Course Information: May be repeated. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor. Class Schedule Information: This course counts toward the limited number of independent study hours accepted toward the degree and the major.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 401.  Theory of Knowledge.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Survey and analysis of key topics in epistemology, such as skepticism, the nature of propositional knowledge, justification, perception, memory, induction, other minds, naturalistic epistemology. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=PHIL%20201" title="PHIL 201" class="bubblelink code" onclick="return showCourse(this, 'PHIL 201');">PHIL 201</a> or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 402.  Topics in Philosophy of Mind.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Survey and analysis of one or more topics in philosophy of mind, such as the mind-body problem, philosophy of psychology, perception and sensation, intentional content, consciousness, and mental causation. Course Information: 3 undergraduate hours; 4 graduate hours. May be repeated if topics vary, with consent of the instructor. Students may register in more than one section per term. Prerequisite(s): <a href="/search/?P=PHIL%20202" title="PHIL 202" class="bubblelink code" onclick="return showCourse(this, 'PHIL 202');">PHIL 202</a>. Recommended background: <a href="/search/?P=PHIL%20102" title="PHIL 102" class="bubblelink code" onclick="return showCourse(this, 'PHIL 102');">PHIL 102</a> or <a href="/search/?P=PHIL%20210" title="PHIL 210" class="bubblelink code" onclick="return showCourse(this, 'PHIL 210');">PHIL 210</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 403.  Metaphysics.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Intensive treatment of one or more topics, such as free will, personal identity, causation, existence, substance and attribute, the nature of the mind. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=PHIL%20203" title="PHIL 203" class="bubblelink code" onclick="return showCourse(this, 'PHIL 203');">PHIL 203</a> or <a href="/search/?P=PHIL%20226" title="PHIL 226" class="bubblelink code" onclick="return showCourse(this, 'PHIL 226');">PHIL 226</a> or <a href="/search/?P=PHIL%20426" title="PHIL 426" class="bubblelink code" onclick="return showCourse(this, 'PHIL 426');">PHIL 426</a> or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 404.  Philosophy of Science.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Selected works on the aims and methods of science; the status of scientific theories, natural laws and theoretical entities; the nature of scientific explanation. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=PHIL%20102" title="PHIL 102" class="bubblelink code" onclick="return showCourse(this, 'PHIL 102');">PHIL 102</a> or <a href="/search/?P=PHIL%20210" title="PHIL 210" class="bubblelink code" onclick="return showCourse(this, 'PHIL 210');">PHIL 210</a>, and one 200-level course in philosophy; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 406.  Philosophy of Language.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Intensive treatment of one or more topics, such as meaning and reference, communication, the structure of language, language and thought, and the relation of language to reality. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=PHIL%20102" title="PHIL 102" class="bubblelink code" onclick="return showCourse(this, 'PHIL 102');">PHIL 102</a> or one 200- or 400-level logic course or <a href="/search/?P=PHIL%20226" title="PHIL 226" class="bubblelink code" onclick="return showCourse(this, 'PHIL 226');">PHIL 226</a> or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 410.  Introduction to Formal Logic.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Review of predicate logic and of introductory set theory. The concept of a formal system. Notions of completeness and soundness. Introduction to Godel's first incompleteness theorem. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=PHIL%20210" title="PHIL 210" class="bubblelink code" onclick="return showCourse(this, 'PHIL 210');">PHIL 210</a> or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 422.  Medieval Philosophy.  0-4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of selected philosophers such as Augustine, Boethius, Averroes, Maimonides, Aquinas, William of Ockham, Buridan, Suarez. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=PHIL%20220" title="PHIL 220" class="bubblelink code" onclick="return showCourse(this, 'PHIL 220');">PHIL 220</a> or <a href="/search/?P=PHIL%20221" title="PHIL 221" class="bubblelink code" onclick="return showCourse(this, 'PHIL 221');">PHIL 221</a> or PHIL 420 or PHIL 421 or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 423.  Studies in Early Modern Philosophy.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Careful reading of selected works of one or more philosophers, 1600 to 1750, such as Descartes, Hobbes, Spinoza, Leibniz, Locke, Berkely, Hume, Reid and Rousseau. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s) with approval. Approval to repeat course granted by the department. Prerequisite(s): <a href="/search/?P=PHIL%20223" title="PHIL 223" class="bubblelink code" onclick="return showCourse(this, 'PHIL 223');">PHIL 223</a> or <a href="/search/?P=PHIL%20224" title="PHIL 224" class="bubblelink code" onclick="return showCourse(this, 'PHIL 224');">PHIL 224</a> or 3 courses in philosophy or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 424.  Kant.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Intensive study of Kant's metaphysics and theory of knowledge with main reading drawn from the Critique of Pure Reason. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=PHIL%20223" title="PHIL 223" class="bubblelink code" onclick="return showCourse(this, 'PHIL 223');">PHIL 223</a> or <a href="/search/?P=PHIL%20224" title="PHIL 224" class="bubblelink code" onclick="return showCourse(this, 'PHIL 224');">PHIL 224</a> or 3 courses in philosophy or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 425.  Studies in Nineteenth-Century Philosophy.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Careful reading of one or more post-Kantian philosophers such as Hegel, Schelling, Fichte, Schopenhauer, Marx, J.S. Mill, Kierkegaard, Nietzsche. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): One 200-level course in philosophy or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 426.  Analysis and Logical Empiricism.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Developments in twentieth century philosophy with roots in the study of logic and language, such as logical atomism, logical empiricism, and contemporary analytic philosophy. Topics vary. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=PHIL%20210" title="PHIL 210" class="bubblelink code" onclick="return showCourse(this, 'PHIL 210');">PHIL 210</a> or <a href="/search/?P=PHIL%20226" title="PHIL 226" class="bubblelink code" onclick="return showCourse(this, 'PHIL 226');">PHIL 226</a> or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 427.  Continental Philosophy II: European Thought Since 1960.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+European thought since 1960: Existential Marxism; Critical Theory; Structuralism, Post-Structuralism and Deconstruction. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=PHIL%20227" title="PHIL 227" class="bubblelink code" onclick="return showCourse(this, 'PHIL 227');">PHIL 227</a> or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 428.  Topics in Ancient Philosophy.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Careful reading of related works by Ancient Philosophers, such as Plato and Aristotle. Course Information: 3 undergraduate hours; 4 graduate hours. May be repeated if topics vary, with consent of the instructor. Students may register in more than one section per term. Prerequisite(s): <a href="/search/?P=PHIL%20220" title="PHIL 220" class="bubblelink code" onclick="return showCourse(this, 'PHIL 220');">PHIL 220</a> or <a href="/search/?P=PHIL%20221" title="PHIL 221" class="bubblelink code" onclick="return showCourse(this, 'PHIL 221');">PHIL 221</a>; and junior standing or above.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 429.  Special Studies in the History of Philosophy.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced study of a historical school, period, or the development of a historical theme. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s) with approval. Approval to repeat course granted by the department. Prerequisite(s): One 200-level course in the history of philosophy or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 432.  Topics in Ethics.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in ethics. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s) with approval. Approval to repeat course granted by the department. Prerequisite(s): One 200-level course in philosophy or consent of the instructor. Recommended background: Credit in a course in moral, social, or political philosophy.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 433.  Topics in Social/Political Philosophy.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in social and political philosophy. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 1 time(s) with approval. Approval to repeat course granted by the department. Prerequisite(s): One 200-level course in philosophy or consent of the instructor. Recommended background: Credit in a course in moral, social, or political philosophy.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 441.  Topics in Philosophy of Religion.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Intensive study of one or more selected topics concerning the philosophical aspects of basic religious beliefs and concepts. Course Information: Same as <a href="/search/?P=RELS%20441" title="RELS 441" class="bubblelink code" onclick="return showCourse(this, 'RELS 441');">RELS 441</a>. May be repeated for a maximum of 6 hours of credit if topic is different for each registration. Students may register for more than one section per term. Prerequisite(s): One 200-level course in philosophy (except 210) or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 484.  Neuroscience I.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Neuroscience as an integrative discipline. Neuroanatomy of vertebrates, neural development, cellular neurobiology, action potential mechanisms, synaptic transmission and neuropharmacology.  Course Information:  Same as <a href="/search/?P=BIOS%20484" title="BIOS 484" class="bubblelink code" onclick="return showCourse(this, 'BIOS 484');">BIOS 484</a> and <a href="/search/?P=PSCH%20484" title="PSCH 484" class="bubblelink code" onclick="return showCourse(this, 'PSCH 484');">PSCH 484</a>.  Prerequisite(s):  <a href="/search/?P=BIOS%20286" title="BIOS 286" class="bubblelink code" onclick="return showCourse(this, 'BIOS 286');">BIOS 286</a> or <a href="/search/?P=PSCH%20262" title="PSCH 262" class="bubblelink code" onclick="return showCourse(this, 'PSCH 262');">PSCH 262</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PHIL 485.  Neuroscience II.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Integrative neuroscience, including sensory and motor systems; learning, memory, and language; pathology of nervous systems; philosophical perspectives, and modeling. Course Information:  Same as <a href="/search/?P=BIOS%20485" title="BIOS 485" class="bubblelink code" onclick="return showCourse(this, 'BIOS 485');">BIOS 485</a> and <a href="/search/?P=PSCH%20485" title="PSCH 485" class="bubblelink code" onclick="return showCourse(this, 'PSCH 485');">PSCH 485</a>. Prerequisite(s): <a href="/search/?P=BIOS%20286" title="BIOS 286" class="bubblelink code" onclick="return showCourse(this, 'BIOS 286');">BIOS 286</a> or <a href="/search/?P=PSCH%20262" title="PSCH 262" class="bubblelink code" onclick="return showCourse(this, 'PSCH 262');">PSCH 262</a>.<br/>
+</p>
+</div></div>
+			</div>
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="phil.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

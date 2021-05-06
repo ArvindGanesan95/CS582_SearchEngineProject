@@ -1,0 +1,553 @@
+https://catalog.uic.edu/all-course-descriptions/bstt/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Biostatistics (BSTT) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="isparent"><a href="/ucat/">Undergraduate Catalog</a></li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="active isparent"><a href="/all-course-descriptions/">All Course Descriptions</a>
+	<ul class="nav levelone" id="/all-course-descriptions/">
+		<li><a href="/all-course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+		<li><a href="/all-course-descriptions/actg/">Accounting (ACTG)</a></li>
+		<li><a href="/all-course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+		<li><a href="/all-course-descriptions/anth/">Anthropology (ANTH)</a></li>
+		<li><a href="/all-course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+		<li><a href="/all-course-descriptions/arab/">Arabic (ARAB)</a></li>
+		<li><a href="/all-course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+		<li><a href="/all-course-descriptions/arch/">Architecture (ARCH)</a></li>
+		<li><a href="/all-course-descriptions/art/">Art (ART)</a></li>
+		<li><a href="/all-course-descriptions/ah/">Art History (AH)</a></li>
+		<li><a href="/all-course-descriptions/bms/">Basic Medical Sciences (BMS)</a></li>
+		<li><a href="/all-course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+		<li><a href="/all-course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+		<li><a href="/all-course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+		<li><a href="/all-course-descriptions/bvis/">Biomedical Visualization (BVIS)</a></li>
+		<li><a href="/all-course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+		<li><a href="/all-course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+		<li class="active self"><a href="#" onclick="return false;">Biostatistics (BSTT)</a></li>
+		<li><a href="/all-course-descriptions/blst/">Black Studies (BLST)</a></li>
+		<li><a href="/all-course-descriptions/ba/">Business Administration (BA)</a></li>
+		<li><a href="/all-course-descriptions/cc/">Campus Courses (CC)</a></li>
+		<li><a href="/all-course-descriptions/cst/">Catholic Studies (CST)</a></li>
+		<li><a href="/all-course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+		<li><a href="/all-course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+		<li><a href="/all-course-descriptions/chem/">Chemistry (CHEM)</a></li>
+		<li><a href="/all-course-descriptions/chin/">Chinese (CHIN)</a></li>
+		<li><a href="/all-course-descriptions/cd/">City Design (CD)</a></li>
+		<li><a href="/all-course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+		<li><a href="/all-course-descriptions/cl/">Classics (CL)</a></li>
+		<li><a href="/all-course-descriptions/cler/">Clerkship -&#8203; Medicine (CLER)</a></li>
+		<li><a href="/all-course-descriptions/cele/">Clerkship Electives -&#8203; Chicago (CELE)</a></li>
+		<li><a href="/all-course-descriptions/pele/">Clerkship Electives -&#8203; Peoria (PELE)</a></li>
+		<li><a href="/all-course-descriptions/rele/">Clerkship Electives -&#8203; Rockford (RELE)</a></li>
+		<li><a href="/all-course-descriptions/uele/">Clerkship Electives -&#8203; Urbana (UELE)</a></li>
+		<li><a href="/all-course-descriptions/comm/">Communication (COMM)</a></li>
+		<li><a href="/all-course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+		<li><a href="/all-course-descriptions/cs/">Computer Science (CS)</a></li>
+		<li><a href="/all-course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+		<li><a href="/all-course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+		<li><a href="/all-course-descriptions/dadm/">Dental Administration (DADM)</a></li>
+		<li><a href="/all-course-descriptions/daob/">Dentistry -&#8203; Applied Oral and Behavioral Sciences (DAOB)</a></li>
+		<li><a href="/all-course-descriptions/dbcs/">Dentistry -&#8203; Biomedical and Clinical Sciences (DBCS)</a></li>
+		<li><a href="/all-course-descriptions/dcle/">Dentistry -&#8203; Community Learning Experience (DCLE)</a></li>
+		<li><a href="/all-course-descriptions/dosi/">Dentistry -&#8203; Oral/&#8203;Systemic Issues (DOSI)</a></li>
+		<li><a href="/all-course-descriptions/dost/">Dentistry -&#8203; Oral/&#8203;Systemic Topics (DOST)</a></li>
+		<li><a href="/all-course-descriptions/des/">Design (DES)</a></li>
+		<li><a href="/all-course-descriptions/dlg/">Dialogue (DLG)</a></li>
+		<li><a href="/all-course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+		<li><a href="/all-course-descriptions/mdc/">Doctor of Medicine—Chicago (MDC)</a></li>
+		<li><a href="/all-course-descriptions/mdp/">Doctor of Medicine—Peoria (MDP)</a></li>
+		<li><a href="/all-course-descriptions/mdr/">Doctor of Medicine—Rockford (MDR)</a></li>
+		<li><a href="/all-course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+		<li><a href="/all-course-descriptions/econ/">Economics (ECON)</a></li>
+		<li><a href="/all-course-descriptions/ed/">Education (ED)</a></li>
+		<li><a href="/all-course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+		<li><a href="/all-course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+		<li><a href="/all-course-descriptions/ece/">Electrical and Computer Engineering (ECE)</a></li>
+		<li><a href="/all-course-descriptions/eb/">Employee Benefits (EB)</a></li>
+		<li><a href="/all-course-descriptions/endo/">Endodontics (ENDO)</a></li>
+		<li><a href="/all-course-descriptions/ener/">Energy Engineering (ENER)</a></li>
+		<li><a href="/all-course-descriptions/engr/">Engineering (ENGR)</a></li>
+		<li><a href="/all-course-descriptions/engl/">English (ENGL)</a></li>
+		<li><a href="/all-course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+		<li><a href="/all-course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+		<li><a href="/all-course-descriptions/eohs/">Environmental and Occupational Health Sciences (EOHS)</a></li>
+		<li><a href="/all-course-descriptions/epid/">Epidemiology (EPID)</a></li>
+		<li><a href="/all-course-descriptions/epl/">Estate Planning (EPL)</a></li>
+		<li><a href="/all-course-descriptions/fin/">Finance (FIN)</a></li>
+		<li><a href="/all-course-descriptions/fr/">French (FR)</a></li>
+		<li><a href="/all-course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+		<li><a href="/all-course-descriptions/geog/">Geography (GEOG)</a></li>
+		<li><a href="/all-course-descriptions/ger/">Germanic Studies (GER)</a></li>
+		<li><a href="/all-course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+		<li><a href="/all-course-descriptions/gc/">Graduate College (GC)</a></li>
+		<li><a href="/all-course-descriptions/gems/">Graduate Education in Medical Sciences (GEMS)</a></li>
+		<li><a href="/all-course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+		<li><a href="/all-course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+		<li><a href="/all-course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+		<li><a href="/all-course-descriptions/him/">Health Information Management (HIM)</a></li>
+		<li><a href="/all-course-descriptions/hpa/">Health Policy and Administration (HPA)</a></li>
+		<li><a href="/all-course-descriptions/hlp/">Healthy Living Practitioner™ (HLP)</a></li>
+		<li><a href="/all-course-descriptions/heb/">Hebrew (HEB)</a></li>
+		<li><a href="/all-course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+		<li><a href="/all-course-descriptions/hstl/">Histology (HSTL)</a></li>
+		<li><a href="/all-course-descriptions/hist/">History (HIST)</a></li>
+		<li><a href="/all-course-descriptions/hon/">Honors College (HON)</a></li>
+		<li><a href="/all-course-descriptions/hn/">Human Nutrition (HN)</a></li>
+		<li><a href="/all-course-descriptions/hum/">Humanities (HUM)</a></li>
+		<li><a href="/all-course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+		<li><a href="/all-course-descriptions/it/">Information Technology (IT)</a></li>
+		<li><a href="/all-course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+		<li><a href="/all-course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+		<li><a href="/all-course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+		<li><a href="/all-course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+		<li><a href="/all-course-descriptions/ip/">Intellectual Property (IP)</a></li>
+		<li><a href="/all-course-descriptions/ibt/">International Business and Trade (IBT)</a></li>
+		<li><a href="/all-course-descriptions/inst/">International Studies (INST)</a></li>
+		<li><a href="/all-course-descriptions/ital/">Italian (ITAL)</a></li>
+		<li><a href="/all-course-descriptions/jpn/">Japanese (JPN)</a></li>
+		<li><a href="/all-course-descriptions/jst/">Jewish Studies (JST)</a></li>
+		<li><a href="/all-course-descriptions/jd/">Juris Doctor (JD)</a></li>
+		<li><a href="/all-course-descriptions/kn/">Kinesiology (KN)</a></li>
+		<li><a href="/all-course-descriptions/kor/">Korean (KOR)</a></li>
+		<li><a href="/all-course-descriptions/lat/">Latin (LAT)</a></li>
+		<li><a href="/all-course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+		<li><a href="/all-course-descriptions/law/">Law (LAW)</a></li>
+		<li><a href="/all-course-descriptions/lrsc/">Learning Sciences (LRSC)</a></li>
+		<li><a href="/all-course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+		<li><a href="/all-course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+		<li><a href="/all-course-descriptions/ling/">Linguistics (LING)</a></li>
+		<li><a href="/all-course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+		<li><a href="/all-course-descriptions/lith/">Lithuanian (LITH)</a></li>
+		<li><a href="/all-course-descriptions/mgmt/">Management (MGMT)</a></li>
+		<li><a href="/all-course-descriptions/mktg/">Marketing (MKTG)</a></li>
+		<li><a href="/all-course-descriptions/mba/">Master of Business Administration (MBA)</a></li>
+		<li><a href="/all-course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+		<li><a href="/all-course-descriptions/mj/">Master of Jurisprudence (MJ)</a></li>
+		<li><a href="/all-course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+		<li><a href="/all-course-descriptions/math/">Mathematics (MATH)</a></li>
+		<li><a href="/all-course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+		<li><a href="/all-course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+		<li><a href="/all-course-descriptions/mbt/">Medical Biotechnology (MBT)</a></li>
+		<li><a href="/all-course-descriptions/mhpe/">Medical Education (MHPE)</a></li>
+		<li><a href="/all-course-descriptions/mhum/">Medical Humanities (MHUM)</a></li>
+		<li><a href="/all-course-descriptions/mdch/">Medicinal Chemistry (MDCH)</a></li>
+		<li><a href="/all-course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+		<li><a href="/all-course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+		<li><a href="/all-course-descriptions/mils/">Military Science (MILS)</a></li>
+		<li><a href="/all-course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+		<li><a href="/all-course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+		<li><a href="/all-course-descriptions/mus/">Music (MUS)</a></li>
+		<li><a href="/all-course-descriptions/nast/">Native American Studies (NAST)</a></li>
+		<li><a href="/all-course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+		<li><a href="/all-course-descriptions/ns/">Naval Science (NS)</a></li>
+		<li><a href="/all-course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+		<li><a href="/all-course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+		<li><a href="/all-course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+		<li><a href="/all-course-descriptions/nupr/">Nursing Practicum (NUPR)</a></li>
+		<li><a href="/all-course-descriptions/nusp/">Nursing Specialty (NUSP)</a></li>
+		<li><a href="/all-course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+		<li><a href="/all-course-descriptions/omds/">Oral Medicine and Diagnostic Sciences (OMDS)</a></li>
+		<li><a href="/all-course-descriptions/osci/">Oral Sciences (OSCI)</a></li>
+		<li><a href="/all-course-descriptions/osur/">Oral and Maxillofacial Surgery (OSUR)</a></li>
+		<li><a href="/all-course-descriptions/ortd/">Orthodontics (ORTD)</a></li>
+		<li><a href="/all-course-descriptions/path/">Pathology (PATH)</a></li>
+		<li><a href="/all-course-descriptions/psl/">Patient Safety Leadership (PSL)</a></li>
+		<li><a href="/all-course-descriptions/pedd/">Pediatric Dentistry (PEDD)</a></li>
+		<li><a href="/all-course-descriptions/peri/">Periodontics (PERI)</a></li>
+		<li><a href="/all-course-descriptions/psci/">Pharmaceutical Sciences (PSCI)</a></li>
+		<li><a href="/all-course-descriptions/pmpg/">Pharmacognosy (PMPG)</a></li>
+		<li><a href="/all-course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+		<li><a href="/all-course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+		<li><a href="/all-course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+		<li><a href="/all-course-descriptions/psop/">Pharmacy Systems, Outcomes, and Policy (PSOP)</a></li>
+		<li><a href="/all-course-descriptions/phil/">Philosophy (PHIL)</a></li>
+		<li><a href="/all-course-descriptions/pt/">Physical Therapy (PT)</a></li>
+		<li><a href="/all-course-descriptions/phys/">Physics (PHYS)</a></li>
+		<li><a href="/all-course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+		<li><a href="/all-course-descriptions/pol/">Polish (POL)</a></li>
+		<li><a href="/all-course-descriptions/pols/">Political Science (POLS)</a></li>
+		<li><a href="/all-course-descriptions/port/">Portuguese (PORT)</a></li>
+		<li><a href="/all-course-descriptions/prcl/">Preclinical Medicine (PRCL)</a></li>
+		<li><a href="/all-course-descriptions/ptl/">Privacy and Technology Law (PTL)</a></li>
+		<li><a href="/all-course-descriptions/pros/">Prosthodontics (PROS)</a></li>
+		<li><a href="/all-course-descriptions/psch/">Psychology (PSCH)</a></li>
+		<li><a href="/all-course-descriptions/pa/">Public Administration (PA)</a></li>
+		<li><a href="/all-course-descriptions/pubh/">Public Health (PUBH)</a></li>
+		<li><a href="/all-course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+		<li><a href="/all-course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+		<li><a href="/all-course-descriptions/re/">Real Estate (RE)</a></li>
+		<li><a href="/all-course-descriptions/rels/">Religious Studies (RELS)</a></li>
+		<li><a href="/all-course-descriptions/rest/">Restorative Dentistry (REST)</a></li>
+		<li><a href="/all-course-descriptions/russ/">Russian (RUSS)</a></li>
+		<li><a href="/all-course-descriptions/slav/">Slavic and Baltic Languages and Literatures (SLAV)</a></li>
+		<li><a href="/all-course-descriptions/sj/">Social Justice (SJ)</a></li>
+		<li><a href="/all-course-descriptions/socw/">Social Work (SOCW)</a></li>
+		<li><a href="/all-course-descriptions/soc/">Sociology (SOC)</a></li>
+		<li><a href="/all-course-descriptions/span/">Spanish (SPAN)</a></li>
+		<li><a href="/all-course-descriptions/sped/">Special Education (SPED)</a></li>
+		<li><a href="/all-course-descriptions/spec/">Specialty Medicine (SPEC)</a></li>
+		<li><a href="/all-course-descriptions/stat/">Statistics (STAT)</a></li>
+		<li><a href="/all-course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+		<li><a href="/all-course-descriptions/surg/">Surgery (SURG)</a></li>
+		<li><a href="/all-course-descriptions/tx/">Taxation (TX)</a></li>
+		<li><a href="/all-course-descriptions/thtr/">Theatre (THTR)</a></li>
+		<li><a href="/all-course-descriptions/tadr/">Trial Advocacy and Dispute Resolution (TADR)</a></li>
+		<li><a href="/all-course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+		<li><a href="/all-course-descriptions/us/">Urban Studies (US)</a></li>
+		<li><a href="/all-course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+		<li><a href="/all-course-descriptions/usl/">US Legal Studies (USL)</a></li>
+	</ul>
+	</li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/all-course-descriptions/">All&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Biostatistics (BSTT)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Biostatistics (BSTT)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="bsttcourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;400.  Biostatistics I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Descriptive statistics, basic probability concepts, one- and two-sample statistical inference, analysis of variance, and simple linear regression. Introduction to statistical data analysis software. Course Information: Enrollment restricted to public health students and healthcare administration students; other graduate, professional and advanced undergraduate students admitted by consent as space permits. To obtain consent, see the SPH registrar.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;401.  Biostatistics II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Simple and multiple linear regression, stepwise regression, multifactor analysis of variance and covariance, non-parametric methods, logistic regression, analysis of categorical data; extensive use of computer software. Course Information: Prerequisite(s): <a href="/search/?P=BSTT%20400" title="BSTT&#160;400" class="bubblelink code" onclick="return showCourse(this, 'BSTT 400');">BSTT&#160;400</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;402.  Health Policy for Epidemiologists and Biostatisticians.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Epidemiological data and biostatistics provide the evidence to support the development and justification of policies. Public health policy interventions, factors influencing political and social environments and the evaluation of policy-making. Course Information: Same as <a href="/search/?P=EPID%20402" title="EPID&#160;402" class="bubblelink code" onclick="return showCourse(this, 'EPID 402');">EPID&#160;402</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;413.  Introduction to Data Analysis w/ R.  2 hours.</strong></p>
+<p class="courseblockdesc">
+An introductory overview of statistical programming using R in the context of describing and analyzing public health data. Course Information: Extensive computer use required. Recommended background: <a href="/search/?P=BSTT%20400" title="BSTT&#160;400" class="bubblelink code" onclick="return showCourse(this, 'BSTT 400');">BSTT&#160;400</a>; or <a href="/search/?P=IPHS%20402" title="IPHS&#160;402" class="bubblelink code" onclick="return showCourse(this, 'IPHS 402');">IPHS&#160;402</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;426.  Health Data Analytics Using Python Programming.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Covers methodologies of online data collection by Python Programming. Topics include: introduction to Python, Information retrieval Techniques, Retrieving and analyzing information from medical data sources, IBM Bluemix. Course Information: Extensive computer use required. Prerequisite(s): No prerequisites except that some very basic understanding of programming in SAS or R or some other programming language is needed along with basic analytical knowledge. Motivation to learn programming concepts is key.  Recommended Background: <a href="/search/?P=IPHS%20402" title="IPHS&#160;402" class="bubblelink code" onclick="return showCourse(this, 'IPHS 402');">IPHS&#160;402</a> or <a href="/search/?P=EPID%20406" title="EPID&#160;406" class="bubblelink code" onclick="return showCourse(this, 'EPID 406');">EPID&#160;406</a> or <a href="/search/?P=BSTT%20494" title="BSTT&#160;494" class="bubblelink code" onclick="return showCourse(this, 'BSTT 494');">BSTT&#160;494</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;494.  Introductory Special Topics in Biostatistics.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Special topics in biostatistics. Content varies. Course Information: May be repeated. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;505.  Logistic Regression and Survival Analysis.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Interpretation of logistic regression and survival analysis models. Running logistic and proportional hazards regression models and constructing life-tables using SAS. Course Information: Previously listed as <a href="/search/?P=BSTT%20402" title="BSTT&#160;402" class="bubblelink code" onclick="return showCourse(this, 'BSTT 402');">BSTT&#160;402</a>. Prerequisite(s): <a href="/search/?P=BSTT%20400" title="BSTT&#160;400" class="bubblelink code" onclick="return showCourse(this, 'BSTT 400');">BSTT&#160;400</a> and <a href="/search/?P=BSTT%20401" title="BSTT&#160;401" class="bubblelink code" onclick="return showCourse(this, 'BSTT 401');">BSTT&#160;401</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;506.  Design of Clinical Trials.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Rationale for clinical trials, blinding, ethical issues, methods of randomization, crossover trials, power and sample size calculations, data management, protocol deviation, data analysis, interim analysis. Course Information: Previously listed as BSTT 430. Prerequisite(s): <a href="/search/?P=BSTT%20400" title="BSTT&#160;400" class="bubblelink code" onclick="return showCourse(this, 'BSTT 400');">BSTT&#160;400</a> and <a href="/search/?P=BSTT%20401" title="BSTT&#160;401" class="bubblelink code" onclick="return showCourse(this, 'BSTT 401');">BSTT&#160;401</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;507.  Sampling and Estimation Methods Applied to Public Health.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The purpose of this course is to provide a comprehensive overview of current methods and issues in survey sample design and associated estimation procedures. Course Information: Previously listed as BSTT 440. Credit is not given for <a href="/search/?P=BSTT%20507" title="BSTT&#160;507" class="bubblelink code" onclick="return showCourse(this, 'BSTT 507');">BSTT&#160;507</a> if the student has credit in <a href="/search/?P=STAT%20431" title="STAT&#160;431" class="bubblelink code" onclick="return showCourse(this, 'STAT 431');">STAT&#160;431</a>.  Restriction applies only to certification for students pursuing the Interdepartmental Graduate Concentration in Survey Methodology.  Prerequisite(s): <a href="/search/?P=BSTT%20401" title="BSTT&#160;401" class="bubblelink code" onclick="return showCourse(this, 'BSTT 401');">BSTT&#160;401</a> or BSTT 502 or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;521.  Applied Multivariate Analysis.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of vector of responses; MANOVA, data reduction methods; introduction to cluster analysis, discriminant analysis, and structural equation models. Course Information: Prerequisite(s): <a href="/search/?P=BSTT%20537" title="BSTT&#160;537" class="bubblelink code" onclick="return showCourse(this, 'BSTT 537');">BSTT&#160;537</a> and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;523.  Biostatistics Methods I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Foundations for and introduction to statistical inference, including one- and two-sample problems; regression analysis, including multiple regression and indicator variables. Course Information: Previously listed as BSTT 502. Prerequisite(s): College calculus, including multivariable calculus, concurrent registration in <a href="/search/?P=BSTT%20524" title="BSTT&#160;524" class="bubblelink code" onclick="return showCourse(this, 'BSTT 524');">BSTT&#160;524</a>, and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;524.  Biostatistics Laboratory.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Use of spreadsheets for statistical investigations; use of statistical software; matrix theory, including methods relevant in biostatistical analysis. Course Information: Previously listed as BSTT 503. Prerequisite(s): Concurrent registration in <a href="/search/?P=BSTT%20523" title="BSTT&#160;523" class="bubblelink code" onclick="return showCourse(this, 'BSTT 523');">BSTT&#160;523</a> and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;525.  Biostatistics Methods II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of variance and multiple comparisons; model building and diagnostics; generalized linear models; logistic and Poisson regression; introduction to repeated measures and mixed models. Course Information: Previously listed as BSTT 504. Prerequisite(s): Grade of B or better in <a href="/search/?P=BSTT%20523" title="BSTT&#160;523" class="bubblelink code" onclick="return showCourse(this, 'BSTT 523');">BSTT&#160;523</a> and Grade of B or better in <a href="/search/?P=BSTT%20524" title="BSTT&#160;524" class="bubblelink code" onclick="return showCourse(this, 'BSTT 524');">BSTT&#160;524</a>, or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;527.  Statistical Learning in Health Analytics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Covers multivariate statistical methods such as LASSO, ElasticNet, Decision Trees etc, and machine learning methods Bagging, random Forest, Boosting etc in context of statistical learning in PH applications.  Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=IPHS%20402" title="IPHS&#160;402" class="bubblelink code" onclick="return showCourse(this, 'IPHS 402');">IPHS&#160;402</a> and <a href="/search/?P=BSTT%20505" title="BSTT&#160;505" class="bubblelink code" onclick="return showCourse(this, 'BSTT 505');">BSTT&#160;505</a>; or <a href="/search/?P=BSTT%20523" title="BSTT&#160;523" class="bubblelink code" onclick="return showCourse(this, 'BSTT 523');">BSTT&#160;523</a> and <a href="/search/?P=BSTT%20525" title="BSTT&#160;525" class="bubblelink code" onclick="return showCourse(this, 'BSTT 525');">BSTT&#160;525</a>.  Recommended Background: <a href="/search/?P=IPHS%20402" title="IPHS&#160;402" class="bubblelink code" onclick="return showCourse(this, 'IPHS 402');">IPHS&#160;402</a> or <a href="/search/?P=EPID%20406" title="EPID&#160;406" class="bubblelink code" onclick="return showCourse(this, 'EPID 406');">EPID&#160;406</a> or <a href="/search/?P=BSTT%20494" title="BSTT&#160;494" class="bubblelink code" onclick="return showCourse(this, 'BSTT 494');">BSTT&#160;494</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;528.  Machine Learning in Health Analytics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Covers several advanced statistical and machine learning methods including graphical models, natural language processing, neural nets, hierarchical modeling, annealing, deep belief networks.  Course Information: Extensive computer use required.  Prerequisite(s): BSTT 526 and <a href="/search/?P=BSTT%20527" title="BSTT&#160;527" class="bubblelink code" onclick="return showCourse(this, 'BSTT 527');">BSTT&#160;527</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;529.  Health Analytics Investigations.  2 hours.</strong></p>
+<p class="courseblockdesc">
+This is a main competency measure of MS in Public Health with Health Analytics concentration.  Course Information: Satisfactory/Unsatisfactory grading only. Extensive computer use required. Prerequisite(s): BSTT 526 and <a href="/search/?P=BSTT%20527" title="BSTT&#160;527" class="bubblelink code" onclick="return showCourse(this, 'BSTT 527');">BSTT&#160;527</a> and <a href="/search/?P=BSTT%20528" title="BSTT&#160;528" class="bubblelink code" onclick="return showCourse(this, 'BSTT 528');">BSTT&#160;528</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;535.  Categorical Data Analysis.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Contingency tables and their tests, measures of association, stratified analysis, logistic regression, generalized linear model, Poisson regression, log-linear model, matched data, marginal homogeneity, ordinal data. Course Information: Previously listed as BSTT 511. Prerequisite(s): Grade of B or better in <a href="/search/?P=BSTT%20525" title="BSTT&#160;525" class="bubblelink code" onclick="return showCourse(this, 'BSTT 525');">BSTT&#160;525</a>; and <a href="/search/?P=STAT%20411" title="STAT&#160;411" class="bubblelink code" onclick="return showCourse(this, 'STAT 411');">STAT&#160;411</a>, or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;536.  Survival Analysis.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Concepts of lifetime or survival distributions, especially with censored data; nonparametric estimation of the survival function; rank tests; proportional hazards regression models; parametric models. Course Information: Previously listed as BSTT 512. Prerequisite(s): Grade of B or better in <a href="/search/?P=BSTT%20525" title="BSTT&#160;525" class="bubblelink code" onclick="return showCourse(this, 'BSTT 525');">BSTT&#160;525</a> and Grade of B or better in <a href="/search/?P=STAT%20411" title="STAT&#160;411" class="bubblelink code" onclick="return showCourse(this, 'STAT 411');">STAT&#160;411</a>, or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;537.  Longitudinal Data Analysis.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Application and theory of models for longitudinal data analysis for both continuous and categorical response data, including use of statistical software for these methods. Course Information: Previously listed as BSTT 513. Prerequisite(s): Grade of B or better in <a href="/search/?P=STAT%20411" title="STAT&#160;411" class="bubblelink code" onclick="return showCourse(this, 'STAT 411');">STAT&#160;411</a> and Grade of B or better in <a href="/search/?P=BSTT%20525" title="BSTT&#160;525" class="bubblelink code" onclick="return showCourse(this, 'BSTT 525');">BSTT&#160;525</a>, or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;538.  Biostatistical Consulting.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Discussion of techniques required for successful biostatistical consultation; effective communication, problem formulation, data analysis, oral and written reports, supervised consulting experience. Course Information: Previously listed as BSTT 514. Prerequisite(s): Grade of B or better in <a href="/search/?P=BSTT%20525" title="BSTT&#160;525" class="bubblelink code" onclick="return showCourse(this, 'BSTT 525');">BSTT&#160;525</a> and consent of the instructor. Restricted to students enrolled in the biostatistics major.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;550.  Biostatistical Investigations.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of several large data sets that will require integration of numerous biostatistical tools; written summarization and discussion of results. Course Information: Previously listed as BSTT 522. Prerequisite(s): Grade of B or better in <a href="/search/?P=BSTT%20535" title="BSTT&#160;535" class="bubblelink code" onclick="return showCourse(this, 'BSTT 535');">BSTT&#160;535</a> and Grade of B or better in <a href="/search/?P=BSTT%20536" title="BSTT&#160;536" class="bubblelink code" onclick="return showCourse(this, 'BSTT 536');">BSTT&#160;536</a> and Grade of B or better in <a href="/search/?P=BSTT%20537" title="BSTT&#160;537" class="bubblelink code" onclick="return showCourse(this, 'BSTT 537');">BSTT&#160;537</a> and Grade of B or better in <a href="/search/?P=BSTT%20538" title="BSTT&#160;538" class="bubblelink code" onclick="return showCourse(this, 'BSTT 538');">BSTT&#160;538</a> and Grade of B or better or concurrent registration in <a href="/search/?P=BSTT%20521" title="BSTT&#160;521" class="bubblelink code" onclick="return showCourse(this, 'BSTT 521');">BSTT&#160;521</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;560.  Large Sample Theory.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Deriving and applying large sample statistical theories. The primary focus will be in limit theorums and their applications in biostatistical problems. Course Information: Meets eight weeks of the semester. Previously listed as BSTT 534. Prerequisite(s): Open only to PhD degree students; or consent of the instructor. Adequate training at the level of intermediate mathematical statistics. Masters degree in biostatistics or mathematics.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;561.  Advanced Statistical Inference.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An in-depth consideration of some important ideas of statistical inference including large-sample theory, estimation and testing. Specific topics to be covered include asymptotic theory, parameter estimation methods and hypothesis testing. Some computer use in class. Course Information: Previously listed as BSTT 531. Prerequisite(s): Open only to Ph.D. degree students; and consent of the instructor. Recommended background: MS degree in Biostatistics or the equivalent.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;562.  Linear Models.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Generalized inverse matrices; distributions for quadratic forms; estimability and testable hypotheses; constrained linear model; applications to regression, ANOVA, ANCOVA models; variance component models. Course Information: Previously listed as BSTT 533. Prerequisite(s): Open only to Ph.D. degree students; or consent of the instructor. Recommended background: MS degree in Biostatistics or the equivalent.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;563.  Generalized Linear Models.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Teaches students the components of generalized linear models and their extensions. Course Information: Previously listed as BSTT 541. Prerequisite(s): <a href="/search/?P=BSTT%20561" title="BSTT&#160;561" class="bubblelink code" onclick="return showCourse(this, 'BSTT 561');">BSTT&#160;561</a> and concurrent registration in or prior completion of <a href="/search/?P=BSTT%20560" title="BSTT&#160;560" class="bubblelink code" onclick="return showCourse(this, 'BSTT 560');">BSTT&#160;560</a>. Open only to PhD degree students; or consent of the instructor. Adequate training at level of intermediate mathematical statistics. Masters degree in biostatistics, mathematical statistics or methematics.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;564.  Missing Data.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Students will learn the statistical methods used for analyzing data with missing values. Course Information: Previously listed as BSTT 542. Prerequisite(s): <a href="/search/?P=BSTT%20561" title="BSTT&#160;561" class="bubblelink code" onclick="return showCourse(this, 'BSTT 561');">BSTT&#160;561</a> and concurrent registration in or prior completion of <a href="/search/?P=BSTT%20560" title="BSTT&#160;560" class="bubblelink code" onclick="return showCourse(this, 'BSTT 560');">BSTT&#160;560</a>. Open only to PhD degree students; or consent of the instructor. Adequate training at level of intermediate mathematical statistics. Masters degree in biostatistics, mathematical statistics or methematics.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;565.  Computational Statistics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Developing a broad and thorough working knowledge of modern statistical computing and computational statistics on a practical, conceptual, philosophical and mathematical level. Course Information: Previously listed as BSTT 543. Extensive computer use required. Prerequisite(s): Concurrent registration in or prior completion of <a href="/search/?P=BSTT%20560" title="BSTT&#160;560" class="bubblelink code" onclick="return showCourse(this, 'BSTT 560');">BSTT&#160;560</a>. Open only to Ph.D. degree students; or consent of the instructor. Adequate training at level of intermediate mathematical statistics. Masters degree in biostatistics, mathematical statistics or mathematics.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;566.  Bayesian Methods.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Developing a broad and thorough working knowledge of Bayesian applications on a practical, conceptual, philosophical and mathematical level. Course Information: Previously listed as BSTT 544. Prerequisite(s): Concurrent registration in or prior completion of <a href="/search/?P=BSTT%20560" title="BSTT&#160;560" class="bubblelink code" onclick="return showCourse(this, 'BSTT 560');">BSTT&#160;560</a>. Open only to Ph.D. degree students; or consent of the instructor. Adequate training at level of intermediate mathematical statistics. Masters degree in biostatistics, mathematical statistics or mathematics. Class Schedule Information: Extensive computer use required.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;567.  Advanced Survival Analysis.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Methods of analysis for multivariate survival data, including transition models and shared frailty models. Theory behind existing methodology is covered as well as implementation. Course Information: Prerequisite(s): Grade of B or better or concurrent registration in <a href="/search/?P=BSTT%20536" title="BSTT&#160;536" class="bubblelink code" onclick="return showCourse(this, 'BSTT 536');">BSTT&#160;536</a>; and consent of the instructor. Recommended background: Intended for students in the Biostatistics PhD program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;568.  Programming and Simulation in R.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Applications in R on a practical, conceptual, philosophical and mathematical level. The focus is on simulation and computation, not on data analysis. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=BSTT%20400" title="BSTT&#160;400" class="bubblelink code" onclick="return showCourse(this, 'BSTT 400');">BSTT&#160;400</a>; or both <a href="/search/?P=BSTT%20523" title="BSTT&#160;523" class="bubblelink code" onclick="return showCourse(this, 'BSTT 523');">BSTT&#160;523</a> and <a href="/search/?P=BSTT%20524" title="BSTT&#160;524" class="bubblelink code" onclick="return showCourse(this, 'BSTT 524');">BSTT&#160;524</a>; and graduate or professional standing; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;594.  Special Topics in Biostatistics.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced special topics. Content varies. Course Information: May be repeated. Students may register in more than one section per term. Prerequisite(s):  Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BSTT&#160;595.  Biostatistics Research Seminar.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Current developments in theory and application of biostatistics and epidemiology with presentations by faculty and visiting scientists.  Course Information: Satisfactory/Unsatisfactory grading only.  May be repeated.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="bstt.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

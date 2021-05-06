@@ -1,0 +1,528 @@
+https://catalog.uic.edu/ucat/colleges-depts/applied-health-sciences/bhis/bs/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>BS in Health Information Management &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="active isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/applied-health-sciences/">
+				<li class="active isparent"><a href="/ucat/colleges-depts/applied-health-sciences/bhis/">Biomedical and Health Information Sciences</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/applied-health-sciences/bhis/">
+					<li class="active self"><a href="#" onclick="return false;">BS in Health Information Management</a></li>
+					<li><a href="/ucat/colleges-depts/applied-health-sciences/bhis/lsv-minor/">Minor in Life Science Visualization</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/dhd/">Disability and Human Development</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/kn/">Kinesiology and Nutrition</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/rs/">Rehabilitation Sciences</a></li>
+				<li><a href="/ucat/colleges-depts/applied-health-sciences/preprofessional-studies/">Preprofessional Studies</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/applied-health-sciences/">College&nbsp;of&nbsp;Applied&nbsp;Health&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/applied-health-sciences/bhis/">Biomedical&nbsp;and&nbsp;Health&nbsp;Information&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><span class="active">BS in Health Information Management</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">BS in Health Information Management</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+<p class="program_codes"><span class="label"><strong>Program Codes:</strong> </span><br />20GF1304BS (onsite), 20GF1304BSU (online)<br /></p>	</div>
+</div>
+
+<h2>Degree Requirements</h2>
+<p>To earn a Bachelor of Science in Health Information Management degree from UIC, students need to complete university, college, and department degree requirements. The Department of Biomedical and Health Information Sciences degree requirements are outlined below. Students should consult the <em><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></em> section for additional degree requirements and college academic policies. Students should visit the department's <a href="http://healthinformatics.uic.edu/lpap-bshim-2/?Access_Code=UIC-HEALTH-SEO2&amp;utm_campaign=UIC-HEALTH-SEO2" target="_blank">Bachelor of Science in Health Information Management</a> page to learn about completing the program online.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Summary of Requirements</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Pre-Health Information Management Course Requirements</span></td><td class="hourscol">60</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">Health Information Management Required Courses</span></td><td class="hourscol">63</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">123</td></tr></tbody>
+</table>
+
+<h3>Pre-Health Information Management Course Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td><td>Academic Writing I: Writing in Academic and Public Contexts</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td><td>Academic Writing II: Writing for Inquiry and Research</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a></td><td>Biology of Cells and Organisms <sup>a</sup></td><td class="hourscol">4</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Additional Analyzing the Natural World course</span> <sup>b</sup></td><td class="hourscol">3-5</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Choose one of the following sequences:</span></td><td class="hourscol">8-10</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=KN%20251" title="KN 251" class="bubblelink code" onclick="return showCourse(this, 'KN 251');">KN 251</a></div></td><td>Human Physiological Anatomy I <sup>c</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=KN%20252" title="KN 252" class="bubblelink code" onclick="return showCourse(this, 'KN 252');">KN 252</a></div></td><td>Human Physiological Anatomy II <sup>c</sup></td><td class="hourscol"></td></tr>
+<tr class="even areaheader "><td colspan="2"><div style="margin-left:20px;" class="blockindent"><span class="courselistcomment areaheader  commentindent">OR</span></div></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=KN%20253" title="KN 253" class="bubblelink code" onclick="return showCourse(this, 'KN 253');">KN 253</a></div></td><td>Human Anatomy and Physiology I <sup>c</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=KN%20254" title="KN 254" class="bubblelink code" onclick="return showCourse(this, 'KN 254');">KN 254</a></div></td><td>Human Anatomy and Physiology II <sup>c</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=MATH%20110" title="MATH 110" class="bubblelink code" onclick="return showCourse(this, 'MATH 110');">MATH 110</a></td><td>College Algebra</td><td class="hourscol">4</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <a href="/search/?P=MATH%20118" title="MATH 118" class="bubblelink code" onclick="return showCourse(this, 'MATH 118');">MATH 118</a></td><td colspan="2"> Mathematical Reasoning</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=PSCH%20100" title="PSCH 100" class="bubblelink code" onclick="return showCourse(this, 'PSCH 100');">PSCH 100</a></td><td>Introduction to Psychology <sup>d</sup></td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=PSCH%20242" title="PSCH 242" class="bubblelink code" onclick="return showCourse(this, 'PSCH 242');">PSCH 242</a></td><td>Introduction to Research in Psychology</td><td class="hourscol">3-4</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or <a href="/search/?P=STAT%20101" title="STAT 101" class="bubblelink code" onclick="return showCourse(this, 'STAT 101');">STAT 101</a></td><td colspan="2"> Introduction to Statistics</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Exploring World Cultures course</span> <sup>b</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Understanding the Creative Arts course</span> <sup>b</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Understanding the Past course</span> <sup>b</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Understanding U.S. Society course</span> <sup>b</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=IDS%20200" title="IDS 200" class="bubblelink code" onclick="return showCourse(this, 'IDS 200');">IDS 200</a></td><td>Intro to Management Information Systems</td><td class="hourscol">4</td></tr>
+<tr class="odd lastrow"><td colspan="2"><span class="courselistcomment">Electives—To complete the required total of 60 hours of Pre-Health Information Management courses. </span></td><td class="hourscol">7-12</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">60</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>This course is approved for the Analyzing the Natural World General Education category.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>Students should consult the <a href="/ucat/degree-programs/general-education/">General Education</a> section of the catalog for a list approved courses in this category.</em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=KN%20251" title="KN 251" class="bubblelink code" onclick="return showCourse(this, 'KN 251');">KN 251</a></span>/<span class="sc_courseinline"><a href="/search/?P=KN%20252" title="KN 252" class="bubblelink code" onclick="return showCourse(this, 'KN 252');">KN 252</a></span> sequence begins in the fall term only.</em></p></td></tr><tr><td valign="top" class="symcol">d</td><td class="notecol"><p><em>This course is approved for the Understanding the Individual and Society General Education category. </em></p></td></tr></table>
+<h3>Health Information Management Required Courses</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=HIM%20410" title="HIM 410" class="bubblelink code" onclick="return showCourse(this, 'HIM 410');">HIM 410</a></td><td>Introduction to the Health Care System</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=HIM%20317" title="HIM 317" class="bubblelink code" onclick="return showCourse(this, 'HIM 317');">HIM 317</a></td><td>Principles of Health Information Management</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=HIM%20319" title="HIM 319" class="bubblelink code" onclick="return showCourse(this, 'HIM 319');">HIM 319</a></td><td>Alternative Health Records</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=HIM%20320" title="HIM 320" class="bubblelink code" onclick="return showCourse(this, 'HIM 320');">HIM 320</a></td><td>Technical Affiliation</td><td class="hourscol">2</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=HIM%20329" title="HIM 329" class="bubblelink code" onclick="return showCourse(this, 'HIM 329');">HIM 329</a></td><td>Legal Aspects of Health Information Management</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=HIM%20432" title="HIM 432" class="bubblelink code" onclick="return showCourse(this, 'HIM 432');">HIM 432</a></td><td>Coding and Classification Systems</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=HIM%20433" title="HIM 433" class="bubblelink code" onclick="return showCourse(this, 'HIM 433');">HIM 433</a></td><td>Coding and Reimbursement Systems</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=HIM%20337" title="HIM 337" class="bubblelink code" onclick="return showCourse(this, 'HIM 337');">HIM 337</a></td><td>Analysis of Health Care Data</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=HIM%20343" title="HIM 343" class="bubblelink code" onclick="return showCourse(this, 'HIM 343');">HIM 343</a></td><td>Quality Evaluation and Management</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=HIM%20361" title="HIM 361" class="bubblelink code" onclick="return showCourse(this, 'HIM 361');">HIM 361</a></td><td>Human Resources Management</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=HIM%20367" title="HIM 367" class="bubblelink code" onclick="return showCourse(this, 'HIM 367');">HIM 367</a></td><td>Systems Analysis</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=HIM%20374" title="HIM 374" class="bubblelink code" onclick="return showCourse(this, 'HIM 374');">HIM 374</a></td><td>Health Information Research</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=HIM%20377" title="HIM 377" class="bubblelink code" onclick="return showCourse(this, 'HIM 377');">HIM 377</a></td><td>Current Issues in Health Information Management</td><td class="hourscol">2</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=HIM%20384" title="HIM 384" class="bubblelink code" onclick="return showCourse(this, 'HIM 384');">HIM 384</a></td><td>Clinical Practicum</td><td class="hourscol">5</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=HIM%20481" title="HIM 481" class="bubblelink code" onclick="return showCourse(this, 'HIM 481');">HIM 481</a></td><td>Healthcare Financial Management</td><td class="hourscol">2</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=BHIS%20405" title="BHIS 405" class="bubblelink code" onclick="return showCourse(this, 'BHIS 405');">BHIS 405</a></td><td>Medical Sciences and Human Pathophysiology <sup>a</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=BHIS%20406" title="BHIS 406" class="bubblelink code" onclick="return showCourse(this, 'BHIS 406');">BHIS 406</a></td><td>Medical Terminology for Health Information Management</td><td class="hourscol">2</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=BHIS%20410" title="BHIS 410" class="bubblelink code" onclick="return showCourse(this, 'BHIS 410');">BHIS 410</a></td><td>Health Data Structures and Management</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=BHIS%20460" title="BHIS 460" class="bubblelink code" onclick="return showCourse(this, 'BHIS 460');">BHIS 460</a></td><td>Introduction to Health Informatics</td><td class="hourscol">1</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=BHIS%20461" title="BHIS 461" class="bubblelink code" onclick="return showCourse(this, 'BHIS 461');">BHIS 461</a></td><td>Information Systems for Health Information Management</td><td class="hourscol">2</td></tr>
+<tr class="odd lastrow"><td class="codecol"><a href="/search/?P=BHIS%20480" title="BHIS 480" class="bubblelink code" onclick="return showCourse(this, 'BHIS 480');">BHIS 480</a></td><td>Management and Business Practices</td><td class="hourscol">3</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">63</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><span class="sc_courseinline"><a href="/search/?P=BHIS%20405" title="BHIS 405" class="bubblelink code" onclick="return showCourse(this, 'BHIS 405');">BHIS 405</a></span><em> must be taken within the first 17 hours of matriculation, excluding prerequisite courses. The student will be denied further registration in the program until this course is successfully completed.</em></p></td></tr></table>
+<p><strong>Important Note:</strong> The following listing is for graduates of accredited associate's degree programs in Health Information Technology or others with equivalent course work. Graduates of an associate's degree program in Health Information Technology accredited by the Commission on Health Informatics and Information Management Education (CAHIIM), who also hold current Registered Health Information Technician (RHIT) certification; or who provide a transcript of equivalent course work and demonstrate proficiency by exam, may receive 24 hours of proficiency credit as follows:</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Profiency Credits</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=HIM%20317" title="HIM 317" class="bubblelink code" onclick="return showCourse(this, 'HIM 317');">HIM 317</a></td><td>Principles of Health Information Management</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=HIM%20319" title="HIM 319" class="bubblelink code" onclick="return showCourse(this, 'HIM 319');">HIM 319</a></td><td>Alternative Health Records</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=HIM%20320" title="HIM 320" class="bubblelink code" onclick="return showCourse(this, 'HIM 320');">HIM 320</a></td><td>Technical Affiliation</td><td class="hourscol">2</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=HIM%20329" title="HIM 329" class="bubblelink code" onclick="return showCourse(this, 'HIM 329');">HIM 329</a></td><td>Legal Aspects of Health Information Management</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=HIM%20386" title="HIM 386" class="bubblelink code" onclick="return showCourse(this, 'HIM 386');">HIM 386</a></td><td>Independent Study</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=HIM%20410" title="HIM 410" class="bubblelink code" onclick="return showCourse(this, 'HIM 410');">HIM 410</a></td><td>Introduction to the Health Care System</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=BHIS%20405" title="BHIS 405" class="bubblelink code" onclick="return showCourse(this, 'BHIS 405');">BHIS 405</a></td><td>Medical Sciences and Human Pathophysiology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=BHIS%20406" title="BHIS 406" class="bubblelink code" onclick="return showCourse(this, 'BHIS 406');">BHIS 406</a></td><td>Medical Terminology for Health Information Management</td><td class="hourscol">2</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Students with a current CPC, CCA, CCS, CCS-P coding or RHIT credential and demonstrate proficiency via an exam, may receive proficiency credit for the following 7 hours:</span></td><td class="hourscol">7</td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=HIM%20432" title="HIM 432" class="bubblelink code" onclick="return showCourse(this, 'HIM 432');">HIM 432</a></div></td><td>Coding and Classification Systems (3 hours)</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=HIM%20433" title="HIM 433" class="bubblelink code" onclick="return showCourse(this, 'HIM 433');">HIM 433</a></div></td><td>Coding and Reimbursement Systems (4 hours)</td><td class="hourscol"></td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">The proficiency credit will be granted following completion of 16 hours (50%) of the HIM course work taken at UIC with a grade of C or better.</span></td><td class="hourscol"></td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">24-31</td></tr></tbody>
+</table>
+
+<h3>Required Courses after Proficiency Credits </h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=HIM%20361" title="HIM 361" class="bubblelink code" onclick="return showCourse(this, 'HIM 361');">HIM 361</a></td><td>Human Resources Management</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=HIM%20367" title="HIM 367" class="bubblelink code" onclick="return showCourse(this, 'HIM 367');">HIM 367</a></td><td>Systems Analysis</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=HIM%20374" title="HIM 374" class="bubblelink code" onclick="return showCourse(this, 'HIM 374');">HIM 374</a></td><td>Health Information Research</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=HIM%20377" title="HIM 377" class="bubblelink code" onclick="return showCourse(this, 'HIM 377');">HIM 377</a></td><td>Current Issues in Health Information Management</td><td class="hourscol">2</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=HIM%20384" title="HIM 384" class="bubblelink code" onclick="return showCourse(this, 'HIM 384');">HIM 384</a></td><td>Clinical Practicum</td><td class="hourscol">5</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=BHIS%20410" title="BHIS 410" class="bubblelink code" onclick="return showCourse(this, 'BHIS 410');">BHIS 410</a></td><td>Health Data Structures and Management</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=BHIS%20460" title="BHIS 460" class="bubblelink code" onclick="return showCourse(this, 'BHIS 460');">BHIS 460</a></td><td>Introduction to Health Informatics</td><td class="hourscol">1</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=BHIS%20461" title="BHIS 461" class="bubblelink code" onclick="return showCourse(this, 'BHIS 461');">BHIS 461</a></td><td>Information Systems for Health Information Management</td><td class="hourscol">2</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=BHIS%20480" title="BHIS 480" class="bubblelink code" onclick="return showCourse(this, 'BHIS 480');">BHIS 480</a></td><td>Management and Business Practices</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol"><a href="/search/?P=HIM%20481" title="HIM 481" class="bubblelink code" onclick="return showCourse(this, 'HIM 481');">HIM 481</a></td><td>Healthcare Financial Management</td><td class="hourscol">2</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=HIM%20452" title="HIM 452" class="bubblelink code" onclick="return showCourse(this, 'HIM 452');">HIM 452</a></td><td>Quality Management and Data Analysis</td><td class="hourscol">4</td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">PLUS, if not receiving proficiency credit:</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=HIM%20432" title="HIM 432" class="bubblelink code" onclick="return showCourse(this, 'HIM 432');">HIM 432</a></td><td>Coding and Classification Systems</td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td class="codecol"><a href="/search/?P=HIM%20433" title="HIM 433" class="bubblelink code" onclick="return showCourse(this, 'HIM 433');">HIM 433</a></td><td>Coding and Reimbursement Systems</td><td class="hourscol">4</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">32-39</td></tr></tbody>
+</table>
+
+<h2>Sample Course Schedule for Campus Program</h2>
+<table pdfnorepeatheader="true" class="sc_plangrid">
+<caption>Plan of Study Grid</caption><colgroup>
+	<col class="codecol"/>
+	<col class="titlecol"/>
+	<col class="hourscol"/>
+</colgroup>
+<tr class="plangridyear"><th id="plangrid2_0" class="year" colspan="3">Junior Year</th></tr>
+<tr class="plangridterm"><th id="plangrid2_0_0" colspan="2">Fall Semester</th><th id="hoursheader" scope="col" class="hourscol">Hours</th></tr>
+<tr class="even"><td headers=" plangrid2_0_0" colspan="2" class="codecol"><span class="comment"><strong>Fall Session A</strong></span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_0" class="codecol"><a href="/search/?P=HIM%20410" title="HIM 410" class="bubblelink code" onclick="return showCourse(this, 'HIM 410');">HIM 410</a></td>
+<td headers=" plangrid2_0_0" class="titlecol">Introduction to the Health Care System</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_0" class="codecol"><a href="/search/?P=HIM%20317" title="HIM 317" class="bubblelink code" onclick="return showCourse(this, 'HIM 317');">HIM 317</a></td>
+<td headers=" plangrid2_0_0" class="titlecol">Principles of Health Information Management</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_0" class="codecol"><a href="/search/?P=BHIS%20406" title="BHIS 406" class="bubblelink code" onclick="return showCourse(this, 'BHIS 406');">BHIS 406</a></td>
+<td headers=" plangrid2_0_0" class="titlecol">Medical Terminology for Health Information Management</td>
+<td headers="hoursheader" class="hourscol">2</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_0" colspan="2" class="codecol"><span class="comment"><strong>Fall Session B</strong></span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_0" class="codecol"><a href="/search/?P=HIM%20319" title="HIM 319" class="bubblelink code" onclick="return showCourse(this, 'HIM 319');">HIM 319</a></td>
+<td headers=" plangrid2_0_0" class="titlecol">Alternative Health Records</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_0" class="codecol"><a href="/search/?P=BHIS%20405" title="BHIS 405" class="bubblelink code" onclick="return showCourse(this, 'BHIS 405');">BHIS 405</a></td>
+<td headers=" plangrid2_0_0" class="titlecol">Medical Sciences and Human Pathophysiology</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_0" class="codecol"><a href="/search/?P=BHIS%20460" title="BHIS 460" class="bubblelink code" onclick="return showCourse(this, 'BHIS 460');">BHIS 460</a></td>
+<td headers=" plangrid2_0_0" class="titlecol">Introduction to Health Informatics</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid2_0_0" class="titlecol">Hours</td><td headers=" plangrid2_0_0 hoursheader" class="hourscol">17</td></tr>
+<tr class="plangridterm"><th id="plangrid2_0_1" colspan="3">Spring Semester</th></tr>
+<tr class="odd"><td headers=" plangrid2_0_1" colspan="2" class="codecol"><span class="comment"><strong>Spring Session A</strong></span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_1" class="codecol"><a href="/search/?P=BHIS%20461" title="BHIS 461" class="bubblelink code" onclick="return showCourse(this, 'BHIS 461');">BHIS 461</a></td>
+<td headers=" plangrid2_0_1" class="titlecol">Information Systems for Health Information Management</td>
+<td headers="hoursheader" class="hourscol">2</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_1" class="codecol"><a href="/search/?P=BHIS%20480" title="BHIS 480" class="bubblelink code" onclick="return showCourse(this, 'BHIS 480');">BHIS 480</a></td>
+<td headers=" plangrid2_0_1" class="titlecol">Management and Business Practices</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_1" class="codecol"><a href="/search/?P=HIM%20432" title="HIM 432" class="bubblelink code" onclick="return showCourse(this, 'HIM 432');">HIM 432</a></td>
+<td headers=" plangrid2_0_1" class="titlecol">Coding and Classification Systems</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_1" colspan="2" class="codecol"><span class="comment"><strong>Spring Session B</strong></span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_1" class="codecol"><a href="/search/?P=HIM%20320" title="HIM 320" class="bubblelink code" onclick="return showCourse(this, 'HIM 320');">HIM 320</a></td>
+<td headers=" plangrid2_0_1" class="titlecol">Technical Affiliation</td>
+<td headers="hoursheader" class="hourscol">2</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_0_1" class="codecol"><a href="/search/?P=HIM%20329" title="HIM 329" class="bubblelink code" onclick="return showCourse(this, 'HIM 329');">HIM 329</a></td>
+<td headers=" plangrid2_0_1" class="titlecol">Legal Aspects of Health Information Management</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_0_1" class="codecol"><a href="/search/?P=HIM%20361" title="HIM 361" class="bubblelink code" onclick="return showCourse(this, 'HIM 361');">HIM 361</a></td>
+<td headers=" plangrid2_0_1" class="titlecol">Human Resources Management</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid2_0_1" class="titlecol">Hours</td><td headers=" plangrid2_0_1 hoursheader" class="hourscol">16</td></tr>
+<tr class="plangridyear"><th id="plangrid2_1" class="year" colspan="3">Senior Year</th></tr>
+<tr class="plangridterm"><th id="plangrid2_1_0" colspan="3">Fall Semester</th></tr>
+<tr class="even"><td headers=" plangrid2_1_0" colspan="2" class="codecol"><span class="comment"><strong>Fall Session A</strong></span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_0" class="codecol"><a href="/search/?P=HIM%20337" title="HIM 337" class="bubblelink code" onclick="return showCourse(this, 'HIM 337');">HIM 337</a></td>
+<td headers=" plangrid2_1_0" class="titlecol">Analysis of Health Care Data</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_1_0" class="codecol"><a href="/search/?P=BHIS%20410" title="BHIS 410" class="bubblelink code" onclick="return showCourse(this, 'BHIS 410');">BHIS 410</a></td>
+<td headers=" plangrid2_1_0" class="titlecol">Health Data Structures and Management</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_0" colspan="2" class="codecol"><span class="comment"><strong>Fall Session B</strong></span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid2_1_0" class="codecol"><a href="/search/?P=HIM%20433" title="HIM 433" class="bubblelink code" onclick="return showCourse(this, 'HIM 433');">HIM 433</a></td>
+<td headers=" plangrid2_1_0" class="titlecol">Coding and Reimbursement Systems</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_0" class="codecol"><a href="/search/?P=HIM%20374" title="HIM 374" class="bubblelink code" onclick="return showCourse(this, 'HIM 374');">HIM 374</a></td>
+<td headers=" plangrid2_1_0" class="titlecol">Health Information Research</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_1_0" class="codecol"><a href="/search/?P=HIM%20481" title="HIM 481" class="bubblelink code" onclick="return showCourse(this, 'HIM 481');">HIM 481</a></td>
+<td headers=" plangrid2_1_0" class="titlecol">Healthcare Financial Management</td>
+<td headers="hoursheader" class="hourscol">2</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid2_1_0" class="titlecol">Hours</td><td headers=" plangrid2_1_0 hoursheader" class="hourscol">17</td></tr>
+<tr class="plangridterm"><th id="plangrid2_1_1" colspan="3">Spring Semester</th></tr>
+<tr class="even"><td headers=" plangrid2_1_1" colspan="2" class="codecol"><span class="comment"><strong>Spring Session A</strong></span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_1" class="codecol"><a href="/search/?P=HIM%20343" title="HIM 343" class="bubblelink code" onclick="return showCourse(this, 'HIM 343');">HIM 343</a></td>
+<td headers=" plangrid2_1_1" class="titlecol">Quality Evaluation and Management</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_1_1" class="codecol"><a href="/search/?P=HIM%20367" title="HIM 367" class="bubblelink code" onclick="return showCourse(this, 'HIM 367');">HIM 367</a></td>
+<td headers=" plangrid2_1_1" class="titlecol">Systems Analysis</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_1" class="codecol"><a href="/search/?P=HIM%20377" title="HIM 377" class="bubblelink code" onclick="return showCourse(this, 'HIM 377');">HIM 377</a></td>
+<td headers=" plangrid2_1_1" class="titlecol">Current Issues in Health Information Management</td>
+<td headers="hoursheader" class="hourscol">2</td>
+</tr>
+<tr class="even"><td headers=" plangrid2_1_1" colspan="2" class="codecol"><span class="comment"><strong>Spring Session B</strong></span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid2_1_1" class="codecol"><a href="/search/?P=HIM%20384" title="HIM 384" class="bubblelink code" onclick="return showCourse(this, 'HIM 384');">HIM 384</a></td>
+<td headers=" plangrid2_1_1" class="titlecol">Clinical Practicum</td>
+<td headers="hoursheader" class="hourscol">5</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid2_1_1" class="titlecol">Hours</td><td headers=" plangrid2_1_1 hoursheader" class="hourscol">13</td></tr>
+<tr class="plangridtotal lastrow odd"><td> </td><td>Total Hours</td><td headers="hoursheader" class="hourscol">63</td></tr>
+</table></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="bs.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

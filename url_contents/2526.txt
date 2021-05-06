@@ -1,0 +1,487 @@
+https://catalog.uic.edu/ucat/colleges-depts/engineering/che/bs-ms-chemical-engineering/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Joint BS in Chemical Engineering/MS in Chemical Engineering &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/engineering/">
+				<li class="isparent"><a href="/ucat/colleges-depts/engineering/bioe/">Bioengineering</a></li>
+				<li class="active isparent"><a href="/ucat/colleges-depts/engineering/che/">Chemical Engineering</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/engineering/che/">
+					<li><a href="/ucat/colleges-depts/engineering/che/bs-che/">BS in Chemical Engineering</a></li>
+					<li class="active self"><a href="#" onclick="return false;">BS/&#8203;MS in Chemical Engineering</a></li>
+					<li><a href="/ucat/colleges-depts/engineering/che/minor-che/">Minor in Chemical Engineering</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/engineering/cme/">Civil, Materials, and Environmental Engineering</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/engineering/cs/">Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/engineering/ece/">Electrical and Computer Engineering</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/engineering/mie/">Mechanical and Industrial Engineering</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/engineering/addl-interdisciplinary-opps/">Additional Interdisciplinary Opportunities</a></li>
+			</ul>
+			</li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/engineering/">College&nbsp;of&nbsp;Engineering</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/engineering/che/">Chemical&nbsp;Engineering</a><span class="crumbsep">/</span></li><li><span class="active">BS/MS in Chemical Engineering</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Joint BS in Chemical Engineering/MS in Chemical Engineering</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p>To earn a joint Bachelor of Science in Chemical Engineering/Master of Science in Chemical Engineering degree from UIC, students need to complete university, college, and department degree requirements. The Department of Chemical Engineering degree requirements are outlined below. Students should consult the <a href="https://catalog.uic.edu/ucat/colleges-depts/engineering/"><em>College of Engineering</em></a> section for additional degree requirements and college academic policies.</p>
+<p>The Joint Bachelor of Science in Chemical Engineering (BSCHE) and Master of Science in Chemical Engineering (MSCHE) is designed for undergraduate students who desire to pursue graduate studies in Chemical Engineering or who wish to prepare themselves for advanced placement in the workplace. Students will earn both a BSCHE and an MSCHE degree upon completion, with 8 hours of course work shared between the two degrees.</p>
+<p>The requirements for completion of the combined BSCHE/MSCHE degree are identical to the completion of these two separate degrees; however, there are 8 hours of shared course work used for both degrees. Completion of 122 hours at the undergraduate level; plus 8 shared hours counting toward both the BSCHE and MSCHE degrees; plus 28 hours of course work at the graduate level will result in joint BSCHE/MSCHE degrees. Students accepted into the joint degree program will be able to take a 400-level (graduate) Chemical Engineering course and a 500-level seminar course after they complete <span class="sc_courseinline"><a href="/search/?P=CHE%20301" title="CHE 301" class="bubblelink code" onclick="return showCourse(this, 'CHE 301');">CHE 301</a></span>, <span class="sc_courseinline"><a href="/search/?P=CHE%20311" title="CHE 311" class="bubblelink code" onclick="return showCourse(this, 'CHE 311');">CHE 311</a></span>, <span class="sc_courseinline"><a href="/search/?P=CHE%20312" title="CHE 312" class="bubblelink code" onclick="return showCourse(this, 'CHE 312');">CHE 312</a></span>, <span class="sc_courseinline"><a href="/search/?P=CHE%20313" title="CHE 313" class="bubblelink code" onclick="return showCourse(this, 'CHE 313');">CHE 313</a></span>, and <span class="sc_courseinline"><a href="/search/?P=CHE%20321" title="CHE 321" class="bubblelink code" onclick="return showCourse(this, 'CHE 321');">CHE 321</a></span>. These students will be eligible to enroll as graduate students to receive 4 hours for the 400-level (graduate) chemical engineering course. The 400-level CHE course will count towards the technical elective course for the bachelor's degree and as an elective course for the master's degree. The student will then select a 500-level seminar course and a 400-level course from other engineering majors chosen in consultation with their CHE advisor. The 400-level non-CHE course will count towards the elective course outside the major for the bachelor's degree (or free electives in the BS in CHE) and the elective course for the master's degree. The 500-level seminar courses will count towards the elective course for the master's degree.</p>
+
+<p>Students can <a href="https://che.uic.edu/graduate-programs/41-program-interest-form/" target="_blank">apply for the joint degree</a> at any time before the end of the second week of the fall term of their senior year in the BS program. A GPA of 2.50/4.00 or higher in the prior semester is required for application to the joint BS/MS degree program. Students also need to maintain an overall GPA of 2.00 or higher in BS and an overall GPA of 3.00 or higher in the MS program. The applications will be reviewed by the Graduate Admission Committee in the Chemical Engineering department to determine whether the student will be admitted to this program. The department reserves the right to decline or accept any application. If a student is admitted to the joint program, a Change of Program form will be processed to finalize the admission.</p>
+<h2>Sample Course Schedule</h2>
+<table pdfnorepeatheader="true" class="sc_plangrid">
+<caption>Plan of Study Grid</caption><colgroup>
+	<col class="codecol"/>
+	<col class="titlecol"/>
+	<col class="hourscol"/>
+</colgroup>
+<tr class="plangridyear"><th id="plangrid1_0" class="year" colspan="3">First Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_0_0" colspan="2">First Semester</th><th id="hoursheader" scope="col" class="hourscol">Hours</th></tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=ENGR%20100" title="ENGR 100" class="bubblelink code" onclick="return showCourse(this, 'ENGR 100');">ENGR 100</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Engineering Orientation <sup>a</sup></td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Academic Writing I: Writing in Academic and Public Contexts</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><a href="/search/?P=MATH%20180" title="MATH 180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH 180</a></td>
+<td headers=" plangrid1_0_0" class="titlecol">Calculus I</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">One of the following:</span></td>
+<td headers="hoursheader" class="hourscol">5</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20122" title="CHEM 122" class="bubblelink code" onclick="return showCourse(this, 'CHEM 122');">CHEM 122</a><br/><span style="margin-left:20px;" class="blockindent">&amp; <a href="/search/?P=CHEM%20123" title="CHEM 123" class="bubblelink code" onclick="return showCourse(this, 'CHEM 123');">CHEM 123</a></span></div></td>
+<td headers=" plangrid1_0_0" class="titlecol">General Chemistry I Lecture<br/><span style="margin-left:20px;" class="blockindent">and General Chemistry Laboratory I</span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_0" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20116" title="CHEM 116" class="bubblelink code" onclick="return showCourse(this, 'CHEM 116');">CHEM 116</a></div></td>
+<td headers=" plangrid1_0_0" class="titlecol">Honors and Majors General and Analytical Chemistry I</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_0" colspan="2" class="codecol"><span class="comment">General Education course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_0_0" class="titlecol">Hours</td><td headers=" plangrid1_0_0 hoursheader" class="hourscol">15</td></tr>
+<tr class="plangridterm"><th id="plangrid1_0_1" colspan="3">Second Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=CS%20109" title="CS 109" class="bubblelink code" onclick="return showCourse(this, 'CS 109');">CS 109</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Programming for Engineers with MatLab</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=MATH%20181" title="MATH 181" class="bubblelink code" onclick="return showCourse(this, 'MATH 181');">MATH 181</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">Calculus II</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" class="codecol"><a href="/search/?P=PHYS%20141" title="PHYS 141" class="bubblelink code" onclick="return showCourse(this, 'PHYS 141');">PHYS 141</a></td>
+<td headers=" plangrid1_0_1" class="titlecol">General Physics I (Mechanics)</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" colspan="2" class="codecol"><span class="comment">One of the following:</span></td>
+<td headers="hoursheader" class="hourscol">5</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_0_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20124" title="CHEM 124" class="bubblelink code" onclick="return showCourse(this, 'CHEM 124');">CHEM 124</a><br/><span style="margin-left:20px;" class="blockindent">&amp; <a href="/search/?P=CHEM%20125" title="CHEM 125" class="bubblelink code" onclick="return showCourse(this, 'CHEM 125');">CHEM 125</a></span></div></td>
+<td headers=" plangrid1_0_1" class="titlecol">General Chemistry II Lecture<br/><span style="margin-left:20px;" class="blockindent">and General Chemistry Laboratory II</span></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_0_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHEM%20118" title="CHEM 118" class="bubblelink code" onclick="return showCourse(this, 'CHEM 118');">CHEM 118</a></div></td>
+<td headers=" plangrid1_0_1" class="titlecol">Honors and Majors General and Analytical Chemistry II</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_0_1" class="titlecol">Hours</td><td headers=" plangrid1_0_1 hoursheader" class="hourscol">16</td></tr>
+<tr class="plangridyear"><th id="plangrid1_1" class="year" colspan="3">Second Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_1_0" colspan="3">First Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_1_0" class="codecol"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></td>
+<td headers=" plangrid1_1_0" class="titlecol">Academic Writing II: Writing for Inquiry and Research</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" class="codecol"><a href="/search/?P=PHYS%20142" title="PHYS 142" class="bubblelink code" onclick="return showCourse(this, 'PHYS 142');">PHYS 142</a></td>
+<td headers=" plangrid1_1_0" class="titlecol">General Physics II (Electricity and Magnetism)</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" class="codecol"><a href="/search/?P=CHE%20201" title="CHE 201" class="bubblelink code" onclick="return showCourse(this, 'CHE 201');">CHE 201</a></td>
+<td headers=" plangrid1_1_0" class="titlecol">Introduction To Thermodynamics</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_0" class="codecol"><a href="/search/?P=MATH%20210" title="MATH 210" class="bubblelink code" onclick="return showCourse(this, 'MATH 210');">MATH 210</a></td>
+<td headers=" plangrid1_1_0" class="titlecol">Calculus III</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_0" class="codecol"><a href="/search/?P=CHEM%20222" title="CHEM 222" class="bubblelink code" onclick="return showCourse(this, 'CHEM 222');">CHEM 222</a></td>
+<td headers=" plangrid1_1_0" class="titlecol">Analytical Chemistry</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_1_0" class="titlecol">Hours</td><td headers=" plangrid1_1_0 hoursheader" class="hourscol">17</td></tr>
+<tr class="plangridterm"><th id="plangrid1_1_1" colspan="3">Second Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_1_1" class="codecol"><a href="/search/?P=CHE%20205" title="CHE 205" class="bubblelink code" onclick="return showCourse(this, 'CHE 205');">CHE 205</a></td>
+<td headers=" plangrid1_1_1" class="titlecol">Computational Methods in Chemical Engineering</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" class="codecol"><a href="/search/?P=CHE%20210" title="CHE 210" class="bubblelink code" onclick="return showCourse(this, 'CHE 210');">CHE 210</a></td>
+<td headers=" plangrid1_1_1" class="titlecol">Material and Energy Balances</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_1" class="codecol"><a href="/search/?P=MATH%20220" title="MATH 220" class="bubblelink code" onclick="return showCourse(this, 'MATH 220');">MATH 220</a></td>
+<td headers=" plangrid1_1_1" class="titlecol">Introduction to Differential Equations</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_1_1" class="codecol"><a href="/search/?P=CHEM%20232" title="CHEM 232" class="bubblelink code" onclick="return showCourse(this, 'CHEM 232');">CHEM 232</a></td>
+<td headers=" plangrid1_1_1" class="titlecol">Organic Chemistry I</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_1_1" class="codecol"><a href="/search/?P=CHEM%20342" title="CHEM 342" class="bubblelink code" onclick="return showCourse(this, 'CHEM 342');">CHEM 342</a></td>
+<td headers=" plangrid1_1_1" class="titlecol">Physical Chemistry I</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_1_1" class="titlecol">Hours</td><td headers=" plangrid1_1_1 hoursheader" class="hourscol">17</td></tr>
+<tr class="plangridyear"><th id="plangrid1_2" class="year" colspan="3">Third Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_2_0" colspan="3">First Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=CHE%20301" title="CHE 301" class="bubblelink code" onclick="return showCourse(this, 'CHE 301');">CHE 301</a></td>
+<td headers=" plangrid1_2_0" class="titlecol">Chemical Engineering Thermodynamics</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=CHE%20311" title="CHE 311" class="bubblelink code" onclick="return showCourse(this, 'CHE 311');">CHE 311</a></td>
+<td headers=" plangrid1_2_0" class="titlecol">Transport Phenomena I</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=ECE%20210" title="ECE 210" class="bubblelink code" onclick="return showCourse(this, 'ECE 210');">ECE 210</a></td>
+<td headers=" plangrid1_2_0" class="titlecol">Electrical Circuit Analysis</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=CHEM%20233" title="CHEM 233" class="bubblelink code" onclick="return showCourse(this, 'CHEM 233');">CHEM 233</a></td>
+<td headers=" plangrid1_2_0" class="titlecol">Organic Chemistry Laboratory I</td>
+<td headers="hoursheader" class="hourscol">2</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_0" class="codecol"><a href="/search/?P=CHEM%20346" title="CHEM 346" class="bubblelink code" onclick="return showCourse(this, 'CHEM 346');">CHEM 346</a></td>
+<td headers=" plangrid1_2_0" class="titlecol">Physical Chemistry II</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_0" colspan="2" class="codecol"><span class="comment">General Education course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_2_0" class="titlecol">Hours</td><td headers=" plangrid1_2_0 hoursheader" class="hourscol">17</td></tr>
+<tr class="plangridterm"><th id="plangrid1_2_1" colspan="3">Second Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_2_1" class="codecol"><a href="/search/?P=CHE%20312" title="CHE 312" class="bubblelink code" onclick="return showCourse(this, 'CHE 312');">CHE 312</a></td>
+<td headers=" plangrid1_2_1" class="titlecol">Transport Phenomena II</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_1" class="codecol"><a href="/search/?P=CHE%20313" title="CHE 313" class="bubblelink code" onclick="return showCourse(this, 'CHE 313');">CHE 313</a></td>
+<td headers=" plangrid1_2_1" class="titlecol">Transport Phenomena III</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" class="codecol"><a href="/search/?P=CHE%20321" title="CHE 321" class="bubblelink code" onclick="return showCourse(this, 'CHE 321');">CHE 321</a></td>
+<td headers=" plangrid1_2_1" class="titlecol">Chemical Reaction Engineering</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_2_1" class="codecol"><a href="/search/?P=CHEM%20234" title="CHEM 234" class="bubblelink code" onclick="return showCourse(this, 'CHEM 234');">CHEM 234</a></td>
+<td headers=" plangrid1_2_1" class="titlecol">Organic Chemistry II</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_2_1" class="codecol"><a href="/search/?P=CME%20260" title="CME 260" class="bubblelink code" onclick="return showCourse(this, 'CME 260');">CME 260</a></td>
+<td headers=" plangrid1_2_1" class="titlecol">Properties of Materials</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_2_1" class="titlecol">Hours</td><td headers=" plangrid1_2_1 hoursheader" class="hourscol">16</td></tr>
+<tr class="plangridyear"><th id="plangrid1_3" class="year" colspan="3">Fourth Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_3_0" colspan="3">First Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_3_0" class="codecol"><a href="/search/?P=CHE%20381" title="CHE 381" class="bubblelink code" onclick="return showCourse(this, 'CHE 381');">CHE 381</a></td>
+<td headers=" plangrid1_3_0" class="titlecol">Chemical Engineering Laboratory I</td>
+<td headers="hoursheader" class="hourscol">2</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_0" class="codecol"><a href="/search/?P=CHE%20396" title="CHE 396" class="bubblelink code" onclick="return showCourse(this, 'CHE 396');">CHE 396</a></td>
+<td headers=" plangrid1_3_0" class="titlecol">Senior Design I</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_0" class="codecol"><a href="/search/?P=CHE%20499" title="CHE 499" class="bubblelink code" onclick="return showCourse(this, 'CHE 499');">CHE 499</a></td>
+<td headers=" plangrid1_3_0" class="titlecol">Professional Development Seminar</td>
+<td headers="hoursheader" class="hourscol">0</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_0" class="codecol"><a href="/search/?P=CHE%20595" title="CHE 595" class="bubblelink code" onclick="return showCourse(this, 'CHE 595');">CHE 595</a></td>
+<td headers=" plangrid1_3_0" class="titlecol">Seminar in Chemical Engineering Research (<span class="comment">MS course work</span>)</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">General Education course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">General Education course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_0" colspan="2" class="codecol"><span class="comment">400-level CHE Technical Elective</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_3_0" class="titlecol">Hours</td><td headers=" plangrid1_3_0 hoursheader" class="hourscol">17</td></tr>
+<tr class="plangridterm"><th id="plangrid1_3_1" colspan="3">Second Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_3_1" class="codecol"><a href="/search/?P=CHE%20341" title="CHE 341" class="bubblelink code" onclick="return showCourse(this, 'CHE 341');">CHE 341</a></td>
+<td headers=" plangrid1_3_1" class="titlecol">Chemical Process Control</td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_1" class="codecol"><a href="/search/?P=CHE%20382" title="CHE 382" class="bubblelink code" onclick="return showCourse(this, 'CHE 382');">CHE 382</a></td>
+<td headers=" plangrid1_3_1" class="titlecol">Chemical Engineering Laboratory II</td>
+<td headers="hoursheader" class="hourscol">2</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_1" class="codecol"><a href="/search/?P=CHE%20397" title="CHE 397" class="bubblelink code" onclick="return showCourse(this, 'CHE 397');">CHE 397</a></td>
+<td headers=" plangrid1_3_1" class="titlecol">Senior Design II</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_1" class="codecol"><a href="/search/?P=CHE%20595" title="CHE 595" class="bubblelink code" onclick="return showCourse(this, 'CHE 595');">CHE 595</a></td>
+<td headers=" plangrid1_3_1" class="titlecol">Seminar in Chemical Engineering Research</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">400-level Elective outside the Major Rubric</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_3_1" colspan="2" class="codecol"><span class="comment">General Education course</span></td>
+<td headers="hoursheader" class="hourscol">3</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_3_1" class="titlecol">Hours</td><td headers=" plangrid1_3_1 hoursheader" class="hourscol">17</td></tr>
+<tr class="plangridyear"><th id="plangrid1_4" class="year" colspan="3">Fifth Year</th></tr>
+<tr class="plangridterm"><th id="plangrid1_4_0" colspan="3">First Semester</th></tr>
+<tr class="odd"><td headers=" plangrid1_4_0" class="codecol"><a href="/search/?P=CHE%20501" title="CHE 501" class="bubblelink code" onclick="return showCourse(this, 'CHE 501');">CHE 501</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=CHE%20502" title="CHE 502" class="bubblelink code" onclick="return showCourse(this, 'CHE 502');">CHE 502</a></div></td>
+<td headers=" plangrid1_4_0" class="titlecol">Advanced Thermodynamics<br/><div style="margin-left:20px;" class="blockindent">or Fluid Phase Equilibria</div></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_4_0" class="codecol"><a href="/search/?P=CHE%20520" title="CHE 520" class="bubblelink code" onclick="return showCourse(this, 'CHE 520');">CHE 520</a></td>
+<td headers=" plangrid1_4_0" class="titlecol">Transport Phenomena</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_4_0" class="codecol"><a href="/search/?P=CHE%20531" title="CHE 531" class="bubblelink code" onclick="return showCourse(this, 'CHE 531');">CHE 531</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=CHE%20545" title="CHE 545" class="bubblelink code" onclick="return showCourse(this, 'CHE 545');">CHE 545</a></div></td>
+<td headers=" plangrid1_4_0" class="titlecol">Numerical Methods in Chemical Engineering<br/><div style="margin-left:20px;" class="blockindent">or Mathematical Methods in Chemical Engineering</div></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_4_0" class="codecol"><a href="/search/?P=CHE%20595" title="CHE 595" class="bubblelink code" onclick="return showCourse(this, 'CHE 595');">CHE 595</a></td>
+<td headers=" plangrid1_4_0" class="titlecol">Seminar in Chemical Engineering Research (<span class="comment">MS course work</span>)</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="plangridsum odd"><td> </td><td headers=" plangrid1_4_0" class="titlecol">Hours</td><td headers=" plangrid1_4_0 hoursheader" class="hourscol">13</td></tr>
+<tr class="plangridterm"><th id="plangrid1_4_1" colspan="3">Second Semester</th></tr>
+<tr class="even"><td headers=" plangrid1_4_1" class="codecol"><a href="/search/?P=CHE%20510" title="CHE 510" class="bubblelink code" onclick="return showCourse(this, 'CHE 510');">CHE 510</a><br/><div style="margin-left:20px;" class="blockindent">or <a href="/search/?P=CHE%20511" title="CHE 511" class="bubblelink code" onclick="return showCourse(this, 'CHE 511');">CHE 511</a><br/>or <a href="/search/?P=CHE%20512" title="CHE 512" class="bubblelink code" onclick="return showCourse(this, 'CHE 512');">CHE 512</a></div></td>
+<td headers=" plangrid1_4_1" class="titlecol">Separation Processes (<span class="comment">MS course work</span>)<br/><div style="margin-left:20px;" class="blockindent">or Advanced Mass Transfer<br/>or Microhydrodynamics, Diffusion and Membrane Transport</div></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_4_1" class="codecol"><a href="/search/?P=CHE%20527" title="CHE 527" class="bubblelink code" onclick="return showCourse(this, 'CHE 527');">CHE 527</a></td>
+<td headers=" plangrid1_4_1" class="titlecol">Advanced Chemical Reaction Engineering (<span class="comment">MS course work</span>)</td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="even"><td headers=" plangrid1_4_1" colspan="2" class="codecol"><span class="comment">One of the following:</span></td>
+<td headers="hoursheader" class="hourscol">4</td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_4_1" class="codecol"><div style="margin-left:20px;" class="blockindent"><a href="/search/?P=CHE%20597" title="CHE 597" class="bubblelink code" onclick="return showCourse(this, 'CHE 597');">CHE 597</a></div></td>
+<td headers=" plangrid1_4_1" class="titlecol">Project Research</td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="even"><td headers=" plangrid1_4_1" colspan="2" class="codecol"><div style="margin-left:20px;" class="blockindent"><span class="comment commentindent">500-level CHE Elective or equivalent (MS course work)</span></div></td>
+<td headers="hoursheader" class="hourscol"> </td>
+</tr>
+<tr class="odd"><td headers=" plangrid1_4_1" class="codecol"><a href="/search/?P=CHE%20595" title="CHE 595" class="bubblelink code" onclick="return showCourse(this, 'CHE 595');">CHE 595</a></td>
+<td headers=" plangrid1_4_1" class="titlecol">Seminar in Chemical Engineering Research</td>
+<td headers="hoursheader" class="hourscol">1</td>
+</tr>
+<tr class="plangridsum even"><td> </td><td headers=" plangrid1_4_1" class="titlecol">Hours</td><td headers=" plangrid1_4_1 hoursheader" class="hourscol">13</td></tr>
+<tr class="plangridtotal lastrow odd"><td> </td><td>Total Hours</td><td headers="hoursheader" class="hourscol">158</td></tr>
+</table></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="bs-ms-chemical-engineering.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,750 @@
+https://catalog.uic.edu/ucat/colleges-depts/liberal-arts-sciences/pols/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Department of Political Science &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/liberal-arts-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/">Anthropology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/">Biochemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/">Biological Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/">Black Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/">Chemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/">Classics and Mediterranean Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/">Communication</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/">Criminology, Law, and Justice</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/">Earth and Environmental Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/">Economics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/">English</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/">French and Francophone Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/">Gender and Women's Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/">Germanic Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/">Global Asian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/">Hispanic and Italian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/">History</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/">Integrated Health Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/">International Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/">Liberal Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/">Linguistics</a></li>
+				<li><a href="/ucat/colleges-depts/liberal-arts-sciences/lcsl/">Literatures, Cultural Studies, and Linguistics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/">Mathematics, Statistics, and Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/">Moving Image Arts</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/">Neuroscience</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/">Philosophy</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/">Physics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/">Polish, Russian, and Lithuanian Studies</a></li>
+				<li class="active isparent self"><a href="#" onclick="return false;">Political Science</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/liberal-arts-sciences/pols/">
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/ba-pols/">BA with a Major in Political Science</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/ba-pols-lc-conc/">BA with a Major in Political Science, Concentration in Law and Courts</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/ba-pols-up-conc/">BA with a Major in Political Science, Concentration in Urban Politics</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/minor-pols/">Minor in Political Science</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/">Psychology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/">Religious Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/">Sociology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional Studies</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/">College&nbsp;of&nbsp;Liberal&nbsp;Arts&nbsp;and&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><span class="active">Political Science</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Department of Political Science</h1>
+
+
+<script type="text/javascript">
+//<![CDATA[
+	var defshow = "text";
+	var bodycontainer = "#body";
+	var validhashes = ",text,undergraduateprogramstext,coursestext,";
+
+if(window.location.hash.length) {
+	var hash = cleanHash(window.location.hash);
+	if(validhashes.indexOf("," + hash + ",") != -1)
+		defshow = hash;	
+}
+var ss = document.styleSheets;
+var workss = null;
+for(var i=0; i < ss.length; i++) {
+	var currmedia = "";
+	if (typeof ss[i].media == "string") 
+		currmedia = ss[i].media
+	else if (typeof ss[i].media == "object" && ss[i].media.mediaText) 
+		currmedia = ss[i].media.mediaText;
+	
+	if((currmedia == "screen" || currmedia == "all") && (ss[i].href.indexOf("/") == 0 || ss[i].href.indexOf(document.location.host) >= 0)) {
+		workss = ss[i];
+		break;	
+	}
+}
+if(workss && workss.insertRule) {
+	workss.insertRule(".tab_content { display: none; }", workss.cssRules.length)
+	workss.insertRule(".sectionheader { display: none; }", workss.cssRules.length)
+	workss.insertRule("#" + defshow + "container { display: block; }", workss.cssRules.length)
+} else if(workss && workss.addRule) {
+	workss.addRule(".tab_content", "display: none");
+	workss.addRule(".sectionheader", "display: none");
+	workss.addRule("#" + defshow + "container", "display: block");
+}
+else {
+	if (window.console)
+		window.console.log('screen.css <link> needs attribute media="screen"');
+}
+//]]>
+</script>
+	<div id="tabs">
+		<ul class="clearfix" role="tablist">
+			<li id="texttab" role="presentation">
+<a href="#textcontainer" role="tab" aria-controls="textcontainer" onclick="return showSection('text');">Overview</a></li>
+			<li id="undergraduateprogramstexttab" role="presentation">
+<a href="#undergraduateprogramstextcontainer" role="tab" aria-controls="undergraduateprogramstextcontainer" onclick="return showSection('undergraduateprogramstext');" >Programs and Requirements</a></li>
+			<li id="coursestexttab" role="presentation">
+<a href="#coursestextcontainer" role="tab" aria-controls="coursestextcontainer" onclick="return showSection('coursestext');" >Courses</a></li>
+		</ul>
+	</div>
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p class="campus_location"><span class="label"><strong>Contact Information: </strong></span><br/>
+<span class="campus_location">Campus Location: 1102 Behavioral Science Building (BSB) <br/>
+<span class="phone">(312) 996–3105</span> <br/>
+<span class="email"><a href="mailto:swhitake@uic.edu">swhitake@uic.edu</a></span> <br/>
+<span class="website"><a href="http://pols.uic.edu/" target="_blank">pols.uic.edu</a></span></span></p>
+<p class="administration"><span class="label"><strong>Administration: </strong></span><br/>
+Head of the Department: Evan McKenzie<br/>
+Director of Undergraduate Studies: Petia Kostadinova</p>
+<p>Political science is the systematic study of politics and its connection to human life as a whole. It focuses on the way people are governed and govern themselves in a wide variety of settings—including the state, the workplace, schools, and the family—and the way in which governance in those settings affects their life chances and shapes their sense of self. Students who elect this major examine, among other things, the relationships between law and political institutions, economic and political power, and culture and political identity. They develop the analytical, interpretive, and critical methods necessary to understand these relationships at local, national, regional, or international levels, and thus, to act as responsible citizens at those levels. They also learn to write well. In short, political science is central to a well-rounded liberal arts education.</p>
+<p>Political science also provides excellent preparation for careers in law, government, teaching, journalism, business, and the nonprofit sector.</p>
+<p>In addition to the BA with a Major in Political Science program, the department offers two concentrations: the Concentration in Law and Courts and the Concentration in Urban Politics.</p>
+<h2>Distinction</h2>
+<p>To be considered for graduation with Distinction in political science, a student must have a minimum, cumulative UIC GPA of 3.25/4.00 and a minimum GPA of 3.50/4.00 in all political science courses. Students with the required grade point averages must write and present to a faculty examining committee of the department an acceptable essay while enrolled in <span class="sc_courseinline"><a href="/search/?P=POLS%20305" title="POLS 305" class="bubblelink code" onclick="return showCourse(this, 'POLS 305');">POLS 305</a></span> and defend it before that committee. The student must enroll in <span class="sc_courseinline"><a href="/search/?P=POLS%20305" title="POLS 305" class="bubblelink code" onclick="return showCourse(this, 'POLS 305');">POLS 305</a></span> for 3 semester hours in each of the fall and spring semesters of the student’s senior year. Both the course and credit hours must be in addition to those required for the major. The level of distinction (Distinction, High Distinction, Highest Distinction) is determined by the department faculty, who will consider the recommendation of the faculty examining committee and the candidate’s GPA.</p>
+</div><!--end #textcontainer -->
+
+			<div id="undergraduateprogramstextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="undergraduateprogramstexttab" aria-hidden="true">
+				<a name="undergraduateprogramstext"></a><h2>Degree Programs</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/ba-pols/">BA with a Major in Political Science</a></li>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/ba-pols-lc-conc/">BA with a Major in Political Science, Concentration in Law and Courts</a></li>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/ba-pols-up-conc/">BA with a Major in Political Science, Concentration in Urban Politics</a></li>
+</ul>
+<h2>Minor</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/minor-pols/">Minor in Political Science</a></li>
+</ul>
+			</div>
+			<div id="coursestextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="coursestexttab" aria-hidden="true">
+				<a name="coursestext"></a><div class="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 101.  Introduction to American Government and Politics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to American political ideas, individual and group political behavior, institutions of national government, and public policy. Course Information: May be taught in blended learning format. Please check the online schedule of classes for blended sections. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture-Discussion.<i>  Individual and Society course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 111.  United States Politics: Current Problems and Controversies.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected current political problems and controversies are analyzed and placed in the context of past and future public policies and the development of political institutions. Course Information: May be repeated to a maximum of 6 hours. May be repeated for credit if topic is different for each registration. Students may register in more than one section per term.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 112.  Black Politics and Culture in the United States.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The shifting relationship between black politics and black cultural forms across various historical periods. Course Information: Same as <a href="/search/?P=BLST%20103" title="BLST 103" class="bubblelink code" onclick="return showCourse(this, 'BLST 103');">BLST 103</a>.<i>  Individual and Society course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 120.  Introduction to Political Theory.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Competing accounts of the relationships among individuals, society, and the state. Analysis of differing conceptions of human nature through readings in ancient and modern classics. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture-Discussion.<i>  Individual and Society course, and  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 130.  Introduction to Comparative Politics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Comparative study of political institutions, political culture, and political processes in selected major countries of the world. Course Information: Same as <a href="/search/?P=INST%20130" title="INST 130" class="bubblelink code" onclick="return showCourse(this, 'INST 130');">INST 130</a>.  Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture-Discussion.<i>  Individual and Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 184.  Introduction to International Relations.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Political, military, and economic relations between states, international organizations and transnational actors. Problems of war, imperialism and the world economy. Prospects for global cooperation. Course Information: Same as <a href="/search/?P=INST%20184" title="INST 184" class="bubblelink code" onclick="return showCourse(this, 'INST 184');">INST 184</a>. Class Schedule Information:  To be properly registered, students must enroll in one Discussion/Recitation and one Lecture-Discussion.<i>  Individual and Society course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 190.  Scope of Political Science.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Politics as law and institutions, markets and power, and culture and identity. Emphasizes writing of essays. Course Information: Prerequisite(s): Seniors require consent of the instructor. Class Schedule Information: To be properly registered, students must enroll in one Discussion/Recitation and one Lecture.<i>  Individual and Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 200.  Methods of Political Science.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Methods of political science. Conducting primary research projects using the methods most frequently employed by political scientists.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 201.  Political Data Analysis.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to basic elements of statistics and data analysis for political science. Includes descriptive and inferential statistics; introduction to UIC computer facility and statistics software. Course Information: Prerequisite(s): <a href="/search/?P=MATH%20090" title="MATH 090" class="bubblelink code" onclick="return showCourse(this, 'MATH 090');">MATH 090</a>; or <a href="/search/?P=MATH%20118" title="MATH 118" class="bubblelink code" onclick="return showCourse(this, 'MATH 118');">MATH 118</a>; and consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 202.  Topics in Political Practice.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in contemporary political practice. Course Information: May be repeated to a maximum of 6 hours if topics vary. Students may register in more than one section per term. Prerequisite(s): <a href="/search/?P=POLS%20101" title="POLS 101" class="bubblelink code" onclick="return showCourse(this, 'POLS 101');">POLS 101</a> or <a href="/search/?P=POLS%20190" title="POLS 190" class="bubblelink code" onclick="return showCourse(this, 'POLS 190');">POLS 190</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 203.  Popular Culture and Politics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+This course uses popular culture and its products to analyze contemporary political themes through the lens of political processes, state and legal institutions, political behavior, and the exercise of power.  Topics may vary. Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=POLS%20101" title="POLS 101" class="bubblelink code" onclick="return showCourse(this, 'POLS 101');">POLS 101</a> or <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 206.  Political Behavior.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to political behavior; includes the structure and functions of political attitudes, the role of personality, political socialization, electoral behavior, and related topics. Course Information: Prerequisite(s): <a href="/search/?P=POLS%20101" title="POLS 101" class="bubblelink code" onclick="return showCourse(this, 'POLS 101');">POLS 101</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 207.  The Mass Media and Politics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Impact of mass media coverage on political attitudes and the conduct of American politics. Communication policies and media institutions in times of rapid technological change. Course Information: Same as <a href="/search/?P=COMM%20207" title="COMM 207" class="bubblelink code" onclick="return showCourse(this, 'COMM 207');">COMM 207</a>. Prerequisite(s): One course in political science, sociology or contemporary history.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 209.  Latinos and Politics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Latino politics and politicians in the context of the American political system. The political system, Latino participation, experience, and research on political processes. Course Information: Same as <a href="/search/?P=LALS%20283" title="LALS 283" class="bubblelink code" onclick="return showCourse(this, 'LALS 283');">LALS 283</a>.  Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<i>  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 210.  Introduction to Urban Politics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Growth and legal problems of cities: intergovernmental relations; powers and forms of government; pressure group activity; municipal functions and services; globalization and global cities; and revenue issues. Course Information: Prerequisite(s): <a href="/search/?P=POLS%20101" title="POLS 101" class="bubblelink code" onclick="return showCourse(this, 'POLS 101');">POLS 101</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 211.  Chicago's Future.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Emphasis on the political and governmental future of Chicago. Covers racial and ethnic politics; metropolitan, city, and neighborhood government; machine versus reform politics; and Chicago as a global city. Course Information: Prerequisite(s): <a href="/search/?P=POLS%20101" title="POLS 101" class="bubblelink code" onclick="return showCourse(this, 'POLS 101');">POLS 101</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 212.  State Government.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Organization and powers of state governments in the U.S.; constitutions and problems of revision; the major institutions and their interrelationships, intergovernmental relations. Course Information: Prerequisite(s): <a href="/search/?P=POLS%20101" title="POLS 101" class="bubblelink code" onclick="return showCourse(this, 'POLS 101');">POLS 101</a> or POLS 103 or <a href="/search/?P=POLS%20190" title="POLS 190" class="bubblelink code" onclick="return showCourse(this, 'POLS 190');">POLS 190</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 224.  Congressional Debate.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Theoretical and practical approaches to preparing for College National Congressional  Debate competition. Course Information: May be repeated to a maximum of 6 hours with the approval of the department. Field trips to conferences required. Conference fee required. Prerequisite(s): <a href="/search/?P=POLS%20228" title="POLS 228" class="bubblelink code" onclick="return showCourse(this, 'POLS 228');">POLS 228</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 225.  Political Interest Groups.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Pluralism, the logic of collective action, the special-interest state, public-interest groups, and corporatism. Course Information: Prerequisite(s): <a href="/search/?P=POLS%20101" title="POLS 101" class="bubblelink code" onclick="return showCourse(this, 'POLS 101');">POLS 101</a> or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 226.  Political Parties.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Historical development, organization, and functioning of state and national parties; committees, conventions, campaigns and finances; party platforms and issues. Course Information: Prerequisite(s): <a href="/search/?P=POLS%20101" title="POLS 101" class="bubblelink code" onclick="return showCourse(this, 'POLS 101');">POLS 101</a> or POLS 103 or <a href="/search/?P=POLS%20190" title="POLS 190" class="bubblelink code" onclick="return showCourse(this, 'POLS 190');">POLS 190</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 227.  Voting Behavior and Elections.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of elections, voting behavior, election law, and voting theories and influences.  Course Information:  Prerequisite(s):  Grade of C or better in <a href="/search/?P=POLS%20101" title="POLS 101" class="bubblelink code" onclick="return showCourse(this, 'POLS 101');">POLS 101</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 228.  U.S. Congress.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the structures and processes of Congressional politics. Emphasis on elections, organization, interinstitutional relations and authorizations and appropriations processes. Course Information: Prerequisite(s): <a href="/search/?P=POLS%20101" title="POLS 101" class="bubblelink code" onclick="return showCourse(this, 'POLS 101');">POLS 101</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 229.  The American Presidency.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of such phenomena as presidential elections; the presidency and the Constitution; the presidency and public administration; the president as policy-maker; presidential leadership. Course Information: Prerequisite(s): <a href="/search/?P=POLS%20101" title="POLS 101" class="bubblelink code" onclick="return showCourse(this, 'POLS 101');">POLS 101</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 231.  Introduction to Chinese Politics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Main issues of contemporary Chinese politics and social change; the decline of the last imperial dynasty; the republican era; the rise of communism and China under the rule of Mao Zedong; and the reform period (post-1978). Course Information: Same as <a href="/search/?P=GLAS%20231" title="GLAS 231" class="bubblelink code" onclick="return showCourse(this, 'GLAS 231');">GLAS 231</a>. Prerequisite(s): <a href="/search/?P=POLS%20130" title="POLS 130" class="bubblelink code" onclick="return showCourse(this, 'POLS 130');">POLS 130</a>; or consent of the instructor.<i>  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 232.  Politics in Korea.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Sources, dynamics, and patterns of politics in the two Koreas. Comparison of North and South Korea. Course Information: Same as <a href="/search/?P=GLAS%20232" title="GLAS 232" class="bubblelink code" onclick="return showCourse(this, 'GLAS 232');">GLAS 232</a>. Prerequisite(s): <a href="/search/?P=POLS%20130" title="POLS 130" class="bubblelink code" onclick="return showCourse(this, 'POLS 130');">POLS 130</a>; or consent of the instructor.<i>  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 234.  Western European Politics and Government.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Comparison of government and politics of major Western European countries. Topics include political culture, political parties, elections, legislatures, executive arrangements, and the European community. Course Information: Prerequisite(s): <a href="/search/?P=POLS%20130" title="POLS 130" class="bubblelink code" onclick="return showCourse(this, 'POLS 130');">POLS 130</a> or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 236.  Politics and Government of Eastern Europe.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Similarities and differences of the political system of eastern European states and the sources and meaning of political change. Course Information: Prerequisite(s): <a href="/search/?P=POLS%20130" title="POLS 130" class="bubblelink code" onclick="return showCourse(this, 'POLS 130');">POLS 130</a> or <a href="/search/?P=POLS%20190" title="POLS 190" class="bubblelink code" onclick="return showCourse(this, 'POLS 190');">POLS 190</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 242.  Government and Politics of Latin America.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An examination of government and politics in selected Latin American countries. Comparative and historical analysis of dictatorship, democracies, political institutions, and parties. Course Information: Same as <a href="/search/?P=LALS%20242" title="LALS 242" class="bubblelink code" onclick="return showCourse(this, 'LALS 242');">LALS 242</a>. Prerequisite(s): Any 100-level course in Latin American and Latino studies or political science.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 243.  Politics and Government of the Middle East.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Contemporary Middle East political institutions, culture, processes, and conflicts. Emphasis on interaction of traditional and modern forces, such as Islam, nationalism, political elites, ideologies, states. Course Information: Same as <a href="/search/?P=JST%20243" title="JST 243" class="bubblelink code" onclick="return showCourse(this, 'JST 243');">JST 243</a>. Prerequisite(s): <a href="/search/?P=POLS%20130" title="POLS 130" class="bubblelink code" onclick="return showCourse(this, 'POLS 130');">POLS 130</a> or <a href="/search/?P=POLS%20190" title="POLS 190" class="bubblelink code" onclick="return showCourse(this, 'POLS 190');">POLS 190</a>; or consent of the instructor.<i>  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 246.  History of American Capitalism.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of the political, economic, cultural, and social history of capitalism in colonial British America and the United States, with special attention to property, labor, finance, public policy, ideology, and class relations. Course Information: Same as <a href="/search/?P=HIST%20246" title="HIST 246" class="bubblelink code" onclick="return showCourse(this, 'HIST 246');">HIST 246</a>. Prerequisite(s): <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>; or consent of the instructor. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Discussion.<i>  Past course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 258.  The Judicial Process.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Dispute settlement and policy making in state and federal court systems; judicial decision making and the impact of decisions on the polity. Course Information: Prerequisite(s): <a href="/search/?P=POLS%20101" title="POLS 101" class="bubblelink code" onclick="return showCourse(this, 'POLS 101');">POLS 101</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 267.  American Intellectual History to 1865.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Major issues in American intellectual history from the contacts of culture begun by European exploration on the land now known as the United States to the end of the American Civil War in 1865. Course Information: Same as <a href="/search/?P=HIST%20267" title="HIST 267" class="bubblelink code" onclick="return showCourse(this, 'HIST 267');">HIST 267</a>. Prerequisite(s): <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>.<i>  Past course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 268.  American Intellectual History since 1865.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Major issues in American intellectual history and the history of ideas from the end of the Civil War to the present. Course Information: Same as <a href="/search/?P=HIST%20268" title="HIST 268" class="bubblelink code" onclick="return showCourse(this, 'HIST 268');">HIST 268</a>. Prerequisite(s): <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<i>  Past course, and  US Society course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 275.  Gender in Latin America.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Latin American women in historical perspective from pre-Columbian and Iberian societies to the present. Course Information: Same as <a href="/search/?P=GWS%20275" title="GWS 275" class="bubblelink code" onclick="return showCourse(this, 'GWS 275');">GWS 275</a> and <a href="/search/?P=LALS%20275" title="LALS 275" class="bubblelink code" onclick="return showCourse(this, 'LALS 275');">LALS 275</a>. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion/Recitation.<i>  Past course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 281.  United States Foreign Policy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Internal and external factors that influence formulation and execution of U.S. foreign policy. Major problems of contemporary foreign policy: constitutional, organizational, and intellectual factors. Course Information: Prerequisite(s): <a href="/search/?P=POLS%20101" title="POLS 101" class="bubblelink code" onclick="return showCourse(this, 'POLS 101');">POLS 101</a> or <a href="/search/?P=POLS%20190" title="POLS 190" class="bubblelink code" onclick="return showCourse(this, 'POLS 190');">POLS 190</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 282.  National Model United Nations.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Students prepare to assume the role of diplomatic representatives at the National Model United Nations Conference. Course Information: May be repeated to a maximum of 6 hours with approval. Approval to repeat course granted by the department. Prerequisite(s): Consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 283.  International Political Economy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Political underpinnings and ramifications of international economic relations. Foreign trade policy, multinational corporations, oil North-South relations, economic warfare. Course Information: Same as <a href="/search/?P=INST%20283" title="INST 283" class="bubblelink code" onclick="return showCourse(this, 'INST 283');">INST 283</a>. Prerequisite(s): <a href="/search/?P=POLS%20184" title="POLS 184" class="bubblelink code" onclick="return showCourse(this, 'POLS 184');">POLS 184</a> or <a href="/search/?P=INST%20184" title="INST 184" class="bubblelink code" onclick="return showCourse(this, 'INST 184');">INST 184</a> or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 284.  International Security.  3 hours.</strong></p>
+<p class="courseblockdesc">
+International conflict and cooperation, including war, nationalism, global inequality, and the environment. Course Information: Same as <a href="/search/?P=INST%20284" title="INST 284" class="bubblelink code" onclick="return showCourse(this, 'INST 284');">INST 284</a>. Prerequisite(s): <a href="/search/?P=POLS%20184" title="POLS 184" class="bubblelink code" onclick="return showCourse(this, 'POLS 184');">POLS 184</a> or <a href="/search/?P=INST%20184" title="INST 184" class="bubblelink code" onclick="return showCourse(this, 'INST 184');">INST 184</a> or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 286.  The United Nations and Other International Organizations.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The development, structure, functioning, and impact of the United Nations and other international organizations. An assessment of their contributions and limitations. Course Information: Prerequisite(s): <a href="/search/?P=POLS%20184" title="POLS 184" class="bubblelink code" onclick="return showCourse(this, 'POLS 184');">POLS 184</a> or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 287.  International Law.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The nature, scope, and limits of international law in the contemporary world. Examines three dimensions of international law: doctrine, practice, and jurisprudence (case-law). Course Information: Prerequisite(s): <a href="/search/?P=POLS%20184" title="POLS 184" class="bubblelink code" onclick="return showCourse(this, 'POLS 184');">POLS 184</a> or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 290.  History of Political Thought I.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Western political theorists from ancient Greece and Rome through the end of the classical era, including Thucydides, Plato, Aristotle, Cicero, and Augustine. Course Information: Prerequisite(s): <a href="/search/?P=POLS%20120" title="POLS 120" class="bubblelink code" onclick="return showCourse(this, 'POLS 120');">POLS 120</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 291.  History of Political Thought II.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Western political theorists from the seventeenth century through modern times, including Machiavelli, Hobbes, Locke, Marx, Mill and Nietzsche. Course Information: Prerequisite(s): <a href="/search/?P=POLS%20120" title="POLS 120" class="bubblelink code" onclick="return showCourse(this, 'POLS 120');">POLS 120</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 295.  Introduction to Marxism.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination and evaluation of the basic theories of Marx and Engels to determine their contribution to the understanding of contemporary politics. Course Information: Prerequisite(s): <a href="/search/?P=POLS%20190" title="POLS 190" class="bubblelink code" onclick="return showCourse(this, 'POLS 190');">POLS 190</a> or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 296.  Fascism and Dictatorship in Southern Europe and the Mediterranean.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Establishment of fascist and authoritarian regimes in 20th-century Spain, Italy and Greece. Fascist ideology, leadership cult, mass politics, violence and propaganda, uses of antiquity, resistance and consent, legacy and memory of fascism. Course Information: Same as <a href="/search/?P=HIST%20296" title="HIST 296" class="bubblelink code" onclick="return showCourse(this, 'HIST 296');">HIST 296</a> and <a href="/search/?P=GKM%20296" title="GKM 296" class="bubblelink code" onclick="return showCourse(this, 'GKM 296');">GKM 296</a>. Taught in English. Prerequisite(s): <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>.<i>  Past course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 297.  American Political Theories.  3 hours.</strong></p>
+<p class="courseblockdesc">
+American political theorists from the colonial period to the present, including Paine, Madison, Hamilton, Thoreau, Calhoun, Sumner, DuBois, and Dewey. Course Information: Prerequisite(s): <a href="/search/?P=POLS%20190" title="POLS 190" class="bubblelink code" onclick="return showCourse(this, 'POLS 190');">POLS 190</a> or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 300.  Symposium on Politics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected problems in politics. Course content and format will vary to adapt to the changing political scene. Course Information: May be repeated to a maximum of 6 hours. Students may register in more than one section per term. Prerequisite(s): Junior or senior standing or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 301.  Field Experience in Political Science.  6 hours.</strong></p>
+<p class="courseblockdesc">
+Provides students an opportunity to apply theoretical knowledge in real life political settings, such as governmental agencies, political parties or interest groups. Course Information: Prerequisite(s): Junior or senior standing; at least 12 credit hours in political science, including courses relevant to the field experience; GPA of 3.00 in political science; and consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 302.  Great Cities Internship.  6 hours.</strong></p>
+<p class="courseblockdesc">
+Provides students an opportunity to apply theoretical knowledge and conduct research in metropolitan organizations through field placements and seminars. Course Information: Same as <a href="/search/?P=UPP%20302" title="UPP 302" class="bubblelink code" onclick="return showCourse(this, 'UPP 302');">UPP 302</a>. Prerequisite(s): Junior or senior standing and grade point average of 3.00, or consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 303.  Supervised Readings and Research.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Supervised readings and research in political science. Course Information: May be repeated to a maximum of 6 hours. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor. Class Schedule Information: This course counts toward the limited number of independent study hours accepted toward the degree and the major.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 305.  Honors Course.  3-6 hours.</strong></p>
+<p class="courseblockdesc">
+Independent reading and research for students seeking departmental distinction. Course Information: May be repeated to a maximum of 6 hours. Prerequisite(s):  A 3.25 University grade point average and a 3.50 political science grade point average and approval of the department. Open only to seniors. Class Schedule Information: This course counts toward the limited number of independent study hours accepted toward the degree and the major.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 307.  Political Psychology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of mass and elite political behavior from the perspectives of several psychological approaches including psychoanalytic, behavioral, humanistic and social psychology theories. Course Information: Prerequisite(s): One course in political science, psychology, or sociology.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 309.  Topics in Political Behavior.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Intensive analysis of topics in political behavior. Possible topics include: elections and campaigns, political culture. Course Information: May be repeated to a maximum of 6 hours. Prerequisite(s): <a href="/search/?P=POLS%20206" title="POLS 206" class="bubblelink code" onclick="return showCourse(this, 'POLS 206');">POLS 206</a> or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 310.  Governing the Megalopolis.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examination of political/governmental issues in massive metropolitan areas, utilizing the six-county greater Chicago area for example. Course Information: Prerequisite(s): <a href="/search/?P=POLS%20101" title="POLS 101" class="bubblelink code" onclick="return showCourse(this, 'POLS 101');">POLS 101</a> or <a href="/search/?P=POLS%20200" title="POLS 200" class="bubblelink code" onclick="return showCourse(this, 'POLS 200');">POLS 200</a> or the equivalent or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 311.  Black Politics in the United States.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Historical analysis of Black electoral politics in the U.S., including traditional political party participation and movement politics. Course Information: Same as <a href="/search/?P=BLST%20306" title="BLST 306" class="bubblelink code" onclick="return showCourse(this, 'BLST 306');">BLST 306</a>. Prerequisite(s): Three courses in political science, history or sociology, or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 312.  Topics in Local Politics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Intensive examination of selected problems of local politics. Actual research involvement. Topics vary. Course Information: Prerequisite(s): <a href="/search/?P=POLS%20101" title="POLS 101" class="bubblelink code" onclick="return showCourse(this, 'POLS 101');">POLS 101</a> and <a href="/search/?P=POLS%20210" title="POLS 210" class="bubblelink code" onclick="return showCourse(this, 'POLS 210');">POLS 210</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 329.  Seminar on American Politics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced seminar on special topics in American politics. Content varies. Course Information: May be repeated to a maximum of 6 hours. Prerequisite(s): <a href="/search/?P=POLS%20101" title="POLS 101" class="bubblelink code" onclick="return showCourse(this, 'POLS 101');">POLS 101</a> and <a href="/search/?P=POLS%20200" title="POLS 200" class="bubblelink code" onclick="return showCourse(this, 'POLS 200');">POLS 200</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 342.  European Union: Politics and Institutions.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An overview of the historical development of the European Union, with a focus on the functioning of its political institutions and policy-making process. Course Information: Prerequisite(s): <a href="/search/?P=POLS%20130" title="POLS 130" class="bubblelink code" onclick="return showCourse(this, 'POLS 130');">POLS 130</a> or consent of the instructor. Recommended background: <a href="/search/?P=POLS%20286" title="POLS 286" class="bubblelink code" onclick="return showCourse(this, 'POLS 286');">POLS 286</a> or a major in Political Science. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 348.  Seminar: Political Problems of Developing Societies.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected aspects of the politics and countries of Asia, Africa and Latin America. Course Information: Same as <a href="/search/?P=LALS%20348" title="LALS 348" class="bubblelink code" onclick="return showCourse(this, 'LALS 348');">LALS 348</a>. Prerequisite(s): <a href="/search/?P=POLS%20200" title="POLS 200" class="bubblelink code" onclick="return showCourse(this, 'POLS 200');">POLS 200</a> and <a href="/search/?P=POLS%20130" title="POLS 130" class="bubblelink code" onclick="return showCourse(this, 'POLS 130');">POLS 130</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 349.  Topics in Comparative Politics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected problems in comparative politics. Course Information: Same as <a href="/search/?P=INST%20349" title="INST 349" class="bubblelink code" onclick="return showCourse(this, 'INST 349');">INST 349</a>. May be repeated to a maximum of 6 hours if topics vary. Prerequisite(s): <a href="/search/?P=POLS%20130" title="POLS 130" class="bubblelink code" onclick="return showCourse(this, 'POLS 130');">POLS 130</a> or <a href="/search/?P=INST%20130" title="INST 130" class="bubblelink code" onclick="return showCourse(this, 'INST 130');">INST 130</a> and <a href="/search/?P=POLS%20200" title="POLS 200" class="bubblelink code" onclick="return showCourse(this, 'POLS 200');">POLS 200</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 353.  Constitutional Law.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected constitutional provisions and principles as they developed through Supreme Court interpretation. Major attention given to powers and practices of, and interactions among governmental institutions. Course Information: Prerequisite(s): <a href="/search/?P=POLS%20101" title="POLS 101" class="bubblelink code" onclick="return showCourse(this, 'POLS 101');">POLS 101</a> or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 354.  The Constitution and Civil Liberties.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Civil rights, including religion, speech, assembly, press, and rights of the accused. Course Information: Prerequisite(s): <a href="/search/?P=POLS%20101" title="POLS 101" class="bubblelink code" onclick="return showCourse(this, 'POLS 101');">POLS 101</a> or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 356.  Constitutional Law:  Women, Gender and Privacy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A multidisciplinary examination of U.S. constitutional law and politics in shaping issues of gender, privacy, race, and sexual orientation; including reproduction, labor, sexual harassment, political participation, and women and crime. Course Information: Same as <a href="/search/?P=BLST%20356" title="BLST 356" class="bubblelink code" onclick="return showCourse(this, 'BLST 356');">BLST 356</a>, and <a href="/search/?P=GWS%20356" title="GWS 356" class="bubblelink code" onclick="return showCourse(this, 'GWS 356');">GWS 356</a>. Prerequisite(s): Grade of C or better in <a href="/search/?P=POLS%20101" title="POLS 101" class="bubblelink code" onclick="return showCourse(this, 'POLS 101');">POLS 101</a> or grade of C or better in <a href="/search/?P=POLS%20112" title="POLS 112" class="bubblelink code" onclick="return showCourse(this, 'POLS 112');">POLS 112</a> or grade of C or better in <a href="/search/?P=BLST%20100" title="BLST 100" class="bubblelink code" onclick="return showCourse(this, 'BLST 100');">BLST 100</a> or grade of C or better in <a href="/search/?P=BLST%20103" title="BLST 103" class="bubblelink code" onclick="return showCourse(this, 'BLST 103');">BLST 103</a> or grade of C or better in <a href="/search/?P=GWS%20101" title="GWS 101" class="bubblelink code" onclick="return showCourse(this, 'GWS 101');">GWS 101</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 358.  Constitutional Law: African-American Legal History.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of the African-American constitutional experience from the 1600s to the present, focusing on landmark decisions of the United States Supreme Court. Course Information: Same as <a href="/search/?P=BLST%20358" title="BLST 358" class="bubblelink code" onclick="return showCourse(this, 'BLST 358');">BLST 358</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 359.  Topics in Public Law.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected problems arising in public law and judicial arenas. Course Information: May be repeated to a maximum of 6 hours if topics vary. Prerequisite(s): <a href="/search/?P=POLS%20258" title="POLS 258" class="bubblelink code" onclick="return showCourse(this, 'POLS 258');">POLS 258</a> or <a href="/search/?P=POLS%20353" title="POLS 353" class="bubblelink code" onclick="return showCourse(this, 'POLS 353');">POLS 353</a> or <a href="/search/?P=POLS%20354" title="POLS 354" class="bubblelink code" onclick="return showCourse(this, 'POLS 354');">POLS 354</a> or <a href="/search/?P=POLS%20356" title="POLS 356" class="bubblelink code" onclick="return showCourse(this, 'POLS 356');">POLS 356</a> or <a href="/search/?P=POLS%20358" title="POLS 358" class="bubblelink code" onclick="return showCourse(this, 'POLS 358');">POLS 358</a> or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 384.  International Relations Theory.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Philosophical foundations of international relations, including assumptions of anarchy, rationality, power and the state. Applications to security and political economy. Course Information: Prerequisite(s): <a href="/search/?P=POLS%20283" title="POLS 283" class="bubblelink code" onclick="return showCourse(this, 'POLS 283');">POLS 283</a> or <a href="/search/?P=POLS%20284" title="POLS 284" class="bubblelink code" onclick="return showCourse(this, 'POLS 284');">POLS 284</a> or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 389.  Seminar: Topics in International Relations.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in international relations. Topics may vary and may cover global military, economic, cultural, ecological or methodological issues. Course Information: May be repeated to a maximum of 6 hours if topics vary. Prerequisite(s): <a href="/search/?P=POLS%20184" title="POLS 184" class="bubblelink code" onclick="return showCourse(this, 'POLS 184');">POLS 184</a> or <a href="/search/?P=INST%20184" title="INST 184" class="bubblelink code" onclick="return showCourse(this, 'INST 184');">INST 184</a>; and <a href="/search/?P=POLS%20200" title="POLS 200" class="bubblelink code" onclick="return showCourse(this, 'POLS 200');">POLS 200</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 399.  Seminar in Political Theory.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics and problems in political theory. Course Information: May be repeated to a maximum of 6 hours. Prerequisite(s): <a href="/search/?P=POLS%20120" title="POLS 120" class="bubblelink code" onclick="return showCourse(this, 'POLS 120');">POLS 120</a> and <a href="/search/?P=POLS%20200" title="POLS 200" class="bubblelink code" onclick="return showCourse(this, 'POLS 200');">POLS 200</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 401.  Data Analysis I.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Statistical inference for the social sciences. Emphasis on univariate and bivariate statistics. Course Information: Same as <a href="/search/?P=PPA%20401" title="PPA 401" class="bubblelink code" onclick="return showCourse(this, 'PPA 401');">PPA 401</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=POLS%20200" title="POLS 200" class="bubblelink code" onclick="return showCourse(this, 'POLS 200');">POLS 200</a> and <a href="/search/?P=POLS%20201" title="POLS 201" class="bubblelink code" onclick="return showCourse(this, 'POLS 201');">POLS 201</a>; or graduate standing.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 405.  The Problem of Justice.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Pre-modern, modern and non-western views of justice and their practical utility in analyzing legislative, executive, and judicial programs for enhancing or restricting justice. Course Information: Same as <a href="/search/?P=CLJ%20405" title="CLJ 405" class="bubblelink code" onclick="return showCourse(this, 'CLJ 405');">CLJ 405</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=CLJ%20101" title="CLJ 101" class="bubblelink code" onclick="return showCourse(this, 'CLJ 101');">CLJ 101</a>, plus two 200-level courses in CLJ or two 200-level courses in POLS.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 451.  Law and Public Policy.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+The role of law and legal institutions in the development and implementation of public policies. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 459.  Advanced Topics in Urban Politics.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Seminar exploring urban politics theory through readings, discussion, and original research. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated if topics vary. Prerequisite(s): <a href="/search/?P=POLS%20210" title="POLS 210" class="bubblelink code" onclick="return showCourse(this, 'POLS 210');">POLS 210</a>; or graduate standing; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 465.  Topics in Sociology of Politics.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Intensive examination of a specialized topic announced when the class is scheduled. Course Information: Same as <a href="/search/?P=SOC%20465" title="SOC 465" class="bubblelink code" onclick="return showCourse(this, 'SOC 465');">SOC 465</a>. 3 undergraduate hours. 4 graduate hours. May be repeated to a maximum of 12 hours. Students may register in more than one section per term. Prerequisite(s): 6 hours of upper-division sociology or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 467.  Public Opinion and Political Communication.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Nature of public opinion and political communication systems. Patterns of opinion distribution and its measurement. Forces shaping public opinion and its impact on public policy. Course Information: Same as <a href="/search/?P=COMM%20467" title="COMM 467" class="bubblelink code" onclick="return showCourse(this, 'COMM 467');">COMM 467</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=POLS%20200" title="POLS 200" class="bubblelink code" onclick="return showCourse(this, 'POLS 200');">POLS 200</a> or the equivalent or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 469.  Advanced Topics in American Politics.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Seminar exploring American politics theory through readings, discussion, and original research. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated if  topics vary. Prerequisite(s): Grade of B or better in <a href="/search/?P=POLS%20101" title="POLS 101" class="bubblelink code" onclick="return showCourse(this, 'POLS 101');">POLS 101</a> and Grade of B or better in <a href="/search/?P=POLS%20329" title="POLS 329" class="bubblelink code" onclick="return showCourse(this, 'POLS 329');">POLS 329</a>; or graduate standing; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 478.  Advanced Topics in International Relations.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Seminar exploring international relations theory through readings, discussion, and original research. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated if topics vary. Prerequisite(s): Grade of B or better in <a href="/search/?P=POLS%20184" title="POLS 184" class="bubblelink code" onclick="return showCourse(this, 'POLS 184');">POLS 184</a>; and Grade of B or better in <a href="/search/?P=POLS%20281" title="POLS 281" class="bubblelink code" onclick="return showCourse(this, 'POLS 281');">POLS 281</a> or Grade of B or better in <a href="/search/?P=POLS%20283" title="POLS 283" class="bubblelink code" onclick="return showCourse(this, 'POLS 283');">POLS 283</a> or Grade of B or better in <a href="/search/?P=POLS%20284" title="POLS 284" class="bubblelink code" onclick="return showCourse(this, 'POLS 284');">POLS 284</a>; or graduate standing; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 479.  Advanced Topics in Comparative Politics.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Seminar exploring comparative politics theory through readings, discussion, and original research. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated if topics vary. Prerequisite(s): Grade of B or better in <a href="/search/?P=POLS%20130" title="POLS 130" class="bubblelink code" onclick="return showCourse(this, 'POLS 130');">POLS 130</a> and Grade of B or better in <a href="/search/?P=POLS%20349" title="POLS 349" class="bubblelink code" onclick="return showCourse(this, 'POLS 349');">POLS 349</a>; or graduate standing; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 482.  Theories of Democracy and Representation.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Democracy as a procedure of government and value commitments associated with this form of government. Special attention paid to classical and modern democracies. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Graduate standing or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 485.  Gender and Politics.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Impact of gender on basic categories of western political thought. Distinctions between reason and emotion, public and private, among others, examined from feminist perspective. Course Information: Same as <a href="/search/?P=GWS%20485" title="GWS 485" class="bubblelink code" onclick="return showCourse(this, 'GWS 485');">GWS 485</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=POLS%20190" title="POLS 190" class="bubblelink code" onclick="return showCourse(this, 'POLS 190');">POLS 190</a> and one 200-level course in political theory; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 489.  Advanced Topics in Political Theory.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Seminar exploring political theory through reading, discussion, and original research. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated if topics vary. Prerequisite(s): Grade of B or better in <a href="/search/?P=POLS%20290" title="POLS 290" class="bubblelink code" onclick="return showCourse(this, 'POLS 290');">POLS 290</a> or Grade of B or better in <a href="/search/?P=POLS%20291" title="POLS 291" class="bubblelink code" onclick="return showCourse(this, 'POLS 291');">POLS 291</a>; or graduate standing; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 494.  Topics in Political Science.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Selected Topics in Political Science. Topics vary and may cover American politics, law, urban and global politics, cultural, ecological or methodological issues. Course Information: May be repeated up to 1 time(s). Prerequisite(s): <a href="/search/?P=POLS%20190" title="POLS 190" class="bubblelink code" onclick="return showCourse(this, 'POLS 190');">POLS 190</a> and <a href="/search/?P=POLS%20200" title="POLS 200" class="bubblelink code" onclick="return showCourse(this, 'POLS 200');">POLS 200</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 497.  Directed Readings in Political Science.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Intensive readings on a topic not covered in regular curriculum. Course Information: May be repeated with approval. Approval of the graduate director required to repeat course. Prerequisite(s): Graduate standing and consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>POLS 498.  Independent Research in Political Science.  2-6 hours.</strong></p>
+<p class="courseblockdesc">
+Research on special problems not included in course offerings. May not duplicate work done in <a href="/search/?P=POLS%20598" title="POLS 598" class="bubblelink code" onclick="return showCourse(this, 'POLS 598');">POLS 598</a> or <a href="/search/?P=POLS%20599" title="POLS 599" class="bubblelink code" onclick="return showCourse(this, 'POLS 599');">POLS 599</a>. Course Information: May be repeated with approval. Approval of the graduate director required to repeat course.  Prerequisite(s): Graduate standing and consent of the instructor.<br/>
+</p>
+</div></div>
+<p>c</p>
+			</div>
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="pols.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,317 @@
+https://catalog.webhost.uic.edu/ucat/cat1315archive/
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/template_1315_archive.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<!-- InstanceBeginEditable name="doctitle" -->
+<title>UIC Undergraduate Catalog | 2013–2015 Undergraduate Catalog</title>
+<!-- InstanceEndEditable -->
+<meta name="Description" content="" />
+
+	<meta name="University of Illinois at Chicago" content="" />
+
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+	<!-- CSS
+  ================================================== -->
+	<link href="styles/layout.css" rel="stylesheet" type="text/css" />
+	<link href="styles/ucat_catalog_styles.css" rel="stylesheet" type="text/css" />
+	<link href="styles/main.css" rel="stylesheet" type="text/css" />
+	<link href="styles/header_blue.css" rel="stylesheet" type="text/css" />
+	<link href="styles/dropdown.css" rel="stylesheet" type="text/css" />
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Favicons
+	================================================== -->
+
+
+<style type="text/css">
+</style>
+<script type="text/javascript"> 
+<!--//--><![CDATA[//><!--
+
+function clickTextbox (elementID) {
+  var theObject = document.getElementById(elementID);
+   if (theObject.value == 'Search website...') {
+     theObject.value = "";
+   }
+ return true;
+ }
+
+function blurTextbox (elementID) {
+  var theObject = document.getElementById(elementID);
+  var theObjectValue = theObject.value;
+  theObjectValue = theObjectValue.replace(/ /g,"");
+    if (theObjectValue == "") {
+     theObject.value = 'Search website...';
+     }
+  return true;
+  }
+  
+ function showMenu() { 
+ }
+ 
+ function roll(img_name, img_src)
+   {
+   document[img_name].src = img_src;
+   }
+
+//-->
+  
+//--><!]]>
+</script>
+		<script src="assets/scripts/respond.js" type="application/javascript"></script>
+
+		<script src="assets/scripts/rwd-nav.js" type="application/javascript"></script>
+    <script>
+//	$(document).ready(function() {
+//	$('#menu').hover(
+//		function (){
+//     $('ul ul').show();
+//			$('.menu').stop().animate({"height": '252px'}, {duration: 400 });
+//			},
+//		function (){
+//			$('.menu').stop().animate({"height": '50px'}, {duration: 400 });
+//	     $('ul ul').hide();
+//		}
+//		);
+//	});
+   </script>
+ 
+
+ <!-- topmenu -->
+ 
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+</head>
+<body onload="showMenu()">
+<a href="#content" class="offPage">Skip navigation</a>
+<div id="top">
+<div id="header"> <a href="http://www.uic.edu"><img src="images/uic_logo_250x40.png" alt="UIC Office of Academic &amp; Enrollment Services" width="250" height="40" border="0" align="left" class="logo" /></a>  <a href="index.shtml"><img src="images/uic_undergrad_catalog_logo_archived.png" alt="UIC Office of Academic &amp; Enrollment Services" width="360" height="60" border="0" align="left" class="logo" /></a>
+
+   <div id="topNav_01">
+    <div id="topLinks"> <a href="links.html">Past Catalogs</a>   <a href="links.html">Links</a>
+    </div>  
+  </div>
+  
+
+</div> <!-- // end div header -->
+
+</div> <!-- // end div top -->
+<div id="container">
+<div id="menu" class="menu">
+  <h2 class="offPage">Top Navigation</h2>
+    <ul id="topNav2" class="topNav2">
+      <li class="top-level item-with-ul"><a href="university.html" class="topLVL link-with-ul">The University</a>
+        <h6 class="offPage">The University</h6>
+        <ul class="sub-menu">
+                <li class="subLVL"><a href="CA.shtml">Academic Calendar</a></li>
+                <li class="subLVL"><a href="UN.shtml">Welcome to UIC</a></li>
+                <li class="subLVL"><a href="SS.shtml">The Savvy Student’s Guide to UIC</a></li>
+				<li class="subLVL"><a href="FL.shtml">Faculty List</a></li>
+                <li class="subLVL"><a href="http://www.uic.edu/uic/about/visit/campus-maps.shtml">Campus Maps</a></li>
+                <li class="subLVL"><a href="http://www.uic.edu/uic/about/visit/parking-bus.shtml">Parking and Transportation</a></li>
+        </ul>
+      </li>
+
+      <li class="top-level item-with-ul"><a href="admissions_registration.html" class="topLVL link-with-ul">Admissions &amp; Registration </a>
+        <h6 class="offPage">Graduate Study</h6>
+        <ul class="sub-menu">
+   			<li class="subLVL"><a href="AR.shtml">Admissions</a></li>
+			<li class="subLVL"><a href="ARE.shtml">Registering and Enrolling in Courses at UIC</a></li>
+			<li class="subLVL"><a href="SC.shtml">Student Tuition and Fees</a></li>
+			<li class="subLVL"><a href="FA.shtml">Financial Aid</a></li>
+
+        </ul>
+      </li>
+
+      <li class="top-level item-with-ul"><a href="degree-programs.html" class="topLVL link-with-ul">Degree Programs</a>
+        <h6 class="offPage">Degree Programs</h6>
+        <ul class="sub-menu">
+			<li class="subLVL"><a href="DPML.shtml">Degree Program and Minor List</a></li>
+			<li class="subLVL"><a href="PU.shtml">Program Changes and Updates</a></li>
+			<li class="subLVL"><a href="AS.shtml">Academic Standing</a></li>
+			<li class="subLVL"><a href="AP.shtml">Academic Planning and Progress</a></li>
+			<li class="subLVL"><a href="GE.shtml">General Education</a></li>
+			<li class="subLVL"><a href="GR.shtml">University Degree Requirements, Graduation, and Commencement</a></li>
+        </ul>
+      </li>
+      
+      <li class="top-level item-with-ul"><a href="colleges-depts.html" class="topLVL link-with-ul">Colleges &amp; Depts</a>
+        <h6 class="offPage">Colleges &amp; Schools</h6>
+        <ul class="sub-menu">
+            <li class="subLVL"><a href="HP.shtml">College of Applied Health Sciences</a></li>
+			<li class="subLVL"><a href="AA.shtml">College of Architecture, Design, and the Arts</a></li>
+			<li class="subLVL"><a href="BA.shtml">College of Business Administration</a></li>
+			<li class="subLVL"><a href="ED.shtml">College of Education</a></li>
+			<li class="subLVL"><a href="EG.shtml">College of Engineering</a></li>
+			<li class="subLVL"><a href="HC.shtml">Honors College</a></li>
+			<li class="subLVL"><a href="LA.shtml">College of Liberal Arts and Sciences</a></li>
+			<li class="subLVL"><a href="NU.shtml">College of Nursing</a></li>
+			<li class="subLVL"><a href="PM.shtml">College of Pharmacy</a></li>
+			<li class="subLVL"><a href="SPH.shtml">School of Public Health</a></li>
+			<li class="subLVL"><a href="CUPPA.shtml">College of Urban Planning and Public Affairs</a></li>
+
+        </ul>
+      </li>
+<!--      
+           <li class="top-level item-with-ul"><a href="../links.html" class="topLVL link-with-ul">Links</a></a>
+        <h6 class="offPage">Links</h6>
+        <ul class="sub-menu">
+       		<li class="subLVL"><a href="https://catalog.webhost.uic.edu/ucat/cat1113archive/">2011-2013 Undergraduate Catalog (Archived Version)</a></li>
+        	<li class="subLVL"><a href="https://catalog.webhost.uic.edu/ucat/cat0911/pdf/">2009-2011 Undergraduate Catalog (PDF of published version)</a></li>
+			<li class="subLVL"><a href="https://catalog.webhost.uic.edu/ucat/toc.html">2007-2009 Undergraduate Catalog (PDF of published version)</a></li>
+			<li class="subLVL"><a href="2005UndergraduateCatalog.pdf">2005-2007 Undergraduate Catalog (PDF of published version)</a></li>
+			<li class="subLVL"><a href="2003UndergraduateCatalog.pdf">2003-2005 Undergraduate Catalog (PDF of published version)</a></li>
+			<li class="subLVL"><a href="http://www.uic.edu/gcat">Graduate College Catalog</a></li>
+			<li class="subLVL"><a href="https://catalog.webhost.uic.edu/ucat/courses/">Graduate Course Descriptions</a></li>
+			<li class="subLVL"><a href="https://ossswebcs.admin.uillinois.edu/PORTAL_UIC/classsch.html">Schedule of Classes</a></li>
+			<li class="subLVL"><a href="http://www.uic.edu/depts/oae/">Office of Access and Equity</a></li>
+			<li class="subLVL"><a href="http://get.adobe.com/reader/">Download PDF Reader Plug-In</a></li>
+        </ul>
+      </li>
+
+
+-->
+
+
+
+    <li class="top-level item-with-ul"><a href="courses/index.html" class="topLVL link-with-ul">Course Descriptions</a>
+         <h6 class="offPage">Course Descriptions</h6>
+     </li>
+
+    </ul>
+</div> <!-- // end div menu -->
+<div id="leftNav">
+   <h3 class="offPage">Section navigation</h3>
+        <ul>
+    <li class="nav-current"><a href="#">Go to Section...</a></li>
+    <li><a href="university.html">The University</a></li>
+    <li><a href="admissions_registration.html">Admissions &amp; Registration</a></li>
+    <li><a href="degree-programs.html">Degree Programs</a></li>
+    <li><a href="colleges_schools.html">Colleges &amp; Departments</a></li>
+    <li><a href="courses/index.html">Course Descriptions</a></li>
+    <li><a href="links.html">Links</a><a href="prospective_students/forms.html"></a></li>
+        </ul>
+</div><!-- // end div leftnav -->
+<div id="breadcrumb">
+<!-- InstanceBeginEditable name="breadcrumb" -->	    <!-- InstanceEndEditable -->
+</div><!-- // end div breadcrumb -->
+<div id="content">
+<div class="H1box"> 
+	<!-- InstanceBeginEditable name="Header (Use H1 tag - must be same as title)" --> 
+			<h1>2013&ndash;2015 Undergraduate Catalog</h1>
+	  <!-- InstanceEndEditable --> 
+	</div><!--H1box-->
+ <p class="yellowBox">Important Note: This is the archived version of the 2013–2015 Undergraduate Catalog. The information on these pages was archived on August 6, 2013 and will not be updated as requirement and/or program changes are approved.  Please see <a href="https://catalog.webhost.uic.edu/ucat/">www.uic.edu/ucat</a> for the most up-to-date requirements.</p>
+ 
+ <!-- InstanceBeginEditable name="Content" -->
+<h2 class="clsHead">How to Use the Online Catalog</h2>
+<p>The online catalog is a record of the 2013<em>&#8211;</em>2015 academic years. It is for informational purposes only and does not constitute a contract. Faculty assignments and programs listed are subject to change, and individual departments and units should be consulted for further information. Courses are not necessarily offered each term or each year. Individual departments or units should be consulted for information regarding regularity of course offerings. </p>
+<p>The online catalog includes a comprehensive list of <a 
+href="https://catalog.webhost.uic.edu/ucat/catalog/DPML.shtml"><em>Degree Programs and Minors</em></a> by college. This list is a 
+useful tool for exploring and understanding UIC's undergraduate academic 
+programs and requirements.</p>
+<p> The online catalog is updated regularly as degree programs, courses, and requirements change. A list of program and requirement changes is located under <em>Degree Programs and Planning</em>. </p>
+<p>The archived versions of the <em><a href="../cat1113archive/">2011&#8211;2013 Undergraduate Catalog</a>,</em><a href="../cat0911/pdf"><em> 2009&#8211;2011 Undergraduate Catalog</em></a>, <em><a href="../toc.html">2007&#8211;2009 Undergraduate Catalog</a>, <a href="2005UndergraduateCatalog.pdf">2005<em>&#8211;</em>2007 Undergraduate Catalog,</a></em> and <a href="2003UndergraduateCatalog.pdf"><em>2003&#8211;2005 Undergraduate Catalog </em></a>are available under the Links menu.</p>
+<p>The online catalog is an academic planning tool for undergraduate students. The online catalog is divided into six major sections:</p>
+<ul style="margin-top: 0;">
+  <li>The University</li>
+  <li>Admissions &amp; Registration</li>
+  <li>Degree Programs</li>
+  <li>Colleges and Departments</li>
+  <li>Course Descriptions</li>
+  <li>Links</li>
+</ul>
+<p>Each section of the online catalog provides information necessary for the academic planning process. A brief description of each section is provided below.</p>
+<h3>The University</h3>
+<p>The <em>University</em> section provides a helpful overview of the University of Illinois at Chicago. </p>
+<h3>Admissions &amp; Registration</h3>
+<p>The A<em>dmissions, Registration, and Finances</em> section covers undergraduate admissions, enrollment and registration procedures, tuition and fees, and financial aid. </p>
+<h3>Degree Programs</h3>
+<p>The <em>Degree Programs and Planning</em> section lists all degree programs and minors available to undergraduate students. It also includes information on program and requirement changes, University degree requirements, grading, advising, and graduation. These topics help students define academic standards and track their progress toward degree completion. </p>
+<h3>Colleges &amp; Departments</h3>
+<p>The <em>Colleges and Departments</em> section describes all of UIC&rsquo;s undergraduate degree programs and their requirements in detail. Students use this section of the catalog to ensure that they understand and meet all requirements for their degree program.</p>
+<h3>Course Descriptions</h3>
+<p>The <em>Course Descriptions</em> section lists all the undergraduate courses at UIC. The course descriptions are arranged alphabetically by subject area. Each course description includes a rubric (subject area abbreviation), course number, course title, semester hours, prerequisites (if any), and course content. A list of rubrics may be found at the beginning of the <em>Course Descriptions</em> section.</p>
+<p>The catalog includes all undergraduate courses at UIC. However, not all courses are offered during a given semester. To determine which courses are being offered, students should consult the <em>Schedule of Classes</em> through<em> my.UIC</em> before registration begins.</p>
+<h3>Links </h3>
+<p>The <em>Links</em> section lists additional documents and websites that are useful in the academic planning process.</p>
+<p>&nbsp;</p>
+    <!-- InstanceEndEditable -->
+<p class="last">&nbsp;</p>
+
+</div> <!-- // end div content -->
+</div> <!-- // end div container -->
+<div id="bottom">
+  <div id="footer">
+      <div id="bottomSocial">
+     	<br />
+     <a href="http://uic.edu/depts/oar"><img src="images/aes_logo_sq_102x102.png" alt="Go to Facebook..." name="fb_but" border="0" id="fb_but" /></a>
+
+	</div> <!-- // end div bottomSocial -->
+
+    <div class="bottomNav">
+<!--      <h2><a href="../prospective_students/index.html">UIC Admissions</a></h2>
+      <ul>
+        <li> <a href="../undergrad/index.html">Undergraduate</a></li>
+        <li><a href="../grad/index.html">Graduate</a></li>
+        <li><a href="../professional/index.html">Professional</a></li>
+      </ul>
+      <h2><a href="../current_students/index.html">UIC Registrar</a></h2>
+      <ul>
+        <li> <a href="../current_students/index.html">Current &amp; Former Students</a></li>
+        <li><a href="../uic_faculty_staff/index.html">UIC Faculty &amp; Staff</a><br />
+        </li>
+        <li><a href="../oar_staff/index.html">AES Staff</a></li></ul>-->
+    </div>
+    <!-- end of div bottomNav -->
+<div class="bottomNav">
+  <p><a href="http://www.uic.edu/depts/oar/grad/apply_undergrad.html">Apply Online</a> | <a href="http://www.uic.edu/depts/oar/contact/">Contact Admissions</a></p>
+  <p><a href="www.uic.edu/ucat/catalog/">UIC Undergraduate Catalog Home</a> | <a href="http://www.uic.edu/">UIC Home</a></p>
+ <p>Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.</p>
+ <p>&copy; 2013  The Board of Trustees of the University of Illinois </p>
+<!--   <h2>&nbsp;</h2>
+  <h2><a href="../contact/index.html">UIC Office of Admissions/Registrar</a></h2>
+  <ul>
+     <li>1200 W. Harrison St.  (Street address)<br />
+      Chicago, Illinois 60607-7161</li>
+    <li><br />
+      Open: Monday - Friday, 8:30-5:00pm<br />
+      Phone: 312-996-4350</li>
+  </ul>
+    <h2><a href="../contact/index.html">Contact UIC Admissions/Registrar</a></h2>
+      <ul>
+     <li><a href="../contact/index.html">Mailing address - Email</a></li>
+  </ul>-->
+</div> <!-- end of div bottomNav -->
+<br clear="all" />
+    <div id="bottomSocialMobile">
+      <a href="prospective_students/social.html"  
+      onmouseover="roll('fb_but2', 'http://uic.edu/depts/oar/images/facebook_64x64_color.png')"  
+      onmouseout="roll('fb_but2', 'http://uic.edu/depts/oar/images/facebook_64x64_bw.png')">
+    	<img src="images/facebook_64x64_bw.png" alt="Go to Facebook..." id="fb_but2" name="fb_but2" /></a>
+      <a href="prospective_students/social.html"  
+      onmouseover="roll('twit_but2', 'http://uic.edu/depts/oar/images/twitter_64x64_color.png')"  
+      onmouseout="roll('twit_but2', 'http://uic.edu/depts/oar/images/twitter_64x64_bw.png')">
+ 		<img src="images/twitter_64x64_bw.png" alt="Go to Twitter..." id="twit_but2" name="twit_but2" /></a>
+	</div> <!-- // end div bottomSocialMobile -->
+
+  <img src="images/uic_sign.png" class="bottomImage" alt="UIC Sign in front of Chicago Skyline" />
+ </div></div>
+ <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10917588-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body><!-- InstanceEnd --></html>

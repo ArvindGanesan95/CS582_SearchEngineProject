@@ -1,0 +1,768 @@
+https://catalog.uic.edu/all-course-descriptions/econ/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Economics (ECON) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="isparent"><a href="/ucat/">Undergraduate Catalog</a></li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="active isparent"><a href="/all-course-descriptions/">All Course Descriptions</a>
+	<ul class="nav levelone" id="/all-course-descriptions/">
+		<li><a href="/all-course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+		<li><a href="/all-course-descriptions/actg/">Accounting (ACTG)</a></li>
+		<li><a href="/all-course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+		<li><a href="/all-course-descriptions/anth/">Anthropology (ANTH)</a></li>
+		<li><a href="/all-course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+		<li><a href="/all-course-descriptions/arab/">Arabic (ARAB)</a></li>
+		<li><a href="/all-course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+		<li><a href="/all-course-descriptions/arch/">Architecture (ARCH)</a></li>
+		<li><a href="/all-course-descriptions/art/">Art (ART)</a></li>
+		<li><a href="/all-course-descriptions/ah/">Art History (AH)</a></li>
+		<li><a href="/all-course-descriptions/bms/">Basic Medical Sciences (BMS)</a></li>
+		<li><a href="/all-course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+		<li><a href="/all-course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+		<li><a href="/all-course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+		<li><a href="/all-course-descriptions/bvis/">Biomedical Visualization (BVIS)</a></li>
+		<li><a href="/all-course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+		<li><a href="/all-course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+		<li><a href="/all-course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+		<li><a href="/all-course-descriptions/blst/">Black Studies (BLST)</a></li>
+		<li><a href="/all-course-descriptions/ba/">Business Administration (BA)</a></li>
+		<li><a href="/all-course-descriptions/cc/">Campus Courses (CC)</a></li>
+		<li><a href="/all-course-descriptions/cst/">Catholic Studies (CST)</a></li>
+		<li><a href="/all-course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+		<li><a href="/all-course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+		<li><a href="/all-course-descriptions/chem/">Chemistry (CHEM)</a></li>
+		<li><a href="/all-course-descriptions/chin/">Chinese (CHIN)</a></li>
+		<li><a href="/all-course-descriptions/cd/">City Design (CD)</a></li>
+		<li><a href="/all-course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+		<li><a href="/all-course-descriptions/cl/">Classics (CL)</a></li>
+		<li><a href="/all-course-descriptions/cler/">Clerkship -&#8203; Medicine (CLER)</a></li>
+		<li><a href="/all-course-descriptions/cele/">Clerkship Electives -&#8203; Chicago (CELE)</a></li>
+		<li><a href="/all-course-descriptions/pele/">Clerkship Electives -&#8203; Peoria (PELE)</a></li>
+		<li><a href="/all-course-descriptions/rele/">Clerkship Electives -&#8203; Rockford (RELE)</a></li>
+		<li><a href="/all-course-descriptions/uele/">Clerkship Electives -&#8203; Urbana (UELE)</a></li>
+		<li><a href="/all-course-descriptions/comm/">Communication (COMM)</a></li>
+		<li><a href="/all-course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+		<li><a href="/all-course-descriptions/cs/">Computer Science (CS)</a></li>
+		<li><a href="/all-course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+		<li><a href="/all-course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+		<li><a href="/all-course-descriptions/dadm/">Dental Administration (DADM)</a></li>
+		<li><a href="/all-course-descriptions/daob/">Dentistry -&#8203; Applied Oral and Behavioral Sciences (DAOB)</a></li>
+		<li><a href="/all-course-descriptions/dbcs/">Dentistry -&#8203; Biomedical and Clinical Sciences (DBCS)</a></li>
+		<li><a href="/all-course-descriptions/dcle/">Dentistry -&#8203; Community Learning Experience (DCLE)</a></li>
+		<li><a href="/all-course-descriptions/dosi/">Dentistry -&#8203; Oral/&#8203;Systemic Issues (DOSI)</a></li>
+		<li><a href="/all-course-descriptions/dost/">Dentistry -&#8203; Oral/&#8203;Systemic Topics (DOST)</a></li>
+		<li><a href="/all-course-descriptions/des/">Design (DES)</a></li>
+		<li><a href="/all-course-descriptions/dlg/">Dialogue (DLG)</a></li>
+		<li><a href="/all-course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+		<li><a href="/all-course-descriptions/mdc/">Doctor of Medicine—Chicago (MDC)</a></li>
+		<li><a href="/all-course-descriptions/mdp/">Doctor of Medicine—Peoria (MDP)</a></li>
+		<li><a href="/all-course-descriptions/mdr/">Doctor of Medicine—Rockford (MDR)</a></li>
+		<li><a href="/all-course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+		<li class="active self"><a href="#" onclick="return false;">Economics (ECON)</a></li>
+		<li><a href="/all-course-descriptions/ed/">Education (ED)</a></li>
+		<li><a href="/all-course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+		<li><a href="/all-course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+		<li><a href="/all-course-descriptions/ece/">Electrical and Computer Engineering (ECE)</a></li>
+		<li><a href="/all-course-descriptions/eb/">Employee Benefits (EB)</a></li>
+		<li><a href="/all-course-descriptions/endo/">Endodontics (ENDO)</a></li>
+		<li><a href="/all-course-descriptions/ener/">Energy Engineering (ENER)</a></li>
+		<li><a href="/all-course-descriptions/engr/">Engineering (ENGR)</a></li>
+		<li><a href="/all-course-descriptions/engl/">English (ENGL)</a></li>
+		<li><a href="/all-course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+		<li><a href="/all-course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+		<li><a href="/all-course-descriptions/eohs/">Environmental and Occupational Health Sciences (EOHS)</a></li>
+		<li><a href="/all-course-descriptions/epid/">Epidemiology (EPID)</a></li>
+		<li><a href="/all-course-descriptions/epl/">Estate Planning (EPL)</a></li>
+		<li><a href="/all-course-descriptions/fin/">Finance (FIN)</a></li>
+		<li><a href="/all-course-descriptions/fr/">French (FR)</a></li>
+		<li><a href="/all-course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+		<li><a href="/all-course-descriptions/geog/">Geography (GEOG)</a></li>
+		<li><a href="/all-course-descriptions/ger/">Germanic Studies (GER)</a></li>
+		<li><a href="/all-course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+		<li><a href="/all-course-descriptions/gc/">Graduate College (GC)</a></li>
+		<li><a href="/all-course-descriptions/gems/">Graduate Education in Medical Sciences (GEMS)</a></li>
+		<li><a href="/all-course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+		<li><a href="/all-course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+		<li><a href="/all-course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+		<li><a href="/all-course-descriptions/him/">Health Information Management (HIM)</a></li>
+		<li><a href="/all-course-descriptions/hpa/">Health Policy and Administration (HPA)</a></li>
+		<li><a href="/all-course-descriptions/hlp/">Healthy Living Practitioner™ (HLP)</a></li>
+		<li><a href="/all-course-descriptions/heb/">Hebrew (HEB)</a></li>
+		<li><a href="/all-course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+		<li><a href="/all-course-descriptions/hstl/">Histology (HSTL)</a></li>
+		<li><a href="/all-course-descriptions/hist/">History (HIST)</a></li>
+		<li><a href="/all-course-descriptions/hon/">Honors College (HON)</a></li>
+		<li><a href="/all-course-descriptions/hn/">Human Nutrition (HN)</a></li>
+		<li><a href="/all-course-descriptions/hum/">Humanities (HUM)</a></li>
+		<li><a href="/all-course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+		<li><a href="/all-course-descriptions/it/">Information Technology (IT)</a></li>
+		<li><a href="/all-course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+		<li><a href="/all-course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+		<li><a href="/all-course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+		<li><a href="/all-course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+		<li><a href="/all-course-descriptions/ip/">Intellectual Property (IP)</a></li>
+		<li><a href="/all-course-descriptions/ibt/">International Business and Trade (IBT)</a></li>
+		<li><a href="/all-course-descriptions/inst/">International Studies (INST)</a></li>
+		<li><a href="/all-course-descriptions/ital/">Italian (ITAL)</a></li>
+		<li><a href="/all-course-descriptions/jpn/">Japanese (JPN)</a></li>
+		<li><a href="/all-course-descriptions/jst/">Jewish Studies (JST)</a></li>
+		<li><a href="/all-course-descriptions/jd/">Juris Doctor (JD)</a></li>
+		<li><a href="/all-course-descriptions/kn/">Kinesiology (KN)</a></li>
+		<li><a href="/all-course-descriptions/kor/">Korean (KOR)</a></li>
+		<li><a href="/all-course-descriptions/lat/">Latin (LAT)</a></li>
+		<li><a href="/all-course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+		<li><a href="/all-course-descriptions/law/">Law (LAW)</a></li>
+		<li><a href="/all-course-descriptions/lrsc/">Learning Sciences (LRSC)</a></li>
+		<li><a href="/all-course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+		<li><a href="/all-course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+		<li><a href="/all-course-descriptions/ling/">Linguistics (LING)</a></li>
+		<li><a href="/all-course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+		<li><a href="/all-course-descriptions/lith/">Lithuanian (LITH)</a></li>
+		<li><a href="/all-course-descriptions/mgmt/">Management (MGMT)</a></li>
+		<li><a href="/all-course-descriptions/mktg/">Marketing (MKTG)</a></li>
+		<li><a href="/all-course-descriptions/mba/">Master of Business Administration (MBA)</a></li>
+		<li><a href="/all-course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+		<li><a href="/all-course-descriptions/mj/">Master of Jurisprudence (MJ)</a></li>
+		<li><a href="/all-course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+		<li><a href="/all-course-descriptions/math/">Mathematics (MATH)</a></li>
+		<li><a href="/all-course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+		<li><a href="/all-course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+		<li><a href="/all-course-descriptions/mbt/">Medical Biotechnology (MBT)</a></li>
+		<li><a href="/all-course-descriptions/mhpe/">Medical Education (MHPE)</a></li>
+		<li><a href="/all-course-descriptions/mhum/">Medical Humanities (MHUM)</a></li>
+		<li><a href="/all-course-descriptions/mdch/">Medicinal Chemistry (MDCH)</a></li>
+		<li><a href="/all-course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+		<li><a href="/all-course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+		<li><a href="/all-course-descriptions/mils/">Military Science (MILS)</a></li>
+		<li><a href="/all-course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+		<li><a href="/all-course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+		<li><a href="/all-course-descriptions/mus/">Music (MUS)</a></li>
+		<li><a href="/all-course-descriptions/nast/">Native American Studies (NAST)</a></li>
+		<li><a href="/all-course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+		<li><a href="/all-course-descriptions/ns/">Naval Science (NS)</a></li>
+		<li><a href="/all-course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+		<li><a href="/all-course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+		<li><a href="/all-course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+		<li><a href="/all-course-descriptions/nupr/">Nursing Practicum (NUPR)</a></li>
+		<li><a href="/all-course-descriptions/nusp/">Nursing Specialty (NUSP)</a></li>
+		<li><a href="/all-course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+		<li><a href="/all-course-descriptions/omds/">Oral Medicine and Diagnostic Sciences (OMDS)</a></li>
+		<li><a href="/all-course-descriptions/osci/">Oral Sciences (OSCI)</a></li>
+		<li><a href="/all-course-descriptions/osur/">Oral and Maxillofacial Surgery (OSUR)</a></li>
+		<li><a href="/all-course-descriptions/ortd/">Orthodontics (ORTD)</a></li>
+		<li><a href="/all-course-descriptions/path/">Pathology (PATH)</a></li>
+		<li><a href="/all-course-descriptions/psl/">Patient Safety Leadership (PSL)</a></li>
+		<li><a href="/all-course-descriptions/pedd/">Pediatric Dentistry (PEDD)</a></li>
+		<li><a href="/all-course-descriptions/peri/">Periodontics (PERI)</a></li>
+		<li><a href="/all-course-descriptions/psci/">Pharmaceutical Sciences (PSCI)</a></li>
+		<li><a href="/all-course-descriptions/pmpg/">Pharmacognosy (PMPG)</a></li>
+		<li><a href="/all-course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+		<li><a href="/all-course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+		<li><a href="/all-course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+		<li><a href="/all-course-descriptions/psop/">Pharmacy Systems, Outcomes, and Policy (PSOP)</a></li>
+		<li><a href="/all-course-descriptions/phil/">Philosophy (PHIL)</a></li>
+		<li><a href="/all-course-descriptions/pt/">Physical Therapy (PT)</a></li>
+		<li><a href="/all-course-descriptions/phys/">Physics (PHYS)</a></li>
+		<li><a href="/all-course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+		<li><a href="/all-course-descriptions/pol/">Polish (POL)</a></li>
+		<li><a href="/all-course-descriptions/pols/">Political Science (POLS)</a></li>
+		<li><a href="/all-course-descriptions/port/">Portuguese (PORT)</a></li>
+		<li><a href="/all-course-descriptions/prcl/">Preclinical Medicine (PRCL)</a></li>
+		<li><a href="/all-course-descriptions/ptl/">Privacy and Technology Law (PTL)</a></li>
+		<li><a href="/all-course-descriptions/pros/">Prosthodontics (PROS)</a></li>
+		<li><a href="/all-course-descriptions/psch/">Psychology (PSCH)</a></li>
+		<li><a href="/all-course-descriptions/pa/">Public Administration (PA)</a></li>
+		<li><a href="/all-course-descriptions/pubh/">Public Health (PUBH)</a></li>
+		<li><a href="/all-course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+		<li><a href="/all-course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+		<li><a href="/all-course-descriptions/re/">Real Estate (RE)</a></li>
+		<li><a href="/all-course-descriptions/rels/">Religious Studies (RELS)</a></li>
+		<li><a href="/all-course-descriptions/rest/">Restorative Dentistry (REST)</a></li>
+		<li><a href="/all-course-descriptions/russ/">Russian (RUSS)</a></li>
+		<li><a href="/all-course-descriptions/slav/">Slavic and Baltic Languages and Literatures (SLAV)</a></li>
+		<li><a href="/all-course-descriptions/sj/">Social Justice (SJ)</a></li>
+		<li><a href="/all-course-descriptions/socw/">Social Work (SOCW)</a></li>
+		<li><a href="/all-course-descriptions/soc/">Sociology (SOC)</a></li>
+		<li><a href="/all-course-descriptions/span/">Spanish (SPAN)</a></li>
+		<li><a href="/all-course-descriptions/sped/">Special Education (SPED)</a></li>
+		<li><a href="/all-course-descriptions/spec/">Specialty Medicine (SPEC)</a></li>
+		<li><a href="/all-course-descriptions/stat/">Statistics (STAT)</a></li>
+		<li><a href="/all-course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+		<li><a href="/all-course-descriptions/surg/">Surgery (SURG)</a></li>
+		<li><a href="/all-course-descriptions/tx/">Taxation (TX)</a></li>
+		<li><a href="/all-course-descriptions/thtr/">Theatre (THTR)</a></li>
+		<li><a href="/all-course-descriptions/tadr/">Trial Advocacy and Dispute Resolution (TADR)</a></li>
+		<li><a href="/all-course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+		<li><a href="/all-course-descriptions/us/">Urban Studies (US)</a></li>
+		<li><a href="/all-course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+		<li><a href="/all-course-descriptions/usl/">US Legal Studies (USL)</a></li>
+	</ul>
+	</li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/all-course-descriptions/">All&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Economics (ECON)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Economics (ECON)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="econcourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;106.  Tobacconomics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A comprehensive, multidisciplinary overview of tobacco use and its consequences, tobacco control, and related issues, from both a US and global perspective. Course Information: Previously listed as ECON 115.<i>  Individual and Society course, and  Natural World - No Lab course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;111.  Freakonomics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to how economists think about problems;  how economic analysis illuminates current events and puzzles by focusing on people's responses to incentives.<i>  Individual and Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;120.  Principles of Microeconomics.  0-4 hours.</strong></p>
+<p class="courseblockdesc">
+Scarcity and choice, price system, decision making by consumers, individual and market demand, optimal input decisions by firms, perfect and imperfect competition, international trade. Course Information: College of Business Administration undergraduate students will enroll for 3 hours and all other students will enroll for 4 hours. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;121.  Principles of Macroeconomics.  0-4 hours.</strong></p>
+<p class="courseblockdesc">
+Determinants of the level of economic activity, inflation, unemployment, interest rates, the roles of fiscal and monetary policies, exchange rates, international trade. Course Information: College of Business Administration undergraduate students will enroll for 3 hours and all other students will enroll for 4 hours. <a href="/search/?P=ECON%20121" title="ECON&#160;121" class="bubblelink code" onclick="return showCourse(this, 'ECON 121');">ECON&#160;121</a> may be taken before or after taking <a href="/search/?P=ECON%20120" title="ECON&#160;120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON&#160;120</a> - this is not a sequence. Class Schedule Information: To be properly registered, students must enroll in one Lecture and one Discussion.<i>  Individual and Society course, and  US Society course</i>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;212.  Law and Economics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Economic analysis of law and legal processes; economic theory and applications of property law, contract law, and criminal law. Course Information: Previously listed as ECON 320. Prerequisite(s): <a href="/search/?P=ECON%20120" title="ECON&#160;120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON&#160;120</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;213.  Economic History of the United States.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Growth and structural changes in the American economy from colonial times to the present; special emphasis on economic causes and consequences of major events in U.S. history. Course Information: Previously listed at ECON 324. Prerequisite(s): <a href="/search/?P=ECON%20120" title="ECON&#160;120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON&#160;120</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;214.  Economics of Education.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Treatment of educational sector as an industry; demand and supply of education; issues in educational finance;  teacher labor market; school choice. Course Information: Previously listed as ECON 351. Prerequisite(s): <a href="/search/?P=ECON%20120" title="ECON&#160;120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON&#160;120</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;215.  Health Economics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Supply and demand for health services, the role of insurance in the health care industry, public policy issues, cost and quality regulation. Course Information: Previously listed as ECON 354. Prerequisite(s): <a href="/search/?P=ECON%20120" title="ECON&#160;120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON&#160;120</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;216.  Economics of Sports and Entertainment.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of economic issues in the sports and entertainment  industries--industrial organization, financing, pricing, labor, and regulatory issues.  Course Information: Previously listed as ECON 350. Prerequisite(s):  <a href="/search/?P=ECON%20120" title="ECON&#160;120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON&#160;120</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;220.  Microeconomics: Theory and Applications.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The price system, consumer behavior, market demand, the firm's technology and costs, perfect and imperfect competition, government regulation, general equilibrium and resource allocation, applications. Course Information: Prerequisite(s): <a href="/search/?P=ECON%20120" title="ECON&#160;120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON&#160;120</a>; and <a href="/search/?P=MATH%20121" title="MATH&#160;121" class="bubblelink code" onclick="return showCourse(this, 'MATH 121');">MATH&#160;121</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;221.  Macroeconomics in the World Economy: Theory and Applications.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Determinants of the level of economic activity, inflation, unemployment, international economics, impact of domestic and world economy on business decisions, applications of the theory. Course Information: Same as <a href="/search/?P=INST%20221" title="INST&#160;221" class="bubblelink code" onclick="return showCourse(this, 'INST 221');">INST&#160;221</a>. Prerequisite(s): <a href="/search/?P=ECON%20120" title="ECON&#160;120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON&#160;120</a> and <a href="/search/?P=ECON%20121" title="ECON&#160;121" class="bubblelink code" onclick="return showCourse(this, 'ECON 121');">ECON&#160;121</a>; and <a href="/search/?P=MATH%20121" title="MATH&#160;121" class="bubblelink code" onclick="return showCourse(this, 'MATH 121');">MATH&#160;121</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;270.  Statistics for Economics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Descriptive statistics, probability theory, discrete and continuous probability distributions, sampling distributions, estimation, hypothesis testing. Course Information:  Credit is not given for <a href="/search/?P=ECON%20270" title="ECON&#160;270" class="bubblelink code" onclick="return showCourse(this, 'ECON 270');">ECON&#160;270</a> if the student has credit for <a href="/search/?P=IDS%20270" title="IDS&#160;270" class="bubblelink code" onclick="return showCourse(this, 'IDS 270');">IDS&#160;270</a>.   Prerequisite(s): <a href="/search/?P=MATH%20121" title="MATH&#160;121" class="bubblelink code" onclick="return showCourse(this, 'MATH 121');">MATH&#160;121</a>.  Class Schedule Information:  To be properly registered, students must enroll in one Discussio/Recitation and one Lecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;300.  Econometrics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Casual estimation of economic relationships and testing of economic hypotheses; ordinary least squares regression and extensions; evaluating empirical research; specification of econometric models. Course Information: Credit is not given for <a href="/search/?P=ECON%20300" title="ECON&#160;300" class="bubblelink code" onclick="return showCourse(this, 'ECON 300');">ECON&#160;300</a> if the student has credit in <a href="/search/?P=ECON%20400" title="ECON&#160;400" class="bubblelink code" onclick="return showCourse(this, 'ECON 400');">ECON&#160;400</a>. Previously listed as ECON 346. Prerequisite(s): <a href="/search/?P=ECON%20120" title="ECON&#160;120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON&#160;120</a> or <a href="/search/?P=ECON%20121" title="ECON&#160;121" class="bubblelink code" onclick="return showCourse(this, 'ECON 121');">ECON&#160;121</a>; and <a href="/search/?P=ECON%20270" title="ECON&#160;270" class="bubblelink code" onclick="return showCourse(this, 'ECON 270');">ECON&#160;270</a> or <a href="/search/?P=IDS%20270" title="IDS&#160;270" class="bubblelink code" onclick="return showCourse(this, 'IDS 270');">IDS&#160;270</a> or <a href="/search/?P=STAT%20101" title="STAT&#160;101" class="bubblelink code" onclick="return showCourse(this, 'STAT 101');">STAT&#160;101</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;311.  Introduction to Urban Real Estate.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introductory survey of urban real estate; business, legal, economic and financial perspectives. Course Information: Same as <a href="/search/?P=FIN%20311" title="FIN&#160;311" class="bubblelink code" onclick="return showCourse(this, 'FIN 311');">FIN&#160;311</a>. Previously listed as ECON 371. Prerequisite(s): <a href="/search/?P=ECON%20120" title="ECON&#160;120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON&#160;120</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;322.  Managerial Economics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Application of economic theory to decision making by business firms; demand and cost analysis, demand forecasts; pricing policies; capital budgeting; production analysis; globalization, multinational corporations, game theory, and market structures. Course Information: Prerequisite(s): <a href="/search/?P=ECON%20220" title="ECON&#160;220" class="bubblelink code" onclick="return showCourse(this, 'ECON 220');">ECON&#160;220</a>; and <a href="/search/?P=IDS%20270" title="IDS&#160;270" class="bubblelink code" onclick="return showCourse(this, 'IDS 270');">IDS&#160;270</a> or <a href="/search/?P=ECON%20270" title="ECON&#160;270" class="bubblelink code" onclick="return showCourse(this, 'ECON 270');">ECON&#160;270</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;323.  Business Conditions Analysis.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Application of economic theory to analysis of changes in aggregate income and employment; quantitative economic models and their uses in the prediction of aggregate and more refined levels of business activity; stabilization theory and policy. Course Information: Prerequisite(s): <a href="/search/?P=ECON%20221" title="ECON&#160;221" class="bubblelink code" onclick="return showCourse(this, 'ECON 221');">ECON&#160;221</a>;and <a href="/search/?P=ECON%20300" title="ECON&#160;300" class="bubblelink code" onclick="return showCourse(this, 'ECON 300');">ECON&#160;300</a> or <a href="/search/?P=ECON%20400" title="ECON&#160;400" class="bubblelink code" onclick="return showCourse(this, 'ECON 400');">ECON&#160;400</a> or <a href="/search/?P=IDS%20371" title="IDS&#160;371" class="bubblelink code" onclick="return showCourse(this, 'IDS 371');">IDS&#160;371</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;326.  History of Economic Thought.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected topics in the evolution of positive and normative economics from the seventeenth century to the present. Course Information: Prerequisite(s):  <a href="/search/?P=ECON%20220" title="ECON&#160;220" class="bubblelink code" onclick="return showCourse(this, 'ECON 220');">ECON&#160;220</a> or <a href="/search/?P=ECON%20221" title="ECON&#160;221" class="bubblelink code" onclick="return showCourse(this, 'ECON 221');">ECON&#160;221</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;328.  Public Finance.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The economic effects of taxes and government expenditures on the allocation of resources and income distribution, public goods and externalities, public choice, the principles and application of cost-benefit analysis; optimal taxation. Course Information: Prerequisite(s): <a href="/search/?P=ECON%20220" title="ECON&#160;220" class="bubblelink code" onclick="return showCourse(this, 'ECON 220');">ECON&#160;220</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;329.  Industrial Organization.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Theory of the structure of markets; measures of industrial concentration; monopoly power; mergers and takeovers; price discrimination; product differentiation, advertising; research and development. Course Information: Prerequisite(s): <a href="/search/?P=ECON%20220" title="ECON&#160;220" class="bubblelink code" onclick="return showCourse(this, 'ECON 220');">ECON&#160;220</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;330.  Government and Business.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Theory and survey of U.S. market structure; antitrust policy and monopoly power; economic regulation including price and quality regulation; social regulation. Course Information: Prerequisite(s): <a href="/search/?P=ECON%20220" title="ECON&#160;220" class="bubblelink code" onclick="return showCourse(this, 'ECON 220');">ECON&#160;220</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;331.  Labor Economics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Application of economic theory to labor markets and related economic phenomena; earnings, employment, unemployment, immigration, education, minimum wages, discrimination. Course Information: Prerequisite(s): <a href="/search/?P=ECON%20220" title="ECON&#160;220" class="bubblelink code" onclick="return showCourse(this, 'ECON 220');">ECON&#160;220</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;332.  Urban Economics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of economic problems of cities; demand for and supply of housing and urban land; residential segregation; suburbanization; impact of government programs. Course Information: Prerequisite(s):  <a href="/search/?P=ECON%20220" title="ECON&#160;220" class="bubblelink code" onclick="return showCourse(this, 'ECON 220');">ECON&#160;220</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;333.  International Economics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The balance of payments; fixed and flexible exchange rates; capital flows; comparative advantage; tariffs and quotas; the costs and benefits of international trade. Course Information: Same as <a href="/search/?P=INST%20333" title="INST&#160;333" class="bubblelink code" onclick="return showCourse(this, 'INST 333');">INST&#160;333</a>. Prerequisite(s):  <a href="/search/?P=ECON%20220" title="ECON&#160;220" class="bubblelink code" onclick="return showCourse(this, 'ECON 220');">ECON&#160;220</a> or <a href="/search/?P=ECON%20221" title="ECON&#160;221" class="bubblelink code" onclick="return showCourse(this, 'ECON 221');">ECON&#160;221</a> or <a href="/search/?P=INST%20221" title="INST&#160;221" class="bubblelink code" onclick="return showCourse(this, 'INST 221');">INST&#160;221</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;334.  Economic Development.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Characteristics of poor countries, past experience and its relevance, analytical approaches, the role of exposure to foreign factors, planning and other policies. Course Information: Same as <a href="/search/?P=INST%20334" title="INST&#160;334" class="bubblelink code" onclick="return showCourse(this, 'INST 334');">INST&#160;334</a>. Prerequisite(s):  <a href="/search/?P=ECON%20220" title="ECON&#160;220" class="bubblelink code" onclick="return showCourse(this, 'ECON 220');">ECON&#160;220</a> or <a href="/search/?P=ECON%20221" title="ECON&#160;221" class="bubblelink code" onclick="return showCourse(this, 'ECON 221');">ECON&#160;221</a> or <a href="/search/?P=INST%20221" title="INST&#160;221" class="bubblelink code" onclick="return showCourse(this, 'INST 221');">INST&#160;221</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;339.  Monetary Theory.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Modern money supply and demand theory; the role of money in domestic and international financial markets and in determining economic growth and inflation. Course Information: Prerequisite(s): <a href="/search/?P=ECON%20221" title="ECON&#160;221" class="bubblelink code" onclick="return showCourse(this, 'ECON 221');">ECON&#160;221</a> or <a href="/search/?P=FIN%20300" title="FIN&#160;300" class="bubblelink code" onclick="return showCourse(this, 'FIN 300');">FIN&#160;300</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;342.  Regional Economics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Location of economic activity, systems of cities, economic base theory, regional input-output analysis, neo-classical models of factor mobility and local area economic development. Course Information: Prerequisite(s): <a href="/search/?P=ECON%20220" title="ECON&#160;220" class="bubblelink code" onclick="return showCourse(this, 'ECON 220');">ECON&#160;220</a> or <a href="/search/?P=ECON%20221" title="ECON&#160;221" class="bubblelink code" onclick="return showCourse(this, 'ECON 221');">ECON&#160;221</a> or <a href="/search/?P=INST%20221" title="INST&#160;221" class="bubblelink code" onclick="return showCourse(this, 'INST 221');">INST&#160;221</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;344.  Behavioral Economics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Systematic analysis of how people actually make economic decisions, combining microeconomic models with insights from psychology; study of predictably irrational behaviors. Course Information: Prerequisite(s): <a href="/search/?P=ECON%20220" title="ECON&#160;220" class="bubblelink code" onclick="return showCourse(this, 'ECON 220');">ECON&#160;220</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;353.  Economic Demography.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of family decision making focusing on the economics of time allocation, marriage, divorce, fertility, and mortality; relationship between population growth and economic development. Course Information: Prerequisite(s): <a href="/search/?P=ECON%20220" title="ECON&#160;220" class="bubblelink code" onclick="return showCourse(this, 'ECON 220');">ECON&#160;220</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;370.  Environmental Economics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of major environmental problems as market and policy failures. Benefit-cost methods evaluated. Equity and efficiency aspects of market-based approaches to environmental policy evaluated. Course Information: Prerequisite(s): <a href="/search/?P=ECON%20220" title="ECON&#160;220" class="bubblelink code" onclick="return showCourse(this, 'ECON 220');">ECON&#160;220</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;390.  Special Topics in Economics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Exploration of an area not covered in existing course offerings, or study in greater depth of a subject covered in an existing course. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;395.  Research and Writing in Economics.  1 hour.</strong></p>
+<p class="courseblockdesc">
+This course is used to identify the &quot;Writing in the Disciplines&quot; requirement. Development of analytical and writing skills in economics. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Students may register in more than one section per term. Prerequisite(s): Concurrent registration in a designated 300-level economics course.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;399.  Independent Study in Economics.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Independent study in an area not covered by existing courses or exploration in greater depth of issues covered in a previously taken course. Course Information: May be repeated up to 1 time(s). Prerequisite(s): 9 hours of economics courses at the 300-level or above, an overall GPA of at least 3.25 (A=4.00), and consent of a faculty member and the director of undergraduate studies. Class Schedule Information: This course counts toward the limited number of independent study hours accepted toward the LAS degree and the major.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;400.  Honors Econometrics.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Estimation of economic relationships and testing of economic hypotheses;  ordinary least square regression and extensions;  derivations of estimators, proofs of theorems. Course Information: 3 undergraduate hours; 4 graduate hours. Credit is not given for <a href="/search/?P=ECON%20400" title="ECON&#160;400" class="bubblelink code" onclick="return showCourse(this, 'ECON 400');">ECON&#160;400</a> if the student has credit in <a href="/search/?P=ECON%20300" title="ECON&#160;300" class="bubblelink code" onclick="return showCourse(this, 'ECON 300');">ECON&#160;300</a>. Prerequisite(s): <a href="/search/?P=ECON%20120" title="ECON&#160;120" class="bubblelink code" onclick="return showCourse(this, 'ECON 120');">ECON&#160;120</a> or <a href="/search/?P=ECON%20121" title="ECON&#160;121" class="bubblelink code" onclick="return showCourse(this, 'ECON 121');">ECON&#160;121</a>; and <a href="/search/?P=MATH%20180" title="MATH&#160;180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH&#160;180</a>; and either <a href="/search/?P=ECON%20270" title="ECON&#160;270" class="bubblelink code" onclick="return showCourse(this, 'ECON 270');">ECON&#160;270</a> or <a href="/search/?P=IDS%20270" title="IDS&#160;270" class="bubblelink code" onclick="return showCourse(this, 'IDS 270');">IDS&#160;270</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;436.  Mathematical Economics.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Application of mathematics to theories of consumer and producer behavior, determination of prices in markets, growth and stability features of macroeconomic models. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=ECON%20220" title="ECON&#160;220" class="bubblelink code" onclick="return showCourse(this, 'ECON 220');">ECON&#160;220</a>; and <a href="/search/?P=MATH%20180" title="MATH&#160;180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH&#160;180</a> or <a href="/search/?P=MATH%20165" title="MATH&#160;165" class="bubblelink code" onclick="return showCourse(this, 'MATH 165');">MATH&#160;165</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;450.  Business Forecasting Using Time Series Methods.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Autoregressive, moving average, and seasonal models for time series analysis and business forecasting. Forecasting using multi-variable transfer function models. Course Information: Same as <a href="/search/?P=IDS%20476" title="IDS&#160;476" class="bubblelink code" onclick="return showCourse(this, 'IDS 476');">IDS&#160;476</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=IDS%20371" title="IDS&#160;371" class="bubblelink code" onclick="return showCourse(this, 'IDS 371');">IDS&#160;371</a> or <a href="/search/?P=ECON%20300" title="ECON&#160;300" class="bubblelink code" onclick="return showCourse(this, 'ECON 300');">ECON&#160;300</a> or <a href="/search/?P=ECON%20400" title="ECON&#160;400" class="bubblelink code" onclick="return showCourse(this, 'ECON 400');">ECON&#160;400</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;472.  Real Estate Finance.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Finance principles applied to real estate; financing of residential and income-producing real estate; real estate development finance; secondary mortgage market; taxation and real estate finance. Course Information: Same as <a href="/search/?P=FIN%20472" title="FIN&#160;472" class="bubblelink code" onclick="return showCourse(this, 'FIN 472');">FIN&#160;472</a>. 3 undergraduate hours. 4 graduate hours.  May not be used to satisfy the Economics credit requirement for the MA in Economics and PhD in Economics.  Elective credit only will be applied toward these degrees. Prerequisite(s): <a href="/search/?P=ECON%20220" title="ECON&#160;220" class="bubblelink code" onclick="return showCourse(this, 'ECON 220');">ECON&#160;220</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;473.  Game Theory.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the basic ideas of game theory. Static and dynamic games; mixed strategies, imperfect information; economic, political and biological applications. Course Information: Same as <a href="/search/?P=STAT%20473" title="STAT&#160;473" class="bubblelink code" onclick="return showCourse(this, 'STAT 473');">STAT&#160;473</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=STAT%20381" title="STAT&#160;381" class="bubblelink code" onclick="return showCourse(this, 'STAT 381');">STAT&#160;381</a>; or <a href="/search/?P=ECON%20270" title="ECON&#160;270" class="bubblelink code" onclick="return showCourse(this, 'ECON 270');">ECON&#160;270</a>; or equivalents.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;481.  Mathematical Methods for Economics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Survey of mathematical techniques used in applied economics theory and econometrics courses.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;482.  Probability and Statistics for Econometrics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to methods in probability and statistics that provide a foundation for the applied econometrics and research design courses.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;499.  Independent Study in Economics.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Independent study of a topic not covered in a graduate-level course. Course Information: Prerequisite(s): Graduate standing and consent of the director of graduate studies and the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;501.  Applied Microeconomics I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Microeconomic theory, consumer and producer behavior and determination of market price. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=ECON%20481" title="ECON&#160;481" class="bubblelink code" onclick="return showCourse(this, 'ECON 481');">ECON&#160;481</a> and Grade of C or better in <a href="/search/?P=ECON%20482" title="ECON&#160;482" class="bubblelink code" onclick="return showCourse(this, 'ECON 482');">ECON&#160;482</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;502.  Applied Microeconomics II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+This second course in microeconomic theory covers game theory, economics of uncertainty, general equilibrium analysis, and welfare economics. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=ECON%20501" title="ECON&#160;501" class="bubblelink code" onclick="return showCourse(this, 'ECON 501');">ECON&#160;501</a> or Grade of C or better in <a href="/search/?P=ECON%20509" title="ECON&#160;509" class="bubblelink code" onclick="return showCourse(this, 'ECON 509');">ECON&#160;509</a>. Credit is not given for <a href="/search/?P=ECON%20502" title="ECON&#160;502" class="bubblelink code" onclick="return showCourse(this, 'ECON 502');">ECON&#160;502</a> if the student has credit in <a href="/search/?P=ECON%20510" title="ECON&#160;510" class="bubblelink code" onclick="return showCourse(this, 'ECON 510');">ECON&#160;510</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;503.  Applied Macroeconomics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Macroeconomic theory with a deemphasis on mathematical derivations. Course Information: Credit is not given for <a href="/search/?P=ECON%20503" title="ECON&#160;503" class="bubblelink code" onclick="return showCourse(this, 'ECON 503');">ECON&#160;503</a> if the student has credit in <a href="/search/?P=ECON%20511" title="ECON&#160;511" class="bubblelink code" onclick="return showCourse(this, 'ECON 511');">ECON&#160;511</a>. Prerequisite(s): Grade of C or better in <a href="/search/?P=ECON%20481" title="ECON&#160;481" class="bubblelink code" onclick="return showCourse(this, 'ECON 481');">ECON&#160;481</a> and Grade of C or better in <a href="/search/?P=ECON%20482" title="ECON&#160;482" class="bubblelink code" onclick="return showCourse(this, 'ECON 482');">ECON&#160;482</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;505.  Applied Econometrics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to econometric theory and regression analysis that deemphasizes mathematical derivations. Course Information: Credit is not given for <a href="/search/?P=ECON%20505" title="ECON&#160;505" class="bubblelink code" onclick="return showCourse(this, 'ECON 505');">ECON&#160;505</a> if the student has credit in <a href="/search/?P=ECON%20534" title="ECON&#160;534" class="bubblelink code" onclick="return showCourse(this, 'ECON 534');">ECON&#160;534</a>. Prerequisite(s): Grade of C or better in <a href="/search/?P=ECON%20481" title="ECON&#160;481" class="bubblelink code" onclick="return showCourse(this, 'ECON 481');">ECON&#160;481</a> and Grade of C or better in <a href="/search/?P=ECON%20482" title="ECON&#160;482" class="bubblelink code" onclick="return showCourse(this, 'ECON 482');">ECON&#160;482</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;506.  Research Design.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Application of econometric techniques to empirical problems in microeconomics with an emphasis on issues of identification and causality. Course Information: Credit is not given for <a href="/search/?P=ECON%20506" title="ECON&#160;506" class="bubblelink code" onclick="return showCourse(this, 'ECON 506');">ECON&#160;506</a> if the student has credit in <a href="/search/?P=ECON%20535" title="ECON&#160;535" class="bubblelink code" onclick="return showCourse(this, 'ECON 535');">ECON&#160;535</a>. Prerequisite(s): Grade of C or better in <a href="/search/?P=ECON%20505" title="ECON&#160;505" class="bubblelink code" onclick="return showCourse(this, 'ECON 505');">ECON&#160;505</a> or Grade of C or better in <a href="/search/?P=ECON%20534" title="ECON&#160;534" class="bubblelink code" onclick="return showCourse(this, 'ECON 534');">ECON&#160;534</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;507.  Reading, Writing and Speaking Economics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Development of skills in reading, writing and presenting economics. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=ECON%20481" title="ECON&#160;481" class="bubblelink code" onclick="return showCourse(this, 'ECON 481');">ECON&#160;481</a> and Grade of C or better in <a href="/search/?P=ECON%20482" title="ECON&#160;482" class="bubblelink code" onclick="return showCourse(this, 'ECON 482');">ECON&#160;482</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;508.  Topics in Applied Microeconometrics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+A survey of research in the fields of labor, public, education, health and development economics. Course Information: Prerequisite(s): Grade of C or better in <a href="/search/?P=ECON%20505" title="ECON&#160;505" class="bubblelink code" onclick="return showCourse(this, 'ECON 505');">ECON&#160;505</a> or Grade of C or better in <a href="/search/?P=ECON%20534" title="ECON&#160;534" class="bubblelink code" onclick="return showCourse(this, 'ECON 534');">ECON&#160;534</a>; and Grade of C or better in <a href="/search/?P=ECON%20501" title="ECON&#160;501" class="bubblelink code" onclick="return showCourse(this, 'ECON 501');">ECON&#160;501</a> or Grade of C or better in <a href="/search/?P=ECON%20509" title="ECON&#160;509" class="bubblelink code" onclick="return showCourse(this, 'ECON 509');">ECON&#160;509</a>; and <a href="/search/?P=ECON%20507" title="ECON&#160;507" class="bubblelink code" onclick="return showCourse(this, 'ECON 507');">ECON&#160;507</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;509.  Microeconomic Theory I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The fundamentals of microeconomic theory, with a particular emphasis on research-relevant applications of theoretical concepts.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;510.  Microeconomic Theory II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced microeconomic theory. Theories of consumer behavior, uncertainty, general equilibrium, welfare economics. Course Information: Prerequisite(s): <a href="/search/?P=ECON%20509" title="ECON&#160;509" class="bubblelink code" onclick="return showCourse(this, 'ECON 509');">ECON&#160;509</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;511.  Macroeconomic Theory I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Static and dynamic theories of income, employment exchange rate and the price level; advanced treatment of consumption, investment, money demand and aggregate production functions; stabilization theory and policy.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;512.  Macroeconomic Theory II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Neoclassical and modern market-clearing models of real and monetary influences on economic growth, inflation and business cycles. Course Information: Prerequisite(s): <a href="/search/?P=ECON%20511" title="ECON&#160;511" class="bubblelink code" onclick="return showCourse(this, 'ECON 511');">ECON&#160;511</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;513.  Special Topics in Macroeconomics and International Economics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Intense study of selected research topics in macroeconomics and international economics. Topics may vary. Course Information: Prerequisite(s): <a href="/search/?P=ECON%20512" title="ECON&#160;512" class="bubblelink code" onclick="return showCourse(this, 'ECON 512');">ECON&#160;512</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;514.  International Trade Policy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Theoretical models on the causes and consequences of international trade and their empirical validation.  Effects of tariff and non-tariff trade policies and preferential trade agreements.  Course Information:  Prerequisite(s):  <a href="/search/?P=ECON%20509" title="ECON&#160;509" class="bubblelink code" onclick="return showCourse(this, 'ECON 509');">ECON&#160;509</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;515.  International Monetary Policy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Capital mobility and stabilization policy under fixed and flexible exchange rates; optimum currency areas; reform of international monetary system; problems of liquidity adjustment and confidence. Course Information: Prerequisite(s): <a href="/search/?P=ECON%20511" title="ECON&#160;511" class="bubblelink code" onclick="return showCourse(this, 'ECON 511');">ECON&#160;511</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;516.  Development Economics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Theoretical and empirical studies of economic development with intersectoral and international perspectives; structural change and resource reallocation; factor proportions, substitutability, and movement; export-led growth. Course Information: Prerequisite(s): <a href="/search/?P=ECON%20509" title="ECON&#160;509" class="bubblelink code" onclick="return showCourse(this, 'ECON 509');">ECON&#160;509</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;520.  Microeconomics for Business Decisions.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Efficient allocation of resources by consumers, profit and non-profit firms and government, regulation of industry, monopoly and imperfect competition, business ethics and the market place, efficiency versus equity, social welfare. Course Information: Credit is not given for <a href="/search/?P=ECON%20520" title="ECON&#160;520" class="bubblelink code" onclick="return showCourse(this, 'ECON 520');">ECON&#160;520</a> if the student has credit in <a href="/search/?P=ECON%20509" title="ECON&#160;509" class="bubblelink code" onclick="return showCourse(this, 'ECON 509');">ECON&#160;509</a>. Prerequisite(s): <a href="/search/?P=MATH%20165" title="MATH&#160;165" class="bubblelink code" onclick="return showCourse(this, 'MATH 165');">MATH&#160;165</a> or <a href="/search/?P=MATH%20181" title="MATH&#160;181" class="bubblelink code" onclick="return showCourse(this, 'MATH 181');">MATH&#160;181</a> or the equivalent.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;531.  Labor Economics I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Determinants of wage differentials; analysis of determinants and consequences of investments in human capital (schooling, on-the-job training, health); labor mobility, supply and allocation of time. Course Information: Prerequisite(s): <a href="/search/?P=ECON%20509" title="ECON&#160;509" class="bubblelink code" onclick="return showCourse(this, 'ECON 509');">ECON&#160;509</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;532.  Labor Economics II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Impact of training, legislation, institutional constraints, and discrimination on the labor market. Focus on demographic groups (race, nativity, ethnicity, gender). Course Information: Prerequisite(s): <a href="/search/?P=ECON%20509" title="ECON&#160;509" class="bubblelink code" onclick="return showCourse(this, 'ECON 509');">ECON&#160;509</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;534.  Econometrics I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Detailed treatment of the multivariate linear regression model using matrix algebra. Emphasis on formulating and testing static and dynamic econometric models.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;535.  Econometrics II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Detailed treatment of simultaneous equations estimation; evaluation of alternative estimators; problems of estimation including PROBIT, LOGIT, TOBIT and error component models. Course Information: Prerequisite(s): <a href="/search/?P=ECON%20534" title="ECON&#160;534" class="bubblelink code" onclick="return showCourse(this, 'ECON 534');">ECON&#160;534</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;537.  Time Series Econometrics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The role of research in business; forecasting methods and techniques, including models and their applications. Course Information: Same as <a href="/search/?P=IDS%20582" title="IDS&#160;582" class="bubblelink code" onclick="return showCourse(this, 'IDS 582');">IDS&#160;582</a>. Prerequisite(s): <a href="/search/?P=ECON%20534" title="ECON&#160;534" class="bubblelink code" onclick="return showCourse(this, 'ECON 534');">ECON&#160;534</a> and at least one statistics course with regression analysis at the 300-level or above.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;538.  Business Research and Forecasting II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The role of research in business; forecasting methods and techniques, including multivariate time series models and their applications. Course Information: Same as <a href="/search/?P=IDS%20583" title="IDS&#160;583" class="bubblelink code" onclick="return showCourse(this, 'IDS 583');">IDS&#160;583</a>. Prerequisite(s): <a href="/search/?P=ECON%20537" title="ECON&#160;537" class="bubblelink code" onclick="return showCourse(this, 'ECON 537');">ECON&#160;537</a> or <a href="/search/?P=IDS%20582" title="IDS&#160;582" class="bubblelink code" onclick="return showCourse(this, 'IDS 582');">IDS&#160;582</a>; and graduate standing.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;539.  Microeconometrics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Application of econometric techniques to empirical problems in microeconomics with emphasis on issues of identification and causality; and the selection, implementation and testing of statistical models.  Course Information:  Prerequisite(s):  <a href="/search/?P=ECON%20509" title="ECON&#160;509" class="bubblelink code" onclick="return showCourse(this, 'ECON 509');">ECON&#160;509</a> and <a href="/search/?P=ECON%20535" title="ECON&#160;535" class="bubblelink code" onclick="return showCourse(this, 'ECON 535');">ECON&#160;535</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;551.  Economics of Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Basic concepts and tools of economics applied to education. Economic implications of educational outcomes for the economy, and for socioeconomic structure (e.g., income distribution, fertility patterns, ethnic group differences). Course Information: Prerequisite(s): <a href="/search/?P=ECON%20509" title="ECON&#160;509" class="bubblelink code" onclick="return showCourse(this, 'ECON 509');">ECON&#160;509</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;552.  Economic Demography.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Economic analysis of fertility (number and timing of children), mortality, marriage and divorce, population age structure, the relationship between population growth and economic development. Course Information: Prerequisite(s): <a href="/search/?P=ECON%20509" title="ECON&#160;509" class="bubblelink code" onclick="return showCourse(this, 'ECON 509');">ECON&#160;509</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;555.  Health Economics I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Applied economic theory that examines the determinants of health, the market for health insurance, and important determinants of the price and quantity of health care services. Course Information: Prerequisite(s): <a href="/search/?P=ECON%20509" title="ECON&#160;509" class="bubblelink code" onclick="return showCourse(this, 'ECON 509');">ECON&#160;509</a>; or consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;556.  Health Economics II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Economics of health-related behaviors, prevention and health promotion, health disparities, health and development, evaluation of health-related interests.  Course Information:  Prerequisite(s):  <a href="/search/?P=ECON%20509" title="ECON&#160;509" class="bubblelink code" onclick="return showCourse(this, 'ECON 509');">ECON&#160;509</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;572.  Urban Economics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Urban economic models and economic analysis of urban problems. Firm location, housing, transportation, local public finance. Course Information: Prerequisite(s):  <a href="/search/?P=ECON%20509" title="ECON&#160;509" class="bubblelink code" onclick="return showCourse(this, 'ECON 509');">ECON&#160;509</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;575.  Public Economics I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Microeconomic theory as applied to public expenditure decisions;  public goods, externalities and asymmetric information; measures of surplus; investment criteria; distributional considerations; shadow prices; social insurance; fiscal federalism. Course Information: Prerequisite(s): <a href="/search/?P=ECON%20509" title="ECON&#160;509" class="bubblelink code" onclick="return showCourse(this, 'ECON 509');">ECON&#160;509</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;576.  Economics of Taxation.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of the effects of taxation on economic behavior; taxation and public choice; the effects of taxation on the distribution of income; theory and empirical analysis of welfare effects of taxes; optimal tax theory; issues in tax policy and tax reform. Course Information: Prerequisite(s): <a href="/search/?P=ECON%20509" title="ECON&#160;509" class="bubblelink code" onclick="return showCourse(this, 'ECON 509');">ECON&#160;509</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;593.  Internship Program.  0-8 hours.</strong></p>
+<p class="courseblockdesc">
+Under the direction of a faculty supervisor, students work in government or a private firm on problems related to their major field of interest. Specific credit allotted is determined by the Graduate Curriculum Committee after receiving the supervisor's recommendation. Course Information: Prerequisite(s): Completion of the core courses in the degree program in which the student is enrolled and approval of the internship program by the graduate adviser and the Graduate Curriculum Committee.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;594.  Special Topics in Economics.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+An intensive study of a selected topic in economics. Course Information: May be repeated. Students may register in more than one section per term.Topics vary by sections and by term. Prerequisite(s): <a href="/search/?P=ECON%20509" title="ECON&#160;509" class="bubblelink code" onclick="return showCourse(this, 'ECON 509');">ECON&#160;509</a>; and consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;596.  Independent Study.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Independent study under faculty supervision. Course Information: Prerequisite(s): Consent of the instructor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;598.  Master's Thesis Research.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Independent research leading to an M.A. thesis. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated to a maximum of 8 hours. Students may register in more than one section per term. Prerequisite(s): Grade of C or better in <a href="/search/?P=ECON%20505" title="ECON&#160;505" class="bubblelink code" onclick="return showCourse(this, 'ECON 505');">ECON&#160;505</a> or Grade of C or better in <a href="/search/?P=ECON%20534" title="ECON&#160;534" class="bubblelink code" onclick="return showCourse(this, 'ECON 534');">ECON&#160;534</a>; and Grade of C or better in <a href="/search/?P=ECON%20501" title="ECON&#160;501" class="bubblelink code" onclick="return showCourse(this, 'ECON 501');">ECON&#160;501</a> or Grade of C or better in <a href="/search/?P=ECON%20509" title="ECON&#160;509" class="bubblelink code" onclick="return showCourse(this, 'ECON 509');">ECON&#160;509</a> and consent of the chair of the thesis committee.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ECON&#160;599.  Ph.D. Thesis Research.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Research on a Ph.D. thesis. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Students may register in more than one section per term. Prerequisite(s): Consent of the chair of the thesis committee.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="econ.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

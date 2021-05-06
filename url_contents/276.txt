@@ -1,0 +1,13 @@
+https://cas.uic.edu/it/
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Refresh" content="0; url=https://satech.uic.edu" />
+<title>index</title>
+</head>
+
+<body>
+</body>
+</html>

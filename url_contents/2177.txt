@@ -1,0 +1,733 @@
+https://catalog.uic.edu/all-course-descriptions/prcl/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Preclinical Medicine (PRCL) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="isparent"><a href="/ucat/">Undergraduate Catalog</a></li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="active isparent"><a href="/all-course-descriptions/">All Course Descriptions</a>
+	<ul class="nav levelone" id="/all-course-descriptions/">
+		<li><a href="/all-course-descriptions/asp/">Academic Skills Program (ASP)</a></li>
+		<li><a href="/all-course-descriptions/actg/">Accounting (ACTG)</a></li>
+		<li><a href="/all-course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+		<li><a href="/all-course-descriptions/anth/">Anthropology (ANTH)</a></li>
+		<li><a href="/all-course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+		<li><a href="/all-course-descriptions/arab/">Arabic (ARAB)</a></li>
+		<li><a href="/all-course-descriptions/arst/">Archaeological Studies (ARST)</a></li>
+		<li><a href="/all-course-descriptions/arch/">Architecture (ARCH)</a></li>
+		<li><a href="/all-course-descriptions/art/">Art (ART)</a></li>
+		<li><a href="/all-course-descriptions/ah/">Art History (AH)</a></li>
+		<li><a href="/all-course-descriptions/bms/">Basic Medical Sciences (BMS)</a></li>
+		<li><a href="/all-course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+		<li><a href="/all-course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+		<li><a href="/all-course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+		<li><a href="/all-course-descriptions/bvis/">Biomedical Visualization (BVIS)</a></li>
+		<li><a href="/all-course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+		<li><a href="/all-course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+		<li><a href="/all-course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+		<li><a href="/all-course-descriptions/blst/">Black Studies (BLST)</a></li>
+		<li><a href="/all-course-descriptions/ba/">Business Administration (BA)</a></li>
+		<li><a href="/all-course-descriptions/cc/">Campus Courses (CC)</a></li>
+		<li><a href="/all-course-descriptions/cst/">Catholic Studies (CST)</a></li>
+		<li><a href="/all-course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+		<li><a href="/all-course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+		<li><a href="/all-course-descriptions/chem/">Chemistry (CHEM)</a></li>
+		<li><a href="/all-course-descriptions/chin/">Chinese (CHIN)</a></li>
+		<li><a href="/all-course-descriptions/cd/">City Design (CD)</a></li>
+		<li><a href="/all-course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+		<li><a href="/all-course-descriptions/cl/">Classics (CL)</a></li>
+		<li><a href="/all-course-descriptions/cler/">Clerkship -&#8203; Medicine (CLER)</a></li>
+		<li><a href="/all-course-descriptions/cele/">Clerkship Electives -&#8203; Chicago (CELE)</a></li>
+		<li><a href="/all-course-descriptions/pele/">Clerkship Electives -&#8203; Peoria (PELE)</a></li>
+		<li><a href="/all-course-descriptions/rele/">Clerkship Electives -&#8203; Rockford (RELE)</a></li>
+		<li><a href="/all-course-descriptions/uele/">Clerkship Electives -&#8203; Urbana (UELE)</a></li>
+		<li><a href="/all-course-descriptions/comm/">Communication (COMM)</a></li>
+		<li><a href="/all-course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+		<li><a href="/all-course-descriptions/cs/">Computer Science (CS)</a></li>
+		<li><a href="/all-course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+		<li><a href="/all-course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+		<li><a href="/all-course-descriptions/dadm/">Dental Administration (DADM)</a></li>
+		<li><a href="/all-course-descriptions/daob/">Dentistry -&#8203; Applied Oral and Behavioral Sciences (DAOB)</a></li>
+		<li><a href="/all-course-descriptions/dbcs/">Dentistry -&#8203; Biomedical and Clinical Sciences (DBCS)</a></li>
+		<li><a href="/all-course-descriptions/dcle/">Dentistry -&#8203; Community Learning Experience (DCLE)</a></li>
+		<li><a href="/all-course-descriptions/dosi/">Dentistry -&#8203; Oral/&#8203;Systemic Issues (DOSI)</a></li>
+		<li><a href="/all-course-descriptions/dost/">Dentistry -&#8203; Oral/&#8203;Systemic Topics (DOST)</a></li>
+		<li><a href="/all-course-descriptions/des/">Design (DES)</a></li>
+		<li><a href="/all-course-descriptions/dlg/">Dialogue (DLG)</a></li>
+		<li><a href="/all-course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+		<li><a href="/all-course-descriptions/mdc/">Doctor of Medicine—Chicago (MDC)</a></li>
+		<li><a href="/all-course-descriptions/mdp/">Doctor of Medicine—Peoria (MDP)</a></li>
+		<li><a href="/all-course-descriptions/mdr/">Doctor of Medicine—Rockford (MDR)</a></li>
+		<li><a href="/all-course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+		<li><a href="/all-course-descriptions/econ/">Economics (ECON)</a></li>
+		<li><a href="/all-course-descriptions/ed/">Education (ED)</a></li>
+		<li><a href="/all-course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+		<li><a href="/all-course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+		<li><a href="/all-course-descriptions/ece/">Electrical and Computer Engineering (ECE)</a></li>
+		<li><a href="/all-course-descriptions/eb/">Employee Benefits (EB)</a></li>
+		<li><a href="/all-course-descriptions/endo/">Endodontics (ENDO)</a></li>
+		<li><a href="/all-course-descriptions/ener/">Energy Engineering (ENER)</a></li>
+		<li><a href="/all-course-descriptions/engr/">Engineering (ENGR)</a></li>
+		<li><a href="/all-course-descriptions/engl/">English (ENGL)</a></li>
+		<li><a href="/all-course-descriptions/elsi/">English Language and Support for Internationals (ELSI)</a></li>
+		<li><a href="/all-course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+		<li><a href="/all-course-descriptions/eohs/">Environmental and Occupational Health Sciences (EOHS)</a></li>
+		<li><a href="/all-course-descriptions/epid/">Epidemiology (EPID)</a></li>
+		<li><a href="/all-course-descriptions/epl/">Estate Planning (EPL)</a></li>
+		<li><a href="/all-course-descriptions/fin/">Finance (FIN)</a></li>
+		<li><a href="/all-course-descriptions/fr/">French (FR)</a></li>
+		<li><a href="/all-course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+		<li><a href="/all-course-descriptions/geog/">Geography (GEOG)</a></li>
+		<li><a href="/all-course-descriptions/ger/">Germanic Studies (GER)</a></li>
+		<li><a href="/all-course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+		<li><a href="/all-course-descriptions/gc/">Graduate College (GC)</a></li>
+		<li><a href="/all-course-descriptions/gems/">Graduate Education in Medical Sciences (GEMS)</a></li>
+		<li><a href="/all-course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+		<li><a href="/all-course-descriptions/gkm/">Greek, Modern (GKM)</a></li>
+		<li><a href="/all-course-descriptions/gamd/">Guaranteed Admissions Medicine (GAMD)</a></li>
+		<li><a href="/all-course-descriptions/him/">Health Information Management (HIM)</a></li>
+		<li><a href="/all-course-descriptions/hpa/">Health Policy and Administration (HPA)</a></li>
+		<li><a href="/all-course-descriptions/hlp/">Healthy Living Practitioner™ (HLP)</a></li>
+		<li><a href="/all-course-descriptions/heb/">Hebrew (HEB)</a></li>
+		<li><a href="/all-course-descriptions/hnur/">Hindi-&#8203;Urdu (HNUR)</a></li>
+		<li><a href="/all-course-descriptions/hstl/">Histology (HSTL)</a></li>
+		<li><a href="/all-course-descriptions/hist/">History (HIST)</a></li>
+		<li><a href="/all-course-descriptions/hon/">Honors College (HON)</a></li>
+		<li><a href="/all-course-descriptions/hn/">Human Nutrition (HN)</a></li>
+		<li><a href="/all-course-descriptions/hum/">Humanities (HUM)</a></li>
+		<li><a href="/all-course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+		<li><a href="/all-course-descriptions/it/">Information Technology (IT)</a></li>
+		<li><a href="/all-course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+		<li><a href="/all-course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+		<li><a href="/all-course-descriptions/idea/">Interdisciplinary Education in the Arts (IDEA)</a></li>
+		<li><a href="/all-course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+		<li><a href="/all-course-descriptions/ip/">Intellectual Property (IP)</a></li>
+		<li><a href="/all-course-descriptions/ibt/">International Business and Trade (IBT)</a></li>
+		<li><a href="/all-course-descriptions/inst/">International Studies (INST)</a></li>
+		<li><a href="/all-course-descriptions/ital/">Italian (ITAL)</a></li>
+		<li><a href="/all-course-descriptions/jpn/">Japanese (JPN)</a></li>
+		<li><a href="/all-course-descriptions/jst/">Jewish Studies (JST)</a></li>
+		<li><a href="/all-course-descriptions/jd/">Juris Doctor (JD)</a></li>
+		<li><a href="/all-course-descriptions/kn/">Kinesiology (KN)</a></li>
+		<li><a href="/all-course-descriptions/kor/">Korean (KOR)</a></li>
+		<li><a href="/all-course-descriptions/lat/">Latin (LAT)</a></li>
+		<li><a href="/all-course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+		<li><a href="/all-course-descriptions/law/">Law (LAW)</a></li>
+		<li><a href="/all-course-descriptions/lrsc/">Learning Sciences (LRSC)</a></li>
+		<li><a href="/all-course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+		<li><a href="/all-course-descriptions/lib/">Library and Information Science (LIB)</a></li>
+		<li><a href="/all-course-descriptions/ling/">Linguistics (LING)</a></li>
+		<li><a href="/all-course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+		<li><a href="/all-course-descriptions/lith/">Lithuanian (LITH)</a></li>
+		<li><a href="/all-course-descriptions/mgmt/">Management (MGMT)</a></li>
+		<li><a href="/all-course-descriptions/mktg/">Marketing (MKTG)</a></li>
+		<li><a href="/all-course-descriptions/mba/">Master of Business Administration (MBA)</a></li>
+		<li><a href="/all-course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+		<li><a href="/all-course-descriptions/mj/">Master of Jurisprudence (MJ)</a></li>
+		<li><a href="/all-course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+		<li><a href="/all-course-descriptions/math/">Mathematics (MATH)</a></li>
+		<li><a href="/all-course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+		<li><a href="/all-course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+		<li><a href="/all-course-descriptions/mbt/">Medical Biotechnology (MBT)</a></li>
+		<li><a href="/all-course-descriptions/mhpe/">Medical Education (MHPE)</a></li>
+		<li><a href="/all-course-descriptions/mhum/">Medical Humanities (MHUM)</a></li>
+		<li><a href="/all-course-descriptions/mdch/">Medicinal Chemistry (MDCH)</a></li>
+		<li><a href="/all-course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+		<li><a href="/all-course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+		<li><a href="/all-course-descriptions/mils/">Military Science (MILS)</a></li>
+		<li><a href="/all-course-descriptions/movi/">Moving Image Arts (MOVI)</a></li>
+		<li><a href="/all-course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+		<li><a href="/all-course-descriptions/mus/">Music (MUS)</a></li>
+		<li><a href="/all-course-descriptions/nast/">Native American Studies (NAST)</a></li>
+		<li><a href="/all-course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+		<li><a href="/all-course-descriptions/ns/">Naval Science (NS)</a></li>
+		<li><a href="/all-course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+		<li><a href="/all-course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+		<li><a href="/all-course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+		<li><a href="/all-course-descriptions/nupr/">Nursing Practicum (NUPR)</a></li>
+		<li><a href="/all-course-descriptions/nusp/">Nursing Specialty (NUSP)</a></li>
+		<li><a href="/all-course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+		<li><a href="/all-course-descriptions/omds/">Oral Medicine and Diagnostic Sciences (OMDS)</a></li>
+		<li><a href="/all-course-descriptions/osci/">Oral Sciences (OSCI)</a></li>
+		<li><a href="/all-course-descriptions/osur/">Oral and Maxillofacial Surgery (OSUR)</a></li>
+		<li><a href="/all-course-descriptions/ortd/">Orthodontics (ORTD)</a></li>
+		<li><a href="/all-course-descriptions/path/">Pathology (PATH)</a></li>
+		<li><a href="/all-course-descriptions/psl/">Patient Safety Leadership (PSL)</a></li>
+		<li><a href="/all-course-descriptions/pedd/">Pediatric Dentistry (PEDD)</a></li>
+		<li><a href="/all-course-descriptions/peri/">Periodontics (PERI)</a></li>
+		<li><a href="/all-course-descriptions/psci/">Pharmaceutical Sciences (PSCI)</a></li>
+		<li><a href="/all-course-descriptions/pmpg/">Pharmacognosy (PMPG)</a></li>
+		<li><a href="/all-course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+		<li><a href="/all-course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+		<li><a href="/all-course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+		<li><a href="/all-course-descriptions/psop/">Pharmacy Systems, Outcomes, and Policy (PSOP)</a></li>
+		<li><a href="/all-course-descriptions/phil/">Philosophy (PHIL)</a></li>
+		<li><a href="/all-course-descriptions/pt/">Physical Therapy (PT)</a></li>
+		<li><a href="/all-course-descriptions/phys/">Physics (PHYS)</a></li>
+		<li><a href="/all-course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+		<li><a href="/all-course-descriptions/pol/">Polish (POL)</a></li>
+		<li><a href="/all-course-descriptions/pols/">Political Science (POLS)</a></li>
+		<li><a href="/all-course-descriptions/port/">Portuguese (PORT)</a></li>
+		<li class="active self"><a href="#" onclick="return false;">Preclinical Medicine (PRCL)</a></li>
+		<li><a href="/all-course-descriptions/ptl/">Privacy and Technology Law (PTL)</a></li>
+		<li><a href="/all-course-descriptions/pros/">Prosthodontics (PROS)</a></li>
+		<li><a href="/all-course-descriptions/psch/">Psychology (PSCH)</a></li>
+		<li><a href="/all-course-descriptions/pa/">Public Administration (PA)</a></li>
+		<li><a href="/all-course-descriptions/pubh/">Public Health (PUBH)</a></li>
+		<li><a href="/all-course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+		<li><a href="/all-course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+		<li><a href="/all-course-descriptions/re/">Real Estate (RE)</a></li>
+		<li><a href="/all-course-descriptions/rels/">Religious Studies (RELS)</a></li>
+		<li><a href="/all-course-descriptions/rest/">Restorative Dentistry (REST)</a></li>
+		<li><a href="/all-course-descriptions/russ/">Russian (RUSS)</a></li>
+		<li><a href="/all-course-descriptions/slav/">Slavic and Baltic Languages and Literatures (SLAV)</a></li>
+		<li><a href="/all-course-descriptions/sj/">Social Justice (SJ)</a></li>
+		<li><a href="/all-course-descriptions/socw/">Social Work (SOCW)</a></li>
+		<li><a href="/all-course-descriptions/soc/">Sociology (SOC)</a></li>
+		<li><a href="/all-course-descriptions/span/">Spanish (SPAN)</a></li>
+		<li><a href="/all-course-descriptions/sped/">Special Education (SPED)</a></li>
+		<li><a href="/all-course-descriptions/spec/">Specialty Medicine (SPEC)</a></li>
+		<li><a href="/all-course-descriptions/stat/">Statistics (STAT)</a></li>
+		<li><a href="/all-course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+		<li><a href="/all-course-descriptions/surg/">Surgery (SURG)</a></li>
+		<li><a href="/all-course-descriptions/tx/">Taxation (TX)</a></li>
+		<li><a href="/all-course-descriptions/thtr/">Theatre (THTR)</a></li>
+		<li><a href="/all-course-descriptions/tadr/">Trial Advocacy and Dispute Resolution (TADR)</a></li>
+		<li><a href="/all-course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+		<li><a href="/all-course-descriptions/us/">Urban Studies (US)</a></li>
+		<li><a href="/all-course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+		<li><a href="/all-course-descriptions/usl/">US Legal Studies (USL)</a></li>
+	</ul>
+	</li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/all-course-descriptions/">All&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Preclinical Medicine (PRCL)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Preclinical Medicine (PRCL)</h1>
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="prclcourses"></a>
+<h2>Courses</h2>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;600.  Epidemiology and Health Issues - Peoria.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Topics that are relevant to community health such as legal, ethics and the health care delivery system. Topics of clinical epidemiology. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;602.  Pathology - Peoria.  4 hours.</strong></p>
+<p class="courseblockdesc">
+General pathology is the study of basic disease mechanisms. Systemic pathology is the study of how the basic disease mechanisms affect the major tissue and organ systems. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;603.  Medical Pharmacology I - Peoria.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The basic pharmacology of the major drug categories is presented in this course as a foundation to therapeutic application in clinical settings. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;604.  Clinical Skills I - Peoria.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Prepares the student for taking histories and physicals. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;605.  Psychiatry - Peoria.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The student becomes familiar with the etiology, phenomenology and diagnosis of the major psychiatric disorders. The student also learns about behavioral medicine. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;606.  Neuromuscular - Peoria.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The pathophysiology of neurological disease as well as an introduction to clinical neurological medicine and problem solving of patients with neurological diseases. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;607.  Independent Study - Peoria.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Participating students meet with faculty advisors to plan a individual curriculum. Course Information: Prerequisite(s): Approval by the Dean's Office in the College of Medicine.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;608.  Clinical Skills II - Peoria.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Continues <a href="/search/?P=PRCL%20604" title="PRCL&#160;604" class="bubblelink code" onclick="return showCourse(this, 'PRCL 604');">PRCL&#160;604</a>. The course prepares the student for taking histories and physicals. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;609.  Skeletal, Connective Tissue and Skin Diseases - Peoria.  2 hours.</strong></p>
+<p class="courseblockdesc">
+The normal development of the skeletal and connective tissue systems, emphasizing pathology, pathophysiology, relevant immunopathology and clinical correlations in arthritis and other rheumatic diseases. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;610.  Pulmonary - Peoria.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The data-acquisition process for the respiratory organ system, correlating to anatomy, physiology and pathology. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;611.  Cardiovascular - Peoria.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Provides an understanding of congenital heart disease, acquired heart disease and hypertension; relating patients to the basic pathological process. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;612.  Renal and Urinary - Peoria.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Skills necessary to diagnose and treat maladies of renal and urinary systems are taught. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;613.  Hematopoietic and Reticuloendothelial - Peoria.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Blood cells and hemostatic mechanisms; diseases of the blood, bloodforming organs and hemorrhagic and thrombic disorders. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;614.  Gastrointestinal - Peoria.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The student becomes acquainted with the gross and histologic pathology as well as the physiological pathology of the gastrointestinal tract. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;615.  Endocrine and Reproductive - Peoria.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to the various pathological states. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;616.  Infection and Immunity - Peoria.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Emphasizes microbiology and immunology concepts and will be sequenced with the pathology and pathophysiology concepts in the second year of the Peoria MD Program. Course Information: Prerequisite(s): <a href="/search/?P=BMS%20608" title="BMS&#160;608" class="bubblelink code" onclick="return showCourse(this, 'BMS 608');">BMS&#160;608</a>; and completion of the first year of the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;617.  Medical Pharmacology II-Peoria.  4 hours.</strong></p>
+<p class="courseblockdesc">
+A continuation of <a href="/search/?P=PRCL%20603" title="PRCL&#160;603" class="bubblelink code" onclick="return showCourse(this, 'PRCL 603');">PRCL&#160;603</a> in which the basic pharmacology of the major drug categories is presented as a foundation to therapeutic application in clinical settings. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine Program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;618.  Human Disease 1a-Peoria.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Prepares students to perform a comprehensive History and Physical, to identify topics relevant to community health such as legal and ethical issues and healthcare delivery, and to employ concepts related to clinical epidemiology. Course Information: Prerequisite(s): Enrollment in the Peoria Doctor of Medicine Program. Class Schedule Information: To be properly registered, students must enroll in one Lecture/Discussion and one Clinical Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;619.  Preclinical Student Portfolio - Peoria.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Designed for medical students starting from entry in medical school until graduation to promote self-reflection about their experiences, concerns, cases seen, procedures completed and other medical school activities. Course Information: May be repeated to a maximum of 2 hours. Prerequisite(s): Enrollment in the Peoria Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;620.  Pathology, Infection and Immunity-Peoria.  7 hours.</strong></p>
+<p class="courseblockdesc">
+Analyzes the disease processes affecting specific organs and anatomic systems, with additional emphasis on the pathogenesis, control and prevention of bacterial, fungal and viral infections. Course Information: Prerequisite(s):  Enrollment in the Peoria Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;621.  Human Disease Ib-Peoria.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Continuation of <a href="/search/?P=PRCL%20618" title="PRCL&#160;618" class="bubblelink code" onclick="return showCourse(this, 'PRCL 618');">PRCL&#160;618</a> and prepares students to perform a comprehensive History and Physical and to employ concepts related to clinical epidemiology. Course Information: Prerequisite(s): Enrollment in the Peoria Doctor of Medicine Program. Class Schedule Information: To be properly registered, students must enroll in one Lecture/Discussion and one Clinical Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;622.  Human Disease II - Peoria.  7 hours.</strong></p>
+<p class="courseblockdesc">
+Presents the pathophysiology of skeletal, connective tissue and skin diseases, neurologic diseases and psychiatric illnesses, emphasizing clinical presentations, epidemiology, and therapeutic management options. Course Information: 7 hours. Prerequisite(s): Enrollment in the Peoria Doctor of Medicine Program. Course Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Laboratory.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;623.  Human Disease III - Peoria.  7 hours.</strong></p>
+<p class="courseblockdesc">
+Presents the pathophysiology of cardiovascular, respiratory and renal diseases, emphasizing clinical presentations, epidemiology, and therapeutic management options. Course Information: 7 hours. Prerequisite(s): Enrollment in the Peoria Doctor of Medicine Program. Course Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Laboratory.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;624.  Preclinical Student Portfolio - Chicago.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Designed for medical students starting from entry in medical school until graduation to promote self-reflection about their experiences, concerns, cases seen, procedures completed and other medical school activities. Course Information: May be repeated to a maximum of 2 hours. Prerequisite(s): Enrollment in the Chicago Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;625.  Human Disease IV - Peoria.  8 hours.</strong></p>
+<p class="courseblockdesc">
+Presents the pathophysiology of diseases of the gastrointestinal, hematopoietic and reticuloendothelial, and endocrine and reproductive systems, emphasizing clinical presentations, epidemiology, and therapeutic management options. Course Information: 8 hours. Prerequisite(s): Enrollment in the Peoria Doctor of Medicine Program. Course Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Laboratory.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;626.  General and Systemic Pathology I-Chicago.  5 hours.</strong></p>
+<p class="courseblockdesc">
+Analyzes the disease processes affecting specific organs and anatomic systems. Course Information: Prerequisite(s): Enrollment in the Chicago Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;627.  Clinical Microbiology Immunology - Chicago.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Students are introduced to the fundamental aspects of the pathogenesis, control and prevention of bacterial, fungal and viral infections in preparation for clinical experiences. Course Information: Prerequisite(s): <a href="/search/?P=BMS%20662" title="BMS&#160;662" class="bubblelink code" onclick="return showCourse(this, 'BMS 662');">BMS&#160;662</a> and enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;628.  Medical Pharmacology I-Chicago.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The basic pharmacology of the major drug categories is presented in this course as a foundation to therapeutic application in clinical settings. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;629.  Longitudinal Career Development Course.  0 hours.</strong></p>
+<p class="courseblockdesc">
+A longitudinal course from M1 to M4 years that will assist medical students in developing the knowledge and skills to make a thoughtful and successful specialty choice. Course Information: Extensive computer use required. Class Schedule Information: To be properly registered, students must enroll in one Clinical Practice, one Practice, and one Lecture-Discussion.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;630.  Psychiatry-Chicago.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Introduces students to the epidemiology, pathophysiology, phenomenology, etiological theories, diagnosis and treatment options of mental disorders. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;632.  Independent Study - Chicago.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Participating students meet with faculty advisors to plan a individual curriculum. Course Information: Prerequisite(s): Approval by the Dean's Office in the College of Medicine.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;633.  General and Systemic Pathology II-Chicago.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Continuation of <a href="/search/?P=PRCL%20626" title="PRCL&#160;626" class="bubblelink code" onclick="return showCourse(this, 'PRCL 626');">PRCL&#160;626</a> in which students will analyze the disease processes affecting specific organs and anatomic systems. Course Information: Prerequisite(s): <a href="/search/?P=PRCL%20626" title="PRCL&#160;626" class="bubblelink code" onclick="return showCourse(this, 'PRCL 626');">PRCL&#160;626</a> and enrollment in the Chicago Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;635.  Medical Pharmacology II-Chicago.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Continuation of <a href="/search/?P=PRCL%20628" title="PRCL&#160;628" class="bubblelink code" onclick="return showCourse(this, 'PRCL 628');">PRCL&#160;628</a> in which the basic pharmacology of the major drug categories is presented as a foundation to therapeutic application in clinical settings.Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;641.  Clinical Pathophysiology I - Chicago.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on the integration of the basic and clinical sciences to prepare students for clinical decision making. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;643.  Clinical Pathophysiology II - Chicago.  5 hours.</strong></p>
+<p class="courseblockdesc">
+Continuation of <a href="/search/?P=PRCL%20641" title="PRCL&#160;641" class="bubblelink code" onclick="return showCourse(this, 'PRCL 641');">PRCL&#160;641</a> and focuses on the integration of the basic and clinical sciences to prepare students for clinical decision making. Course Information: Prerequisite(s): <a href="/search/?P=PRCL%20641" title="PRCL&#160;641" class="bubblelink code" onclick="return showCourse(this, 'PRCL 641');">PRCL&#160;641</a> and enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;645.  Essentials of Clinical Med 3 - Chicago.  6 hours.</strong></p>
+<p class="courseblockdesc">
+Emphasizes skills necessary for working with patients throughout the life cycle, clinical problem solving, patient advocacy and education, interdisciplinary healthcare and health risk assessments. Course Information: 6 hours. Prerequisite(s): <a href="/search/?P=BMS%20667" title="BMS&#160;667" class="bubblelink code" onclick="return showCourse(this, 'BMS 667');">BMS&#160;667</a>. Course Schedule Information: To be properly registered, students must enroll in one Lecture and one Clinical Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;646.  Essentials of Clinical Med 4 - Chicago.  10 hours.</strong></p>
+<p class="courseblockdesc">
+Continuation of <a href="/search/?P=PRCL%20645" title="PRCL&#160;645" class="bubblelink code" onclick="return showCourse(this, 'PRCL 645');">PRCL&#160;645</a> which emphasizes skills necessary for working with patients throughout the life cycle, clinical problem solving, patient advocacy and education, interdisciplinary healthcare and health risk assessments. Course Information: 10 hours. Prerequisite(s): <a href="/search/?P=PRCL%20645" title="PRCL&#160;645" class="bubblelink code" onclick="return showCourse(this, 'PRCL 645');">PRCL&#160;645</a>. Course Schedule Information: To be properly registered, students must enroll in one Lecture, one Laboratory-Discussion, and one Clinical Practice.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;651.  General and Systemic Pathology I-Rockford.  6 hours.</strong></p>
+<p class="courseblockdesc">
+Analyzes the disease processes affecting specific organs and anatomic systems. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;652.  Medical Pharmacology I-Rockford.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The basic pharmacology of the major drug categories is presented in this course as a foundation to therapeutic application in clinical settings. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;653.  Clinical Pathophysiology I-Rockford.  5 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on the integration of the basic and clinical sciences to prepare students for clinical decision making. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;654.  Essentials of Patient Care I - Rockford.  5 hours.</strong></p>
+<p class="courseblockdesc">
+A broad-based behavioral science course in which the social, psychological, legal, ethical and contextual factors that affect patients, physicians, and their relationship are examined. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;655.  Clinical Microbiology Immunology I - Rockford.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Students are introduced to the fundamental aspects of the pathogenesis, control and prevention of bacterial, fungal and viral infections in preparation for clinical experiences. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;656.  Clinical Medical Skills I-Rockford.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Basic vocabulary and examination techniques for each body system required to effectively perform a physical examination. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine progam.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;657.  Independent Study - Rockford.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Participating students meet with faculty advisors to plan an individual curriculum. Course Information: Prerequisite(s): Approval by the Dean's Office in the College of Medicine.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;658.  General and Systemic Pathology II - Rockford.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Continuation of <a href="/search/?P=PRCL%20651" title="PRCL&#160;651" class="bubblelink code" onclick="return showCourse(this, 'PRCL 651');">PRCL&#160;651</a>,  in which students will analyze the disease processes affecting specific organs and anatomic systems. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;659.  Medical Pharmacology II - Rockford.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Continuation of <a href="/search/?P=PRCL%20652" title="PRCL&#160;652" class="bubblelink code" onclick="return showCourse(this, 'PRCL 652');">PRCL&#160;652</a>, in which the basic pharmacology of the major drug categories is presented as a foundation to therapeutic application in clinical settings. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;660.  Clinical Pathophysiology II-Rockford.  5 hours.</strong></p>
+<p class="courseblockdesc">
+Continuation of <a href="/search/?P=PRCL%20653" title="PRCL&#160;653" class="bubblelink code" onclick="return showCourse(this, 'PRCL 653');">PRCL&#160;653</a>, focusing on the integration of the basic and clinical sciences to prepare students for clinical decision making. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;661.  Essentials of Patient Care II - Rockford.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Continuation of <a href="/search/?P=PRCL%20654" title="PRCL&#160;654" class="bubblelink code" onclick="return showCourse(this, 'PRCL 654');">PRCL&#160;654</a>, which is a broad-based behavioral science course in which the social, psychological, legal, ethical and contextual factors that affect patients, physicians, and their relationship are examined. Course Information: Prerequisite(s): <a href="/search/?P=PRCL%20654" title="PRCL&#160;654" class="bubblelink code" onclick="return showCourse(this, 'PRCL 654');">PRCL&#160;654</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;662.  Clinical Microbiology and Immunology II - Rockford.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Continuation of <a href="/search/?P=PRCL%20655" title="PRCL&#160;655" class="bubblelink code" onclick="return showCourse(this, 'PRCL 655');">PRCL&#160;655</a>, in which students are introduced to the fundamental aspects of the pathogenesis, control and prevention of bacterial, fungal and viral infections in preparation for clinical experiences. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;663.  Clinical Medical Skills II - Rockford.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Continuation of <a href="/search/?P=PRCL%20656" title="PRCL&#160;656" class="bubblelink code" onclick="return showCourse(this, 'PRCL 656');">PRCL&#160;656</a>, in which students are presented with basic vocabulary and examination techniques for each body system required to effectively perform a physical examination. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;664.  Family Medicine Experience - Rockford.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Beginning in the second year of the Doctor of Medicine program, each student is assigned a panel of patients for whom they will provide primary health care until graduation. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;665.  Foundations in Rural Family and Community Medicine II-Rockford.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Continues rural community medicine and family medicine concepts. Course Information: May be repeated to a maximum of 2 hours. Prerequisite(s): <a href="/search/?P=BMS%20621" title="BMS&#160;621" class="bubblelink code" onclick="return showCourse(this, 'BMS 621');">BMS&#160;621</a>. Restricted to students admitted to the Rural Medical Education Program (RMED) at Rockford.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;666.  Preclinical Student Portfolio -  Rockford.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Designed for medical students starting from entry in medical school until graduation to promote self-reflection about their experiences, concerns, cases seen, procedures completed and other medical school activities. Course Information: May be repeated to a maximum of 2 hours. Prerequisite(s): Enrollment in the Rockford Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;675.  Clinical Pathophysiology I - Urbana.  7 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on the integration of the basic and clinical sciences to prepare students for clinical decision making. Course Information:  Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;676.  Epidemiology - Urbana.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Presents students with the tools to evaluate medical research studies and apply epidemiologic methodologies to population-based medicine in any given community. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;678.  Medical Pharmacology I - Urbana.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Pharmacology of the major drug categories is presented in this course as a foundation to therapeutic application in clinical settings. Course Information: Prerequisite(s): Enrollment in the Urbana Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;679.  Medical Scholars Program - Urbana/Champaign.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Concurrent registration course for Urbana Medical Scholars Program students. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine Program and the Medical Scholars Program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;680.  Independent Study - Urbana/Champaign.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Participating students meet with faculty advisors to plan an individual curriculum. Course Information: Prerequisite(s): Approval by the Dean's Office in the College of Medicine.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;681.  Clinical Tutorials - Urbana.  6 hours.</strong></p>
+<p class="courseblockdesc">
+Emphasizes development of the basic knowledge, skills and attitudes required of medical professionals, as well as addresses many contexts affecting delivery of healthcare. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program. Class Schedule Information: To be properly registered, students must enroll ine one Clinical Practice and one Lecture-Discussion.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;683.  Clinical Microbiology and Immunology - Urbana.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Students are introduced to the fundamental aspects of the pathogenesis, control and prevention of bacterial, fungal and viral infections in preparation for clinical experiences. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;684.  Medical Imaging - Urbana.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Provides students with a general knowledge of the technologies available to medical imaging and how they are used to provide anatomic and physiologic data in the normal and pathologic setting.  Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;685.  Clinical Pathophysiology III - Urbana.  7 hours.</strong></p>
+<p class="courseblockdesc">
+Continuation of <a href="/search/?P=PRCL%20675" title="PRCL&#160;675" class="bubblelink code" onclick="return showCourse(this, 'PRCL 675');">PRCL&#160;675</a>, focusing on the integration of the basic and clinical sciences to prepare students for clinical decision making. Course Information: Prerequisite(s): Enrollment in the Urbana Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;686.  History, Physical, Diagnosis - Urbana.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on development of skills necessary in patient contact, from taking a history to generating a differential diagnosis. Course Information: 4 hours. Prerequisite(s): Enrollment in the Doctor of Medicine program. Course Schedule Information: To be properly registered, students must ernroll in one Lecture-Discussion and one Laboratory.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;687.  Psychiatry - Urbana.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Introduce students to the epidemiology, pathophysiology, phenomenology, etiological theories, diagnosis and treatment options of mental disorders. Course Information: Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;688.  General and Systemic Pathology I-Urbana.  5 hours.</strong></p>
+<p class="courseblockdesc">
+Students will analyze the disease processes affecting specific organs and anatomic systems. Course Information:  Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;689.  General and Systemic Pathology II-Urbana.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Continuation of <a href="/search/?P=PRCL%20688" title="PRCL&#160;688" class="bubblelink code" onclick="return showCourse(this, 'PRCL 688');">PRCL&#160;688</a>, in which students will analyze the disease processes affecting specific organs and anatomic systems. Course Information:  Prerequisite(s): Enrollment in the Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;690.  Preclinical Student Portfolio - Urbana.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Designed for medical students starting from entry in medical school until graduation to promote self-reflection about their experiences, concerns, cases seen, procedures completed and other medical school activities. Course Information: May be repeated to a maximum of 2 hours. Prerequisite(s): Enrollment in the Urbana Doctor of Medicine program.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PRCL&#160;691.  Medical Pharmacology II - Urbana.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Continuation of <a href="/search/?P=PRCL%20678" title="PRCL&#160;678" class="bubblelink code" onclick="return showCourse(this, 'PRCL 678');">PRCL&#160;678</a>, in which the basic pharmacology of the major drug categories is presented as a foundation to therapeutic application in clinical settings. Course Information: Prerequisite(s): Enrollment in the Urbana Doctor of Medicine program.<br />
+</p>
+</div>
+</div>
+</div>
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="prcl.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

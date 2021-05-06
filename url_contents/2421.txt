@@ -1,0 +1,519 @@
+https://catalog.uic.edu/ucat/colleges-depts/liberal-arts-sciences/fr/
+
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Department of French and Francophone Studies &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <li><a href="/"><h1>Academic Catalog</h1></a></li>
+        <div id="head-right">
+            <div id="search" role="search">
+			<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />			</form>
+            </div><!-- end #search -->
+        </div><!--end #head-right -->
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="navigation" class="clearfix" role="navigation" aria-label="Main Navigation">
+    <div class="wrap">
+        <ul>
+            <li><a href="/ucat/">Undergraduate Catalog</a></li>
+            <li><a href="/gcat">Graduate Catalog</a></li>
+            <li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+            <li><a href="http://www.uic.edu">UIC Home</a></li>                        
+        </ul>  
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<div id="banner" role="banner">
+    <div class="wrap">
+        <div class="logo"><a href="http://www.uic.edu">The University of Illinois at Chicago</a></div>
+    </div><!--end .wrap -->
+</div><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <div id="cl-menu-control" class="togglenav clearfix">
+                <a class="cl-menu-text" href="#">Catalog Navigation</a>
+                <a class="cl-menu-btn" href="#">Catalog Navigation</a>
+            </div><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="active isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/liberal-arts-sciences/">
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/anth/">Anthropology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/biochem/">Biochemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/bios/">Biological Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/blst/">Black Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/chem/">Chemistry</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/cl/">Classics and Mediterranean Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/comm/">Communication</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/clj/">Criminology, Law, and Justice</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/eaes/">Earth and Environmental Sciences</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/econ/">Economics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/engl/">English</a></li>
+				<li class="active isparent self"><a href="#" onclick="return false;">French and Francophone Studies</a>
+				<ul class="nav levelfour" id="/ucat/colleges-depts/liberal-arts-sciences/fr/">
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/ba-fr/">BA with a Major in French and Francophone Studies</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/ba-teach-fr/">BA in the Teaching of French</a></li>
+					<li><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/minor-fr/">Minor in French and Francophone Studies</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/gws/">Gender and Women's Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ger/">Germanic Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/glas/">Global Asian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hisp-ital/">Hispanic and Italian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/hist/">History</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ihs/">Integrated Health Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/inst/">International Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/lals/">Latin American and Latino Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/liberal-studies/">Liberal Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/ling/">Linguistics</a></li>
+				<li><a href="/ucat/colleges-depts/liberal-arts-sciences/lcsl/">Literatures, Cultural Studies, and Linguistics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/mscs/">Mathematics, Statistics, and Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/movi/">Moving Image Arts</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/neus/">Neuroscience</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phil/">Philosophy</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/phys/">Physics</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/slav/">Polish, Russian, and Lithuanian Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/pols/">Political Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/psych/">Psychology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/rels/">Religious Studies</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/soc/">Sociology</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/preprofessional-studies/">Preprofessional Studies</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/gcat/">Graduate Catalog</a></li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/liberal-arts-sciences/">College&nbsp;of&nbsp;Liberal&nbsp;Arts&nbsp;and&nbsp;Sciences</a><span class="crumbsep">/</span></li><li><span class="active">French and Francophone Studies</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Department of French and Francophone Studies</h1>
+
+
+<script type="text/javascript">
+//<![CDATA[
+	var defshow = "text";
+	var bodycontainer = "#body";
+	var validhashes = ",text,undergraduateprogramstext,coursestext,";
+
+if(window.location.hash.length) {
+	var hash = cleanHash(window.location.hash);
+	if(validhashes.indexOf("," + hash + ",") != -1)
+		defshow = hash;	
+}
+var ss = document.styleSheets;
+var workss = null;
+for(var i=0; i < ss.length; i++) {
+	var currmedia = "";
+	if (typeof ss[i].media == "string") 
+		currmedia = ss[i].media
+	else if (typeof ss[i].media == "object" && ss[i].media.mediaText) 
+		currmedia = ss[i].media.mediaText;
+	
+	if((currmedia == "screen" || currmedia == "all") && (ss[i].href.indexOf("/") == 0 || ss[i].href.indexOf(document.location.host) >= 0)) {
+		workss = ss[i];
+		break;	
+	}
+}
+if(workss && workss.insertRule) {
+	workss.insertRule(".tab_content { display: none; }", workss.cssRules.length)
+	workss.insertRule(".sectionheader { display: none; }", workss.cssRules.length)
+	workss.insertRule("#" + defshow + "container { display: block; }", workss.cssRules.length)
+} else if(workss && workss.addRule) {
+	workss.addRule(".tab_content", "display: none");
+	workss.addRule(".sectionheader", "display: none");
+	workss.addRule("#" + defshow + "container", "display: block");
+}
+else {
+	if (window.console)
+		window.console.log('screen.css <link> needs attribute media="screen"');
+}
+//]]>
+</script>
+	<div id="tabs">
+		<ul class="clearfix" role="tablist">
+			<li id="texttab" role="presentation">
+<a href="#textcontainer" role="tab" aria-controls="textcontainer" onclick="return showSection('text');">Overview</a></li>
+			<li id="undergraduateprogramstexttab" role="presentation">
+<a href="#undergraduateprogramstextcontainer" role="tab" aria-controls="undergraduateprogramstextcontainer" onclick="return showSection('undergraduateprogramstext');" >Programs and Requirements</a></li>
+			<li id="coursestexttab" role="presentation">
+<a href="#coursestextcontainer" role="tab" aria-controls="coursestextcontainer" onclick="return showSection('coursestext');" >Courses</a></li>
+		</ul>
+	</div>
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p class="campus_location"><span class="label"><strong>Contact Information: </strong></span><br/>
+<span class="campus_location">Campus Location: 1722 University Hall (UH) <br/>
+<span class="phone">(312) 996-5218</span> <br/>
+<span class="website"><a href="https://french.uic.edu/">french.uic.edu</a></span></span></p>
+<p class="administration"><span class="label"><strong>Administration: </strong></span><br/>
+Administration: Head, John Ireland, <a href="mailto:jireland@uic.edu">jireland@uic.edu</a><br/>
+Director of Undergraduate Studies, Yann Robert, <a href="mailto:yrobert@uic.edu" target="_blank">yrobert@uic.edu</a></p>
+<p>In addition to a sequence of basic French language courses, the Department of French and Francophone Studies offers a Major in French and Francophone Studies, a Major in the Teaching of French, and a Minor in French and Francophone Studies. All intermediate and advanced courses help students achieve two interlocking goals. First, all courses foster <span>proficiency in speaking, reading, and writing French, as well as understanding how the language is woven into diverse cultural contexts in Francophone countries throughout the world. Second, all courses help students develop a historical sense of French-speaking cultures, as well as the critical and interpretive skills that come from analytical reading, active discussion, and persuasive writing.</span></p>
+<p>A major or a minor in French and Francophone Studies gives students a strong, globally oriented foundation for careers in many fields, such as education, international commerce, law, government, and journalism.</p>
+<h2>Endorsement for the Teaching of French</h2>
+<p>Endorsement is available to students obtaining full licensure in an approved UIC Teacher Education major. To teach French as a second subject in Illinois public schools one must apply for and receive an Endorsement from the State Board of Education and meet all of the additional course and other requirements the Board has established. The teaching license is not automatically awarded upon successful completion of licensure and degree requirements. Before the license is issued, the candidate must file an application with the State of Illinois and take a subject content examination administered by the State Board of Education. For information on requirements and application procedures, contact the Council on Teacher Education.</p>
+<h2>Study Abroad Program</h2>
+<p>A significant portion of the credits for the major or minor in French may be earned through study abroad. Students who wish to be considered for study abroad should consult the director of undergraduate studies concerning prerequisites and requirements.</p>
+<p>For general information about study abroad opportunities, please visit the <a href="http://studyabroad.uic.edu" target="_blank">UIC Study Abroad office</a>.</p>
+<h2>Distinction</h2>
+<p>Students who earn a 3.75/4.00 GPA in all courses taken in the Department of French and Francophone Studies at UIC will be awarded departmental distinction.</p></div><!--end #textcontainer -->
+
+			<div id="undergraduateprogramstextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="undergraduateprogramstexttab" aria-hidden="true">
+				<a name="undergraduateprogramstext"></a><h2>Degree Programs</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/ba-fr/">BA with a Major in French and Francophone Studies</a></li>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/ba-teach-fr/">BA in the Teaching of French</a></li>
+</ul>
+<h2>Minor</h2>
+<ul>
+	<li><a href="/ucat/colleges-depts/liberal-arts-sciences/fr/minor-fr/">Minor in French and Francophone Studies</a></li>
+</ul>
+			</div>
+			<div id="coursestextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="coursestexttab" aria-hidden="true">
+				<a name="coursestext"></a><div class="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle"><strong>FR 101.  Elementary French I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to French language and culture. Intensive practice in speaking, listening, reading, and writing. Course Information: For students who have not studied French or placement as determined by test score. This is a blended-online and classroom course. Use of computer and internet access is required. A high- speed connection, while not required, is strongly suggested. Class Schedule Information: During the fall and spring terms, combined-section final exam will be held Tuesday of finals week from 6 to 8 p.m.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 102.  Elementary French II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Continuation of introduction to French language and culture. Intensive practice in speaking, listening, reading, and writing. Course Information: This is a blended-online and classroom course. Use of computer and internet access is required. A high-speed connection, while not required, is strongly suggested. Prerequisite(s): A grade of C or better in <a href="/search/?P=FR%20101" title="FR 101" class="bubblelink code" onclick="return showCourse(this, 'FR 101');">FR 101</a>, or the equivalent as determined by test score. Class Schedule Information: During the fall and spring terms, combined-section final exam will be held Tuesday of finals week from 6 to 8 p.m.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 103.  Intermediate French I.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Intensive practice in conversation (speaking, listening), reading, composition; vocabulary and grammar acquisition and practice. Course Information: Extensive computer use required. This is a blended-online and classroom course. Use of a computer and internet access is required. A high-speed connection, while not required, is strongly suggested. Prerequisite(s): <a href="/search/?P=FR%20102" title="FR 102" class="bubblelink code" onclick="return showCourse(this, 'FR 102');">FR 102</a>; or appropriate score on the department placement test. Class Schedule Information: During the fall and spring terms, combined-section final exam will  be held Tuesday of finals week from 6 to 8 p.m.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 104.  Intermediate French II.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Intensive practice in conversation (speaking, listening), reading, composition; vocabulary and grammar acquisition and practice. Course Information: Extensive computer use required. This is a blended-online and classroom course. Use of a computer and internet access is required. A high-speed connection, while not required, is strongly suggested. Prerequisite(s): <a href="/search/?P=FR%20103" title="FR 103" class="bubblelink code" onclick="return showCourse(this, 'FR 103');">FR 103</a>; or appropriate score on the department placement test. Class Schedule Information: During the fall and spring terms, combined-section final exam will  be held Tuesday of finals week from 6 to 8 p.m.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 191.  African and Caribbean Francophone Literature in Translation.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to the Francophone literature of Africa and the Caribbean and to its historical and cultural contexts. Course Information: Same as <a href="/search/?P=BLST%20191" title="BLST 191" class="bubblelink code" onclick="return showCourse(this, 'BLST 191');">BLST 191</a>.<i>  Creative Arts course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 196.  Totalitarianism, Writing and Cinema.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to French, Spanish, and Italian writing and films dealing with the issue of totalitarianism. Various authors are examined within a broad context of European thinking on totalitarianism. Course Information: Same as <a href="/search/?P=ITAL%20196" title="ITAL 196" class="bubblelink code" onclick="return showCourse(this, 'ITAL 196');">ITAL 196</a>, and <a href="/search/?P=SPAN%20196" title="SPAN 196" class="bubblelink code" onclick="return showCourse(this, 'SPAN 196');">SPAN 196</a>. Taught in English. Two additional hours for viewing films (every two weeks). Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 211.  French in the Professions.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the vocabulary, practices, history, and expectations of a professional field in France, including science, law, medicine, business and human rights. High-intermediate language training using authentic texts. Topics will vary. Prerequisite(s): <a href="/search/?P=FR%20104" title="FR 104" class="bubblelink code" onclick="return showCourse(this, 'FR 104');">FR 104</a> (or equivalent), or consent of instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 212.  Exploring the French-Speaking World.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An introduction to the culture, history, and geography of the French-speaking world outside of France, including Sub-Saharan Africa, North Africa, Quebec, and the Caribbean. Prerequisite(s): <a href="/search/?P=FR%20104" title="FR 104" class="bubblelink code" onclick="return showCourse(this, 'FR 104');">FR 104</a> (or equivalent), or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 213.  France Past and Present.  3 hours.</strong></p>
+<p class="courseblockdesc">
+An overview of the cultural history of France through literary texts, original source documents and other cultural artifacts. Prerequisite(s): <a href="/search/?P=FR%20104" title="FR 104" class="bubblelink code" onclick="return showCourse(this, 'FR 104');">FR 104</a> (or equivalent), or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 214.  Conversational French through Popular Culture and Media.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Exploration of French popular culture and media using authentic materials. Intermediate to advanced training in developing and refining communication skills with emphasis on pronunciation, idiomatic expressions, and monitoring grammatical errors. Prerequisite(s): <a href="/search/?P=FR%20104" title="FR 104" class="bubblelink code" onclick="return showCourse(this, 'FR 104');">FR 104</a> (or equivalent), or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 296.  Independent Study.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+For majors and minors in French who wish to supplement regular courses or undertake individual study projects. Course Information: May be repeated to a maximum of 6 hours. Prerequisite(s): Approval of the department. Class Schedule Information: This course counts toward the limited number of independent study hours accepted toward the degree and the major.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 297.  Paris in Literature, Film, and Culture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines cultural and literary representations of Paris as well as the influence of Parisian urbanism on French cultural and literary genres and forms. Course Information: Taught in English.<i>  Creative Arts course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 298.  French Literature, Drama and/or Film in Translation.  3 hours.</strong></p>
+<p class="courseblockdesc">
+In-depth examination of a topic relevant to French literature, culture, or film, focusing on critical thinking and analysis. Course Information: Previously listed as FR 198. Taught in English. Recommended Background: Successful completion of a 100-level class in the Humanities and <a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a> and <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a>.<i>  Creative Arts course, and  World Cultures course</i>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 300.  Topics in Film and Media of the French-Speaking World.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to film history and analysis; includes reading, writing, and speaking about both film and text. Prerequisite(s): Two 200-level French courses (or equivalent); or one 200-level French course plus concurrent registration in a second 200-level French course; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 301.  Topics in French and Francophone Literature.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Intensive study of a period, theme, genre, or author within French or Francophone literature, with emphasis on literary analysis and critical writing. Course Information: May be repeated up to 1 time(s) if topics vary. Taught in French. Prerequisite(s): Grade of C or better in <a href="/search/?P=FR%20211" title="FR 211" class="bubblelink code" onclick="return showCourse(this, 'FR 211');">FR 211</a> or Grade of C or better in <a href="/search/?P=FR%20212" title="FR 212" class="bubblelink code" onclick="return showCourse(this, 'FR 212');">FR 212</a> or Grade of C or better in <a href="/search/?P=FR%20213" title="FR 213" class="bubblelink code" onclick="return showCourse(this, 'FR 213');">FR 213</a> or Grade of C or better in <a href="/search/?P=FR%20214" title="FR 214" class="bubblelink code" onclick="return showCourse(this, 'FR 214');">FR 214</a>; and Grade of C or better or concurrent registration in <a href="/search/?P=FR%20211" title="FR 211" class="bubblelink code" onclick="return showCourse(this, 'FR 211');">FR 211</a> or Grade of C or better or concurrent registration in <a href="/search/?P=FR%20212" title="FR 212" class="bubblelink code" onclick="return showCourse(this, 'FR 212');">FR 212</a> or Grade of C or better or concurrent registration in <a href="/search/?P=FR%20213" title="FR 213" class="bubblelink code" onclick="return showCourse(this, 'FR 213');">FR 213</a> or Grade of C or better or concurrent registration in <a href="/search/?P=FR%20214" title="FR 214" class="bubblelink code" onclick="return showCourse(this, 'FR 214');">FR 214</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 302.  Topics in French and Francophone Culture.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Intensive study of French or Francophone culture within a particular period; focus on literary and/or historical texts in the context of social and intellectual movements. Course Information: May be repeated up to 1 time(s) if topics vary. Taught in French. Prerequisite(s): Grade of C or better in <a href="/search/?P=FR%20211" title="FR 211" class="bubblelink code" onclick="return showCourse(this, 'FR 211');">FR 211</a> or Grade of C or better in <a href="/search/?P=FR%20212" title="FR 212" class="bubblelink code" onclick="return showCourse(this, 'FR 212');">FR 212</a> or Grade of C or better in <a href="/search/?P=FR%20213" title="FR 213" class="bubblelink code" onclick="return showCourse(this, 'FR 213');">FR 213</a> or Grade of C or better in <a href="/search/?P=FR%20214" title="FR 214" class="bubblelink code" onclick="return showCourse(this, 'FR 214');">FR 214</a>; and Grade of C or better or concurrent registration in <a href="/search/?P=FR%20211" title="FR 211" class="bubblelink code" onclick="return showCourse(this, 'FR 211');">FR 211</a> or Grade of C or better or concurrent registration in <a href="/search/?P=FR%20212" title="FR 212" class="bubblelink code" onclick="return showCourse(this, 'FR 212');">FR 212</a> or Grade of C or better or concurrent registration in <a href="/search/?P=FR%20213" title="FR 213" class="bubblelink code" onclick="return showCourse(this, 'FR 213');">FR 213</a> or Grade of C or better or concurrent registration in <a href="/search/?P=FR%20214" title="FR 214" class="bubblelink code" onclick="return showCourse(this, 'FR 214');">FR 214</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 303.  Writing in the Discipline.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Focus on raising students' skills of written expression and critical research in French to a high level proficiency. Course Information: Taught in French. Prerequisite(s): Junior standing or above, and approval of the department. Corequisite(s): In order to register for <a href="/search/?P=FR%20303" title="FR 303" class="bubblelink code" onclick="return showCourse(this, 'FR 303');">FR 303</a>, students must be concurrently registered for either <a href="/search/?P=FR%20300" title="FR 300" class="bubblelink code" onclick="return showCourse(this, 'FR 300');">FR 300</a>, <a href="/search/?P=FR%20301" title="FR 301" class="bubblelink code" onclick="return showCourse(this, 'FR 301');">FR 301</a> or <a href="/search/?P=FR%20302" title="FR 302" class="bubblelink code" onclick="return showCourse(this, 'FR 302');">FR 302</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 370.  Writing and Research in the Major.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Perfecting writing and expository skills in English. Required for majors in the department. Course Information: Same as <a href="/search/?P=ITAL%20370" title="ITAL 370" class="bubblelink code" onclick="return showCourse(this, 'ITAL 370');">ITAL 370</a> and <a href="/search/?P=SPAN%20370" title="SPAN 370" class="bubblelink code" onclick="return showCourse(this, 'SPAN 370');">SPAN 370</a>. Prerequisite(s): Junior or senior standing and approval of the department.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 375.  French Abroad.  0-17 hours.</strong></p>
+<p class="courseblockdesc">
+Lectures, seminars, and practical work in French language, literature, and civilization in France. Course Information: May be repeated to a maximum of 34 hours. Prerequisite(s): Junior standing, approval of the department, FR 201 and any two from FR 202, FR 231, FR 232.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 397.  Internship.  0-3 hours.</strong></p>
+<p class="courseblockdesc">
+Professional field experience with an agency, organization, or firm that has significant ties to a French-speaking region or community, in the private or public sector. Course Information: May be repeated for a maximum of 6 hours. Field work required. Prerequisite(s): Grade of C or better in <a href="/search/?P=FR%20211" title="FR 211" class="bubblelink code" onclick="return showCourse(this, 'FR 211');">FR 211</a> or Grade of C or better in <a href="/search/?P=FR%20212" title="FR 212" class="bubblelink code" onclick="return showCourse(this, 'FR 212');">FR 212</a> or Grade of C or better in <a href="/search/?P=FR%20213" title="FR 213" class="bubblelink code" onclick="return showCourse(this, 'FR 213');">FR 213</a> or Grade of C or better in <a href="/search/?P=FR%20214" title="FR 214" class="bubblelink code" onclick="return showCourse(this, 'FR 214');">FR 214</a>; and approval of the department. Class Schedule Information: To be properly registered, students must enroll in one Conference and one Practice.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 398.  Research.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Experience with designing, implementing and presenting a research project in collaboration with a member of the French and Francophone faculty. Course Information: May be repeated for a maximum of 3 hours. Prerequisite(s): Grade of C or better in <a href="/search/?P=FR%20211" title="FR 211" class="bubblelink code" onclick="return showCourse(this, 'FR 211');">FR 211</a> or Grade of C or better in <a href="/search/?P=FR%20212" title="FR 212" class="bubblelink code" onclick="return showCourse(this, 'FR 212');">FR 212</a> or Grade of C or better in <a href="/search/?P=FR%20213" title="FR 213" class="bubblelink code" onclick="return showCourse(this, 'FR 213');">FR 213</a> or Grade of C or better in <a href="/search/?P=FR%20214" title="FR 214" class="bubblelink code" onclick="return showCourse(this, 'FR 214');">FR 214</a>; and approval of the department.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 400.  French in Style: Advanced Speaking, Writing and Research.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced study of grammar and syntax, with emphasis on precision and flexibility of oral and written expression, critical awareness of style, and fundamentals of translation. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): One 300-level course (or equivalent), or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 401.  Reading French for Graduate Students.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Grammar, vocabulary, general and specialized reading practice; for graduate students wishing to fulfill French reading requirements for the Ph.D. Course Information: Credit may not be applied toward a graduate degree. Taught in English. Prerequisite(s): Graduate standing and consent of the instructor. Recommended background: Some prior experience with elementary French.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 417.  Topics in Seventeenth-Century French Literature.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Significant works, authors, and cultural developments from seventeenth-century France, including but not limited to the reign of Louis XIV, will be studied in their historical, intellectual, and cultural context. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 2 time(s), if topics vary. Taught in French. Prerequisite(s): Grade of C or better or concurrent registration in <a href="/search/?P=FR%20300" title="FR 300" class="bubblelink code" onclick="return showCourse(this, 'FR 300');">FR 300</a> or Grade of C or better or concurrent registration in <a href="/search/?P=FR%20301" title="FR 301" class="bubblelink code" onclick="return showCourse(this, 'FR 301');">FR 301</a> or Grade of C or better or concurrent registration in <a href="/search/?P=FR%20302" title="FR 302" class="bubblelink code" onclick="return showCourse(this, 'FR 302');">FR 302</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 418.  Topics in Eighteenth-Century French Literature.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Significant genres, movements, authors, and works from the French Enlightenment and Revolution will be studied within the context of artistic, social, cultural, legal and political developments of the era. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 2 time(s), if topics vary. Taught in French. Prerequisite(s): Grade of C or better or concurrent registration in <a href="/search/?P=FR%20300" title="FR 300" class="bubblelink code" onclick="return showCourse(this, 'FR 300');">FR 300</a> or Grade of C or better or concurrent registration in <a href="/search/?P=FR%20301" title="FR 301" class="bubblelink code" onclick="return showCourse(this, 'FR 301');">FR 301</a> or Grade of C or better or concurrent registration in <a href="/search/?P=FR%20302" title="FR 302" class="bubblelink code" onclick="return showCourse(this, 'FR 302');">FR 302</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 419.  Topics in Nineteenth-Century French Literature.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Significant genres, movements, authors, and works from the &quot;long&quot; nineteenth century (1789-1914) in France and the French-speaking world will be studied within the context of artistic, social, cultural and political developments of the era. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 2 time(s), if topics vary. Taught in French. Prerequisite(s): Grade of C or better or concurrent registration in <a href="/search/?P=FR%20300" title="FR 300" class="bubblelink code" onclick="return showCourse(this, 'FR 300');">FR 300</a> or Grade of C or better or concurrent registration in <a href="/search/?P=FR%20301" title="FR 301" class="bubblelink code" onclick="return showCourse(this, 'FR 301');">FR 301</a> or Grade of C or better or concurrent registration in <a href="/search/?P=FR%20302" title="FR 302" class="bubblelink code" onclick="return showCourse(this, 'FR 302');">FR 302</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 420.  Topics in Twentieth-Century French Literature.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Significant works, authors, and cultural developments from twentieth-century France will be studied in their historical, intellectual, and cultural context. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 2 time(s), if topics vary. Taught in French. Prerequisite(s): Grade of C or better or concurrent registration in <a href="/search/?P=FR%20300" title="FR 300" class="bubblelink code" onclick="return showCourse(this, 'FR 300');">FR 300</a> or Grade of C or better or concurrent registration in <a href="/search/?P=FR%20301" title="FR 301" class="bubblelink code" onclick="return showCourse(this, 'FR 301');">FR 301</a> or Grade of C or better or concurrent registration in <a href="/search/?P=FR%20302" title="FR 302" class="bubblelink code" onclick="return showCourse(this, 'FR 302');">FR 302</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 422.  Topics in Francophone Literature.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Significant genres, movements, authors, and works from areas of the Francophone World outside metropolitan France will be studied within the context of their historical, literary, cultural and political developments. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 2 time(s), if topics vary.  Taught in French. Prerequisite(s): Grade of C or better or concurrent registration in <a href="/search/?P=FR%20300" title="FR 300" class="bubblelink code" onclick="return showCourse(this, 'FR 300');">FR 300</a> or Grade of C or better or concurrent registration in <a href="/search/?P=FR%20301" title="FR 301" class="bubblelink code" onclick="return showCourse(this, 'FR 301');">FR 301</a> or Grade of C or better or concurrent registration in <a href="/search/?P=FR%20302" title="FR 302" class="bubblelink code" onclick="return showCourse(this, 'FR 302');">FR 302</a>; or consent of the instructor <a href="/search/?P=FR%20301" title="FR 301" class="bubblelink code" onclick="return showCourse(this, 'FR 301');">FR 301</a> (Topics in French and Francophone Literature) or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 440.  Topics in French and Francophone Cinema.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Significant films from either France or another Francophone part of the world will be studied in their historical, intellectual, and cultural context. Course Information:  3 undergraduate hours.  4 graduate hour.  May be repeated up to 2 time(s), if topics vary. May be used for credit in the French major only with consent of the director of undergraduate studies.  Taught in English.  Students who intend to use French 440 toward the major in French must complete assignment in French.  Prerequisite(s): May be repeated for a maximum of 9 hours of credit for undergraduates, or 12 hours of credit for graduate students, as long as the topic is different for each registration.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 448.  Foundations of Second Language Teaching.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Provides an introduction to second language acquisition research and its implications for communicative language teaching. Emphasis is on creating activities to develop high school students' communicative abilities in speaking and listening. Course Information: Same as <a href="/search/?P=GER%20448" title="GER 448" class="bubblelink code" onclick="return showCourse(this, 'GER 448');">GER 448</a> and <a href="/search/?P=SPAN%20448" title="SPAN 448" class="bubblelink code" onclick="return showCourse(this, 'SPAN 448');">SPAN 448</a>. 3 undergraduate hours. 4 graduate hours. Taught in English. Prerequisite(s): Junior standing or above; and consent of the instructor  and three courses at the 200 and 300 levels.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 449.  Teaching Second Language Literacy and Cultural Awareness.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines the nature of literacy as a reciprocal relationship between readers, writers, texts and culture. Students learn the practical and theoretical foundations of classroom teaching of second language reading and writing skills. Course Information: Same as <a href="/search/?P=GER%20449" title="GER 449" class="bubblelink code" onclick="return showCourse(this, 'GER 449');">GER 449</a>, and <a href="/search/?P=SPAN%20449" title="SPAN 449" class="bubblelink code" onclick="return showCourse(this, 'SPAN 449');">SPAN 449</a>. 3 undergraduate hours. 4 graduate hours. Taught in English. Prerequisite(s): Junior standing or above; and consent of the instructor and three courses at the 200 and 300 levels.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 464.  Topics in French Cultural Studies.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+An interdisciplinary approach to French culture, including history, literature, beaux-arts, and philosophy. Each topic focuses on a specific period between the Middle Ages and the present. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated up to 2 time(s), if topics vary. Taught in French. Prerequisite(s): Grade of C or better or concurrent registration in <a href="/search/?P=FR%20300" title="FR 300" class="bubblelink code" onclick="return showCourse(this, 'FR 300');">FR 300</a> or Grade of C or better or concurrent registration in <a href="/search/?P=FR%20301" title="FR 301" class="bubblelink code" onclick="return showCourse(this, 'FR 301');">FR 301</a> or Grade of C or better or concurrent registration in <a href="/search/?P=FR%20302" title="FR 302" class="bubblelink code" onclick="return showCourse(this, 'FR 302');">FR 302</a>; and consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 470.  Educational Practice with Seminar I.  6 hours.</strong></p>
+<p class="courseblockdesc">
+The first half of a two-segment sequence of practice teaching, including seminar, to meet certification requirements for teaching in grades six through twelve. Course Information: Graduate credit only with approval of the department. Prerequisite(s): Good academic standing in a teacher education program, completion of 100 clock hours of pre-student-teaching field experiences, and approval of the department. Class Schedule Information:  To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 471.  Educational Practice with Seminar II.  6 hours.</strong></p>
+<p class="courseblockdesc">
+The second half of a two-segment sequence of practice teaching, including seminar, to meet certification requirements for teaching in grades six through twelve. Course Information: Graduate credit only with approval of the department. Prerequisite(s): Good academic standing in a teacher education program, completion of 100 clock hours of pre-student-teaching field experiences, credit or concurrent registration in <a href="/search/?P=FR%20470" title="FR 470" class="bubblelink code" onclick="return showCourse(this, 'FR 470');">FR 470</a>, and approval of the department. Class Schedule Information:  To be properly registered, students must enroll in one Conference and one Practice.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 494.  Special Topics.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Topics will vary from term to term and may cover such areas as literary theory or culture. Course Information: Same as <a href="/search/?P=SPAN%20494" title="SPAN 494" class="bubblelink code" onclick="return showCourse(this, 'SPAN 494');">SPAN 494</a> and <a href="/search/?P=ITAL%20494" title="ITAL 494" class="bubblelink code" onclick="return showCourse(this, 'ITAL 494');">ITAL 494</a>. 3 undergraduate hours. 4 graduate hours. May be repeated. Students may register in more than one section per term. Taught in English. Prerequisite(s): Junior standing or above; and approval of the department.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>FR 496.  Independent Study.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Supervised study in an area not covered by regularly scheduled courses under the direction of a faculty member designated by the chairperson of the department. Course Information: Prerequisite(s): French major with senior or graduate standing and consent of the department. Class Schedule Information: This course counts toward the limited number of independent study hours accepted toward the undergraduate degree and the major.<br/>
+</p>
+</div></div>
+			</div>
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2018-2019 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" class="screen noscript">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+
+
+<div class="print-option"><div class="option-head"><a href="fr.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+		<div class="print-option">
+			<div class="option-head">
+				<a href="/pdf/2019-2021_undergraduate.pdf">Download PDF of the entire Undergraduate Catalog</a>
+			</div>
+			<p>
+				<em>All pages in the campus catalog.</em>
+			</p>
+		</div>
+
+
+	</div>
+
+	
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>
