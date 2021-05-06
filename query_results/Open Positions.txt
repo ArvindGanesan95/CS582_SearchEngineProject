@@ -1,0 +1,39 @@
+
+Ranking Algorithm : hits
+https://oae.uic.edu/ah/academic-hiring-process/
+https://cs.uic.edu/faculty-staff/open-positions/
+https://oae.uic.edu/ah/faq/
+https://careerservices.uic.edu/employers/post-a-position/
+https://catalog.uic.edu/all-course-descriptions/ener/
+https://ecc.uic.edu/employers/post-openings-handshake/
+https://ecc.uic.edu/career-tools/cover-letter/
+https://policies.uic.edu/uic-policy-library/student-affairs/uic-policy-on-open-expression/
+https://cs.uic.edu/graduate/graduate-student-resources/ta-info/
+https://catalog.uic.edu/all-course-descriptions/elsi/
+
+
+Ranking Algorithm : pagerank
+https://oae.uic.edu/ah/academic-hiring-process/
+https://cs.uic.edu/faculty-staff/open-positions/
+https://oae.uic.edu/ah/faq/
+https://careerservices.uic.edu/employers/post-a-position/
+https://ecc.uic.edu/employers/post-openings-handshake/
+https://ecc.uic.edu/career-tools/cover-letter/
+https://policies.uic.edu/uic-policy-library/student-affairs/uic-policy-on-open-expression/
+https://cs.uic.edu/graduate/graduate-student-resources/ta-info/
+https://cs.uic.edu/news-stories/cruz-wang-use-big-data-to-track-the-impact-of-the-pandemic-on-college-towns/
+https://engineering.uic.edu/news-stories/registration-is-open-for-annual-lunch-with-an-industrial-engineer/
+
+
+Ranking Algorithm : Cosine Similarity
+https://oae.uic.edu/ah/academic-hiring-process/
+https://cs.uic.edu/faculty-staff/open-positions/
+https://oae.uic.edu/ah/faq/
+https://careerservices.uic.edu/employers/post-a-position/
+https://ecc.uic.edu/employers/post-openings-handshake/
+https://ecc.uic.edu/career-tools/cover-letter/
+https://policies.uic.edu/uic-policy-library/student-affairs/uic-policy-on-open-expression/
+https://cs.uic.edu/graduate/graduate-student-resources/ta-info/
+https://cs.uic.edu/news-stories/cruz-wang-use-big-data-to-track-the-impact-of-the-pandemic-on-college-towns/
+https://engineering.uic.edu/news-stories/registration-is-open-for-annual-lunch-with-an-industrial-engineer/
+

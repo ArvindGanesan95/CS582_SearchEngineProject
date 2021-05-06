@@ -1,0 +1,39 @@
+
+Ranking Algorithm : Cosine Similarity
+https://advance.uic.edu/alumni-association/
+https://advance.uic.edu/alumni-association/uic-alumni-board/
+https://advance.uic.edu/alumni-association/get-involved/
+https://advance.uic.edu/alumni-association/uic-traditions/
+https://engineeringalumni.uic.edu/profiles/matanky-robert/
+https://engineeringalumni.uic.edu/profiles/evans-debra/
+https://engineeringalumni.uic.edu/awards/
+https://advance.uic.edu/alumni-association/class-notes-home-page/class-notes-life-changes/
+https://advance.uic.edu/profiles/alumni-association-uic/
+https://advance.uic.edu/
+
+
+Ranking Algorithm : pagerank
+https://advance.uic.edu/alumni-association/
+https://advance.uic.edu/alumni-association/uic-alumni-board/
+https://advance.uic.edu/alumni-association/get-involved/
+https://advance.uic.edu/alumni-association/uic-traditions/
+https://engineeringalumni.uic.edu/profiles/matanky-robert/
+https://engineeringalumni.uic.edu/profiles/evans-debra/
+https://engineeringalumni.uic.edu/awards/
+https://advance.uic.edu/
+https://advance.uic.edu/alumni-association/class-notes-home-page/class-notes-life-changes/
+https://advance.uic.edu/profiles/alumni-association-uic/
+
+
+Ranking Algorithm : hits
+https://advance.uic.edu/alumni-association/
+https://advance.uic.edu/alumni-association/uic-alumni-board/
+https://engineering.uic.edu/about/alumni/
+https://engineeringalumni.uic.edu/
+https://advance.uic.edu/alumni-association/get-involved/
+https://dos.uic.edu/student-veterans-affairs/
+https://advance.uic.edu/alumni-association/uic-traditions/
+https://engineeringalumni.uic.edu/profiles/matanky-robert/
+https://engineering.uic.edu/coe-research/interdisciplinary-research/
+https://engineeringalumni.uic.edu/profiles/evans-debra/
+

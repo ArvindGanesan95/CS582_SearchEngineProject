@@ -1,0 +1,39 @@
+
+Ranking Algorithm : Cosine Similarity
+https://cs.uic.edu/undergraduate/cs-major/
+https://cs.uic.edu/news-stories/uic-aims-to-break-through-gender-gap-in-computer-science/
+https://cs.uic.edu/undergraduate/
+https://cs.uic.edu/news-stories/uic-faculty-member-dale-reed-helps-bring-computer-science-to-every-chicago-public-school-student/
+https://catalog.uic.edu/all-course-descriptions/lib/
+https://cs.uic.edu/news-stories/computer-science-department-welcomes-new-faculty-members/
+https://engineering.uic.edu/news-stories/uic-faculty-member-dale-reed-helps-bring-computer-science-to-every-chicago-public-school-student/
+https://catalog.uic.edu/all-course-descriptions/nats/
+https://catalog.uic.edu/ucat/course-descriptions/lib/
+https://catalog.uic.edu/all-course-descriptions/gamd/
+
+
+Ranking Algorithm : pagerank
+https://cs.uic.edu/undergraduate/cs-major/
+https://cs.uic.edu/news-stories/uic-aims-to-break-through-gender-gap-in-computer-science/
+https://cs.uic.edu/undergraduate/
+https://cs.uic.edu/news-stories/uic-faculty-member-dale-reed-helps-bring-computer-science-to-every-chicago-public-school-student/
+https://catalog.uic.edu/all-course-descriptions/lib/
+https://cs.uic.edu/news-stories/computer-science-department-welcomes-new-faculty-members/
+https://engineering.uic.edu/news-stories/uic-faculty-member-dale-reed-helps-bring-computer-science-to-every-chicago-public-school-student/
+https://catalog.uic.edu/all-course-descriptions/nats/
+https://catalog.uic.edu/ucat/course-descriptions/lib/
+https://catalog.uic.edu/all-course-descriptions/gamd/
+
+
+Ranking Algorithm : hits
+https://cs.uic.edu/undergraduate/cs-major/
+https://catalog.uic.edu/all-course-descriptions/lib/
+https://cs.uic.edu/undergraduate/
+https://cs.uic.edu/news-stories/uic-aims-to-break-through-gender-gap-in-computer-science/
+https://cs.uic.edu/news-stories/uic-faculty-member-dale-reed-helps-bring-computer-science-to-every-chicago-public-school-student/
+https://catalog.uic.edu/all-course-descriptions/nats/
+https://catalog.uic.edu/all-course-descriptions/gamd/
+https://catalog.uic.edu/all-course-descriptions/surg/
+https://cs.uic.edu/news-stories/computer-science-department-welcomes-new-faculty-members/
+https://catalog.uic.edu/all-course-descriptions/mhum/
+
